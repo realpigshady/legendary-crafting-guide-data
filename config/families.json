@@ -1,0 +1,21 @@
+{
+  "families": {
+    "gen2_weapon": {
+      "enabled": true,
+      "wiki_category": "Category:Second generation legendary weapons"
+    },
+    "gen1_weapon": {
+      "enabled": false,
+      "wiki_category": "Category:First generation legendary weapons"
+    },
+    "gen3_weapon": {
+      "enabled": false,
+      "wiki_category": "Category:Third generation legendary weapons"
+    },
+    "armor": {
+      "enabled": false,
+      "wiki_category": "Category:Legendary armor",
+      "_note": "Parked for a future release: single piece or 6-piece set per weight class."
+    }
+  }
+}

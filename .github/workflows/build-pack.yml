@@ -1,0 +1,63 @@
+name: build-pack
+
+on:
+  schedule:
+    - cron: '17 4 * * 3'   # weekly, Wednesday 04:17 UTC (after Tuesday game updates)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['tools/**', 'config/**', 'schema/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-pack
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Test parser
+        run: pip install pytest && pytest -q tests
+
+      - name: Restore HTTP cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: http-${{ github.run_id }}
+          restore-keys: http-
+
+      - name: Fetch previous pack
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release download latest -p pack.json -D prev || echo "no previous pack"
+
+      - name: Build pack
+        run: |
+          ARGS="--out dist"
+          [ -f prev/pack.json ] && ARGS="$ARGS --previous prev/pack.json"
+          python tools/build_pack.py $ARGS
+
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="pack-$(date -u +%Y%m%d-%H%M)"
+          gh release create "$TAG" dist/* --title "$TAG" --notes-file dist/warnings.txt
+          # Moving 'latest' release: the addon always downloads from here.
+          gh release delete latest --yes --cleanup-tag || true
+          gh release create latest dist/* --title "latest" --notes "Points to $TAG" --latest
+
+      - name: Flag new legendaries
+        if: hashFiles('dist/new_legendaries.txt') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "New legendaries detected" --body-file dist/new_legendaries.txt || true
