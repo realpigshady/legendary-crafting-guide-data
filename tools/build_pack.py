@@ -41,34 +41,70 @@ CONFIG = json.loads((ROOT / "config" / "families.json").read_text(encoding="utf-
 
 # --------------------------------------------------------------------------- http
 
+class SourceDown(Exception):
+    """Source unreachable and no snapshot to fall back on."""
+
+
 class Http:
-    def __init__(self, cache_dir: Path):
-        self.cache_dir = cache_dir
-        self.cache_dir.mkdir(parents=True, exist_ok=True)
+    """Fetch with a persistent snapshot.
+
+    Every successful response is written to the snapshot directory, which CI
+    commits back to the repo. If a source is down, the last snapshot of that
+    URL is used instead (any age) and the hit is recorded as stale.
+    """
+
+    def __init__(self, snapshot_dir: Path, offline: bool = False):
+        self.dir = snapshot_dir
+        self.dir.mkdir(parents=True, exist_ok=True)
+        self.offline = offline
         self._last = 0.0
+        self._down_hosts: set[str] = set()
+        self.stale: dict[str, int] = {}   # host -> stale hits
+        self.fresh: dict[str, int] = {}   # host -> fresh fetches
+
+    def _path(self, url: str) -> Path:
+        host = urllib.parse.urlparse(url).netloc
+        return self.dir / host / f"{hashlib.sha256(url.encode()).hexdigest()}.json"
 
     def get_json(self, url: str, max_age_h: float = 24.0):
-        key = hashlib.sha256(url.encode()).hexdigest()
-        path = self.cache_dir / f"{key}.json"
+        host = urllib.parse.urlparse(url).netloc
+        path = self._path(url)
         if path.exists() and (time.time() - path.stat().st_mtime) < max_age_h * 3600:
-            return json.loads(path.read_text(encoding="utf-8"))
+            return json.loads(path.read_text(encoding="utf-8"))["body"]
+        if not self.offline and host not in self._down_hosts:
+            try:
+                data = self._fetch(url)
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text(json.dumps({"url": url, "body": data}), encoding="utf-8")
+                self.fresh[host] = self.fresh.get(host, 0) + 1
+                return data
+            except Exception as e:  # noqa: BLE001
+                # One host failing all retries = treat as down for the rest of the run,
+                # so an outage costs one retry cycle, not one per page.
+                print(f"  {host} unreachable ({e}); using snapshots for this run", file=sys.stderr)
+                self._down_hosts.add(host)
+        if path.exists():
+            self.stale[host] = self.stale.get(host, 0) + 1
+            return json.loads(path.read_text(encoding="utf-8"))["body"]
+        raise SourceDown(f"{url}: source down and no snapshot")
+
+    def _fetch(self, url: str):
         wait = MIN_INTERVAL_S - (time.monotonic() - self._last)
         if wait > 0:
             time.sleep(wait)
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        for attempt in range(4):
-            try:
-                with urllib.request.urlopen(req, timeout=30) as r:
-                    data = json.loads(r.read().decode("utf-8"))
-                break
-            except Exception as e:  # noqa: BLE001 - retry any transport error
-                if attempt == 3:
-                    raise
-                print(f"  retry {attempt + 1} for {url}: {e}", file=sys.stderr)
-                time.sleep(2 ** attempt * 2)
-        self._last = time.monotonic()
-        path.write_text(json.dumps(data), encoding="utf-8")
-        return data
+        try:
+            for attempt in range(4):
+                try:
+                    with urllib.request.urlopen(req, timeout=30) as r:
+                        return json.loads(r.read().decode("utf-8"))
+                except Exception as e:  # noqa: BLE001 - retry any transport error
+                    if attempt == 3:
+                        raise
+                    print(f"  retry {attempt + 1} for {url}: {e}", file=sys.stderr)
+                    time.sleep(2 ** attempt * 2)
+        finally:
+            self._last = time.monotonic()
 
 
 def wiki(http: Http, **params) -> dict:
@@ -192,8 +228,8 @@ def page_wikitext(http: Http, title: str) -> str:
     return res.get("parse", {}).get("wikitext", "")
 
 
-def build(out: Path, cache: Path, limit: int | None) -> dict:
-    http = Http(cache)
+def build(out: Path, cache: Path, limit: int | None, offline: bool = False) -> dict:
+    http = Http(cache, offline=offline)
     items = legendary_items(http)
     by_name = {i["name"]: i for i in items}
 
@@ -244,7 +280,13 @@ def build(out: Path, cache: Path, limit: int | None) -> dict:
         "nodes": list(nodes.values()),
         "activities": [],  # TODO(0.6): activity catalog with wiki-seeded yields
         "all_legendary_item_ids": sorted(i["id"] for i in items),
+        # Hosts that were down this run and served from snapshot instead.
+        # The addon shows "wiki data from snapshot" when non-empty.
+        "stale_sources": sorted(http.stale),
     }
+    if http.stale:
+        warnings.insert(0, "STALE: served from snapshot for " +
+                        ", ".join(f"{h} ({n} pages)" for h, n in sorted(http.stale.items())))
     out.mkdir(parents=True, exist_ok=True)
     body = json.dumps(pack, ensure_ascii=False, separators=(",", ":"))
     (out / "pack.json").write_text(body, encoding="utf-8")
@@ -266,12 +308,18 @@ def diff_new_legendaries(prev_pack: Path, pack: dict, out: Path) -> list[int]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", type=Path, default=ROOT / "dist")
-    ap.add_argument("--cache", type=Path, default=ROOT / ".cache")
+    ap.add_argument("--snapshot", type=Path, default=ROOT / "snapshot",
+                    help="committed snapshot of every fetched response (fallback when a source is down)")
     ap.add_argument("--previous", type=Path, help="previous pack.json for new-legendary diff")
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--offline", action="store_true", help="never hit the network; snapshot only")
     args = ap.parse_args()
 
-    pack = build(args.out, args.cache, args.limit)
+    try:
+        pack = build(args.out, args.snapshot, args.limit, args.offline)
+    except SourceDown as e:
+        print(f"ABORT: {e}", file=sys.stderr)
+        return 2
     if args.previous:
         new = diff_new_legendaries(args.previous, pack, args.out)
         if new:

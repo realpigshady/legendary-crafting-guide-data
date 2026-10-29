@@ -2,7 +2,8 @@ name: build-pack
 
 on:
   schedule:
-    - cron: '17 4 * * 3'   # weekly, Wednesday 04:17 UTC (after Tuesday game updates)
+    - cron: '17 4 * * 3'   # weekly build, Wednesday 04:17 UTC (after Tuesday game updates)
+    - cron: '43 5 * * *'   # daily retry: only builds if latest pack is old or was stale
   workflow_dispatch:
   push:
     branches: [main]
@@ -10,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: build-pack
@@ -25,39 +27,57 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Test parser
+      - name: Test
         run: pip install pytest && pytest -q tests
-
-      - name: Restore HTTP cache
-        uses: actions/cache@v4
-        with:
-          path: .cache
-          key: http-${{ github.run_id }}
-          restore-keys: http-
 
       - name: Fetch previous pack
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh release download latest -p pack.json -D prev || echo "no previous pack"
 
+      - name: Decide whether to build
+        id: gate
+        run: |
+          if [ "${{ github.event.schedule }}" != "43 5 * * *" ] || [ ! -f prev/pack.json ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          python - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, datetime as dt
+          p = json.load(open("prev/pack.json"))
+          age = dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(p["generated_at"])
+          print("run=" + ("true" if p.get("stale_sources") or age.days >= 7 else "false"))
+          EOF
+
       - name: Build pack
+        if: steps.gate.outputs.run == 'true'
         run: |
           ARGS="--out dist"
           [ -f prev/pack.json ] && ARGS="$ARGS --previous prev/pack.json"
           python tools/build_pack.py $ARGS
 
+      # Keep every successful fetch, even if the build later fails, so the next
+      # run (or an outage) has the freshest possible fallback.
+      - name: Commit snapshot
+        if: always() && steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add snapshot
+          git diff --cached --quiet || { git commit -m "snapshot: $(date -u +%F)" && git push; }
+
       - name: Publish
+        if: success() && steps.gate.outputs.run == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           TAG="pack-$(date -u +%Y%m%d-%H%M)"
-          gh release create "$TAG" dist/* --title "$TAG" --notes-file dist/warnings.txt
+          gh release create "$TAG" dist/pack.json dist/pack.json.sha256 dist/warnings.txt --title "$TAG" --notes-file dist/warnings.txt
           # Moving 'latest' release: the addon always downloads from here.
           gh release delete latest --yes --cleanup-tag || true
-          gh release create latest dist/* --title "latest" --notes "Points to $TAG" --latest
+          gh release create latest dist/pack.json dist/pack.json.sha256 --title "latest" --notes "Points to $TAG" --latest
 
       - name: Flag new legendaries
-        if: hashFiles('dist/new_legendaries.txt') != ''
+        if: success() && hashFiles('dist/new_legendaries.txt') != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue create --title "New legendaries detected" --body-file dist/new_legendaries.txt || true

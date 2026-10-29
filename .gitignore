@@ -3,3 +3,4 @@ prev/
 .cache/
 __pycache__/
 .pytest_cache/
+# snapshot/ is committed on purpose: fallback when the wiki or API is down
