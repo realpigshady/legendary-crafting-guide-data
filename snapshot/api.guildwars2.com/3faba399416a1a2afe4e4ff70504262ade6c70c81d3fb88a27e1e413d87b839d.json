@@ -1,1 +1,446 @@
-{"url": "https://api.guildwars2.com/v2/items?ids=74155,97165,101582,105317,105171,105293", "body": [{"name": "Ad Infinitum", "type": "Back", "level": 80, "rarity": "Legendary", "vendor_value": 100000, "default_skin": 6344, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["HideSuffix", "AccountBound", "NoSalvage", "NoSell", "NotUpgradeable", "Unique", "DeleteWarning", "AccountBindOnUse"], "restrictions": [], "id": 74155, "chat_link": "[&AgGrIQEA]", "icon": "https://render.guildwars2.com/file/562A009CE8D66B63B975251BC97041BFBE0E07E1/1202351.png", "details": {"infusion_slots": [{"flags": ["Infusion"]}, {"flags": ["Infusion"]}], "attribute_adjustment": 89.628, "stat_choices": [584, 656, 658, 1119, 657, 1038, 1097, 659, 690, 583, 585, 1037, 586, 1035, 588, 1114, 1128, 1163, 1066, 1064, 660, 1430, 1436, 591, 581, 592, 1145, 1098, 1134, 1162, 1115, 1130, 1139, 1125, 1220, 1329, 1345, 1337, 1486, 1538, 1697, 1694, 1827], "secondary_suffix_item_id": ""}}, {"name": "Aurene's Gaze", "type": "Weapon", "level": 80, "rarity": "Legendary", "vendor_value": 660, "default_skin": 10464, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["HideSuffix", "NoSell", "DeleteWarning", "AccountBindOnUse"], "restrictions": [], "id": 97165, "chat_link": "[&AgGNewEA]", "icon": "https://render.guildwars2.com/file/3FFD5043BAB5710341A166C900BED8D47409600F/2594769.png", "details": {"type": "Focus", "damage_type": "Physical", "min_power": 873, "max_power": 927, "defense": 0, "infusion_slots": [{"flags": ["Infusion"]}], "attribute_adjustment": 358.512, "stat_choices": [161, 155, 159, 157, 158, 160, 153, 605, 700, 616, 154, 156, 162, 686, 559, 754, 753, 799, 1026, 1067, 628, 1032, 1111, 1109, 1123, 1140, 1085, 1153, 1118, 1131, 1222, 1344, 1363, 1364, 1559, 1556, 1681, 1686, 1826], "secondary_suffix_item_id": ""}}, {"name": "Legendary Relic", "description": "Unused Relic Effect Slot", "type": "Relic", "level": 80, "rarity": "Legendary", "vendor_value": 640, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["AccountBound", "NoSalvage", "NoSell", "AccountBindOnUse", "DeleteWarning"], "restrictions": [], "id": 101582, "chat_link": "[&AgHOjAEA]", "icon": "https://render.guildwars2.com/file/08DED07BF6DF37E69A08D1C49D9C45D81BD8A5CA/3255567.png"}, {"name": "Eikasia, Mists-Grasper", "description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>", "type": "Armor", "level": 80, "rarity": "Legendary", "vendor_value": 594, "default_skin": 13224, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["HideSuffix", "AccountBound", "NoSalvage", "NoSell", "DeleteWarning", "AccountBindOnUse"], "restrictions": [], "id": 105317, "chat_link": "[&AgFlmwEA]", "icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png", "details": {"type": "Gloves", "weight_class": "Light", "defense": 140, "infusion_slots": [{"flags": ["Infusion"]}], "attribute_adjustment": 134.442, "stat_choices": [161, 155, 159, 157, 158, 160, 153, 605, 700, 616, 154, 156, 162, 686, 559, 754, 753, 799, 1026, 1067, 628, 1032, 1111, 1109, 1123, 1140, 1085, 1153, 1118, 1131, 1222, 1344, 1363, 1364, 1559, 1556, 1681, 1686, 1826], "secondary_suffix_item_id": ""}}, {"name": "Eikasia, Mists-Grasper", "description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>", "type": "Armor", "level": 80, "rarity": "Legendary", "vendor_value": 594, "default_skin": 13230, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["HideSuffix", "AccountBound", "NoSalvage", "NoSell", "DeleteWarning", "AccountBindOnUse"], "restrictions": [], "id": 105171, "chat_link": "[&AgHTmgEA]", "icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png", "details": {"type": "Gloves", "weight_class": "Heavy", "defense": 191, "infusion_slots": [{"flags": ["Infusion"]}], "attribute_adjustment": 134.442, "stat_choices": [161, 155, 159, 157, 158, 160, 153, 605, 700, 616, 154, 156, 162, 686, 559, 754, 753, 799, 1026, 1067, 628, 1032, 1111, 1109, 1123, 1140, 1085, 1153, 1118, 1131, 1222, 1344, 1363, 1364, 1559, 1556, 1681, 1686, 1826], "secondary_suffix_item_id": ""}}, {"name": "Eikasia, Mists-Grasper", "description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>", "type": "Armor", "level": 80, "rarity": "Legendary", "vendor_value": 594, "default_skin": 13222, "game_types": ["Activity", "Wvw", "Dungeon", "Pve"], "flags": ["HideSuffix", "AccountBound", "NoSalvage", "NoSell", "DeleteWarning", "AccountBindOnUse"], "restrictions": [], "id": 105293, "chat_link": "[&AgFNmwEA]", "icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png", "details": {"type": "Gloves", "weight_class": "Medium", "defense": 165, "infusion_slots": [{"flags": ["Infusion"]}], "attribute_adjustment": 134.442, "stat_choices": [161, 155, 159, 157, 158, 160, 153, 605, 700, 616, 154, 156, 162, 686, 559, 754, 753, 799, 1026, 1067, 628, 1032, 1111, 1109, 1123, 1140, 1085, 1153, 1118, 1131, 1222, 1344, 1363, 1364, 1559, 1556, 1681, 1686, 1826], "secondary_suffix_item_id": ""}}]}
+{
+"body": [
+{
+"chat_link": "[&AgGrIQEA]",
+"default_skin": 6344,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/562A009CE8D66B63B975251BC97041BFBE0E07E1/1202351.png",
+"id": 74155,
+"level": 80,
+"name": "Ad Infinitum",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGNewEA]",
+"default_skin": 10464,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3FFD5043BAB5710341A166C900BED8D47409600F/2594769.png",
+"id": 97165,
+"level": 80,
+"name": "Aurene's Gaze",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgHOjAEA]",
+"description": "Unused Relic Effect Slot",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DED07BF6DF37E69A08D1C49D9C45D81BD8A5CA/3255567.png",
+"id": 101582,
+"level": 80,
+"name": "Legendary Relic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Relic",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFlmwEA]",
+"default_skin": 13224,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 140,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105317,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+},
+{
+"chat_link": "[&AgHTmgEA]",
+"default_skin": 13230,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 191,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105171,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+},
+{
+"chat_link": "[&AgFNmwEA]",
+"default_skin": 13222,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 165,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105293,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=74155,97165,101582,105317,105171,105293"
+}
