@@ -51,6 +51,11 @@ class Http:
     Every successful response is written to the snapshot directory, which CI
     commits back to the repo. If a source is down, the last snapshot of that
     URL is used instead (any age) and the hit is recorded as stale.
+
+    Size discipline: page files hold only the response, serialised
+    deterministically and rewritten only when content changes, so git stores a
+    new blob only for pages that actually changed. Fetch times live in one
+    small index.json (file mtimes are useless: git checkout resets them).
     """
 
     def __init__(self, snapshot_dir: Path, offline: bool = False):
@@ -61,21 +66,34 @@ class Http:
         self._down_hosts: set[str] = set()
         self.stale: dict[str, int] = {}   # host -> stale hits
         self.fresh: dict[str, int] = {}   # host -> fresh fetches
+        self._index_path = self.dir / "index.json"
+        self.index: dict[str, float] = (
+            json.loads(self._index_path.read_text(encoding="utf-8")) if self._index_path.exists() else {})
+        self._used: set[str] = set()
 
     def _path(self, url: str) -> Path:
         host = urllib.parse.urlparse(url).netloc
         return self.dir / host / f"{hashlib.sha256(url.encode()).hexdigest()}.json"
 
+    def _key(self, path: Path) -> str:
+        return path.relative_to(self.dir).as_posix()
+
     def get_json(self, url: str, max_age_h: float = 24.0):
         host = urllib.parse.urlparse(url).netloc
         path = self._path(url)
-        if path.exists() and (time.time() - path.stat().st_mtime) < max_age_h * 3600:
+        key = self._key(path)
+        self._used.add(key)
+        fetched_at = self.index.get(key, 0.0)
+        if path.exists() and (time.time() - fetched_at) < max_age_h * 3600:
             return json.loads(path.read_text(encoding="utf-8"))["body"]
         if not self.offline and host not in self._down_hosts:
             try:
                 data = self._fetch(url)
                 path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text(json.dumps({"url": url, "body": data}), encoding="utf-8")
+                text = json.dumps({"url": url, "body": data}, sort_keys=True, ensure_ascii=False, indent=0)
+                if not path.exists() or path.read_text(encoding="utf-8") != text:
+                    path.write_text(text, encoding="utf-8")
+                self.index[key] = time.time()
                 self.fresh[host] = self.fresh.get(host, 0) + 1
                 return data
             except Exception as e:  # noqa: BLE001
@@ -87,6 +105,26 @@ class Http:
             self.stale[host] = self.stale.get(host, 0) + 1
             return json.loads(path.read_text(encoding="utf-8"))["body"]
         raise SourceDown(f"{url}: source down and no snapshot")
+
+    def save_index(self):
+        lines = [f"{json.dumps(k)}:{round(v)}" for k, v in sorted(self.index.items())]
+        self._index_path.write_text("{\n" + ",\n".join(lines) + "\n}\n", encoding="utf-8")
+
+    def prune(self) -> int:
+        """Delete snapshot pages this full run did not use. Skipped during outages,
+        so a partial run never throws away fallback copies."""
+        if self._down_hosts or self.offline:
+            return 0
+        removed = 0
+        for p in self.dir.rglob("*.json"):
+            if p == self._index_path:
+                continue
+            key = self._key(p)
+            if key not in self._used:
+                p.unlink()
+                self.index.pop(key, None)
+                removed += 1
+        return removed
 
     def _fetch(self, url: str):
         wait = MIN_INTERVAL_S - (time.monotonic() - self._last)
@@ -230,6 +268,14 @@ def page_wikitext(http: Http, title: str) -> str:
 
 def build(out: Path, cache: Path, limit: int | None, offline: bool = False) -> dict:
     http = Http(cache, offline=offline)
+    try:
+        return _build(http, out, limit)
+    finally:
+        # Persist fetch times even if the build aborts, so successful fetches count.
+        http.save_index()
+
+
+def _build(http: Http, out: Path, limit: int | None) -> dict:
     items = legendary_items(http)
     by_name = {i["name"]: i for i in items}
 
@@ -287,6 +333,10 @@ def build(out: Path, cache: Path, limit: int | None, offline: bool = False) -> d
     if http.stale:
         warnings.insert(0, "STALE: served from snapshot for " +
                         ", ".join(f"{h} ({n} pages)" for h, n in sorted(http.stale.items())))
+    if limit is None:
+        removed = http.prune()
+        if removed:
+            print(f"pruned {removed} unused snapshot pages")
     out.mkdir(parents=True, exist_ok=True)
     body = json.dumps(pack, ensure_ascii=False, separators=(",", ":"))
     (out / "pack.json").write_text(body, encoding="utf-8")
