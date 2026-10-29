@@ -29,6 +29,7 @@ python tools/build_pack.py --out dist --limit 3
 ## Layout
 
 ```
+docs/WIKI_DATA_INVENTORY.md  what is cached from the wiki and how big it gets
 config/families.json   legendary families → wiki category (only gen2_weapon enabled)
 schema/pack.schema.json pack format v1
 tools/build_pack.py    generator
