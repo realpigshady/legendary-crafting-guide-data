@@ -3,23 +3,69 @@
   "$id": "https://github.com/realpigshady/legendary-crafting-guide-data/schema/pack.schema.json",
   "title": "Legendary Crafting Guide data pack",
   "type": "object",
-  "required": ["format_version", "generated_at", "legendaries", "nodes", "activities"],
+  "required": [
+    "format_version",
+    "generated_at",
+    "legendaries",
+    "nodes",
+    "activities"
+  ],
   "properties": {
-    "format_version": { "const": 1 },
-    "generated_at": { "type": "string", "format": "date-time" },
-    "all_legendary_item_ids": { "type": "array", "items": { "type": "integer" } },
+    "format_version": {
+      "const": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "all_legendary_item_ids": {
+      "type": "array",
+      "items": {
+        "type": "integer"
+      }
+    },
     "legendaries": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "family", "name", "item_id", "root_node_id"],
+        "required": [
+          "id",
+          "family",
+          "name",
+          "item_id",
+          "root_node_id"
+        ],
         "properties": {
-          "id": { "type": "string" },
-          "family": { "enum": ["gen1_weapon", "gen2_weapon", "gen3_weapon", "armor", "trinket", "back", "upgrade", "relic"] },
-          "name": { "type": "string" },
-          "item_id": { "type": "integer" },
-          "root_node_id": { "type": "string" },
-          "weapon_type": { "type": ["string", "null"] }
+          "id": {
+            "type": "string"
+          },
+          "family": {
+            "enum": [
+              "gen1_weapon",
+              "gen2_weapon",
+              "gen3_weapon",
+              "armor",
+              "trinket",
+              "back",
+              "upgrade",
+              "relic"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "item_id": {
+            "type": "integer"
+          },
+          "root_node_id": {
+            "type": "string"
+          },
+          "weapon_type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
         }
       }
     },
@@ -27,52 +73,164 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "type", "name", "sources"],
+        "required": [
+          "id",
+          "type",
+          "name",
+          "sources"
+        ],
         "properties": {
-          "id": { "type": "string" },
-          "type": { "enum": ["craft", "forge", "collection", "achievement", "currency", "vendor", "drop"] },
-          "name": { "type": "string" },
-          "item_id": { "type": ["integer", "null"] },
-          "achievement_id": { "type": ["integer", "null"] },
-          "currency_id": { "type": ["integer", "null"] },
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "enum": [
+              "craft",
+              "forge",
+              "collection",
+              "achievement",
+              "currency",
+              "vendor",
+              "drop"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "item_id": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "achievement_id": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "currency_id": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
           "sources": {
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["kind", "inputs"],
+              "required": [
+                "kind",
+                "inputs"
+              ],
               "properties": {
-                "kind": { "enum": ["trading_post", "vendor", "craft", "mystic_forge", "activity", "reward", "other"] },
+                "kind": {
+                  "enum": [
+                    "trading_post",
+                    "vendor",
+                    "craft",
+                    "mystic_forge",
+                    "activity",
+                    "reward",
+                    "other"
+                  ]
+                },
                 "inputs": {
                   "type": "array",
                   "items": {
                     "type": "object",
-                    "required": ["count"],
+                    "required": [
+                      "count"
+                    ],
                     "properties": {
-                      "node_id": { "type": "string" },
-                      "name": { "type": "string" },
-                      "count": { "type": "integer", "minimum": 1 }
+                      "node_id": {
+                        "type": "string"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "count": {
+                        "type": "integer",
+                        "minimum": 1
+                      }
                     }
                   }
                 },
-                "output_count": { "type": "integer", "minimum": 1 },
-                "daily_cap": { "type": ["integer", "null"] },
-                "weekly_cap": { "type": ["integer", "null"] },
-                "activity_id": { "type": ["string", "null"] },
-                "disciplines": { "type": "array", "items": { "type": "string" } },
-                "recipe_id": { "type": ["string", "null"] },
-                "achievement_id": { "type": ["integer", "null"], "description": "reward: the achievement/collection that gives it" },
-                "steps": { "type": "integer", "minimum": 0, "description": "reward: step count when known (else from the API)" },
-                "step_minutes": { "type": "number", "minimum": 0, "description": "reward: minutes per step (0/absent = default estimate)" }
+                "output_count": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "daily_cap": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "weekly_cap": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "activity_id": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "disciplines": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "recipe_id": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "achievement_id": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ],
+                  "description": "reward: the achievement/collection that gives it"
+                },
+                "steps": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "reward: step count when known (else from the API)"
+                },
+                "step_minutes": {
+                  "type": "number",
+                  "minimum": 0,
+                  "description": "reward: minutes per step (0/absent = default estimate)"
+                }
               }
             }
           },
           "guidance": {
             "type": "object",
             "properties": {
-              "text": { "type": "string" },
-              "wiki_url": { "type": "string" },
-              "waypoint_chat_code": { "type": ["string", "null"] },
-              "waypoint_name": { "type": ["string", "null"] }
+              "text": {
+                "type": "string"
+              },
+              "wiki_url": {
+                "type": "string"
+              },
+              "waypoint_chat_code": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "waypoint_name": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
             }
           }
         }
@@ -82,16 +240,55 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "name", "mode", "expansion"],
+        "required": [
+          "id",
+          "name",
+          "mode",
+          "expansion"
+        ],
         "properties": {
-          "id": { "type": "string" },
-          "name": { "type": "string" },
-          "mode": { "enum": ["pve", "pvp", "wvw"] },
-          "expansion": { "type": "string" },
-          "est_minutes": { "type": "number" },
-          "map_ids": { "type": "array", "items": { "type": "integer" }, "description": "Maps the activity happens on; the addon matches DRF loot sessions by map." },
-          "yields": { "type": "array" },
-          "guidance": { "type": "object" }
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "mode": {
+            "enum": [
+              "pve",
+              "pvp",
+              "wvw"
+            ]
+          },
+          "expansion": {
+            "type": "string"
+          },
+          "est_minutes": {
+            "type": "number"
+          },
+          "map_ids": {
+            "type": "array",
+            "items": {
+              "type": "integer"
+            },
+            "description": "Maps the activity happens on; the addon matches DRF loot sessions by map."
+          },
+          "yields": {
+            "type": "array"
+          },
+          "guidance": {
+            "type": "object"
+          },
+          "max_runs_per_day": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "runs that count per play day (daily fractals, hero's choice chests)"
+          },
+          "max_runs_per_week": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "runs that count per week (raid wings)"
+          }
         }
       }
     }

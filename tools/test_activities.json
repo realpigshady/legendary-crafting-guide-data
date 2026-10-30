@@ -21,7 +21,8 @@
    "map_names": [],
    "map_ids": [
     872
-   ]
+   ],
+   "max_runs_per_day": 1
   },
   {
    "id": "strikes",
@@ -42,7 +43,8 @@
    "timer": null,
    "map_names": [
     "Eye of the North"
-   ]
+   ],
+   "max_runs_per_day": 1
   },
   {
    "id": "raid_wing",
@@ -67,7 +69,8 @@
    "timer": null,
    "map_names": [
     "Spirit Vale"
-   ]
+   ],
+   "max_runs_per_week": 1
   },
   {
    "id": "world_bosses",
@@ -86,7 +89,8 @@
     }
    ],
    "timer": "World Bosses",
-   "map_names": []
+   "map_names": [],
+   "max_runs_per_day": 1
   },
   {
    "id": "verdant_brink",
@@ -107,7 +111,8 @@
    "timer": "Verdant Brink",
    "map_names": [
     "Verdant Brink"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "auric_basin",
@@ -128,7 +133,8 @@
    "timer": "Auric Basin",
    "map_names": [
     "Auric Basin"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "tangled_depths",
@@ -149,7 +155,8 @@
    "timer": "Tangled Depths",
    "map_names": [
     "Tangled Depths"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "dragons_stand",
@@ -178,7 +185,8 @@
    "timer": "Dragon's Stand",
    "map_names": [
     "Dragon's Stand"
-   ]
+   ],
+   "max_runs_per_day": 1
   },
   {
    "id": "dry_top",
@@ -195,7 +203,8 @@
    "timer": "Dry Top",
    "map_names": [
     "Dry Top"
-   ]
+   ],
+   "max_runs_per_day": 3
   },
   {
    "id": "elon_riverlands",
@@ -216,7 +225,8 @@
    "timer": "Elon Riverlands",
    "map_names": [
     "Elon Riverlands"
-   ]
+   ],
+   "max_runs_per_day": 3
   },
   {
    "id": "dragonfall",
@@ -233,7 +243,8 @@
    "timer": null,
    "map_names": [
     "Dragonfall"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "domain_of_istan",
@@ -250,7 +261,8 @@
    "timer": "Domain of Istan",
    "map_names": [
     "Domain of Istan"
-   ]
+   ],
+   "max_runs_per_day": 3
   },
   {
    "id": "dragons_end",
@@ -271,7 +283,8 @@
    "timer": "Dragon's End",
    "map_names": [
     "Dragon's End"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "rift_hunting",
@@ -313,7 +326,8 @@
    "timer": "Janthir Syntri",
    "map_names": [
     "Janthir Syntri"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "shipwreck_strand",
@@ -334,7 +348,8 @@
    "timer": "Shipwreck Strand",
    "map_names": [
     "Shipwreck Strand"
-   ]
+   ],
+   "max_runs_per_day": 2
   },
   {
    "id": "dungeon_path",
