@@ -1,0 +1,29 @@
+name: build local test pack (testing only)
+# Builds a LOCAL test pack from the interim gw2.app export. Output on the gw2app-testpack
+# branch only; never attached to a release and never the "latest" pack.
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          mkdir -p export world
+          git fetch -q origin gw2app-export gw2app-world
+          git show origin/gw2app-export:export/gw2app.json > export/gw2app.json
+          git show origin/gw2app-world:world/world.json > world/world.json
+      - run: python tools/gw2app_to_pack.py --export export/gw2app.json --world world/world.json --sample tools/test_activities.json --out testpack/pack.json
+      - env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          out="$RUNNER_TEMP/save"; rm -rf "$out"; mkdir -p "$out"; cp -r testpack "$out/"; cd "$out"
+          git init -q -b gw2app-testpack
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add testpack && git commit -qm "local test pack (gw2.app interim export)"
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gw2app-testpack

@@ -1,0 +1,86 @@
+{
+ "_note": "Placeholder activities for LOCAL test packs only (same as the addon's sample pack).",
+ "activities": [
+  {
+   "id": "t4_fractals",
+   "name": "T4 Daily Fractals",
+   "mode": "pve",
+   "expansion": "core",
+   "map_ids": [
+    872
+   ],
+   "est_minutes": 45,
+   "yields": [
+    {
+     "node_id": "item:19675",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "dragonfall",
+   "name": "Dragonfall Meta",
+   "mode": "pve",
+   "expansion": "pof",
+   "map_ids": [
+    1210
+   ],
+   "est_minutes": 35,
+   "yields": [
+    {
+     "node_id": "currency:45",
+     "count": 120
+    }
+   ]
+  },
+  {
+   "id": "strikes",
+   "name": "Daily Strike Missions",
+   "mode": "pve",
+   "expansion": "eod",
+   "map_ids": [
+    1370
+   ],
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "item:19721",
+     "count": 9
+    }
+   ]
+  },
+  {
+   "id": "wvw_camps",
+   "name": "WvW Roaming & Camps",
+   "mode": "wvw",
+   "expansion": "core",
+   "map_ids": [
+    38,
+    95,
+    96,
+    1099,
+    968
+   ],
+   "est_minutes": 40,
+   "yields": [
+    {
+     "node_id": "track",
+     "count": 30
+    }
+   ]
+  },
+  {
+   "id": "precursor_collection",
+   "name": "Precursor collection items",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 59,
+   "yields": [
+    {
+     "node_id": "raven_items",
+     "count": 1
+    }
+   ]
+  }
+ ]
+}
