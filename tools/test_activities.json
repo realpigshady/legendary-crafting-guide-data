@@ -1,5 +1,5 @@
 {
- "_note": "TESTING ONLY catalog for LOCAL test packs while the wiki is down. Names, maps (resolved from the official API by name) and waypoints (gw2.app timers) are real; est_minutes and yields are GUESSES until wiki/DRF data. Never published.",
+ "_note": "TESTING ONLY catalog for LOCAL test packs while the wiki is down. Names, maps (resolved from the official API by name) and waypoints (gw2.app timers) are real; est_minutes, yields and gold_per_run (copper, coin + loot) are GUESSES until wiki/DRF data. Never published.",
  "activities": [
   {
    "id": "t4_fractals",
@@ -22,7 +22,8 @@
    "map_ids": [
     872
    ],
-   "max_runs_per_day": 1
+   "max_runs_per_day": 1,
+   "gold_per_run": 200000
   },
   {
    "id": "strikes",
@@ -44,7 +45,8 @@
    "map_names": [
     "Eye of the North"
    ],
-   "max_runs_per_day": 1
+   "max_runs_per_day": 1,
+   "gold_per_run": 80000
   },
   {
    "id": "raid_wing",
@@ -70,7 +72,8 @@
    "map_names": [
     "Spirit Vale"
    ],
-   "max_runs_per_week": 1
+   "max_runs_per_week": 1,
+   "gold_per_run": 300000
   },
   {
    "id": "world_bosses",
@@ -90,7 +93,8 @@
    ],
    "timer": "World Bosses",
    "map_names": [],
-   "max_runs_per_day": 1
+   "max_runs_per_day": 1,
+   "gold_per_run": 200000
   },
   {
    "id": "verdant_brink",
@@ -112,7 +116,8 @@
    "map_names": [
     "Verdant Brink"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 80000
   },
   {
    "id": "auric_basin",
@@ -134,7 +139,8 @@
    "map_names": [
     "Auric Basin"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 80000
   },
   {
    "id": "tangled_depths",
@@ -156,7 +162,8 @@
    "map_names": [
     "Tangled Depths"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 80000
   },
   {
    "id": "dragons_stand",
@@ -186,7 +193,8 @@
    "map_names": [
     "Dragon's Stand"
    ],
-   "max_runs_per_day": 1
+   "max_runs_per_day": 1,
+   "gold_per_run": 150000
   },
   {
    "id": "dry_top",
@@ -204,7 +212,8 @@
    "map_names": [
     "Dry Top"
    ],
-   "max_runs_per_day": 3
+   "max_runs_per_day": 3,
+   "gold_per_run": 30000
   },
   {
    "id": "elon_riverlands",
@@ -226,7 +235,8 @@
    "map_names": [
     "Elon Riverlands"
    ],
-   "max_runs_per_day": 3
+   "max_runs_per_day": 3,
+   "gold_per_run": 50000
   },
   {
    "id": "dragonfall",
@@ -244,7 +254,8 @@
    "map_names": [
     "Dragonfall"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 120000
   },
   {
    "id": "domain_of_istan",
@@ -262,7 +273,8 @@
    "map_names": [
     "Domain of Istan"
    ],
-   "max_runs_per_day": 3
+   "max_runs_per_day": 3,
+   "gold_per_run": 100000
   },
   {
    "id": "dragons_end",
@@ -284,7 +296,8 @@
    "map_names": [
     "Dragon's End"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 100000
   },
   {
    "id": "rift_hunting",
@@ -309,7 +322,8 @@
    "timer": "Skywatch Archipelago",
    "map_names": [
     "Skywatch Archipelago"
-   ]
+   ],
+   "gold_per_run": 80000
   },
   {
    "id": "janthir_syntri",
@@ -327,7 +341,8 @@
    "map_names": [
     "Janthir Syntri"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
   },
   {
    "id": "shipwreck_strand",
@@ -349,7 +364,8 @@
    "map_names": [
     "Shipwreck Strand"
    ],
-   "max_runs_per_day": 2
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
   },
   {
    "id": "dungeon_path",
@@ -366,7 +382,8 @@
    "timer": null,
    "map_names": [
     "Ascalonian Catacombs"
-   ]
+   ],
+   "gold_per_run": 30000
   },
   {
    "id": "wvw_skirmish",
@@ -398,7 +415,8 @@
     96,
     1099,
     968
-   ]
+   ],
+   "gold_per_run": 100000
   },
   {
    "id": "pvp_ranked",
@@ -423,7 +441,62 @@
    "timer": null,
    "map_names": [
     "Heart of the Mists"
-   ]
+   ],
+   "gold_per_run": 80000
+  },
+  {
+   "id": "silverwastes",
+   "name": "Silverwastes RIBA Train",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 60,
+   "yields": [],
+   "timer": null,
+   "map_names": [
+    "The Silverwastes"
+   ],
+   "gold_per_run": 150000
+  },
+  {
+   "id": "drizzlewood",
+   "name": "Drizzlewood Coast Meta",
+   "mode": "pve",
+   "expansion": "core",
+   "est_minutes": 60,
+   "yields": [],
+   "timer": null,
+   "map_names": [
+    "Drizzlewood Coast"
+   ],
+   "gold_per_run": 180000,
+   "max_runs_per_day": 1
+  },
+  {
+   "id": "convergences",
+   "name": "Convergences",
+   "mode": "pve",
+   "expansion": "soto",
+   "est_minutes": 25,
+   "yields": [],
+   "timer": "Convergences",
+   "map_names": [
+    "Mount Balrior",
+    "Outer Nayos"
+   ],
+   "gold_per_run": 100000,
+   "max_runs_per_day": 3
+  },
+  {
+   "id": "wizards_vault",
+   "name": "Wizard's Vault Dailies",
+   "mode": "pve",
+   "expansion": "core",
+   "est_minutes": 20,
+   "yields": [],
+   "timer": null,
+   "map_names": [],
+   "gold_per_run": 60000,
+   "max_runs_per_day": 1
   }
  ]
 }

@@ -179,7 +179,7 @@ def main() -> None:
             if t and t.get("waypoint"):
                 act["guidance"] = {"waypoint_chat_code": t["waypoint"], "waypoint_name": t["name"],
                                    "text": f"{t['group']}: every {t['interval_min']} min" if t.get("interval_min") else t["group"]}
-            if ys:
+            if ys or act.get("gold_per_run"):   # gold-only activities stay: they earn what the plan buys
                 act = dict(act, yields=ys)
                 activities.append(act)
                 for y in ys:

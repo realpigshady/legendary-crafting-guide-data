@@ -288,6 +288,11 @@
             "type": "integer",
             "minimum": 1,
             "description": "runs that count per week (raid wings)"
+          },
+          "gold_per_run": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "copper a run earns (coin + loot value)"
           }
         }
       }
