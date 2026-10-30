@@ -1,0 +1,26 @@
+name: export gw2.app world (one-off, testing only)
+# Timers + daily metas from gw2.app (2 pages) and official-API achievement details for the
+# achievements the legendary export links to. Output on the gw2app-world branch; never released.
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  world:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: git fetch origin gw2app-export && git checkout origin/gw2app-export -- export || echo "no legendary export yet"
+      - run: cd tools && python export_gw2app_world.py --out ../world --export ../export/gw2app.json
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp -r world /tmp/world
+          git checkout --orphan gw2app-world-new
+          git rm -rq --cached .
+          rm -rf world && cp -r /tmp/world world
+          git add -f world
+          git commit -qm "gw2.app world export"
+          git push -f origin gw2app-world-new:gw2app-world
