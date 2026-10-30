@@ -104,7 +104,8 @@ def main() -> None:
                     node["sources"].append({"kind": "craft", "output_count": max(1, r.get("output_item_count", 1)),
                                             "disciplines": r.get("disciplines", []), "inputs": ins})
             elif m := re.fullmatch(r"/achievements/(\d+)", h):
-                node["sources"].append({"kind": "reward", "inputs": []})   # TEST: achievement reward modelled as free
+                # time comes from the achievement's steps (player progress / API), never free
+                node["sources"].append({"kind": "reward", "inputs": [], "achievement_id": int(m.group(1))})
         # an item never gets two identical sources
         seen, uniq = set(), []
         for s in node["sources"]:
@@ -165,7 +166,7 @@ def main() -> None:
     pack = {"format_version": 1, "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
             "sample": True,
             "_note": "LOCAL TEST PACK built from an interim gw2.app export while the GW2 wiki is down. Never published. "
-                     "Achievement rewards are modelled as free; daily-craft caps are missing.",
+                     "Achievement rewards are timed from their steps (15 min each, estimated); daily-craft caps are missing.",
             "legendaries": legendaries, "nodes": list(nodes.values()), "activities": activities}
     if a.world and a.world.exists():
         pack["_timers"] = json.loads(a.world.read_text()).get("timers", [])

@@ -59,7 +59,10 @@
                 "weekly_cap": { "type": ["integer", "null"] },
                 "activity_id": { "type": ["string", "null"] },
                 "disciplines": { "type": "array", "items": { "type": "string" } },
-                "recipe_id": { "type": ["string", "null"] }
+                "recipe_id": { "type": ["string", "null"] },
+                "achievement_id": { "type": ["integer", "null"], "description": "reward: the achievement/collection that gives it" },
+                "steps": { "type": "integer", "minimum": 0, "description": "reward: step count when known (else from the API)" },
+                "step_minutes": { "type": "number", "minimum": 0, "description": "reward: minutes per step (0/absent = default estimate)" }
               }
             }
           },
