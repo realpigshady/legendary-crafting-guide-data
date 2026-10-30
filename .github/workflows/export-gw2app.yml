@@ -1,0 +1,33 @@
+name: export gw2.app (one-off, interim)
+# Interim legendary-tree export while the GW2 wiki is down. Resumable: each run continues
+# from export/state.json on the gw2app-export branch. Polite: 1 page / 3 s, pages only.
+on: workflow_dispatch
+permissions:
+  contents: write
+concurrency:
+  group: export-gw2app
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Restore progress
+        run: |
+          git fetch origin gw2app-export && git checkout origin/gw2app-export -- export || echo "fresh start"
+      - run: python tools/export_gw2app.py --out export --max-pages 4500
+      - name: Save progress
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cp -r export /tmp/export
+          git checkout --orphan gw2app-export-new
+          git rm -rq --cached .
+          rm -rf export && cp -r /tmp/export export
+          git add -f export
+          git commit -qm "gw2.app export progress"
+          git push -f origin gw2app-export-new:gw2app-export
