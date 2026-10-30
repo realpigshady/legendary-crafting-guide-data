@@ -1,25 +1,41 @@
-"""One-off probe: fetch a few gw2.app pages (robots.txt allows everything except /api/ and
-/preview/) so the page structure can be inspected before writing the real exporter.
+"""One-off probe: fetch sample gw2.app pages of each content type (robots.txt allows everything
+except /api/ and /preview/) so the page structure can be inspected before extending the
+interim TESTING-ONLY exporter.
 
     python tools/probe_gw2app.py --out probe
 """
 import argparse
+import re
 import time
 import urllib.request
 from pathlib import Path
 
-UA = "LegendaryCraftingGuide-databuilder/0.1 (one-off interim export while the GW2 wiki is down; github.com/realpigshady)"
-PAGES = [
-    "/robots.txt",
-    "/recipes/mystic/997",      # Nevermore
-    "/recipes/mystic/1064",     # Mystic Tribute
-    "/items/71383",             # Nevermore
-    "/items/71820",             # Mystic Tribute
-    "/items/74300",             # Gift of Nevermore
-    "/items/74068",             # The Raven Staff (precursor)
-    "/sitemap-en-mysticforgerecipe.xml",
-    "/sitemap-en-timer.xml",
+UA = "LegendaryCraftingGuide-databuilder/0.1 (one-off interim test export while the GW2 wiki is down; github.com/realpigshady)"
+FIXED = [
+    "/sitemap.xml",
+    "/items/19925",   # Obsidian Shard (vendor)
+    "/items/19675",   # Mystic Clover
+    "/items/19976",   # Mystic Coin
+    "/items/74356",   # sample precursor component
+    "/achievements/2550",
+    "/timers",
+    "/maps",
+    "/wizards-vault",
 ]
+TYPES = ["timer", "mapchest", "location", "currency", "achievement", "map", "dungeon", "raid", "cat", "recipe"]
+
+
+def fetch(p: str) -> bytes | None:
+    if p.startswith(("/api/", "/preview/")):
+        return None
+    time.sleep(3)
+    try:
+        req = urllib.request.Request("https://gw2.app" + p, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.read()
+    except Exception as e:  # noqa: BLE001 - probe only
+        print(p, "ERROR", e)
+        return None
 
 
 def main() -> None:
@@ -27,19 +43,24 @@ def main() -> None:
     ap.add_argument("--out", type=Path, default=Path("probe"))
     a = ap.parse_args()
     a.out.mkdir(parents=True, exist_ok=True)
-    for p in PAGES:
-        if p.startswith(("/api/", "/preview/")):
-            continue  # disallowed by robots.txt
-        req = urllib.request.Request("https://gw2.app" + p, headers={"User-Agent": UA})
-        name = p.strip("/").replace("/", "_") or "index"
-        try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                (a.out / name).write_bytes(r.read())
-                print(p, r.status)
-        except Exception as e:  # noqa: BLE001 - probe only, record and continue
-            (a.out / (name + ".error")).write_text(str(e))
-            print(p, "ERROR", e)
-        time.sleep(3)  # polite: well under one request per second
+    pages = list(FIXED)
+    index = fetch("/sitemap.xml") or b""
+    (a.out / "sitemap.xml").write_bytes(index)
+    maps = re.findall(r"<loc>https://gw2\.app(/sitemap-en-[^<]+)</loc>", index.decode("utf-8", "replace"))
+    for t in TYPES:
+        sm = next((m for m in maps if re.match(rf"/sitemap-en-{t}(-\d+)?\.xml$", m)), None)
+        if not sm:
+            continue
+        body = fetch(sm) or b""
+        (a.out / sm.strip("/")).write_bytes(body)
+        urls = re.findall(r"<loc>https://gw2\.app(/[^<]+)</loc>", body.decode("utf-8", "replace"))
+        pages += urls[:2]
+    for p in pages[1:]:
+        body = fetch(p)
+        name = p.strip("/").replace("/", "_").replace("?", "_") or "index"
+        if body:
+            (a.out / name).write_bytes(body)
+            print(p, "ok", len(body))
 
 
 if __name__ == "__main__":

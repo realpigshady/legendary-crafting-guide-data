@@ -3,8 +3,8 @@
 Policy (see legendary-crafting-guide/docs/SPEC.md and claude/DATA_SOURCES_RESEARCH.md):
   * pages only; /api/ and /preview/ are disallowed by gw2.app's robots.txt and never fetched
   * one request every 3 s, descriptive User-Agent, resumable, capped per run
-  * the data are ArenaNet game facts; gw2.app is credited in the pack and the export is
-    replaced by wiki data once the wiki is back
+  * TESTING ONLY: the export stays on the gw2app-export branch, feeds local test packs only,
+    and is never used in a published pack or release; wiki data replaces it
 
 What it does: starting from every legendary in the official /v2/legendaryarmory, it reads each
 item page's "Acquisition" section (recipes, mystic recipes, achievements, vendors...), fetches
