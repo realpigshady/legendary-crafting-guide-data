@@ -32,6 +32,7 @@ API = "https://api.guildwars2.com"
 DELAY = 3.0
 
 _last = 0.0
+ERRORS: list[str] = []
 
 
 def get(url: str, polite: bool) -> str | None:
@@ -51,11 +52,13 @@ def get(url: str, polite: bool) -> str | None:
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 return None
-            if e.code == 429 or e.code >= 500:
-                time.sleep(30 * (attempt + 1))
+            ERRORS.append(f"{url}: HTTP {e.code}")
+            if e.code in (403, 429) or e.code >= 500:   # refused / rate limited: back off hard
+                time.sleep(120 * (attempt + 1))
                 continue
-            raise
-        except (urllib.error.URLError, TimeoutError):
+            return None
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            ERRORS.append(f"{url}: {e}")
             time.sleep(15 * (attempt + 1))
     return None
 
@@ -138,11 +141,11 @@ def main() -> None:
 
     pages = 0
     started = time.time()
-    while queue and pages < a.max_pages and time.time() - started < 5 * 3600:
-        key = queue.pop(0)
-        kind, ident = key.split(":", 1)
+
+    def process(kind: str, ident: str) -> bool:
+        """Returns True when it fetched a gw2.app page."""
         if kind == "item":
-            page = get(f"{SITE}/items/{ident}", True); pages += 1
+            page = get(f"{SITE}/items/{ident}", True)
             if page:
                 it = parse_item(page)
                 data["items"][ident] = it
@@ -151,15 +154,17 @@ def main() -> None:
                         push("mystic:" + m.group(1))
                     elif m := re.fullmatch(r"/recipes/(\d+)", l["href"]):
                         push("recipe:" + m.group(1))
-        elif kind == "mystic":
-            page = get(f"{SITE}/recipes/mystic/{ident}", True); pages += 1
+            return True
+        if kind == "mystic":
+            page = get(f"{SITE}/recipes/mystic/{ident}", True)
             if page:
                 r = parse_mystic(page)
                 data["mystic_recipes"][ident] = r
                 for i in r["ingredients"]:
                     if i["type"] == "item":
                         push(f"item:{i['id']}")
-        elif kind == "recipe":   # official API, not gw2.app
+            return True
+        if kind == "recipe":   # official API, not gw2.app
             body = get(f"{API}/v2/recipes/{ident}", False)
             if body:
                 r = json.loads(body)
@@ -167,15 +172,44 @@ def main() -> None:
                 for i in r.get("ingredients", []):
                     if i.get("type", "Item") == "Item":
                         push(f"item:{i['id']}")
+        return False
+
+    def save() -> None:
+        print(f"{pages} pages, queue {len(queue)}, items {len(data['items'])}, mystic {len(data['mystic_recipes'])}, "
+              f"errors {len(ERRORS)}", flush=True)
+        data["errors"] = ERRORS[-200:]
+        data_f.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
+        state_f.write_text(json.dumps({"queue": queue, "done": sorted(done)}))
+
+    fails = 0
+    tries: dict[str, int] = {}
+    while queue and pages < a.max_pages and time.time() - started < 5 * 3600:
+        key = queue.pop(0)
+        kind, ident = key.split(":", 1)
+        before = len(ERRORS)
+        try:
+            if process(kind, ident):
+                pages += 1
+        except Exception as e:  # noqa: BLE001 - one bad page must not end the export
+            ERRORS.append(f"{key}: {type(e).__name__}: {e}")
+        if len(ERRORS) > before:
+            fails += 1
+            tries[key] = tries.get(key, 0) + 1
+            if tries[key] < 3:
+                queue.append(key)   # retried later in this run
+            else:
+                done.add(key)       # give up on this one; it stays listed in "errors"
+            if fails >= 8:
+                print("8 failures in a row: stopping, resume later", flush=True)
+                break
+            continue
+        fails = 0
         done.add(key)
-        if pages % 50 == 0:
-            print(f"{pages} pages, queue {len(queue)}, items {len(data['items'])}, mystic {len(data['mystic_recipes'])}", flush=True)
-            data_f.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
-            state_f.write_text(json.dumps({"queue": queue, "done": sorted(done)}))
+        if pages and pages % 50 == 0:
+            save()
     data["source"] = "gw2.app (interim export while the GW2 wiki is down; data are ArenaNet game facts)"
     data["complete"] = not queue
-    data_f.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")))
-    state_f.write_text(json.dumps({"queue": queue, "done": sorted(done)}))
+    save()
     print(f"run done: {pages} pages; queue left {len(queue)}; items {len(data['items'])}, "
           f"mystic {len(data['mystic_recipes'])}, recipes {len(data['recipes'])}")
 
