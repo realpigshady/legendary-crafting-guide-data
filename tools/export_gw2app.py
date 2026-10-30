@@ -165,13 +165,14 @@ def main() -> None:
                         push(f"item:{i['id']}")
             return True
         if kind == "recipe":   # official API, not gw2.app
-            body = get(f"{API}/v2/recipes/{ident}", False)
+            body = get(f"{API}/v2/recipes/{ident}?v=2022-03-23T19:00:00.000Z", False)
             if body:
                 r = json.loads(body)
                 data["recipes"][ident] = r
                 for i in r.get("ingredients", []):
-                    if i.get("type", "Item") == "Item":
-                        push(f"item:{i['id']}")
+                    iid = i.get("id", i.get("item_id"))   # default /v2/recipes schema uses item_id
+                    if i.get("type", "Item") == "Item" and iid:
+                        push(f"item:{iid}")
         return False
 
     def save() -> None:

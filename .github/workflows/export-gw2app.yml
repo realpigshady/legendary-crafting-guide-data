@@ -19,12 +19,14 @@ jobs:
           python-version: "3.12"
       - name: Restore progress
         run: |
+          echo "DONE_BEFORE=0" >> "$GITHUB_ENV"
           mkdir -p export
           if git fetch -q origin gw2app-export; then
             git show FETCH_HEAD:export/state.json > export/state.json || true
             git show FETCH_HEAD:export/gw2app.json > export/gw2app.json || true
           fi
           ls -la export
+          if [ -s export/state.json ]; then echo "DONE_BEFORE=$(python -c "import json;print(len(json.load(open('export/state.json'))['done']))")" >> "$GITHUB_ENV"; fi
       - name: Crawl (about 75 minutes per run)
         run: python tools/export_gw2app.py --out export --max-pages 1500
       - name: Save progress
@@ -48,5 +50,11 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           left=$(python -c "import json;print(len(json.load(open('export/state.json'))['queue']))")
-          echo "queue left: $left"
-          if [ "$left" -gt 0 ]; then gh workflow run export-gw2app.yml --ref "${GITHUB_REF_NAME}"; fi
+          done_now=$(python -c "import json;print(len(json.load(open('export/state.json'))['done']))")
+          echo "queue left: $left, done $DONE_BEFORE -> $done_now"
+          # chain only when this run made real progress (no tight loops on persistent errors)
+          if [ "$left" -gt 0 ] && [ $((done_now - DONE_BEFORE)) -ge 50 ]; then
+            gh workflow run export-gw2app.yml --ref "${GITHUB_REF_NAME}"
+          else
+            echo "not chaining: finished or too little progress"
+          fi
