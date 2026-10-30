@@ -86,6 +86,7 @@
           "mode": { "enum": ["pve", "pvp", "wvw"] },
           "expansion": { "type": "string" },
           "est_minutes": { "type": "number" },
+          "map_ids": { "type": "array", "items": { "type": "integer" }, "description": "Maps the activity happens on; the addon matches DRF loot sessions by map." },
           "yields": { "type": "array" },
           "guidance": { "type": "object" }
         }
