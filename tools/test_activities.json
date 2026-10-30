@@ -18,8 +18,9 @@
     }
    ],
    "timer": null,
-   "map_names": [
-    "Mistlock Observatory"
+   "map_names": [],
+   "map_ids": [
+    872
    ]
   },
   {
@@ -374,10 +375,14 @@
    ],
    "timer": null,
    "map_names": [
-    "Eternal Battlegrounds",
-    "Red Desert Borderlands",
-    "Blue Alpine Borderlands",
-    "Green Alpine Borderlands"
+    "Eternal Battlegrounds"
+   ],
+   "map_ids": [
+    38,
+    95,
+    96,
+    1099,
+    968
    ]
   },
   {

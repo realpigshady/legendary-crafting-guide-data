@@ -171,7 +171,7 @@ def main() -> None:
             # only yields the legendary trees use (currencies included only when a tree needs them)
             ys = [y for y in act["yields"] if y["node_id"] in nodes]
             timer, names = act.pop("timer", None), act.pop("map_names", [])
-            ids = sorted({i for n in names for i in maps.get(n, [])})
+            ids = sorted({i for n in names for i in maps.get(n, [])} | set(act.get("map_ids", [])))   # catalog ids + API by name
             unresolved_maps += [n for n in names if n not in maps]
             if ids:
                 act["map_ids"] = ids
