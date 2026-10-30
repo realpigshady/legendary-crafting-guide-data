@@ -1,20 +1,220 @@
 {
- "_note": "Placeholder activities for LOCAL test packs only (same as the addon's sample pack).",
+ "_note": "TESTING ONLY catalog for LOCAL test packs while the wiki is down. Names, maps (resolved from the official API by name) and waypoints (gw2.app timers) are real; est_minutes and yields are GUESSES until wiki/DRF data. Never published.",
  "activities": [
   {
    "id": "t4_fractals",
-   "name": "T4 Daily Fractals",
+   "name": "Daily T4 Fractals",
    "mode": "pve",
    "expansion": "core",
-   "map_ids": [
-    872
-   ],
-   "est_minutes": 45,
+   "est_minutes": 60,
    "yields": [
     {
      "node_id": "item:19675",
-     "count": 3
+     "count": 1
+    },
+    {
+     "node_id": "currency:7",
+     "count": 50
     }
+   ],
+   "timer": null,
+   "map_names": [
+    "Mistlock Observatory"
+   ]
+  },
+  {
+   "id": "strikes",
+   "name": "Strike Missions",
+   "mode": "pve",
+   "expansion": "eod",
+   "est_minutes": 30,
+   "yields": [
+    {
+     "node_id": "item:19721",
+     "count": 5
+    },
+    {
+     "node_id": "currency:70",
+     "count": 1
+    }
+   ],
+   "timer": null,
+   "map_names": [
+    "Eye of the North"
+   ]
+  },
+  {
+   "id": "raid_wing",
+   "name": "Raid Wing Clear (weekly)",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 90,
+   "yields": [
+    {
+     "node_id": "currency:70",
+     "count": 3
+    },
+    {
+     "node_id": "currency:28",
+     "count": 100
+    },
+    {
+     "node_id": "item:19721",
+     "count": 5
+    }
+   ],
+   "timer": null,
+   "map_names": [
+    "Spirit Vale"
+   ]
+  },
+  {
+   "id": "world_bosses",
+   "name": "World Boss Train",
+   "mode": "pve",
+   "expansion": "core",
+   "est_minutes": 60,
+   "yields": [
+    {
+     "node_id": "item:19721",
+     "count": 3
+    },
+    {
+     "node_id": "currency:2",
+     "count": 5000
+    }
+   ],
+   "timer": "World Bosses",
+   "map_names": []
+  },
+  {
+   "id": "verdant_brink",
+   "name": "Verdant Brink Night Meta",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 30,
+   "yields": [
+    {
+     "node_id": "currency:19",
+     "count": 150
+    },
+    {
+     "node_id": "currency:2",
+     "count": 3000
+    }
+   ],
+   "timer": "Verdant Brink",
+   "map_names": [
+    "Verdant Brink"
+   ]
+  },
+  {
+   "id": "auric_basin",
+   "name": "Auric Basin Meta",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:22",
+     "count": 150
+    },
+    {
+     "node_id": "currency:2",
+     "count": 3000
+    }
+   ],
+   "timer": "Auric Basin",
+   "map_names": [
+    "Auric Basin"
+   ]
+  },
+  {
+   "id": "tangled_depths",
+   "name": "Tangled Depths: Chak Gerent",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 30,
+   "yields": [
+    {
+     "node_id": "currency:20",
+     "count": 150
+    },
+    {
+     "node_id": "currency:2",
+     "count": 3000
+    }
+   ],
+   "timer": "Tangled Depths",
+   "map_names": [
+    "Tangled Depths"
+   ]
+  },
+  {
+   "id": "dragons_stand",
+   "name": "Dragon's Stand Meta",
+   "mode": "pve",
+   "expansion": "hot",
+   "est_minutes": 60,
+   "yields": [
+    {
+     "node_id": "currency:19",
+     "count": 50
+    },
+    {
+     "node_id": "currency:22",
+     "count": 50
+    },
+    {
+     "node_id": "currency:20",
+     "count": 50
+    },
+    {
+     "node_id": "currency:2",
+     "count": 5000
+    }
+   ],
+   "timer": "Dragon's Stand",
+   "map_names": [
+    "Dragon's Stand"
+   ]
+  },
+  {
+   "id": "dry_top",
+   "name": "Dry Top Sandstorm",
+   "mode": "pve",
+   "expansion": "core",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:25",
+     "count": 200
+    }
+   ],
+   "timer": "Dry Top",
+   "map_names": [
+    "Dry Top"
+   ]
+  },
+  {
+   "id": "elon_riverlands",
+   "name": "Elon Riverlands Meta",
+   "mode": "pve",
+   "expansion": "pof",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:34",
+     "count": 75
+    },
+    {
+     "node_id": "currency:45",
+     "count": 100
+    }
+   ],
+   "timer": "Elon Riverlands",
+   "map_names": [
+    "Elon Riverlands"
    ]
   },
   {
@@ -22,64 +222,187 @@
    "name": "Dragonfall Meta",
    "mode": "pve",
    "expansion": "pof",
-   "map_ids": [
-    1210
-   ],
    "est_minutes": 35,
    "yields": [
     {
      "node_id": "currency:45",
-     "count": 120
+     "count": 400
     }
+   ],
+   "timer": null,
+   "map_names": [
+    "Dragonfall"
    ]
   },
   {
-   "id": "strikes",
-   "name": "Daily Strike Missions",
+   "id": "domain_of_istan",
+   "name": "Palawadan (Domain of Istan)",
    "mode": "pve",
-   "expansion": "eod",
-   "map_ids": [
-    1370
-   ],
+   "expansion": "pof",
    "est_minutes": 25,
    "yields": [
     {
-     "node_id": "item:19721",
-     "count": 9
+     "node_id": "currency:45",
+     "count": 250
     }
+   ],
+   "timer": "Domain of Istan",
+   "map_names": [
+    "Domain of Istan"
    ]
   },
   {
-   "id": "wvw_camps",
-   "name": "WvW Roaming & Camps",
+   "id": "dragons_end",
+   "name": "Dragon's End Meta",
+   "mode": "pve",
+   "expansion": "eod",
+   "est_minutes": 45,
+   "yields": [
+    {
+     "node_id": "currency:68",
+     "count": 300
+    },
+    {
+     "node_id": "item:19721",
+     "count": 3
+    }
+   ],
+   "timer": "Dragon's End",
+   "map_names": [
+    "Dragon's End"
+   ]
+  },
+  {
+   "id": "rift_hunting",
+   "name": "Rift Hunting",
+   "mode": "pve",
+   "expansion": "soto",
+   "est_minutes": 30,
+   "yields": [
+    {
+     "node_id": "currency:78",
+     "count": 150
+    },
+    {
+     "node_id": "currency:80",
+     "count": 20
+    },
+    {
+     "node_id": "currency:79",
+     "count": 3
+    }
+   ],
+   "timer": "Skywatch Archipelago",
+   "map_names": [
+    "Skywatch Archipelago"
+   ]
+  },
+  {
+   "id": "janthir_syntri",
+   "name": "Janthir Syntri Meta",
+   "mode": "pve",
+   "expansion": "jw",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:76",
+     "count": 100
+    }
+   ],
+   "timer": "Janthir Syntri",
+   "map_names": [
+    "Janthir Syntri"
+   ]
+  },
+  {
+   "id": "shipwreck_strand",
+   "name": "Shipwreck Strand Meta",
+   "mode": "pve",
+   "expansion": "voe",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:82",
+     "count": 20
+    },
+    {
+     "node_id": "currency:83",
+     "count": 100
+    }
+   ],
+   "timer": "Shipwreck Strand",
+   "map_names": [
+    "Shipwreck Strand"
+   ]
+  },
+  {
+   "id": "dungeon_path",
+   "name": "Dungeon Path",
+   "mode": "pve",
+   "expansion": "core",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:69",
+     "count": 20
+    }
+   ],
+   "timer": null,
+   "map_names": [
+    "Ascalonian Catacombs"
+   ]
+  },
+  {
+   "id": "wvw_skirmish",
+   "name": "WvW Roaming & Camps (1h)",
    "mode": "wvw",
    "expansion": "core",
-   "map_ids": [
-    38,
-    95,
-    96,
-    1099,
-    968
-   ],
-   "est_minutes": 40,
+   "est_minutes": 60,
    "yields": [
     {
-     "node_id": "track",
+     "node_id": "currency:26",
      "count": 30
+    },
+    {
+     "node_id": "currency:15",
+     "count": 40
+    },
+    {
+     "node_id": "item:19675",
+     "count": 1
     }
+   ],
+   "timer": null,
+   "map_names": [
+    "Eternal Battlegrounds",
+    "Red Desert Borderlands",
+    "Blue Alpine Borderlands",
+    "Green Alpine Borderlands"
    ]
   },
   {
-   "id": "precursor_collection",
-   "name": "Precursor collection items",
-   "mode": "pve",
-   "expansion": "hot",
-   "est_minutes": 59,
+   "id": "pvp_ranked",
+   "name": "PvP Ranked Matches (1h)",
+   "mode": "pvp",
+   "expansion": "core",
+   "est_minutes": 60,
    "yields": [
     {
-     "node_id": "raven_items",
+     "node_id": "currency:33",
+     "count": 25
+    },
+    {
+     "node_id": "currency:30",
+     "count": 3
+    },
+    {
+     "node_id": "item:19675",
      "count": 1
     }
+   ],
+   "timer": null,
+   "map_names": [
+    "Heart of the Mists"
    ]
   }
  ]

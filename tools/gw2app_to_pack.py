@@ -25,6 +25,18 @@ def currency_ids() -> dict[str, int]:
         return {"Coin": 1}
 
 
+def map_ids_by_name() -> dict[str, list[int]]:
+    """Official map names -> ids (several instances can share a name)."""
+    try:
+        with urllib.request.urlopen(API + "/v2/maps?ids=all", timeout=60) as r:
+            out: dict[str, list[int]] = {}
+            for m in json.load(r):
+                out.setdefault(m["name"], []).append(m["id"])
+            return out
+    except Exception:  # noqa: BLE001 - offline: no map ids
+        return {}
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--export", type=Path, required=True)
@@ -151,12 +163,22 @@ def main() -> None:
         legendaries.append({"id": f"test:{lid}", "family": "test", "name": it["name"], "item_id": lid, "root_node_id": f"item:{lid}"})
 
     activities = []
+    unresolved_maps: list[str] = []
     if a.sample and a.sample.exists():
+        timers = {t["name"]: t for t in (json.loads(a.world.read_text()).get("timers", []) if a.world and a.world.exists() else [])}
+        maps = map_ids_by_name()
         for act in json.loads(a.sample.read_text())["activities"]:
-            ys = [y for y in act["yields"] if y["node_id"] in nodes or y["node_id"].startswith("currency:")]
-            for y in ys:
-                if y["node_id"].startswith("currency:") and y["node_id"] not in nodes:
-                    currency_node(int(y["node_id"].split(":")[1]), y["node_id"])
+            # only yields the legendary trees use (currencies included only when a tree needs them)
+            ys = [y for y in act["yields"] if y["node_id"] in nodes]
+            timer, names = act.pop("timer", None), act.pop("map_names", [])
+            ids = sorted({i for n in names for i in maps.get(n, [])})
+            unresolved_maps += [n for n in names if n not in maps]
+            if ids:
+                act["map_ids"] = ids
+            t = timers.get(timer) if timer else None
+            if t and t.get("waypoint"):
+                act["guidance"] = {"waypoint_chat_code": t["waypoint"], "waypoint_name": t["name"],
+                                   "text": f"{t['group']}: every {t['interval_min']} min" if t.get("interval_min") else t["group"]}
             if ys:
                 act = dict(act, yields=ys)
                 activities.append(act)
@@ -172,6 +194,7 @@ def main() -> None:
         pack["_timers"] = json.loads(a.world.read_text()).get("timers", [])
     a.out.parent.mkdir(parents=True, exist_ok=True)
     a.out.write_text(json.dumps(pack, ensure_ascii=False, separators=(",", ":")))
+    print(f"activities {[x['id'] for x in activities]}, map names not found {unresolved_maps}")
     print(f"legendaries {len(legendaries)}, nodes {len(nodes)}, activities {len(activities)}, "
           f"cycle sources dropped {dropped}, unknown currencies {sorted(unknown_currencies)[:10]}")
 
