@@ -1,7 +1,7 @@
 name: probe gw2.app (one-off)
 on: workflow_dispatch
 permissions:
-  contents: read
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -11,7 +11,12 @@ jobs:
         with:
           python-version: "3.12"
       - run: python tools/probe_gw2app.py --out probe
-      - uses: actions/upload-artifact@v4
-        with:
-          name: probe
-          path: probe
+      # results go to a throwaway branch (artifact downloads aren't reachable from the dev sandbox)
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan probe-gw2app
+          git rm -rq --cached .
+          git add -f probe
+          git commit -qm "gw2.app probe output"
+          git push -f origin probe-gw2app
