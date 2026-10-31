@@ -25,6 +25,20 @@ def currency_ids() -> dict[str, int]:
         return {"Coin": 1}
 
 
+def item_types(ids: list[int]) -> dict[int, str]:
+    """Official item types (Container, Gizmo, ...) for the given ids; empty when offline."""
+    out: dict[int, str] = {}
+    for i in range(0, len(ids), 200):
+        chunk = ",".join(str(x) for x in ids[i:i + 200])
+        try:
+            with urllib.request.urlopen(f"{API}/v2/items?ids={chunk}", timeout=60) as r:
+                for it in json.load(r):
+                    out[it["id"]] = it.get("type", "")
+        except Exception:  # noqa: BLE001 - offline or partial: keep what we have
+            pass
+    return out
+
+
 def map_ids_by_name() -> dict[str, list[int]]:
     """Official map names -> ids (several instances can share a name)."""
     try:
@@ -127,6 +141,24 @@ def main() -> None:
                 seen.add(k)
                 uniq.append(s)
         node["sources"] = uniq
+
+    # gw2.app lists "contained in" (a chest that gives the item) the same way as a vendor offer:
+    # "Pile of Auric Dust | Auric Basin: Commander's Choice Chest | 1". A vendor never takes a
+    # chest as payment, so offers paid with containers are dropped.
+    cost_ids = sorted({int(i["node_id"].split(":")[1]) for n in nodes.values() for s in n["sources"] if s["kind"] == "vendor"
+                       for i in s["inputs"] if i["node_id"].startswith("item:")})
+    types = item_types(cost_ids)
+    dropped_contained = 0
+    for n in nodes.values():
+        keep = []
+        for s in n["sources"]:
+            if s["kind"] == "vendor" and any(i["node_id"].startswith("item:") and types.get(int(i["node_id"].split(":")[1])) in ("Container", "Gizmo")
+                                             for i in s["inputs"]):
+                dropped_contained += 1
+                continue
+            keep.append(s)
+        n["sources"] = keep
+    print(f"vendor offers dropped as 'contained in' chests: {dropped_contained} (types known for {len(types)}/{len(cost_ids)} cost items)")
 
     # extra test recipes the export lacks (random output, e.g. Mystic Clover)
     if a.recipes and a.recipes.exists():
