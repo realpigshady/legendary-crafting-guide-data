@@ -117,7 +117,13 @@
     "Verdant Brink"
    ],
    "max_runs_per_day": 2,
-   "gold_per_run": 80000
+   "gold_per_run": 80000,
+   "masteries": [
+    {
+     "id": 8,
+     "level": 1
+    }
+   ]
   },
   {
    "id": "auric_basin",
@@ -140,7 +146,17 @@
     "Auric Basin"
    ],
    "max_runs_per_day": 2,
-   "gold_per_run": 80000
+   "gold_per_run": 80000,
+   "masteries": [
+    {
+     "id": 8,
+     "level": 1
+    },
+    {
+     "id": 1,
+     "level": 1
+    }
+   ]
   },
   {
    "id": "tangled_depths",
@@ -163,7 +179,17 @@
     "Tangled Depths"
    ],
    "max_runs_per_day": 2,
-   "gold_per_run": 80000
+   "gold_per_run": 80000,
+   "masteries": [
+    {
+     "id": 8,
+     "level": 1
+    },
+    {
+     "id": 3,
+     "level": 1
+    }
+   ]
   },
   {
    "id": "dragons_stand",
@@ -198,7 +224,13 @@
     "Dragon's Stand"
    ],
    "max_runs_per_day": 1,
-   "gold_per_run": 150000
+   "gold_per_run": 150000,
+   "masteries": [
+    {
+     "id": 8,
+     "level": 1
+    }
+   ]
   },
   {
    "id": "dry_top",
@@ -327,7 +359,13 @@
    "map_names": [
     "Skywatch Archipelago"
    ],
-   "gold_per_run": 80000
+   "gold_per_run": 80000,
+   "masteries": [
+    {
+     "id": 38,
+     "level": 1
+    }
+   ]
   },
   {
    "id": "janthir_syntri",
