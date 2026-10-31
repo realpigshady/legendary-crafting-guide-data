@@ -42,6 +42,7 @@ def main() -> None:
     ap.add_argument("--export", type=Path, required=True)
     ap.add_argument("--world", type=Path)
     ap.add_argument("--sample", type=Path)
+    ap.add_argument("--recipes", type=Path, help="extra test recipes (random-output forge)")
     ap.add_argument("--out", type=Path, required=True)
     a = ap.parse_args()
     exp = json.loads(a.export.read_text())
@@ -126,6 +127,18 @@ def main() -> None:
                 seen.add(k)
                 uniq.append(s)
         node["sources"] = uniq
+
+    # extra test recipes the export lacks (random output, e.g. Mystic Clover)
+    if a.recipes and a.recipes.exists():
+        for r in json.loads(a.recipes.read_text())["recipes"]:
+            nid = r["node_id"]
+            if nid not in nodes or any(i["node_id"] not in nodes and not i["node_id"].startswith("currency:") for i in r["source"]["inputs"]):
+                continue
+            for i in r["source"]["inputs"]:
+                if i["node_id"].startswith("currency:") and i["node_id"] not in nodes:
+                    cid = int(i["node_id"].split(":")[1])
+                    currency_node(cid, next((k for k, v in cur_ids.items() if v == cid), i["node_id"]))
+            nodes[nid]["sources"].append(r["source"])
 
     # break recipe cycles (promotion/demotion loops): drop the source that closes a cycle
     colour: dict[str, int] = {}

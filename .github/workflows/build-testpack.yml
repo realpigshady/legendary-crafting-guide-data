@@ -17,7 +17,7 @@ jobs:
           git fetch -q origin gw2app-export gw2app-world
           git show origin/gw2app-export:export/gw2app.json > export/gw2app.json
           git show origin/gw2app-world:world/world.json > world/world.json
-      - run: python tools/gw2app_to_pack.py --export export/gw2app.json --world world/world.json --sample tools/test_activities.json --out testpack/pack.json
+      - run: python tools/gw2app_to_pack.py --export export/gw2app.json --world world/world.json --sample tools/test_activities.json --recipes tools/test_recipes.json --out testpack/pack.json
       - env:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |

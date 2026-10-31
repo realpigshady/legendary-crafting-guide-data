@@ -206,6 +206,11 @@
                   "type": "number",
                   "minimum": 0,
                   "description": "reward: minutes per step (0/absent = default estimate)"
+                },
+                "expected_output": {
+                  "type": "number",
+                  "exclusiveMinimum": 0,
+                  "description": "random output: average made per run (used instead of output_count)"
                 }
               }
             }
