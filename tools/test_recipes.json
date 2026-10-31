@@ -1,7 +1,42 @@
 {
- "_note": "TESTING ONLY: recipes the gw2.app export lacks because their output is random. expected_output is the average per attempt (Mystic Clover: about 231 of each input for 77 clovers, so ~1/3). Catalyst modelled as 1 Spirit Shard. Never published.",
+ "_note": "TESTING ONLY: recipes the gw2.app export lacks because their output is random. expected_output is the average per attempt (Mystic Clover: about 231 of each input for 77 clovers, so ~1/3). Catalyst modelled as 1 Spirit Shard. Never published. Obsidian Shard: 2100 karma at temple karma vendors (account bound, so the export had no source).",
  "recipes": [
-  {"node_id": "item:19675", "source": {"kind": "mystic_forge", "expected_output": 0.33,
-   "inputs": [{"node_id": "item:19721", "count": 1}, {"node_id": "item:19976", "count": 1}, {"node_id": "item:19925", "count": 1}, {"node_id": "currency:23", "count": 1}]}}
+  {
+   "node_id": "item:19675",
+   "source": {
+    "kind": "mystic_forge",
+    "expected_output": 0.33,
+    "inputs": [
+     {
+      "node_id": "item:19721",
+      "count": 1
+     },
+     {
+      "node_id": "item:19976",
+      "count": 1
+     },
+     {
+      "node_id": "item:19925",
+      "count": 1
+     },
+     {
+      "node_id": "currency:23",
+      "count": 1
+     }
+    ]
+   }
+  },
+  {
+   "node_id": "item:19925",
+   "source": {
+    "kind": "vendor",
+    "inputs": [
+     {
+      "node_id": "currency:2",
+      "count": 2100
+     }
+    ]
+   }
+  }
  ]
 }
