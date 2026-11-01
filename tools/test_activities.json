@@ -539,6 +539,190 @@
    "map_names": [],
    "gold_per_run": 60000,
    "max_runs_per_day": 1
+  },
+  {
+   "id": "crystal_oasis",
+   "name": "Crystal Oasis: Casino Blitz",
+   "mode": "pve",
+   "expansion": "pof",
+   "est_minutes": 15,
+   "yields": [
+    {
+     "node_id": "currency:45",
+     "count": 150
+    }
+   ],
+   "timer": "Crystal Oasis",
+   "map_names": [
+    "Crystal Oasis"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 60000
+  },
+  {
+   "id": "desert_highlands",
+   "name": "Desert Highlands: Buried Treasure",
+   "mode": "pve",
+   "expansion": "pof",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:45",
+     "count": 150
+    }
+   ],
+   "timer": "Desert Highlands",
+   "map_names": [
+    "Desert Highlands"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 60000
+  },
+  {
+   "id": "domain_of_vabbi",
+   "name": "Domain of Vabbi: Serpents' Ire",
+   "mode": "pve",
+   "expansion": "pof",
+   "est_minutes": 30,
+   "yields": [
+    {
+     "node_id": "currency:45",
+     "count": 250
+    }
+   ],
+   "timer": "Domain of Vabbi",
+   "map_names": [
+    "Domain of Vabbi"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 90000
+  },
+  {
+   "id": "seitung_province",
+   "name": "Seitung Province: Aetherblade Assault",
+   "mode": "pve",
+   "expansion": "eod",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:68",
+     "count": 150
+    }
+   ],
+   "timer": "Seitung Province",
+   "map_names": [
+    "Seitung Province"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 60000
+  },
+  {
+   "id": "new_kaineng",
+   "name": "New Kaineng City: Kaineng Blackout",
+   "mode": "pve",
+   "expansion": "eod",
+   "est_minutes": 20,
+   "yields": [
+    {
+     "node_id": "currency:68",
+     "count": 150
+    }
+   ],
+   "timer": "New Kaineng City",
+   "map_names": [
+    "New Kaineng City"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 60000
+  },
+  {
+   "id": "echovald_wilds",
+   "name": "Echovald Wilds: Gang War",
+   "mode": "pve",
+   "expansion": "eod",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:68",
+     "count": 200
+    }
+   ],
+   "timer": "The Echovald Wilds",
+   "map_names": [
+    "The Echovald Wilds"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
+  },
+  {
+   "id": "skywatch",
+   "name": "Skywatch Archipelago: Wizard's Tower",
+   "mode": "pve",
+   "expansion": "soto",
+   "est_minutes": 20,
+   "yields": [],
+   "timer": "Skywatch Archipelago",
+   "map_names": [
+    "Skywatch Archipelago"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
+  },
+  {
+   "id": "amnytas",
+   "name": "Amnytas: Defense of Amnytas",
+   "mode": "pve",
+   "expansion": "soto",
+   "est_minutes": 20,
+   "yields": [],
+   "timer": "Amnytas",
+   "map_names": [
+    "Amnytas"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
+  },
+  {
+   "id": "bava_nisos",
+   "name": "Bava Nisos Meta",
+   "mode": "pve",
+   "expansion": "jw",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:76",
+     "count": 100
+    }
+   ],
+   "timer": "Bava Nisos",
+   "map_names": [
+    "Bava Nisos"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
+  },
+  {
+   "id": "starlit_weald",
+   "name": "Starlit Weald Meta",
+   "mode": "pve",
+   "expansion": "voe",
+   "est_minutes": 25,
+   "yields": [
+    {
+     "node_id": "currency:82",
+     "count": 20
+    },
+    {
+     "node_id": "currency:83",
+     "count": 100
+    }
+   ],
+   "timer": "Starlit Weald",
+   "map_names": [
+    "Starlit Weald"
+   ],
+   "max_runs_per_day": 2,
+   "gold_per_run": 70000
   }
  ]
 }
