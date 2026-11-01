@@ -26,6 +26,9 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki_pack as wp  # noqa: E402
+
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
 WIKI_API = "https://wiki.guildwars2.com/api.php"
@@ -126,6 +129,19 @@ class Http:
                 removed += 1
         return removed
 
+    def get_live(self, url: str):
+        """One request, no snapshot (callers keep their own copy, e.g. the wiki PageStore)."""
+        host = urllib.parse.urlparse(url).netloc
+        if self.offline or host in self._down_hosts:
+            raise SourceDown(f"{host} offline for this run")
+        try:
+            data = self._fetch(url)
+        except Exception:
+            self._down_hosts.add(host)
+            raise
+        self.fresh[host] = self.fresh.get(host, 0) + 1
+        return data
+
     def _fetch(self, url: str):
         wait = MIN_INTERVAL_S - (time.monotonic() - self._last)
         if wait > 0:
@@ -151,90 +167,9 @@ def wiki(http: Http, **params) -> dict:
 
 
 # --------------------------------------------------------------------------- wikitext parsing
-
-def find_templates(wikitext: str, name: str) -> list[dict[str, str]]:
-    """Return params of every {{name ...}} template (handles nested braces)."""
-    out = []
-    pat = re.compile(r"\{\{\s*" + re.escape(name) + r"\s*\|", re.IGNORECASE)
-    for m in pat.finditer(wikitext):
-        depth, i = 0, m.start()
-        while i < len(wikitext) - 1:
-            pair = wikitext[i:i + 2]
-            if pair == "{{":
-                depth += 1
-                i += 2
-                continue
-            if pair == "}}":
-                depth -= 1
-                i += 2
-                if depth == 0:
-                    break
-                continue
-            i += 1
-        body = wikitext[m.end():i - 2]
-        out.append(_split_params(body))
-    return out
-
-
-def _split_params(body: str) -> dict[str, str]:
-    parts, depth, cur = [], 0, []
-    i = 0
-    while i < len(body):
-        two = body[i:i + 2]
-        if two in ("{{", "[["):
-            depth += 1
-            cur.append(two)
-            i += 2
-            continue
-        if two in ("}}", "]]"):
-            depth -= 1
-            cur.append(two)
-            i += 2
-            continue
-        if body[i] == "|" and depth == 0:
-            parts.append("".join(cur))
-            cur = []
-        else:
-            cur.append(body[i])
-        i += 1
-    parts.append("".join(cur))
-    params: dict[str, str] = {}
-    for p in parts:
-        if "=" in p:
-            k, v = p.split("=", 1)
-            params[k.strip().lower()] = v.strip()
-    return params
-
-
-_ING_RE = re.compile(r"^\s*(\d+)\s+(.+?)\s*$")
-
-
-def parse_recipe(params: dict[str, str]) -> dict | None:
-    """Convert a {{Recipe}} template into a pack source option."""
-    source = params.get("source", "").lower()
-    ingredients = []
-    for n in range(1, 9):
-        raw = params.get(f"ingredient{n}")
-        if not raw:
-            continue
-        m = _ING_RE.match(raw)
-        count, name = (int(m.group(1)), m.group(2)) if m else (1, raw)
-        ingredients.append({"name": name, "count": count})
-    if not ingredients:
-        return None
-    if "mystic forge" in source:
-        kind = "mystic_forge"
-    elif source in ("automatic", "discovery", "recipe sheet"):
-        kind = "craft"
-    else:
-        kind = "other"
-    return {
-        "kind": kind,
-        "inputs": ingredients,
-        "output_count": int(params.get("quantity", "1") or 1),
-        "disciplines": [d.strip() for d in params.get("disciplines", "").split(",") if d.strip()],
-        "recipe_id": params.get("id") or None,
-    }
+# (in wiki_pack.py; kept here under the old names)
+find_templates = wp.find_templates
+parse_recipe = wp.parse_recipe
 
 
 # --------------------------------------------------------------------------- build
@@ -261,9 +196,28 @@ def family_members(http: Http, family: dict) -> set[str]:
         cont = {"cmcontinue": res["continue"]["cmcontinue"]}
 
 
-def page_wikitext(http: Http, title: str) -> str:
-    res = wiki(http, action="parse", page=title, prop="wikitext", redirects="1")
-    return res.get("parse", {}).get("wikitext", "")
+def untradeable_ids(http: Http, ids: list[int]) -> set[int]:
+    """Items the Trading Post can't have (account bound / soulbound on acquire)."""
+    out: set[int] = set()
+    for i in range(0, len(ids), 200):
+        part = sorted(set(ids[i:i + 200]))
+        try:
+            items = http.get_json(f"{GW2_API}/v2/items?ids={','.join(map(str, part))}", max_age_h=24 * 7)
+        except SourceDown:
+            continue
+        for it in items if isinstance(items, list) else []:
+            flags = set(it.get("flags", []))
+            if flags & {"AccountBound", "SoulbindOnAcquire"}:
+                out.add(it["id"])
+    return out
+
+
+def currency_ids(http: Http) -> dict[str, int]:
+    try:
+        cur = http.get_json(f"{GW2_API}/v2/currencies?ids=all", max_age_h=24 * 7)
+    except SourceDown:
+        return {}
+    return {c["name"]: c["id"] for c in cur if c.get("name")}
 
 
 def build(out: Path, cache: Path, limit: int | None, offline: bool = False) -> dict:
@@ -278,8 +232,12 @@ def build(out: Path, cache: Path, limit: int | None, offline: bool = False) -> d
 def _build(http: Http, out: Path, limit: int | None) -> dict:
     items = legendary_items(http)
     by_name = {i["name"]: i for i in items}
+    store = wp.PageStore(http.dir, http.get_live, WIKI_API)
+    currencies = currency_ids(http)
+    expand = set(CONFIG.get("always_expand", []))
 
     legendaries, nodes, warnings = [], {}, []
+    stats: dict[str, dict] = {}
     for fam_id, fam in CONFIG["families"].items():
         if not fam.get("enabled", False):
             continue
@@ -290,34 +248,27 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         if limit:
             members = members[:limit]
         print(f"{fam_id}: {len(members)} legendaries")
+        before = (store.requests, store.bytes, store.fresh)
+        try:
+            tree = wp.walk(store, members, currencies, lambda ids: untradeable_ids(http, ids), expand)
+        except wp.WikiDown as e:
+            raise SourceDown(str(e)) from e
+        for n in tree.nodes.values():
+            nodes.setdefault(n["id"], n)
+        warnings += [f"{fam_id}: {w}" for w in tree.warnings]
+        stats[fam_id] = {"legendaries": len(members), "nodes": len(tree.nodes), "requests": store.requests - before[0],
+                         "bytes": store.bytes - before[1], "pages_downloaded": store.fresh - before[2],
+                         "pages_by_depth": tree.pages_by_depth}
         for title in members:
             item = by_name[title]
-            node_id = f"item:{item['id']}"
-            text = page_wikitext(http, title)
-            sources = [s for s in (parse_recipe(p) for p in find_templates(text, "Recipe")) if s]
-            if not sources:
-                warnings.append(f"{title}: no recipe found")
-            nodes[node_id] = {
-                "id": node_id,
-                "type": "forge" if any(s["kind"] == "mystic_forge" for s in sources) else "craft",
-                "name": title,
-                "item_id": item["id"],
-                "sources": sources,
-                "guidance": {
-                    "wiki_url": "https://wiki.guildwars2.com/wiki/" + urllib.parse.quote(title.replace(" ", "_")),
-                    "text": "",
-                    "waypoint_chat_code": None,  # TODO(0.2): nearest waypoint via /v2/continents
-                },
-            }
             legendaries.append({
                 "id": f"{fam_id}:{item['id']}",
                 "family": fam_id,
                 "name": title,
                 "item_id": item["id"],
-                "root_node_id": node_id,
+                "root_node_id": f"item:{item['id']}",
                 "weapon_type": item.get("details", {}).get("type"),
             })
-            # TODO(0.2): recurse into ingredients (gifts, precursor collections) by name -> page.
 
     pack = {
         "format_version": FORMAT_VERSION,
@@ -328,11 +279,12 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         "all_legendary_item_ids": sorted(i["id"] for i in items),
         # Hosts that were down this run and served from snapshot instead.
         # The addon shows "wiki data from snapshot" when non-empty.
-        "stale_sources": sorted(http.stale),
+        "stale_sources": sorted(set(http.stale) | ({"wiki.guildwars2.com"} if store.stale else set())),
     }
-    if http.stale:
+    if http.stale or store.stale:
         warnings.insert(0, "STALE: served from snapshot for " +
-                        ", ".join(f"{h} ({n} pages)" for h, n in sorted(http.stale.items())))
+                        ", ".join([f"{h} ({n} pages)" for h, n in sorted(http.stale.items())] +
+                                  ([f"wiki pages ({store.stale})"] if store.stale else [])))
     if limit is None:
         removed = http.prune()
         if removed:
@@ -342,6 +294,9 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     (out / "pack.json").write_text(body, encoding="utf-8")
     (out / "pack.json.sha256").write_text(hashlib.sha256(body.encode()).hexdigest() + "  pack.json\n")
     (out / "warnings.txt").write_text("\n".join(warnings) + "\n", encoding="utf-8")
+    (out / "stats.json").write_text(json.dumps(stats, indent=1) + "\n", encoding="utf-8")   # per-family size log
+    for fam_id, st in stats.items():
+        print(f"{fam_id}: {st['nodes']} nodes, {st['requests']} wiki requests, {st['pages_downloaded']} pages, {st['bytes'] // 1024} KB")
     return pack
 
 
