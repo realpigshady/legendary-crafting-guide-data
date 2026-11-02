@@ -2,15 +2,36 @@
   "families": {
     "gen2_weapon": {
       "enabled": true,
-      "wiki_category": "Category:Second generation legendary weapons"
+      "wiki_category": "Category:Legendary weapons",
+      "_note": "The wiki has one category for every generation; members = these titles (same 16 as the addon's kGen2Names), each checked against the category.",
+      "wiki_titles": [
+        "Astralaria",
+        "Chuka and Champawat",
+        "The Shining Blade",
+        "Exordium",
+        "Bindings of Ipos",
+        "Flames of War",
+        "Eureka",
+        "HOPE",
+        "H.M.S. Divinity",
+        "Claw of the Khan-Ur",
+        "Nevermore",
+        "Pharus",
+        "Sharur",
+        "Shooshadoo",
+        "Verdarach",
+        "Xiuquatl"
+      ]
     },
     "gen1_weapon": {
       "enabled": false,
-      "wiki_category": "Category:First generation legendary weapons"
+      "wiki_category": "Category:Legendary weapons",
+      "_note": "Needs wiki_titles before enabling: the wiki doesn't split weapons by generation."
     },
     "gen3_weapon": {
       "enabled": false,
-      "wiki_category": "Category:Third generation legendary weapons"
+      "wiki_category": "Category:Legendary weapons",
+      "_note": "Needs wiki_titles before enabling: the wiki doesn't split weapons by generation."
     },
     "armor": {
       "enabled": false,

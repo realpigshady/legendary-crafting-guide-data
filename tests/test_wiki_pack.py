@@ -144,3 +144,15 @@ def test_missing_page_is_flagged(tmp_path):
     fake = FakeWiki()
     w = wp.walk(wp.PageStore(tmp_path, fake), ["Nevermore", "No Such Page"], CURRENCIES, untradeable)
     assert "name:no_such_page" in w.nodes and any("No Such Page" in x for x in w.warnings)
+
+
+def test_match_family_titles_against_category_and_api():
+    import build_pack as bp
+    fam = {"wiki_category": "Category:Legendary weapons", "wiki_titles": ["HOPE", "Nevermore", "Gone"]}
+    cat = {"H.O.P.E.", "Nevermore", "Bolt"}
+    api = {"H.O.P.E.", "Nevermore", "Bolt"}
+    got, warn = bp.match_family(fam, cat, api)
+    assert got == {"H.O.P.E.": "H.O.P.E.", "Nevermore": "Nevermore"}
+    assert warn == ["Gone: not in Category:Legendary weapons"]
+    got, warn = bp.match_family({"wiki_category": "x"}, cat, {"Bolt"})
+    assert got == {"Bolt": "Bolt"} and warn == []

@@ -190,6 +190,10 @@ def legendary_items(http: Http) -> list[dict]:
     return items
 
 
+def _norm(name: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", name.lower())
+
+
 def family_members(http: Http, family: dict) -> set[str]:
     titles: set[str] = set()
     cont: dict = {}
@@ -200,6 +204,29 @@ def family_members(http: Http, family: dict) -> set[str]:
         if "continue" not in res:
             return titles
         cont = {"cmcontinue": res["continue"]["cmcontinue"]}
+
+
+def match_family(family: dict, category: set[str], api_names: set[str]) -> tuple[dict[str, str], list[str]]:
+    """Wiki title -> API item name for the family's members, plus warnings.
+
+    Without wiki_titles every category member that is a legendary item counts. With them
+    (the wiki has one category for all weapon generations) only those titles count; each is
+    matched to the category and the API ignoring case and punctuation (HOPE vs H.O.P.E.)."""
+    api = {_norm(n): n for n in api_names}
+    if "wiki_titles" not in family:
+        return {t: api[_norm(t)] for t in category if _norm(t) in api}, []
+    cat = {_norm(t): t for t in category}
+    out, warn = {}, []
+    for want in family["wiki_titles"]:
+        title = cat.get(_norm(want))
+        if not title:
+            warn.append(f"{want}: not in {family['wiki_category']}")
+            continue
+        if _norm(title) not in api:
+            warn.append(f"{title}: no API legendary of that name")
+            continue
+        out[title] = api[_norm(title)]
+    return out, warn
 
 
 def untradeable_ids(http: Http, ids: list[int]) -> set[int]:
@@ -247,7 +274,11 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     for fam_id, fam in CONFIG["families"].items():
         if not fam.get("enabled", False):
             continue
-        members = sorted(family_members(http, fam) & set(by_name))
+        matched, miss = match_family(fam, family_members(http, fam), set(by_name))
+        warnings += [f"{fam_id}: {w}" for w in miss]
+        for w in miss:
+            print(f"  {fam_id}: {w}", file=sys.stderr)
+        members = sorted(matched)
         if not members:
             raise SystemExit(f"{fam_id}: 0 legendaries matched — check wiki_category "
                              f"'{fam['wiki_category']}' in config/families.json")
@@ -266,7 +297,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                          "bytes": store.bytes - before[1], "pages_downloaded": store.fresh - before[2],
                          "pages_by_depth": tree.pages_by_depth}
         for title in members:
-            item = by_name[title]
+            item = by_name[matched[title]]
             legendaries.append({
                 "id": f"{fam_id}:{item['id']}",
                 "family": fam_id,
