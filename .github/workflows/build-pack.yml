@@ -46,6 +46,18 @@ jobs:
             -o probe.json -w "HTTP %{http_code} %{content_type}\n" \
             "https://wiki.guildwars2.com/api.php?action=query&meta=siteinfo&format=json" || true
           head -c 300 probe.json; echo
+          W="https://wiki.guildwars2.com/api.php?format=json&formatversion=2&action=query"
+          UA="legendary-crafting-guide-data pack generator (github.com/realpigshady/legendary-crafting-guide-data)"
+          # family categories: do they exist and have members (a restored wiki can have empty category tables)
+          python3 - <<'EOF' > cats.txt
+          import json, urllib.parse
+          for f in json.load(open("config/families.json"))["families"].values():
+              c = f.get("wiki_category") if isinstance(f, dict) else None
+              if c: print(urllib.parse.quote(c))
+          EOF
+          for c in $(cat cats.txt); do curl -sS -m 30 -A "$UA" "$W&prop=categoryinfo&titles=$c"; echo; sleep 1; done
+          curl -sS -m 30 -A "$UA" "$W&list=search&srnamespace=14&srlimit=20&srsearch=legendary%20weapons"; echo; sleep 1
+          curl -sS -m 30 -A "$UA" "$W&prop=categories&cllimit=50&titles=Nevermore"; echo
 
       - name: Fetch previous pack
         env:
