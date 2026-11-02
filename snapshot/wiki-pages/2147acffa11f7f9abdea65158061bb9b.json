@@ -1,0 +1,5 @@
+{
+"revid": 1858770,
+"text": "{{Item infobox\n| type = crafting material\n| material type = fine\n| tier = 1\n| material storage = Intermediate Crafting Materials\n| rarity = fine\n| value = 3\n| id = 24278\n}}\n\n== Acquisition ==\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== [[Map Bonus Reward]] ===\n* Week 1 - [[Brisban Wildlands]] - 25 total\n* Week 2 - [[Gendarran Fields]] - 25 total\n* Week 3 - [[Lornar's Pass]] - 14 total\n* Week 4 - [[Fields of Ruin]] - 23 total\n* Week 5 - none\n* Week 6 - [[Snowden Drifts]] - 24 total\n* Week 7 - [[Diessa Plateau]] - 20 total\n* Week 8 - [[Kessex Hills]] - 18 total\n\nIt is currently '''Week {{#vardefineecho:index|{{#expr: ((({{#time: U | {{{date|now}}} {{{1|}}} }} - {{#time: U | 2015/10/08 20:00 }})/(60*60*24*7)) mod 8 )+1}}}}'''.\n=== Reward tracks ===\n{{Contained in reward track}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Fine crafting materials nav}}\n[[de:Winziger Giftbeutel]]\n[[es:Vesícula de veneno diminuta]]\n[[fr:Sac à venin minuscule]]",
+"title": "Tiny Venom Sac"
+}

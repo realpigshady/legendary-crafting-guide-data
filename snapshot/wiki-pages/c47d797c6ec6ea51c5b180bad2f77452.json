@@ -1,0 +1,5 @@
+{
+"revid": 2077512,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Green Wood Log|Logs]].\n| material type = refinement\n| tier = 1\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 2\n| id = 19710\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = artificer, huntsman, scribe, weaponsmith\n| ingredient1 = 3 Green Wood Log\n| id = 3\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Grüne Holzplanke]]\n[[es:Tabla de madera verde]]\n[[fr:Planche de bois vert]]",
+"title": "Green Wood Plank"
+}

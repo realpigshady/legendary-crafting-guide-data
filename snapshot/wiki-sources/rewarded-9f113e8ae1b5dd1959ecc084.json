@@ -1,0 +1,159 @@
+{
+"fetched": 1793661133.6594296,
+"item": "Fine Essence of Luck",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Aetherblade Champion (Seitung Province)"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Defeat the Aetherblade Champion (Seitung Province)#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Destroy the corruption before the system overloads!"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Destroy the corruption before the system overloads!#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Fend off the leviathan"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Fend off the leviathan#reward12"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"New Kaineng Fishing Tournament (Wu)"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "New Kaineng Fishing Tournament (Wu)#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"New Kaineng Fishing Tournament (Yu)"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "New Kaineng Fishing Tournament (Yu)#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-3"
+],
+"Rewarded by": [
+"Shing Jea Fishing Tournament"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Shing Jea Fishing Tournament#reward23"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Stop the looting!"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Stop the looting!#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Transfer discharged jade batteries to the battery crate"
+],
+"Rewards item": [
+"Fine Essence of Luck"
+],
+"_subject": "Transfer discharged jade batteries to the battery crate#reward4"
+}
+]
+}

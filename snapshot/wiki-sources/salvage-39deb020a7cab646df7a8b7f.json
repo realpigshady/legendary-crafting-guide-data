@@ -1,0 +1,40 @@
+{
+"fetched": 1793660097.5315907,
+"item": "Glob of Dark Matter",
+"kind": "salvage",
+"rows": [
+{
+"Has canonical name": [
+"Blooming Druid Stone"
+],
+"Salvages into": [
+"Glob of Ectoplasm",
+"Unbound Magic",
+"Glob of Dark Matter"
+],
+"_subject": "Blooming Druid Stone"
+},
+{
+"Has canonical name": [
+"Druid Stone"
+],
+"Salvages into": [
+"Glob of Ectoplasm",
+"Unbound Magic",
+"Glob of Dark Matter"
+],
+"_subject": "Druid Stone"
+},
+{
+"Has canonical name": [
+"Living Druid Stone"
+],
+"Salvages into": [
+"Glob of Ectoplasm",
+"Unbound Magic",
+"Glob of Dark Matter"
+],
+"_subject": "Living Druid Stone"
+}
+]
+}

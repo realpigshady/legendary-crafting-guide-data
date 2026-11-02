@@ -1,0 +1,42 @@
+{
+"fetched": 1793660128.6901932,
+"item": "Masterwork Essence of Luck",
+"kind": "vendor",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "248"
+},
+{
+"Has item currency": "Mordrem Bloom",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mordrem Researcher (NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Durmand Priory (location)"
+],
+"Sells item": [
+"Masterwork Essence of Luck"
+],
+"_subject": "Mordrem Researcher (NPC)#vendor2"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 1657224,
+"text": "{{Item infobox\n| type = crafting material\n| material type = fine\n| tier = 1\n| material storage = Intermediate Crafting Materials\n| rarity = fine\n| value = 3\n| id = 24290\n}}\n\n== Acquisition ==\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== [[Map Bonus Reward]] ===\n* Week 1 - [[Kessex Hills]] - 14 total\n* Week 2 - [[Brisban Wildlands]] - 20 total\n* Week 3 - [[Gendarran Fields]] - 22 total\n* Week 4 - [[Lornar's Pass]] - 25 total\n* Week 5 - [[Fields of Ruin]] - 12 total\n* Week 6 - none\n* Week 7 - [[Snowden Drifts]] - 20 total\n* Week 8 - [[Diessa Plateau]] - 14 total\n\nIt is currently '''Week {{#vardefineecho:index|{{#expr: ((({{#time: U | {{{date|now}}} {{{1|}}} }} - {{#time: U | 2015/10/08 20:00 }})/(60*60*24*7)) mod 8 )+1}}}}\n'''\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Fine crafting materials nav}}\n[[de:Phiole mit Schwachem Blut]]\n[[es:Vial de sangre débil]]\n[[fr:Flacon de sang faible]]",
+"title": "Vial of Weak Blood"
+}

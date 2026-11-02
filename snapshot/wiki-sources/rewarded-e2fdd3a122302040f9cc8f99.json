@@ -1,0 +1,805 @@
+{
+"fetched": 1793660365.6421711,
+"item": "Empyreal Fragment",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"A Meeting of Ministers"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "A Meeting of Ministers#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Arcana Obscura"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Arcana Obscura#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Caithe's Reconnaissance Squad"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Caithe's Reconnaissance Squad#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Completed three kill events within five minutes"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Completed three kill events within five minutes#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Confessor's Stronghold"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Confessor's Stronghold#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Cornered"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Cornered#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Defend Red Rock Bastion and protect Warmaster Gritblade from the Mordrem"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Defend Red Rock Bastion and protect Warmaster Gritblade from the Mordrem#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Discovering Scarlet's Breakthrough"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Discovering Scarlet's Breakthrough#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Disturbance in Brisban Wildlands"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Disturbance in Brisban Wildlands#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Eir's Memorial in Hoelbrak"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Eir's Memorial in Hoelbrak#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Elixir Cookin'"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Elixir Cookin'#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Fallen Hopes"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Fallen Hopes#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Forearmed Is Forewarned (Living World Season 4)"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Forearmed Is Forewarned (Living World Season 4)#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Glory of Dragons"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Glory of Dragons#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Heart of the Volcano (story)"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Heart of the Volcano (story)#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Journey to Bitterfrost Frontier"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Journey to Bitterfrost Frontier#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Legacy"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Legacy#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Meeting the Asura"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Meeting the Asura#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"On Orrian Shores"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "On Orrian Shores#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Pact Assaulted"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Pact Assaulted#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Party Politics"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Party Politics#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Rallying Call"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Rallying Call#reward4"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Recalibrating the Waypoints"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Recalibrating the Waypoints#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Regrouping with the Queen"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Regrouping with the Queen#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Return to Camp Resolve"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Return to Camp Resolve#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Reunion with the Pact"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Reunion with the Pact#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Scarlet's Secret Room"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Scarlet's Secret Room#reward4"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Storm Tracking"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Storm Tracking#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Tactical Triage"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Tactical Triage#reward7"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Taimi's Game"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Taimi's Game#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Taimi's Pet Project"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Taimi's Pet Project#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Concordia Incident"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Concordia Incident#reward4"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Crystal Blooms"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Crystal Blooms#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Crystal Dragon"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Crystal Dragon#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The First City"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The First City#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Ghosts of Fort Salma"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Ghosts of Fort Salma#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Newly Awakened"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Newly Awakened#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Test Subject"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Test Subject#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Waypoint Conundrum"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "The Waypoint Conundrum#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Tracking the Aspect Masters"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Tracking the Aspect Masters#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Under the Stars"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Under the Stars#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Uprooting the Iron Marches"
+],
+"Rewards item": [
+"Empyreal Fragment"
+],
+"_subject": "Uprooting the Iron Marches#reward4"
+}
+]
+}

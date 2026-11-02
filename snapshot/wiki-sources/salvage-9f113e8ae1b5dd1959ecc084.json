@@ -1,0 +1,88 @@
+{
+"fetched": 1793661165.44564,
+"item": "Fine Essence of Luck",
+"kind": "salvage",
+"rows": [
+{
+"Has canonical name": [
+"Glob of Ectoplasm"
+],
+"Salvages into": [
+"Pile of Crystalline Dust",
+"Fine Essence of Luck",
+"Masterwork Essence of Luck",
+"Rare Essence of Luck",
+"Exotic Essence of Luck"
+],
+"_subject": "Glob of Ectoplasm"
+},
+{
+"Has canonical name": [
+"Piece of Common Unidentified Gear"
+],
+"Salvages into": [
+"Thick Leather Section",
+"Hardened Leather Section",
+"Silk Scrap",
+"Gossamer Scrap",
+"Mithril Ore",
+"Orichalcum Ore",
+"Elder Wood Log",
+"Ancient Wood Log",
+"Symbol of Enhancement",
+"Charm of Potence",
+"Lucent Mote",
+"Symbol of Pain",
+"Charm of Skill",
+"Charm of Brilliance",
+"Symbol of Control",
+"Fine Essence of Luck",
+"Masterwork Essence of Luck",
+"Rare Essence of Luck"
+],
+"_subject": "Piece of Common Unidentified Gear"
+},
+{
+"Has canonical name": [
+"Piece of Unidentified Gear"
+],
+"Salvages into": [
+"Thick Leather Section",
+"Hardened Leather Section",
+"Silk Scrap",
+"Gossamer Scrap",
+"Mithril Ore",
+"Orichalcum Ore",
+"Elder Wood Log",
+"Ancient Wood Log",
+"Symbol of Enhancement",
+"Charm of Potence",
+"Lucent Mote",
+"Symbol of Pain",
+"Charm of Skill",
+"Charm of Brilliance",
+"Symbol of Control",
+"Fine Essence of Luck",
+"Masterwork Essence of Luck",
+"Rare Essence of Luck",
+"Exotic Essence of Luck"
+],
+"_subject": "Piece of Unidentified Gear"
+},
+{
+"Has canonical name": [
+"Salvageable Intact Forged Scrap"
+],
+"Salvages into": [
+"Mithril Ore",
+"Orichalcum Ore",
+"Sliver of Twitching Forgemetal",
+"Fine Essence of Luck",
+"Masterwork Essence of Luck",
+"Rare Essence of Luck",
+"Exotic Essence of Luck"
+],
+"_subject": "Salvageable Intact Forged Scrap"
+}
+]
+}

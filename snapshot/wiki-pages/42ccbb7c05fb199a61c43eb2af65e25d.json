@@ -1,0 +1,5 @@
+{
+"revid": 2288349,
+"text": "{{Item infobox\n| description = Double-click to [[salvage]] [[crafting material]]s from an item in your [[inventory]]. 20% chance of rarer materials. 60% chance of salvaging [[upgrade]]s.\n| type = salvage kit\n| rarity = masterwork\n| bound = account\n| id = 23042\n}}\n\n== Acquisition ==\n* [[Level rewards]] upon reaching level 61.\n\n=== Sold by ===\n* Any [[merchant]] or [[Master craftsman]] for {{coin|800}}\n* [[Zephyrite merchant]]s for {{coin|400}} and {{token|geode|8}}\n* Sold by the following for karma:\n{{Vendor query table|item=Journeyman's Salvage Kit|currency=karma}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Has 25 uses, equaling {{coin|32}} per use.\n\n[[de:Gesellen-Wiederverwertungskit]]\n[[es:Kit de reciclaje de titulado]]\n[[fr:Nécessaire de recyclage de compagnon]]",
+"title": "Journeyman's Salvage Kit"
+}

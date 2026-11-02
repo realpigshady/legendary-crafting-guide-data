@@ -1,0 +1,100 @@
+{
+"fetched": 1793660128.6901932,
+"item": "Continue Coin",
+"kind": "vendor",
+"rows": [
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Coin Machine"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Continue Coin"
+],
+"_subject": "Coin Machine#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Moto"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Creator's Commons"
+],
+"Sells item": [
+"Continue Coin"
+],
+"_subject": "Moto#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Continue Coin"
+],
+"_subject": "Super Adventure Box Trader#vendor55"
+}
+]
+}

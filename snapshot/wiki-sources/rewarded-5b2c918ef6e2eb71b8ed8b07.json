@@ -1,0 +1,1109 @@
+{
+"fetched": 1793660365.6421711,
+"item": "Dragonite Ore",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"A Race to Arms"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "A Race to Arms#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"A Shattered Nation"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "A Shattered Nation#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Arrival and Survival"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Arrival and Survival#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Bad Blood (Bound by Blood)"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Bad Blood (Bound by Blood)#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Blood and Stone"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Blood and Stone#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"18-25"
+],
+"Rewarded by": [
+"Branded for Termination"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Branded for Termination#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Breaking the Siege"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Breaking the Siege#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Coming Home"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Coming Home#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Completed three kill events within five minutes"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Completed three kill events within five minutes#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Convincing the Corsair"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Convincing the Corsair#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"16-25"
+],
+"Rewarded by": [
+"Deep Trouble"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Deep Trouble#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Deeper and Deeper"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Deeper and Deeper#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"20-30;100"
+],
+"Rewarded by": [
+"Defeat Drakkar"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Defeat Drakkar#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Defeat Scarlet's Prime Hologram before the defenses activate"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Defeat Scarlet's Prime Hologram before the defenses activate#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Defend Red Rock Bastion and protect Warmaster Gritblade from the Mordrem"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Defend Red Rock Bastion and protect Warmaster Gritblade from the Mordrem#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Descent"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Descent#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Destroying Destroyers"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Destroying Destroyers#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Dragon Vigil"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Dragon Vigil#reward2"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Instance"
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"20-30"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Dragonstorm#reward6"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Elder Druid Protection"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Elder Druid Protection#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Eye of the Brandstorm"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Eye of the Brandstorm#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Eyes on Lake Doric"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Eyes on Lake Doric#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"From the Ashes"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "From the Ashes#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Guild Race"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Guild Race#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Hidden Arcana"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Hidden Arcana#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Igneous Breach"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Igneous Breach#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"20"
+],
+"Rewarded by": [
+"Into the Labyrinth"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Into the Labyrinth#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Kill the Bloodstone-Crazed Devourer"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Kill the Bloodstone-Crazed Devourer#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the chak crown!"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Kill the chak crown!#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Machine in the Flame"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Machine in the Flame#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"20"
+],
+"Rewarded by": [
+"No Refuge"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "No Refuge#reward4"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Old Foes, Old Ghosts"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Old Foes, Old Ghosts#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Plan of Attack"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Plan of Attack#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Precocious Aurene"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Precocious Aurene#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Prosperity's Mystery"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Prosperity's Mystery#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Rescue Zildi's Assist-o-Matic by slaying the chak lobber"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Rescue Zildi's Assist-o-Matic by slaying the chak lobber#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Research in Rata Novus"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Research in Rata Novus#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Resonance"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Resonance#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Revels & Rivals"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Revels & Rivals#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Scion & Champion"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Scion & Champion#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15-25"
+],
+"Rewarded by": [
+"Scratch Sentry Defense"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Scratch Sentry Defense#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Seized"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Seized#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Shining Blade Secrets"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Shining Blade Secrets#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"16-25"
+],
+"Rewarded by": [
+"Southsun Crab Toss"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Southsun Crab Toss#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Summit Invitations"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Summit Invitations#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Tactical Triage"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Tactical Triage#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Taimi and the Asura"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Taimi and the Asura#reward4"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Bitter Cold (story)"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The Bitter Cold (story)#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The End"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The End#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Flow of Magic"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The Flow of Magic#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"The Machine"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The Machine#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"The Mystery Cave"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The Mystery Cave#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"The Road to Rata Primus"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The Road to Rata Primus#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"The World Summit"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "The World Summit#reward5"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Tracking the Master of Peace"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Tracking the Master of Peace#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Tracking the Scientist"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Tracking the Scientist#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Trip to the Circus"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Trip to the Circus#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Trouble at Fort Salma"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Trouble at Fort Salma#reward4"
+}
+]
+}

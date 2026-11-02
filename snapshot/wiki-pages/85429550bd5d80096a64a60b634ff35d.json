@@ -1,0 +1,5 @@
+{
+"revid": 2286859,
+"text": "{{Item infobox\n| description = Double-click to [[salvage]] [[crafting material]]s from an item in your [[inventory]]. 15% chance of rarer materials. 40% chance of salvaging [[upgrade]]s.\n| type = salvage kit\n| rarity = fine\n| bound = account\n| id = 23041\n}}\n\n== Acquisition ==\n* [[Level rewards]] upon reaching level 44.\n\n=== Sold by ===\n* Any [[merchant]] or [[Master craftsman]] for {{coin|288}}\n* [[Zephyrite merchant]]s for {{coin|144}} and {{token|geode|6}}\n* Sold by the following for karma:\n{{Vendor query table|item=Fine Salvage Kit|currency=karma}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Has 25 uses.\n\n[[de:Edles Wiederverwertungskit]]\n[[es:Kit de reciclaje selecto]]\n[[fr:Nécessaire de recyclage raffiné]]",
+"title": "Fine Salvage Kit"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2379400,
+"text": "{{Item infobox\n| description = Double-click to [[salvage]] [[crafting material]]s from an item in your [[inventory]]. 10% chance of rarer materials. 20% chance of salvaging [[upgrade]]s.\n| type = salvage kit\n| rarity = basic\n| bound = account\n| id = 23040\n}}\n\n== Acquisition ==\n=== Sold by ===\n* Any [[merchant]] or [[Master craftsman]] for {{coin|88}}\n* [[Zephyrite merchant]]s for {{coin|40}} and {{token|geode|4}}\n* Sold by the following for karma:\n{{Vendor query table|item=Basic Salvage Kit|currency=karma}}\n\n=== Rewarded by ===\n{{rewarded by}}\n* [[Level rewards]] upon reaching level 38.\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Has 25 uses.\n\n[[de:Einfaches Wiederverwertungskit]]\n[[es:Kit de reciclaje básico]]\n[[fr:Nécessaire de recyclage basique]]",
+"title": "Basic Salvage Kit"
+}

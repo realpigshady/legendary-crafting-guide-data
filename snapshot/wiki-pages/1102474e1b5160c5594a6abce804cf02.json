@@ -1,0 +1,5 @@
+{
+"revid": 1684270,
+"text": "{{Item infobox\n| type = crafting material\n| material type = rare\n| tier = 1\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| value = 9\n| id = 24326\n}}\n\n== Acquisition ==\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== [[Map Bonus Reward]] ===\n* Week 1 - [[Brisban Wildlands]] - 10 total\n* Week 2 - [[Kessex Hills]] - 10 total\n* Week 3 - [[Diessa Plateau]] - 10 total\n* Week 4 - [[Snowden Drifts]] - 10 total\n* Week 5 - none\n* Week 6 - [[Fields of Ruin]] - 10 total\n* Week 7 - [[Lornar's Pass]] - 10 total\n* Week 8 - [[Gendarran Fields]] - 10 total\n\nIt is currently '''Week {{#vardefineecho:index|{{#expr: ((({{#time: U | {{{date|now}}} {{{1|}}} }} - {{#time: U | 2015/10/08 20:00 }})/(60*60*24*7)) mod 8 )+1}}}}\n'''\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Advanced crafting materials nav}}\n\n[[de:Kristall-Span]]\n[[es:Astilla de cristal]]\n[[fr:Esquille de cristal]]",
+"title": "Crystal Sliver"
+}

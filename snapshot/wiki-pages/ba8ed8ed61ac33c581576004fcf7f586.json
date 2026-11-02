@@ -1,0 +1,5 @@
+{
+"revid": 2110095,
+"text": "{{Item infobox\n| type = crafting material\n| material type = fine\n| tier = 1\n| material storage = Intermediate Crafting Materials\n| rarity = fine\n| value = 3\n| id = 24352\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== [[Map Bonus Reward]] ===\n* Week 1 - [[Snowden Drifts]] - 23 total\n* Week 2 - [[Diessa Plateau]] - 25 total\n* Week 3 - [[Kessex Hills]] - 21 total\n* Week 4 - [[Brisban Wildlands]] - 14 total\n* Week 5 - [[Gendarran Fields]] - 24 total\n* Week 6 - [[Lornar's Pass]] - 18 total\n* Week 7 - [[Fields of Ruin]] - 22 total\n* Week 8 - none\n\nIt is currently '''Week {{#vardefineecho:index|{{#expr: ((({{#time: U | {{{date|now}}} {{{1|}}} }} - {{#time: U | 2015/10/08 20:00 }})/(60*60*24*7)) mod 8 )+1}}}}'''.\n\n=== Reward tracks ===\n{{Contained in reward track}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Fine crafting materials nav}}\n\n[[de:Winziger Fangzahn]]\n[[es:Colmillo diminuto]]\n[[fr:Croc miniature]]",
+"title": "Tiny Fang"
+}

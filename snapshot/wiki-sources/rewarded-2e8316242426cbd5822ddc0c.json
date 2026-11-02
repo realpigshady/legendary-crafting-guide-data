@@ -1,0 +1,64 @@
+{
+"fetched": 1793659964.4826863,
+"item": "Bottle of Airship Oil",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Prisoners of the Dragon"
+],
+"Rewards item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Prisoners of the Dragon#reward6"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"The Jungle Provides"
+],
+"Rewards item": [
+"Bottle of Airship Oil"
+],
+"_subject": "The Jungle Provides#reward3"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Torn from the Sky"
+],
+"Rewards item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Torn from the Sky#reward4"
+}
+]
+}

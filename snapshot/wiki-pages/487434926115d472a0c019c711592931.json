@@ -1,0 +1,5 @@
+{
+"revid": 3115738,
+"text": "{{Item infobox\n| description = Refine into [[Soft Wood Plank|Planks]].\n| type = crafting material\n| material type = basic\n| material storage = Basic Crafting Materials\n| tier = 2\n| rarity = basic\n| value = 3\n| id = 19726\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Salvaged from ===\n* Salvaged from level 16-35 weapons.\n{{salvaged from}}\n\n=== Recipe ===\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Green Wood Log\n| ingredient2 = 1 Soft Wood Log\n| ingredient3 = 5 Pile of Shimmering Dust\n| ingredient4 = 1 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Soft Wood Log}}\n\n{{Common crafting materials nav}}\n\n[[de:Weicher Holzblock]]\n[[es:Leño de madera blanda]]\n[[fr:Rondin de bois tendre]]",
+"title": "Soft Wood Log"
+}

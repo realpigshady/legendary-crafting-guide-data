@@ -1,0 +1,5 @@
+{
+"revid": 3034612,
+"text": "{{Item infobox\n| type = crafting material\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| id = 82678\n| requires = pof\n}}\n\n[[Pulsing Brandspark]]s are a [[material]] used in [[crafting]] and as a [[currency]] for purchasing items from [[heart]] vendors in the [[Crystal Desert]].\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Dropped by ===\n* Occasionally dropped by enemies found in the [[Crystal Desert]].\n\n=== Recipe ===\n{{recipe\n| source = discovery\n| type = Refinement\n| disciplines = Armorsmith, Leatherworker, Tailor, Huntsman, Artificer, Scribe, Weaponsmith\n| rating = 400\n| ingredient1 = 10 Congealed Putrescence\n| ingredient2 = 1 Crystal Lodestone\n| ingredient3 = 3 Ley-Infused Sand\n| ingredient4 = 10 Eye of Kormir\n| id = 12249\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Pulsing Brandspark}}\n\n[[de:Pulsierender Brandfunken]]\n[[es:Chispa marcada palpitante]]\n[[fr:Étincerouge vibrante]]",
+"title": "Pulsing Brandspark"
+}

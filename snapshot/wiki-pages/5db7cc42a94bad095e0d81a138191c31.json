@@ -1,0 +1,5 @@
+{
+"revid": 2287517,
+"text": "{{Item infobox\n| description = Refine into [[Gold Ingot|Ingots]].\n| type = crafting material\n| material type = basic\n| tier = 3\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 5\n| id = 19698\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Salvaged from ===\n{{salvaged from}}\n\n=== Recipe ===\n{{Recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Silver Ore\n| ingredient2 = 1 Gold Ore\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 2 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n== Currency for ==\n{{Vendor query table|currency=Gold Ore}}\n\n{{Common crafting materials nav}}\n\n[[de:Golderz]]\n[[es:Mineral de oro]]\n[[fr:Minerai d'or]]",
+"title": "Gold Ore"
+}

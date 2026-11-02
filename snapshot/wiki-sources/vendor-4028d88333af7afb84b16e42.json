@@ -1,0 +1,711 @@
+{
+"fetched": 1793660128.6901932,
+"item": "Pulsing Brandspark",
+"kind": "vendor",
+"rows": [
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crystal Oasis: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Crystal Oasis: Commander's Choice Chest#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Domain of Vabbi: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Domain of Vabbi: Commander's Choice Chest#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Elon Riverlands: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Elon Riverlands: Commander's Choice Chest#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor105"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor112"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor91"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor98"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor105"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor112"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor91"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor98"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Crystal Desert Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Crystal Desert Exchanges#vendor101"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Crystal Desert Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Crystal Desert Exchanges#vendor108"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Crystal Desert Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Crystal Desert Exchanges#vendor87"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Crystal Desert Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Portable Wizard's Tower Exchange/Crystal Desert Exchanges#vendor94"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"The Desolation: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "The Desolation: Commander's Choice Chest#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Crystal Desert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Crystal Desert#vendor101"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Crystal Desert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Crystal Desert#vendor108"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Crystal Desert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Crystal Desert#vendor87"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Crystal Desert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Crystal Desert#vendor94"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "The Desolation: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor105"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Domain of Vabbi: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor112"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crystal Oasis: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor91"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elon Riverlands: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pulsing Brandspark"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor98"
+}
+]
+}

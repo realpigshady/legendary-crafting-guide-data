@@ -1,0 +1,31 @@
+{
+"fetched": 1793660097.5315907,
+"item": "Augur's Stone",
+"kind": "salvage",
+"rows": [
+{
+"Has canonical name": [
+"Lesser Vision Crystal"
+],
+"Salvages into": [
+"Bloodstone Brick",
+"Empyreal Star",
+"Dragonite Ingot",
+"Augur's Stone"
+],
+"_subject": "Lesser Vision Crystal"
+},
+{
+"Has canonical name": [
+"Vision Crystal"
+],
+"Salvages into": [
+"Bloodstone Brick",
+"Empyreal Star",
+"Dragonite Ingot",
+"Augur's Stone"
+],
+"_subject": "Vision Crystal"
+}
+]
+}

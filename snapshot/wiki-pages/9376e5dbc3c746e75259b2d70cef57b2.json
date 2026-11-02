@@ -1,0 +1,5 @@
+{
+"revid": 2787775,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Rawhide Leather Section|Sections]].\n| material type = refinement\n| tier = 1\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 2\n| id = 19738\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, huntsman, leatherworker, scribe, tailor\n| ingredient1 = 2 Rawhide Leather Section\n| id = 23\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Gespannter Rohlederflicken]]\n[[es:Retal de cuero sin curtir estirado]]\n[[fr:Pièce de cuir brut étirée]]",
+"title": "Stretched Rawhide Leather Square"
+}

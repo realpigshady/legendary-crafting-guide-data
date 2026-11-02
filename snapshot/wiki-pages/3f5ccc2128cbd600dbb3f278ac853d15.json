@@ -1,0 +1,5 @@
+{
+"revid": 3011299,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Copper Ore|Ore]].\n| material type = refinement\n| tier = 1\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 2\n| id = 19680\n}}\n\n== Acquisition ==\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = jeweler, scribe\n| ingredient1 = 2 Copper Ore\n| id = 15\n}}\n\n=== Contained in ===\n{{contained in}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Notes ==\n{{anomaly|Excluding the precursor crafting, there is only one weaponsmith recipe that requires [[Copper Ingot]]s instead of [[Bronze Ingot]]s, however there is no way to get refined Copper Ingots through weaponsmithing.}}\n\n{{Common crafting materials nav}}\n[[de:Kupferbarren]]\n[[es:Lingote de cobre]]\n[[fr:Lingot de cuivre]]",
+"title": "Copper Ingot"
+}

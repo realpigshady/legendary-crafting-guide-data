@@ -1,0 +1,64 @@
+{
+"fetched": 1793659964.4826863,
+"item": "Bava Nisos: Commander's Choice Chest",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Assault the North Lung"
+],
+"Rewards item": [
+"Bava Nisos: Commander's Choice Chest"
+],
+"_subject": "Assault the North Lung#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Assault the South Lung"
+],
+"Rewards item": [
+"Bava Nisos: Commander's Choice Chest"
+],
+"_subject": "Assault the South Lung#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Assault the titanic heart"
+],
+"Rewards item": [
+"Bava Nisos: Commander's Choice Chest"
+],
+"_subject": "Assault the titanic heart#reward1"
+}
+]
+}

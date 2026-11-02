@@ -1,0 +1,5 @@
+{
+"revid": 2289044,
+"text": "{{Item infobox\n| description = Double-click to [[salvage]] [[crafting material]]s from an item in your [[inventory]]. 25% chance of rarer materials. 80% chance of salvaging [[upgrade]]s.\n| type = salvage kit\n| rarity = rare\n| bound = account\n| id = 23043\n}}\n\n[[Master's Salvage Kit]] is a [[salvage kit]] with 25 uses. It offers the same effectiveness as either the [[Silver-Fed Salvage-o-Matic]] or the [[Mystic Salvage Kit]].\n\n== Acquisition ==\n* Any [[merchant]] or [[Master craftsman]] for {{coin|1536}}\n* [[Zephyrite merchant]]s for {{coin|800}} and {{token|geode|10}}\n* Sold by the following for karma:\n{{Vendor query table|item=Master's Salvage Kit|currency=karma}}\n\n== Used in ==\nEach of the recipes below requires a full-charged kit, i.e. 25 remaining uses.\n{{recipe list}}\n\n== Trivia ==\n* Before October 2012, [[Master Weaponsmith]]s sold these items, as well as others, for karma.\n\n[[de:Meister-Wiederverwertungskit]]\n[[es:Kit de reciclaje de maestro]]\n[[fr:Nécessaire de recyclage de maître]]",
+"title": "Master's Salvage Kit"
+}

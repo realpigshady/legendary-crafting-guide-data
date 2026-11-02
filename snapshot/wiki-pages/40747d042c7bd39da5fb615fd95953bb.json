@@ -1,0 +1,5 @@
+{
+"revid": 2379399,
+"text": "{{Item infobox\n| description = Double-click to salvage [[crafting material]]s from an item in your [[inventory]]. Has a small chance of salvaging [[Upgrade component|upgrades]].\n| type = salvage kit\n| rarity = basic\n| value = 4\n| bound = account\n| id = 23038\n}}\n\n== Acquisition ==\n* [[Level rewards]] upon reaching level 12.\n\n=== Contained in ===\n{{contained in}}\n\n=== Sold by ===\n* Any [[merchant]] or [[Master craftsman]] for {{coin|32}}\n* [[Zephyrite merchant]]s for {{coin|16}} and {{token|geode|2}}\n* Sold by the following for karma:\n{{Vendor query table|item=Crude Salvage Kit|currency=karma}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Has 15 uses.\n* The chance of salvaging an upgrade is approximately 5%.\n\n[[de:Grobes Wiederverwertungskit]]\n[[es:Kit de reciclaje rudimentario]]\n[[fr:Nécessaire de recyclage rudimentaire]]",
+"title": "Crude Salvage Kit"
+}

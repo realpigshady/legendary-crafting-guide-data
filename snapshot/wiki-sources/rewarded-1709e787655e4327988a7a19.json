@@ -1,0 +1,45 @@
+{
+"fetched": 1793659964.4826863,
+"item": "Ley Line Spark",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Buried Insight"
+],
+"Rewards item": [
+"Ley Line Spark"
+],
+"_subject": "Buried Insight#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Roots of Terror"
+],
+"Rewards item": [
+"Ley Line Spark"
+],
+"_subject": "Roots of Terror#reward4"
+}
+]
+}

@@ -1,0 +1,25 @@
+{
+"body": [
+{
+"chat_link": "[&AgEGXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/044EFF43FF7DF27C0C542AAA4E064E0F533E782E/66977.png",
+"id": 24326,
+"level": 0,
+"name": "Crystal Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24326"
+}

@@ -1,0 +1,45 @@
+{
+"fetched": 1793659964.4826863,
+"item": "Pile of Auric Dust",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"City of Hope"
+],
+"Rewards item": [
+"Pile of Auric Dust"
+],
+"_subject": "City of Hope#reward1"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Strange Observations"
+],
+"Rewards item": [
+"Pile of Auric Dust"
+],
+"_subject": "Strange Observations#reward6"
+}
+]
+}

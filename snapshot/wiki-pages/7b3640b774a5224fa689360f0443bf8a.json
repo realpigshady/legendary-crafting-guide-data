@@ -1,0 +1,5 @@
+{
+"revid": 3116846,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Thick Leather Section|Sections]].\n| material type = refinement\n| tier = 5\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 7\n| id = 19735\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, artificer, huntsman, leatherworker, scribe, tailor, weaponsmith\n| rating = 300\n| ingredient1 = 4 Thick Leather Section\n| id = 27\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 190\n| ingredient1 = 250 Cured Rugged Leather Square\n| ingredient2 = 1 Cured Thick Leather Square\n| ingredient3 = 5 Pile of Incandescent Dust\n| ingredient4 = 8 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Gegerbter dicker Lederflicken]]\n[[es:Retal de cuero curado grueso]]\n[[fr:Pièce de cuir épais traité]]",
+"title": "Cured Thick Leather Square"
+}
