@@ -1,0 +1,2885 @@
+{
+ "params": {
+  "action": "browsebysubject",
+  "subject": "Gift of Tarir"
+ },
+ "reply": {
+  "query": {
+   "subject": "Gift_of_Tarir#0##",
+   "data": [
+    {
+     "property": "Has_availability",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Current"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_canonical_name",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Gift of Tarir"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_context",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Item"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_description",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "In the [[Mystic Forge]], combine a [[Gift of the Fleet]], a [[Gift of Tarir]], a [[Gift of the Chak]], and a [[Gift of the Jungle]] to create a [[Gift of Maguuma]], used in crafting [[legendary weapons]]."
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_icon",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir.png#6##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_id",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "71943"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_binding",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "AccountBound"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_rarity",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Legendary"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_type",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Trophy"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Is_historical",
+     "dataitem": [
+      {
+       "type": 4,
+       "item": "f"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Is_tradable",
+     "dataitem": [
+      {
+       "type": 4,
+       "item": "f"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_ASK",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY4727bea66988001a7948377d75f1f24c"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYf4848003787a8f0ed02f49b1710bd6bc"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY9b05624d9e6a6f480c674e5a84ebf5e1"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYef83af13a288abddcb7f7594e2370ceb"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY40762335cfa67eb943e2b635491a4f11"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY3a20fcc0b7a6f1b22f887c3bd03bdb17"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY9d44c72c73de54ddb0e9126f05b65ad3"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY76ed7624e274cb76b870f89bc88ff0ff"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY7fbcaf899785271decbc9f8a8d7a4b1c"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY0ea2646a097d532019cd55376aa05bdd"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY7c2f3e1ea52ae3bbb9b9222f330dc34e"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY7a757556d20d0aa09a644646582716a6"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY4ec884f24ca528fc66d4f309bfec07a8"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY9d930b4eb8ed9d261f4c8077a7a34ce4"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY82bc09957d13b553b97e37a16f380d93"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYc25cce8c55fb14d5e9e695d8c9922dda"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY60603cb81cdd48d595ad3984721feb72"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY9b9b78f3116948f64d1c8256794a0d02"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY0f1ea5dec6ac639c2c945b268375d170"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY540ba19053e2270958145ff57e993ef8"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY02b58733073fbfc3e61421d354716bbf"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY568d8b7d70b4f7e7a11101f78035a5a8"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY246bbe7defd7a8bd8b342314224b1246"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYf960b189ba4f17550a2f4ce78393ee3e"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY4857f073e9f9de69e60091594a203c26"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYda18a8b051819a01450e617132dde144"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY1c78b0fa8a0e38ce698d302503ac31ce"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY08a4dc30d8b046ee8e24d68514bbf5d4"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY634da13aaf969a19e06873418c7f9d1f"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYc11953450b2fab38e0bbb9f7726943fb"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYc4662a08ad4a8fd607a5acf62404d644"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY47d9528880b9671592c6ddc2b8e35b1e"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY89c20b25f6ecd74ee33be87d83f2e0d5"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY38711b1fa98147c6a565afc4ca1944fc"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYb4eb6e59dfbfaba2138e3cb4f7e60a7b"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY1b41f8a6f820f590dcbb22952548c3d9"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYb25ae9910be13d7e97a95df35cee871e"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYc12e62071088a7bdfe534c2da9276944"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY3fd30e43e87ff2439ca21fb3e27eca0c"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY69f148a7fd69e56d7f5f093d8e97a53f"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY94b5cd223a498a1051af629c148c92d1"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERYbaab06db9ee598ee8ba89de95df0b325"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY8b64862da7436a76fb142a02cfccb231"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY98667e1a08165a8ac4e38f4ca2f38ddf"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY537468e139c1a6ea59997a7ed95e1f09"
+      },
+      {
+       "type": 9,
+       "item": "Gift_of_Tarir#0##_QUERY681a53fb31819c7bbc6d57b4ea0d3dad"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_INST",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Heart_of_Thorns_content#14##"
+      },
+      {
+       "type": 9,
+       "item": "Mystic_items#14##"
+      },
+      {
+       "type": 9,
+       "item": "Trophies#14##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_MDAT",
+     "dataitem": [
+      {
+       "type": 6,
+       "item": "1/2023/8/27/20/46/19/0"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_SKEY",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Gift of Tarir"
+      }
+     ],
+     "direction": "direct"
+    }
+   ],
+   "sobj": [
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY4727bea66988001a7948377d75f1f24c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "6"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Recipe]] [[Can be queried for base ingredients::true]] [[Has item data object::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY4727bea66988001a7948377d75f1f24c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYf4848003787a8f0ed02f49b1710bd6bc",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYf4848003787a8f0ed02f49b1710bd6bc"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY9b05624d9e6a6f480c674e5a84ebf5e1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Event]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY9b05624d9e6a6f480c674e5a84ebf5e1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYef83af13a288abddcb7f7594e2370ceb",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Story]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYef83af13a288abddcb7f7594e2370ceb"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY40762335cfa67eb943e2b635491a4f11",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::NPC]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY40762335cfa67eb943e2b635491a4f11"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY3a20fcc0b7a6f1b22f887c3bd03bdb17",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Strike Mission]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY3a20fcc0b7a6f1b22f887c3bd03bdb17"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY9d44c72c73de54ddb0e9126f05b65ad3",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Dragon Response Mission]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY9d44c72c73de54ddb0e9126f05b65ad3"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY76ed7624e274cb76b870f89bc88ff0ff",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Activity]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY76ed7624e274cb76b870f89bc88ff0ff"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY7fbcaf899785271decbc9f8a8d7a4b1c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Gold first-time]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY7fbcaf899785271decbc9f8a8d7a4b1c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY0ea2646a097d532019cd55376aa05bdd",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Silver first-time]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY0ea2646a097d532019cd55376aa05bdd"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY7c2f3e1ea52ae3bbb9b9222f330dc34e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Bronze first-time]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY7c2f3e1ea52ae3bbb9b9222f330dc34e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY7a757556d20d0aa09a644646582716a6",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Gold daily]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY7a757556d20d0aa09a644646582716a6"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY4ec884f24ca528fc66d4f309bfec07a8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Silver daily]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY4ec884f24ca528fc66d4f309bfec07a8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY9d930b4eb8ed9d261f4c8077a7a34ce4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Bronze daily]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY9d930b4eb8ed9d261f4c8077a7a34ce4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY82bc09957d13b553b97e37a16f380d93",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Instance]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY82bc09957d13b553b97e37a16f380d93"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYc25cce8c55fb14d5e9e695d8c9922dda",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Zone]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYc25cce8c55fb14d5e9e695d8c9922dda"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY60603cb81cdd48d595ad3984721feb72",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Dungeon]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY60603cb81cdd48d595ad3984721feb72"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY9b9b78f3116948f64d1c8256794a0d02",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY9b9b78f3116948f64d1c8256794a0d02"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY0f1ea5dec6ac639c2c945b268375d170",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Event]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY0f1ea5dec6ac639c2c945b268375d170"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY540ba19053e2270958145ff57e993ef8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Story]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY540ba19053e2270958145ff57e993ef8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY02b58733073fbfc3e61421d354716bbf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::NPC]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY02b58733073fbfc3e61421d354716bbf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY568d8b7d70b4f7e7a11101f78035a5a8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Strike Mission]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY568d8b7d70b4f7e7a11101f78035a5a8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY246bbe7defd7a8bd8b342314224b1246",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Dragon Response Mission]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY246bbe7defd7a8bd8b342314224b1246"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYf960b189ba4f17550a2f4ce78393ee3e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Activity]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYf960b189ba4f17550a2f4ce78393ee3e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY4857f073e9f9de69e60091594a203c26",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Instance]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY4857f073e9f9de69e60091594a203c26"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYda18a8b051819a01450e617132dde144",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Zone]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYda18a8b051819a01450e617132dde144"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY1c78b0fa8a0e38ce698d302503ac31ce",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Zone]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY1c78b0fa8a0e38ce698d302503ac31ce"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY08a4dc30d8b046ee8e24d68514bbf5d4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Dungeon]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY08a4dc30d8b046ee8e24d68514bbf5d4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY634da13aaf969a19e06873418c7f9d1f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of Maguuma]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY634da13aaf969a19e06873418c7f9d1f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYc11953450b2fab38e0bbb9f7726943fb",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of the Fleet]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYc11953450b2fab38e0bbb9f7726943fb"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYc4662a08ad4a8fd607a5acf62404d644",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYc4662a08ad4a8fd607a5acf62404d644"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY47d9528880b9671592c6ddc2b8e35b1e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of the Chak]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY47d9528880b9671592c6ddc2b8e35b1e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY89c20b25f6ecd74ee33be87d83f2e0d5",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of the Jungle]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY89c20b25f6ecd74ee33be87d83f2e0d5"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY38711b1fa98147c6a565afc4ca1944fc",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Mini-dungeon]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY38711b1fa98147c6a565afc4ca1944fc"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYb4eb6e59dfbfaba2138e3cb4f7e60a7b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Mini-dungeon]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYb4eb6e59dfbfaba2138e3cb4f7e60a7b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY1b41f8a6f820f590dcbb22952548c3d9",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Gift of Maguuma#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY1b41f8a6f820f590dcbb22952548c3d9"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYb25ae9910be13d7e97a95df35cee871e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Fractal]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYb25ae9910be13d7e97a95df35cee871e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYc12e62071088a7bdfe534c2da9276944",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Fractal]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYc12e62071088a7bdfe534c2da9276944"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY3fd30e43e87ff2439ca21fb3e27eca0c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has game id::74927]] [[Has context::Item]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY3fd30e43e87ff2439ca21fb3e27eca0c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY69f148a7fd69e56d7f5f093d8e97a53f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Renown heart]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY69f148a7fd69e56d7f5f093d8e97a53f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY94b5cd223a498a1051af629c148c92d1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Renown heart]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY94b5cd223a498a1051af629c148c92d1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERYbaab06db9ee598ee8ba89de95df0b325",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Gift of Tarir]] [[Has recipe source::!Mystic forge]] [[Has recipe source::!Other]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERYbaab06db9ee598ee8ba89de95df0b325"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY8b64862da7436a76fb142a02cfccb231",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Raid]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY8b64862da7436a76fb142a02cfccb231"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY98667e1a08165a8ac4e38f4ca2f38ddf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "10"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Location]] [[Rewarded by.Has location type::Raid]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY98667e1a08165a8ac4e38f4ca2f38ddf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY537468e139c1a6ea59997a7ed95e1f09",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Guaranteed]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY537468e139c1a6ea59997a7ed95e1f09"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Gift_of_Tarir#0##_QUERY681a53fb31819c7bbc6d57b4ea0d3dad",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has rewarded item chance::Chance]] [[Rewarded by.Has context::Adventure]] [[Rewards item::Gift of Tarir]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Gift of Tarir# QUERY681a53fb31819c7bbc6d57b4ea0d3dad"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    }
+   ],
+   "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+   "version": 2
+  }
+ }
+}

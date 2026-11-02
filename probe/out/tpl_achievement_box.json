@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Achievement box"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 98789,
+     "ns": 10,
+     "title": "Template:Achievement box",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<includeonly>{| {{STDT|mech1 achievementbox}} style=\"display:table; {{{style|}}}\"\n{{#ask:\n [[Has achievement category::{{{category|+}}}]]<!-- Unique to achievement subobjects -->\n [[Has canonical name::{{#titleparts:{{{1|{{#replace:{{PAGENAME}}|(achievement)}}}}}}}]]\n {{#if: {{{id|}}} | [[Has game id::{{{id}}}]] }}\n| ?Has canonical name                 <!-- {{{2}}} -->\n| ?Has achievement type               <!-- {{{3}}} -->\n| ?Has game description               <!-- {{{4}}} -->\n| ?Has prerequisite                   <!-- {{{5}}} -->\n| ?Gives item                         <!-- {{{6}}} -->\n| ?Gives item quantity                <!-- {{{7}}} -->\n| ?Gives title                        <!-- {{{8}}} -->\n| ?Has achievement tiers              <!-- {{{9}}} -->\n| ?Has achievement category           <!-- {{{10}}} -->\n| ?Has flavor text                    <!-- {{{11}}} -->\n| ?Has achievement page               <!-- {{{12}}} -->\n| ?Has unlock item                    <!-- {{{13}}} -->\n| ?Has game icon                      <!-- {{{14}}} -->\n| ?Gives mastery track region point   <!-- {{{15}}} -->\n| ?Has game id#                       <!-- {{{16}}} -->\n| ?Is hidden achievement              <!-- {{{17}}} -->\n| ?Has achievement tier rewards       <!-- {{{18}}} -->\n| ?Has achievement collection         <!-- {{{19}}} -->\n| ?Has achievement objectives         <!-- {{{20}}} -->\n| ?Has achievement page section       <!-- {{{21}}} -->\n| ?Gives mastery track region point quantity <!-- {{{22}}} -->\n| ?Has achievement category.Has canonical name <!-- {{{23}}} -->\n| link = none\n| format = template\n| template = Achievement box result format{{!}}expanded={{#if: {{{expanded|}}}|true|false}}{{!}}source=Achievement box{{!}}custombits={{{custombits|}}}\n| default = {{#vardefine:name|{{#titleparts:{{{1|{{#replace:{{PAGENAME}}|(achievement)}}}}}}}}}{{achievement box result format|2={{#var:name}}{{#info:Error: No achievement named \"{{#var:name}}\" found. Check if it has been added to the category page.}}|12={{PAGENAME}}}}{{#if: {{NAMESPACE}}||[[Category:Pages with empty semantic mediawiki query results]]}}\n}}\n|}</includeonly><noinclude>\n== Description ==\nGenerates an individual achievement box by querying the achievement name. For generating a list of achievements, use {{tl|achievement list}}. Formatted using {{tl|Achievement box result format}}.\n\n== Usage ==\n<pre>\n{{achievement box}}\n{{achievement box|<achievement name>}}\n{{achievement box|<achievement name>|category=<achievement category>}}\n{{achievement box|<achievement name>|id=<achievement id>}}\n</pre>\n\n=== Parameters ===\n;1 ''(unnamed parameter)''\n: Achievement name. This parameter is used to specify the precise name of an achievement as it appears ingame.\n;category\n: Optional. Achievement category. This parameter should only be used if multiple achievements have the same name.\n;id\n: Optional. For use to discriminate between two identically named achievements in the same category.\n;style\n: Optional. If specified, adds additional HTML styling to the table. Avoid quote marks.\n;expanded\n:Optional. If set, fully expands the collapsed tier, objectives and tier rewards subtables.\n;custombits\n:Optional. A comma separated list of custom bits if the API order does not match the collection output.\n\n=== Examples ===\n<pre>\n{{achievement box|Speedy Reader}}\n</pre>\n{{achievement box|Speedy Reader}}\n\n== See also ==\n* {{tl|Achievement}} — A minimalist alternative.\n\n[[Category:Achievement formatting templates]]\n\n</noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

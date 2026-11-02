@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Contained in"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 92474,
+     "ns": 10,
+     "title": "Template:Contained in",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<includeonly><div class=\"smw-ul-columns\" style=\"column-count: {{{columns|{{#vardefine:itemCount|{{#ask:[[Contains item::{{{1|{{PAGENAME}}}}}]]|format=count}}}}{{#ifexpr:{{#var:itemCount}} > 80 | 4 | {{#ifexpr:{{#var:itemCount}} > 60 | 3 | {{#ifexpr:{{#var:itemCount}} > 10 | 2 | 1 }}}}}}}}}\">{{#vardefineecho:query|\n{{#arraymap:Current > Historical > Discontinued > Future > Unimplemented|>|@@@|\n{{#ask: [[Contains item::{{{1|{{PAGENAME}}}}}]] {{#if:{{{chance|}}}|[[Has contained item chance::{{ucfirst:{{{chance}}}}}]]}} [[Contained in.Has availability::@@@]]\n| mainlabel = -\n| ?Contained in\n| ?Contained in.Has game icon\n| ?Contained in.Has canonical name\n| ?Contained in.Has availability\n| ?Has contained item chance\n| ?Has contained item quantity\n| ?Has contained item notes\n| ?Has availability\n| format = ul\n| template = Contained in/result format{{!}}showChance={{#if:{{{chance|}}}|false}}\n| link = none\n| limit = 250\n| sort = Has contained item chance, Contained in.Has canonical name\n| order = descending, ascending\n}}|<nowiki></nowiki>}}}}</div>{{#if:{{#var:query}}||This item is not contained in any container. It may not have been added to the container yet.{{#if: {{NAMESPACE}}||[[Category:Pages with empty semantic mediawiki query results]]}}}}</includeonly><noinclude>\n== Description ==\nList all [[container]]s that give the specified [[item]] in an unordered list. Semantically, queries for the [[Property:Contains item]] property. If the list is longer than 10, 60, or 80 items, the list will be split into two, three, or four columns respectively. Format using {{tl|Contained in/result format}}.\n\nDisplays a suffix next to items depending on the [[Property: Has contained item quantity]], [[Property: Has contained item chance]], and [[Property:Has availability]].\n{| class = \"wikitable\"\n! Has availability || Displayed suffix\n|-\n| Current ||\n|-\n| Historical || <small>(historical)</small>\n|-\n| Discontinued || <small>(discontinued)</small>\n|-\n| Future || <small>(future)</small>\n|-\n| Unimplemented || <small>(unimplemented)</small>\n|}\n\n== Usage ==\n<pre>\n{{contained in}}\n{{contained in|<Item>}}\n</pre>\n\n== Parameters ==\n; 1 ''(unnamed parameter)''\n: Optional. Item name. Defaults to \"PAGENAME\".\n; chance\n: Optional. Filter results to one of \"Choice\", \"Chance\", or \"Guaranteed\"\n; columns\n: Optional. Used to specify the number of columns.\n\n== Example ==\n<pre>\n{{contained in|Wintersday Gift}}\n</pre>\n{{contained in|Wintersday Gift}}\n\n<pre>\n{{contained in|Vial of blood}}\n</pre>\n{{contained in|Vial of blood}}\n\n;Contained in historical container only item\n<pre>\n{{contained in|Starter Kit: Twilight}}\n</pre>\n{{contained in|Starter Kit: Twilight}}\n\n; Contained with a mix of availability\n<pre>\n{{contained in|Legendary Insight}}\n</pre>\n{{contained in|Legendary Insight}}\n\n\n;Not contain in any container (empty semantic mediawiki query results)\n<pre>\n{{contained in|Armistice Bastion Pass}}\n</pre>\n{{contained in|Armistice Bastion Pass}}\n\n== See also ==\n* {{tl|contains}}\n\n[[Category:Item templates]]\n</noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

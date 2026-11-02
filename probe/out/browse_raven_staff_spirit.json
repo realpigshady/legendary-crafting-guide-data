@@ -1,0 +1,1471 @@
+{
+ "params": {
+  "action": "browsebysubject",
+  "subject": "Spirit of the Ravenswood Staff"
+ },
+ "reply": {
+  "query": {
+   "subject": "Spirit_of_the_Ravenswood_Staff#0##",
+   "data": [
+    {
+     "property": "Has_availability",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Current"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_canonical_name",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Spirit of the Ravenswood Staff"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_context",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Item"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_description",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Salvaged from the [[Ravenswood Staff]]."
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_icon",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff.png#6##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_game_id",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "73266"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_binding",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "AccountBound"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_rarity",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Exotic"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_item_type",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Crafting material"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_minimum_usable_rating",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_ef989ee7043a593f31f6038eece59ee0"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_vendor_value",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "66"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Is_historical",
+     "dataitem": [
+      {
+       "type": 4,
+       "item": "f"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Is_tradable",
+     "dataitem": [
+      {
+       "type": 4,
+       "item": "f"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Requires_minimum_rating",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "500"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_ASK",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYa64284aa89969c3df27dc57f13615cd8"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6a5e509a6ccb3533423cbcb94f8b5fe1"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYfd3afa7c1d201e60e05aa7d80c4c5b42"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6a8b0d6809aacc97e787ea5e26544a9c"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7a51b116619734a82f99b29ab6526679"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY0f1c65b85a814ec5ca99c1ca4b66867c"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYc9abb6719446b3047434f4276bd3977a"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6e1387382e69bf220d27ee5d2b1ed920"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY86e28338472c0f16551e502de1dfac39"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7a0df45bab030c75abfff2af8ec0c22c"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYd1558ff1d9063b5e8a359726f6f9a169"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYdfc7a975fdf5d354e5c75e9df41e533a"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY999f97e8c3b4e2556d5a78313d281121"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY76c131d030a8e35ae8de0a1daf43a6c4"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY3fd00a544e8a1e0e64169b6542f1c83b"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7981ebfbc6a7ae62d28a6c523396928d"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY01f17b8044001522ad5548959ea7dbb8"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY16add67ecd2816b0109285fd928e2dd2"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7cb520ba40dd7d808a53105aa0b069b1"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERYc9858b6862ec2552822f011ad57c4728"
+      },
+      {
+       "type": 9,
+       "item": "Spirit_of_the_Ravenswood_Staff#0##_QUERY5f78d21ef0eb72b7352403699b63fc6a"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_INST",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Heart_of_Thorns_content#14##"
+      },
+      {
+       "type": 9,
+       "item": "Crafting_materials#14##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_MDAT",
+     "dataitem": [
+      {
+       "type": 6,
+       "item": "1/2018/11/22/21/58/20/0"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_SKEY",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Spirit of the Ravenswood Staff"
+      }
+     ],
+     "direction": "direct"
+    }
+   ],
+   "sobj": [
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_ef989ee7043a593f31f6038eece59ee0",
+     "data": [
+      {
+       "property": "Requires_discipline",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Artificer#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Requires_rating",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "500"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff#Artificer;500"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYa64284aa89969c3df27dc57f13615cd8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "6"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Recipe]] [[Can be queried for base ingredients::true]] [[Has item data object::Spirit of the Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYa64284aa89969c3df27dc57f13615cd8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6a5e509a6ccb3533423cbcb94f8b5fe1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Salvages into::Spirit of the Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY6a5e509a6ccb3533423cbcb94f8b5fe1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYfd3afa7c1d201e60e05aa7d80c4c5b42",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYfd3afa7c1d201e60e05aa7d80c4c5b42"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6a8b0d6809aacc97e787ea5e26544a9c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Armorsmith]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY6a8b0d6809aacc97e787ea5e26544a9c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7a51b116619734a82f99b29ab6526679",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Artificer]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY7a51b116619734a82f99b29ab6526679"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY0f1c65b85a814ec5ca99c1ca4b66867c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Chef]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY0f1c65b85a814ec5ca99c1ca4b66867c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYc9abb6719446b3047434f4276bd3977a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Huntsman]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYc9abb6719446b3047434f4276bd3977a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY6e1387382e69bf220d27ee5d2b1ed920",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Jeweler]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY6e1387382e69bf220d27ee5d2b1ed920"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY86e28338472c0f16551e502de1dfac39",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Leatherworker]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY86e28338472c0f16551e502de1dfac39"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7a0df45bab030c75abfff2af8ec0c22c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Scribe]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY7a0df45bab030c75abfff2af8ec0c22c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYd1558ff1d9063b5e8a359726f6f9a169",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Tailor]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYd1558ff1d9063b5e8a359726f6f9a169"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYdfc7a975fdf5d354e5c75e9df41e533a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Weaponsmith]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYdfc7a975fdf5d354e5c75e9df41e533a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY999f97e8c3b4e2556d5a78313d281121",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:The Raven Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY999f97e8c3b4e2556d5a78313d281121"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY76c131d030a8e35ae8de0a1daf43a6c4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Essence of the Wild Spirit]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY76c131d030a8e35ae8de0a1daf43a6c4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY3fd00a544e8a1e0e64169b6542f1c83b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Spirit of the Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY3fd00a544e8a1e0e64169b6542f1c83b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7981ebfbc6a7ae62d28a6c523396928d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Raven Statue (Legendary Component)]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY7981ebfbc6a7ae62d28a6c523396928d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY01f17b8044001522ad5548959ea7dbb8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Rune Carving Tools]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY01f17b8044001522ad5548959ea7dbb8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY16add67ecd2816b0109285fd928e2dd2",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "ul"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Salvages into::Spirit of the Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY16add67ecd2816b0109285fd928e2dd2"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY7cb520ba40dd7d808a53105aa0b069b1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "min"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Requires discipline::Handiworker]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY7cb520ba40dd7d808a53105aa0b069b1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERYc9858b6862ec2552822f011ad57c4728",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has game id::74068]] [[Has context::Item]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERYc9858b6862ec2552822f011ad57c4728"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Spirit_of_the_Ravenswood_Staff#0##_QUERY5f78d21ef0eb72b7352403699b63fc6a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "7"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has ingredient.Has ingredient name::Spirit of the Ravenswood Staff]] [[Has recipe source::!Mystic forge]] [[Has recipe source::!Other]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Spirit of the Ravenswood Staff# QUERY5f78d21ef0eb72b7352403699b63fc6a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    }
+   ],
+   "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+   "version": 2
+  }
+ }
+}

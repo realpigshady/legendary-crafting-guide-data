@@ -1,0 +1,243 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item.Has canonical name::Bloodstone Shard]]|?Sells item|?Has item cost|?Has vendor|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Miyani#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bloodstone Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Miyani",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miyani",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Miyani#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Miyani#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Attendant#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bloodstone Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Attendant",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Mystic Forge Attendant#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Keeper#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bloodstone Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Keeper",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Mystic Forge Keeper#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ward Crafter Lucirae#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bloodstone Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Ward Crafter Lucirae",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ward_Crafter_Lucirae",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Ward Crafter Lucirae#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ward_Crafter_Lucirae#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "8cce28390199ad0783192229a7602198",
+    "count": 4,
+    "offset": 0,
+    "source": "",
+    "time": "0.323428"
+   }
+  }
+ }
+}

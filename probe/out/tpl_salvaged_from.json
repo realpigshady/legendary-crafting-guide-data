@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Salvaged from"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 149667,
+     "ns": 10,
+     "title": "Template:Salvaged from",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<includeonly>{{#ask: [[Salvages into::{{{1|{{PAGENAME}}}}}]]\n| ?Has game icon\n| ?Has canonical name\n| ?Has availability\n| intro = <div class=\"smw-ul-columns\" style=\"column-count: {{{columns|{{#ifexpr: {{#ask: [[Salvages into::{{{1|{{PAGENAME}}}}}]]|format=count}} > 10 | 2 | 1 }}}}}\">\n| outro = </div>\n| format = ul\n| template = Salvaged from/result format\n| link = none\n| limit = 500\n| sort = Has availability, Has canonical name\n| default = This item is not salvaged from any salvage items.{{#if: {{NAMESPACE}}||[[Category:Pages with empty semantic mediawiki query results]]}}\n}}</includeonly><noinclude>\n== Description ==\nList all items that [[salvage]] into this item in an unordered list. Semantically, queries for the [[Property:Salvages into]] property. If the list is longer than 10 items, the list will be split into two columns. Format using {{tl|Contained in/result format}}.\n\nDisplays a suffix next to items depending on the [[Property:Has availability]].\n\n<pre>\n{{salvaged from|<item name>}}\n</pre>\n\n== Parameters ==\n;1 ''(unnamed parameter)''\n:Required. Item name. Defaults to \"PAGENAME\".\n; columns\n: Optional. Used to specify the number of columns.\n\n== Examples ==\n<pre>\n{{salvaged from|Iron Ore}}\n</pre>\n{{salvaged from|Iron Ore}}\n\n== See also ==\n* {{tl|Salvages into}}\n\n[[Category:Item templates]]\n[[Category:List formatting templates]]\n</noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

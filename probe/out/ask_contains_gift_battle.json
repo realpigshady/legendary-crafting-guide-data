@@ -1,0 +1,30 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Gift of Battle]]|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "8abf92b9a496fa12811f646f040f3025",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.000046"
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Collection table row"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 167008,
+     "ns": 10,
+     "title": "Template:Collection table row",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "#REDIRECT [[Template:Objectives table row]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

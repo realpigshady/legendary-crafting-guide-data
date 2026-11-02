@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Contained in reward track"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 253772,
+     "ns": 10,
+     "title": "Template:Contained in reward track",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<includeonly>{{#if: <!-- hide whitespace -->\n\n<!-- empty variables -->\n{{#ifeq: {{{intro|true}}}|false||\n{{#vardefine: this_reward_track|}}\n{{#vardefine: last_reward_track|}}\n{{#vardefine: close_table|}}\n}}\n\n}}{{#ifeq: {{{intro|true}}}|false||{{#if:{{{indent|}}}|<div style=\"margin-left:1.5em\">}}}}{{#ask: [[:+]] [[Contains item in reward track::{{{1|{{PAGENAME}}}}};?;?;?]]\n| ?Contains item in reward track.Has reward track item\n| ?Contains item in reward track.Has reward track item number\n| ?Contains item in reward track.Has reward track item quantity\n| ?Contains item in reward track.Has reward track item game mode\n| format = template \n| template = Contained in reward track result format\n| sort = ,Contains item in reward track.Has reward track item number <!-- first sorting alphabetically and then sorting by item number -->\n| order = asc, asc\n| userparam = {{{1|{{PAGENAME}}}}}\n| link = none \n| limit = {{{limit|500}}}\n| offset = {{{offset|0}}}\n| valuesep = ;\n| default = This item is not contained in any reward track.{{#if: {{NAMESPACE}}||[[Category:Pages with empty semantic mediawiki query results]]}}\n| searchlabel =\n}}{{#ifeq: {{{outro|true}}}|false|<nowiki/>|{{#if: {{#var:close_table}} |\n{{!}}}\n}}{{#if:{{{indent|}}}|</div>}}}}</includeonly><noinclude>\n== Description ==\nThis template is used to create a list [[Reward track]]s which contains this item. Format using {{tl|Contained in reward track result format}}.\n\nThe reward track number <code>i</code> that contains the item is displayed in the following format:\n* Tier <code>ceil(i/5)</code>,  <code>(i mod 5) st/nd/rd/th</code> reward. <code>i st/nd/rd/th</code> of total.\n* For example: \n** Tier 1, 1st reward. <span style=\"visibility: hidden\">0</span>1st of total.\n** Tier 8, 5th reward. 40th of total.\n\nThe quantity is stated in the following format:\n# Reward track available in PvP and WvW:\n## Both reward tracks contain the same item:\n##* Following the ''standard rules'' of the wiki, i.e. stating the quantity (>1) in parentheses otherwise omitting ''(1)''.\n## Only one reward track contains the item:\n##* Adding as suffix the game mode after stating the quantity in parentheses, i.e. for clarification ''(1)'' is '''not''' omitted.\n## Both reward tracks contain the same item in different quantity (However, this case might not exist yet):\n##* Displaying the amount followed by the game mode, again '''not''' omitting ''(1)''.\n# Reward track only available in PvP or WvW\n#* Stating the game mode in the reward track header and following the ''standard rules''.\n\n== Usage ==\n<pre>{{Contained in reward track}}</pre>\n\n=== Parameters ===\n;1 ''(unnamed parameter)''\n: Required. Item name. Defaults to \"PAGENAME\".\n;indent\n: Optional. Sets indent, use with bullet list intro.\n;limit\n: Optional. Result limit, defaults to 500 (max).\n;offset\n: Optional. Result offset.\n;intro\n: Optional. Set to \"false\" to disables intro, used when combining several tables with offset.\n;outro\n: Optional. Set to \"false\" to disables outro, used when combining several tables with offset.\n\n=== Example ===\n<pre>{{Contained in reward track|Awakened Cache}}</pre>\n{{Contained in reward track|Awakened Cache}}\n\n[[Category:Item templates]]\n<noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
