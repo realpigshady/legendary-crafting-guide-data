@@ -1,0 +1,5 @@
+{
+"revid": 1788145,
+"text": "{{Item infobox\n| description = Used to craft the legendary-focus precursor, [[Ars Goetia]]. Combine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.\n| type = crafting material\n| material type = ascended\n| bound = account\n| material storage = Ascended Materials\n| rarity = ascended\n| requires = pof\n| id = 86120\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Mark of the Unnamed\n| disciplines = Artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to the Dark Arts\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 20 Mithril Ingot\n| ingredient4 = 10 Elder Wood Plank\n| id = 12483\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe der dunklen Künste]]\n[[es:Esquirla de las artes oscuras]]\n[[fr:Éclat des sciences occultes]]",
+"title": "Shard of the Dark Arts"
+}

@@ -1147,6 +1147,30 @@
 "vendor_value": 640
 },
 {
+"chat_link": "[&AgHwTgEA]",
+"description": "Used to craft the legendary focus, the Binding of Ipos.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0FB6ADF503D70A2F7D144E18D2AF4597F7F5C145/1894812.png",
+"id": 85744,
+"level": 0,
+"name": "Gift of Ipos",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
 "chat_link": "[&AgEUUAEA]",
 "description": "A gift used to create legendary weapons.",
 "flags": [
@@ -1169,6 +1193,89 @@
 "restrictions": [],
 "type": "Trophy",
 "vendor_value": 640
+},
+{
+"chat_link": "[&AgFRUAEA]",
+"default_skin": 7850,
+"description": "<c=@flavor>This weapon is used to craft the legendary focus, the Binding of Ipos.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A2950D42096E04C5AF010B6C0A7B0F50563FC5C3/1894815.png",
+"id": 86097,
+"level": 80,
+"name": "Ars Goetia",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
 },
 {
 "chat_link": "[&AgH9UwEA]",
@@ -1716,5 +1823,5 @@
 "vendor_value": 640
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=71426,71820,71972,73239,74068,74300,76399,77086,78425,78627,79419,79570,79836,79839,80135,80650,81022,81144,81634,81684,81812,82003,86036,87037,87115,87764,88060,88500,88851,89445,89886,90883,90893"
+"url": "https://api.guildwars2.com/v2/items?ids=71426,71820,71972,73239,74068,74300,76399,77086,78425,78627,79419,79570,79836,79839,80135,80650,81022,81144,81634,81684,81812,82003,85744,86036,86097,87037,87115,87764,88060,88500,88851,89445,89886,90883,90893"
 }

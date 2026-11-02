@@ -1,0 +1,5 @@
+{
+"revid": 2371056,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used in focus crafting.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45883\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 3 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7367\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geisterholz-Fokusgehäuse]]\n[[es:Cubierta para foco de madera espiritual]]\n[[fr:Coffrage de focus de boisesprit]]",
+"title": "Spiritwood Focus Casing"
+}

@@ -628,6 +628,52 @@
 "vendor_value": 8
 },
 {
+"chat_link": "[&AgE7swAA]",
+"description": "Used in focus crafting.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F208B1A2C272C102DCB6B262F4081F6B267113B5/631198.png",
+"id": 45883,
+"level": 0,
+"name": "Spiritwood Focus Casing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE8swAA]",
+"description": "Used in focus crafting.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DD7224CB563780C0BAA412109572E90221529D/631199.png",
+"id": 45884,
+"level": 0,
+"name": "Spiritwood Focus Core",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
 "chat_link": "[&AgE9swAA]",
 "description": "Used to craft scepters.",
 "flags": [
@@ -1522,6 +1568,29 @@
 "vendor_value": 66
 },
 {
+"chat_link": "[&AgFoUAEA]",
+"description": "Used to craft the legendary focus precursor Ars Goetia.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Ipos.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/693B3D29F20B1FD7B94E71D7035C7A0F6F23325A/1894813.png",
+"id": 86120,
+"level": 0,
+"name": "Shard of the Dark Arts",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
 "chat_link": "[&AgE6UQEA]",
 "description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
 "flags": [
@@ -1660,5 +1729,5 @@
 "vendor_value": 83
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19621,19622,19623,19675,19676,19976,20797,45834,45836,45838,45839,45840,45841,45843,45844,45846,45847,45848,45849,45850,45851,45852,45854,45855,45856,45857,45858,45885,45886,46683,70867,71173,72083,72535,72724,72934,72964,73266,74118,74457,74492,74802,74927,75333,76083,76427,76442,76530,76587,77082,78119,78342,78344,78475,78642,79418,79445,79784,80380,80503,81051,81961,82069,85631,86093,86330,87031,87711,88738,89947,90390"
+"url": "https://api.guildwars2.com/v2/items?ids=19621,19622,19623,19675,19676,19976,20797,45834,45836,45838,45839,45840,45841,45843,45844,45846,45847,45848,45849,45850,45851,45852,45854,45855,45856,45857,45858,45883,45884,45885,45886,46683,70867,71173,72083,72535,72724,72934,72964,73266,74118,74457,74492,74802,74927,75333,76083,76427,76442,76530,76587,77082,78119,78342,78344,78475,78642,79418,79445,79784,80380,80503,81051,81961,82069,85631,86093,86120,86330,87031,87711,88738,89947,90390"
 }

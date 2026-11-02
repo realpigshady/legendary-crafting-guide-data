@@ -861,6 +861,90 @@
 "vendor_value": 100000
 },
 {
+"chat_link": "[&AgFSUAEA]",
+"default_skin": 7907,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24583,
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2C2D04DA23E54103AD4C082033090D78A91BA0EE/1894811.png",
+"id": 86098,
+"level": 80,
+"name": "The Binding of Ipos",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
 "chat_link": "[&AgFFVAEA]",
 "default_skin": 8051,
 "details": {
@@ -1291,5 +1375,5 @@
 "vendor_value": 100000
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=71383,72713,76158,78556,79562,79802,80488,81206,81839,81957,87109,87687,88576,89854,90551"
+"url": "https://api.guildwars2.com/v2/items?ids=71383,72713,76158,78556,79562,79802,80488,81206,81839,81957,86098,87109,87687,88576,89854,90551"
 }

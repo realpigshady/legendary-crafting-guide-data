@@ -1548,6 +1548,29 @@
 "vendor_value": 640
 },
 {
+"chat_link": "[&AgH6UAEA]",
+"description": "Use artificing to refine into Shards of the Dark Arts, used to craft the legendary focus precursor Ars Goetia.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/57B39FD9974E089EFCE1A76152F5F0E60378CAA3/1894814.png",
+"id": 86266,
+"level": 0,
+"name": "Tribute to the Dark Arts",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
 "chat_link": "[&AgF9VAEA]",
 "description": "Use weaponsmith crafting to refine into Shard of Resolution, used to craft the legendary dagger precursor Claw of Resolution.",
 "flags": [
@@ -1663,5 +1686,5 @@
 "vendor_value": 264
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19678,19681,19683,19684,19685,19686,19709,19711,19712,19714,19721,19925,20796,20799,24274,24275,24276,24277,46682,46694,46696,46736,46738,46739,46746,46747,49523,68063,70528,70698,70797,70801,71008,71123,71311,71641,71655,71787,71943,72261,73137,73196,73236,73469,74528,75299,75744,76491,76636,76767,76933,79410,79453,79845,80201,81163,81871,81974,85681,85707,85961,86010,86018,86115,86177,86241,87165,87627,88756,89478,90776"
+"url": "https://api.guildwars2.com/v2/items?ids=19678,19681,19683,19684,19685,19686,19709,19711,19712,19714,19721,19925,20796,20799,24274,24275,24276,24277,46682,46694,46696,46736,46738,46739,46746,46747,49523,68063,70528,70698,70797,70801,71008,71123,71311,71641,71655,71787,71943,72261,73137,73196,73236,73469,74528,75299,75744,76491,76636,76767,76933,79410,79453,79845,80201,81163,81871,81974,85681,85707,85961,86010,86018,86115,86177,86241,86266,87165,87627,88756,89478,90776"
 }
