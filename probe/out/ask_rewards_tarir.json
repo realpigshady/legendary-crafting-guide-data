@@ -1,0 +1,155 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Rewards item::Gift of Tarir||Gift of Battle||Essence of Time and Space||Spirit of the Ravenswood Staff]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=200"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Rewards item",
+     "key": "Rewards_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Rewarded by",
+     "key": "Rewarded_by",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has context"
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has location type"
+    },
+    {
+     "label": "Has rewarded item chance",
+     "key": "Has_rewarded_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rewarded item quantity",
+     "key": "Has_rewarded_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Auric Basin#reward3": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Gift of Tarir",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_Tarir",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Auric Basin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Auric_Basin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Location"
+      ],
+      "Has location type": [
+       "Zone"
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "Auric Basin#reward3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Auric_Basin#reward3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Map completion#reward6": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Gift of Tarir",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_Tarir",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Map completion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Map_completion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [],
+      "Has location type": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "Map completion#reward6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Map_completion#reward6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "dc4e5a9d573c56ef40111305f709475b",
+    "count": 2,
+    "offset": 0,
+    "source": "",
+    "time": "0.096028"
+   }
+  }
+ }
+}

@@ -1,0 +1,3061 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Mystic Runestone||Gift of Glory||Funerary Incense||Philosopher's Stone||Gift of the Raven Spirit]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|?Has vendor anchor|limit=200"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor anchor",
+     "key": "Has_vendor_anchor",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Acolyte of Balance Dexx#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Amusement Adjunct Cagri#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Amusement Adjunct Cagri",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Amusement_Adjunct_Cagri",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Garden of Seborhin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Garden_of_Seborhin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Amusement Adjunct Cagri#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Amusement_Adjunct_Cagri#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Awakened Servant Tooraj#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Awakened Servant Tooraj",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Awakened_Servant_Tooraj",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Vehjin Mines",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vehjin_Mines",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Awakened Servant Tooraj#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Awakened_Servant_Tooraj#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Director Abioye Bayu#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Director Abioye Bayu",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Director_Abioye_Bayu",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Garden of Seborhin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Garden_of_Seborhin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Director Abioye Bayu#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Director_Abioye_Bayu#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Distinguished Professor Nazimi#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Distinguished Professor Nazimi",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Distinguished_Professor_Nazimi",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Vehtendi Academy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vehtendi_Academy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Distinguished Professor Nazimi#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Distinguished_Professor_Nazimi#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Embalmer Boran#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Embalmer Boran",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Embalmer_Boran",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "The Necropolis",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Necropolis",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Embalmer Boran#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Embalmer_Boran#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fallen Awakened Soldier#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Fallen Awakened Soldier",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fallen_Awakened_Soldier",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "The Foundry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Foundry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Fallen Awakened Soldier#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fallen_Awakened_Soldier#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grandmaster Craftsman Hobbs#vendor240": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Gift of the Raven Spirit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_the_Raven_Spirit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Grandmaster Craftsman Hobbs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grandmaster_Craftsman_Hobbs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Trader's Forum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Nevermore IV: The Raven Spirit"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Grandmaster Craftsman Hobbs#vendor240",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grandmaster_Craftsman_Hobbs#vendor240",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Historian Meliza#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Historian Meliza",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Pilgrim's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pilgrim%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Help out with research and expedition tasks around Pilgrim's Rest|renown heart]] to be complete"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Historian Meliza#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Miyani#vendor10": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Gift of Glory",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_Glory",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Miyani",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miyani",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shard of Glory"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Trader's Forum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Trader's Forum (Memory of Old Lion's Arch)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum_(Memory_of_Old_Lion%27s_Arch)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Miyani#vendor10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Miyani#vendor10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Miyani#vendor13": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Miyani",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miyani",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Trader's Forum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Trader's Forum (Memory of Old Lion's Arch)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum_(Memory_of_Old_Lion%27s_Arch)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Miyani#vendor13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Miyani#vendor13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Miyani#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Philosopher's Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Philosopher%27s_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Miyani",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miyani",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       10
+      ],
+      "Located in": [
+       {
+        "fulltext": "Trader's Forum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Trader's Forum (Memory of Old Lion's Arch)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum_(Memory_of_Old_Lion%27s_Arch)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Miyani#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Miyani#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Miyani#vendor55": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Miyani",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miyani",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Icy Runestone"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Trader's Forum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Trader's Forum (Memory of Old Lion's Arch)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trader%27s_Forum_(Memory_of_Old_Lion%27s_Arch)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Miyani#vendor55",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Miyani#vendor55",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Attendant#vendor10": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Gift of Glory",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_Glory",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Attendant",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shard of Glory"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Plaza of Balthazar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Plaza_of_Balthazar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stonemist Castle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stonemist_Castle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Snowblind Peaks",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowblind_Peaks",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Noble Ledges",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Noble_Ledges",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Green Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Green_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Blue Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blue_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Camp Resolve",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Camp_Resolve",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stoic Rampart",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stoic_Rampart",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Osprey Pillars",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Osprey_Pillars",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Mistlock Sanctuary",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Bay of Elon",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bay_of_Elon",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Armistice Bastion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Armistice_Bastion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Arborstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Arborstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Thousand Seas Pavilion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Thousand_Seas_Pavilion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Outer Ring",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Outer_Ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Attendant#vendor10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant#vendor10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Attendant#vendor13": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Attendant",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Plaza of Balthazar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Plaza_of_Balthazar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stonemist Castle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stonemist_Castle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Snowblind Peaks",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowblind_Peaks",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Noble Ledges",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Noble_Ledges",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Green Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Green_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Blue Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blue_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Camp Resolve",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Camp_Resolve",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stoic Rampart",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stoic_Rampart",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Osprey Pillars",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Osprey_Pillars",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Mistlock Sanctuary",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Bay of Elon",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bay_of_Elon",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Armistice Bastion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Armistice_Bastion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Arborstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Arborstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Thousand Seas Pavilion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Thousand_Seas_Pavilion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Outer Ring",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Outer_Ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Attendant#vendor13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant#vendor13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Attendant#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Philosopher's Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Philosopher%27s_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Attendant",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       10
+      ],
+      "Located in": [
+       {
+        "fulltext": "Plaza of Balthazar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Plaza_of_Balthazar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stonemist Castle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stonemist_Castle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Snowblind Peaks",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowblind_Peaks",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Noble Ledges",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Noble_Ledges",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Green Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Green_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Blue Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blue_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Camp Resolve",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Camp_Resolve",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stoic Rampart",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stoic_Rampart",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Osprey Pillars",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Osprey_Pillars",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Mistlock Sanctuary",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Bay of Elon",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bay_of_Elon",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Armistice Bastion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Armistice_Bastion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Arborstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Arborstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Thousand Seas Pavilion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Thousand_Seas_Pavilion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Outer Ring",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Outer_Ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Attendant#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Attendant#vendor55": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Attendant",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Icy Runestone"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Plaza of Balthazar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Plaza_of_Balthazar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stonemist Castle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stonemist_Castle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Snowblind Peaks",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowblind_Peaks",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Noble Ledges",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Noble_Ledges",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Green Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Green_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Blue Alpine Garrison",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blue_Alpine_Garrison",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Camp Resolve",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Camp_Resolve",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stoic Rampart",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stoic_Rampart",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Osprey Pillars",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Osprey_Pillars",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Mistlock Sanctuary",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Bay of Elon",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bay_of_Elon",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Armistice Bastion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Armistice_Bastion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Arborstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Arborstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Thousand Seas Pavilion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Thousand_Seas_Pavilion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Outer Ring",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Outer_Ring",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Attendant#vendor55",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Attendant#vendor55",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Keeper#vendor10": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Gift of Glory",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_Glory",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Keeper",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shard of Glory"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Champion's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Champion%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Keeper#vendor10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper#vendor10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Keeper#vendor13": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Keeper",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Champion's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Champion%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Keeper#vendor13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper#vendor13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Keeper#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Philosopher's Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Philosopher%27s_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Keeper",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       10
+      ],
+      "Located in": [
+       {
+        "fulltext": "Champion's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Champion%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Keeper#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystic Forge Keeper#vendor55": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Mystic Forge Keeper",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Icy Runestone"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Champion's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Champion%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "Scholar of Secrets"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Mystic Forge Keeper#vendor55",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Forge_Keeper#vendor55",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Primeval Steward#vendor23": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Primeval Steward",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Elegy Mosaic"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Tomb of the Primeval Kings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tomb_of_the_Primeval_Kings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Primeval Steward#vendor23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward#vendor23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Primeval Steward#vendor24": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Primeval Steward",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contracts"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Tomb of the Primeval Kings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tomb_of_the_Primeval_Kings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Primeval Steward#vendor24",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward#vendor24",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Primeval Steward#vendor25": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Primeval Steward",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Crystalline Ingot"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Tomb of the Primeval Kings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tomb_of_the_Primeval_Kings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       5
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Primeval Steward#vendor25",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Primeval_Steward#vendor25",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Prince Bakkal#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Prince Bakkal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Prince_Bakkal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Vehjin Palace",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vehjin_Palace",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Prince Bakkal#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Prince_Bakkal#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Rift Researcher Adam#vendor9": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Philosopher's Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Philosopher%27s_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Rift Researcher Adam",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rift_Researcher_Adam",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Spirit Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       10
+      ],
+      "Located in": [
+       {
+        "fulltext": "Moon Camp Covert",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Moon_Camp_Covert",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Rift Researcher Adam#vendor9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Rift_Researcher_Adam#vendor9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Steward Brizio#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mystic Runestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Runestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Steward Brizio",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Artificer's Islet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Artificer%27s_Islet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist the Stewards of Galdra around the forge|renown heart]] to be complete"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Steward Brizio#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Super Adventure Box Trader#vendor36": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Philosopher's Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Philosopher%27s_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Super Adventure Box Trader",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Super_Adventure_Box_Trader",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Bauble Bubble"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "288"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Coin"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       6
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hooligan's Route",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hooligan%27s_Route",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Creator's Commons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Creator%27s_Commons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Hub",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hub",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Super Adventure Box Trader#vendor36",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Super_Adventure_Box_Trader#vendor36",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Supreme Training Specialist Tozan#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Funerary Incense",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Funerary_Incense",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Supreme Training Specialist Tozan",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Supreme_Training_Specialist_Tozan",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Trade Contract"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Amalgamated Gemstone"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Obsidian Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "The Necropolis",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Necropolis",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Has vendor anchor": []
+     },
+     "fulltext": "Supreme Training Specialist Tozan#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Supreme_Training_Specialist_Tozan#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "c4a369a4e2f0f28a0670fa891bebe5f2",
+    "count": 30,
+    "offset": 0,
+    "source": "",
+    "time": "1.729263"
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Rewards item"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 277965,
+     "ns": 10,
+     "title": "Template:Rewards item",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<includeonly>{{#if: {{{profession|}}}|{{{{{profession}}}}}&nbsp;}}{{item icon|{{{1|}}}|{{{2|}}}}} {{#ifeq: {{{qty|1}}} | 1 | | ({{{qty|}}}) }} {{#switch: {{ucfirst:{{{chance|Guaranteed}}}}} | Guaranteed = <small>(guaranteed)</small> | #default = <!-- show nothing for Chance/Choice items --> }} {{#if: {{{collection|}}}|<small>(Only if the [[collection]] [[{{#ask: [[Has context::Achievement]][[Has canonical name::{{{collection|}}}]]|link=none|limit=1|default={{{collection|}}}}}|{{{collection|}}}]] is active)}}</small> {{#if: {{{hide notes|}}}||{{#if: {{{notes|}}}|<small>({{{notes}}})</small>}}}}<!--\n\nSUBOBJECT\n\n-->{{#if: {{{no subobject|}}} |<!-- Do not set property -->|<!--\n-->{{#if: {{{1|}}}|{{increment|itemcnt}}<!--\n-->{{#subobject:reward{{#var:itemcnt}}\n| Has context =Rewarded item\n| Rewards item ={{{1|}}}\n| Rewarded by ={{{source|{{PAGENAME}}}}}\n| Has rewarded item quantity ={{#if:{{{qty|}}}|{{{qty}}}|1}}\n| Has rewarded item chance ={{ucfirst:{{{chance|Guaranteed}}}}}\n| Has rewarded item id ={{{id|}}}\n| Has rewarded item notes ={{{notes|}}}\n| Is for profession ={{{profession|}}}\n| Has availability ={{#switch: {{lc:{{{status|{{#show: {{PAGENAME}}|?Has availability}}}}}}}|historical=Historical|discontinued=Discontinued|future=Future|unimplemented=Unimplemented}}\n}}\n}}\n}}</includeonly><noinclude>\n== Description ==\nIdentifies what item is received upon finishing an event (page uses {{tl|event infobox}}), a story (page uses {{tl|story infobox}}) or in special cases on NPC pages, e.g. raid bosses without a related event page. Sets the [[Property:Rewards item|Rewards item]] property.\n\n;See also\n* [[Personal story]] rewards are using {{tl|story reward}}\n* [[Dynamic event|Event]]s experience rewards are using {{tl|event rewards}} or {{tl|event reward table}}\n* [[Adventure]] rewards are using {{tl|Adventure rewards}}\n\n== Usage ==\n<pre>{{Rewards item|<item name>}}\n{{Rewards item|<item name>|qty=<quantity>}}\n{{Rewards item|<item name>|<displayed name>|qty=<quantity>|collection=<required collection>|source=<acquisition source>|chance=<guaranteed/chance>|id=<id>}}</pre>\n\n=== Parameters ===\n;1 ''(unnamed parameter)''\n: Required. Name of the item.\n;2 ''(unnamed parameter)''\n: Optional. Link text to display. Defaults to <Item name>. Do not use this to pluralize the name.\n;qty\n: Optional. Item quantity. Defaults to 1. Stored as text, hence number ranges or full text are allowed. Not shown if equal to 1.\n;collection\n: Optional. Set to an achievement's name to add that an item is only rewarded if the specified collection is active.\n;source\n: Optional. Item source. Defaults to PAGENAME.\n;id\n: Optional. Item id. For item pages with multiple variants.\n;chance\n: Optional. Determines the reward chance. Options: \"Guaranteed\" (default), \"Choice\", or \"Chance\".\n;notes\n: Optional. Can be used to add a note to the subobject, which will be displayed as an additional suffix when queried with {{tl|rewarded by}}.\n;hide notes\n: If set to anything, will hide the notes parameter from the page, only adding it to the subobject.\n;profession\n: Optional. Set if the item is only awarded to a specific profession, such as HoT/PoF map completion rewards.\n;status\n: Optional. Item availability status: historical, discontinued, future, unimplemented. On default the rewarded item inherits the page availability status. Using a SMW lightweight variant which sets only [[Property:Has availability]] for non-current items (historical, discontinued, future, unimplemented).\n; no subobject\n: If set to anything, prevents the template from setting the reward subobject.\n\n=== Examples ===\n<pre>* {{rewards item|Bag of Loot (Path of Fire)}}</pre>\n* {{rewards item|Bag of Loot (Path of Fire)}}\n\n<pre>* {{rewards item|Embroidered Coin Purse|qty=2|chance=choice|notes=One of those|hide notes=y}}</pre>\n* {{rewards item|Embroidered Coin Purse|qty=2|chance=choice|notes=One of those|hide notes=y}}\n\n== See also ==\n* {{tl|rewarded by}}\n\n[[Category:Subobject templates]]\n[[Category:Item templates]]\n[[es:Plantilla:Objeto de recompensas]]\n</noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

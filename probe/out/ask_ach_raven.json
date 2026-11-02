@@ -1,0 +1,46 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has achievement reward::Gift of the Raven Spirit]]|?Has game id|?Has achievement reward|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement reward",
+     "key": "Has_achievement_reward",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "28e07c087cd76dc9ad8b5c2c997f5946",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.001738"
+   }
+  }
+ }
+}

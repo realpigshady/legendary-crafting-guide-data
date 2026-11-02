@@ -1,0 +1,54 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has context::Recipe]][[Has recipe output::Spirit of the Ravenswood Staff]]|?Has recipe output|?Has ingredient|?Has discipline|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has recipe output",
+     "key": "Has_recipe_output",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has ingredient",
+     "key": "Has_ingredient",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has discipline",
+     "key": "Has_discipline",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "323e1eb07e0fd497ade7454f74928932",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.008811"
+   }
+  }
+ }
+}

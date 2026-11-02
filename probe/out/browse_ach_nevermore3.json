@@ -1,0 +1,5902 @@
+{
+ "params": {
+  "action": "browsebysubject",
+  "subject": "Nevermore III: The Raven Staff"
+ },
+ "reply": {
+  "query": {
+   "subject": "Nevermore_III:_The_Raven_Staff#0##",
+   "data": [
+    {
+     "property": "_ASK",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY7da80184508f2881709c30099b8ad182"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYd69a1ad0723fb0c214298cbb73fe2aae"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYa753248784b9155d7146aae34efa8706"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYe86a4a1bfed93ec00c85495d9ac9911f"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY829c037db5c4a489562daef7e97fa195"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY8f25028a143894f57618c747dbd516ab"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYa328ab0a1e8a1ca046897d6a7bbd0adb"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYb5ad2185f5f9519049bc63a6967a49d4"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYf56bd0268f4c48cb48fec213d7919f8a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY4e25e2516434e9a9482b9cef0ea36725"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY00bff6a480063634856fa00475999c29"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYb858eeb103575b72615a01c2311a4a53"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYd715e3cebbf17db3252421b04c80b32d"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY277d0b62ccb1f2af4a2e274a15d4aa22"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYf6cabfd23edaec1022aaf9babf7c942a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY815edac5bfe415c96a6f9a26c98b776d"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY19a9f9a5626a21f69b7e04f594da96dd"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY8b10879a8754cb2c1e0e86917a6543da"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY108d14f1401f2c7c189428db20af0e69"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1936c723bedacefad89e15010aec555a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY712f7aed640d8b4edad6f4471ed80c8f"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY46d5530b1220123fb9273dbbb1990a67"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY7464fe1c3fc967ffe682f4990f4914b9"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY8bc395c8dd8b0b1144a909248de7e5cc"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYb900a2eb43373b8c1c95be05bc4a6af7"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY2478ac330f525cd0fc4689398d98fbc6"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1b1741bf031dcd54e456e417d6e43862"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY9bb0ab892c1ae1143d8c24a1945a5494"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY47198ea8552077923ef1f5f876ecd8cb"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY6aa69b4486a20842bafb4288ab554725"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1f12af0c084c642f07ffba119103e962"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYa05262806ca06f75ce73d167e93988ff"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY59ba6c33495624e848210a9caa601094"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY377e4cdaceb2986a0398d5b91bd4f541"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYc8aa5b8ae330b062c871195959614c71"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1ebd7e9c844d38848d5f3f0f99b8599a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY2eb998c60189545cefd065ffa08365b8"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY79c7bb8b76e4e17680fd6d188c55d4e9"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYb48b6cca3c89926ae554e6b1aae4447e"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY4b9b837951bd64248344f56e995a08ef"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYef23f14f1687baa8a6d0d7698cfe50a8"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY3233f5053841740402b5ad40d177670b"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY01e38444d8fda132d8df52386bffc3fd"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY07b8e8b32c9afa4a11dcc6e6d608c299"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY94b9e631132da57ac393dfb4fd2c5dac"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY85982b2b6dbd21980d02f7c4c7fe72fa"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYff1bb4d613ad73682e3c35182e3b2252"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1f0250ae3b4b8a2a5b87efee87364240"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY46842f29522688697e9b29456735fda0"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYdab0baa3b18437dbece0b0d3d0992683"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY3f85e4bee8dcb41e9dbc19062efdcd5d"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY8dbe45176cc5aa97322f5ec4c0b578fd"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY2451ff257468d6e08ad6fc5532b65fde"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY9340f40c8a47a92621063c267d38e05d"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY77f5bcc46218ab3aee490e899cacb9b3"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYe14205a9e8b749489702de7ec0c5e024"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY93e1fc04cec51f43315d044ec9ee6ec9"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY8b2791cb3ecaacaea076efdfba34ba38"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY2a39ef59194d6471067b2eb2d8914caf"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYf13170836e69dc1dbbfe602c41779132"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY0af2caae66c85a1b27ed0bcb4a424386"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY3368a8a5001827442a359c71f6345c93"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY9d0dee9691f36981f1461b82cb26cda1"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY735bbe5448bd7320ced42cdf7fa3da48"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY3d2561de5db0cff4a792b0afbb312e0e"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY927710e66b6405e3da7207ba79f34caf"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYdca362a5b311752d9ad343a38ceca8d0"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYe2eb1bedb9043d48aedadebc38ebe579"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY0e12841235b790c32b3ad7209d5bc738"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1fe0aec81cdcff1d2bff2df5f4b9e625"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY96b05869b44638fcdb61de57b68c41d7"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYee2cf7c88dd0c35ddf82450c4bdc9b0b"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYe1701a83ba3e16241d045d5b02bfb787"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYac712772c3f03e5e82d85df370959364"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY7fddb4065d0b0c294754e0a8ea202ee1"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY7913ff5a896679d0cb2757bbd69cba12"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY5c5e134404fe1907aea03978acd6d450"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY47dce236a78e7ebe2dde84697ac63085"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY20173536823b7ed30452b94c7404aa13"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY3289eeafe6043dc0f4bf5554585fe6f5"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY1a0e7b3a8db72c20ad491711fdf181ff"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY7aaff0fbce2a470ec7262948c19517e7"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYf9e52eb2a67324337f4115c3b1b9e4de"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYca868430fb6e419da2bc224876374c8a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY4289b5057beecbf9fe02b57598b0fbe7"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY18ed3b47cbab6fbe1e9a5fc8b8436889"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYd4ecbd249d371e759343e14b778ab201"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY034ed48d428728d039beb9f2abd62328"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYc8e47f8b69b637dfeb4ebbe55c042fef"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY21fbdf6b5592d353fa988f0aaabd769a"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY143fb46da46b14704d600c5823db285d"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYbfbc693d678305b0623b5ca4bff1aa38"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY42c997ce8945a3073eafbfd57244e7e0"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYc6aba9e17c72fb70d639ed474d0cdf81"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY5ea67c3d2679a4a079ff485375f80d07"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYbcffa55f1de8ec7d2c99ea9bd781e16b"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYcaef67de122198c887253ebbd94a4fd1"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERYa2a8086cf1201a12cecad54aa9902956"
+      },
+      {
+       "type": 9,
+       "item": "Nevermore_III:_The_Raven_Staff#0##_QUERY74b1eee5ba6b53177df1bfdd517ba5de"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_INST",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Heart_of_Thorns_content#14##"
+      },
+      {
+       "type": 9,
+       "item": "Legendary_weapon_collections#14##"
+      },
+      {
+       "type": 9,
+       "item": "Uses_API_key_for_achievements#14##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_MDAT",
+     "dataitem": [
+      {
+       "type": 6,
+       "item": "1/2022/8/17/22/12/15/0"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_SKEY",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Nevermore III: The Raven Staff"
+      }
+     ],
+     "direction": "direct"
+    }
+   ],
+   "sobj": [
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY7da80184508f2881709c30099b8ad182",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Nevermore III: The Raven Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY7da80184508f2881709c30099b8ad182"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYd69a1ad0723fb0c214298cbb73fe2aae",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Achievement]] [[Has achievement page::Nevermore III: The Raven Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYd69a1ad0723fb0c214298cbb73fe2aae"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYa753248784b9155d7146aae34efa8706",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Subtle Spyglass]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYa753248784b9155d7146aae34efa8706"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYe86a4a1bfed93ec00c85495d9ac9911f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Spirit Containment Unit]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYe86a4a1bfed93ec00c85495d9ac9911f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY829c037db5c4a489562daef7e97fa195",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through the Rookery]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY829c037db5c4a489562daef7e97fa195"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY8f25028a143894f57618c747dbd516ab",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit beyond the Tears]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY8f25028a143894f57618c747dbd516ab"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYa328ab0a1e8a1ca046897d6a7bbd0adb",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit beyond Seclusion]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYa328ab0a1e8a1ca046897d6a7bbd0adb"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYb5ad2185f5f9519049bc63a6967a49d4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit in the Abbey]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYb5ad2185f5f9519049bc63a6967a49d4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYf56bd0268f4c48cb48fec213d7919f8a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from Bria]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYf56bd0268f4c48cb48fec213d7919f8a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY4e25e2516434e9a9482b9cef0ea36725",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from Ascalon Past]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY4e25e2516434e9a9482b9cef0ea36725"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY00bff6a480063634856fa00475999c29",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Cliffside]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY00bff6a480063634856fa00475999c29"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYb858eeb103575b72615a01c2311a4a53",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit in Jade]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYb858eeb103575b72615a01c2311a4a53"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYd715e3cebbf17db3252421b04c80b32d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from Grenth]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYd715e3cebbf17db3252421b04c80b32d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY277d0b62ccb1f2af4a2e274a15d4aa22",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit the Settlement]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY277d0b62ccb1f2af4a2e274a15d4aa22"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYf6cabfd23edaec1022aaf9babf7c942a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from Gwaun]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYf6cabfd23edaec1022aaf9babf7c942a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY815edac5bfe415c96a6f9a26c98b776d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through the Ages]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY815edac5bfe415c96a6f9a26c98b776d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY19a9f9a5626a21f69b7e04f594da96dd",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through the Reactor]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY19a9f9a5626a21f69b7e04f594da96dd"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY8b10879a8754cb2c1e0e86917a6543da",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through the Abbey]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY8b10879a8754cb2c1e0e86917a6543da"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY108d14f1401f2c7c189428db20af0e69",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Stones]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY108d14f1401f2c7c189428db20af0e69"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1936c723bedacefad89e15010aec555a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Heart]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1936c723bedacefad89e15010aec555a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY712f7aed640d8b4edad6f4471ed80c8f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through Lament]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY712f7aed640d8b4edad6f4471ed80c8f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY46d5530b1220123fb9273dbbb1990a67",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Wall]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY46d5530b1220123fb9273dbbb1990a67"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY7464fe1c3fc967ffe682f4990f4914b9",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Ruins]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY7464fe1c3fc967ffe682f4990f4914b9"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY8bc395c8dd8b0b1144a909248de7e5cc",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Aqueduct]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY8bc395c8dd8b0b1144a909248de7e5cc"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYb900a2eb43373b8c1c95be05bc4a6af7",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from Serenity]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYb900a2eb43373b8c1c95be05bc4a6af7"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY2478ac330f525cd0fc4689398d98fbc6",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Lodge]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY2478ac330f525cd0fc4689398d98fbc6"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1b1741bf031dcd54e456e417d6e43862",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Memorial]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1b1741bf031dcd54e456e417d6e43862"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY9bb0ab892c1ae1143d8c24a1945a5494",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit through the Rest]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY9bb0ab892c1ae1143d8c24a1945a5494"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY47198ea8552077923ef1f5f876ecd8cb",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit among the Ley Lines]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY47198ea8552077923ef1f5f876ecd8cb"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY6aa69b4486a20842bafb4288ab554725",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit beyond the Masks]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY6aa69b4486a20842bafb4288ab554725"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1f12af0c084c642f07ffba119103e962",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Trees]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1f12af0c084c642f07ffba119103e962"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYa05262806ca06f75ce73d167e93988ff",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Crevasse]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYa05262806ca06f75ce73d167e93988ff"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY59ba6c33495624e848210a9caa601094",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chase the Spirit from the Labyrinth]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY59ba6c33495624e848210a9caa601094"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY377e4cdaceb2986a0398d5b91bd4f541",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Contain the Spirit]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY377e4cdaceb2986a0398d5b91bd4f541"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYc8aa5b8ae330b062c871195959614c71",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Nevermore Vol. 3]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYc8aa5b8ae330b062c871195959614c71"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1ebd7e9c844d38848d5f3f0f99b8599a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Ravenswood Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1ebd7e9c844d38848d5f3f0f99b8599a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY2eb998c60189545cefd065ffa08365b8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Subtle Spyglass]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY2eb998c60189545cefd065ffa08365b8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY79c7bb8b76e4e17680fd6d188c55d4e9",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Spirit Containment Unit]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY79c7bb8b76e4e17680fd6d188c55d4e9"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYb48b6cca3c89926ae554e6b1aae4447e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Nevermore III: The Raven Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYb48b6cca3c89926ae554e6b1aae4447e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY4b9b837951bd64248344f56e995a08ef",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Subtle Spyglass#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY4b9b837951bd64248344f56e995a08ef"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYef23f14f1687baa8a6d0d7698cfe50a8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Spirit Containment Unit#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYef23f14f1687baa8a6d0d7698cfe50a8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY3233f5053841740402b5ad40d177670b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Orichalcum Ingot]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY3233f5053841740402b5ad40d177670b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY01e38444d8fda132d8df52386bffc3fd",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Orichalcum Ingot#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY01e38444d8fda132d8df52386bffc3fd"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY07b8e8b32c9afa4a11dcc6e6d608c299",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Sheet of Ambrite]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY07b8e8b32c9afa4a11dcc6e6d608c299"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY94b9e631132da57ac393dfb4fd2c5dac",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Sheet of Ambrite#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY94b9e631132da57ac393dfb4fd2c5dac"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY85982b2b6dbd21980d02f7c4c7fe72fa",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Glob of Ectoplasm]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY85982b2b6dbd21980d02f7c4c7fe72fa"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYff1bb4d613ad73682e3c35182e3b2252",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Pile of Bloodstone Dust]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYff1bb4d613ad73682e3c35182e3b2252"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1f0250ae3b4b8a2a5b87efee87364240",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Spiritwood Plank]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1f0250ae3b4b8a2a5b87efee87364240"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY46842f29522688697e9b29456735fda0",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Spiritwood Plank#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY46842f29522688697e9b29456735fda0"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYdab0baa3b18437dbece0b0d3d0992683",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Glob of Dark Matter]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYdab0baa3b18437dbece0b0d3d0992683"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY3f85e4bee8dcb41e9dbc19062efdcd5d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Stabilizing Matrix]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY3f85e4bee8dcb41e9dbc19062efdcd5d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY8dbe45176cc5aa97322f5ec4c0b578fd",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Orichalcum Ore]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY8dbe45176cc5aa97322f5ec4c0b578fd"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY2451ff257468d6e08ad6fc5532b65fde",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Piece of Ambrite]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY2451ff257468d6e08ad6fc5532b65fde"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY9340f40c8a47a92621063c267d38e05d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Quartz Crystal]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY9340f40c8a47a92621063c267d38e05d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY77f5bcc46218ab3aee490e899cacb9b3",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Soft Wood Plank]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY77f5bcc46218ab3aee490e899cacb9b3"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYe14205a9e8b749489702de7ec0c5e024",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Soft Wood Plank#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYe14205a9e8b749489702de7ec0c5e024"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY93e1fc04cec51f43315d044ec9ee6ec9",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Seasoned Wood Plank]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY93e1fc04cec51f43315d044ec9ee6ec9"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY8b2791cb3ecaacaea076efdfba34ba38",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Seasoned Wood Plank#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY8b2791cb3ecaacaea076efdfba34ba38"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY2a39ef59194d6471067b2eb2d8914caf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Hard Wood Plank]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY2a39ef59194d6471067b2eb2d8914caf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYf13170836e69dc1dbbfe602c41779132",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Hard Wood Plank#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYf13170836e69dc1dbbfe602c41779132"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY0af2caae66c85a1b27ed0bcb4a424386",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Glob of Elder Spirit Residue]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY0af2caae66c85a1b27ed0bcb4a424386"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY3368a8a5001827442a359c71f6345c93",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Glob of Elder Spirit Residue#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY3368a8a5001827442a359c71f6345c93"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY9d0dee9691f36981f1461b82cb26cda1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Soft Wood Log]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY9d0dee9691f36981f1461b82cb26cda1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY735bbe5448bd7320ced42cdf7fa3da48",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Seasoned Wood Log]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY735bbe5448bd7320ced42cdf7fa3da48"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY3d2561de5db0cff4a792b0afbb312e0e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Hard Wood Log]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY3d2561de5db0cff4a792b0afbb312e0e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY927710e66b6405e3da7207ba79f34caf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Elder Wood Plank]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY927710e66b6405e3da7207ba79f34caf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYdca362a5b311752d9ad343a38ceca8d0",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Elder Wood Plank#recipe1]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYdca362a5b311752d9ad343a38ceca8d0"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYe2eb1bedb9043d48aedadebc38ebe579",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Thermocatalytic Reagent]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYe2eb1bedb9043d48aedadebc38ebe579"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY0e12841235b790c32b3ad7209d5bc738",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has item data object::Elder Wood Log]] [[Can be queried for base ingredients::true]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY0e12841235b790c32b3ad7209d5bc738"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1fe0aec81cdcff1d2bff2df5f4b9e625",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Glob of Ectoplasm]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1fe0aec81cdcff1d2bff2df5f4b9e625"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY96b05869b44638fcdb61de57b68c41d7",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Glob of Ectoplasm]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY96b05869b44638fcdb61de57b68c41d7"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYee2cf7c88dd0c35ddf82450c4bdc9b0b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Pile of Bloodstone Dust]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYee2cf7c88dd0c35ddf82450c4bdc9b0b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYe1701a83ba3e16241d045d5b02bfb787",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Pile of Bloodstone Dust]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYe1701a83ba3e16241d045d5b02bfb787"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYac712772c3f03e5e82d85df370959364",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Glob of Dark Matter]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYac712772c3f03e5e82d85df370959364"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY7fddb4065d0b0c294754e0a8ea202ee1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Glob of Dark Matter]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY7fddb4065d0b0c294754e0a8ea202ee1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY7913ff5a896679d0cb2757bbd69cba12",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Stabilizing Matrix]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY7913ff5a896679d0cb2757bbd69cba12"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY5c5e134404fe1907aea03978acd6d450",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Stabilizing Matrix]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY5c5e134404fe1907aea03978acd6d450"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY47dce236a78e7ebe2dde84697ac63085",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Orichalcum Ore]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY47dce236a78e7ebe2dde84697ac63085"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY20173536823b7ed30452b94c7404aa13",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Orichalcum Ore]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY20173536823b7ed30452b94c7404aa13"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY3289eeafe6043dc0f4bf5554585fe6f5",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Piece of Ambrite]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY3289eeafe6043dc0f4bf5554585fe6f5"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY1a0e7b3a8db72c20ad491711fdf181ff",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Piece of Ambrite]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY1a0e7b3a8db72c20ad491711fdf181ff"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY7aaff0fbce2a470ec7262948c19517e7",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Soft Wood Log]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY7aaff0fbce2a470ec7262948c19517e7"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYf9e52eb2a67324337f4115c3b1b9e4de",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Soft Wood Log]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYf9e52eb2a67324337f4115c3b1b9e4de"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYca868430fb6e419da2bc224876374c8a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Seasoned Wood Log]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYca868430fb6e419da2bc224876374c8a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY4289b5057beecbf9fe02b57598b0fbe7",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Seasoned Wood Log]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY4289b5057beecbf9fe02b57598b0fbe7"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY18ed3b47cbab6fbe1e9a5fc8b8436889",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Hard Wood Log]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY18ed3b47cbab6fbe1e9a5fc8b8436889"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYd4ecbd249d371e759343e14b778ab201",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Hard Wood Log]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYd4ecbd249d371e759343e14b778ab201"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY034ed48d428728d039beb9f2abd62328",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Thermocatalytic Reagent]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY034ed48d428728d039beb9f2abd62328"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYc8e47f8b69b637dfeb4ebbe55c042fef",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Thermocatalytic Reagent]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYc8e47f8b69b637dfeb4ebbe55c042fef"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY21fbdf6b5592d353fa988f0aaabd769a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Elder Wood Log]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY21fbdf6b5592d353fa988f0aaabd769a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY143fb46da46b14704d600c5823db285d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Elder Wood Log]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY143fb46da46b14704d600c5823db285d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYbfbc693d678305b0623b5ca4bff1aa38",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:{{{10}}}]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYbfbc693d678305b0623b5ca4bff1aa38"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY42c997ce8945a3073eafbfd57244e7e0",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Legendary Weapons (achievements)]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY42c997ce8945a3073eafbfd57244e7e0"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYc6aba9e17c72fb70d639ed474d0cdf81",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chest of the Wild Spirit]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYc6aba9e17c72fb70d639ed474d0cdf81"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY5ea67c3d2679a4a079ff485375f80d07",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Achievement]] [[Has game id::2336]] [[Has achievement collection::+]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY5ea67c3d2679a4a079ff485375f80d07"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYbcffa55f1de8ec7d2c99ea9bd781e16b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Achievement]] [[Has game id::2336]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYbcffa55f1de8ec7d2c99ea9bd781e16b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYcaef67de122198c887253ebbd94a4fd1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "count"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has context::Achievement]] [[Has achievement page::Nevermore III: The Raven Staff]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYcaef67de122198c887253ebbd94a4fd1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERYa2a8086cf1201a12cecad54aa9902956",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "2"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "5"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Sells item::Quartz Crystal]] [[Has item cost.Has item currency::Coin]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERYa2a8086cf1201a12cecad54aa9902956"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Nevermore_III:_The_Raven_Staff#0##_QUERY74b1eee5ba6b53177df1bfdd517ba5de",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Quartz Crystal]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Nevermore III: The Raven Staff# QUERY74b1eee5ba6b53177df1bfdd517ba5de"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    }
+   ],
+   "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+   "version": 2
+  }
+ }
+}
