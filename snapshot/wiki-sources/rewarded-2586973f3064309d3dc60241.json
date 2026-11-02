@@ -1,0 +1,68 @@
+{
+"fetched": 1793659589.5573726,
+"item": "Bauble Bubble",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Area"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cart"
+],
+"Rewards item": [
+"Bauble Bubble"
+],
+"_subject": "Cart#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cut ooze cake!"
+],
+"Rewards item": [
+"Bauble Bubble"
+],
+"_subject": "Cut ooze cake!#reward1"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Area"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Robbers"
+],
+"Rewards item": [
+"Bauble Bubble"
+],
+"_subject": "Robbers#reward1"
+}
+]
+}

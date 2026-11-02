@@ -1,0 +1,1852 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Obsidian Shard",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alaleh"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Chalon Docks"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Alaleh#vendor19"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "30"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"BUY-4373"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "BUY-4373#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brass Nettlemoor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Brass Nettlemoor#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Putting Out Fires"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crystal Bloom Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pact Command"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Crystal Bloom Quartermaster#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ethall"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Atholma"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Ethall#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lump of Aurillium",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Exalted Acceptance"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Exalted Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble Ledges",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Exalted Mastery Vendor#vendor34"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lump of Aurillium",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Exalted Acceptance"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Exalted Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble Ledges",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Exalted Mastery Vendor#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Festival Token",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Festival Rewards Vendor (Festival Rewards)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Crown Pavilion (zone)",
+"Bazaar Docks"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Festival Rewards Vendor (Festival Rewards)#vendor52"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Festival Token",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Four Winds Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Four Winds Vendor#vendor52"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Fractal Reliquary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Fractal Reliquary#vendor4"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guest Elder (Laurel Merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Guest Elder (Laurel Merchant)#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Found Belonging",
+"Has item value": "50"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "200"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Heirloom Lost and Found"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Durmand Priory (location)",
+"The Battle For Lion's Arch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Heirloom Lost and Found#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Itzel Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Itzel Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tarir, the Forgotten City",
+"Maguuma's Breach"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Itzel Mastery Vendor#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Itzel Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Itzel Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tarir, the Forgotten City",
+"Maguuma's Breach"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Itzel Mastery Vendor#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jale"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Jale#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jocasta"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Jocasta#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Karnn Fallenskull"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Karnn Fallenskull#vendor29"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kriss"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Kriss#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kynon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Forge"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Kynon#vendor17"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Laurel Merchant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Great Lodge",
+"The Upper City",
+"Hall of Memories",
+"Fort Marriner",
+"Memorial Quadrant",
+"Creator's Commons",
+"Garden of Dusk",
+"Havoc's Heir",
+"Mistlock Observatory",
+"Commodore's Quarter",
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Laurel Merchant#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "45"
+},
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+15
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lionguard (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Lionguard (Skirmish Merchant)/Others#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "45"
+},
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+15
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mercenary (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Mercenary (Skirmish Merchant)/Others#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merit Professor Rizzak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Merit Professor Rizzak#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nalar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Allied Encampment"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nalar#vendor17"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Natto"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pride of the Pact"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Natto#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nicola (laurel merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nicola (laurel merchant)#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tangled Descent",
+"Teku Nuhoch",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nuhoch Mastery Vendor#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tangled Descent",
+"Teku Nuhoch",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nuhoch Mastery Vendor#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Stomper (Ley-Line Crystal Collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ley-Line Confluence"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nuhoch Stomper (Ley-Line Crystal Collector)#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Stomper (Ley-Line Crystal Collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ley-Line Confluence"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Nuhoch Stomper (Ley-Line Crystal Collector)#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "250"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Priory Historian (bandit crest collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Camp Resolve"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Priory Historian (bandit crest collector)#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Priory Historian (bandit crest collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Camp Resolve"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Priory Historian (bandit crest collector)#vendor36"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Provisioner Anlana"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bloated Beach"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Provisioner Anlana#vendor13"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "250"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Ferraro"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Northwestern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Ferraro#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Ferraro"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Northwestern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Ferraro#vendor36"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Hitchens"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Doric's Landing"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Hitchens#vendor17"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "250"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Melyn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southeastern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Melyn#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Melyn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southeastern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Melyn#vendor36"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "250"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Munitius"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southwestern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Munitius#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Munitius"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southwestern Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Munitius#vendor36"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "250"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Seppa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Central Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Seppa#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Bandit Crest",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Seppa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Central Silverwastes"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Quartermaster Seppa#vendor36"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+},
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rally Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lower Blood Keep",
+"The Ooze Pit"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Rally Provisioner#vendor29"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sigurlina Jonsdottir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Sigurlina Jonsdottir#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "45"
+},
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+15
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skirmish Supervisor/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Skirmish Supervisor/Others#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Slooshoo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Sorrow's Eclipse Sanctuary"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Slooshoo#vendor17"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble Bubble",
+"Has item value": "1"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Super Adventure Box Trader#vendor34"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Supplymaster Hanjo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mariner Landing"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Supplymaster Hanjo#vendor17"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Found Belonging",
+"Has item value": "50"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "200"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Suspicious Heirloom Lost and Found"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Battle For Lion's Arch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Suspicious Heirloom Lost and Found#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tactician Deathstrider"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Cathedral of Glorious Victory"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Tactician Deathstrider#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "21000"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tactician Deathstrider"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Cathedral of Glorious Victory"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Tactician Deathstrider#vendor2"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tenoch"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Tenoch#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Nuhoch Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tenoch"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Tenoch#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "96"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Trader Hyacinth"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Yatendi Village"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Trader Hyacinth#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Varka"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Varka#vendor15"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Fractal Reliquary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Wizard's Gobbler/Fractal Reliquary#vendor4"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Itzel Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Xochitl"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Xochitl#vendor20"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "125"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "5250"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"Itzel Language"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Xochitl"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Obsidian Shard"
+],
+"_subject": "Xochitl#vendor21"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3157727,
+"text": "{{Item infobox\n| description = Can be consumed for karma or exchanged for goods from Heirloom Lost and Found merchants in the Battle for Lion's Arch or the Durmand Priory in Lornar's Pass.\t\n| rarity = basic\n| type = consumable\n| bound = account\n| id = 50030\n}}\n\n== Acquisition ==\n{{section-stub|item}}\n* Dropped from foes or chests in [[Battle for Lion's Arch]]\n\n=== Contained in ===\n{{Contained in}}\n\n== Used in ==\n=== Consumption ===\n* {{contains|Karma|chance=Guaranteed|qty=25}}\n\n== Currency for ==\n{{Vendor query table|currency=Found Belonging|include historical vendors=n}}\n\n=== Historical vendors ===\nDuring the release of [[Escape from Lion's Arch]], there were the following vendors available:\n{{Vendor query table|currency=Found Belonging|include historical vendors=only|expandable=true}}\n\n== Notes ==\n* This description was updated with the [[Battle for Lion's Arch]] re-release.\n\n{{Tokens nav}}\n\n[[Category:Escape from Lion's Arch]]\n[[Category:Battle for Lion's Arch]]\n\n[[de:Gefundene Habseligkeit]]\n[[es:Pertenencia encontrada]]\n[[fr:Affaire trouvée]]",
+"title": "Found Belonging"
+}

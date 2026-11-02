@@ -1,0 +1,71 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Exotic Essence of Luck",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+},
+{
+"Has item currency": "Rare Essence of Luck",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Exotic Essence of Luck"
+],
+"_subject": "Lyhr#vendor35"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+},
+{
+"Has item currency": "Rare Essence of Luck",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Exotic Essence of Luck"
+],
+"_subject": "Ward Crafter Lucirae#vendor26"
+}
+]
+}

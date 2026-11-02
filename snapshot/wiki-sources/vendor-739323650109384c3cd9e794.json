@@ -1,0 +1,37 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Spirit of the Jackal",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elegy Mosaic",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Adroit Evasion"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Drojkor, Spirit Squall"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Sand Jackal Run"
+],
+"Sells item": [
+"Spirit of the Jackal"
+],
+"_subject": "Drojkor, Spirit Squall#vendor4"
+}
+]
+}

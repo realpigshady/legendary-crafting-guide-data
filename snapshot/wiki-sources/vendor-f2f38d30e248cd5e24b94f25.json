@@ -1,0 +1,35 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Spirit of the Skimmer",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elegy Mosaic",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skimmer Trainer Ardra"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Skimmer Ranch"
+],
+"Sells item": [
+"Spirit of the Skimmer"
+],
+"_subject": "Skimmer Trainer Ardra#vendor3"
+}
+]
+}

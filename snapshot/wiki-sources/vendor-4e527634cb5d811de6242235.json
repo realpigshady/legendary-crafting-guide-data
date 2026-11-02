@@ -1,0 +1,515 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Mystic Clover",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "150"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"BUY-4373"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "BUY-4373#vendor11"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "30"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Basic Magnetite Exchange Operative"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Basic Magnetite Exchange Operative#vendor188"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "20"
+},
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "10"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dugan"
+],
+"Has weekly purchase cap": [
+5
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Dugan#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "PvP League Ticket",
+"Has item value": "5"
+},
+{
+"Has item currency": "Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Vendor"
+],
+"Has weekly purchase cap": [
+5
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories",
+"Champion's Rest"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "League Vendor#vendor53"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Emblem of Tournament Victory",
+"Has item value": "1"
+},
+{
+"Has item currency": "Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Vendor"
+],
+"Has weekly purchase cap": [
+5
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories",
+"Champion's Rest"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "League Vendor#vendor55"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "3"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Lyhr#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "30"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "2"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Manfred Njallson"
+],
+"Has weekly purchase cap": [
+15
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Manfred Njallson#vendor10"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "3"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Miyani"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Miyani#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "3"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Attendant"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Plaza of Balthazar",
+"Stonemist Castle",
+"Snowblind Peaks",
+"Noble Ledges",
+"Green Alpine Garrison",
+"Blue Alpine Garrison",
+"Camp Resolve",
+"Stoic Rampart",
+"Osprey Pillars",
+"Mistlock Sanctuary",
+"Bay of Elon",
+"Armistice Bastion",
+"Arborstone",
+"Thousand Seas Pavilion",
+"Outer Ring"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Mystic Forge Attendant#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "3"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Keeper"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Mystic Forge Keeper#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Exotic Essence of Luck",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Lunar New Year]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"New Year Rewards"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Crown Pavilion"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "New Year Rewards#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+},
+{
+"Has item currency": "Mystic Coin",
+"Has item value": "3"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Mystic Clover"
+],
+"_subject": "Ward Crafter Lucirae#vendor21"
+}
+]
+}

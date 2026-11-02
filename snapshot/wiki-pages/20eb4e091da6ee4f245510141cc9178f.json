@@ -1,0 +1,5 @@
+{
+"revid": 2939301,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[inscription]]s, which are used in weapon crafting.\n| material type = ascended\n| tier = 7\n| rarity = masterwork\n| value = 29\n| id = 45832\n}}\n\n== Acquisition ==\n{{Recipe\n| source = automatic\n| type = Refinement\n| disciplines = Weaponsmith, Artificer, Huntsman\n| rating = 500\n| ingredient1 = 3 Deldrimor Steel Ingot\n| ingredient2 = 3 Spiritwood Plank\n| id = 7308\n| worth = 20-22 gold\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n{{Anomaly|Unlike other components used in ascended crafting made from other ascended items such as the [[Damask Patch]], this item has {{rarity|Masterwork}} rarity.}}\n\n[[de:Stahlüberzogener Deldrimor-Dübel]]\n[[es:Taco blindado de acero de Deldrimor]]\n[[fr:Goujon plaqué d'acier de Deldrimor]]",
+"title": "Deldrimor Steel Plated Dowel"
+}

@@ -1,0 +1,95 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Gift of Condensed Magic",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Gift of Blood",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Venom",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Totems",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Dust",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Condensed Magic"
+],
+"_subject": "Lyhr#vendor26"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Blood",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Dust",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Totems",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Venom",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Condensed Magic"
+],
+"_subject": "Ward Crafter Lucirae#vendor11"
+}
+]
+}

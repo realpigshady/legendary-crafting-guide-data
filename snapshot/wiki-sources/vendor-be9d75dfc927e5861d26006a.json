@@ -1,0 +1,106 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of Glory",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shard of Glory",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Miyani"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Gift of Glory"
+],
+"_subject": "Miyani#vendor10"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shard of Glory",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Attendant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Plaza of Balthazar",
+"Stonemist Castle",
+"Snowblind Peaks",
+"Noble Ledges",
+"Green Alpine Garrison",
+"Blue Alpine Garrison",
+"Camp Resolve",
+"Stoic Rampart",
+"Osprey Pillars",
+"Mistlock Sanctuary",
+"Bay of Elon",
+"Armistice Bastion",
+"Arborstone",
+"Thousand Seas Pavilion",
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Glory"
+],
+"_subject": "Mystic Forge Attendant#vendor10"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shard of Glory",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Keeper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Gift of Glory"
+],
+"_subject": "Mystic Forge Keeper#vendor10"
+}
+]
+}

@@ -1,0 +1,717 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Tribute to Tlehco",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alaleh"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Chalon Docks"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Alaleh#vendor30"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ethall"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Atholma"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Ethall#vendor32"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lump of Aurillium",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Exalted Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble Ledges",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Exalted Mastery Vendor#vendor72"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Follower Xunn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Skyward Reach"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Follower Xunn#vendor62"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Itzel Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tarir, the Forgotten City",
+"Maguuma's Breach"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Itzel Mastery Vendor#vendor68"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Karnn Fallenskull"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Karnn Fallenskull#vendor39"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kisha Odili"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Bonestrand"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Kisha Odili#vendor47"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kynon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Forge"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Kynon#vendor40"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Melilla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stampede Uplands"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Melilla#vendor62"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nalar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Allied Encampment"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Nalar#vendor40"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Natto"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pride of the Pact",
+"The Jade Whirl",
+"Xunlai Jade Quarry",
+"Outer Sanctorium"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Natto#vendor27"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tangled Descent",
+"Teku Nuhoch",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Nuhoch Mastery Vendor#vendor69"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Stomper (Ley-Line Crystal Collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ley-Line Confluence"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Nuhoch Stomper (Ley-Line Crystal Collector)#vendor69"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Priestess Karima"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Amnoon Farms"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Priestess Karima#vendor63"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Provisioner Anlana"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bloated Beach"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Provisioner Anlana#vendor23"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Hitchens"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Doric's Landing"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Quartermaster Hitchens#vendor27"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rally Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lower Blood Keep",
+"The Ooze Pit"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Rally Provisioner#vendor39"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Surra"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Infernal Cape"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Scholar Surra#vendor21"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Slooshoo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Sorrow's Eclipse Sanctuary"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Slooshoo#vendor32"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Unbound Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Supplymaster Hanjo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mariner Landing"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Supplymaster Hanjo#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tendaji"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Diviner's Reach"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Tendaji#vendor62"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tenoch"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Tenoch#vendor69"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Trader Hyacinth"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Yatendi Village"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Trader Hyacinth#vendor47"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Traveling Elonian Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pact Command"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Traveling Elonian Trader#vendor40"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Xochitl"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Tribute to Tlehco"
+],
+"_subject": "Xochitl#vendor68"
+}
+]
+}

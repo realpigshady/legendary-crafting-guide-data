@@ -1,0 +1,115 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of the Nuhoch",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "500"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "10000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language",
+"Nuhoch Alchemy"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jaka Itzel",
+"Tangled Descent",
+"Teku Nuhoch",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Gift of the Nuhoch"
+],
+"_subject": "Nuhoch Mastery Vendor#vendor22"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "500"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "10000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language",
+"Nuhoch Alchemy"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nuhoch Stomper (Ley-Line Crystal Collector)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ley-Line Confluence"
+],
+"Sells item": [
+"Gift of the Nuhoch"
+],
+"_subject": "Nuhoch Stomper (Ley-Line Crystal Collector)#vendor22"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "500"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "10000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Nuhoch Language",
+"Nuhoch Alchemy"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tenoch"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Teku Nuhoch"
+],
+"Sells item": [
+"Gift of the Nuhoch"
+],
+"_subject": "Tenoch#vendor22"
+}
+]
+}

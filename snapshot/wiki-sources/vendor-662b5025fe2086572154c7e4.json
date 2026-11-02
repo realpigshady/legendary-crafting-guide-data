@@ -1,0 +1,38 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Pile of Luminous Dust",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sigurlina Jonsdottir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Pile of Luminous Dust"
+],
+"_subject": "Sigurlina Jonsdottir#vendor34"
+}
+]
+}

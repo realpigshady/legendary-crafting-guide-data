@@ -1,0 +1,5 @@
+{
+"revid": 3137816,
+"text": "{{Item infobox\n| id = 104856\n| icon = Nayos Hoard.png\n| description = Awards your choice of items. Double-click to open.\n| type = gizmo\n| rarity = exotic\n| bound = account\n| requires = soto\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Items offered ==\n{{vendor table header|showType=false|showRarity=false|showLevel=false|showFacts=false}}\n{{vendor table row|item=Clot of Congealed Screams|cost=1 Inner Nayos: Commander's Choice Chest}}\n{{vendor table row|item=Amalgamated Gemstone|cost=1 Inner Nayos: Commander's Choice Chest}}\n{{vendor table row|item=Saryx Weapon Box|cost=1 Inner Nayos: Commander's Choice Chest}}\n{{vendor table row|quantity=20|item=Large Calcified Gasp|cost=1 Inner Nayos: Commander's Choice Chest}}\n|}\n\n[[Category:Container gizmos]]\n[[es:Zona interior de Nayos: Cofre de elección del comandante]]",
+"title": "Inner Nayos: Commander's Choice Chest"
+}

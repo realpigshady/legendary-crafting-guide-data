@@ -1,0 +1,5 @@
+{
+"revid": 2378261,
+"text": "{{Item infobox\n| description = Refine into [[Seasoned Wood Plank|Planks]].\n| type = crafting material\n| material type = basic\n| material storage = Basic Crafting Materials\n| tier = 3\n| rarity = basic\n| value = 4\n| id = 19727\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Salvaged from ===\n* Salvaged from level 31-48 weapons.\n{{salvaged from}}\n\n=== Recipe ===\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Soft Wood Log\n| ingredient2 = 1 Seasoned Wood Log\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 2 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Seasoned Wood Log}}\n\n{{Common crafting materials nav}}\n\n[[de:Abgelagerter Holzblock]]\n[[es:Leño de madera curtida]]\n[[fr:Rondin de bois séché]]",
+"title": "Seasoned Wood Log"
+}

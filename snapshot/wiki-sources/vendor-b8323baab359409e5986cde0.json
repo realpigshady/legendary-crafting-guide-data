@@ -1,0 +1,37 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Gift of Family",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "100000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Chuka and Champawat IV: A Nontraditional Family"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Grandmaster Craftsman Hobbs"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Gift of Family"
+],
+"_subject": "Grandmaster Craftsman Hobbs#vendor241"
+}
+]
+}

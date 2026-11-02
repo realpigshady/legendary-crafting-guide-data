@@ -1,0 +1,1254 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Shimmering Crystal",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bottle of Airship Oil",
+"Has item value": "10"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor143"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Reclaimed Metal Plate",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor144"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Pile of Auric Dust",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor145"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Auric Ingot",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor146"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Ley Line Spark",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor147"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Chak Egg",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor148"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Crystalline Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor149"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Tenebrous Crystal",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor150"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bottle of Airship Oil",
+"Has item value": "10"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor143"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Reclaimed Metal Plate",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor144"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Pile of Auric Dust",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor145"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Auric Ingot",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor146"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Ley Line Spark",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor147"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Chak Egg",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor148"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Crystalline Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor149"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Tenebrous Crystal",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor150"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bottle of Airship Oil",
+"Has item value": "10"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor27"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Reclaimed Metal Plate",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor28"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Pile of Auric Dust",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor29"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Auric Ingot",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor30"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Ley Line Spark",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Chak Egg",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor32"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Crystalline Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor33"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Tenebrous Crystal",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor34"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sigurlina Jonsdottir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Sigurlina Jonsdottir#vendor32"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bottle of Airship Oil",
+"Has item value": "10"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor27"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Reclaimed Metal Plate",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor28"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Pile of Auric Dust",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor29"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Auric Ingot",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor30"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Ley Line Spark",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor31"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Chak Egg",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor32"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Crystalline Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor33"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Tenebrous Crystal",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor34"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bottle of Airship Oil",
+"Has item value": "10"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor143"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Reclaimed Metal Plate",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor144"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Pile of Auric Dust",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor145"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Auric Ingot",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor146"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Ley Line Spark",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor147"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Chak Egg",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor148"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Crystalline Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor149"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "150"
+},
+{
+"Has item currency": "Tenebrous Crystal",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shimmering Crystal"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor150"
+}
+]
+}

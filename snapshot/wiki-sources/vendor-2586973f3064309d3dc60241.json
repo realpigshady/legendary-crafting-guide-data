@@ -1,0 +1,121 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Bauble Bubble",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Coin Machine"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bauble Bubble"
+],
+"_subject": "Coin Machine#vendor2"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Moto"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Creator's Commons"
+],
+"Sells item": [
+"Bauble Bubble"
+],
+"_subject": "Moto#vendor2"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble Bubble"
+],
+"_subject": "Super Adventure Box Trader#vendor52"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Crimson Assassin Token",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Weaponsmith"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble Bubble"
+],
+"_subject": "Super Adventure Box Weaponsmith#vendor34"
+}
+]
+}

@@ -1,0 +1,74 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Mystic Coin",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "10"
+},
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Manfred Njallson"
+],
+"Has weekly purchase cap": [
+10
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Mystic Coin"
+],
+"_subject": "Manfred Njallson#vendor11"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble Bubble",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Super Adventure Festival]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Weekly Trader"
+],
+"Has weekly purchase cap": [
+3
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Mystic Coin"
+],
+"_subject": "Super Adventure Box Weekly Trader#vendor6"
+}
+]
+}

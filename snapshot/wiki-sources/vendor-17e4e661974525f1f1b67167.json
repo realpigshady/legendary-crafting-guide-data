@@ -1,0 +1,37 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of the Desolation",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "23331"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"map completion of [[The Desolation]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kisha Odili"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Bonestrand"
+],
+"Sells item": [
+"Gift of the Desolation"
+],
+"_subject": "Kisha Odili#vendor1"
+}
+]
+}

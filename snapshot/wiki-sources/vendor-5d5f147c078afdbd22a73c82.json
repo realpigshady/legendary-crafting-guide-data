@@ -1,0 +1,51 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Gift of the Mists",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Battle",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of War",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Glory",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of the Mists"
+],
+"_subject": "Ward Crafter Lucirae#vendor24"
+}
+]
+}

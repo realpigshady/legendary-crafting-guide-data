@@ -1,0 +1,323 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Pile of Auric Dust",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Auric Basin: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Auric Basin: Commander's Choice Chest#vendor2"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon's Stand: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Dragon's Stand: Commander's Choice Chest#vendor4"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor167"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor181"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor167"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor181"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor51"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor65"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor51"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor65"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Auric Basin: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor167"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Pile of Auric Dust"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor181"
+}
+]
+}

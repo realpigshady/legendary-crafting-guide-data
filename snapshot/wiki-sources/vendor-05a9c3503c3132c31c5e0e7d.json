@@ -1,0 +1,453 @@
+{
+"fetched": 1793659380.0302005,
+"item": "Funerary Incense",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Amusement Adjunct Cagri"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Garden of Seborhin"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Amusement Adjunct Cagri#vendor1"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Awakened Servant Tooraj"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Vehjin Mines"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Awakened Servant Tooraj#vendor5"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Director Abioye Bayu"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Garden of Seborhin"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Director Abioye Bayu#vendor5"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Distinguished Professor Nazimi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Vehtendi Academy"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Distinguished Professor Nazimi#vendor5"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Embalmer Boran"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Necropolis"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Embalmer Boran#vendor4"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Fallen Awakened Soldier"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Foundry"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Fallen Awakened Soldier#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elegy Mosaic",
+"Has item value": "3"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Primeval Steward"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tomb of the Primeval Kings"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Primeval Steward#vendor23"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+},
+{
+"Has item currency": "Trade Contracts",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Primeval Steward"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tomb of the Primeval Kings"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Primeval Steward#vendor24"
+},
+{
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Crystalline Ingot",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Primeval Steward"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tomb of the Primeval Kings"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Primeval Steward#vendor25"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Prince Bakkal"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Vehjin Palace"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Prince Bakkal#vendor5"
+},
+{
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Trade Contract",
+"Has item value": "5"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Supreme Training Specialist Tozan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Necropolis"
+],
+"Sells item": [
+"Funerary Incense"
+],
+"_subject": "Supreme Training Specialist Tozan#vendor1"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of the Exalted",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lump of Aurillium",
+"Has item value": "500"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "10000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Exalted Acceptance",
+"Exalted Gathering"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Exalted Mastery Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble Ledges",
+"Tarir, the Forgotten City"
+],
+"Sells item": [
+"Gift of the Exalted"
+],
+"_subject": "Exalted Mastery Vendor#vendor40"
+}
+]
+}

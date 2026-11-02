@@ -1,0 +1,45 @@
+{
+"fetched": 1793659589.5573726,
+"item": "Gift of the Chak",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of the Chak"
+],
+"_subject": "Map completion#reward9"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Tangled Depths"
+],
+"Rewards item": [
+"Gift of the Chak"
+],
+"_subject": "Tangled Depths#reward3"
+}
+]
+}

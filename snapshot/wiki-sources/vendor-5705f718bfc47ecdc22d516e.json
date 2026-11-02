@@ -1,0 +1,3069 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Lump of Primordium",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Aggo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Aggo#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alisa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Alisa#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Annil Hidestrike"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Annil Hidestrike#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (armorsmithing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Apprentice (armorsmithing)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (artificing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Apprentice (artificing)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (huntsman)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Apprentice (huntsman)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (weaponsmithing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Apprentice (weaponsmithing)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorer Pearl"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Armorer Pearl#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorer Vaxxa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Armorer Vaxxa#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorsmith (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Armorsmith (Aerodrome)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorsmith Lykaios"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Armorsmith Lykaios#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arone"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Arone#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arriske"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Arriske#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Artificer (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Artificer (Aerodrome)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Artificer Gisela"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Artificer Gisela#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Atalia Steelshaper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Atalia Steelshaper#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ater"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ater#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ballistics Genius Virkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ballistics Genius Virkk#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Bert#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brencis"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Brencis#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Briain"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Briain#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caala"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Caala#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Carsonn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Carsonn#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cathilla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Cathilla#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ceridwen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ceridwen#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Armtree"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Crusader Armtree#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Cheronne"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Crusader Cheronne#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Jerrick"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Crusader Jerrick#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crut"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Crut#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cullen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Cullen#vendor11"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Danala"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Danala#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dinaden"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Dinaden#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Draiocht"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Draiocht#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Drogan Delwan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Drogan Delwan#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dunn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Dunn#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ella"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ella#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Eren"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Eren#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Eridwen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Eridwen#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Explosives Visionary Pirakk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Explosives Visionary Pirakk#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Flinj"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Flinj#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Forgemaster Jak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Forgemaster Jak#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Forgemaster Volrundson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Forgemaster Volrundson#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Frayja"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Frayja#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gambil"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gambil#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gareth the Skelk Tamer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gareth the Skelk Tamer#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gelfa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gelfa#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gottlieb the Gunslinger"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gottlieb the Gunslinger#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gudrid"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gudrid#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gweithwyr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tender's Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gweithwyr#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gyra"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Gyra#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hagna"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Hagna#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hakki"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Hakki#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Harl Hotspur"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Harl Hotspur#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hejj"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Hejj#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Houndkeeper Owens"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Houndkeeper Owens#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hunter Palladia Gravegaze"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Hunter Palladia Gravegaze#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntsman (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Huntsman (Aerodrome)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Imer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Imer#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Inigo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Inigo#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Iris the Invincible"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Iris the Invincible#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jraogh"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Jraogh#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kalak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Kalak#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Karsti"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Karsti#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Katlin Verndjes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Katlin Verndjes#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kira"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Kira#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Klunn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Klunn#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Linna Hideslicer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Linna Hideslicer#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mathael"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Mathael#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Medicha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Medicha#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Millo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Millo#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Morgaah Bloodseeker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Morgaah Bloodseeker#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Muireall"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Muireall#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Naava"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Naava#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nigel Lawden"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Nigel Lawden#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Oline"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Oline#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Oolema"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Oolema#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Palm-Reader Arla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Palm-Reader Arla#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Armorsmith)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Pavilion Disciple (Master Armorsmith)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Artificer)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Pavilion Disciple (Master Artificer)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Huntsman)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Pavilion Disciple (Master Huntsman)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Weaponsmith)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Pavilion Disciple (Master Weaponsmith)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Poola"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Poola#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Raketa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Raketa#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rallen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Rallen#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rauf"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Rauf#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rayge"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Rayge#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ruuga Blackear"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ruuga Blackear#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Salim"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Salim#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Seilg"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Seilg#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Semyon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Semyon#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege-Golemancer Varxx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Siege-Golemancer Varxx#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siobhan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Siobhan#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siovhan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Siovhan#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skuda Ironshaper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Skuda Ironshaper#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Skya#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Statics Expert Korbit"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Statics Expert Korbit#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Stav Darkchaser"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Stav Darkchaser#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Taask Steamcaller"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Taask Steamcaller#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tactician Wylld"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Tactician Wylld#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tahiya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Tahiya#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Theoretician Straff"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Theoretician Straff#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ulyn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Ulyn#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vash"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Vash#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vauldis Grawlbutcher"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Vauldis Grawlbutcher#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vena"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Vena#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Weaponsmith (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Weaponsmith (Aerodrome)#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Weaponsmith Chie Edgetalon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Weaponsmith Chie Edgetalon#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wurli"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Wurli#vendor5"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "480"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yulia"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Lump of Primordium"
+],
+"_subject": "Yulia#vendor5"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3023537,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Copper Ore]] and [[Lump of Tin|Tin]].\n| material type = refinement\n| tier = 1\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 4\n| id = 19679\n}}\n\n== Acquisition ==\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| quantity = 5\n| disciplines = armorsmith, artificer, huntsman, scribe, weaponsmith\n| ingredient1 = 10 Copper Ore\n| ingredient2 = 1 Lump of Tin\n| id = 16\n}}\n\n=== Contained in ===\n{{contained in}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Common crafting materials nav}}\n\n[[de:Bronzebarren]]\n[[es:Lingote de bronce]]\n[[fr:Lingot de bronze]]",
+"title": "Bronze Ingot"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3011304,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Gold Ore|Ore]].\n| material type = refinement\n| tier = 3\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 6\n| id = 19682\n}}\n\n== Acquisition ==\n=== Recipes ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = jeweler, scribe\n| rating = 150\n| ingredient1 = 2 Gold Ore\n| id = 13\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 190\n| ingredient1 = 250 Silver Ingot\n| ingredient2 = 1 Gold Ingot\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 4 Philosopher's Stone\n}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Gathered from ===\n{{gathered from}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Goldbarren]]\n[[es:Lingote de oro]]\n[[fr:Lingot d'or]]",
+"title": "Gold Ingot"
+}

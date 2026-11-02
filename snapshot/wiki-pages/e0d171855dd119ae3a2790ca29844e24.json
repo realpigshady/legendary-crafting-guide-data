@@ -1,0 +1,5 @@
+{
+"revid": 3137813,
+"text": "{{Item infobox\n| icon = Deluxe Gear Box (End of Dragons).png\n| description = Awards your choice of items. Double-click to open.\n| type = Gizmo\n| rarity = Exotic\n| bound = account\n| id = 104883\n| requires = eod\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Items offered ==\n{{vendor table header|showType=false|showRarity=false|showLevel=false|showFacts=false}}\n{{vendor table row|item=Jade Runestone|cost=1 Gyala Delve: Commander's Choice Chest}}\n{{vendor table row|item=Amalgamated Gemstone|cost=1 Gyala Delve: Commander's Choice Chest}}\n{{vendor table row|quantity=100|item=Imperial Favor|cost=1 Gyala Delve: Commander's Choice Chest}}\n{{vendor table row|item=Suun's Weapon Recipe Book|cost=1 Gyala Delve: Commander's Choice Chest}}\n|}\n\n== Notes ==\n* The prices of the items on the [[Trading Post]] are as follows:\n{{Item tp table|Jade Runestone; Amalgamated Gemstone; Imperial Favor; Suun's Weapon Recipe Book|sep=;}}\n\n[[Category:Container gizmos]]\n[[es:Hondonada de Gyala: Cofre de elección del comandante]]",
+"title": "Gyala Delve: Commander's Choice Chest"
+}

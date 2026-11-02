@@ -1,0 +1,337 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Bauble",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble Bubble",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+250
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor56"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Continue Coin",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor57"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Princess Miya's Wig",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor58"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Princess Miya's Dress",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor59"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Princess Miya's Tiara",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor60"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "King Toad Z-1",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor61"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "King Toad Z-2",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor62"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "King Toad Z-3",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor63"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Storm Wizard Z-1",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor64"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Storm Wizard Z-2",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor65"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Storm Wizard Z-3",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+16
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Bauble"
+],
+"_subject": "Super Adventure Box Trader#vendor66"
+}
+]
+}

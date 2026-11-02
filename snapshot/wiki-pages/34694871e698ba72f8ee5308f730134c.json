@@ -1,0 +1,5 @@
+{
+"revid": 2288275,
+"text": "{{item infobox\n| description = Refine into [[Iron Ingot]]s or use [[Lump of Coal|Coal]] to refine into [[Steel Ingot]]s.\n| type = crafting material\n| material type = basic\n| tier = 2\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 3\n| id = 19699\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Salvaged from ===\n* Level 19-53 [[weapon]]s and [[heavy armor]]\n{{salvaged from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Copper Ore\n| ingredient2 = 1 Iron Ore\n| ingredient3 = 5 Pile of Shimmering Dust\n| ingredient4 = 1 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n== Currency for ==\n{{Vendor query table|currency=Iron Ore}}\n\n{{Common crafting materials nav}}\n\n[[de:Eisenerz]]\n[[es:Mineral de hierro]]\n[[fr:Minerai de fer]]",
+"title": "Iron Ore"
+}

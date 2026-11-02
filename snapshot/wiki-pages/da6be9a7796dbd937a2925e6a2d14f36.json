@@ -1,0 +1,5 @@
+{
+"revid": 3137835,
+"text": "{{Item infobox\n| id = 104831\n| icon = Wizard's Hoard.png\n| name = Skywatch Archipelago: Commander's Choice Chest\n| description = Awards your choice of items. Double-click to open.\n| type = gizmo\n| rarity = exotic\n| bound = account\n| requires = soto\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Items offered ==\n{{vendor table header|showType=false|showRarity=false|showLevel=false|showFacts=false}}\n{{vendor table row|item=Case of Captured Lightning|cost=1 Skywatch Archipelago: Commander's Choice Chest}}\n{{vendor table row|item=Amalgamated Gemstone|cost=1 Skywatch Archipelago: Commander's Choice Chest}}\n{{vendor table row|item=Eagle Eye Weapon Chest|cost=1 Skywatch Archipelago: Commander's Choice Chest}}\n{{vendor table row|quantity=20|item=Large Static Charge|cost=1 Skywatch Archipelago: Commander's Choice Chest}}\n|}\n\n== Currency for ==\n{{Vendor query table|currency=Skywatch Archipelago: Commander's Choice Chest}}\n\n[[Category:Container gizmos]]\n[[es:Archipiélago Vistacielo: Cofre de elección del comandante]]",
+"title": "Skywatch Archipelago: Commander's Choice Chest"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3137780,
+"text": "{{Item infobox\n| id = 104945\n| icon = Amnytas Chest.png\n| description = Awards your choice of items. Double-click to open.\n| type = gizmo\n| rarity = exotic\n| bound = account\n| requires = soto\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Items offered ==\n{{vendor table header|showType=false|showRarity=false|showLevel=false|showFacts=false}}\n{{vendor table row|item=Pouch of Stardust|cost=1 Amnytas: Commander's Choice Chest}}\n{{vendor table row|item=Amalgamated Gemstone|cost=1 Amnytas: Commander's Choice Chest}}\n{{vendor table row|item=Skyforged Weapon Box|cost=1 Amnytas: Commander's Choice Chest}}\n{{vendor table row|quantity=20|item=Large Pinch of Stardust|cost=1 Amnytas: Commander's Choice Chest}}\n|}\n\n== Currency for ==\n{{Vendor query table|currency=Amnytas: Commander's Choice Chest}}\n\n[[Category:Container gizmos]]\n[[es:Amnytas: Cofre de elección del comandante]]",
+"title": "Amnytas: Commander's Choice Chest"
+}

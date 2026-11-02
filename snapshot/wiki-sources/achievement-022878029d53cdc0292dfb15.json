@@ -1,0 +1,1604 @@
+{
+"fetched": 1793659410.7869523,
+"item": "Mystic Coin",
+"kind": "achievement",
+"rows": [
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Dismount Boost"
+],
+"Has canonical name": [
+"Daily Dismount: Central Tyria"
+],
+"Has game id": [
+9475
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Dismount Boost#achievement9475"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Dismount Boost"
+],
+"Has canonical name": [
+"Daily Dismount: Dragon Stand"
+],
+"Has game id": [
+9476
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Dismount Boost#achievement9476"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Dismount Boost"
+],
+"Has canonical name": [
+"Daily Dismount: Heart of Maguuma"
+],
+"Has game id": [
+9477
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Dismount Boost#achievement9477"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Festival of the Four Winds"
+],
+"Has canonical name": [
+"Four Winds Zephyr"
+],
+"Has game id": [
+4284
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Festival of the Four Winds#achievement4284"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Gyala Delve"
+],
+"Has canonical name": [
+"Daily Gyala Delve"
+],
+"Has game id": [
+8665
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to End of Dragons#achievement8665"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"New Kaineng City"
+],
+"Has canonical name": [
+"Daily New Kaineng City"
+],
+"Has game id": [
+8666
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to End of Dragons#achievement8666"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon's End"
+],
+"Has canonical name": [
+"Daily Dragon's End"
+],
+"Has game id": [
+8670
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to End of Dragons#achievement8670"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Seitung Province"
+],
+"Has canonical name": [
+"Daily Seitung Province"
+],
+"Has game id": [
+8678
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to End of Dragons#achievement8678"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"The Echovald Wilds"
+],
+"Has canonical name": [
+"Daily Echovald Wilds"
+],
+"Has game id": [
+8692
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to End of Dragons#achievement8692"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Heart of Thorns"
+],
+"Has canonical name": [
+"Daily Tangled Depths"
+],
+"Has game id": [
+7857
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Heart of Thorns#achievement7857"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Heart of Thorns"
+],
+"Has canonical name": [
+"Daily Verdant Brink"
+],
+"Has game id": [
+7869
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Heart of Thorns#achievement7869"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Heart of Thorns"
+],
+"Has canonical name": [
+"Daily Auric Basin"
+],
+"Has game id": [
+7926
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Heart of Thorns#achievement7926"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Janthir Syntri"
+],
+"Has game id": [
+9208
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9208"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Bava Nisos"
+],
+"Has game id": [
+9216
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9216"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Lowland Shore"
+],
+"Has game id": [
+9217
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9217"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Janthir Rifts"
+],
+"Has game id": [
+9222
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9222"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Convergence: Mount Balrior"
+],
+"Has game id": [
+9225
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9225"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Janthir Wilds"
+],
+"Has canonical name": [
+"Daily Mistburned Barrens"
+],
+"Has game id": [
+9226
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Janthir Wilds#achievement9226"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Path of Fire"
+],
+"Has canonical name": [
+"Daily Elon Riverlands"
+],
+"Has game id": [
+8393
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Path of Fire#achievement8393"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Path of Fire"
+],
+"Has canonical name": [
+"Daily Crystal Oasis"
+],
+"Has game id": [
+8407
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Path of Fire#achievement8407"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Path of Fire"
+],
+"Has canonical name": [
+"Daily Desolation"
+],
+"Has game id": [
+8419
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Path of Fire#achievement8419"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Path of Fire"
+],
+"Has canonical name": [
+"Daily Desert Highlands"
+],
+"Has game id": [
+8425
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Path of Fire#achievement8425"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Path of Fire"
+],
+"Has canonical name": [
+"Daily Domain of Vabbi"
+],
+"Has game id": [
+8428
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Path of Fire#achievement8428"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Season 2"
+],
+"Has canonical name": [
+"Daily Dry Top"
+],
+"Has game id": [
+7904
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 2#achievement7904"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Daily Return to Season 2"
+],
+"Has canonical name": [
+"Daily Silverwastes"
+],
+"Has game id": [
+7910
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 2#achievement7910"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Siren's Landing"
+],
+"Has canonical name": [
+"Daily Siren's Landing"
+],
+"Has game id": [
+8105
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8105"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Bitterfrost Frontier"
+],
+"Has canonical name": [
+"Daily Bitterfrost Frontier"
+],
+"Has game id": [
+8106
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8106"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Draconis Mons"
+],
+"Has canonical name": [
+"Daily Draconis Mons"
+],
+"Has game id": [
+8109
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8109"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Bloodstone Fen"
+],
+"Has canonical name": [
+"Daily Bloodstone Fen"
+],
+"Has game id": [
+8123
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8123"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Ember Bay"
+],
+"Has canonical name": [
+"Daily Ember Bay"
+],
+"Has game id": [
+8127
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8127"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Lake Doric"
+],
+"Has canonical name": [
+"Daily Lake Doric"
+],
+"Has game id": [
+8145
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 3#achievement8145"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Dragonfall"
+],
+"Has game id": [
+8380
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8380"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Domain of Istan"
+],
+"Has game id": [
+8385
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8385"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Jahai Bluffs"
+],
+"Has game id": [
+8388
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8388"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Sandswept Isles"
+],
+"Has game id": [
+8391
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8391"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Domain of Kourna"
+],
+"Has game id": [
+8412
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8412"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Daily Return to Season 4"
+],
+"Has canonical name": [
+"Daily Thunderhead Peaks"
+],
+"Has game id": [
+8431
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Season 4#achievement8431"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Convergence: Outer Nayos"
+],
+"Has canonical name": [
+"Daily Convergence: Outer Nayos"
+],
+"Has game id": [
+8790
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Secrets of the Obscure#achievement8790"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Rift Hunting"
+],
+"Has canonical name": [
+"Daily Rift Hunts"
+],
+"Has game id": [
+8793
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Secrets of the Obscure#achievement8793"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Skywatch Archipelago"
+],
+"Has canonical name": [
+"Daily Skywatch Archipelago"
+],
+"Has game id": [
+8798
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Secrets of the Obscure#achievement8798"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Amnytas"
+],
+"Has canonical name": [
+"Daily Amnytas"
+],
+"Has game id": [
+8800
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Secrets of the Obscure#achievement8800"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Inner Nayos"
+],
+"Has canonical name": [
+"Daily Inner Nayos"
+],
+"Has game id": [
+8801
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to Secrets of the Obscure#achievement8801"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Response Mission"
+],
+"Has canonical name": [
+"Daily Dragon Response Mission"
+],
+"Has game id": [
+8529
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to the Icebrood Saga#achievement8529"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [
+3
+],
+"Has achievement page": [
+"Forging Steel"
+],
+"Has canonical name": [
+"Daily Forging Steel"
+],
+"Has game id": [
+8533
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to the Icebrood Saga#achievement8533"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Bjora Marches"
+],
+"Has canonical name": [
+"Daily Bjora Marches"
+],
+"Has game id": [
+8536
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to the Icebrood Saga#achievement8536"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Drizzlewood Coast"
+],
+"Has canonical name": [
+"Daily Drizzlewood Coast"
+],
+"Has game id": [
+8537
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to the Icebrood Saga#achievement8537"
+},
+{
+"Gives item": [
+"Mystic Coin"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Grothmar Valley"
+],
+"Has canonical name": [
+"Daily Grothmar Valley"
+],
+"Has game id": [
+8538
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Return to the Icebrood Saga#achievement8538"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Difluorite Crystal",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to A Bug in the System"
+],
+"Has canonical name": [
+"Return to the Sandswept Isles"
+],
+"Has game id": [
+5884
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to A Bug in the System#achievement5884"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Winterberry Strongbox",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to A Crack in the Ice"
+],
+"Has canonical name": [
+"Return to Bitterfrost Frontier"
+],
+"Has game id": [
+5779
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to A Crack in the Ice#achievement5779"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Lump of Mistonium",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to A Star to Guide Us"
+],
+"Has canonical name": [
+"Return to Jahai Bluffs"
+],
+"Has game id": [
+5901
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to A Star to Guide Us#achievement5901"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Branded Mass",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to All or Nothing"
+],
+"Has canonical name": [
+"Return to Thunderhead Peaks"
+],
+"Has game id": [
+6023
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to All or Nothing#achievement6023"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Hatched Chili",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Bound by Blood"
+],
+"Has canonical name": [
+"Return to Grothmar Valley"
+],
+"Has game id": [
+5888
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5888"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Prismatium Ingot",
+"Tyrian Defense Seal",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Champions"
+],
+"Has canonical name": [
+"Return to the Dragonstorm"
+],
+"Has game id": [
+5861
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Champions#achievement5861"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Kralkatite Ore",
+"1000 Volatile Magic",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Daybreak"
+],
+"Has canonical name": [
+"Return to the Domain of Istan"
+],
+"Has game id": [
+5948
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Daybreak#achievement5948"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Bandit Skeleton Key",
+"300 Bandit Crests",
+"Pact Fleet Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Echoes of the Past and Tangled Paths"
+],
+"Has canonical name": [
+"Return to Silverwastes 1"
+],
+"Has game id": [
+5829
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Echoes of the Past and Tangled Paths#achievement5829"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Spindrift Weapon Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to End of Dragons (achievements)"
+],
+"Has canonical name": [
+"Return to End of Dragons"
+],
+"Has game id": [
+8679
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to End of Dragons (achievements)#achievement8679"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Fire Orchid Strongbox",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Flashpoint"
+],
+"Has canonical name": [
+"Return to Draconis Mons"
+],
+"Has game id": [
+5751
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Flashpoint#achievement5751"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Zephyrite Lockpick",
+"300 Geodes",
+"Pact Fleet Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Gates of Maguuma and Entanglement"
+],
+"Has canonical name": [
+"Return to Dry Top 1"
+],
+"Has game id": [
+5773
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Gates of Maguuma and Entanglement#achievement5773"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Plated Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Heart of Thorns (achievements)"
+],
+"Has canonical name": [
+"Return to Heart of Thorns"
+],
+"Has game id": [
+7856
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Heart of Thorns (achievements)#achievement7856"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Serpent's Wrath Weapon Choice Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Janthir Wilds (achievements)"
+],
+"Has canonical name": [
+"Return to Janthir Wilds"
+],
+"Has game id": [
+9219
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Janthir Wilds (achievements)#achievement9219"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Cache Key",
+"Rare Charr Salvage",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Jormag Rising"
+],
+"Has canonical name": [
+"Return to Drizzlewood Coast 2"
+],
+"Has game id": [
+5926
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Jormag Rising#achievement5926"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Inscribed Shard",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Long Live the Lich"
+],
+"Has canonical name": [
+"Return to the Domain of Kourna"
+],
+"Has game id": [
+6005
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Long Live the Lich#achievement6005"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Cache Key",
+"Rare Charr Salvage",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to No Quarter"
+],
+"Has canonical name": [
+"Return to Drizzlewood Coast 1"
+],
+"Has game id": [
+5869
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to No Quarter#achievement5869"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Orrian Pearl Strongbox",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to One Path Ends"
+],
+"Has canonical name": [
+"Return to Siren's Landing"
+],
+"Has game id": [
+5748
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to One Path Ends#achievement5748"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Blood Ruby Strongbox",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Out of the Shadows"
+],
+"Has canonical name": [
+"Return to Bloodstone Fen"
+],
+"Has game id": [
+5742
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Out of the Shadows#achievement5742"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"The Spearmarshal's Gift",
+"Sunspear (spear)"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Path of Fire (achievements)"
+],
+"Has canonical name": [
+"Return to Path of Fire"
+],
+"Has game id": [
+8421
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Path of Fire (achievements)#achievement8421"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Sack of Petrified Wood",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Rising Flames"
+],
+"Has canonical name": [
+"Return to Ember Bay"
+],
+"Has game id": [
+5743
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Rising Flames#achievement5743"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Coffer of the Lion's Champion"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Season 1 (achievements)"
+],
+"Has canonical name": [
+"Return to Season 1"
+],
+"Has game id": [
+7769
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 1 (achievements)#achievement7769"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Pact Fleet Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Season 2 (achievements)"
+],
+"Has canonical name": [
+"Return to Season 2"
+],
+"Has game id": [
+7909
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 2 (achievements)#achievement7909"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Ley Line Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Season 3 (achievements)"
+],
+"Has canonical name": [
+"Return to Season 3"
+],
+"Has game id": [
+8140
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 3 (achievements)#achievement8140"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Plasma Weapon Cache",
+"Darkspear (spear)"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Return to Season 4 (achievements)"
+],
+"Has canonical name": [
+"Return to Season 4"
+],
+"Has game id": [
+8415
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 4 (achievements)#achievement8415"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Abomination Weapon Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Secrets of the Obscure (achievements)"
+],
+"Has canonical name": [
+"Return to Secrets of the Obscure"
+],
+"Has game id": [
+8802
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Secrets of the Obscure (achievements)#achievement8802"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Bandit Skeleton Key",
+"300 Bandit Crests",
+"Pact Fleet Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Seeds of Truth and Point of No Return"
+],
+"Has canonical name": [
+"Return to Silverwastes 2"
+],
+"Has game id": [
+5758
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Seeds of Truth and Point of No Return#achievement5758"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Eternal Ice Shard",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Shadow in the Ice"
+],
+"Has canonical name": [
+"Return to Bjora Marches 2"
+],
+"Has game id": [
+6024
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Shadow in the Ice#achievement6024"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Zephyrite Lockpick",
+"300 Geodes",
+"Pact Fleet Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to The Dragon's Reach"
+],
+"Has canonical name": [
+"Return to Dry Top 2"
+],
+"Has game id": [
+5804
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to The Dragon's Reach#achievement5804"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Jade Shard Strongbox",
+"Ley Line Weapon Cache",
+"Unbound Magic (service)#item2"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to The Head of the Snake"
+],
+"Has canonical name": [
+"Return to Lake Doric"
+],
+"Has game id": [
+5756
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to The Head of the Snake#achievement5756"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Mistborn Mote",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to War Eternal"
+],
+"Has canonical name": [
+"Return to Dragonfall"
+],
+"Has game id": [
+5995
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to War Eternal#achievement5995"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Eternal Ice Shard",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Whisper in the Dark"
+],
+"Has canonical name": [
+"Return to Bjora Marches 1"
+],
+"Has game id": [
+5991
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5991"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to the Icebrood Saga (achievements)"
+],
+"Has canonical name": [
+"Return to the Icebrood Saga"
+],
+"Has game id": [
+8521
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to the Icebrood Saga (achievements)#achievement8521"
+}
+]
+}

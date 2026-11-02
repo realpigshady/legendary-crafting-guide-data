@@ -1,0 +1,5 @@
+{
+"revid": 2378260,
+"text": "{{Item infobox\n| description = Refine into [[Hard Wood Plank|Planks]].\n| type = crafting material\n| material type = basic\n| material storage = Basic Crafting Materials\n| tier = 4\n| rarity = basic\n| value = 6\n| id = 19724\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Salvaged from ===\n* Salvaged from level 43-63 weapons.\n{{salvaged from}}\n\n=== Recipe ===\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Seasoned Wood Log\n| ingredient2 = 1 Hard Wood Log\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 3 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Hard Wood Log}}\n\n{{Common crafting materials nav}}\n\n[[de:Harter Holzblock]]\n[[es:Leño de madera sólida]]\n[[fr:Rondin de bois dur]]",
+"title": "Hard Wood Log"
+}

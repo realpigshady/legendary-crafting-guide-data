@@ -1,0 +1,36 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Shard of Glory",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "PvP League Ticket",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories",
+"Champion's Rest"
+],
+"Sells item": [
+"Shard of Glory"
+],
+"_subject": "League Vendor#vendor44"
+}
+]
+}

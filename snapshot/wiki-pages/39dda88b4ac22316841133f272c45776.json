@@ -1,0 +1,5 @@
+{
+"revid": 2198358,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Thin Leather Section|Sections]].\n| material type = refinement\n| tier = 2\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 3\n| id = 19733\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, artificer, huntsman, leatherworker, scribe, tailor, weaponsmith\n| rating = 75\n| ingredient1 = 2 Thin Leather Section\n| id = 24\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Stretched Rawhide Leather Square\n| ingredient2 = 1 Cured Thin Leather Square\n| ingredient3 = 5 Pile of Shimmering Dust\n| ingredient4 = 2 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Getrockneter dünner Lederflicken]]\n[[es:Retal de cuero curado fino]]\n[[fr:Morceau de cuir fin traité]]",
+"title": "Cured Thin Leather Square"
+}

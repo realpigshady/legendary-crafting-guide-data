@@ -1,0 +1,95 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of Venom",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Powerful Venom Sac",
+"Has item value": "100"
+},
+{
+"Has item currency": "Potent Venom Sac",
+"Has item value": "250"
+},
+{
+"Has item currency": "Full Venom Sac",
+"Has item value": "50"
+},
+{
+"Has item currency": "Venom Sac",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Venom"
+],
+"_subject": "Lyhr#vendor25"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "1"
+},
+{
+"Has item currency": "Powerful Venom Sac",
+"Has item value": "100"
+},
+{
+"Has item currency": "Potent Venom Sac",
+"Has item value": "250"
+},
+{
+"Has item currency": "Full Venom Sac",
+"Has item value": "50"
+},
+{
+"Has item currency": "Venom Sac",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Venom"
+],
+"_subject": "Ward Crafter Lucirae#vendor15"
+}
+]
+}

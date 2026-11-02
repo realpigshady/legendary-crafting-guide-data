@@ -1,0 +1,323 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Bottle of Airship Oil",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon's Stand: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Dragon's Stand: Commander's Choice Chest#vendor3"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor161"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor180"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor161"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor180"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor45"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor64"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Verdant Brink: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Verdant Brink: Commander's Choice Chest#vendor2"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor45"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Heart of Maguuma"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Wizard's Gobbler/Heart of Maguuma#vendor64"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Verdant Brink: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor161"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dragon's Stand: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Bottle of Airship Oil"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor180"
+}
+]
+}

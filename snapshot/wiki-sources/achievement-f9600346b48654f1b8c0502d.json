@@ -1,0 +1,914 @@
+{
+"fetched": 1793659715.9876475,
+"item": "Shard of Glory",
+"kind": "achievement",
+"rows": [
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-One"
+],
+"Has game id": [
+5161
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5161"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season One"
+],
+"Has game id": [
+5169
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5169"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season One"
+],
+"Has game id": [
+5259
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5259"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Two"
+],
+"Has game id": [
+5343
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5343"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Three"
+],
+"Has game id": [
+5430
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5430"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Two"
+],
+"Has game id": [
+5467
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5467"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Four"
+],
+"Has game id": [
+5472
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5472"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Three"
+],
+"Has game id": [
+5550
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5550"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Five"
+],
+"Has game id": [
+5553
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5553"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Three"
+],
+"Has game id": [
+5610
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5610"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Six"
+],
+"Has game id": [
+5639
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5639"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Four"
+],
+"Has game id": [
+5712
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5712"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Seven"
+],
+"Has game id": [
+5728
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5728"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Four"
+],
+"Has game id": [
+5850
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5850"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Eight"
+],
+"Has game id": [
+5859
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement5859"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Five"
+],
+"Has game id": [
+6033
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6033"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Twenty-Nine"
+],
+"Has game id": [
+6046
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6046"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Five"
+],
+"Has game id": [
+6055
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6055"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty"
+],
+"Has game id": [
+6061
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6061"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-One"
+],
+"Has game id": [
+6064
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6064"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Two"
+],
+"Has game id": [
+6537
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6537"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Seven"
+],
+"Has game id": [
+6655
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6655"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Three"
+],
+"Has game id": [
+6680
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6680"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Four"
+],
+"Has game id": [
+6770
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6770"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Eight"
+],
+"Has game id": [
+6807
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6807"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Five"
+],
+"Has game id": [
+6819
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6819"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Eight"
+],
+"Has game id": [
+6829
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6829"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Six"
+],
+"Has game id": [
+6840
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6840"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Nine"
+],
+"Has game id": [
+6887
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6887"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Seven"
+],
+"Has game id": [
+6889
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6889"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Nine"
+],
+"Has game id": [
+6958
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6958"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Eight"
+],
+"Has game id": [
+6959
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement6959"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—2v2 Season Ten"
+],
+"Has game id": [
+7643
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement7643"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Thirty-Nine"
+],
+"Has game id": [
+7649
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement7649"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Forty"
+],
+"Has game id": [
+7749
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement7749"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—3v3 Season Ten"
+],
+"Has game id": [
+7759
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement7759"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Forty-One"
+],
+"Has game id": [
+7895
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement7895"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Forty-Two"
+],
+"Has game id": [
+8111
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement8111"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"Legacy PvP Seasons"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Forty-Four"
+],
+"Has game id": [
+8516
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy PvP Seasons#achievement8516"
+},
+{
+"Gives item": [
+"Shard of Glory",
+"Obsidian Weapon Box",
+"Permanent-Finisher Choice Box",
+"Envelope of PvP League Tickets",
+"Coffers of Ascended Shards of Glory",
+"Instant Reward Track Progress (PvP)"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Player vs. Player Rush (achievements)"
+],
+"Has canonical name": [
+"PvP Rush Champion"
+],
+"Has game id": [
+7625
+],
+"Is historical": [
+"f"
+],
+"_subject": "Player vs. Player Rush (achievements)#achievement7625"
+},
+{
+"Gives item": [
+"Shard of Glory",
+"Obsidian Weapon Box",
+"Permanent-Finisher Choice Box",
+"Envelope of PvP League Tickets",
+"Coffers of Ascended Shards of Glory",
+"Instant Reward Track Progress (PvP)"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Player vs. Player Rush (achievements)/historical"
+],
+"Has canonical name": [
+"PvP Rush Champion"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Player vs. Player Rush (achievements)/historical#achievement9991"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"PvP Season"
+],
+"Has canonical name": [
+"League Slayer—Conquest Season Forty-Five"
+],
+"Has game id": [
+8586
+],
+"Is historical": [
+"f"
+],
+"_subject": "PvP Season#achievement8586"
+},
+{
+"Gives item": [
+"Shard of Glory"
+],
+"Gives item quantity": [
+25
+],
+"Has achievement page": [
+"PvP Season"
+],
+"Has canonical name": [
+"League Slayer—Conquest"
+],
+"Has game id": [
+8671
+],
+"Is historical": [
+"f"
+],
+"_subject": "PvP Season#achievement8671"
+}
+]
+}

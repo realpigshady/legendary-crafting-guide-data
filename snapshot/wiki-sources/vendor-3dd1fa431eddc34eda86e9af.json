@@ -1,0 +1,67 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Gift of the Highlands",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "23331"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"map completion of [[Desert Highlands]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Melilla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stampede Uplands"
+],
+"Sells item": [
+"Gift of the Highlands"
+],
+"_subject": "Melilla#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "23331"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"map completion of [[Desert Highlands]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tendaji"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Diviner's Reach"
+],
+"Sells item": [
+"Gift of the Highlands"
+],
+"_subject": "Tendaji#vendor6"
+}
+]
+}

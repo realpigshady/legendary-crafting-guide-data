@@ -1,0 +1,140 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Mystic Crystal",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Miyani"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Mystic Crystal"
+],
+"_subject": "Miyani#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Attendant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Plaza of Balthazar",
+"Stonemist Castle",
+"Snowblind Peaks",
+"Noble Ledges",
+"Green Alpine Garrison",
+"Blue Alpine Garrison",
+"Camp Resolve",
+"Stoic Rampart",
+"Osprey Pillars",
+"Mistlock Sanctuary",
+"Bay of Elon",
+"Armistice Bastion",
+"Arborstone",
+"Thousand Seas Pavilion",
+"Outer Ring"
+],
+"Sells item": [
+"Mystic Crystal"
+],
+"_subject": "Mystic Forge Attendant#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spirit Shard",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mystic Forge Keeper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Mystic Crystal"
+],
+"_subject": "Mystic Forge Keeper#vendor1"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble Bubble",
+"Has item value": "1"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "48"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route",
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Mystic Crystal"
+],
+"_subject": "Super Adventure Box Trader#vendor35"
+}
+]
+}

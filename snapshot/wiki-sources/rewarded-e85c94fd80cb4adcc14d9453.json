@@ -1,0 +1,45 @@
+{
+"fetched": 1793659589.5573726,
+"item": "Gift of the Jungle",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragon's Stand"
+],
+"Rewards item": [
+"Gift of the Jungle"
+],
+"_subject": "Dragon's Stand#reward4"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of the Jungle"
+],
+"_subject": "Map completion#reward13"
+}
+]
+}

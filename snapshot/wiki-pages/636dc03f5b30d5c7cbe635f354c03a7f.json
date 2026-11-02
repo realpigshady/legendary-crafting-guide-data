@@ -1,0 +1,5 @@
+{
+"revid": 2953097,
+"text": "{{Item infobox\n| type = crafting material\n| material type = basic\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 72421\n| requires = pof\n| status = discontinued\n}}\n\n== Acquisition ==\n* Originally found in [[Chest of the Final Room]] and [[Superior Buried Treasure]].\n\n== Currency for ==\n{{Vendor query table|currency=Gray Market Black Diamond}}\n\n== Notes ==\n* Removed from loot tables in the game as part of the [[Game updates/2017-11-07|November 7th, 2017]] update. It was introduced in error, as it did nothing and was used in no recipes.\n** This item was originally called, \"Black Diamond\", and suffered a less descriptive name change (\"((601427))\") after its replacement. It was not the same Black Diamond introduced with [[Heart of Thorns]].\n* Can be exchanged at Path of Fire merchants with the \"Gray Market Diamond Exchange\" tab for the [[Black Diamond|useful version]].\n\n[[de:Schwarzer Graumarkt-Diamant]]\n[[es:Diamante negro del mercado gris]]\n[[fr:Diamant noir (exotique)]]",
+"title": "Gray Market Black Diamond"
+}

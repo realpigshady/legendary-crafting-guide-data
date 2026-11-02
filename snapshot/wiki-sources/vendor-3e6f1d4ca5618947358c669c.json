@@ -1,0 +1,35 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Tyria's Best Nougat Center",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Nougat Center",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Halloween Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route"
+],
+"Sells item": [
+"Tyria's Best Nougat Center"
+],
+"_subject": "Halloween Vendor#vendor60"
+}
+]
+}

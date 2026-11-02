@@ -1,0 +1,87 @@
+{
+"fetched": 1793659673.7308118,
+"item": "Dragonite Ingot",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "2"
+},
+{
+"Has item currency": "Thermocatalytic Reagent",
+"Has item value": "10"
+},
+{
+"Has item currency": "Dragonite Ore",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Dragonite Ingot"
+],
+"_subject": "Lyhr#vendor16"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Thermocatalytic Reagent",
+"Has item value": "10"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "2"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "3"
+},
+{
+"Has item currency": "Dragonite Ore",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Dragonite Ingot"
+],
+"_subject": "Ward Crafter Lucirae#vendor39"
+}
+]
+}

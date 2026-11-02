@@ -1,0 +1,24 @@
+{
+"fetched": 1793659589.5573726,
+"item": "Gift of the Oasis",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of the Oasis"
+],
+"_subject": "Map completion#reward36"
+}
+]
+}

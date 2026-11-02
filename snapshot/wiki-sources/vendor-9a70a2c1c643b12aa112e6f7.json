@@ -1,0 +1,4557 @@
+{
+"fetched": 1793659486.1372185,
+"item": "Thermocatalytic Reagent",
+"kind": "vendor",
+"rows": [
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Abram"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Abram#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Aggo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Aggo#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alisa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Alisa#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Aluta"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Aluta#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Annil Hidestrike"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Annil Hidestrike#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (armorsmithing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (armorsmithing)#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (artificing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (artificing)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (huntsman)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (huntsman)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (leatherworking)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (leatherworking)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (tailoring)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (tailoring)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (weaponsmithing)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Apprentice (weaponsmithing)#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorer Pearl"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Armorer Pearl#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorer Vaxxa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Armorer Vaxxa#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorsmith (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Armorsmith (Aerodrome)#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Armorsmith Lykaios"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Armorsmith Lykaios#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arone"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Arone#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arriske"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Arriske#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Artificer (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Artificer (Aerodrome)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Artificer Gisela"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Artificer Gisela#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arturis"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Arturis#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ashlynn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ashlynn#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Atalia Steelshaper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Atalia Steelshaper#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ater"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ater#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ballistics Genius Virkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ballistics Genius Virkk#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bela"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Bela#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bert"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Bert#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Braugh Steelfoot"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Braugh Steelfoot#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brencis"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Brencis#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Briain"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Briain#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Briar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Briar#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bronden"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Bronden#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caala"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Caala#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Carsonn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Carsonn#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cathilla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Cathilla#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cedar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Cedar#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ceridwen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ceridwen#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Costumer Marla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Costumer Marla#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Craftmage Cerr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Craftmage Cerr#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Armtree"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Crusader Armtree#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Barrett"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Crusader Barrett#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Cheronne"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Crusader Cheronne#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Jerrick"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Crusader Jerrick#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crut"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Crut#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cullen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Cullen#vendor18"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Danala"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Danala#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dinaden"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Dinaden#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dolyak Specialist Kovik"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Dolyak Specialist Kovik#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dordrag"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Dordrag#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Draiocht"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Draiocht#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Drogan Delwan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Drogan Delwan#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Duman"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Duman#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dunn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Dunn#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Edrar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Edrar#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ella"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ella#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Eren"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Eren#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Eridwen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Eridwen#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Evarra"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Evarra#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Explosives Visionary Pirakk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Explosives Visionary Pirakk#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Flinj"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Flinj#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Forgemaster Jak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Forgemaster Jak#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Forgemaster Volrundson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Forgemaster Volrundson#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Frayja"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Frayja#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Frink"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Synergetics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Frink#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gambil"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gambil#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gareth the Skelk Tamer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gareth the Skelk Tamer#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gelfa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gelfa#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Giita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Giita#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gottlieb the Gunslinger"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gottlieb the Gunslinger#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Grant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Grant#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gudrid"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gudrid#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gweithwyr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tender's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gweithwyr#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gyra"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Gyra#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hagna"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hagna#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hakki"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hakki#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hamil"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hamil#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Harl Hotspur"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Harl Hotspur#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hejj"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hejj#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hide Synthesist Teekzi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hide Synthesist Teekzi#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Houndkeeper Owens"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Houndkeeper Owens#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hunter Palladia Gravegaze"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hunter Palladia Gravegaze#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntsman (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Huntsman (Aerodrome)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Hyasinth"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Hyasinth#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Imer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Imer#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Inigo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Inigo#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Iris the Invincible"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Iris the Invincible#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Iriun"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Iriun#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jamie"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Jamie#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jasper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Jasper#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jraogh"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Jraogh#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kalak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Kalak#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Karsti"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Karsti#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Katlin Verndjes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Katlin Verndjes#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Keysal"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Keysal#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kira"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Kira#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Klunn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Klunn#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kozz"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Kozz#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kunk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Kunk#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Leatherworker (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Leatherworker (Aerodrome)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Leatherworker Hideo Deftclaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Leatherworker Hideo Deftclaw#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Linna Hideslicer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Linna Hideslicer#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lokett"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Synergetics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Lokett#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mada"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Mada#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mathael"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Mathael#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Maya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Maya#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Medicha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Medicha#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mekko"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Mekko#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Millo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Millo#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Morgaah Bloodseeker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Morgaah Bloodseeker#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Muireall"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Muireall#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Naava"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Naava#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nigel Lawden"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Nigel Lawden#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Oline"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Oline#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Oolema"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Statics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Oolema#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Palm-Reader Arla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Palm-Reader Arla#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Armorsmith)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Armorsmith)#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Artificer)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Artificer)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Huntsman)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Huntsman)#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Leatherworker)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Leatherworker)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Tailor)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Tailor)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Weaponsmith)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Pavilion Disciple (Master Weaponsmith)#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Poola"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Poola#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Raketa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Raketa#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rallen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Rallen#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rauf"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Rauf#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rayge"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Rayge#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Reimar (master tailor)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Reimar (master tailor)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rikkta"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dynamics Union"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Rikkta#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ruuga Blackear"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ruuga Blackear#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"STITCH-3487"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "STITCH-3487#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Salim"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Salim#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Satlo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Satlo#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Seamstress Ingrid"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Seamstress Ingrid#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Seilg"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Seilg#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Semyon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Semyon#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Serica"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Serica#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege-Golemancer Varxx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Siege-Golemancer Varxx#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siobhan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Siobhan#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siovhan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Siovhan#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skuda Ironshaper"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Skuda Ironshaper#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Skya#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Snaarl Stainedclaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Snaarl Stainedclaw#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Statics Expert Korbit"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Statics Expert Korbit#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Stav Darkchaser"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Stav Darkchaser#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Taask Steamcaller"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Taask Steamcaller#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tactician Wylld"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Tactician Wylld#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tahiya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Tahiya#vendor12"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tailor (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Tailor (Aerodrome)#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tailor Valtur"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Tailor Valtur#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Teine"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Teine#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Textile Synergist Vizza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Textile Synergist Vizza#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Theoretician Straff"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Theoretician Straff#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Turlisson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Turlisson#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ulyn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Ulyn#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vash"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Vash#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vauldis Grawlbutcher"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Vauldis Grawlbutcher#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vena"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Vena#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Weaponsmith (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Weaponsmith (Aerodrome)#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Weaponsmith Chie Edgetalon"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Weaponsmith Chie Edgetalon#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wurli"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Wurli#vendor7"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yaladen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Yaladen#vendor9"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yulia"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Yulia#vendor6"
+},
+{
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1496"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Zokk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Thermocatalytic Reagent"
+],
+"_subject": "Zokk#vendor9"
+}
+]
+}

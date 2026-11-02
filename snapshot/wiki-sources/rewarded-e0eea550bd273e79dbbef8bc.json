@@ -1,0 +1,26 @@
+{
+"fetched": 1793659589.5573726,
+"item": "Crystalline Ore",
+"kind": "rewarded",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Bitter Harvest"
+],
+"Rewards item": [
+"Crystalline Ore"
+],
+"_subject": "Bitter Harvest#reward1"
+}
+]
+}
