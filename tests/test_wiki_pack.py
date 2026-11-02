@@ -78,9 +78,10 @@ def test_walk_builds_tree(tmp_path):
     gift = n["item:79740"]
     assert [i["node_id"] for i in gift["sources"][0]["inputs"]] == ["item:19976", "currency:23", "item:68063"]
     assert n["currency:23"]["type"] == "currency"
-    # tradeable items: bought (price decides), their recipes not followed
+    # tradeable items: recipes followed too (planner compares with buying); gold is coin
     coin = n["item:19976"]
-    assert coin["sources"] == [{"kind": "trading_post", "inputs": []}]
+    assert [s["kind"] for s in coin["sources"]] == ["mystic_forge", "trading_post"]
+    assert coin["sources"][0]["inputs"][0]["node_id"] == "currency:1" and coin["sources"][0]["inputs"][0]["count"] == 10000
     assert "name:gold" not in n
     # bound item with no recipe: still a node, flagged
     assert n["item:79600"]["sources"] == [{"kind": "other", "inputs": []}] and "no source: Gift of Craftsmanship" in w.warnings

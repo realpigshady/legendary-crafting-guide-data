@@ -28,6 +28,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki_pack as wp  # noqa: E402
+import wiki_sources as wsrc  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -120,7 +121,7 @@ class Http:
             return 0
         removed = 0
         for p in self.dir.rglob("*.json"):
-            if p == self._index_path or p.name == "item-flags.json" or p.relative_to(self.dir).parts[0] == "wiki-pages":
+            if p == self._index_path or p.name == "item-flags.json" or p.relative_to(self.dir).parts[0] in ("wiki-pages", "wiki-sources"):
                 continue   # wiki-pages/ belongs to the PageStore (revision-checked, not URL-keyed)
             key = self._key(p)
             if key not in self._used:
@@ -278,10 +279,11 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     items = legendary_items(http)
     by_name = {i["name"]: i for i in items}
     store = wp.PageStore(http.dir, http.get_live, WIKI_API)
+    smw = wsrc.SourceStore(http.dir, http.get_live, WIKI_API)
     currencies = currency_ids(http)
     expand = set(CONFIG.get("always_expand", []))
 
-    legendaries, nodes, warnings = [], {}, []
+    legendaries, nodes, warnings, acts = [], {}, [], {}
     stats: dict[str, dict] = {}
     for fam_id, fam in CONFIG["families"].items():
         if not fam.get("enabled", False):
@@ -305,13 +307,16 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         print(f"{fam_id}: {len(members)} legendaries")
         before = (store.requests, store.bytes, store.fresh)
         try:
-            tree = wp.walk(store, members, currencies, lambda ids: untradeable_ids(http, ids), expand)
-        except wp.WikiDown as e:
+            tree = wp.walk(store, members, currencies, lambda ids: untradeable_ids(http, ids), expand, sources=smw)
+        except (wp.WikiDown, wsrc.WikiSourcesDown) as e:
             raise SourceDown(str(e)) from e
         for n in tree.nodes.values():
             nodes.setdefault(n["id"], n)
+        for a in tree.activities.values():
+            acts.setdefault(a["id"], a)
         warnings += [f"{fam_id}: {w}" for w in tree.warnings]
-        stats[fam_id] = {"legendaries": len(members), "nodes": len(tree.nodes), "requests": store.requests - before[0],
+        stats[fam_id] = {"legendaries": len(members), "nodes": len(tree.nodes), "activities": len(tree.activities),
+                         "smw_requests": smw.requests, "requests": store.requests - before[0],
                          "bytes": store.bytes - before[1], "pages_downloaded": store.fresh - before[2],
                          "pages_by_depth": tree.pages_by_depth}
         for title in members:
@@ -330,12 +335,14 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "legendaries": legendaries,
         "nodes": list(nodes.values()),
-        "activities": [],  # TODO(0.6): activity catalog with wiki-seeded yields
+        "activities": sorted(acts.values(), key=lambda a: a["id"]),   # wiki places/tracks; no times (DRF fills them)
         "all_legendary_item_ids": sorted(i["id"] for i in items),
         # Hosts that were down this run and served from snapshot instead.
         # The addon shows "wiki data from snapshot" when non-empty.
-        "stale_sources": sorted(set(http.stale) | ({"wiki.guildwars2.com"} if store.stale else set())),
+        "stale_sources": sorted(set(http.stale) | ({"wiki.guildwars2.com"} if store.stale or smw.down else set())),
     }
+    if smw.down:
+        warnings.insert(0, f"STALE: wiki item sources (vendors, achievements, rewards) from snapshot ({smw.stale})")
     if http.stale or store.stale:
         warnings.insert(0, "STALE: served from snapshot for " +
                         ", ".join([f"{h} ({n} pages)" for h, n in sorted(http.stale.items())] +

@@ -211,6 +211,45 @@
                   "type": "number",
                   "exclusiveMinimum": 0,
                   "description": "random output: average made per run (used instead of output_count)"
+                },
+                "max_units": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ],
+                  "description": "at most this many in all (vendor total purchase cap, Wizard's Vault limit)"
+                },
+                "vendors": {
+                  "type": "array",
+                  "description": "vendor: who sells it at this price",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "npc": {
+                        "type": "string"
+                      },
+                      "locations": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      },
+                      "requires": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      }
+                    }
+                  }
+                },
+                "achievement_name": {
+                  "type": "string",
+                  "description": "reward: the achievement's name"
+                },
+                "wiki_page": {
+                  "type": "string",
+                  "description": "reward: wiki page of the achievement / collection"
                 }
               }
             }

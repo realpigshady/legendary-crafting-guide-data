@@ -261,9 +261,62 @@ class PageStore:
 
 # --------------------------------------------------------------------------- recipe tree
 
+def _add_sources(w: "Walk", store, level_nodes, currencies: dict[str, int], seen: set[str]) -> list[str]:
+    """Vendor / achievement sources for every node of the level; reward tracks, rewarding
+    places and salvage for bound items nothing crafts. Returns cost items to walk next."""
+    import wiki_sources as ws
+    names = [n["name"] for n, _, _ in level_nodes]
+    bound = [n["name"] for n, locked, crafted in level_nodes if locked and not crafted]
+    got = {k: store.get(k, names) for k in ("vendor", "achievement")}
+    for k in ("rewarded", "track", "salvage"):
+        got[k] = store.get(k, bound) if bound else {}
+    nxt: list[str] = []
+    for node, locked, crafted in level_nodes:
+        nm = node["name"]
+        new = []
+        vend, cost_items = ws.vendor_sources(nm, got["vendor"].get(nm, []), currencies)
+        new += vend
+        cur_name = {v: k for k, v in currencies.items()}
+        for src in vend:
+            for i in src["inputs"]:
+                if i["node_id"].startswith("currency:"):
+                    cid = int(i["node_id"].split(":")[1])
+                    w.nodes.setdefault(i["node_id"], {"id": i["node_id"], "type": "currency",
+                                                      "name": cur_name.get(cid, "Coin" if cid == 1 else i["node_id"]),
+                                                      "currency_id": cid, "sources": []})
+        for c in cost_items:
+            if c not in seen:
+                nxt.append(c)
+        new += ws.achievement_sources(nm, got["achievement"].get(nm, []))
+        notes = []
+        for a in ws.activity_rows(nm, got["rewarded"].get(nm, []), got["track"].get(nm, [])):
+            notes.append(a["note"])
+            if a["chance"] != "Guaranteed":
+                continue   # a chance with no rate: guidance only
+            act = w.activities.setdefault(a["id"], {"id": a["id"], "name": a["name"], "mode": a["mode"],
+                                                    "expansion": "core", "yields": [],
+                                                    "guidance": {"text": "", "wiki_url": WIKI + urllib.parse.quote(a["name"].split(" (")[0].replace(" ", "_"))}})
+            if not any(y["node_id"] == node["id"] for y in act["yields"]):
+                act["yields"].append({"node_id": node["id"], "count": a["count"]})
+            if not any(s.get("activity_id") == a["id"] for s in new):
+                new.append({"kind": "activity", "inputs": [], "activity_id": a["id"]})
+        for r in got["salvage"].get(nm, []):
+            notes.append("salvaged from " + (r.get("Has canonical name") or [r["_subject"]])[0])
+        if notes:
+            node.setdefault("guidance", {})["text"] = "; ".join(dict.fromkeys(notes))[:300]
+        if new:
+            node["sources"] = [s for s in node["sources"] if s["kind"] != "other"] + new
+            w.warnings[:] = [x for x in w.warnings if x != f"no source: {nm}"]
+    return nxt
+
+
+WIKI = "https://wiki.guildwars2.com/wiki/"
+
+
 @dataclass
 class Walk:
     nodes: dict[str, dict] = field(default_factory=dict)
+    activities: dict[str, dict] = field(default_factory=dict)
     warnings: list[str] = field(default_factory=list)
     pages_by_depth: dict[int, int] = field(default_factory=dict)
 
@@ -276,14 +329,16 @@ def node_id_for(name: str, item_id: int | None) -> str:
 
 def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
          untradeable: Callable[[list[int]], set[int]], always_expand: set[str] = frozenset(),
-         max_depth: int = 12) -> Walk:
+         max_depth: int = 12, sources=None) -> Walk:
     """Recipe tree from root pages down.
 
     A page's {{Recipe}}s become its sources and their ingredients its children. An
     ingredient whose name is a wallet currency becomes a currency node. Every item can
     be bought (the addon decides by live price), so its node also gets a trading_post
-    source; recipes of tradeable items are followed only for roots and ``always_expand``
-    (else the walk would descend into every basic material).
+    source. Every recipe is followed, refinements too (log -> plank), so the planner can
+    compare crafting with buying at every level.
+    ``sources`` (a wiki_sources.SourceStore) adds vendors, achievements and, for bound items,
+    reward tracks / rewarding places; vendor cost items join the walk like ingredients.
     ``untradeable(ids)`` says which item ids can't be traded (API flags).
     """
     w = Walk()
@@ -297,6 +352,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
         ids = [i for i in (infobox_id(p.text) for p in pages.values()) if i]
         locked = untradeable(ids) if ids else set()
         nxt: list[str] = []
+        level_nodes: list[tuple[dict, bool, bool]] = []
         for name in level:
             seen.add(name)
             page = pages.get(name)
@@ -310,14 +366,17 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             nid = node_id_for(page.title, iid)
             if nid in w.nodes:
                 continue
-            expand = depth == 0 or name in always_expand or page.title in always_expand or (iid is not None and iid in locked)
-            srcs = recipes(page.text) if expand else []
+            srcs = recipes(page.text)
             node = {"id": nid, "type": "drop", "name": page.title, "item_id": iid, "sources": [],
                     "guidance": {"wiki_url": "https://wiki.guildwars2.com/wiki/" + urllib.parse.quote(page.title.replace(" ", "_")),
                                  "text": "", "waypoint_chat_code": None}}
             for s in srcs:
                 for inp in s["inputs"]:
                     cid = cur_by_name.get(inp["name"].lower())
+                    if inp["name"].lower() in ("gold", "coin", "copper"):   # recipe cost in coin (the API's currency 1)
+                        cid = 1
+                        inp["count"] *= {"gold": 10000, "coin": 1, "copper": 1}[inp["name"].lower()]
+                        inp["name"] = "Coin"
                     if cid:
                         inp["node_id"] = f"currency:{cid}"
                         w.nodes.setdefault(inp["node_id"], {"id": inp["node_id"], "type": "currency", "name": inp["name"],
@@ -337,8 +396,11 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
                 node["sources"].append({"kind": "other", "inputs": []})
                 w.warnings.append(f"no source: {page.title}")
             w.nodes[nid] = node
+            level_nodes.append((node, iid is not None and iid in locked, bool(srcs)))
             if len(w.nodes) > MAX_NODES:
                 raise SystemExit(f"walk passed {MAX_NODES} nodes: link loop or missing stop rule")
+        if sources is not None and level_nodes:
+            nxt += _add_sources(w, sources, level_nodes, currencies, seen)
         level = [n for n in dict.fromkeys(nxt) if n not in seen]
         depth += 1
     if level:
