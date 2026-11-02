@@ -1,0 +1,5 @@
+{
+"revid": 2284741,
+"text": "{{otheruses|the tradeable version|the historical item that used to have the same name|Gray Market Black Diamond}}\n{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|condition damage|17}}{{item stat|power|17}}{{item stat|expertise|9}}{{item stat|precision|9}}\n| type = Upgrade component\n| material type = gemstone\n| material storage = Gemstones and Jewels\n| tier = 6\n| level = 80\n| rarity = rare\n| value = 198\n| id = 76491\n| requires = hot\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Sold by ===\n{{Sold by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Achievements ===\n{{achievement list|reward=Black Diamond}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Gemstone nav}}\n\n[[de:Schwarzer Diamant]]\n[[es:Diamante negro]]\n[[fr:Diamant noir]]",
+"title": "Black Diamond"
+}

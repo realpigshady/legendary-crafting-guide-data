@@ -1,0 +1,5 @@
+{
+"revid": 2083053,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Seasoned Wood Log|Logs]].\n| material type = refinement\n| tier = 3\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 4\n| id = 19714\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = artificer, huntsman, scribe, weaponsmith\n| rating = 150\n| ingredient1 = 3 Seasoned Wood Log\n| id = 6\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 190\n| ingredient1 = 250 Soft Wood Plank\n| ingredient2 = 1 Seasoned Wood Plank\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 4 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Abgelagerte Holzplanke]]\n[[es:Tabla de madera curtida]]\n[[fr:Planche de bois séché]]",
+"title": "Seasoned Wood Plank"
+}

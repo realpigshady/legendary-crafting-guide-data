@@ -1260,6 +1260,29 @@
 "vendor_value": 264
 },
 {
+"chat_link": "[&AgFJOQEA]",
+"description": "Use huntsman crafting to refine into Shards o' War, used to craft the legendary rifle precursor Man o' War.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6F0632321A2E2CA5A2F70D6629A144EC53251806/1633953.png",
+"id": 80201,
+"level": 0,
+"name": "Tribute to the Man o' War",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
 "chat_link": "[&AgELPQEA]",
 "description": "Use huntsman crafting to refine in to Shards of Liturgy, used to craft the legendary torch precursor Liturgy.",
 "flags": [
@@ -1640,5 +1663,5 @@
 "vendor_value": 264
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19678,19681,19683,19684,19685,19686,19709,19711,19712,19714,19721,19925,20796,20799,24274,24275,24276,24277,46682,46694,46696,46736,46738,46739,46746,46747,49523,68063,70528,70698,70797,70801,71008,71123,71311,71641,71655,71787,71943,72261,73137,73196,73236,73469,74528,75299,75744,76491,76636,76767,76933,79410,79453,79845,81163,81871,81974,85681,85707,85961,86010,86018,86115,86177,86241,87165,87627,88756,89478,90776"
+"url": "https://api.guildwars2.com/v2/items?ids=19678,19681,19683,19684,19685,19686,19709,19711,19712,19714,19721,19925,20796,20799,24274,24275,24276,24277,46682,46694,46696,46736,46738,46739,46746,46747,49523,68063,70528,70698,70797,70801,71008,71123,71311,71641,71655,71787,71943,72261,73137,73196,73236,73469,74528,75299,75744,76491,76636,76767,76933,79410,79453,79845,80201,81163,81871,81974,85681,85707,85961,86010,86018,86115,86177,86241,87165,87627,88756,89478,90776"
 }

@@ -1,0 +1,5 @@
+{
+"revid": 2079470,
+"text": "{{Item infobox\n| type = crafting material\n| material type = ascended\n| description = Used to craft the legendary-shield precursor, [[Friendship]]. Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create a Gift of Shooshadoo.\n| bound = account\n| material storage = Ascended Materials\n| rarity = ascended\n| requires = hot\n| id = 79784\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Trust\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 450\n| ingredient1 = 1 Tribute to Friendship\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 20 Mithril Ingot\n| ingredient4 = 10 Elder Wood Plank\n| id = 11880\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Notes ==\n* A total of 290 are needed for the construction of legendary shield Shooshadoo.\n\n[[de:Scherbe der \"Freundschaft\"]]\n[[es:Esquirla de amistad]]\n[[fr:Éclat d'amitié]]",
+"title": "Shard of Friendship"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2673625,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft greatswords.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45855\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 3 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7806\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Großschwertheft]]\n[[es:Empuñadura para mandoble de acero de Deldrimor]]\n[[fr:Garde d'espadon en acier de Deldrimor]]",
+"title": "Deldrimor Steel Greatsword Hilt"
+}

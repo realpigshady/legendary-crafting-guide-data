@@ -1,0 +1,5 @@
+{
+"revid": 2902612,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft hammers and spears.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| id = 45849\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7800\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Großer Geisterholz-Stiel]]\n[[es:Mango grande de madera espiritual]]\n[[fr:Grand manche en boisesprit]]",
+"title": "Large Spiritwood Haft"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2370531,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft torches.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45838\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7596\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Fackelkopf]]\n[[es:Cabezal para antorcha de acero de Deldrimor]]\n[[fr:Tête de torche en acier de Deldrimor]]",
+"title": "Deldrimor Steel Torch Head"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3180407,
+"text": "{{Item infobox\n| description = In the [[Mystic Forge]], combine a [[Gift of the Desert]], a [[Gift of the Rider]], a [[Bloodstone Shard]], and 250 [[Funerary Incense]]s to create the [[Gift of Desert Mastery]].\n| type = crafting material\n| material type = mystic\n| rarity = Exotic\n| value = 66\n| bound = account\n| id = 86330\n| requires = pof\n}}\n\n== Acquisition ==\n{{recipe\n| source = mystic\n| ingredient1 = 1 Spirit of the Raptor\n| ingredient2 = 1 Spirit of the Springer\n| ingredient3 = 1 Spirit of the Skimmer\n| ingredient4 = 1 Spirit of the Jackal\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Purchasing is only possible if the associated heart has been completed that day. \n* Each component Spirit costs {{token|em|75}}, for a total of {{token|em|300}}.\n* Each component Spirit can be purchased an unlimited number of times per character.\n\n[[de:Gabe des Reiters]]\n[[es:Don del jinete]]\n[[fr:Don du cavalier]]",
+"title": "Gift of the Rider"
+}

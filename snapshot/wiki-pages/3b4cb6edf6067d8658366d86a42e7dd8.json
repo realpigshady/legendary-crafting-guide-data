@@ -1,0 +1,5 @@
+{
+"revid": 2903790,
+"text": "{{Item infobox\n| description = Used to craft the legendary scepter precursor [[Tlehco]].<br>Combine in the [[Mystic Forge]] with [[Mystic Runestone]]s, a [[Gift of Energy]], and a [[Gift of the Mists]] to create the [[Gift of Xiuquatl]].\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 88738\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| type = Legendary Component\n| sheet = Recipe: Obelisk\n| disciplines = Artificer\n| rating = 450\n| quantity = 1\n| ingredient1 = 1 Tribute to Tlehco\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 30 Mithril Ingot\n| ingredient4 = 20 Elder Wood Plank\n| id = 12809\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von \"Tlehco\"]]\n[[es:Esquirla de Tlehco]]\n[[fr:Éclat de Tlehco]]",
+"title": "Shard of Tlehco"
+}

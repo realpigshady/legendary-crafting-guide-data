@@ -1,0 +1,5 @@
+{
+"revid": 2674253,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| description = Used to craft [[Zap]] and [[The Mechanism]].\n| rarity = exotic\n| value = 66\n| level = 0\n| bound = account\n| id = 72724\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| name = Engraver's Tools (Exotic)\n| source = recipe sheet\n| sheet = Box of Recipes: Zap; Box of Recipes: The Mechanism\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 100 Mithril Ingot\n| ingredient2 = 5 Black Diamond\n| ingredient3 = 10 Pile of Coarse Sand\n| ingredient4 = 10 Thermocatalytic Reagent\n| id = 11527\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gravier-Werkzeuge]]\n[[es:Herramienta de grabador]]\n[[fr:Outil de graveur]]",
+"title": "Engraver's Tools"
+}

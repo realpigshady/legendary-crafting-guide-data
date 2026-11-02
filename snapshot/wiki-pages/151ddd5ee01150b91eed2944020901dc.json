@@ -1,0 +1,5 @@
+{
+"revid": 2371059,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft longbows.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45841\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 4 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7599\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geisterholz-Langbogenstab]]\n[[es:Duela para arco largo de madera espiritual]]\n[[fr:Hampe d'arc long en boisesprit]]",
+"title": "Spiritwood Longbow Stave"
+}

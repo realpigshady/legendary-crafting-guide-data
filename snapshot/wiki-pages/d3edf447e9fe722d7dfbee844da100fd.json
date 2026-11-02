@@ -1,0 +1,5 @@
+{
+"revid": 2903788,
+"text": "{{Item infobox\n| description = Used to craft the legendary warhorn precursor [[Call of the Void]].<br>Combine in the [[Mystic Forge]] with [[Mystic Runestone]]s, a [[Gift of Wood]], and a [[Gift of the Mists]] to create the [[Gift of Verdarach]].\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 87711\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| type = Legendary Component\n| sheet = Recipe: Hifthorn\n| disciplines = Huntsman\n| rating = 450\n| quantity = 1\n| ingredient1 = 1 Tribute to the Call of the Void\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 20 Mithril Ingot\n| ingredient4 = 10 Elder Wood Plank\n| id = 12699\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von \"Ruf der Leere\"]]\n[[es:Esquirla de Llamada del Vacío]]\n[[fr:Éclat d'Appel du vide]]",
+"title": "Shard of Call of the Void"
+}

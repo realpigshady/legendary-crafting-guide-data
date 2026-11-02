@@ -1,0 +1,5 @@
+{
+"revid": 2900310,
+"text": "{{Item infobox\n| description = Purchase this recipe from [[Miyani]].\n| type = crafting material\n| material type = mystic\n| rarity = Exotic\n| value = 66\n| bound = Account\n| collection = A Legendary Path: Astral Gifts; Legendary Relics: Components; Legendary Weapon: Klobjarne Geirr Gifts\n| hint = Refined from 50 [[Claw]]s, 50 [[Sharp Claw]]s, 250 [[Large Claw]]s, and 100 [[Vicious Claw]]s.\n| id = 70801\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Claws\n| type = Crafting Component\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 400\n| ingredient1 = 100 Vicious Claw\n| ingredient2 = 250 Large Claw\n| ingredient3 = 50 Sharp Claw\n| ingredient4 = 50 Claw\n| id = 11744\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of Claws}}\n\n{{Collection nav}}\n\n[[de:Gabe der Klauen]]\n[[es:Don de garras]]\n[[fr:Don de griffes]]",
+"title": "Gift of Claws"
+}

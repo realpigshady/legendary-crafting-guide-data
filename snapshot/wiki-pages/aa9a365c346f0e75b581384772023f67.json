@@ -1,0 +1,5 @@
+{
+"revid": 2903776,
+"text": "{{Item infobox\n| description = Used to craft the legendary rifle precursor [[Man o' War]].<br>Combine in the [[Mystic Forge]] with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Divinity.\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 80380\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Schooner\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 450\n| ingredient1 = 1 Tribute to the Man o' War\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 40 Mithril Ingot\n| ingredient4 = 30 Elder Wood Plank\n| id = 11926\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe des Krieges]]\n[[es:Esquirla del Galeón]]\n[[fr:Éclat de guerre]]",
+"title": "Shard o' War"
+}

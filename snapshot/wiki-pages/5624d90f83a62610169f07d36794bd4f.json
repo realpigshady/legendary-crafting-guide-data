@@ -1,0 +1,5 @@
+{
+"revid": 2920112,
+"text": "{{Item infobox\n| description = Combine with the [[Gift of Glory]], [[Gift of Battle]], and a [[Cube of Stabilized Dark Energy]] in the [[Mystic Forge]] to create the [[Gift of the Mists]].\n| type = Crafting material\n| material type = mystic\n| rarity = exotic\n| bound = account\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| value = 66\n| id = 71008\n}}\n\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n<div style=\"display:none\"><!--Hidden recipe to display 250 Memory of Battle in base ingredients query-->\n{{Recipe | source = other | ingredient1 = 250 Memory of Battle}}\n</div>\n\n== Notes ==\n* It would cost {{tp total placeholder|info = buys|\n250; Memory of Battle\n}} (TP buy price) or {{tp total placeholder|info = sells|\n250; Memory of Battle\n}} (TP sell price) to acquire a Gift of War using only Memories bought off the [[Trading Post]]. (Does not include TP fees.)\n\n{{tp total calculate}}\n\n[[de:Gabe des Krieges]]\n[[es:Don de guerra]]\n[[fr:Don de la guerre]]",
+"title": "Gift of War"
+}

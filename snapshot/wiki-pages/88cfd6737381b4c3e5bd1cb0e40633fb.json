@@ -1,0 +1,5 @@
+{
+"revid": 3054485,
+"text": "{{otheruses|the [[Gift of Maguuma Mastery]] component|the [[Aetheric Anchor]] component|Gift of Insight}}\n{{Item infobox\n| icon = Essence of Artistry.png\n| description = In the [[Mystic Forge]], combine a [[Gift of Maguuma]], a [[Gift of Insights]], a [[Bloodstone Shard]], and 250 [[Crystalline Ingot]]s to create the [[Gift of Maguuma Mastery]].\n| type = Crafting material\n| material type = mystic\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 72964\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of the Itzel\n| ingredient2 = 1 Gift of the Nuhoch\n| ingredient3 = 1 Gift of the Exalted\n| ingredient4 = 1 Gift of Gliding\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Requires the following amounts of [[Currency|currencies]]:\n** {{token|airship part|800|l=y}}\n** {{token|ley line crystal|800|l=y}}\n** {{token|lump of aurillium|800|l=y}}\n** {{gold|3}} [[Coin|Gold]]\n\n[[de:Gabe der Einsichten]]\n[[es:Don de conocimientos]]\n[[fr:Don de clairvoyance]]",
+"title": "Gift of Insights"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2970461,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft axes and maces.\n| material type = component\n| bound = account\n| rarity = Basic\n| value = 8\n| id = 45850\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7801\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Kleiner Geisterholz-Stiel]]\n[[es:Mango pequeño de madera espiritual]]\n[[fr:Petit manche en boisesprit]]",
+"title": "Small Spiritwood Haft"
+}

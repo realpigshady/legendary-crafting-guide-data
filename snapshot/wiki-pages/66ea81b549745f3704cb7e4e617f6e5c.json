@@ -1,0 +1,5 @@
+{
+"revid": 2843504,
+"text": "{{Weapon infobox\n| description = {{flavor|This weapon is used to craft the legendary mace [[Eureka]].}}\n| type = mace\n| skin = Endeavor (skin)\n| set = Precursor weapons\n| rarity = ascended\n| level = 80\n| bound = account\n| prefix = selectable\n| salvage = Ascended\n| id = 79570\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Endeavor\n| disciplines = weaponsmith\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 100 Shard of Endeavor\n| ingredient2 = 1 Small Spiritwood Haft\n| ingredient3 = 1 Deldrimor Steel Mace Head\n| ingredient4 = 1 Visionary Inscription\n| id = 11870\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Available prefixes ==\n* The following [[Attribute combinations|prefixes]] can be selected:\n{{prefix selection|all ascended}}\n\n== Trivia ==\n* Prior to [[Game updates/2017-02-08|Feb 8th 2017]], crafting this item only required a [[Vision Crystal]] instead of a [[Visionary Inscription]].\n\n{{Precursor weapons nav|2}}\n\n[[Category:Precursor weapons]]\n[[de:Anstrengung]]\n[[es:Esfuerzo]]\n[[fr:Ébauche]]",
+"title": "Endeavor"
+}

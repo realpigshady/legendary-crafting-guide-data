@@ -1,0 +1,5 @@
+{
+"revid": 2673583,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft daggers.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45846\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 3 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7798\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Dolchschneide]]\n[[es:Filo para daga de acero de Deldrimor]]\n[[fr:Lame de dague en acier de Deldrimor]]",
+"title": "Deldrimor Steel Dagger Blade"
+}

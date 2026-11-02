@@ -1,0 +1,5 @@
+{
+"revid": 2681145,
+"text": "{{Item infobox\n| type = Trophy\n| material type = mystic\n| description = Used to forge the legendary hammer [[Sharur]].\n| rarity = Legendary\n| value = 640\n| bound = account\n| id = 81684\n| requires = lws3\n}}\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of the Mists\n| ingredient2 = 100 Mystic Runestone\n| ingredient3 = 100 Shard of Arah\n| ingredient4 = 1 Gift of Metal\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe von Arah]]\n[[es:Don de Arah]]\n[[fr:Don d'Arah]]",
+"title": "Gift of Arah"
+}

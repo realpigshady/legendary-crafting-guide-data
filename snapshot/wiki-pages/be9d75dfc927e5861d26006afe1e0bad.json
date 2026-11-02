@@ -1,0 +1,5 @@
+{
+"revid": 2978995,
+"text": "{{Item infobox\n| description = Combine with the [[Gift of War]], [[Gift of Battle]], and a [[Cube of Stabilized Dark Energy]] in the [[Mystic Forge]] to create the [[Gift of the Mists]].\n| hint = Purchased from a [[Mystic Forge]] vendor.\n| type = crafting material\n| material type = mystic\n| rarity = exotic\n| bound = account\n| value = 66\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| id = 70528\n}}\n\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n<div style=\"display:none\"><!--Hidden recipe to display 250 Shard of Glory in base ingredients query-->\n{{Recipe | source = other | ingredient1 = 250 Shard of Glory}}\n</div>\n\n== Notes ==\n* It would cost {{tp total placeholder|info = buys|\n250; Shard of Glory\n}} (TP buy price) or {{tp total placeholder|info = sells|\n250; Shard of Glory\n}} (TP sell price) to acquire a Gift of Glory using only shards bought off the [[Trading Post]]. (Does not include TP fees.)\n\n{{tp total calculate}}\n\n{{collection nav}}\n\n[[de:Gabe des Ruhms]]\n[[es:Don de gloria]]\n[[fr:Don de gloire]]",
+"title": "Gift of Glory"
+}

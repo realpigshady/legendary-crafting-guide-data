@@ -1,0 +1,5 @@
+{
+"revid": 2194330,
+"text": "{{Item infobox\n| description = Used to craft the legendary-greatsword precursor, [[Exitare]].\n| type = crafting material\n| material type = ascended\n| bound = account\n| material storage = Ascended Materials\n| rarity = ascended\n| requires = pof\n| id = 90390\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Malumres\n| disciplines = Weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to the Exitare\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 40 Mithril Ingot\n| ingredient4 = 30 Elder Wood Plank\n| id = 13160\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von \"Exitare\"]]\n[[es:Esquirla de Exitare]]\n[[fr:Éclat d'Exitare]]",
+"title": "Shard of Exitare"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2370533,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft warhorns.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45840\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 1 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7598\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Kriegshornmundstück]]\n[[es:Boquilla para cuerno de guerra de acero de Deldrimor]]\n[[fr:Embouchoir de cor de guerre en acier de Deldrimor]]",
+"title": "Deldrimor Steel Warhorn Mouthpiece"
+}

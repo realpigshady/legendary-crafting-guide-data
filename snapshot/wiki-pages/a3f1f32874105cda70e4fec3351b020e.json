@@ -1,0 +1,5 @@
+{
+"revid": 2900302,
+"text": "{{Item infobox\n| description = Purchase this recipe from [[Miyani]].\n| type = crafting material\n| material type = mystic\n| rarity = Exotic\n| value = 66\n| bound = Account\n| collection = A Legendary Path: Astral Gifts; Legendary Relics: Components; Legendary Weapon: Klobjarne Geirr Gifts\n| hint = Refined from 50 [[Venom Sac]]s, 50 [[Full Venom Sac]]s, 250 [[Potent Venom Sac]]s, and 100 [[Powerful Venom Sac]]s.\n| id = 71787\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{Recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Venom\n| type = Crafting Component\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 400\n| id = 11735\n| ingredient1 = 100 Powerful Venom Sac\n| ingredient2 = 250 Potent Venom Sac\n| ingredient3 = 50 Full Venom Sac\n| ingredient4 = 50 Venom Sac\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency= Gift of Venom}}\n\n{{Collection nav}}\n\n[[de:Gabe des Giftes]]\n[[es:Don de veneno]]\n[[fr:Don de venin]]",
+"title": "Gift of Venom"
+}

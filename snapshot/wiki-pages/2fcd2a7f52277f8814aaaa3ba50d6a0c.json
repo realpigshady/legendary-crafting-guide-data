@@ -1,0 +1,5 @@
+{
+"revid": 2370518,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft warhorns.\n| material type = component\n| bound = account\n| rarity = Basic\n| value = 8\n| id = 45839\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Spiritwood Plank\n| ingredient3 = 1 Deldrimor Steel Ingot\n| ingredient4 = 50 Thermocatalytic Reagent\n| id = 7597\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Horn]]\n[[es:Cuerno de acero de Deldrimor]]\n[[fr:Cor en acier de Deldrimor]]",
+"title": "Deldrimor Steel Horn"
+}

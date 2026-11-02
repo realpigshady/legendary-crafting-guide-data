@@ -1,0 +1,5 @@
+{
+"revid": 2078562,
+"text": "{{Item infobox\n| description = Used to craft the legendary torch precursor [[Liturgy]].<br>Combine in the [[Mystic Forge]] with [[Mystic Runestone]]s, a [[Gift of Wood]], and a [[Gift of the Mists]] to create the [[Gift of Balthazar]].\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 81051\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Forgotten Brilliance\n| disciplines = Huntsman\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to Liturgy\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 20 Mithril Ingot\n| ingredient4 = 10 Elder Wood Plank\n| id = 12048\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe der Liturgie]]\n[[es:Esquirla de Liturgia]]\n[[fr:Éclat de liturgie]]",
+"title": "Shard of Liturgy"
+}

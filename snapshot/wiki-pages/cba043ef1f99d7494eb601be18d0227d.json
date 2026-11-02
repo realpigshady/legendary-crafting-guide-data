@@ -1,0 +1,5 @@
+{
+"revid": 2626515,
+"text": "{{Item infobox\n| type = crafting material\n| material type = ascended\n| description = Used to craft the legendary mace precursor [[Endeavor]]. Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create a Gift of Eureka.\n| bound = account\n| material storage = Ascended Materials\n| rarity = ascended\n| requires = hot\n| id = 79445\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Hypothesis\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 450\n| ingredient1 = 1 Tribute to Endeavor\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 30 Mithril Ingot\n| ingredient4 = 20 Elder Wood Plank\n| id = 11866\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von Anstrengung]]\n[[es:Esquirla de Esfuerzo]]\n[[fr:Éclat d'Ébauche]]",
+"title": "Shard of Endeavor"
+}

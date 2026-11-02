@@ -1,0 +1,5 @@
+{
+"revid": 2903789,
+"text": "{{Item infobox\n| description = Used to craft the [[Legendary weapon|legendary]] [[longbow]] [[Precursor weapon|precursor]] [[Spero]].<br/>Combine in the [[Mystic Forge]] with [[Mystic Runestone]]s, a [[Gift of Wood]], and a [[Gift of the Mists]] to create the [[Gift of Pharus]].\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 89947\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Exitus\n| disciplines = Huntsman\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to Spero\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 40 Mithril Ingot\n| ingredient4 = 30 Elder Wood Plank\n| id = 13067\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von \"Spero\"]]\n[[es:Esquirla de Spero]]\n[[fr:Fragment de Spero]]",
+"title": "Shard of Spero"
+}

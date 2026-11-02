@@ -1,0 +1,5 @@
+{
+"revid": 2903778,
+"text": "{{Item infobox\n| type = crafting material\n| material type = ascended\n| description = Used to craft the legendary-sword precursor, [[Save the Queen]].<br>Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Blade.\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 81961\n| requires = HoT\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Exemplar's Edge\n| disciplines = Weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to the Queen\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 30 Mithril Ingot\n| ingredient4 = 20 Elder Wood Plank\n| id = 12056\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe der Krone]]\n[[es:Esquirla de la corona]]\n[[fr:Éclat de la couronne]]",
+"title": "Shard of the Crown"
+}

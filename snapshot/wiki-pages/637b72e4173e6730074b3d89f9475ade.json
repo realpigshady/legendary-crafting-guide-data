@@ -1,0 +1,5 @@
+{
+"revid": 1826690,
+"text": "{{Item infobox\n| description = Used to craft the legendary longbow [[Pharus]].\n| type = Trophy\n| rarity = Legendary\n| value = 640\n| bound = account\n| id = 89445\n| requires = lws4\n}}\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of the Mists\n| ingredient2 = 100 Mystic Runestone\n| ingredient3 = 100 Shard of Spero\n| ingredient4 = 1 Gift of Wood\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe von \"Pharus\"]]\n[[es:Don de Pharus]]\n[[fr:Don de Pharus]]",
+"title": "Gift of Pharus"
+}

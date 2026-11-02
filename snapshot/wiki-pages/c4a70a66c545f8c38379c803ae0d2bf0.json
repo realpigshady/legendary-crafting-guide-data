@@ -1,0 +1,5 @@
+{
+"revid": 3051447,
+"text": "{{Item infobox\n| description = Used to craft the legendary dagger precursor [[Claw of Resolution]].<br>Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Four Legions.\n| type = crafting material\n| material storage = Ascended Materials\n| material type = ascended\n| rarity = Ascended\n| bound = account\n| id = 87031\n| requires = pof\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Claw of Execution\n| disciplines = Weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to Resolution\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 30 Mithril Ingot\n| ingredient4 = 20 Elder Wood Plank\n| id = 12651\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe der Entschlossenheit]]\n[[es:Esquirla de Resolución]]\n[[fr:Éclat de résolution]]",
+"title": "Shard of Resolution"
+}

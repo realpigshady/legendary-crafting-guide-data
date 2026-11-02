@@ -1,0 +1,5 @@
+{
+"revid": 2884138,
+"text": "{{Item infobox\n| description = A gift of energy used to create generation one and two [[legendary weapons]] and the [[Legendary trinket|legendary trinkets]] [[Vision]] and [[Aurora]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an [[artificer]] rating of 400 to craft.\n| type = trophy\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: The Minstrel; Legendary Weapon: Kraitkin; Legendary Weapon: Meteorlogicus; Legendary Weapon: The Bifrost\n| bound = account\n| value = 640\n| id = 19623\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Energy\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 250 Pile of Radiant Dust\n| ingredient2 = 250 Pile of Luminous Dust\n| ingredient3 = 250 Pile of Incandescent Dust\n| ingredient4 = 250 Pile of Crystalline Dust\n| id = 4315\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Energie]]\n[[es:Don de la energía]]\n[[fr:Don d'énergie]]",
+"title": "Gift of Energy"
+}

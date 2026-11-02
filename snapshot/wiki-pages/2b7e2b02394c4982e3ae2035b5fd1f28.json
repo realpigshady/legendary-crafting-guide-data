@@ -1,0 +1,5 @@
+{
+"revid": 2673604,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft shields.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45857\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7807\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Schildstütze]]\n[[es:Embrazadura para escudo de acero de Deldrimor]]\n[[fr:Renfort de bouclier en acier de Deldrimor]]",
+"title": "Deldrimor Steel Shield Backing"
+}

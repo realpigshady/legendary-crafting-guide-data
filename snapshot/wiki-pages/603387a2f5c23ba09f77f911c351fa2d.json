@@ -1,0 +1,5 @@
+{
+"revid": 3120249,
+"text": "{{Item infobox\n| description = Purchase this recipe from [[Miyani]].\n| type = crafting material\n| material type = mystic\n| rarity = Exotic\n| value = 66\n| bound = Account\n| collection = A Legendary Path: Astral Gifts; Legendary Relics: Components; Legendary Weapon: Klobjarne Geirr Gifts\n| hint = Refined from 50 [[Scale]]s, 50 [[Smooth Scale]]s, 250 [[Large Scale]]s, and 100 [[Armored Scale]]s.\n| id = 75299\n}}\n\n== Acquisition ==\n=== Recipe ===\n{{Recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Scales\n| type = Crafting Component\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 400\n| ingredient1 = 100 Armored Scale\n| ingredient2 = 250 Large Scale\n| ingredient3 = 50 Smooth Scale\n| ingredient4 = 50 Scale\n| id = 11743\n}}\n\n=== Sold by ===\n{{Sold by}}\n\n== Used in ==\n{{Recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of Scales}}\n\n{{Collection nav}}\n\n[[de:Gabe der Schuppen]]\n[[es:Don de escamas]]\n[[fr:Don d'écailles]]",
+"title": "Gift of Scales"
+}

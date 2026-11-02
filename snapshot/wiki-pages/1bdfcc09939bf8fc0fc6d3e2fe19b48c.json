@@ -1,0 +1,5 @@
+{
+"revid": 2903785,
+"text": "{{Item infobox\n| description = Used to craft the legendary hammer precursor [[Might of Arah]].<br>Combine in the Mystic Forge with Mystic Runestones, a Gift of Metal , and a Gift of the Mists to create the Gift of Arah.\n| type = crafting material\n| material type = ascended\n| material storage = Ascended Materials\n| rarity = Ascended\n| bound = account\n| id = 82069\n| requires = hot\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Vizier's Folly\n| disciplines = Weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Tribute to Arah\n| ingredient2 = 1 Mystic Curio\n| ingredient3 = 40 Mithril Ingot\n| ingredient4 = 30 Elder Wood Plank\n| id = 12064\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Scherbe von Arah]]\n[[es:Esquirla de Arah]]\n[[fr:Éclat d'Arah]]",
+"title": "Shard of Arah"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2900311,
+"text": "{{Item infobox\n| description = Purchase this recipe from [[Miyani]].\n| type = crafting material\n| material type = mystic\n| rarity = Exotic\n| value = 66\n| bound = Account\n| collection = A Legendary Path: Astral Gifts; Legendary Relics: Components; Legendary Weapon: Klobjarne Geirr Gifts\n| hint = Refined from 50 [[Fang]]s, 50 [[Sharp Fang]]s, 250 [[Large Fang]]s, and 100 [[Vicious Fang]]s.\n| id = 75744\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{Recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Fangs\n| type = Crafting Component\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 400\n| ingredient1 = 100 Vicious Fang\n| ingredient2 = 250 Large Fang\n| ingredient3 = 50 Sharp Fang\n| ingredient4 = 50 Fang\n| id = 11737\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of Fangs}}\n\n{{Collection nav}}\n\n[[de:Gabe der Fangzähne]]\n[[es:Don de colmillos]]\n[[fr:Don de crocs]]",
+"title": "Gift of Fangs"
+}

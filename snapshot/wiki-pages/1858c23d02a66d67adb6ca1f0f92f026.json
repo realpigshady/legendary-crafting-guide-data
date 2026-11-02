@@ -1,0 +1,5 @@
+{
+"revid": 3040133,
+"text": "{{Weapon infobox\n| description = {{Flavor|This weapon is used to craft the legendary longbow [[Pharus]].}}\n| prefix = selectable\n| type = longbow\n| skin = Spero (skin)\n| set = Precursor weapons\n| level = 80\n| rarity = Ascended\n| bound = account\n| salvage = Ascended\n| id = 89886\n| requires = PoF, HoT\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Spero\n| disciplines = Huntsman\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 100 Shard of Spero\n| ingredient2 = 1 Visionary Inscription\n| ingredient3 = 1 Spiritwood Longbow Stave\n| ingredient4 = 1 Elonian String\n| id = 13081\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Available prefixes ==\n* The following [[Attribute combinations|prefixes]] can be selected:\n{{prefix selection|all ascended|collapsed=y}}\n\n== Trivia ==\n* The word [[wiktionary:spero|\"spero\"]] is [[w:Latin|Latin]] and [[w:Italian language|Italian]] for \"I hope\".\n\n{{Precursor weapons nav|2}}\n\n[[de:Spero]]\n[[es:Spero]]\n[[fr:Spero]]",
+"title": "Spero"
+}

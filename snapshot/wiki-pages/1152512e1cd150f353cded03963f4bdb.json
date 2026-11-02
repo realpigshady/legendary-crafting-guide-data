@@ -1,0 +1,5 @@
+{
+"revid": 3011302,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Platinum Ore|Ore]].\n| material type = refinement\n| tier = 4\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 7\n| id = 19686\n}}\n\n== Acquisition ==\n=== Recipes ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = jeweler, scribe\n| rating = 225\n| ingredient1 = 2 Platinum Ore\n| id = 17\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Gold Ingot\n| ingredient2 = 1 Platinum Ingot\n| ingredient3 = 5 Pile of Luminous Dust\n| ingredient4 = 6 Philosopher's Stone\n}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Gathered from ===\n{{gathered from}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Common crafting materials nav}}\n\n[[de:Platinbarren]]\n[[es:Lingote de platino]]\n[[fr:Lingot de platine]]",
+"title": "Platinum Ingot"
+}

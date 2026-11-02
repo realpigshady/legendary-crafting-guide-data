@@ -168,6 +168,29 @@
 "vendor_value": 640
 },
 {
+"chat_link": "[&AgEKswAA]",
+"description": "Used to craft rifles.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0851F1049328CADFA1084F47FA9365AAC8EFE8C3/631174.png",
+"id": 45834,
+"level": 0,
+"name": "Deldrimor Steel Rifle Barrel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
 "chat_link": "[&AgEMswAA]",
 "description": "Used to craft torches.",
 "flags": [
@@ -277,6 +300,29 @@
 "id": 45841,
 "level": 0,
 "name": "Spiritwood Longbow Stave",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgETswAA]",
+"description": "Used to craft rifles and harpoon guns.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A8A453A7DBA5F3761C46E5D8569A66170E5D0CE5/631182.png",
+"id": 45843,
+"level": 0,
+"name": "Spiritwood Rifle Stock",
 "rarity": "Basic",
 "restrictions": [],
 "type": "CraftingMaterial",
@@ -1313,6 +1359,29 @@
 "vendor_value": 83
 },
 {
+"chat_link": "[&AgH8OQEA]",
+"description": "Used to craft the legendary rifle precursor Man o' War.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Divinity.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D6E25B2AA6AAD6AD131DCF3EA4FF90B6684631B2/1633952.png",
+"id": 80380,
+"level": 0,
+"name": "Shard o' War",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
 "chat_link": "[&AgF3OgEA]",
 "description": "Used in the crafting of weapons with the potential to become Legend.",
 "flags": [
@@ -1591,5 +1660,5 @@
 "vendor_value": 83
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19621,19622,19623,19675,19676,19976,20797,45836,45838,45839,45840,45841,45844,45846,45847,45848,45849,45850,45851,45852,45854,45855,45856,45857,45858,45885,45886,46683,70867,71173,72083,72535,72724,72934,72964,73266,74118,74457,74492,74802,74927,75333,76083,76427,76442,76530,76587,77082,78119,78342,78344,78475,78642,79418,79445,79784,80503,81051,81961,82069,85631,86093,86330,87031,87711,88738,89947,90390"
+"url": "https://api.guildwars2.com/v2/items?ids=19621,19622,19623,19675,19676,19976,20797,45834,45836,45838,45839,45840,45841,45843,45844,45846,45847,45848,45849,45850,45851,45852,45854,45855,45856,45857,45858,45885,45886,46683,70867,71173,72083,72535,72724,72934,72964,73266,74118,74457,74492,74802,74927,75333,76083,76427,76442,76530,76587,77082,78119,78342,78344,78475,78642,79418,79445,79784,80380,80503,81051,81961,82069,85631,86093,86330,87031,87711,88738,89947,90390"
 }

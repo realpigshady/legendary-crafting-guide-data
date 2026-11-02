@@ -1,0 +1,5 @@
+{
+"revid": 2079246,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used in the crafting of [[Ascended weapon|weapons]] with +[[Power]], +[[Ferocity]], and +[[Vitality]].\n| material type = inscription\n| prefix = valkyrie\n| tier = 7\n| rarity = Ascended\n| value = 83\n| id = 46696\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Stonecleaver's Valkyrie Inscription\n| type = Inscription\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 500\n| ingredient1 = 1 Valkyrie Orichalcum Imbued Inscription\n| ingredient2 = 10 Pile of Crystalline Dust\n| ingredient3 = 1 Deldrimor Steel Plated Dowel\n| ingredient4 = 10 Glob of Dark Matter\n| id = 7329\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n[[de:Walkürische Steinspalters Inschrift]]\n[[es:Inscripción de valquiria de Hiendepiedras]]\n[[fr:Inscription de Pierrefend valkyrienne]]",
+"title": "Stonecleaver's Valkyrie Inscription"
+}

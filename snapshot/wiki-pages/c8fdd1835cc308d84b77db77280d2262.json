@@ -1,0 +1,5 @@
+{
+"revid": 3168238,
+"text": "{{Item infobox\n| type = Trophy\n| material type = mystic\n| description = Used to craft the legendary sword [[the Shining Blade]].\n| rarity = Legendary\n| value = 640\n| bound = account\n| id = 82003\n| requires = lws3\n}}\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of Metal\n| ingredient2 = 1 Gift of the Mists\n| ingredient3 = 100 Shard of the Crown\n| ingredient4 = 100 Mystic Runestone\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Klinge]]\n[[es:Don del filo (legendario)]]\n[[fr:Don de la lame]]",
+"title": "Gift of the Blade"
+}

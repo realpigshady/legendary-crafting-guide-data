@@ -1,0 +1,5 @@
+{
+"revid": 2726898,
+"text": "{{Item infobox\n| description = Used to craft the legendary dagger [[Claw of the Khan-Ur]].\n| type = Trophy\n| material type = mystic\n| rarity = Legendary\n| value = 640\n| bound = account\n| id = 87115\n| requires = lws4\n}}\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of Metal\n| ingredient2 = 1 Gift of the Mists\n| ingredient3 = 100 Shard of Resolution\n| ingredient4 = 100 Mystic Runestone\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der vier Legionen]]\n[[es:Don de las Cuatro Legiones]]\n[[fr:Don des quatre légions]]",
+"title": "Gift of the Four Legions"
+}

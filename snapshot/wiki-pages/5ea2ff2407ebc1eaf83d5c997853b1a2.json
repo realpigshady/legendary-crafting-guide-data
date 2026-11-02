@@ -1,0 +1,5 @@
+{
+"revid": 2079632,
+"text": "{{Item infobox\n| type = crafting material\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 72535\n| requires = hot\n}}\n\n[[Advanced Ammunition Cylinder]] is a [[Component|crafting component]] used in the making of [[Prototype]].\n\n== Acquisition ==\n{{Recipe\n| source = Recipe sheet\n| sheet = Box of Recipes: Prototype\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 250 Darksteel Ingot\n| ingredient2 = 250 Mithril Ingot\n| ingredient3 = 50 Orichalcum Ingot\n| ingredient4 = 5 Deldrimor Steel Ingot\n| id = 10131\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Fortschrittlicher Munitionszylinder]]\n[[es:Cilindro de munición avanzado]]\n[[fr:Barillet avancé]]",
+"title": "Advanced Ammunition Cylinder"
+}

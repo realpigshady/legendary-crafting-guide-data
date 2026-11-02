@@ -1,0 +1,5 @@
+{
+"revid": 2496462,
+"text": "{{Item infobox\n| icon = Superior Staff Woodworking Tools.png\n| type = crafting material\n| rarity = exotic\n| bound = account\n| id = 76587\n| value = 66\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Raven Staff\n| disciplines = artificer\n| rating = 500\n| id = 11192\n| type = Legendary Component\n| ingredient1 = 5 Spiritwood Plank\n| ingredient2 = 3 Deldrimor Steel Ingot\n| ingredient3 = 50 Elder Wood Plank\n| ingredient4 = 50 Mithril Ingot\n}}\n\n== Used in ==\n{{Recipe list}}\n\n[[de:Runen-Gravierwerkzeuge]]\n[[es:Herramientas de grabado de runas]]\n[[fr:Outils de sculpture runique]]",
+"title": "Rune Carving Tools"
+}
