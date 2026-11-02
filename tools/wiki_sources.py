@@ -27,7 +27,7 @@ import urllib.parse
 from pathlib import Path
 from typing import Callable
 
-CHUNK = 10              # items per OR'ed query (URL length stays far under limits)
+CHUNK = 6               # items per OR'ed query (URL length stays far under limits)
 LIMIT = 500             # SMW rows per reply; paged with query-continue-offset
 MAX_AGE_S = 6 * 24 * 3600   # daily retries reuse the weekly build's answers
 
@@ -36,7 +36,7 @@ KINDS = ("vendor", "achievement", "rewarded", "salvage")
 
 def _q_vendor(names: list[str]) -> str:
     return ("[[Sells item::" + "||".join(names) + "]][[Has vendor.Is historical::N]]"
-            "|?Sells item|?Has vendor|?Has item cost|?Has item quantity|?Located in|?Has requirement"
+            "|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement"
             "|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap")
 
 
@@ -110,12 +110,12 @@ def slug(s: str) -> str:
 # --------------------------------------------------------------------------- store
 
 class SourceStore:
-    """ask() with a per-item snapshot. ``get_live(url) -> dict`` raises when the wiki is down."""
+    """ask() with a per-item snapshot. ``post(params) -> dict`` (one api.php POST) raises when the wiki is down."""
 
-    def __init__(self, root: Path, get_live: Callable[[str], dict], api: str = "https://wiki.guildwars2.com/api.php"):
+    def __init__(self, root: Path, post: Callable[[dict], dict], api: str = "https://wiki.guildwars2.com/api.php"):
         self.dir = root / "wiki-sources"
         self.dir.mkdir(parents=True, exist_ok=True)
-        self.get_live = get_live
+        self.post = post
         self.api = api
         self.down = False
         self.requests = 0
@@ -143,7 +143,7 @@ class SourceStore:
             params = {"action": "ask", "format": "json", "formatversion": "2",
                       "query": f"{query}|limit={LIMIT}|offset={offset}"}
             self.requests += 1
-            reply = self.get_live(f"{self.api}?{urllib.parse.urlencode(params)}")
+            reply = self.post(params)
             if "error" in reply:
                 raise RuntimeError(f"SMW ask: {reply['error'].get('info', reply['error'])}")
             out += rows(reply)
@@ -224,6 +224,8 @@ def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tu
     for r in rws:
         if _true(r.get("Is historical")):
             continue
+        if "Item" in (r.get("Has context") or []):
+            continue   # the "vendor" is an item: a chest's choices or a container exchange, not a shop
         inputs = []
         for c in r.get("Has item cost") or []:
             if not isinstance(c, dict):

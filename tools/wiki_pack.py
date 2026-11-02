@@ -113,6 +113,13 @@ def infobox_id(wikitext: str) -> int | None:
     return None
 
 
+def item_type(wikitext: str) -> str:
+    """The item infobox's ``type`` (lower case), '' if none."""
+    m = re.search(r"\{\{\s*Item infobox(.*?)\n\}\}", wikitext, re.IGNORECASE | re.DOTALL)
+    t = re.search(r"\|\s*type\s*=\s*([^\n|]*)", m.group(1)) if m else None
+    return t.group(1).strip().lower() if t else ""
+
+
 def recipes(wikitext: str) -> list[dict]:
     out = []
     for name in TEMPLATES["recipe"]:
@@ -366,7 +373,8 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             nid = node_id_for(page.title, iid)
             if nid in w.nodes:
                 continue
-            srcs = recipes(page.text)
+            container = item_type(page.text) == "container"
+            srcs = [] if container else recipes(page.text)   # a container (chest) only appears as a price: stop there
             node = {"id": nid, "type": "drop", "name": page.title, "item_id": iid, "sources": [],
                     "guidance": {"wiki_url": "https://wiki.guildwars2.com/wiki/" + urllib.parse.quote(page.title.replace(" ", "_")),
                                  "text": "", "waypoint_chat_code": None}}
@@ -396,7 +404,10 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
                 node["sources"].append({"kind": "other", "inputs": []})
                 w.warnings.append(f"no source: {page.title}")
             w.nodes[nid] = node
-            level_nodes.append((node, iid is not None and iid in locked, bool(srcs)))
+            if container:
+                node["container"] = True
+            else:
+                level_nodes.append((node, iid is not None and iid in locked, bool(srcs)))
             if len(w.nodes) > MAX_NODES:
                 raise SystemExit(f"walk passed {MAX_NODES} nodes: link loop or missing stop rule")
         if sources is not None and level_nodes:
@@ -417,4 +428,28 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             for inp in s["inputs"]:
                 if inp.get("node_id", "").startswith("@"):
                     inp["node_id"] = by_name.get(inp["node_id"][1:], node_id_for(inp["node_id"][1:], None))
+                    inp.pop("name", None) if inp["node_id"] in w.nodes else None
+    # vendors that take containers (chest exchanges) aren't shops for this; then keep only
+    # what the legendaries actually reach
+    boxes = {nid for nid, n in w.nodes.items() if n.pop("container", False)}
+    for n in w.nodes.values():
+        n["sources"] = [s for s in n["sources"]
+                        if not (s["kind"] == "vendor" and any(i.get("node_id") in boxes for i in s["inputs"]))]
+        if not n["sources"] and n.get("type") != "currency":
+            n["sources"] = [{"kind": "other", "inputs": []}]
+    reach, stack = set(), [by_name.get(r, node_id_for(r, None)) for r in roots]
+    while stack:
+        x = stack.pop()
+        if x in reach or x not in w.nodes:
+            continue
+        reach.add(x)
+        stack += [i["node_id"] for s in w.nodes[x]["sources"] for i in s["inputs"] if i.get("node_id")]
+    w.nodes = {k: v for k, v in w.nodes.items() if k in reach}
+    for a in list(w.activities.values()):
+        a["yields"] = [y for y in a["yields"] if y["node_id"] in reach]
+        if not a["yields"]:
+            del w.activities[a["id"]]
+    used = {s.get("activity_id") for n in w.nodes.values() for s in n["sources"]}
+    w.activities = {k: v for k, v in w.activities.items() if k in used}
+    w.warnings[:] = [x for x in w.warnings if not x.startswith("no source: ") or by_name.get(x[11:]) in reach]
     return w

@@ -22,6 +22,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -38,6 +39,7 @@ USER_AGENT = (
     "(+https://github.com/realpigshady/legendary-crafting-guide-data; weekly batch job)"
 )
 MIN_INTERVAL_S = 1.0
+ASK_INTERVAL_S = 2.0        # SMW ask queries are heavier: half the pace
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config" / "families.json").read_text(encoding="utf-8"))
@@ -142,6 +144,39 @@ class Http:
             raise
         self.fresh[host] = self.fresh.get(host, 0) + 1
         return data
+
+    def post_live(self, url: str, params: dict):
+        """One POST (SMW ask: long queries, kinder to the wiki's cache layer), no snapshot.
+        Slower pace and long backoff on 403/429/503: the wiki rate-limits query bursts."""
+        host = urllib.parse.urlparse(url).netloc
+        if self.offline or host in self._down_hosts:
+            raise SourceDown(f"{host} offline for this run")
+        body = urllib.parse.urlencode(params).encode()
+        for attempt in range(6):
+            wait = ASK_INTERVAL_S - (time.monotonic() - self._last)
+            if wait > 0:
+                time.sleep(wait)
+            req = urllib.request.Request(url, data=body, headers={"User-Agent": USER_AGENT,
+                                                                  "Content-Type": "application/x-www-form-urlencoded"})
+            try:
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    data = json.loads(r.read().decode("utf-8", errors="replace"))
+                self.fresh[host] = self.fresh.get(host, 0) + 1
+                return data
+            except urllib.error.HTTPError as e:
+                if e.code not in (403, 429, 502, 503, 504) or attempt == 5:
+                    self._down_hosts.add(host)
+                    raise
+                pause = min(300, 15 * 2 ** attempt)
+                print(f"  ask {e.code}, waiting {pause}s (try {attempt + 1})", file=sys.stderr)
+                time.sleep(pause)
+            except Exception:
+                if attempt == 5:
+                    self._down_hosts.add(host)
+                    raise
+                time.sleep(10 * (attempt + 1))
+            finally:
+                self._last = time.monotonic()
 
     def _fetch(self, url: str):
         wait = MIN_INTERVAL_S - (time.monotonic() - self._last)
@@ -279,7 +314,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     items = legendary_items(http)
     by_name = {i["name"]: i for i in items}
     store = wp.PageStore(http.dir, http.get_live, WIKI_API)
-    smw = wsrc.SourceStore(http.dir, http.get_live, WIKI_API)
+    smw = wsrc.SourceStore(http.dir, lambda params: http.post_live(WIKI_API, params), WIKI_API)
     currencies = currency_ids(http)
     expand = set(CONFIG.get("always_expand", []))
 

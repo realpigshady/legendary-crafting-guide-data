@@ -59,12 +59,12 @@ class FakeAsk:
         self.down = False
         self.calls = 0
 
-    def __call__(self, url):
+    def __call__(self, params):
         if self.down:
             raise OSError("down")
         self.calls += 1
-        q = urllib.parse.parse_qs(urllib.parse.urlparse(url).query)["query"][0]
-        assert "Sells item::Mystic Runestone||Gift of Glory" in q
+        q = params["query"]
+        assert q.startswith("[[Sells item::Mystic Runestone||Gift of Glory")
         return reply("ask_vendor_multi")
 
 
