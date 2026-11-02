@@ -373,7 +373,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             nid = node_id_for(page.title, iid)
             if nid in w.nodes:
                 continue
-            container = item_type(page.text) == "container"
+            container = item_type(page.text) in ("container", "gizmo")   # chests, exchange tokens
             srcs = [] if container else recipes(page.text)   # a container (chest) only appears as a price: stop there
             node = {"id": nid, "type": "drop", "name": page.title, "item_id": iid, "sources": [],
                     "guidance": {"wiki_url": "https://wiki.guildwars2.com/wiki/" + urllib.parse.quote(page.title.replace(" ", "_")),
@@ -431,12 +431,24 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
                     inp.pop("name", None) if inp["node_id"] in w.nodes else None
     # vendors that take containers (chest exchanges) aren't shops for this; then keep only
     # what the legendaries actually reach
+    # A vendor price that includes something with no source (a chest, a mini, an old token)
+    # isn't a way to get the item here: drop it, repeat until nothing changes.
     boxes = {nid for nid, n in w.nodes.items() if n.pop("container", False)}
     for n in w.nodes.values():
-        n["sources"] = [s for s in n["sources"]
-                        if not (s["kind"] == "vendor" and any(i.get("node_id") in boxes for i in s["inputs"]))]
-        if not n["sources"] and n.get("type") != "currency":
-            n["sources"] = [{"kind": "other", "inputs": []}]
+        if n["id"] in boxes:
+            n["sources"] = [s for s in n["sources"] if s["kind"] == "trading_post"] or [{"kind": "other", "inputs": []}]
+
+    def dead(nid: str) -> bool:
+        x = w.nodes.get(nid)
+        return x is None or (x.get("type") != "currency" and all(s["kind"] == "other" for s in x["sources"]))
+    changed = True
+    while changed:
+        changed = False
+        for n in w.nodes.values():
+            keep = [s for s in n["sources"] if not (s["kind"] == "vendor" and any(dead(i.get("node_id", "")) for i in s["inputs"]))]
+            if len(keep) != len(n["sources"]):
+                n["sources"] = keep or [{"kind": "other", "inputs": []}]
+                changed = True
     reach, stack = set(), [by_name.get(r, node_id_for(r, None)) for r in roots]
     while stack:
         x = stack.pop()
@@ -451,5 +463,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             del w.activities[a["id"]]
     used = {s.get("activity_id") for n in w.nodes.values() for s in n["sources"]}
     w.activities = {k: v for k, v in w.activities.items() if k in used}
-    w.warnings[:] = [x for x in w.warnings if not x.startswith("no source: ") or by_name.get(x[11:]) in reach]
+    w.warnings[:] = [x for x in w.warnings if not x.startswith("no source: ")]
+    w.warnings += [f"no source: {n['name']}" for n in w.nodes.values()
+                   if n.get("type") != "currency" and all(s["kind"] == "other" for s in n["sources"])]
     return w
