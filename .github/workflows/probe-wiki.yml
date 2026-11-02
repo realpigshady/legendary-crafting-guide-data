@@ -1,0 +1,23 @@
+name: probe-wiki
+# Developer tool: runs probe/queries.json against the wiki and commits the replies to probe/out.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['probe/queries.json']
+permissions:
+  contents: write
+concurrency:
+  group: probe-wiki
+jobs:
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/probe_wiki.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add probe/out
+          git diff --cached --quiet || { git commit -m "probe: wiki replies" && git pull --rebase && git push; }
