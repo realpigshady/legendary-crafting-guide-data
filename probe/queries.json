@@ -1,97 +1,48 @@
 {
- "tpl_sold_by": {
+ "tpl_achievement_list": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
-  "titles": "Template:Sold by"
+  "titles": "Template:Achievement list"
  },
- "tpl_contained_rt": {
+ "tpl_rewards_item": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
-  "titles": "Template:Contained in reward track"
+  "titles": "Template:Rewards item"
  },
- "tpl_rewarded_by": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Rewarded by"
+ "ask_vendor_multi": {
+  "action": "ask",
+  "query": "[[Sells item::Mystic Runestone||Gift of Glory||Funerary Incense||Philosopher's Stone||Gift of the Raven Spirit]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|?Has vendor anchor|limit=200"
  },
- "tpl_salvaged_from": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Salvaged from"
+ "ask_rewards_tarir": {
+  "action": "ask",
+  "query": "[[Rewards item::Gift of Tarir||Gift of Battle||Essence of Time and Space||Spirit of the Ravenswood Staff]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=200"
  },
- "tpl_contained_in": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Contained in"
+ "ask_ach_raven": {
+  "action": "ask",
+  "query": "[[Has achievement reward::Gift of the Raven Spirit]]|?Has game id|?Has achievement reward|limit=20"
  },
- "tpl_vendor_table_row": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Vendor table row"
+ "ask_rt_battle": {
+  "action": "ask",
+  "query": "[[Contains item in reward track::Gift of Battle;?;?;?]]|?Contains item in reward track|limit=20"
  },
- "tpl_collection_table_row": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Collection table row"
+ "ask_salvage_spirit": {
+  "action": "ask",
+  "query": "[[Salvages into::Spirit of the Ravenswood Staff]]|?Has game id|limit=20"
  },
- "tpl_achievement_box": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Achievement box"
+ "ask_recipe_spirit": {
+  "action": "ask",
+  "query": "[[Has context::Recipe]][[Has recipe output::Spirit of the Ravenswood Staff]]|?Has recipe output|?Has ingredient|?Has discipline|limit=20"
  },
- "browse_bloodstone": {
-  "action": "smwbrowse",
-  "browse": "subject",
-  "params": "{\"subject\": \"Bloodstone Shard\", \"ns\": 0, \"iw\": \"\", \"subobject\": \"\"}"
- },
- "browse_gift_tarir": {
+ "browse_ach_nevermore3": {
   "action": "browsebysubject",
-  "subject": "Gift of Tarir"
+  "subject": "Nevermore III: The Raven Staff"
  },
- "browse_raven_staff_spirit": {
+ "browse_ravenswood_staff": {
   "action": "browsebysubject",
-  "subject": "Spirit of the Ravenswood Staff"
- },
- "ask_sold_bloodstone": {
-  "action": "ask",
-  "query": "[[Sells item::Bloodstone Shard]]|?Has vendor|?Has item cost|?Located in|limit=20"
- },
- "ask_sold_bloodstone_sub": {
-  "action": "ask",
-  "query": "[[Sells item.Has canonical name::Bloodstone Shard]]|?Sells item|?Has item cost|?Has vendor|limit=20"
- },
- "ask_contains_gift_battle": {
-  "action": "ask",
-  "query": "[[Contains item::Gift of Battle]]|limit=20"
- },
- "page_raven_collection": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "The Raven Staff (collection)|Nevermore III: The Raven Staff|Gift of the Raven Spirit"
- },
- "page_miyani": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Miyani"
+  "subject": "Ravenswood Staff"
  }
 }
