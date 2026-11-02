@@ -1,9 +1,0 @@
-{
-"body": {
-"batchcomplete": true,
-"query": {
-"categorymembers": []
-}
-},
-"url": "https://wiki.guildwars2.com/api.php?format=json&formatversion=2&action=query&list=categorymembers&cmtitle=Category%3ASecond+generation+legendary+weapons&cmlimit=500&cmnamespace=0"
-}

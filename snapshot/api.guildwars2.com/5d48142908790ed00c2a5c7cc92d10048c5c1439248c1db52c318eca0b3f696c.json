@@ -1,0 +1,77 @@
+{
+"body": [
+{
+"chat_link": "[&AgGLtgAA]",
+"description": "Refine into bloodstone bricks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1468C6A946BFF0A42CBD08A70E45F8F05851FED0/631480.png",
+"id": 46731,
+"level": 0,
+"name": "Pile of Bloodstone Dust",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGNtgAA]",
+"description": "Refine into dragonite ingots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D53E69EFB3AFF4C85CC370AA32F1A6A61C03CCE8/631482.png",
+"id": 46733,
+"level": 0,
+"name": "Dragonite Ore",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGPtgAA]",
+"description": "Refine into empyreal stars.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE4779014F27DE027BDBE761607B220923DB03D5/631484.png",
+"id": 46735,
+"level": 0,
+"name": "Empyreal Fragment",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=46731,46733,46735"
+}

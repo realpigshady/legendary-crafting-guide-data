@@ -1,0 +1,305 @@
+{
+"body": {
+"batchcomplete": true,
+"query": {
+"categorymembers": [
+{
+"ns": 0,
+"pageid": 41596,
+"title": "Legendary weapon"
+},
+{
+"ns": 0,
+"pageid": 60205,
+"title": "Legendary weapon/table"
+},
+{
+"ns": 0,
+"pageid": 407002,
+"title": "Ancora Bellum"
+},
+{
+"ns": 0,
+"pageid": 407006,
+"title": "Ancora Pax"
+},
+{
+"ns": 0,
+"pageid": 159126,
+"title": "Astralaria"
+},
+{
+"ns": 0,
+"pageid": 312138,
+"title": "Aurene's Argument"
+},
+{
+"ns": 0,
+"pageid": 312129,
+"title": "Aurene's Bite"
+},
+{
+"ns": 0,
+"pageid": 312119,
+"title": "Aurene's Breath"
+},
+{
+"ns": 0,
+"pageid": 312126,
+"title": "Aurene's Claw"
+},
+{
+"ns": 0,
+"pageid": 312137,
+"title": "Aurene's Fang"
+},
+{
+"ns": 0,
+"pageid": 312112,
+"title": "Aurene's Flight"
+},
+{
+"ns": 0,
+"pageid": 312105,
+"title": "Aurene's Gaze"
+},
+{
+"ns": 0,
+"pageid": 312109,
+"title": "Aurene's Insight"
+},
+{
+"ns": 0,
+"pageid": 312115,
+"title": "Aurene's Persuasion"
+},
+{
+"ns": 0,
+"pageid": 312123,
+"title": "Aurene's Rending"
+},
+{
+"ns": 0,
+"pageid": 312135,
+"title": "Aurene's Scale"
+},
+{
+"ns": 0,
+"pageid": 312133,
+"title": "Aurene's Tail"
+},
+{
+"ns": 0,
+"pageid": 312121,
+"title": "Aurene's Voice"
+},
+{
+"ns": 0,
+"pageid": 312131,
+"title": "Aurene's Weight"
+},
+{
+"ns": 0,
+"pageid": 312117,
+"title": "Aurene's Wing"
+},
+{
+"ns": 0,
+"pageid": 312107,
+"title": "Aurene's Wisdom"
+},
+{
+"ns": 0,
+"pageid": 50266,
+"title": "The Bifrost"
+},
+{
+"ns": 0,
+"pageid": 50964,
+"title": "Bolt"
+},
+{
+"ns": 0,
+"pageid": 178479,
+"title": "Chuka and Champawat"
+},
+{
+"ns": 0,
+"pageid": 5278,
+"title": "Claw of the Khan-Ur"
+},
+{
+"ns": 0,
+"pageid": 51021,
+"title": "The Dreamer"
+},
+{
+"ns": 0,
+"pageid": 54546,
+"title": "Eternity"
+},
+{
+"ns": 0,
+"pageid": 189620,
+"title": "Eureka"
+},
+{
+"ns": 0,
+"pageid": 255383,
+"title": "Exordium"
+},
+{
+"ns": 0,
+"pageid": 203052,
+"title": "Flames of War"
+},
+{
+"ns": 0,
+"pageid": 54321,
+"title": "Frenzy"
+},
+{
+"ns": 0,
+"pageid": 50305,
+"title": "Frostfang"
+},
+{
+"ns": 0,
+"pageid": 159127,
+"title": "HOPE"
+},
+{
+"ns": 0,
+"pageid": 54328,
+"title": "Howler"
+},
+{
+"ns": 0,
+"pageid": 54313,
+"title": "Incinerator"
+},
+{
+"ns": 0,
+"pageid": 55364,
+"title": "Kamohoali'i Kotaki"
+},
+{
+"ns": 0,
+"pageid": 388006,
+"title": "Klobjarne Geirr"
+},
+{
+"ns": 0,
+"pageid": 54331,
+"title": "Kraitkin"
+},
+{
+"ns": 0,
+"pageid": 54311,
+"title": "Kudzu"
+},
+{
+"ns": 0,
+"pageid": 54333,
+"title": "Meteorlogicus"
+},
+{
+"ns": 0,
+"pageid": 159125,
+"title": "Nevermore"
+},
+{
+"ns": 0,
+"pageid": 249780,
+"title": "Pharus"
+},
+{
+"ns": 0,
+"pageid": 54338,
+"title": "Quip"
+},
+{
+"ns": 0,
+"pageid": 55469,
+"title": "Rodgort"
+},
+{
+"ns": 0,
+"pageid": 207255,
+"title": "Sharur"
+},
+{
+"ns": 0,
+"pageid": 194135,
+"title": "Shooshadoo"
+},
+{
+"ns": 0,
+"pageid": 49540,
+"title": "Sunrise"
+},
+{
+"ns": 0,
+"pageid": 224935,
+"title": "The Binding of Ipos"
+},
+{
+"ns": 0,
+"pageid": 53668,
+"title": "The Flameseeker Prophecies"
+},
+{
+"ns": 0,
+"pageid": 199057,
+"title": "The HMS Divinity"
+},
+{
+"ns": 0,
+"pageid": 54315,
+"title": "The Juggernaut"
+},
+{
+"ns": 0,
+"pageid": 54334,
+"title": "The Minstrel"
+},
+{
+"ns": 0,
+"pageid": 54337,
+"title": "The Moot"
+},
+{
+"ns": 0,
+"pageid": 55463,
+"title": "The Predator"
+},
+{
+"ns": 0,
+"pageid": 207234,
+"title": "The Shining Blade"
+},
+{
+"ns": 0,
+"pageid": 50822,
+"title": "Twilight"
+},
+{
+"ns": 0,
+"pageid": 235916,
+"title": "Verdarach"
+},
+{
+"ns": 0,
+"pageid": 421459,
+"title": "Wages of Stars"
+},
+{
+"ns": 0,
+"pageid": 243297,
+"title": "Xiuquatl"
+}
+]
+}
+},
+"url": "https://wiki.guildwars2.com/api.php?format=json&formatversion=2&action=query&list=categorymembers&cmtitle=Category%3ALegendary+weapons&cmlimit=500&cmnamespace=0"
+}

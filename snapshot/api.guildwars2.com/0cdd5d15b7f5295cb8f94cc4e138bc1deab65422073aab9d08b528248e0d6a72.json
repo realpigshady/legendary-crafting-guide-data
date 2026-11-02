@@ -1,0 +1,863 @@
+{
+"body": [
+{
+"chat_link": "[&AgHYXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6D1AB79FCCD5E673A0220A39C56E45081B426019/66936.png",
+"id": 24280,
+"level": 0,
+"name": "Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHZXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE3D2BD0B88077ACE7E808504A3ACB0C4EDAD8D5/66937.png",
+"id": 24281,
+"level": 0,
+"name": "Full Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHaXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EA6A4C91F561EC5667947AEFE4CA436D0631CBE3/66938.png",
+"id": 24282,
+"level": 0,
+"name": "Potent Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHbXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/543EC37900EA2A57E77FA891193A48D66AA224AB/66939.png",
+"id": 24283,
+"level": 0,
+"name": "Powerful Venom Sac",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHeXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/14C880782A481EE8051BDB176E542AF55C6CE663/66942.png",
+"id": 24286,
+"level": 0,
+"name": "Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHfXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95F72F7A1A3D6D01751148FF3D0D9709366F203B/66943.png",
+"id": 24287,
+"level": 0,
+"name": "Smooth Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHgXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F94ECFFF0FA9C321C108DA34E777B27B0AC9D5F8/66944.png",
+"id": 24288,
+"level": 0,
+"name": "Large Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHhXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7061C82F4F9D0C585742F545C40A0F06BE0154DC/66527.png",
+"id": 24289,
+"level": 0,
+"name": "Armored Scale",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHkXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7D0B2A322001D999514908D519590D9B5D04DB35/66947.png",
+"id": 24292,
+"level": 0,
+"name": "Vial of Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHlXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5103E44DB05DE7A9579C98037332294DB209CB72/66948.png",
+"id": 24293,
+"level": 0,
+"name": "Vial of Thick Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHmXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99AAE49EABF9A2415940FDB83CA1CE5E6E256020/66949.png",
+"id": 24294,
+"level": 0,
+"name": "Vial of Potent Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHnXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1A930A6A7B5B01EAB4CB36E79014C12B500BF6B3/66950.png",
+"id": 24295,
+"level": 0,
+"name": "Vial of Powerful Blood",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHqXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/52A92F9505FD49FB655A0631525556D5B80E55C0/66953.png",
+"id": 24298,
+"level": 0,
+"name": "Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHrXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4DBC299E4B036A0DD3119A0F06BACA147C03B5C7/66954.png",
+"id": 24299,
+"level": 0,
+"name": "Intricate Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHsXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C1ABF9082901FC3CEABC3138CBCCA1DAD5D41812/66955.png",
+"id": 24300,
+"level": 0,
+"name": "Elaborate Totem",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgEPXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CBC82EA8093AE4F60F0752B179F7CD02DDF5CB33/223781.png",
+"id": 24335,
+"level": 0,
+"name": "Pile of Putrid Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 63
+},
+{
+"chat_link": "[&AgEVXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/13F077BA5D5C6324CFCB0A2E39050F24A441190B/66987.png",
+"id": 24341,
+"level": 0,
+"name": "Large Bone",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEYXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B000AA18322202719E2B251B4EE735B5D3EF4EB1/66990.png",
+"id": 24344,
+"level": 0,
+"name": "Bone",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEZXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A27457964A7F0A19DFFCA57FCB7308D233FE66E1/66991.png",
+"id": 24345,
+"level": 0,
+"name": "Heavy Bone",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEcXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/325E12790C72C161E15B1CCE253C6079960CA138/66994.png",
+"id": 24348,
+"level": 0,
+"name": "Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEdXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/97BCA6B90E56E6F0A06B3C031CDEA5EC0EBA17B5/66995.png",
+"id": 24349,
+"level": 0,
+"name": "Sharp Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEeXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3A4D64F4CE2951F358DE0AFCEA6551050FB4B4A7/66420.png",
+"id": 24350,
+"level": 0,
+"name": "Large Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEfXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/043E2BBA270F381870F1B45E7C09C098CAFE3D14/66996.png",
+"id": 24351,
+"level": 0,
+"name": "Vicious Claw",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgEiXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/112DF0DE564C9C061FE8DDB198EA953ED527E9D6/66809.png",
+"id": 24354,
+"level": 0,
+"name": "Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEjXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5F9923611B4B5314D5993872EC2970CA7BE09DAB/65896.png",
+"id": 24355,
+"level": 0,
+"name": "Sharp Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEkXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DED4F23E44430C2BE1C0D491145A4946FC7D7C6F/223793.png",
+"id": 24356,
+"level": 0,
+"name": "Large Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgElXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F2050EE1A7A43EDCDCB1E971FDA608AD0566E4DA/66998.png",
+"id": 24357,
+"level": 0,
+"name": "Vicious Fang",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgEmXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0EE45FBB1E1A004600E9BAA7097830B2DE08587D/66828.png",
+"id": 24358,
+"level": 0,
+"name": "Ancient Bone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgErXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB3AC996CC791BE0FF784CDC57060F05E6D23020/67000.png",
+"id": 24363,
+"level": 0,
+"name": "Engraved Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgGymAAA]",
+"details": {
+"minipet_id": 129
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3F9A1CA7C192FAFFDEE13E28A09AD8DA0F165FE4/534184.png",
+"id": 39090,
+"level": 0,
+"name": "Mini Risen Priest of Balthazar",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGKtgAA]",
+"description": "Refined from piles of bloodstone dust.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C03D6909B0A36EED87538C8D1FFFC27390FDF4E/631479.png",
+"id": 46730,
+"level": 0,
+"name": "Bloodstone Brick",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGMtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DD0CE05EB7F841A99D58A106EE0CDFBF6A96F9FB/631481.png",
+"id": 46732,
+"level": 0,
+"name": "Dragonite Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGOtgAA]",
+"description": "Refined from fragments.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AF8B122915F042AF6749C0AE4583FA963DADF56/631483.png",
+"id": 46734,
+"level": 0,
+"name": "Empyreal Star",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGgtgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/622C35BD7B48F77C07C94CA3C73F9D9ADBCA4403/631529.png",
+"id": 46752,
+"level": 0,
+"name": "Augur's Stone",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgEQDwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C4676E0C0FAEB44FB538EFEA4E36F39B012E1A06/1204970.png",
+"id": 69392,
+"level": 0,
+"name": "Ley Line Spark",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE4DwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDC53CC11B9AB85DB076EDB07AF3D274BF47BC3D/1204963.png",
+"id": 69432,
+"level": 0,
+"name": "Pile of Auric Dust",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE6DwEA]",
+"description": "Used in crafting ascended and legendary gear.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0ECB0DB23BF2E0F0FE2103044D5AB06748772CB8/1204962.png",
+"id": 69434,
+"level": 0,
+"name": "Bottle of Airship Oil",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGkFAEA]",
+"description": "Rewarded through PvP reward tracks and PvP dailies.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BBA010474B8CCE22392E71EF81E5FDB662BC32F/1206834.png",
+"id": 70820,
+"level": 80,
+"name": "Shard of Glory",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGdFwEA]",
+"description": "Found in World vs. World reward tracks.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4D0455D2EFDB0DFC008F4564B38D6545901A05B/1206833.png",
+"id": 71581,
+"level": 80,
+"name": "Memory of Battle",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE6GQEA]",
+"description": "Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/073D6BA90E2434B02CDEC736AEA252202FA0BA71/1200192.png",
+"id": 71994,
+"level": 0,
+"name": "Ball of Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgEgHgEA]",
+"description": "Found in Chests of the Mists and salvaged from ascended rings. Used to stabilize dark energy for the safe construction of items. Can also be traded for Fractal Encryptions.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1995007E91F8EE320FBA5805AEF27EECCF9CD3A0/1200208.png",
+"id": 73248,
+"level": 0,
+"name": "Stabilizing Matrix",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1000
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24280,24281,24282,24283,24286,24287,24288,24289,24292,24293,24294,24295,24298,24299,24300,24335,24341,24344,24345,24348,24349,24350,24351,24354,24355,24356,24357,24358,24363,39090,46730,46732,46734,46752,69392,69432,69434,70820,71581,71994,73248"
+}

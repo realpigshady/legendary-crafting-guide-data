@@ -1,0 +1,1608 @@
+{
+"body": [
+{
+"chat_link": "[&AgECFwEA]",
+"default_skin": 6331,
+"description": "<c=@flavor>This weapon is used to craft the legendary axe Astralaria.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1100,
+"min_power": 900,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"suffix_item_id": 24561,
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C6C697BAF9D1092F5626CE39016DB0CCA19169C2/1200331.png",
+"id": 71426,
+"level": 80,
+"name": "The Mechanism",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGMGAEA]",
+"description": "Made by combining these items in the Mystic Forge:\n• 2 Gifts of Condensed Magic\n• 2 Gifts of Condensed Might\n• 77 Mystic Clovers\n• 250 Mystic Coins",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62A0F109C444E275E966B9A903D63FFE99540BAD/455807.png",
+"id": 71820,
+"level": 0,
+"name": "Mystic Tribute",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEkGQEA]",
+"description": "In the Mystic Forge, combine 100 Icy Runestones, a Gift of Metal, a Gift of the Mists, and a Gift of the Cosmos to create the Gift of Astralaria.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/044F250F27EF97CFC2BD4AC4E61E650EEA3E0E05/455806.png",
+"id": 71972,
+"level": 0,
+"name": "Gift of Astralaria",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEXHgEA]",
+"description": "A gift used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0051EB5FF730C9EF7C2A3781D3F9B732D4D1A55/455857.png",
+"id": 73239,
+"level": 0,
+"name": "Gift of Maguuma Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFUIQEA]",
+"default_skin": 6224,
+"description": "<c=@flavor>This weapon is used to craft the legendary staff Nevermore.</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"suffix_item_id": 24561,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABBCE10A62C94F9DA832377DE7D063615E44176C/1206519.png",
+"id": 74068,
+"level": 80,
+"name": "The Raven Staff",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgE8IgEA]",
+"description": "In the Mystic Forge, combine 100 Icy Runestones, a Gift of Energy, a Gift of the Mists, and a Gift of the Spirit Raven to create the Gift of Nevermore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38C9C5C8F3725C196149C01FAD009C9707080B92/455834.png",
+"id": 74300,
+"level": 0,
+"name": "Gift of Nevermore",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFvKgEA]",
+"default_skin": 6333,
+"description": "<c=@flavor>This weapon is used to craft the legendary pistol HOPE.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"suffix_item_id": 24561,
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1F4414914050FFF403603AF9CC1131E5DF4600E/1204305.png",
+"id": 76399,
+"level": 80,
+"name": "Prototype",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgEeLQEA]",
+"description": "In the Mystic Forge, combine 100 Icy Runestones, a Gift of Wood, a Gift of the Mists, and a Gift of the Catalyst to create the Gift of HOPE.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C4CE12E8D701F767F47113911EA80DBF78485C75/455831.png",
+"id": 77086,
+"level": 0,
+"name": "Gift of HOPE",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFZMgEA]",
+"default_skin": 6712,
+"description": "<c=@flavor>This weapon is used to craft the legendary short bow Chuka and Champawat.</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"suffix_item_id": 24561,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F516F0D265E291979E61DEC7C2E4433EB0580DF4/1423763.png",
+"id": 78425,
+"level": 80,
+"name": "Tigris",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgEjMwEA]",
+"description": "In the Mystic Forge, combine 100 Icy Runestones, a Gift of Wood, a Gift of the Mists, and a Gift of Family to create the Gift of Chuka and Champawat.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D43A06A81206563FFB225B070507EDC50EDE1FC6/1423952.png",
+"id": 78627,
+"level": 0,
+"name": "Gift of Chuka and Champawat",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgE7NgEA]",
+"description": "Used to forge the legendary mace Eureka.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/251BB8EBB564FE90FA68B1C4461011989CFF0AF1/1493242.png",
+"id": 79419,
+"level": 0,
+"name": "Gift of Eureka",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHSNgEA]",
+"default_skin": 6958,
+"description": "<c=@flavor>This weapon is used to craft the legendary mace Eureka.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Mace"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9A23DDEBA7B773C7B5C755537E7541E6C674615E/1493254.png",
+"id": 79570,
+"level": 80,
+"name": "Endeavor",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgHcNwEA]",
+"default_skin": 7035,
+"description": "<c=@flavor>This weapon is used to craft the legendary shield Shooshadoo.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 64,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 954,
+"min_power": 846,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Shield"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A90B05EE0B1D025EE2C241E8452278FC347C655B/1601583.png",
+"id": 79836,
+"level": 80,
+"name": "Friendship",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgHfNwEA]",
+"description": "Used to craft the legendary shield Shooshadoo.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A4442AF1DC9739710A7D6FE43102D805A1D9F1CA/1601468.png",
+"id": 79839,
+"level": 0,
+"name": "Gift of Shooshadoo",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgF+PAEA]",
+"default_skin": 7219,
+"description": "<c=@flavor>This weapon is used to craft the legendary torch Flames of War.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 972,
+"min_power": 828,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Torch"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9D765005D5A0DDECEEE1AB4113019303A14DA3A0/1676636.png",
+"id": 81022,
+"level": 80,
+"name": "Liturgy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgH4PAEA]",
+"description": "Used to craft the legendary torch Flames of War.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1CED630F1B15B32FCA06FF00FE32382BB85C4F0F/1676633.png",
+"id": 81144,
+"level": 0,
+"name": "Gift of Balthazar",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHiPgEA]",
+"default_skin": 7312,
+"description": "<c=@flavor>This weapon is used to craft the legendary hammer Sharur.</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Hammer"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/189678065094CA134D4D6A4B319AF7F9A8095D62/1729257.png",
+"id": 81634,
+"level": 80,
+"name": "Might of Arah",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgEUPwEA]",
+"description": "Used to forge the legendary hammer Sharur.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/274CDF6894AF4549DD40434CEA0B6FB15759E0FF/1729254.png",
+"id": 81684,
+"level": 0,
+"name": "Gift of Arah",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGUPwEA]",
+"default_skin": 7306,
+"description": "<c=@flavor>This weapon is used to craft the legendary sword the Shining Blade.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/42A7AE057C1356A235703AB567C1F0FF54F8A2A1/1729773.png",
+"id": 81812,
+"level": 80,
+"name": "Save the Queen",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgFTQAEA]",
+"description": "Used to craft the legendary sword the Shining Blade.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AECB050C0C4978616EC8D51248B64700132B9A38/1729770.png",
+"id": 82003,
+"level": 0,
+"name": "Gift of the Blade",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEUUAEA]",
+"description": "A gift used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8E86D04013AA541BE0CBACAE2080679CBF1DA71/1894676.png",
+"id": 86036,
+"level": 0,
+"name": "Gift of Desert Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgH9UwEA]",
+"default_skin": 8046,
+"description": "<c=@flavor>This weapon is used to craft the legendary dagger Claw of the Khan-Ur.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1030,
+"min_power": 970,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C82F9903EEC310BA73E5563FA4CD93015FE0DBE4/1947151.png",
+"id": 87037,
+"level": 80,
+"name": "Claw of Resolution",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgFLVAEA]",
+"description": "Used to craft the legendary dagger Claw of the Khan-Ur.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/14510203049C75A43102BE777AF8E62B452D4FDE/1947148.png",
+"id": 87115,
+"level": 0,
+"name": "Gift of the Four Legions",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHUVgEA]",
+"default_skin": 8177,
+"description": "<c=@flavor>This weapon is used to craft the legendary warhorn Verdarach.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 945,
+"min_power": 855,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Warhorn"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F45DECF538174C6F582F0E5BCF484749A7B00EB0/1999149.png",
+"id": 87764,
+"level": 80,
+"name": "Call of the Void",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgH8VwEA]",
+"description": "Used to craft the legendary warhorn the Verdarach.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1E4C0192BEFB10380C91675D65DB07AAD5A192D3/1999145.png",
+"id": 88060,
+"level": 0,
+"name": "Gift of Verdarach",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgG0WQEA]",
+"description": "Used to craft the legendary scepter Xiuquatl.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05622A45BE62CB2A410F061D9D4D287F99FDFF00/2038675.png",
+"id": 88500,
+"level": 0,
+"name": "Gift of Xiuquatl",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgETWwEA]",
+"default_skin": 8341,
+"description": "<c=@flavor>This weapon is used to craft the legendary scepter Xiuquatl.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Scepter"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/942B656D53FCB415C42B659002A673AD0572B2C4/2038679.png",
+"id": 88851,
+"level": 80,
+"name": "Tlehco",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgFlXQEA]",
+"description": "Used to craft the legendary longbow Pharus.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4C54E70C4B19CF4F10587E4840152E0F052155D9/2083164.png",
+"id": 89445,
+"level": 0,
+"name": "Gift of Pharus",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEeXwEA]",
+"default_skin": 8600,
+"description": "<c=@flavor>This weapon is used to craft the legendary longbow Pharus.</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1134,
+"min_power": 966,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "LongBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/604FF1B55057909660B316047EBBD9C074C002AC/2083167.png",
+"id": 89886,
+"level": 80,
+"name": "Spero",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgEDYwEA]",
+"default_skin": 8692,
+"description": "<c=@flavor>This weapon is used to craft the legendary greatsword Exordium.</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C4A2134321B7AA3A8EE95E72A55E99DE6017268/2140502.png",
+"id": 90883,
+"level": 80,
+"name": "Exitare",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgENYwEA]",
+"description": "Used to craft the legendary greatsword Exordium.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F9EBDC70DE7B1AFB0E03F10B3BB20063E693FC6E/2140498.png",
+"id": 90893,
+"level": 0,
+"name": "Gift of Exordium",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=71426,71820,71972,73239,74068,74300,76399,77086,78425,78627,79419,79570,79836,79839,81022,81144,81634,81684,81812,82003,86036,87037,87115,87764,88060,88500,88851,89445,89886,90883,90893"
+}

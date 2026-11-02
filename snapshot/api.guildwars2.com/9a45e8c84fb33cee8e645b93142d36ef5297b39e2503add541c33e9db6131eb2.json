@@ -1,0 +1,1595 @@
+{
+"body": [
+{
+"chat_link": "[&AgGlTAAA]",
+"description": "A gift of metal used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a weaponsmith rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FADDF94DAD6721344F300405E725AC2624330339/455802.png",
+"id": 19621,
+"level": 0,
+"name": "Gift of Metal",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGmTAAA]",
+"description": "A gift of wood used to create generation one and two legendary weapons and the legendary back item Ad Infinitum.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a huntsman rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/91EF4868635BF9DDB2DBB0D51C2E7AC909DB1465/455803.png",
+"id": 19622,
+"level": 0,
+"name": "Gift of Wood",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGnTAAA]",
+"description": "A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3D0EF516072931651F7F430B0C6BD8D6FE38E1C7/455804.png",
+"id": 19623,
+"level": 0,
+"name": "Gift of Energy",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHcTAAA]",
+"description": "Used to create legendary weapon and trinket gift items.\n\nPurchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AB22A149E9B807AA726CC6B1D7D0435A840A300/455856.png",
+"id": 19676,
+"level": 0,
+"name": "Icy Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 1250
+},
+{
+"chat_link": "[&AgEITgAA]",
+"description": "Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. \nPart of Zommoros's favorite trades.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+"id": 19976,
+"level": 0,
+"name": "Mystic Coin",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE9UQAA]",
+"description": "A shard of pure power used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D9F626FA79AA0C49436337B1C767023CCF14EFF9/434426.png",
+"id": 20797,
+"level": 0,
+"name": "Bloodstone Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEMswAA]",
+"description": "Used to craft torches.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D105E4101C4AE806C2E3B31F1BF0A62198762002/631175.png",
+"id": 45836,
+"level": 0,
+"name": "Spiritwood Torch Handle",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEOswAA]",
+"description": "Used to craft torches.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3EC224A35EEBF24D460D2EA5669B5D3CEDD1AC5E/631177.png",
+"id": 45838,
+"level": 0,
+"name": "Deldrimor Steel Torch Head",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEPswAA]",
+"description": "Used to craft warhorns.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B62143F6C2D19C559FAB7DCAB956CF0F7BF9B0D0/631178.png",
+"id": 45839,
+"level": 0,
+"name": "Deldrimor Steel Horn",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEQswAA]",
+"description": "Used to craft warhorns.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DC93D14595ACAA4322A1EA5966ADA94C92B4D90E/631179.png",
+"id": 45840,
+"level": 0,
+"name": "Deldrimor Steel Warhorn Mouthpiece",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgERswAA]",
+"description": "Used to craft longbows.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BB0F47A3E650B2E3B7AAC38501D6942D69462B2/631180.png",
+"id": 45841,
+"level": 0,
+"name": "Spiritwood Longbow Stave",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEUswAA]",
+"description": "Used to craft bows.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A443EA99354F5F5CD635CBED016F7469056598EC/631183.png",
+"id": 45844,
+"level": 0,
+"name": "Elonian String",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEWswAA]",
+"description": "Used to craft daggers.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1196910FABD4C4183D350A6D5FE4A72F68FE5B49/631185.png",
+"id": 45846,
+"level": 0,
+"name": "Deldrimor Steel Dagger Blade",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEXswAA]",
+"description": "Used to craft greatswords.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62633E46275C43C265943E4AD443160227AE38BA/631186.png",
+"id": 45847,
+"level": 0,
+"name": "Deldrimor Steel Greatsword Blade",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEYswAA]",
+"description": "Used to craft swords.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/255FD4C5FF3F716B0B9929E3457BC403B1A75EC8/631187.png",
+"id": 45848,
+"level": 0,
+"name": "Deldrimor Steel Sword Blade",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEZswAA]",
+"description": "Used to craft hammers and spears.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/433CF4DA76C544E8013DF73E6D1ABDEFC91666F8/631188.png",
+"id": 45849,
+"level": 0,
+"name": "Large Spiritwood Haft",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEaswAA]",
+"description": "Used to craft axes and maces.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08C435556E659AC8C9781C0E702A57DD42AF94F8/631189.png",
+"id": 45850,
+"level": 0,
+"name": "Small Spiritwood Haft",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEbswAA]",
+"description": "Used to craft hammers.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A2D392AED121FA5CD1AC14DE0E50F15FC93B4513/631190.png",
+"id": 45851,
+"level": 0,
+"name": "Deldrimor Steel Hammer Head",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEcswAA]",
+"description": "Used to craft maces.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/15E0AAD6062F943A5FC777F834FB6E1EE74D3C05/631191.png",
+"id": 45852,
+"level": 0,
+"name": "Deldrimor Steel Mace Head",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEeswAA]",
+"description": "Used to craft daggers.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/047A9DE714050BAFFE49B2C56920E898AC0668F9/631193.png",
+"id": 45854,
+"level": 0,
+"name": "Deldrimor Steel Dagger Hilt",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEfswAA]",
+"description": "Used to craft greatswords.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BEBE00D6E80D1CC64606099B633D275F3EF55B7C/631194.png",
+"id": 45855,
+"level": 0,
+"name": "Deldrimor Steel Greatsword Hilt",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEgswAA]",
+"description": "Used to craft swords.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7FDA0C27169FF5CC4B46903729465F1D4807429B/631195.png",
+"id": 45856,
+"level": 0,
+"name": "Deldrimor Steel Sword Hilt",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEhswAA]",
+"description": "Used to craft shields.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AD9F0305DC3391F367D12B1DC65EF77E2FBE00BE/631196.png",
+"id": 45857,
+"level": 0,
+"name": "Deldrimor Steel Shield Backing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEiswAA]",
+"description": "Used to craft shields.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AC43909F49B164B302127F4C9434104D99EB97D0/631197.png",
+"id": 45858,
+"level": 0,
+"name": "Deldrimor Steel Shield Boss",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE9swAA]",
+"description": "Used to craft scepters.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F938213B20FCBB6769A0B0DB6BB19E22CDF47F56/631200.png",
+"id": 45885,
+"level": 0,
+"name": "Spiritwood Scepter Core",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE+swAA]",
+"description": "Used to craft scepters.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E22BAE5A3A94A036DC4A5E54F805ED07D9D2A862/631201.png",
+"id": 45886,
+"level": 0,
+"name": "Spiritwood Scepter Rod",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFbtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09B8304C6AEE96A6C25DA57BFA03EBFCC66A0B60/631470.png",
+"id": 46683,
+"level": 0,
+"name": "Crystalline Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgHTFAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Fangs\n• 1 Gift of Scales\n• 1 Gift of Claws\n•1 Gift of Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CCA4C2F8AF79D2EB0CFF381E3DDA3EA792BA7412/1302180.png",
+"id": 70867,
+"level": 0,
+"name": "Gift of Condensed Might",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEFFgEA]",
+"description": "Used to craft the Gift of Nevermore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/421AD90DC558C70FF90ACCDC416A50D6C06C72DF/1205432.png",
+"id": 71173,
+"level": 0,
+"name": "Gift of the Raven Spirit",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGTGQEA]",
+"description": "Used to craft the Gift of Astralaria.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/60D4AF2A5DBA6437BA12055625439A04CF965353/1204424.png",
+"id": 72083,
+"level": 0,
+"name": "Gift of the Cosmos",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFXGwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF35BA5AD44BCE3A22AC32B60C6544A3D80F5150/1302188.png",
+"id": 72535,
+"level": 0,
+"name": "Advanced Ammunition Cylinder",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEUHAEA]",
+"description": "Used to craft Zap and The Mechanism.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1B02E7FB523DAF2F4C56F1942379D22177A36FC1/1204482.png",
+"id": 72724,
+"level": 0,
+"name": "Engraver's Tools",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHmHAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/27150FA5227AF20FC690A6D30E65483D5435419D/1205277.png",
+"id": 72934,
+"level": 0,
+"name": "Essence of the Wild Spirit",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEEHQEA]",
+"description": "In the Mystic Forge, combine a Gift of Maguuma, a Gift of Insights, a Bloodstone Shard, and 250 Crystalline Ingots to create the Gift of Maguuma Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2A69405FC152ECB3B638920FE808F23B232E7052/1205279.png",
+"id": 72964,
+"level": 0,
+"name": "Gift of Insights",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEyHgEA]",
+"description": "Salvaged from the Ravenswood Staff.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C5E1756C20DE5137EE527CFF5C9CA10735F6F480/1302299.png",
+"id": 73266,
+"level": 0,
+"name": "Spirit of the Ravenswood Staff",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGGIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D40456C66EF0D35107DEAF542F75B24EB99EFE31/1302295.png",
+"id": 74118,
+"level": 0,
+"name": "Raven Statue",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHZIgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E560F15920B232F2C3E81E5FFFFE722DC4E04C08/1205284.png",
+"id": 74457,
+"level": 0,
+"name": "Essence of Time and Space",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH8IgEA]",
+"description": "Salvaged from The Apparatus.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/784D467BBFE501A8619DA6EB25DA96EB9A284ACA/1302142.png",
+"id": 74492,
+"level": 0,
+"name": "Spirit of The Apparatus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEyJAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B0F3BE8CF365BFB793AC5D06A1AB901C8B0023C/1302225.png",
+"id": 74802,
+"level": 0,
+"name": "Finely Tuned Firing Pin",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGvJAEA]",
+"description": "In the Mystic Forge, combine a Gift of Maguuma, a Gift of Insights, a Bloodstone Shard, and 250 Crystalline Ingots to create the Gift of Maguuma Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/449E096655CA3910097D2DD997EA6B0C6F1898D9/1204965.png",
+"id": 74927,
+"level": 0,
+"name": "Gift of Maguuma",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFFJgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95D3E102CC1ECA04C3BB4F8094B9B55928B3A7E3/1302117.png",
+"id": 75333,
+"level": 0,
+"name": "Balanced Counterweight",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEzKQEA]",
+"description": "Salvaged from Development.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23CCD4E76C1270FDF21DE398AD4A1D065EF7FE0C/1302278.png",
+"id": 76083,
+"level": 0,
+"name": "Spirit of Development",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGLKgEA]",
+"description": "In the Mystic Forge, combine a Gift of Battle, a Gift of Glory, a Gift of War, and a Cube of Stabilized Dark Energy to create the Gift of the Mists.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/02A006B49750920132E0F4BD0901F0FF9ABA07B9/1205258.png",
+"id": 76427,
+"level": 0,
+"name": "Gift of the Mists",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGaKgEA]",
+"description": "Used to craft the Gift of HOPE.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B5D70911417194E01D4BE78065505398EC7D47C6/1204971.png",
+"id": 76442,
+"level": 0,
+"name": "Gift of the Catalyst",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHyKgEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Blood\n• 1 Gift of Venom\n• 1 Gift of Totems\n• 1 Gift of Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09F42753049B20A54F6017B1F26A9447613016FE/1302179.png",
+"id": 76530,
+"level": 0,
+"name": "Gift of Condensed Magic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgErKwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0126C8653A039F0437463E2B436E925B1C7C2BC5/1204792.png",
+"id": 76587,
+"level": 0,
+"name": "Rune Carving Tools",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEaLQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A908046767037FA6970E4D6EF9C7BC0BA4229080/1205256.png",
+"id": 77082,
+"level": 0,
+"name": "Essence of Anomaly",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEnMQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/27150FA5227AF20FC690A6D30E65483D5435419D/1205277.png",
+"id": 78119,
+"level": 0,
+"name": "Spirit of the Tiger",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEGMgEA]",
+"description": "Salvaged from the Ambush.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B04C600C2E272EE28CD0CEF444F3162F2D7B3B8/1424032.png",
+"id": 78342,
+"level": 0,
+"name": "Spirit of the Ambush",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEIMgEA]",
+"description": "Used to craft the Gift of Chuka and Champawat.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BA52F5486D69D8B7E0E1374A37BCFC779E6ACEAB/1423953.png",
+"id": 78344,
+"level": 0,
+"name": "Gift of Family",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGLMgEA]",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/301D94494419084A6F1C6AAC77DBAFD23D0B454A/1424036.png",
+"id": 78475,
+"level": 0,
+"name": "Visage of Chuka",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEyMwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/96723341ECC19BF1F49A2A96BD07415190C027A4/1424039.png",
+"id": 78642,
+"level": 0,
+"name": "Visage of Champawat",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE6NgEA]",
+"description": "Used in the Mystic Forge to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04296A0273A1DB6866E5180B73F5A3E59E2A0C95/1493223.png",
+"id": 79418,
+"level": 0,
+"name": "Mystic Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgFVNgEA]",
+"description": "Used to craft the legendary mace precursor Endeavor.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Eureka.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/506368762F7DE438C2BA07A04E7F94AA4FA7C866/1493224.png",
+"id": 79445,
+"level": 0,
+"name": "Shard of Endeavor",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgGoNwEA]",
+"description": "Used to craft the legendary-shield precursor, Friendship.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Shooshadoo.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D0BB3ECB9D057EF7430480956315053EC990090C/1601438.png",
+"id": 79784,
+"level": 0,
+"name": "Shard of Friendship",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgF3OgEA]",
+"description": "Used in the crafting of weapons with the potential to become Legend.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0157605EB6E9272D03242B31E0DA2424CCB23A6D/1634116.png",
+"id": 80503,
+"level": 10,
+"name": "Visionary Inscription",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgGbPAEA]",
+"description": "Used to craft the legendary torch precursor Liturgy.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Balthazar.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2A9F624253FC35DFBEC3CADCFF13CF65219DF503/1676634.png",
+"id": 81051,
+"level": 0,
+"name": "Shard of Liturgy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgEpQAEA]",
+"description": "Used to craft the legendary-sword precursor, Save the Queen.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Blade.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/602A46681701E8E9BF08E7F59FE4BE2BDB2E2BD0/1729771.png",
+"id": 81961,
+"level": 0,
+"name": "Shard of the Crown",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgGVQAEA]",
+"description": "Used to craft the legendary hammer precursor Might of Arah.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal , and a Gift of the Mists to create the Gift of Arah.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/71C85A60DAC4B7DD0563A8A680483D7DE4661445/1729255.png",
+"id": 82069,
+"level": 0,
+"name": "Shard of Arah",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgF/TgEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/39280A6342D79BDF657A49E7CBABF0DF26A5F628/1894678.png",
+"id": 85631,
+"level": 0,
+"name": "Gift of the Desert",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFNUAEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18E7F86FAFFA1FEBB53E0101C4F807724B7709BA/1894675.png",
+"id": 86093,
+"level": 0,
+"name": "Funerary Incense",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE6UQEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9E0761140A5609C4161130C5BB4FC44C1E69A338/1894682.png",
+"id": 86330,
+"level": 0,
+"name": "Gift of the Rider",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH3UwEA]",
+"description": "Used to craft the legendary dagger precursor Claw of Resolution.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of the Four Legions.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/503724D7549A25CE550717F7FB2BE2F53CA6B261/1947149.png",
+"id": 87031,
+"level": 0,
+"name": "Shard of Resolution",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgGfVgEA]",
+"description": "Used to craft the legendary warhorn precursor Call of the Void.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Verdarach.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/97274096BEE3353A0D4B1514C911BFDDD5A318B6/1999150.png",
+"id": 87711,
+"level": 0,
+"name": "Shard of Call of the Void",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgGiWgEA]",
+"description": "Used to craft the legendary scepter precursor Tlehco.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Energy, and a Gift of the Mists to create the Gift of Xiuquatl.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E26DC9081660AD0A21A47F0ECB0156E1C0273BB8/2038681.png",
+"id": 88738,
+"level": 0,
+"name": "Shard of Tlehco",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgFbXwEA]",
+"description": "Used to craft the legendary longbow precursor Spero.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Wood, and a Gift of the Mists to create the Gift of Pharus.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C30D43491455391048047E1A0DC351CFF4093B37/2083169.png",
+"id": 89947,
+"level": 0,
+"name": "Shard of Spero",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+},
+{
+"chat_link": "[&AgEWYQEA]",
+"description": "Used to craft the legendary greatsword precursor Exitare.\nCombine in the Mystic Forge with Mystic Runestones, a Gift of Metal, and a Gift of the Mists to create the Gift of Exordium.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E740F411F24FA808A7DE0305D02D4F01E647BD0E/2140503.png",
+"id": 90390,
+"level": 0,
+"name": "Shard of Exitare",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 83
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19621,19622,19623,19675,19676,19976,20797,45836,45838,45839,45840,45841,45844,45846,45847,45848,45849,45850,45851,45852,45854,45855,45856,45857,45858,45885,45886,46683,70867,71173,72083,72535,72724,72934,72964,73266,74118,74457,74492,74802,74927,75333,76083,76427,76442,76530,76587,77082,78119,78342,78344,78475,78642,79418,79445,79784,80503,81051,81961,82069,85631,86093,86330,87031,87711,88738,89947,90390"
+}

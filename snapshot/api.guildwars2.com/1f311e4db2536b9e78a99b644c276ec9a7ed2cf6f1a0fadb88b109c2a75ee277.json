@@ -1,0 +1,33 @@
+{
+"body": [
+{
+"chat_link": "[&AgF3sAAA]",
+"description": "Double-click to gain 10 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BF5D192EE5DAF97A7F4090461C450DA00F8FFAC/631148.png",
+"id": 45175,
+"level": 0,
+"name": "Fine Essence of Luck",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=45175"
+}
