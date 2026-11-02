@@ -5,6 +5,11 @@ on:
     - cron: '17 4 * * 3'   # weekly build, Wednesday 04:17 UTC (after Tuesday game updates)
     - cron: '43 5 * * *'   # daily retry: only builds if latest pack is old or was stale
   workflow_dispatch:
+    inputs:
+      publish:
+        description: 'Publish to the latest release (off = dry run: pack only as a run artifact)'
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ['tools/**', 'config/**', 'schema/**']
@@ -20,6 +25,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-24.04
+    timeout-minutes: 350   # under GitHub's 6 h job cap; the snapshot step still commits what was fetched
+    env:
+      # Scheduled/push runs publish only once the owner turns on repo variable AUTO_PUBLISH=true
+      # (after the first live pack is reviewed). Manual runs: the 'publish' input.
+      PUBLISH: ${{ github.event_name == 'workflow_dispatch' && inputs.publish || vars.AUTO_PUBLISH == 'true' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -29,6 +39,13 @@ jobs:
 
       - name: Test
         run: pip install pytest && pytest -q tests
+
+      - name: Probe wiki API
+        run: |
+          curl -sS -m 30 -A "legendary-crafting-guide-data pack generator (github.com/realpigshady/legendary-crafting-guide-data)" \
+            -o probe.json -w "HTTP %{http_code} %{content_type}\n" \
+            "https://wiki.guildwars2.com/api.php?action=query&meta=siteinfo&format=json" || true
+          head -c 300 probe.json; echo
 
       - name: Fetch previous pack
         env:
@@ -65,8 +82,16 @@ jobs:
           git add snapshot
           git diff --cached --quiet || { git commit -m "snapshot: $(date -u +%F)" && git push; }
 
+      - name: Upload pack for review
+        if: always() && steps.gate.outputs.run == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: pack
+          path: dist/
+          if-no-files-found: ignore
+
       - name: Publish
-        if: success() && steps.gate.outputs.run == 'true'
+        if: success() && steps.gate.outputs.run == 'true' && env.PUBLISH == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -77,7 +102,7 @@ jobs:
           gh release create latest dist/pack.json dist/pack.json.sha256 --title "latest" --notes "Points to $TAG" --latest
 
       - name: Flag new legendaries
-        if: success() && hashFiles('dist/new_legendaries.txt') != ''
+        if: success() && env.PUBLISH == 'true' && hashFiles('dist/new_legendaries.txt') != ''
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh issue create --title "New legendaries detected" --body-file dist/new_legendaries.txt || true

@@ -151,7 +151,13 @@ class Http:
             for attempt in range(4):
                 try:
                     with urllib.request.urlopen(req, timeout=30) as r:
-                        return json.loads(r.read().decode("utf-8"))
+                        raw = r.read().decode("utf-8", errors="replace")
+                        try:
+                            return json.loads(raw)
+                        except json.JSONDecodeError:
+                            # a maintenance page or bot check instead of the API: say what came back
+                            snippet = " ".join(raw[:200].split())
+                            raise ValueError(f"HTTP {r.status} {r.headers.get('Content-Type', '?')}, not JSON: {snippet!r}") from None
                 except Exception as e:  # noqa: BLE001 - retry any transport error
                     if attempt == 3:
                         raise
