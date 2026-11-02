@@ -120,7 +120,7 @@ class Http:
             return 0
         removed = 0
         for p in self.dir.rglob("*.json"):
-            if p == self._index_path or p.relative_to(self.dir).parts[0] == "wiki-pages":
+            if p == self._index_path or p.name == "item-flags.json" or p.relative_to(self.dir).parts[0] == "wiki-pages":
                 continue   # wiki-pages/ belongs to the PageStore (revision-checked, not URL-keyed)
             key = self._key(p)
             if key not in self._used:
@@ -232,18 +232,28 @@ def match_family(family: dict, category: set[str], api_names: set[str],
 
 
 def untradeable_ids(http: Http, ids: list[int]) -> set[int]:
-    """Items the Trading Post can't have (account bound / soulbound on acquire)."""
+    """Items the Trading Post can't have (account bound / soulbound on acquire).
+
+    Flags are also kept per item in snapshot/item-flags.json: the batches asked for depend
+    on how far the walk got, so a URL-keyed snapshot alone misses them when the API is down."""
+    path = http.dir / "item-flags.json"
+    known: dict[str, bool] = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    before = dict(known)
     out: set[int] = set()
-    for i in range(0, len(ids), 200):
-        part = sorted(set(ids[i:i + 200]))
+    want = sorted(set(ids))
+    for i in range(0, len(want), 200):
+        part = want[i:i + 200]
         try:
             items = http.get_json(f"{GW2_API}/v2/items?ids={','.join(map(str, part))}", max_age_h=24 * 7)
         except SourceDown:
-            continue
+            items = []
         for it in items if isinstance(items, list) else []:
-            flags = set(it.get("flags", []))
-            if flags & {"AccountBound", "SoulbindOnAcquire"}:
-                out.add(it["id"])
+            known[str(it["id"])] = bool(set(it.get("flags", [])) & {"AccountBound", "SoulbindOnAcquire"})
+    for i in want:
+        if known.get(str(i)):
+            out.add(i)
+    if known != before:
+        path.write_text(json.dumps(dict(sorted(known.items(), key=lambda kv: int(kv[0]))), indent=0) + "\n", encoding="utf-8")
     return out
 
 

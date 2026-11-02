@@ -84,6 +84,22 @@ jobs:
           [ -f prev/pack.json ] && ARGS="$ARGS --previous prev/pack.json"
           python tools/build_pack.py $ARGS
 
+      # The snapshot is the fallback when the wiki or API is down: rebuilding from it alone
+      # must give the same pack, or an outage would publish a cut-down one.
+      - name: Offline rebuild matches
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python tools/build_pack.py --offline --out dist-offline
+          python - <<'EOF'
+          import json, sys
+          a, b = (json.load(open(f"{d}/pack.json")) for d in ("dist", "dist-offline"))
+          key = lambda p: (sorted(l["id"] for l in p["legendaries"]), sorted(json.dumps(n, sort_keys=True) for n in p["nodes"]))
+          la, lb = len(a["legendaries"]), len(b["legendaries"])
+          print(f"live: {la} legendaries, {len(a['nodes'])} nodes; offline: {lb}, {len(b['nodes'])}")
+          if key(a) != key(b):
+              print("::error::offline rebuild differs from the live pack: the snapshot is incomplete"); sys.exit(1)
+          EOF
+
       # Keep every successful fetch, even if the build later fails, so the next
       # run (or an outage) has the freshest possible fallback.
       - name: Commit snapshot

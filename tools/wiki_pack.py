@@ -176,7 +176,11 @@ class PageStore:
         self.fresh = 0
         self.requests = 0
         self.bytes = 0
-        self.redirects: dict[str, str] = {}
+        # redirects are kept too: offline, a title that was a redirect must still find its page
+        self._redirects_path = self.dir / "_redirects.json"
+        self.redirects: dict[str, str] = (
+            json.loads(self._redirects_path.read_text(encoding="utf-8")) if self._redirects_path.exists() else {})
+        self._redirects_saved = dict(self.redirects)
 
     def _path(self, title: str) -> Path:
         return self.dir / (hashlib.sha256(title.encode()).hexdigest()[:32] + ".json")
@@ -236,6 +240,9 @@ class PageStore:
             final[t] = f
             if f != t:
                 self.redirects[t] = f
+        if self.redirects != self._redirects_saved:
+            self._redirects_path.write_text(json.dumps(self.redirects, ensure_ascii=False, sort_keys=True, indent=0), encoding="utf-8")
+            self._redirects_saved = dict(self.redirects)
         revs = {p["title"]: p.get("lastrevid", 0) for p in info.get("pages", []) if not p.get("missing") and not p.get("invalid")}
         have = {f: self._load(f) for f in set(final.values()) if f in revs}
         changed = [f for f in revs if not have.get(f) or have[f].revid != revs[f]]
