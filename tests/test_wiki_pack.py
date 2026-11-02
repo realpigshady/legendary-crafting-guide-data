@@ -156,3 +156,5 @@ def test_match_family_titles_against_category_and_api():
     assert warn == ["Gone: not in Category:Legendary weapons"]
     got, warn = bp.match_family({"wiki_category": "x"}, cat, {"Bolt"})
     assert got == {"Bolt": "Bolt"} and warn == []
+    got, warn = bp.match_family(fam, cat, api | {"Gone Again"}, lambda t: "Gone Again" if t == "Gone" else None)
+    assert got["Gone Again"] == "Gone Again" and warn == []

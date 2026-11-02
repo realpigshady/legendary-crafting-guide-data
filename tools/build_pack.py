@@ -120,8 +120,8 @@ class Http:
             return 0
         removed = 0
         for p in self.dir.rglob("*.json"):
-            if p == self._index_path:
-                continue
+            if p == self._index_path or p.relative_to(self.dir).parts[0] == "wiki-pages":
+                continue   # wiki-pages/ belongs to the PageStore (revision-checked, not URL-keyed)
             key = self._key(p)
             if key not in self._used:
                 p.unlink()
@@ -206,19 +206,21 @@ def family_members(http: Http, family: dict) -> set[str]:
         cont = {"cmcontinue": res["continue"]["cmcontinue"]}
 
 
-def match_family(family: dict, category: set[str], api_names: set[str]) -> tuple[dict[str, str], list[str]]:
+def match_family(family: dict, category: set[str], api_names: set[str],
+                 resolve=lambda title: None) -> tuple[dict[str, str], list[str]]:
     """Wiki title -> API item name for the family's members, plus warnings.
 
     Without wiki_titles every category member that is a legendary item counts. With them
     (the wiki has one category for all weapon generations) only those titles count; each is
-    matched to the category and the API ignoring case and punctuation (HOPE vs H.O.P.E.)."""
+    matched to the category and the API ignoring case and punctuation (HOPE vs H.O.P.E.);
+    a title not in the category is looked up directly (``resolve`` follows redirects)."""
     api = {_norm(n): n for n in api_names}
     if "wiki_titles" not in family:
         return {t: api[_norm(t)] for t in category if _norm(t) in api}, []
     cat = {_norm(t): t for t in category}
     out, warn = {}, []
     for want in family["wiki_titles"]:
-        title = cat.get(_norm(want))
+        title = cat.get(_norm(want)) or resolve(want)
         if not title:
             warn.append(f"{want}: not in {family['wiki_category']}")
             continue
@@ -274,7 +276,13 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     for fam_id, fam in CONFIG["families"].items():
         if not fam.get("enabled", False):
             continue
-        matched, miss = match_family(fam, family_members(http, fam), set(by_name))
+        def resolve(title: str) -> str | None:
+            try:
+                page = store.pages([title]).get(title)
+            except wp.WikiDown:
+                return None
+            return page.title if page else None
+        matched, miss = match_family(fam, family_members(http, fam), set(by_name), resolve)
         warnings += [f"{fam_id}: {w}" for w in miss]
         for w in miss:
             print(f"  {fam_id}: {w}", file=sys.stderr)
