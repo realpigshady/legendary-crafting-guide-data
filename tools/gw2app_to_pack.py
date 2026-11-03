@@ -235,6 +235,19 @@ def main() -> None:
         import event_timers as etm
         events = etm.load_stored(a.snapshot)
         print(f"event timers: {etm.apply(activities, events) if events else 0} of {len(activities)} activities timed from the wiki")
+        cat_path = a.snapshot / "activity-catalog.json"
+        if cat_path.exists():   # the full wiki activity catalog (built by build_pack)
+            have = {x["id"] for x in activities}
+            added = 0
+            for act in json.loads(cat_path.read_text(encoding="utf-8")):
+                if act["id"] in have:
+                    continue
+                act = dict(act, yields=[y for y in act["yields"] if y["node_id"] in nodes])
+                activities.append(act)
+                added += 1
+                for y in act["yields"]:
+                    nodes[y["node_id"]]["sources"].append({"kind": "activity", "inputs": [], "activity_id": act["id"]})
+            print(f"wiki activity catalog: {added} activities added")
     pack = {"format_version": 1, "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
             "sample": True,
             "_note": "LOCAL TEST PACK built from an interim gw2.app export while the GW2 wiki is down. Never published. "

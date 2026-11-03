@@ -31,6 +31,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki_pack as wp  # noqa: E402
 import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
+import activity_catalog as acat  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -124,7 +125,7 @@ class Http:
             return 0
         removed = 0
         for p in self.dir.rglob("*.json"):
-            if p == self._index_path or p.name == "item-flags.json" or p.relative_to(self.dir).parts[0] in ("wiki-pages", "wiki-sources"):
+            if p == self._index_path or p.name in ("item-flags.json", "activity-catalog.json") or p.relative_to(self.dir).parts[0] in ("wiki-pages", "wiki-sources"):
                 continue   # wiki-pages/ belongs to the PageStore (revision-checked, not URL-keyed)
             key = self._key(p)
             if key not in self._used:
@@ -366,15 +367,48 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 "weapon_type": item.get("details", {}).get("type"),
             })
 
-    act_list = sorted(acts.values(), key=lambda a: a["id"])
     try:
         events = etm.load(store)
     except wp.WikiDown:
         events = None
-    timed = etm.apply(act_list, events) if events else 0
     if not events:
-        warnings.append("event timers: wiki data unavailable, metas have no run length")
-    print(f"event timers: {timed} of {len(act_list)} activities timed")
+        warnings.append("event timers: wiki data unavailable, timed events missing from the catalog")
+    try:
+        catalog = acat.build(events, smw)
+    except wsrc.WikiSourcesDown as e:
+        raise SourceDown(str(e)) from e
+    # full catalog for other packs (test pack): every activity, every guaranteed yield
+    (http.dir / "activity-catalog.json").write_text(
+        json.dumps([{k: v for k, v in a.items() if k != "_page"} for a in catalog], ensure_ascii=False, sort_keys=True, indent=0) + "\n",
+        encoding="utf-8")
+    # one activity per wiki page: places found from item rewards fold into the catalog's entry
+    by_page = {a["_page"].lower(): a for a in catalog}
+    rename = {}
+    for a in acts.values():
+        c = by_page.get(a["name"].split(" (")[0].lower())
+        if c:
+            rename[a["id"]] = c["id"]
+            for y in a["yields"]:
+                if not any(z["node_id"] == y["node_id"] for z in c["yields"]):
+                    c["yields"].append(y)
+    final = {a["id"]: a for a in acts.values() if a["id"] not in rename}
+    for a in catalog:
+        a = {k: v for k, v in a.items() if k != "_page"}
+        a["yields"] = [y for y in a["yields"] if y["node_id"] in nodes]   # only what this pack's trees use
+        final[a["id"]] = a
+    for n in nodes.values():
+        for src in n["sources"]:
+            if src.get("activity_id") in rename:
+                src["activity_id"] = rename[src["activity_id"]]
+        n["sources"] = [x for i, x in enumerate(n["sources"]) if x not in n["sources"][:i]]
+    for a in final.values():
+        for y in a["yields"]:
+            srcs = nodes[y["node_id"]]["sources"]
+            if not any(x.get("activity_id") == a["id"] for x in srcs):
+                srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
+    act_list = sorted(final.values(), key=lambda a: a["id"])
+    timed_n = sum(1 for a in act_list if a.get("est_minutes"))
+    print(f"activities: {len(act_list)} ({timed_n} timed, {sum(1 for a in act_list if a['yields'])} with yields for these trees)")
     pack = {
         "format_version": FORMAT_VERSION,
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),

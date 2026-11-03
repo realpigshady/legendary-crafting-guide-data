@@ -24,3 +24,17 @@ def test_apply_by_id_and_by_map_name():
     assert acts[0]["est_minutes"] == 20 and "every 120 min" in acts[0]["guidance"]["text"]
     assert acts[1]["est_minutes"] == 20 and "every 60 min" in acts[1]["guidance"]["text"]
     assert acts[2]["est_minutes"] == 30 and "guidance" not in acts[2]       # not a timed meta: untouched
+
+
+def test_catalog_has_every_phase():
+    import activity_catalog as ac
+    acts = ac.timed(EV)
+    ids = {a["id"] for a in acts}
+    assert not any("dn:" in i for i in ids)                                  # day/night bars skipped
+    named = {(k, s.get("name")) for k, m in EV.items() if not ac.SKIP_MAPS.search(m.get("name", "")) and m.get("name")
+             for s in m["segments"].values() if s.get("name")}
+    assert len(acts) >= len(named) - 5                                      # every named phase (phases only in unused slots aside)
+    wb = [a for a in acts if a["id"].startswith("evt:core-wb:")]
+    assert len(wb) >= 10 and all(a["est_minutes"] > 0 and a["starts_utc"] for a in wb)
+    oct_ = next(a for a in acts if a["id"] == "evt:hot-ab:battle_in_tarir_octovine")
+    assert oct_["est_minutes"] == 20 and "every 120 min" in oct_["guidance"]["text"]
