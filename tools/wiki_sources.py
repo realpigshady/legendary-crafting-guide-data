@@ -70,10 +70,14 @@ def _q_locations(types: list[str]) -> str:     # every location page of these ty
             "|?Has location type|?Has canonical name|?Located in|?Is historical")
 
 
-QUERIES = {"vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
+def _q_category(cats: list[str]) -> str:       # every page in these categories
+    return "[[" + "||".join(cats) + "]]|?Category|?Has location type|?Has canonical name|?Located in|?Is historical"
+
+
+QUERIES = {"category": _q_category, "vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
            "rewards_of": _q_rewards_of, "locations": _q_locations}
 # which printout names the item a row is about
-ROW_ITEM = {"vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
+ROW_ITEM = {"category": "Category", "vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
             "rewards_of": "Rewarded by", "locations": "Has location type"}
 
 
