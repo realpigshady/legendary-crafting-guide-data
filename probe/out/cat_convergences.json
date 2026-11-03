@@ -1,0 +1,38 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Category:Convergences]]|?Has location type|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "b7210f981c1f1a0016c80c4f7f64f614",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.001344"
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "params": {
+  "action": "query",
+  "list": "allcategories",
+  "acprefix": "Convergence",
+  "aclimit": "20"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "allcategories": [
+    {
+     "category": "Convergence: Outer Nayos"
+    },
+    {
+     "category": "Convergence bosses"
+    }
+   ]
+  }
+ }
+}

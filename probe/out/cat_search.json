@@ -1,0 +1,24 @@
+{
+ "params": {
+  "action": "query",
+  "list": "allcategories",
+  "acprefix": "Strike",
+  "aclimit": "20"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "allcategories": [
+    {
+     "category": "Strike Mission miniatures"
+    },
+    {
+     "category": "Strike Missions"
+    },
+    {
+     "category": "Strike mission bosses"
+    }
+   ]
+  }
+ }
+}
