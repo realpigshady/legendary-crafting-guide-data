@@ -26,7 +26,10 @@ PLACE_TYPES = ["Fractal", "Raid", "Dungeon", "Dragon Response Mission", "Mini-du
                "Guild Puzzle", "Conquest", "Stronghold", "Team Deathmatch", "Push"]
 PVP_TYPES = {"Conquest", "Stronghold", "Team Deathmatch", "Push"}
 # activities filed by category, not location type
-PLACE_CATEGORIES = {"Category:Strike Missions": "Strike mission"}   # convergences: in the event timer
+PLACE_CATEGORIES: dict[str, str] = {}   # strike missions are location type Raid on the wiki; convergences: event timer
+CONTENT = {"Heart of Thorns content": "hot", "Path of Fire content": "pof", "End of Dragons content": "eod",
+           "Secrets of the Obscure content": "soto", "Janthir Wilds content": "jw", "Visions of Eternity content": "voe",
+           "Living World Season 3 content": "hot", "Living World Season 4 content": "pof", "The Icebrood Saga content": "pof"}
 SKIP_MAPS = re.compile(r"day and night", re.I)
 FILLER = re.compile(r"^\s*(reset|prep|preparations?|\(continued\))\s*$", re.I)   # gaps between runs, not activities
 EXPANSION = {"core": "core", "lws2": "core", "public": "core", "festival": "core", "t": "core",
@@ -94,7 +97,7 @@ def places(store: "ws.SourceStore") -> list[dict]:
     rows = []
     for t, rws in store.get("locations", PLACE_TYPES).items():
         rows += rws
-    for cat, rws in store.get("category", list(PLACE_CATEGORIES)).items():
+    for cat, rws in (store.get("category", list(PLACE_CATEGORIES)) if PLACE_CATEGORIES else {}).items():
         for r in rws:
             rows.append({**r, "Has location type": [PLACE_CATEGORIES[cat]]})
     out, seen = [], set()
@@ -108,14 +111,18 @@ def places(store: "ws.SourceStore") -> list[dict]:
         if page.startswith(("Category:", "Template:", "File:")):
             continue
         pvp = bool(set(r.get("Has location type") or []) & PVP_TYPES)
+        cats = {str(c).split(":", 1)[-1] for c in (r.get("Category") or [])}
+        exp = next((v for k, v in CONTENT.items() if k in cats), "core")
+        maps = sorted({m for m in (ws._int(x) for x in (r.get("Has map id") or [])) if m})
         out.append({"id": f"loc:{ws.slug(page)}", "name": (r.get("Has canonical name") or [page])[0], "mode": "pvp" if pvp else "pve",
-                    "expansion": "core", "yields": [],
+                    "expansion": exp, "yields": [], **({"map_ids": maps} if maps else {}),
                     "guidance": {"text": kind + (f" in {where}" if where else "") + " (no run length on the wiki: DRF times it)",
                                  "wiki_url": _url(page)}, "_page": page})
     import collections
     import sys
     counts = collections.Counter(a["guidance"]["text"].split(" (")[0].split(" in ")[0] for a in out)
     print("activity places: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())), file=sys.stderr)
+    print("activity places by expansion: " + ", ".join(f"{k} {v}" for k, v in sorted(collections.Counter(a["expansion"] for a in out).items())), file=sys.stderr)
     for want in PLACE_TYPES + list(PLACE_CATEGORIES.values()):
         if not any(want in k for k in counts):
             print(f"activity places: none of type {want}", file=sys.stderr)
