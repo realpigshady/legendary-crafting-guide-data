@@ -1,0 +1,52 @@
+{
+"fetched": 1793669361.4013908,
+"item": "Guild Puzzle",
+"kind": "locations",
+"rows": [
+{
+"Has canonical name": [
+"Angvar's Trove"
+],
+"Has location type": [
+"Guild Puzzle"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Angvar's Trove"
+],
+"_subject": "Angvar's Trove (guild puzzle)"
+},
+{
+"Has canonical name": [
+"Langmar Estate"
+],
+"Has location type": [
+"Guild Puzzle"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Langmar Estate"
+],
+"_subject": "Langmar Estate (guild puzzle)"
+},
+{
+"Has canonical name": [
+"Proxemics Lab"
+],
+"Has location type": [
+"Guild Puzzle"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Proxemics Lab"
+],
+"_subject": "Proxemics Lab (guild puzzle)"
+}
+]
+}
