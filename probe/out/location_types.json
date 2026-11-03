@@ -1,0 +1,44 @@
+{
+ "params": {
+  "action": "smwbrowse",
+  "browse": "pvalue",
+  "params": "{\"property\": \"Has location type\", \"limit\": 200, \"offset\": 0, \"search\": \"\"}"
+ },
+ "reply": {
+  "query": [
+   "Activity",
+   "Area",
+   "City",
+   "Conquest",
+   "Continent",
+   "Dragon Response Mission",
+   "Dungeon",
+   "Fractal",
+   "Guild Puzzle",
+   "Guild hall",
+   "Homestead",
+   "Instance",
+   "Jumping puzzle",
+   "Landmark",
+   "Mini-dungeon",
+   "Point of Interest",
+   "Push",
+   "Raid",
+   "Region",
+   "Stronghold",
+   "Team Deathmatch",
+   "Vista",
+   "Waypoint",
+   "Zone"
+  ],
+  "query-continue-offset": 0,
+  "version": 1,
+  "meta": {
+   "type": "pvalue",
+   "limit": 200,
+   "count": 24,
+   "isFromCache": false,
+   "queryTime": 0.22308
+  }
+ }
+}
