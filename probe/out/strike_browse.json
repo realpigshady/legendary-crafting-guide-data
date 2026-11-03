@@ -1,0 +1,3899 @@
+{
+ "params": {
+  "action": "browsebysubject",
+  "subject": "Harvest Temple"
+ },
+ "reply": {
+  "query": {
+   "subject": "Harvest_Temple#0##",
+   "data": [
+    {
+     "property": "Has_appearance",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Harvest_Temple.jpg#6##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_area_id",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "1437"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_availability",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Current"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_canonical_name",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Harvest Temple"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_context",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Location"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_loading_screen",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "The_Only_One_loading_screen.png#6##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_location_type",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Raid"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_map_id",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "1437"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Has_sector_id",
+     "dataitem": [
+      {
+       "type": 1,
+       "item": "1881"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Is_historical",
+     "dataitem": [
+      {
+       "type": 4,
+       "item": "f"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Located_in",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Dragon's_End#0##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "Located_in_tree",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Cantha; Dragon's End"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_ASK",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYc01dd9a10c7411ec8157150cd52908e4"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYb64475083db4ac5ee873f74696b39485"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY001f4dd9b94b5c74f0bfafb35eda69c8"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY106bd0231fb4539a37bb0a55389483fc"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY44dcd41ee193e5ca9ce9553a57c99a39"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY5c1f686b517e2edebf9d1da731d25f6d"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY81c737b67dbdfc97f93060d8e31d69bd"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY80dc60be2a05134e51033804e34e00d3"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY000f5e05dc403314e47c4f1148ac63bf"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY208a1a5c232761ce7200ded802714e8a"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY40df867812e194601bc1123d4e2074c2"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY479c1ce32864617aaeac2ae3307c1f9f"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYaf7b20a9ed539464a0d213c5d4f782b8"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY8062d808a23424edca518e328644cc04"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY00dac94c8a648a5da072e022d88778d0"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYfced1094ce69d454a076f0bb27f35977"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY8898a17170563591d53e85e2c6188ed8"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYda57d66907a5c5c4a80a7be838520111"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY13a507d5b187b1b134e233e11e16c605"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY9afe04f5d660c9231435859af2bbcfff"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY62597403a910769f0e6350ff23b02cbc"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYa5016c4f78dcc4b8d08e1b3e83cb95a9"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY7b05ec184825628fd888e96f446e2d67"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYc2544b41867eb017837f49561a182954"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY2d5f079b1c94df7d6024b2e842426ad6"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY19a7cae17cc6f0f6205d3b867f1b97cf"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY6a30d980e902b5f123692b34604a5696"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY7cb3b0da98ab478f75bc0d843e3b35c0"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY1683ec3b59946a7a3ad09f8ffdf3da0e"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY830d02e5a6f39c12b8f376bd22fba977"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY1b67b47e902cd071d605d3bb76d9bd1f"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYcefa6615e5eceb0b0e29b3ed76762f1d"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY028f2d37a56a67c51f9aef3e4eb35031"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY329275f00a340dce7ffc06df6930e58b"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYae00fd8fc4368e2cafda5c46d37f04e4"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY2685b94abca4df5f65e2a3c6df0cf431"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY4dbef0a1b552d03ef0d0a6128cadcff4"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYe915ab53b50d76a3e9c1a60d391e8b16"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY6a496af2ac9cba0a1575e0206a9e1e73"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYc0b8a8132df36224dffe0936dfa3e171"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYb6965dee818f4ed69021ffc2eed71baa"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY920f1c9df4919a0193c8f24407de2614"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY2ea5eb94dd5143d3447f3dc7d93aa890"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY8e41b94ee2d68b96a3a61d3842937b27"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY5009e47060ccde3ba59f9f526939c016"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY57a49b698f5c017bc4d806d234832815"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY4135cb7ab57f93973de71befa066cc4d"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY298f86275142ca542623776bfd19a897"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY25be595239010771af6073790a58281c"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYb9b6f63af14f5c68874b81e9ab997978"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYf19c7dc50278ebf374775094dcb0a6d1"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYd7e20055be16a88c1d1f7f52d7e71f69"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYa8664ca8883752b61b7d8556b5f4751b"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY70ce8174fce22b8b471aacf3b2e30e2d"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY3000f12909f6f4a459d44381d8e885c4"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERYee1901fce0f7c001f45bc6a0b0dbf462"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##_QUERY479afa963dbc8444334b9d8ff582921d"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_INST",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Raids#14##"
+      },
+      {
+       "type": 9,
+       "item": "Bugs#14##"
+      },
+      {
+       "type": 9,
+       "item": "End_of_Dragons_content#14##"
+      },
+      {
+       "type": 9,
+       "item": "Dragon's_End#14##"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_MDAT",
+     "dataitem": [
+      {
+       "type": 6,
+       "item": "1/2026/9/26/22/48/3/0"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_SKEY",
+     "dataitem": [
+      {
+       "type": 2,
+       "item": "Harvest Temple"
+      }
+     ],
+     "direction": "direct"
+    },
+    {
+     "property": "_SOBJ",
+     "dataitem": [
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##reward1"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##reward2"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##reward3"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##reward4"
+      },
+      {
+       "type": 9,
+       "item": "Harvest_Temple#0##reward5"
+      }
+     ],
+     "direction": "direct"
+    }
+   ],
+   "sobj": [
+    {
+     "subject": "Harvest_Temple#0##_QUERYc01dd9a10c7411ec8157150cd52908e4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Dragon's End]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYc01dd9a10c7411ec8157150cd52908e4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYb64475083db4ac5ee873f74696b39485",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has location type::Point of Interest]] [[Has canonical name::Font of Elders]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYb64475083db4ac5ee873f74696b39485"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY001f4dd9b94b5c74f0bfafb35eda69c8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has location type::Waypoint]] [[Has canonical name::Arborstone Waypoint]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY001f4dd9b94b5c74f0bfafb35eda69c8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY106bd0231fb4539a37bb0a55389483fc",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "4"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has location type::Waypoint]] [[Has canonical name::Aerodrome Waypoint]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY106bd0231fb4539a37bb0a55389483fc"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY44dcd41ee193e5ca9ce9553a57c99a39",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Magnetite Shard]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY44dcd41ee193e5ca9ce9553a57c99a39"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY5c1f686b517e2edebf9d1da731d25f6d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Harvest Temple]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY5c1f686b517e2edebf9d1da731d25f6d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY81c737b67dbdfc97f93060d8e31d69bd",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void's Coffer]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY81c737b67dbdfc97f93060d8e31d69bd"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY80dc60be2a05134e51033804e34e00d3",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void's Magnificent Coffer]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY80dc60be2a05134e51033804e34e00d3"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY000f5e05dc403314e47c4f1148ac63bf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Antique Summoning Stone]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY000f5e05dc403314e47c4f1148ac63bf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY208a1a5c232761ce7200ded802714e8a",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Imperial Everbloom Sprout]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY208a1a5c232761ce7200ded802714e8a"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY40df867812e194601bc1123d4e2074c2",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Torment]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY40df867812e194601bc1123d4e2074c2"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY479c1ce32864617aaeac2ae3307c1f9f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Influence of the Void]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY479c1ce32864617aaeac2ae3307c1f9f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYaf7b20a9ed539464a0d213c5d4f782b8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Taunt]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYaf7b20a9ed539464a0d213c5d4f782b8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY8062d808a23424edca518e328644cc04",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Mistlock Instability: Last Laugh]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY8062d808a23424edca518e328644cc04"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY00dac94c8a648a5da072e022d88778d0",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void Immunity]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY00dac94c8a648a5da072e022d88778d0"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYfced1094ce69d454a076f0bb27f35977",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void Shell]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYfced1094ce69d454a076f0bb27f35977"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY8898a17170563591d53e85e2c6188ed8",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Lesser Fiery Eruption]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY8898a17170563591d53e85e2c6188ed8"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYda57d66907a5c5c4a80a7be838520111",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Confusion]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYda57d66907a5c5c4a80a7be838520111"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY13a507d5b187b1b134e233e11e16c605",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Crippled]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY13a507d5b187b1b134e233e11e16c605"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY9afe04f5d660c9231435859af2bbcfff",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Exposed (player)]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY9afe04f5d660c9231435859af2bbcfff"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY62597403a910769f0e6350ff23b02cbc",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void Repulsion]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY62597403a910769f0e6350ff23b02cbc"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYa5016c4f78dcc4b8d08e1b3e83cb95a9",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Daze]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYa5016c4f78dcc4b8d08e1b3e83cb95a9"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY7b05ec184825628fd888e96f446e2d67",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Vulnerability]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY7b05ec184825628fd888e96f446e2d67"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYc2544b41867eb017837f49561a182954",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Swiftness]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYc2544b41867eb017837f49561a182954"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY2d5f079b1c94df7d6024b2e842426ad6",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Chilled]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY2d5f079b1c94df7d6024b2e842426ad6"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY19a7cae17cc6f0f6205d3b867f1b97cf",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Burning]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY19a7cae17cc6f0f6205d3b867f1b97cf"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY6a30d980e902b5f123692b34604a5696",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Superspeed]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY6a30d980e902b5f123692b34604a5696"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY7cb3b0da98ab478f75bc0d843e3b35c0",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Knockback]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY7cb3b0da98ab478f75bc0d843e3b35c0"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY1683ec3b59946a7a3ad09f8ffdf3da0e",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Stability]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY1683ec3b59946a7a3ad09f8ffdf3da0e"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY830d02e5a6f39c12b8f376bd22fba977",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Poisoned]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY830d02e5a6f39c12b8f376bd22fba977"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY1b67b47e902cd071d605d3bb76d9bd1f",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Protection]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY1b67b47e902cd071d605d3bb76d9bd1f"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYcefa6615e5eceb0b0e29b3ed76762f1d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Slow]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYcefa6615e5eceb0b0e29b3ed76762f1d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY028f2d37a56a67c51f9aef3e4eb35031",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Pull]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY028f2d37a56a67c51f9aef3e4eb35031"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY329275f00a340dce7ffc06df6930e58b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Aegis]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY329275f00a340dce7ffc06df6930e58b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYae00fd8fc4368e2cafda5c46d37f04e4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Vigor]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYae00fd8fc4368e2cafda5c46d37f04e4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY2685b94abca4df5f65e2a3c6df0cf431",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Fear]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY2685b94abca4df5f65e2a3c6df0cf431"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY4dbef0a1b552d03ef0d0a6128cadcff4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Weakness]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY4dbef0a1b552d03ef0d0a6128cadcff4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYe915ab53b50d76a3e9c1a60d391e8b16",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Resistance]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYe915ab53b50d76a3e9c1a60d391e8b16"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY6a496af2ac9cba0a1575e0206a9e1e73",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Aerial Defense]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY6a496af2ac9cba0a1575e0206a9e1e73"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYc0b8a8132df36224dffe0936dfa3e171",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Knockdown]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYc0b8a8132df36224dffe0936dfa3e171"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYb6965dee818f4ed69021ffc2eed71baa",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Regeneration]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYb6965dee818f4ed69021ffc2eed71baa"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY920f1c9df4919a0193c8f24407de2614",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Might]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY920f1c9df4919a0193c8f24407de2614"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY2ea5eb94dd5143d3447f3dc7d93aa890",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Void Empowerment]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY2ea5eb94dd5143d3447f3dc7d93aa890"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY8e41b94ee2d68b96a3a61d3842937b27",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Debilitated]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY8e41b94ee2d68b96a3a61d3842937b27"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY5009e47060ccde3ba59f9f526939c016",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Mass Invisibility]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY5009e47060ccde3ba59f9f526939c016"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY57a49b698f5c017bc4d806d234832815",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Infirmity]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY57a49b698f5c017bc4d806d234832815"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY4135cb7ab57f93973de71befa066cc4d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:End of Dragons (achievements)]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY4135cb7ab57f93973de71befa066cc4d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY298f86275142ca542623776bfd19a897",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Harvest Temple]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY298f86275142ca542623776bfd19a897"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY25be595239010771af6073790a58281c",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Daily Raid Encounter]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY25be595239010771af6073790a58281c"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYb9b6f63af14f5c68874b81e9ab997978",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Priority Cantha Strike: Harvest Temple]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYb9b6f63af14f5c68874b81e9ab997978"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYf19c7dc50278ebf374775094dcb0a6d1",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Weekly Cantha Strikes]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYf19c7dc50278ebf374775094dcb0a6d1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYd7e20055be16a88c1d1f7f52d7e71f69",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Jumping the Nope Ropes]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYd7e20055be16a88c1d1f7f52d7e71f69"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYa8664ca8883752b61b7d8556b5f4751b",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Legendary Harvest Temple]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYa8664ca8883752b61b7d8556b5f4751b"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY70ce8174fce22b8b471aacf3b2e30e2d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Standing Together]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY70ce8174fce22b8b471aacf3b2e30e2d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY3000f12909f6f4a459d44381d8e885c4",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "template"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "3"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[Has achievement category::+]] [[Has canonical name::Voidwalker]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY3000f12909f6f4a459d44381d8e885c4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERYee1901fce0f7c001f45bc6a0b0dbf462",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Achievement Eligibility: Voidwalker]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERYee1901fce0f7c001f45bc6a0b0dbf462"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##_QUERY479afa963dbc8444334b9d8ff582921d",
+     "data": [
+      {
+       "property": "_ASKDE",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "0"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKFO",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "plainlist"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKSI",
+       "dataitem": [
+        {
+         "type": 1,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_ASKST",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "[[:Ashes of the Just]]"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple# QUERY479afa963dbc8444334b9d8ff582921d"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##reward1",
+     "data": [
+      {
+       "property": "Has_context",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Rewarded item"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_chance",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Guaranteed"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_quantity",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "16"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewarded_by",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Harvest_Temple#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewards_item",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Magnetite_Shard#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple#reward1"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##reward2",
+     "data": [
+      {
+       "property": "Has_context",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Rewarded item"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_chance",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Guaranteed"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_quantity",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewarded_by",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Harvest_Temple#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewards_item",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Void's_Coffer#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple#reward2"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##reward3",
+     "data": [
+      {
+       "property": "Has_context",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Rewarded item"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_chance",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Guaranteed"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_quantity",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewarded_by",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Harvest_Temple#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewards_item",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Void's_Magnificent_Coffer#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple#reward3"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##reward4",
+     "data": [
+      {
+       "property": "Has_context",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Rewarded item"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_chance",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Guaranteed"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_quantity",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewarded_by",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Harvest_Temple#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewards_item",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Antique_Summoning_Stone#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple#reward4"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    },
+    {
+     "subject": "Harvest_Temple#0##reward5",
+     "data": [
+      {
+       "property": "Has_context",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Rewarded item"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_chance",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Chance"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Has_rewarded_item_quantity",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "1"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewarded_by",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Harvest_Temple#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "Rewards_item",
+       "dataitem": [
+        {
+         "type": 9,
+         "item": "Imperial_Everbloom_Sprout#0##"
+        }
+       ],
+       "direction": "direct"
+      },
+      {
+       "property": "_SKEY",
+       "dataitem": [
+        {
+         "type": 2,
+         "item": "Harvest Temple#reward5"
+        }
+       ],
+       "direction": "direct"
+      }
+     ]
+    }
+   ],
+   "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+   "version": 2
+  }
+ }
+}

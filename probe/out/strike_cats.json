@@ -1,0 +1,131 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "categories",
+  "cllimit": "50",
+  "titles": "Old Lion's Court|Shiverpeaks Pass|Harvest Temple|Cosmic Observatory"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 263764,
+     "ns": 0,
+     "title": "Shiverpeaks Pass",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Bugs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Grothmar Valley"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Path of Fire content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Raids"
+      }
+     ]
+    },
+    {
+     "pageid": 314844,
+     "ns": 0,
+     "title": "Harvest Temple",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Bugs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Dragon's End"
+      },
+      {
+       "ns": 14,
+       "title": "Category:End of Dragons content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Raids"
+      }
+     ]
+    },
+    {
+     "pageid": 354388,
+     "ns": 0,
+     "title": "Old Lion's Court",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Anomalies"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Battle for Lion's Arch"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Lion's Arch"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 1 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with verification requests"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Raids"
+      }
+     ]
+    },
+    {
+     "pageid": 361693,
+     "ns": 0,
+     "title": "Cosmic Observatory",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Bugs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Raids"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Secrets of the Obscure content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Skywatch Archipelago"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
