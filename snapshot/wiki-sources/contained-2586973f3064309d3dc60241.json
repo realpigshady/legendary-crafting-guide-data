@@ -1,0 +1,44 @@
+{
+"fetched": 1793701470.2088294,
+"item": "Bauble Bubble",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Super Adventure Weapon Box"
+],
+"Contains item": [
+"Bauble Bubble"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Adventure Weapon Box#contains2"
+},
+{
+"Contained in": [
+"Super Loot Bag"
+],
+"Contains item": [
+"Bauble Bubble"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Loot Bag#contains9"
+}
+]
+}

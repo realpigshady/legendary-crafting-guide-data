@@ -1,0 +1,5 @@
+{
+"revid": 2719197,
+"text": "{{Item infobox\n| description = Double-click to open. Contains 25 [[Empyreal Fragment]]s, a [[Resonating Sliver]], 2 [[Writ of Experience|Writs of Experience]], and 2 pieces of equipment.\n| icon = Daily achievement chest.png\n| type = container\n| rarity = exotic\n| bound = account\n| id = 68162\n| status = discontinued\n}}\n\n== Acquisition ==\n{{achievement list|reward=Chest of the Athlete}}\n\n== Contents ==\n* {{contains|Resonating Sliver|chance=Guaranteed}}\n* {{contains|Writ of Experience|qty=2|chance=Guaranteed}}\n* {{contains|Empyreal Fragment|qty=25|chance=Guaranteed}}\n* 2 random pieces of [[equipment]] of {{rarity|masterwork}} [[Item#Rarity|rarity]] or better\n\n[[Category:Daily rewards]]\n[[de:Truhe des Athleten]]\n[[es:Cofre del atleta]]\n[[fr:Coffre de l'athlète]]",
+"title": "Chest of the Athlete"
+}

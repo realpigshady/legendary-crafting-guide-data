@@ -1,0 +1,114 @@
+{
+"fetched": 1793701951.9034708,
+"item": "Mystic Forge Stone",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Achievement Chest"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Achievement Chest#contains18"
+},
+{
+"Contained in": [
+"Black Lion Chest/historical 2"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Black Lion Chest/historical 2#contains12"
+},
+{
+"Contained in": [
+"Chest of Black Lion Goods"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Black Lion Goods#contains7"
+},
+{
+"Contained in": [
+"Heavy Achievement Chest"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Heavy Achievement Chest#contains4"
+},
+{
+"Contained in": [
+"Large Achievement Chest"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Large Achievement Chest#contains4"
+},
+{
+"Contained in": [
+"Massive Achievement Chest"
+],
+"Contains item": [
+"Mystic Forge Stone"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Massive Achievement Chest#contains5"
+}
+]
+}

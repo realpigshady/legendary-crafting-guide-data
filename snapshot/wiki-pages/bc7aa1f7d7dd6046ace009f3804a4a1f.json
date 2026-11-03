@@ -1,0 +1,5 @@
+{
+"revid": 2567216,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of the Celebration]] and recipes for completing [[The Energizer]].\n| id = 77116\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of the Celebration}}\n\n== Contents ==\n* {{contains|Essence of the Celebration|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Energizer|chance=Guaranteed}}\n\n[[de:Truhe des Feierns]]\n[[es:Cofre de la celebración]]\n[[fr:Coffre de célébration]]",
+"title": "Chest of the Celebration"
+}

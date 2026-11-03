@@ -1,0 +1,5 @@
+{
+"revid": 2567209,
+"text": "{{Item infobox\n| icon = Chest of Illumination.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Gloom]] and recipes for completing [[Dusk]].\n| id = 76511\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Gloom}}\n\n== Contents ==\n* {{contains|Essence of Gloom|chance=Guaranteed}}\n* {{contains|Box of Recipes: Dusk|chance=Guaranteed}}\n\n[[de:Truhe der Düsterkeit]]\n[[es:Cofre de funebridad]]\n[[fr:Coffre de mélancolie]]",
+"title": "Chest of Gloom"
+}

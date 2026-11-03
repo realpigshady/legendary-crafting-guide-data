@@ -1,0 +1,170 @@
+{
+"fetched": 1793702216.1289933,
+"item": "Basil Leaf",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Astral Fluctuating Mass"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Astral Fluctuating Mass#contains67"
+},
+{
+"Contained in": [
+"Basil Leaves in Bulk"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Basil Leaves in Bulk#contains1"
+},
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9-10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains172"
+},
+{
+"Contained in": [
+"Gift from Mawdrey II"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gift from Mawdrey II#contains106"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains87"
+},
+{
+"Contained in": [
+"Light Thorned Bag"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Light Thorned Bag#contains12"
+},
+{
+"Contained in": [
+"Mystery Cooking Ingredient Box"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mystery Cooking Ingredient Box#contains66"
+},
+{
+"Contained in": [
+"Tiny Thorned Bag"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tiny Thorned Bag#contains7"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Basil Leaf"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains138"
+}
+]
+}

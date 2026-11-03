@@ -1,0 +1,116 @@
+{
+"fetched": 1793701760.6611106,
+"item": "Pile of Auric Dust",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Auric Basin: Hero's Choice Chest"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Auric Basin: Hero's Choice Chest#contains3"
+},
+{
+"Contained in": [
+"Dragon's Stand: Hero's Choice Chest"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon's Stand: Hero's Choice Chest#contains3"
+},
+{
+"Contained in": [
+"Lost Arms of an Auric Hero"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Lost Arms of an Auric Hero#contains3"
+},
+{
+"Contained in": [
+"Recovered Priory Expedition Chest"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Recovered Priory Expedition Chest#contains5"
+},
+{
+"Contained in": [
+"Veteran Saurian Cache (Auric Basin Reward Track)"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Veteran Saurian Cache (Auric Basin Reward Track)#contains5"
+},
+{
+"Contained in": [
+"Vinetooth Cache"
+],
+"Contains item": [
+"Pile of Auric Dust"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Vinetooth Cache#contains7"
+}
+]
+}

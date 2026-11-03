@@ -1,0 +1,134 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Jade Shard",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 3)"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 3)#contains42"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains13"
+},
+{
+"Contained in": [
+"Black Lion Material Bag"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6-9"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Black Lion Material Bag#contains4"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Orr"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Orr#contains30"
+},
+{
+"Contained in": [
+"Bundle of Jade Shards"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Jade Shards#contains1"
+},
+{
+"Contained in": [
+"Chest of the Lake Doric Hero"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Lake Doric Hero#contains2"
+},
+{
+"Contained in": [
+"Jade Shard Strongbox"
+],
+"Contains item": [
+"Jade Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"100"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jade Shard Strongbox#contains1"
+}
+]
+}

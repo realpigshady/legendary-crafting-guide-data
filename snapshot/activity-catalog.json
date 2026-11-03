@@ -845,15 +845,15 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:41"
+},
+{
+"count": 1,
 "node_id": "item:67261"
 },
 {
 "count": 1,
 "node_id": "item:67516"
-},
-{
-"count": 1,
-"node_id": "item:70827"
 },
 {
 "count": 1,
@@ -893,15 +893,15 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:41"
+},
+{
+"count": 1,
 "node_id": "item:67261"
 },
 {
 "count": 1,
 "node_id": "item:67516"
-},
-{
-"count": 1,
-"node_id": "item:70827"
 },
 {
 "count": 1,
@@ -994,19 +994,19 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:22"
+},
+{
+"count": 1,
+"node_id": "currency:37"
+},
+{
+"count": 1,
 "node_id": "item:67261"
 },
 {
 "count": 1,
 "node_id": "item:67516"
-},
-{
-"count": 1,
-"node_id": "item:71416"
-},
-{
-"count": 1,
-"node_id": "item:75012"
 },
 {
 "count": 1,
@@ -1042,19 +1042,19 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:22"
+},
+{
+"count": 1,
+"node_id": "currency:37"
+},
+{
+"count": 1,
 "node_id": "item:67261"
 },
 {
 "count": 1,
 "node_id": "item:67516"
-},
-{
-"count": 1,
-"node_id": "item:71416"
-},
-{
-"count": 1,
-"node_id": "item:75012"
 },
 {
 "count": 1,
@@ -1115,6 +1115,10 @@
 ],
 "yields": [
 {
+"count": 23,
+"node_id": "currency:42"
+},
+{
 "count": 1,
 "node_id": "item:67261"
 },
@@ -1125,10 +1129,6 @@
 {
 "count": 1,
 "node_id": "item:70810"
-},
-{
-"count": 5,
-"node_id": "item:70892"
 },
 {
 "count": 1,
@@ -1412,6 +1412,10 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:35"
+},
+{
+"count": 1,
 "node_id": "item:84360"
 }
 ]
@@ -1442,6 +1446,10 @@
 1380
 ],
 "yields": [
+{
+"count": 1,
+"node_id": "currency:35"
+},
 {
 "count": 1,
 "node_id": "item:84360"
@@ -1487,6 +1495,10 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:35"
+},
+{
+"count": 1,
 "node_id": "item:83035"
 }
 ]
@@ -1517,6 +1529,10 @@
 1350
 ],
 "yields": [
+{
+"count": 1,
+"node_id": "currency:35"
+},
 {
 "count": 1,
 "node_id": "item:83035"
@@ -1968,6 +1984,10 @@
 ],
 "yields": [
 {
+"count": 1,
+"node_id": "currency:68"
+},
+{
 "count": 2,
 "node_id": "item:21683"
 },
@@ -1998,10 +2018,6 @@
 {
 "count": 1,
 "node_id": "item:97217"
-},
-{
-"count": 1,
-"node_id": "item:97233"
 },
 {
 "count": 1,
@@ -2262,8 +2278,8 @@
 ],
 "yields": [
 {
-"count": 1,
-"node_id": "item:100045"
+"count": 4,
+"node_id": "currency:73"
 },
 {
 "count": 1,
@@ -2311,6 +2327,10 @@
 "yields": [
 {
 "count": 1,
+"node_id": "currency:76"
+},
+{
+"count": 1,
 "node_id": "item:102265"
 },
 {
@@ -2324,10 +2344,6 @@
 {
 "count": 4,
 "node_id": "item:102881"
-},
-{
-"count": 1,
-"node_id": "item:103372"
 },
 {
 "count": 1,
@@ -2677,6 +2693,10 @@
 ],
 "yields": [
 {
+"count": 25,
+"node_id": "currency:60"
+},
+{
 "count": 2,
 "node_id": "item:83008"
 },
@@ -2741,15 +2761,19 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:100055"
+"node_id": "currency:23"
+},
+{
+"count": 7,
+"node_id": "currency:78"
 },
 {
 "count": 1,
-"node_id": "item:100078"
+"node_id": "currency:79"
 },
 {
-"count": 1,
-"node_id": "item:100414"
+"count": 4,
+"node_id": "currency:80"
 },
 {
 "count": 1,
@@ -2766,10 +2790,6 @@
 {
 "count": 2,
 "node_id": "item:36449"
-},
-{
-"count": 1,
-"node_id": "item:69910"
 }
 ]
 },
@@ -2797,15 +2817,19 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:100055"
+"node_id": "currency:23"
 },
 {
 "count": 1,
-"node_id": "item:100078"
+"node_id": "currency:78"
 },
 {
 "count": 1,
-"node_id": "item:100414"
+"node_id": "currency:79"
+},
+{
+"count": 1,
+"node_id": "currency:80"
 },
 {
 "count": 1,
@@ -2822,10 +2846,6 @@
 {
 "count": 2,
 "node_id": "item:36449"
-},
-{
-"count": 1,
-"node_id": "item:69910"
 },
 {
 "count": 6,
@@ -2855,6 +2875,22 @@
 1350
 ],
 "yields": [
+{
+"count": 1,
+"node_id": "currency:23"
+},
+{
+"count": 2,
+"node_id": "currency:78"
+},
+{
+"count": 2,
+"node_id": "currency:79"
+},
+{
+"count": 2,
+"node_id": "currency:80"
+},
 {
 "count": 1,
 "node_id": "item:101185"
@@ -2920,7 +2956,7 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:66224"
+"node_id": "currency:50"
 }
 ]
 },
@@ -2979,7 +3015,7 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:66224"
+"node_id": "currency:50"
 }
 ]
 },
@@ -3038,7 +3074,7 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:66224"
+"node_id": "currency:50"
 }
 ]
 },
@@ -3294,7 +3330,7 @@
 "yields": [
 {
 "count": 9,
-"node_id": "item:77378"
+"node_id": "currency:28"
 },
 {
 "count": 1,
@@ -3461,7 +3497,7 @@
 "yields": [
 {
 "count": 2,
-"node_id": "item:66224"
+"node_id": "currency:50"
 }
 ]
 },
@@ -3602,12 +3638,16 @@
 "name": "Boneskinner",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 11,
+"node_id": "currency:28"
 },
 {
-"count": 11,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "currency:57"
+},
+{
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 1,
@@ -3628,10 +3668,6 @@
 {
 "count": 1,
 "node_id": "item:92697"
-},
-{
-"count": 1,
-"node_id": "item:93210"
 },
 {
 "count": 1,
@@ -3853,11 +3889,19 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:106909"
+"node_id": "currency:28"
 },
 {
 "count": 1,
-"node_id": "item:77378"
+"node_id": "currency:51"
+},
+{
+"count": 1,
+"node_id": "currency:57"
+},
+{
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 2,
@@ -3865,15 +3909,7 @@
 },
 {
 "count": 1,
-"node_id": "item:93210"
-},
-{
-"count": 1,
 "node_id": "item:93455"
-},
-{
-"count": 1,
-"node_id": "item:93468"
 },
 {
 "count": 50,
@@ -3921,6 +3957,10 @@
 "name": "Cosmic Observatory",
 "yields": [
 {
+"count": 11,
+"node_id": "currency:28"
+},
+{
 "count": 1,
 "node_id": "item:100068"
 },
@@ -3931,10 +3971,6 @@
 {
 "count": 1,
 "node_id": "item:101172"
-},
-{
-"count": 11,
-"node_id": "item:77378"
 }
 ]
 },
@@ -4127,12 +4163,12 @@
 "name": "Dragon Response Mission: Bloodtide Coast",
 "yields": [
 {
-"count": 2,
-"node_id": "item:92288"
+"count": 10,
+"node_id": "currency:60"
 },
 {
-"count": 10,
-"node_id": "item:94353"
+"count": 2,
+"node_id": "item:92288"
 }
 ]
 },
@@ -4152,7 +4188,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4172,7 +4208,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4192,7 +4228,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4212,7 +4248,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4232,7 +4268,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4251,12 +4287,12 @@
 "name": "Dragon Response Mission: Lake Doric",
 "yields": [
 {
-"count": 1,
-"node_id": "item:92288"
+"count": 10,
+"node_id": "currency:60"
 },
 {
-"count": 10,
-"node_id": "item:94353"
+"count": 1,
+"node_id": "item:92288"
 }
 ]
 },
@@ -4276,7 +4312,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4296,7 +4332,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4316,7 +4352,7 @@
 "yields": [
 {
 "count": 10,
-"node_id": "item:94353"
+"node_id": "currency:60"
 }
 ]
 },
@@ -4407,12 +4443,12 @@
 "name": "Forging Steel",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 15,
+"node_id": "currency:28"
 },
 {
-"count": 14,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 1,
@@ -4479,12 +4515,12 @@
 "name": "Fraenir of Jormag",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 8,
+"node_id": "currency:28"
 },
 {
-"count": 8,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 1,
@@ -4603,8 +4639,8 @@
 "name": "Guardian's Glade",
 "yields": [
 {
-"count": 12,
-"node_id": "item:104026"
+"count": 22,
+"node_id": "currency:77"
 },
 {
 "count": 1,
@@ -4663,7 +4699,7 @@
 "yields": [
 {
 "count": 16,
-"node_id": "item:77378"
+"node_id": "currency:28"
 },
 {
 "count": 1,
@@ -4791,8 +4827,8 @@
 "name": "Kaineng Overlook",
 "yields": [
 {
-"count": 1,
-"node_id": "item:77378"
+"count": 15,
+"node_id": "currency:28"
 },
 {
 "count": 1,
@@ -4861,12 +4897,16 @@
 "name": "Kinfall Fractal",
 "yields": [
 {
-"count": 100,
-"node_id": "item:38022"
+"count": 2,
+"node_id": "currency:24"
 },
 {
-"count": 2,
-"node_id": "item:69862"
+"count": 40,
+"node_id": "currency:59"
+},
+{
+"count": 100,
+"node_id": "currency:7"
 },
 {
 "count": 1,
@@ -4875,10 +4915,6 @@
 {
 "count": 1,
 "node_id": "item:79230"
-},
-{
-"count": 40,
-"node_id": "item:94020"
 }
 ]
 },
@@ -4932,12 +4968,16 @@
 "name": "Lonely Tower Fractal",
 "yields": [
 {
-"count": 80,
-"node_id": "item:38022"
+"count": 2,
+"node_id": "currency:24"
 },
 {
-"count": 2,
-"node_id": "item:69862"
+"count": 40,
+"node_id": "currency:59"
+},
+{
+"count": 80,
+"node_id": "currency:7"
 },
 {
 "count": 1,
@@ -4946,10 +4986,6 @@
 {
 "count": 1,
 "node_id": "item:79230"
-},
-{
-"count": 40,
-"node_id": "item:94020"
 }
 ]
 },
@@ -5128,11 +5164,11 @@
 "yields": [
 {
 "count": 1,
-"node_id": "item:102283"
+"node_id": "currency:28"
 },
 {
 "count": 1,
-"node_id": "item:77378"
+"node_id": "item:102283"
 }
 ]
 },
@@ -5176,7 +5212,7 @@
 "yields": [
 {
 "count": 14,
-"node_id": "item:104026"
+"node_id": "currency:77"
 },
 {
 "count": 1,
@@ -5206,16 +5242,20 @@
 "name": "Nightmare Fractal",
 "yields": [
 {
+"count": 2,
+"node_id": "currency:24"
+},
+{
+"count": 40,
+"node_id": "currency:59"
+},
+{
 "count": 100,
-"node_id": "item:38022"
+"node_id": "currency:7"
 },
 {
 "count": 1,
 "node_id": "item:48884"
-},
-{
-"count": 2,
-"node_id": "item:69862"
 },
 {
 "count": 1,
@@ -5228,10 +5268,6 @@
 {
 "count": 1,
 "node_id": "item:79230"
-},
-{
-"count": 40,
-"node_id": "item:94020"
 },
 {
 "count": 1,
@@ -5297,12 +5333,12 @@
 "name": "Old Lion's Court",
 "yields": [
 {
-"count": 1,
-"node_id": "item:77349"
+"count": 15,
+"node_id": "currency:28"
 },
 {
-"count": 15,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "item:77349"
 },
 {
 "count": 1,
@@ -5494,8 +5530,8 @@
 "name": "Sanctum Sprint",
 "yields": [
 {
-"count": 1,
-"node_id": "item:66224"
+"count": 2,
+"node_id": "currency:50"
 }
 ]
 },
@@ -5566,12 +5602,16 @@
 "name": "Shattered Observatory Fractal",
 "yields": [
 {
-"count": 20,
-"node_id": "item:38022"
+"count": 2,
+"node_id": "currency:24"
 },
 {
-"count": 2,
-"node_id": "item:69862"
+"count": 40,
+"node_id": "currency:59"
+},
+{
+"count": 100,
+"node_id": "currency:7"
 },
 {
 "count": 1,
@@ -5580,10 +5620,6 @@
 {
 "count": 1,
 "node_id": "item:79230"
-},
-{
-"count": 40,
-"node_id": "item:94020"
 }
 ]
 },
@@ -5613,12 +5649,16 @@
 "name": "Shiverpeaks Pass",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 8,
+"node_id": "currency:28"
 },
 {
-"count": 8,
-"node_id": "item:77378"
+"count": 300,
+"node_id": "currency:45"
+},
+{
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 2,
@@ -5642,7 +5682,20 @@
 ],
 "mode": "pve",
 "name": "Silent Surf Fractal",
-"yields": []
+"yields": [
+{
+"count": 2,
+"node_id": "currency:24"
+},
+{
+"count": 40,
+"node_id": "currency:59"
+},
+{
+"count": 80,
+"node_id": "currency:7"
+}
+]
 },
 {
 "expansion": "core",
@@ -5931,12 +5984,16 @@
 "name": "Sunqua Peak Fractal",
 "yields": [
 {
-"count": 80,
-"node_id": "item:38022"
+"count": 2,
+"node_id": "currency:24"
 },
 {
-"count": 2,
-"node_id": "item:69862"
+"count": 40,
+"node_id": "currency:59"
+},
+{
+"count": 80,
+"node_id": "currency:7"
 },
 {
 "count": 1,
@@ -5945,10 +6002,6 @@
 {
 "count": 1,
 "node_id": "item:79230"
-},
-{
-"count": 40,
-"node_id": "item:94020"
 }
 ]
 },
@@ -6013,6 +6066,10 @@
 "name": "Temple of Febe",
 "yields": [
 {
+"count": 13,
+"node_id": "currency:28"
+},
+{
 "count": 1,
 "node_id": "item:100634"
 },
@@ -6027,10 +6084,6 @@
 {
 "count": 1,
 "node_id": "item:101542"
-},
-{
-"count": 13,
-"node_id": "item:77378"
 }
 ]
 },
@@ -6444,12 +6497,16 @@
 "name": "Voice of the Fallen and Claw of the Fallen",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 9,
+"node_id": "currency:28"
 },
 {
-"count": 8,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "currency:57"
+},
+{
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 1,
@@ -6474,10 +6531,6 @@
 {
 "count": 1,
 "node_id": "item:92775"
-},
-{
-"count": 1,
-"node_id": "item:93210"
 }
 ]
 },
@@ -6532,12 +6585,12 @@
 "name": "Whisper of Jormag",
 "yields": [
 {
-"count": 1,
-"node_id": "item:106909"
+"count": 11,
+"node_id": "currency:28"
 },
 {
-"count": 11,
-"node_id": "item:77378"
+"count": 1,
+"node_id": "item:106909"
 },
 {
 "count": 1,
@@ -6640,7 +6693,7 @@
 "yields": [
 {
 "count": 13,
-"node_id": "item:77378"
+"node_id": "currency:28"
 },
 {
 "count": 1,

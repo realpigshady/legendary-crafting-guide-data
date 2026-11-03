@@ -1,0 +1,224 @@
+{
+"fetched": 1793702047.9687529,
+"item": "Writ of Experience",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Lumber"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Lumber#contains7"
+},
+{
+"Contained in": [
+"Chest of Monstrous Goods"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Monstrous Goods#contains4"
+},
+{
+"Contained in": [
+"Chest of Ore"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Ore#contains8"
+},
+{
+"Contained in": [
+"Chest of Plants"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Plants#contains31"
+},
+{
+"Contained in": [
+"Chest of the Adventurer"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Adventurer#contains2"
+},
+{
+"Contained in": [
+"Chest of the Athlete"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Athlete#contains2"
+},
+{
+"Contained in": [
+"Chest of the Crafter"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Chest of the Crafter#contains2"
+},
+{
+"Contained in": [
+"Chest of the Explorer"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Explorer#contains1"
+},
+{
+"Contained in": [
+"Chest of the Hero (exotic)"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Hero (exotic)#contains3"
+},
+{
+"Contained in": [
+"Chest of the Hero (rare)"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Hero (rare)#contains3"
+},
+{
+"Contained in": [
+"Chest of the Mists (rare)"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Mists (rare)#contains3"
+},
+{
+"Contained in": [
+"Chest of the Mystic"
+],
+"Contains item": [
+"Writ of Experience"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Mystic#contains2"
+}
+]
+}

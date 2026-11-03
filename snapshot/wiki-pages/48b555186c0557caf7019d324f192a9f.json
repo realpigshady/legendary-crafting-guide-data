@@ -1,0 +1,5 @@
+{
+"revid": 2567220,
+"text": "{{Item infobox\n| icon = Chest of Dreams.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Spirit of the Tiger|Essence of the Tiger]] and a [[Box of Recipes: Tigris|Recipe: Tigris]].\n| id = 78259\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of the Tiger}}\n\n== Contents ==\n* {{contains|Spirit of the Tiger|chance=Guaranteed}}\n* {{contains|Box of Recipes: Tigris|chance=Guaranteed}}\n\n[[de:Truhe des Tigers]]\n[[es:Cofre del Tigre]]\n[[fr:Coffre du Tigre]]",
+"title": "Chest of the Tiger"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2567202,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Bounty Hunting]] and recipes for completing [[The Hunter]].\n| id = 71741\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Bounty Hunting}}\n\n== Contents ==\n* {{contains|Essence of Bounty Hunting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Hunter|chance=Guaranteed}}\n\n[[de:Truhe der Kopfgeldjagd]]\n[[es:Cofre de caza de recompensas]]\n[[fr:Coffre de chasse à la prime]]",
+"title": "Chest of Bounty Hunting"
+}

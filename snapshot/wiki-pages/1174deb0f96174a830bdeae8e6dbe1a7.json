@@ -1,0 +1,5 @@
+{
+"revid": 2567222,
+"text": "{{Item infobox\n| icon = Chest of Freezing.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Time and Space]] and a [[Box of Recipes: The Mechanism|Recipe: The Mechanism]]\n| id = 73885\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n{{achievement list\n| reward = Chest of Time and Space}}\n* Purchasable from after completing the achievement\n{{Sold by}}\n\n== Contents ==\n* {{contains|Essence of Time and Space|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Mechanism|chance=Guaranteed}}\n\n[[de:Truhe von Zeit und Raum]]\n[[es:Cofre de espacio-tiempo]]\n[[fr:Coffre de temps et d'espace]]",
+"title": "Chest of Time and Space"
+}

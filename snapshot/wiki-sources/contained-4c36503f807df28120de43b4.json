@@ -1,0 +1,26 @@
+{
+"fetched": 1793701656.0204074,
+"item": "Refined Homestead Fiber",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Homestead Starter Goods"
+],
+"Contains item": [
+"Refined Homestead Fiber"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"120"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Homestead Starter Goods#contains1"
+}
+]
+}

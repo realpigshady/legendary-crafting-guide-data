@@ -1,0 +1,98 @@
+{
+"fetched": 1793701656.0204074,
+"item": "Found Belonging",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Bag of Alliance Supplies"
+],
+"Contains item": [
+"Found Belonging"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Alliance Supplies#contains27"
+},
+{
+"Contained in": [
+"Standard Citizen's Rescue Bag"
+],
+"Contains item": [
+"Found Belonging"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Standard Citizen's Rescue Bag#contains1"
+},
+{
+"Contained in": [
+"Standard Citizen's Rescue Bag"
+],
+"Contains item": [
+"Found Belonging"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Standard Citizen's Rescue Bag#contains25"
+},
+{
+"Contained in": [
+"Ultimate Citizen's Rescue Bag"
+],
+"Contains item": [
+"Found Belonging"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ultimate Citizen's Rescue Bag#contains191"
+},
+{
+"Contained in": [
+"Ultimate Citizen's Rescue Bag"
+],
+"Contains item": [
+"Found Belonging"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ultimate Citizen's Rescue Bag#contains2"
+}
+]
+}

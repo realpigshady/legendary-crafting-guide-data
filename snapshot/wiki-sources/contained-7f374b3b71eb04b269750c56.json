@@ -1,0 +1,206 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Difluorite Crystal",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains7"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains7"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Dragonfall"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Dragonfall#contains30"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Istan"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Istan#contains27"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Thunderhead"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Thunderhead#contains30"
+},
+{
+"Contained in": [
+"Bundle of Difluorite Crystals"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Difluorite Crystals#contains1"
+},
+{
+"Contained in": [
+"Chest of the Sandswept Hero"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Sandswept Hero#contains2"
+},
+{
+"Contained in": [
+"Sack of Difluorite Crystals"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Sack of Difluorite Crystals#contains1"
+},
+{
+"Contained in": [
+"Season 4 Currency Box"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Currency Box#contains5"
+},
+{
+"Contained in": [
+"Season 4 Material Chest (Raid)"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest (Raid)#contains2"
+},
+{
+"Contained in": [
+"Season 4 Material Chest"
+],
+"Contains item": [
+"Difluorite Crystal"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest#contains2"
+}
+]
+}

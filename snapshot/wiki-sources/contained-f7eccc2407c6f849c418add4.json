@@ -1,0 +1,26 @@
+{
+"fetched": 1793701470.2088294,
+"item": "Essence of Spirit",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Spirit"
+],
+"Contains item": [
+"Essence of Spirit"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Spirit#contains1"
+}
+]
+}

@@ -1,0 +1,26 @@
+{
+"fetched": 1793701985.7050104,
+"item": "Gift of Amnytas",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of the Obscure"
+],
+"Contains item": [
+"Gift of Amnytas"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Obscure#contains3"
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Inscribed Shard",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains13"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains9"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Dragonfall"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"2-3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Dragonfall#contains29"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Thunderhead"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"2-4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Thunderhead#contains29"
+},
+{
+"Contained in": [
+"Bundle of Inscribed Shards"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Inscribed Shards#contains1"
+},
+{
+"Contained in": [
+"Chest of the Kournan Hero"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Kournan Hero#contains2"
+},
+{
+"Contained in": [
+"Kournan Cache"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Kournan Cache#contains8"
+},
+{
+"Contained in": [
+"Kournan Coffer"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Kournan Coffer#contains1"
+},
+{
+"Contained in": [
+"Season 4 Currency Box"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Currency Box#contains4"
+},
+{
+"Contained in": [
+"Season 4 Material Chest (Raid)"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest (Raid)#contains3"
+},
+{
+"Contained in": [
+"Season 4 Material Chest"
+],
+"Contains item": [
+"Inscribed Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest#contains3"
+}
+]
+}

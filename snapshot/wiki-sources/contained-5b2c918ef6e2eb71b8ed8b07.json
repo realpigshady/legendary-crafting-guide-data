@@ -1,0 +1,3566 @@
+{
+"fetched": 1793701782.1667547,
+"item": "Dragonite Ore",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Amnytas Gear Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Amnytas Gear Box#contains1"
+},
+{
+"Contained in": [
+"Amnytas Hoard"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Amnytas Hoard#contains37"
+},
+{
+"Contained in": [
+"Arid Dusty Satchel"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Arid Dusty Satchel#contains2"
+},
+{
+"Contained in": [
+"Arrowhead Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Arrowhead Cache#contains4"
+},
+{
+"Contained in": [
+"Ascalon Weapon Skins Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ascalon Weapon Skins Box#contains20"
+},
+{
+"Contained in": [
+"Ash Legion Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ash Legion Reward Box#contains1"
+},
+{
+"Contained in": [
+"Auric Weapon Crate"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Auric Weapon Crate#contains17"
+},
+{
+"Contained in": [
+"Bag of Alliance Supplies"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Alliance Supplies#contains8"
+},
+{
+"Contained in": [
+"Bag of Dragonite Ore"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Dragonite Ore#contains1"
+},
+{
+"Contained in": [
+"Bag of Trick-or-Treat Bags"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1, 3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Trick-or-Treat Bags#contains15"
+},
+{
+"Contained in": [
+"Bag of Trick-or-Treat Bags"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Trick-or-Treat Bags#contains83"
+},
+{
+"Contained in": [
+"Balthazar Backpack Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Balthazar Backpack Box#contains4"
+},
+{
+"Contained in": [
+"Bat Mother Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bat Mother Cache#contains3"
+},
+{
+"Contained in": [
+"Bitterfrost Frontier Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bitterfrost Frontier Cache#contains1"
+},
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 3)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"3-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 3)#contains35"
+},
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 3)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 3)#contains59"
+},
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains19"
+},
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3-12"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains25"
+},
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains30"
+},
+{
+"Contained in": [
+"Bladed Glove Box (reward track)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bladed Glove Box (reward track)#contains4"
+},
+{
+"Contained in": [
+"Blood Legion Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Blood Legion Reward Box#contains1"
+},
+{
+"Contained in": [
+"Bloodstone Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bloodstone Cache#contains1"
+},
+{
+"Contained in": [
+"Bloodstone Corridor Survey Result Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bloodstone Corridor Survey Result Chest#contains3"
+},
+{
+"Contained in": [
+"Bounty of Dragon's End"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bounty of Dragon's End#contains5"
+},
+{
+"Contained in": [
+"Bounty of Echovald Wilds"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bounty of Echovald Wilds#contains5"
+},
+{
+"Contained in": [
+"Bounty of New Kaineng City"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bounty of New Kaineng City#contains5"
+},
+{
+"Contained in": [
+"Bounty of Seitung Province"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bounty of Seitung Province#contains5"
+},
+{
+"Contained in": [
+"Canthan Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Canthan Armor Box#contains1"
+},
+{
+"Contained in": [
+"Carapace Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Carapace Armor Box#contains19"
+},
+{
+"Contained in": [
+"Carapace Glove Box (PvP)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Carapace Glove Box (PvP)#contains4"
+},
+{
+"Contained in": [
+"Castora Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Castora Cache#contains5"
+},
+{
+"Contained in": [
+"Castoran Gear Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Castoran Gear Box#contains1"
+},
+{
+"Contained in": [
+"Chak Crown Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chak Crown Cache#contains3"
+},
+{
+"Contained in": [
+"Chak Gerent Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chak Gerent Cache#contains1"
+},
+{
+"Contained in": [
+"Champion Air Elemental Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Air Elemental Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Arid Devourer Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Arid Devourer Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Arid Inquest Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Arid Inquest Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Ark the White Tiger Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Ark the White Tiger Loot Box#contains7"
+},
+{
+"Contained in": [
+"Champion Ash the Black Phoenix Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Ash the Black Phoenix Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Asmund the White Dolyak Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Asmund the White Dolyak Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Asta the Black Dolyak Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Asta the Black Dolyak Loot Box#contains7"
+},
+{
+"Contained in": [
+"Champion Avatar of Balthazar Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Avatar of Balthazar Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Bandit Leader Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Bandit Leader Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Beam the White Phoenix Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Beam the White Phoenix Loot Box#contains6"
+},
+{
+"Contained in": [
+"Champion Blade the White Shark Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Blade the White Shark Loot Box#contains7"
+},
+{
+"Contained in": [
+"Champion Branded Minion Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Branded Minion Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Centaur Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Centaur Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Dawn the White Tailed Deer Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Dawn the White Tailed Deer Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Destroyer Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Destroyer Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Destroyer of Worlds Black Rabbit Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Destroyer of Worlds Black Rabbit Loot Box#contains6"
+},
+{
+"Contained in": [
+"Champion Diamond the Black Wolf Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Diamond the Black Wolf Loot Box#contains8"
+},
+{
+"Contained in": [
+"Champion Dredge Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10, 25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Dredge Loot Box#contains4"
+},
+{
+"Contained in": [
+"Champion Dust Mite Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Dust Mite Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Ettin Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Ettin Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Ghost the White Wolf Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Ghost the White Wolf Loot Box#contains8"
+},
+{
+"Contained in": [
+"Champion Grawl Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Grawl Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Hound of Balthazar Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Hound of Balthazar Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Hylek Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Hylek Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Inquest Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Inquest Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Jotun Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Jotun Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Kralkatorrik the Crystal Dragon Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Kralkatorrik the Crystal Dragon Loot Box#contains6"
+},
+{
+"Contained in": [
+"Champion Lamar the Black Tiger Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Lamar the Black Tiger Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Mac the Black Deer Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mac the Black Deer Loot Box#contains5"
+},
+{
+"Contained in": [
+"Champion Mordrem Guard Cache (Auric Basin Reward Track)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Guard Cache (Auric Basin Reward Track)#contains5"
+},
+{
+"Contained in": [
+"Champion Mordrem Guard Cache (Verdant Brink Reward Track)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Guard Cache (Verdant Brink Reward Track)#contains5"
+},
+{
+"Contained in": [
+"Champion Mordrem Husk Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Husk Cache#contains3"
+},
+{
+"Contained in": [
+"Champion Mordrem Teragriff Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Teragriff Cache#contains3"
+},
+{
+"Contained in": [
+"Champion Mordrem Thrasher Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Thrasher Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Mordrem Troll Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Mordrem Troll Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Ogre Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Ogre Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Rico the Black Shark Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Rico the Black Shark Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Risen Shark Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Risen Shark Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Risen Wizard Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Risen Wizard Loot Box#contains2"
+},
+{
+"Contained in": [
+"Champion Sleepy the Black Bear Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Sleepy the Black Bear Loot Box#contains7"
+},
+{
+"Contained in": [
+"Champion Snuffles the White Rabbit Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Snuffles the White Rabbit Loot Box#contains3"
+},
+{
+"Contained in": [
+"Champion Vined Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Vined Cache#contains4"
+},
+{
+"Contained in": [
+"Champion Waffle the White Bear Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Waffle the White Bear Loot Box#contains10"
+},
+{
+"Contained in": [
+"Champion Warg Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Warg Loot Box#contains1"
+},
+{
+"Contained in": [
+"Champion Zhaitan the Corrupted Dragon Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Zhaitan the Corrupted Dragon Loot Box#contains3"
+},
+{
+"Contained in": [
+"Charr Legions Backpack Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Charr Legions Backpack Box#contains1"
+},
+{
+"Contained in": [
+"Chest of Monstrous Goods"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Monstrous Goods#contains3"
+},
+{
+"Contained in": [
+"Cracked Fractal Encryption"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Cracked Fractal Encryption#contains30"
+},
+{
+"Contained in": [
+"Cracked Fractal Encryption"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Cracked Fractal Encryption#contains40"
+},
+{
+"Contained in": [
+"Daily Wurm Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"40"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Daily Wurm Chest#contains1"
+},
+{
+"Contained in": [
+"Desert Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Desert Armor Box#contains1"
+},
+{
+"Contained in": [
+"Djinn Energy Cluster"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Djinn Energy Cluster#contains11"
+},
+{
+"Contained in": [
+"Djinn Energy Cluster"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Djinn Energy Cluster#contains3"
+},
+{
+"Contained in": [
+"Dominion Spoils Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dominion Spoils Box#contains1"
+},
+{
+"Contained in": [
+"Draconis Mons Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Draconis Mons Cache#contains1"
+},
+{
+"Contained in": [
+"Dragon Chest (container)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon Chest (container)#contains9"
+},
+{
+"Contained in": [
+"Dragonfall Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragonfall Cache#contains1"
+},
+{
+"Contained in": [
+"Dragonjade-Tier Reward Package"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragonjade-Tier Reward Package#contains1"
+},
+{
+"Contained in": [
+"Drizzlewood Coast Supply Drop"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Drizzlewood Coast Supply Drop#contains2"
+},
+{
+"Contained in": [
+"Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of Drizzlewood Coast#contains10"
+},
+{
+"Contained in": [
+"Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of Drizzlewood Coast#contains62"
+},
+{
+"Contained in": [
+"Echo of Forging Steel"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of Forging Steel#contains4"
+},
+{
+"Contained in": [
+"Ember Bay Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ember Bay Cache#contains1"
+},
+{
+"Contained in": [
+"Eparch's Hoard"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Eparch's Hoard#contains37"
+},
+{
+"Contained in": [
+"Experimental Warbeast Apparatus"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Experimental Warbeast Apparatus#contains4"
+},
+{
+"Contained in": [
+"Faint Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of Drizzlewood Coast#contains10"
+},
+{
+"Contained in": [
+"Faint Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of Drizzlewood Coast#contains62"
+},
+{
+"Contained in": [
+"Faint Echo of Forging Steel"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of Forging Steel#contains4"
+},
+{
+"Contained in": [
+"Flame Legion Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Flame Legion Reward Box#contains1"
+},
+{
+"Contained in": [
+"Frost Legion Spoils Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Frost Legion Spoils Box#contains1"
+},
+{
+"Contained in": [
+"Giant Wintersday Gift"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1, 50"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Giant Wintersday Gift#contains28"
+},
+{
+"Contained in": [
+"Glorious Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Glorious Armor Box#contains20"
+},
+{
+"Contained in": [
+"Grand Icebrood Saga Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grand Icebrood Saga Cache#contains1"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Banner Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Banner Cache#contains5"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Weapons Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Weapons Cache#contains1"
+},
+{
+"Contained in": [
+"Grymm Mini Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grymm Mini Reward Box#contains2"
+},
+{
+"Contained in": [
+"Grymm Svaard Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grymm Svaard Reward Box#contains2"
+},
+{
+"Contained in": [
+"Hero Weapon Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Hero Weapon Box#contains1"
+},
+{
+"Contained in": [
+"Hero's Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Hero's Chest#contains2"
+},
+{
+"Contained in": [
+"Ignaxious's Hoard (The Road to Heitor)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ignaxious's Hoard (The Road to Heitor)#contains53"
+},
+{
+"Contained in": [
+"Iron Legion Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Iron Legion Reward Box#contains1"
+},
+{
+"Contained in": [
+"Istan Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Istan Cache#contains1"
+},
+{
+"Contained in": [
+"Jahai Bluffs Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jahai Bluffs Cache#contains1"
+},
+{
+"Contained in": [
+"Janthir Hoard"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Janthir Hoard#contains4"
+},
+{
+"Contained in": [
+"Janthir Wilds Gear Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Janthir Wilds Gear Box#contains1"
+},
+{
+"Contained in": [
+"Jora's Weapons Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jora's Weapons Cache#contains2"
+},
+{
+"Contained in": [
+"Jungle Bear Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Bear Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Deer Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Deer Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Dolyak Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Dolyak Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Dragon Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Dragon Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Phoenix Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Phoenix Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Rabbit Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Rabbit Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Shark Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Shark Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Tiger Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Tiger Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Jungle Wolf Finisher Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jungle Wolf Finisher Box#contains2"
+},
+{
+"Contained in": [
+"Knaebelag's Hoard"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Knaebelag's Hoard#contains37"
+},
+{
+"Contained in": [
+"Kournan Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Kournan Cache#contains1"
+},
+{
+"Contained in": [
+"Kryta Weapon Skins Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Kryta Weapon Skins Box#contains20"
+},
+{
+"Contained in": [
+"Kuda's Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Kuda's Cache#contains4"
+},
+{
+"Contained in": [
+"Lake Doric Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Lake Doric Cache#contains1"
+},
+{
+"Contained in": [
+"Large Candy Bag/historical"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"3-5"
+],
+"Is historical": [],
+"_subject": "Large Candy Bag/historical#contains2"
+},
+{
+"Contained in": [
+"Legacy Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legacy Armor Box#contains37"
+},
+{
+"Contained in": [
+"Legendary Belongings of the Great Zehtuka"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Legendary Belongings of the Great Zehtuka#contains4"
+},
+{
+"Contained in": [
+"Long-Lost Tahkayun's Weapon Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Long-Lost Tahkayun's Weapon Bag#contains1"
+},
+{
+"Contained in": [
+"Lost Treasure of the Great Zehtuka"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Lost Treasure of the Great Zehtuka#contains4"
+},
+{
+"Contained in": [
+"Luminate's Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Luminate's Cache#contains22"
+},
+{
+"Contained in": [
+"Magnificent Ascalonian Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Ascalonian Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Dredge Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Dredge Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Flame Legion Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Flame Legion Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Inquest Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Inquest Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Kodan Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Kodan Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Nightmare Court Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Nightmare Court Chest#contains2"
+},
+{
+"Contained in": [
+"Magnificent Nobleman's Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Nobleman's Chest#contains3"
+},
+{
+"Contained in": [
+"Magnificent Orrian Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Magnificent Orrian Chest#contains3"
+},
+{
+"Contained in": [
+"Memories of Scarlet Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Memories of Scarlet Box#contains12"
+},
+{
+"Contained in": [
+"Mini Tybalt Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mini Tybalt Reward Box#contains2"
+},
+{
+"Contained in": [
+"Mordrem Commander's Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mordrem Commander's Cache#contains2"
+},
+{
+"Contained in": [
+"Mordremoth Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mordremoth Cache#contains1"
+},
+{
+"Contained in": [
+"Mushroom King Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mushroom King Cache#contains1"
+},
+{
+"Contained in": [
+"Nadijeh's Royal Armor Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Nadijeh's Royal Armor Cache#contains4"
+},
+{
+"Contained in": [
+"Nadijeh's Royal Arms Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Nadijeh's Royal Arms Cache#contains4"
+},
+{
+"Contained in": [
+"Nika Mini Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Nika Mini Reward Box#contains2"
+},
+{
+"Contained in": [
+"Nika Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Nika Reward Box#contains2"
+},
+{
+"Contained in": [
+"Northern Drizzlewood Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Northern Drizzlewood Cache#contains1"
+},
+{
+"Contained in": [
+"Personalized Trick-or-Treat Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Personalized Trick-or-Treat Bag#contains27"
+},
+{
+"Contained in": [
+"Personalized Wintersday Gift/historical"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Personalized Wintersday Gift/historical#contains32"
+},
+{
+"Contained in": [
+"Pristine Sand-Carved Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Pristine Sand-Carved Cache#contains3"
+},
+{
+"Contained in": [
+"PvP Player Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "PvP Player Loot Box#contains3"
+},
+{
+"Contained in": [
+"Raven's Gift"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raven's Gift#contains2"
+},
+{
+"Contained in": [
+"Ruins of Orr Weapon Skins Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ruins of Orr Weapon Skins Box#contains1"
+},
+{
+"Contained in": [
+"Sandswept Isles Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Sandswept Isles Cache#contains1"
+},
+{
+"Contained in": [
+"Shiverpeak Mountains Weapon Skins Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Shiverpeak Mountains Weapon Skins Box#contains20"
+},
+{
+"Contained in": [
+"Siren's Landing Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Siren's Landing Cache#contains1"
+},
+{
+"Contained in": [
+"Skelk Regurgitant Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Skelk Regurgitant Cache#contains4"
+},
+{
+"Contained in": [
+"Small Pouch of Dragonite Ore"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Small Pouch of Dragonite Ore#contains1"
+},
+{
+"Contained in": [
+"Small Wintersday Gift (historical)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Small Wintersday Gift (historical)#contains10"
+},
+{
+"Contained in": [
+"Steward's Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Steward's Cache#contains4"
+},
+{
+"Contained in": [
+"Stonehead Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Stonehead Cache#contains3"
+},
+{
+"Contained in": [
+"Storm Wizard Loot Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Storm Wizard Loot Box#contains3"
+},
+{
+"Contained in": [
+"Strong Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Drizzlewood Coast#contains10"
+},
+{
+"Contained in": [
+"Strong Echo of Drizzlewood Coast"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Drizzlewood Coast#contains64"
+},
+{
+"Contained in": [
+"Strong Echo of Forging Steel"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"11-19"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Forging Steel#contains6"
+},
+{
+"Contained in": [
+"Tarnished Coast Weapon Skins Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tarnished Coast Weapon Skins Box#contains20"
+},
+{
+"Contained in": [
+"The Evon Gnashblade Trick-or-Treat Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "The Evon Gnashblade Trick-or-Treat Bag#contains11"
+},
+{
+"Contained in": [
+"The Evon Gnashblade Trick-or-Treat Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "The Evon Gnashblade Trick-or-Treat Bag#contains52"
+},
+{
+"Contained in": [
+"Thunderhead Peaks Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Thunderhead Peaks Cache#contains1"
+},
+{
+"Contained in": [
+"Tixx's Gift/historical"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Tixx's Gift/historical#contains9"
+},
+{
+"Contained in": [
+"Trick-or-Treat Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Trick-or-Treat Bag#contains51"
+},
+{
+"Contained in": [
+"Trick-or-Treat Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Trick-or-Treat Bag#contains6"
+},
+{
+"Contained in": [
+"Triumphant Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Triumphant Armor Box#contains19"
+},
+{
+"Contained in": [
+"Turai Ossa Mini Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Turai Ossa Mini Reward Box#contains2"
+},
+{
+"Contained in": [
+"Tybalt Reward Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tybalt Reward Box#contains2"
+},
+{
+"Contained in": [
+"Ultimate Citizen's Rescue Bag"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10-20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ultimate Citizen's Rescue Bag#contains4"
+},
+{
+"Contained in": [
+"Unlocked Rift Essence Coffer"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Unlocked Rift Essence Coffer#contains15"
+},
+{
+"Contained in": [
+"Unlocked Rift Essence Coffer"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Unlocked Rift Essence Coffer#contains4"
+},
+{
+"Contained in": [
+"V.O.X.'s Battle Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "V.O.X.'s Battle Box#contains3"
+},
+{
+"Contained in": [
+"Valley of Agony Survey Result Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Valley of Agony Survey Result Chest#contains3"
+},
+{
+"Contained in": [
+"Vinetooth Cache"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Vinetooth Cache#contains3"
+},
+{
+"Contained in": [
+"Warclaw Armor Box"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Warclaw Armor Box#contains1"
+},
+{
+"Contained in": [
+"Wizard's Hoard"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wizard's Hoard#contains53"
+},
+{
+"Contained in": [
+"Wraith's Pass Survey Result Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wraith's Pass Survey Result Chest#contains3"
+},
+{
+"Contained in": [
+"WvW Achievement Reward Chest"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "WvW Achievement Reward Chest#contains7"
+},
+{
+"Contained in": [
+"WvW Season One Reward Chest (Unlocked)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"100"
+],
+"Is historical": [
+"f"
+],
+"_subject": "WvW Season One Reward Chest (Unlocked)#contains4"
+},
+{
+"Contained in": [
+"Wyvern Cache (Verdant Brink Reward Track)"
+],
+"Contains item": [
+"Dragonite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wyvern Cache (Verdant Brink Reward Track)#contains3"
+}
+]
+}

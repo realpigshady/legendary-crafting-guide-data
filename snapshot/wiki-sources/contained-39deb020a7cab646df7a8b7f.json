@@ -1,0 +1,116 @@
+{
+"fetched": 1793701656.0204074,
+"item": "Glob of Dark Matter",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains112"
+},
+{
+"Contained in": [
+"Generosity's Reward"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Generosity's Reward#contains59"
+},
+{
+"Contained in": [
+"Gift from Mawdrey II"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gift from Mawdrey II#contains28"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains140"
+},
+{
+"Contained in": [
+"Regal Bag of Goods"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Regal Bag of Goods#contains2"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Glob of Dark Matter"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains86"
+}
+]
+}

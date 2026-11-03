@@ -1,0 +1,44 @@
+{
+"fetched": 1793701978.974808,
+"item": "Clot of Congealed Screams",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Citadel of Zakiros: Hero's Choice Chest"
+],
+"Contains item": [
+"Clot of Congealed Screams"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Citadel of Zakiros: Hero's Choice Chest#contains2"
+},
+{
+"Contained in": [
+"Inner Nayos: Hero's Choice Chest"
+],
+"Contains item": [
+"Clot of Congealed Screams"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Inner Nayos: Hero's Choice Chest#contains2"
+}
+]
+}

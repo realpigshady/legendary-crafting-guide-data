@@ -1,0 +1,5 @@
+{
+"revid": 2567206,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Dreams]] and recipes for completing a [[The Lover]].\n| id = 72593\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Dreams}}\n\n== Contents ==\n* {{contains|Essence of Dreams|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Lover|chance=Guaranteed}}\n\n[[de:Truhe der Träume]]\n[[es:Cofre de sueños]]\n[[fr:Coffre de rêves]]",
+"title": "Chest of Dreams"
+}

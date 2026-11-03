@@ -1,0 +1,98 @@
+{
+"fetched": 1793701760.6611106,
+"item": "Curious Mursaat Ruin Shard",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Janthir Wilds)"
+],
+"Contains item": [
+"Curious Mursaat Ruin Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Janthir Wilds)#contains7"
+},
+{
+"Contained in": [
+"Bloodstone Corridor Survey Result Chest"
+],
+"Contains item": [
+"Curious Mursaat Ruin Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bloodstone Corridor Survey Result Chest#contains2"
+},
+{
+"Contained in": [
+"Mistburned Barrens Strongbox"
+],
+"Contains item": [
+"Curious Mursaat Ruin Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mistburned Barrens Strongbox#contains2"
+},
+{
+"Contained in": [
+"Valley of Agony Survey Result Chest"
+],
+"Contains item": [
+"Curious Mursaat Ruin Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Valley of Agony Survey Result Chest#contains2"
+},
+{
+"Contained in": [
+"Wraith's Pass Survey Result Chest"
+],
+"Contains item": [
+"Curious Mursaat Ruin Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wraith's Pass Survey Result Chest#contains2"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2567211,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Illumination]] and recipes for completing [[Dawn]].\n| id = 74499\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Illumination}}\n\n== Contents ==\n* {{contains|Essence of Illumination|chance=Guaranteed}}\n* {{contains|Box of Recipes: Dawn|chance=Guaranteed}}\n\n[[de:Truhe der Erleuchtung]]\n[[es:Cofre de iluminación]]\n[[fr:Coffre d'illumination]]",
+"title": "Chest of Illumination"
+}

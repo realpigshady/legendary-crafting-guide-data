@@ -1,0 +1,5 @@
+{
+"revid": 2561958,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Burning]] and recipes for completing [[Rodgort's Flame]].\n| id = 72124\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Burning}}\n\n== Contents ==\n* {{contains|Essence of Burning|chance=Guaranteed}}\n* {{contains|Box of Recipes: Rodgort's Flame|chance=Guaranteed}}\n\n[[de:Truhe des Brennens]]\n[[es:Cofre de quemadura]]\n[[fr:Coffre de brûlure]]",
+"title": "Chest of Burning"
+}

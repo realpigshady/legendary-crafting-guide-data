@@ -1,0 +1,5 @@
+{
+"revid": 2567204,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Control]] and recipes for completing [[Storm]].\n| value = 264\n| id = 72134\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Control}}\n\n== Contents ==\n* {{contains|Essence of Control|chance=Guaranteed}}\n* {{contains|Box of Recipes: Storm|chance=Guaranteed}}\n\n[[de:Truhe der Kontrolle]]\n[[es:Cofre de control]]\n[[fr:Coffre de contrôle]]",
+"title": "Chest of Control"
+}

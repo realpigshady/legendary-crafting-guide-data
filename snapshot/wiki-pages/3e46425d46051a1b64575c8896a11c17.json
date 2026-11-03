@@ -1,0 +1,5 @@
+{
+"revid": 2567218,
+"text": "{{Item infobox\n| description = Contains the [[Essence of the Krait]] and recipes for completing [[Venom (weapon)|Venom]].\n| type = container\n| rarity = exotic\n| value = 264\n| bound = account\n| id = 74039\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of the Krait}}\n\n== Contents ==\n* {{contains|Essence of the Krait|chance=Guaranteed}}\n* {{contains|Box of Recipes: Venom|chance=Guaranteed}}\n\n[[de:Truhe der Krait]]\n[[es:Cofre de los krait]]\n[[fr:Coffre de Krait]]",
+"title": "Chest of the Krait"
+}

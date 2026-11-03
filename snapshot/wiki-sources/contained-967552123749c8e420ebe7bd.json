@@ -1,0 +1,152 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Petrified Wood",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 3)"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 3)#contains26"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains14"
+},
+{
+"Contained in": [
+"Black Lion Material Bag"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6-9"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Black Lion Material Bag#contains6"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Orr"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Orr#contains32"
+},
+{
+"Contained in": [
+"Bundle of Petrified Wood"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Petrified Wood#contains1"
+},
+{
+"Contained in": [
+"Chest of the Ember Bay Hero"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Ember Bay Hero#contains2"
+},
+{
+"Contained in": [
+"Sack of Petrified Wood"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Sack of Petrified Wood#contains1"
+},
+{
+"Contained in": [
+"Salvaged Debris"
+],
+"Contains item": [
+"Petrified Wood"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1-3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Salvaged Debris#contains15"
+}
+]
+}

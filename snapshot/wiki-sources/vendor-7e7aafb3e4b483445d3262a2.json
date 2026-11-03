@@ -1,0 +1,39 @@
+{
+"fetched": 1793701520.5276558,
+"item": "Chest of Performance",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "11432"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Grandmaster Craftsman Hobbs"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Chest of Performance"
+],
+"_subject": "Grandmaster Craftsman Hobbs#vendor230"
+}
+]
+}

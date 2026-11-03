@@ -1,0 +1,278 @@
+{
+"fetched": 1793701782.1667547,
+"item": "Crude Salvage Kit",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Bag of Filched Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Filched Goods#contains42"
+},
+{
+"Contained in": [
+"Bag of Lifted Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Lifted Goods#contains37"
+},
+{
+"Contained in": [
+"Bag of Pilfered Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Pilfered Goods#contains56"
+},
+{
+"Contained in": [
+"Bag of Pinched Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Pinched Goods#contains26"
+},
+{
+"Contained in": [
+"Bag of Purloined Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Purloined Goods#contains30"
+},
+{
+"Contained in": [
+"Bag of Skritt Shinies"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Skritt Shinies#contains26"
+},
+{
+"Contained in": [
+"Bag of Snatched Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Snatched Goods#contains56"
+},
+{
+"Contained in": [
+"Bag of Stolen Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Stolen Goods#contains55"
+},
+{
+"Contained in": [
+"Heavy Bag of Skritt Shinies"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Heavy Bag of Skritt Shinies#contains39"
+},
+{
+"Contained in": [
+"Heavy Goo-Covered Bag"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Heavy Goo-Covered Bag#contains58"
+},
+{
+"Contained in": [
+"Light Bag of Skritt Shinies"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Light Bag of Skritt Shinies#contains24"
+},
+{
+"Contained in": [
+"Small Bag of Skritt Shinies"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Small Bag of Skritt Shinies#contains30"
+},
+{
+"Contained in": [
+"Small Rank-Up Chest"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Small Rank-Up Chest#contains7"
+},
+{
+"Contained in": [
+"Tiny Bag of Skritt Shinies"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tiny Bag of Skritt Shinies#contains31"
+},
+{
+"Contained in": [
+"Tiny Bag of Stolen Goods"
+],
+"Contains item": [
+"Crude Salvage Kit"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Tiny Bag of Stolen Goods#contains6"
+}
+]
+}

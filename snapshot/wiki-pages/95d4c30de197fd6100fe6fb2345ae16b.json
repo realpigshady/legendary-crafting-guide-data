@@ -1,0 +1,5 @@
+{
+"revid": 2567212,
+"text": "{{Item infobox\n| icon = Chest of Anomaly.png\n| description = Contains the Essence of Mischief and recipes for completing Chaos Gun.\n| type = container\n| rarity = exotic\n| value = 264\n| bound = account\n| id = 72041\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Mischief}}\n\n== Contents ==\n* {{contains|Essence of Mischief|chance=Guaranteed}}\n* {{contains|Box of Recipes: Chaos Gun|chance=Guaranteed}}\n\n[[de:Truhe des Unfugs]]\n[[es:Cofre de fechorías]]\n[[fr:Coffre d'espièglerie]]",
+"title": "Chest of Mischief"
+}

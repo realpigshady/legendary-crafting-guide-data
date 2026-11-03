@@ -1,0 +1,5 @@
+{
+"revid": 2567217,
+"text": "{{Item infobox\n| description = Contains the [[Essence of the Garden]] and recipes for completing [[Leaf of Kudzu]].\n| type = container\n| rarity = exotic\n| bound = account\n| value = 264\n| id = 75046\n| requires = hot\n}}\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of the Garden}}\n\n== Contents ==\n* {{contains|Essence of the Garden|chance=Guaranteed}}\n* {{contains|Box of Recipes: Leaf of Kudzu|chance=Guaranteed}}\n\n[[de:Truhe des Gartens]]\n[[es:Cofre de jardín]]\n[[fr:Coffre du jardin]]",
+"title": "Chest of the Garden"
+}

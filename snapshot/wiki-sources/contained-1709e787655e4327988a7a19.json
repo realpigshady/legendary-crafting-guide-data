@@ -1,0 +1,80 @@
+{
+"fetched": 1793701760.6611106,
+"item": "Ley Line Spark",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chak Crown Cache"
+],
+"Contains item": [
+"Ley Line Spark"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chak Crown Cache#contains7"
+},
+{
+"Contained in": [
+"Dragon's Stand: Hero's Choice Chest"
+],
+"Contains item": [
+"Ley Line Spark"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon's Stand: Hero's Choice Chest#contains1"
+},
+{
+"Contained in": [
+"Tangled Depths: Hero's Choice Chest"
+],
+"Contains item": [
+"Ley Line Spark"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tangled Depths: Hero's Choice Chest#contains3"
+},
+{
+"Contained in": [
+"Veteran Vined Cache (Tangled Depths Reward Track)"
+],
+"Contains item": [
+"Ley Line Spark"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Veteran Vined Cache (Tangled Depths Reward Track)#contains4"
+}
+]
+}

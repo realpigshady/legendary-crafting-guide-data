@@ -1,0 +1,5 @@
+{
+"revid": 2567203,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Chemistry]] and recipes for completing [[Spark (weapon)|Spark]].\n| id = 75957\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Chemistry}}\n\n== Contents ==\n* {{contains|Essence of Chemistry|chance=Guaranteed}}\n* {{contains|Box of Recipes: Spark|chance=Guaranteed}}\n\n[[de:Truhe der Chemie]]\n[[es:Cofre de química]]\n[[fr:Coffre de chimie]]",
+"title": "Chest of Chemistry"
+}

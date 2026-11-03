@@ -1,0 +1,152 @@
+{
+"fetched": 1793701760.6611106,
+"item": "Bottle of Airship Oil",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Dragon's Stand: Hero's Choice Chest"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon's Stand: Hero's Choice Chest#contains2"
+},
+{
+"Contained in": [
+"Lost Arms of a Verdant Hero"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Lost Arms of a Verdant Hero#contains2"
+},
+{
+"Contained in": [
+"Recovered Pact Supplies"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5, 10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Recovered Pact Supplies#contains16"
+},
+{
+"Contained in": [
+"Recovered Pact Supplies"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Recovered Pact Supplies#contains8"
+},
+{
+"Contained in": [
+"Recovered Pale Reaver Chest"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Recovered Pale Reaver Chest#contains5"
+},
+{
+"Contained in": [
+"Verdant Brink: Hero's Choice Chest"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Verdant Brink: Hero's Choice Chest#contains3"
+},
+{
+"Contained in": [
+"Veteran Wyvern Cache"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Veteran Wyvern Cache#contains4"
+},
+{
+"Contained in": [
+"Wyvern Cache (Verdant Brink Reward Track)"
+],
+"Contains item": [
+"Bottle of Airship Oil"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wyvern Cache (Verdant Brink Reward Track)#contains6"
+}
+]
+}

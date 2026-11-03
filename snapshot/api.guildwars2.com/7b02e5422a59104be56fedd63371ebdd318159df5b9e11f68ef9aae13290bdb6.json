@@ -1,0 +1,1045 @@
+{
+"body": [
+{
+"chat_link": "[&AgGXdwEA]",
+"description": "Used for crafting and purchasing items. Earn daily from each story journal chapter.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FD2BA936FF93F56C342EE5C517C0006EB27D0302/2594540.png",
+"id": 96151,
+"level": 0,
+"name": "Tale of Adventure",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgFbeAEA]",
+"description": "Used in the crafting of End of Dragons legendary items.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C113C406281D94BB560701DF350BCA9AF592AFE9/2597025.png",
+"id": 96347,
+"level": 0,
+"name": "Chunk of Ancient Ambergris",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 64
+},
+{
+"chat_link": "[&AgHXeAEA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Vitality",
+"modifier": 17
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 17
+},
+{
+"attribute": "BoonDuration",
+"modifier": 9
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 9
+}
+],
+"buff": {
+"description": "+17 Condition Damage\n+17 Vitality\n+9 Concentration\n+9 Expertise",
+"skill_id": 66652
+},
+"id": 1721
+},
+"infusion_upgrade_flags": [],
+"suffix": "",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F006736696D976F6D3B3C71AF811907D05949393/2595188.png",
+"id": 96471,
+"level": 80,
+"name": "Chunk of Petrified Echovald Resin",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgHSeQEA]",
+"description": "Used in the crafting of End of Dragons legendary items.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23E4BBD622B407B9C64FFD3B23060817C30DEB08/2597020.png",
+"id": 96722,
+"level": 0,
+"name": "Jade Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHhegEA]",
+"description": "In the Mystic Forge, combine a Gift of Seitung Province, a Gift of New Kaineng City, a Gift of the Echovald Forest, and a Gift of Dragon's End to create a Gift of Cantha, used in crafting legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75167A653FB9519F4D08FB1A66672241F6182533/2595112.png",
+"id": 96993,
+"level": 0,
+"name": "Gift of Seitung Province",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFOewEA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 17
+},
+{
+"attribute": "Precision",
+"modifier": 9
+},
+{
+"attribute": "Vitality",
+"modifier": 9
+},
+{
+"attribute": "CritDamage",
+"modifier": 17
+}
+],
+"buff": {
+"description": "+17 Power\n+17 Ferocity\n+9 Vitality\n+9 Precision",
+"skill_id": 64844
+},
+"id": 1684
+},
+"infusion_upgrade_flags": [],
+"suffix": "",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C7E13105A754F639BB6C7A439F06CF45C9EB1C18/2595189.png",
+"id": 97102,
+"level": 80,
+"name": "Chunk of Pure Jade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgHQewEA]",
+"description": "In the Mystic Forge, combine a Gift of Seitung Province, a Gift of New Kaineng City, a Gift of the Echovald Forest, and a Gift of Dragon's End to create a Gift of Cantha, used in crafting legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/025EF4F60B272E80DC09099F01AA51387A72300E/2595106.png",
+"id": 97232,
+"level": 0,
+"name": "Gift of the Echovald Forest",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgH+fQEA]",
+"description": "Used in the crafting of End of Dragons legendary items. Acquired by completing map exploration achievements.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/461D091230BAC7A857D77FABD54C3E45685ADCFB/2595114.png",
+"id": 97790,
+"level": 0,
+"name": "Lamplighter's Badge",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 64
+},
+{
+"chat_link": "[&AgElfgEA]",
+"description": "Purchased from Keepers of the Jade Vault.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B618074108F64D06A6541E4F25DF07A9ED7CCD61/2594278.png",
+"id": 97829,
+"level": 0,
+"name": "Blessing of the Jade Empress",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFCigEA]",
+"description": "An amalgamation of rift essences used for crafting.\nThe recipe can be purchased from Lyhr in the Wizard's Tower.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/41279A5101E4A871C0440FAA3F921DBC610C0D49/3123730.png",
+"id": 100930,
+"level": 0,
+"name": "Amalgamated Rift Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE9jwEA]",
+"description": "Obtained by refining basic ore materials at the Homestead Metal Refiner.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1762DE4A21C1423BEF644BDC17F5E0ACCBB4F43/3375057.png",
+"id": 102205,
+"level": 0,
+"name": "Refined Homestead Metal",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGijwEA]",
+"description": "Obtained by refining basic plant materials at the Homestead Fiber Refiner.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1866B143DEBFCBBAA31DAFB317544E56070AF174/3375059.png",
+"id": 102306,
+"level": 0,
+"name": "Refined Homestead Fiber",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFDkAEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/92B1D6C8C1CF1908DBF10F24659D5D25080BA1EC/3375058.png",
+"id": 102467,
+"level": 0,
+"name": "Neutralized Titan Alloy",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFekAEA]",
+"description": "Can be spent at vendors in Janthir Syntri or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1541F07D0F2D5FD717110567BEFF05D17D9BEC05/3376074.png",
+"id": 102494,
+"level": 0,
+"name": "Curious Mursaat Currency",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGpkAEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.\n\nPurchased from Lowland Shore Renown Heart vendors, or purchased from the Trading Post.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/43F5A24CAD28C314B00DDBEDB51AA7C5A7B79013/3441851.png",
+"id": 102569,
+"level": 0,
+"name": "Shard of Lowland Shore",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGekQEA]",
+"description": "Double-click to open.\nChoose a weight class of Bearkin War Helm.\n\n<c=@flavor>The chosen helm is used for crafting Janthir Wilds legendary items. You must select a weight to use it in the Mystic Forge. Remnants can be purchased from renown heart vendors in Janthir Syntri.</c>",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BC138BC5792300CF7DDBB01D6F771359134D757/3376781.png",
+"id": 102814,
+"level": 0,
+"name": "Bearkin War Helm Choice Box",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgERkgEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F4A10790EDB51CC038006155AB510458096050D/3375055.png",
+"id": 102929,
+"level": 0,
+"name": "Gift of Lowland Shore",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEukgEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D8C2FB01050308CFB0B251286B0334AC0F46027C/3375054.png",
+"id": 102958,
+"level": 0,
+"name": "Gift of Janthir Syntri",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF+kgEA]",
+"description": "Can be spent at vendors in Lowland Shore or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B9724C9B69CE01DC0F62937F33E5CAA1911B9EFF/3376073.png",
+"id": 103038,
+"level": 0,
+"name": "Curious Lowland Honeycomb",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGJkgEA]",
+"description": "Obtained by refining basic log materials at the Homestead Wood Refiner.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FC97AA54142A91B4CC0F39C178E55D41DD242A3A/3375063.png",
+"id": 103049,
+"level": 0,
+"name": "Refined Homestead Wood",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG/kgEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/770805EB02013F99C26574C05B245544A4060EED/3375065.png",
+"id": 103103,
+"level": 0,
+"name": "Sweet-Treated Pine Plank",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFEkwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.\n\nPurchased from a vendor at Maul Boneyards in Lowland Shore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DF28067C52531FEF9A806F02C67B7EF94803CF2D/3441846.png",
+"id": 103236,
+"level": 0,
+"name": "Gift of the Ursus",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG3kwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/636FCB6D19952BE2AC1A7DF20F0A78AF1DFC7E60/3376085.png",
+"id": 103351,
+"level": 0,
+"name": "Mursaat Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGjlAEA]",
+"description": "Combine 250 Refined Metal, 250 Refined Wood, 250 Refined Fiber, and 250 Shards of the Homestead to create the Gift of Embracing Refuge.\n\nThis item is purchased from Deft Lahar in your homestead.",
+"flags": [
+"NoSalvage",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/459DA54BE5F1B74CE322BB9A2000C107FE78DB50/3441843.png",
+"id": 103587,
+"level": 0,
+"name": "Shard of the Homestead",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFWlQEA]",
+"description": "Combine 25 Tales of Adventure, a Gift of Bones, a Memory of Bearkin's Hunts, and a Memory of Bearkin's Victories to create a Gift of Recollector of Memories. \n\nThis item is acquired from the achievement \"Klobjarne Geirr: Janthir Spear Kills.\"",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0CDF6D3FC535D1E134E2E90D25A6214EEAB25CD0/3441841.png",
+"id": 103766,
+"level": 0,
+"name": "Memory of the Bearkin's Hunts",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFxlQEA]",
+"description": "Combine 6 Deldrimor Steel Spear Heads, 6 Large Spiritwood Hafts, 6 Vision Crystals, and a Memory of Bearkin's Adversaries to create Nyr Hrammr.\n\nThis item is acquired from the achievement \"Klobjarne Geirr: World Boss or Meta-Event Completions.\"",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FEE368623CC6031EDB58D877E85FA6E82DEB6B06/3441847.png",
+"id": 103793,
+"level": 0,
+"name": "Memory of Bearkin's Adversaries",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGZlQEA]",
+"description": "Combine 25 Tales of Adventure, a Gift of Bones, a Memory of Bearkin's Victories, and a Memory of Bearkin Hunts to create a Gift of Recollector of Memories.\n\nThis item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23452121230F0F2D19F80FD4669D7693ADEABAA3/3441835.png",
+"id": 103833,
+"level": 0,
+"name": "Memory of the Bearkin's Victories",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG4mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104888,
+"level": 0,
+"name": "Dragon's End: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHWnAEA]",
+"description": "Can be spent at vendors in Starlit Weald or consumed to add 5 antiquated ducats to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AA420C667F369E59BC075D6B06117613ED71DC0D/3710076.png",
+"id": 105686,
+"level": 0,
+"name": "Raw Enchanting Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4nQEA]",
+"description": "Used to create a Gift of the Survivors.\n\nPurchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62B6A3561704ED626FE46046F041A3B1DA7ADB51/3710069.png",
+"id": 105848,
+"level": 0,
+"name": "Concentrated Chromatic Sap",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHNnQEA]",
+"description": "Used to create a Gift of the People.\n\nPurchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04BBDBF2746479F9F4DA2EE0ED5AE35CA602DEA8/3710055.png",
+"id": 105933,
+"level": 0,
+"name": "Patron of the Magical Arts Plaque",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEjnwEA]",
+"description": "Used to create a Gift of the Elders and a Gift of the Seas.\n\nAcquired by completing the Visions of Eternity launch story the first time. Purchased from Visions of Eternity map vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0704B171045A94683C662B0EB92731C1CB8080A4/3708964.png",
+"id": 106275,
+"level": 0,
+"name": "Gift of the Tides",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGCnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by completing the Shipwreck Strand Mastery achievement.\nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3DF23197BD570150B071C7949BE9F5BBFE50D434/3710062.png",
+"id": 106370,
+"level": 0,
+"name": "Survivor's Enchanted Compass",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGRnwEA]",
+"description": "Can be spent at vendors in Shipwreck Strand or consumed to add 5 aether-rich sap to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2714DAB2CB9C40510190E7C4E30F1BFAED732B99/3710068.png",
+"id": 106385,
+"level": 0,
+"name": "Chromatic Sap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHjnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/69490A215111E1BA0A7C307AC590316E560D2DB4/3708957.png",
+"id": 106467,
+"level": 0,
+"name": "Gift of Shipwreck Strand Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGDoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by completing the Starlit Weald Mastery achievement. \nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D36C238C4EB0337FA32D6D507D8F3C925BE10F6/3710056.png",
+"id": 106627,
+"level": 0,
+"name": "Seer Wreath of Service",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGwoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7236FF7200ADFA3F973E51B40A582FF00316F2AD/3708958.png",
+"id": 106672,
+"level": 0,
+"name": "Gift of Starlit Weald Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGTqwEA]",
+"description": "Can be spent at vendors in Eternity's Garden.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E775F80195D7B835E4C81CA47EB19A5924E4ADF1/3771067.png",
+"id": 109459,
+"level": 0,
+"name": "Shadowstone Fragment",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=96151,96347,96471,96722,96993,97102,97232,97790,97829,100930,102205,102306,102467,102494,102569,102814,102929,102958,103038,103049,103103,103236,103351,103587,103766,103793,103833,104888,105686,105848,105933,106275,106370,106385,106467,106627,106672,109459"
+}

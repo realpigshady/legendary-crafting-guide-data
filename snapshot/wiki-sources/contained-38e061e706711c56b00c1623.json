@@ -1,0 +1,476 @@
+{
+"fetched": 1793702047.9687529,
+"item": "Eternal Ice Shard",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Ancient Boreal Weapon Skin Container"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ancient Boreal Weapon Skin Container#contains1"
+},
+{
+"Contained in": [
+"Bjora Marches Chest"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bjora Marches Chest#contains4"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains3"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Bjora Marches"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Bjora Marches#contains29"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Icebrood Saga"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"2-4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Icebrood Saga#contains31"
+},
+{
+"Contained in": [
+"Chest of the Bjora Marches Explorer"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"30"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Bjora Marches Explorer#contains1"
+},
+{
+"Contained in": [
+"Chest of the Raven's Hero"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Raven's Hero#contains2"
+},
+{
+"Contained in": [
+"Echo of Raven Sanctum"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of Raven Sanctum#contains2"
+},
+{
+"Contained in": [
+"Echo of Whispers"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of Whispers#contains1"
+},
+{
+"Contained in": [
+"Faint Echo of Raven Sanctum"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of Raven Sanctum#contains2"
+},
+{
+"Contained in": [
+"Faint Echo of Whispers"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of Whispers#contains1"
+},
+{
+"Contained in": [
+"Gilded Reliquary of the Raven"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gilded Reliquary of the Raven#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Large Chest of Resilience"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Large Chest of Resilience#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Large Chest of Valor"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Large Chest of Valor#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Large Chest of Vigilance"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Large Chest of Vigilance#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Medium Chest of Resilience"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Medium Chest of Resilience#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Medium Chest of Valor"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Medium Chest of Valor#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Medium Chest of Vigilance"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Medium Chest of Vigilance#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Small Chest of Resilience"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Small Chest of Resilience#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Small Chest of Valor"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Small Chest of Valor#contains1"
+},
+{
+"Contained in": [
+"Raid Encounter: Lost Small Chest of Vigilance"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raid Encounter: Lost Small Chest of Vigilance#contains1"
+},
+{
+"Contained in": [
+"Raven's Gift"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"20"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raven's Gift#contains6"
+},
+{
+"Contained in": [
+"Raven's Gift"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Raven's Gift#contains7"
+},
+{
+"Contained in": [
+"Strong Echo of Raven Sanctum"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Raven Sanctum#contains3"
+},
+{
+"Contained in": [
+"Strong Echo of Whispers"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Whispers#contains2"
+},
+{
+"Contained in": [
+"Strong Echo of Whispers"
+],
+"Contains item": [
+"Eternal Ice Shard"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of Whispers#contains50"
+}
+]
+}

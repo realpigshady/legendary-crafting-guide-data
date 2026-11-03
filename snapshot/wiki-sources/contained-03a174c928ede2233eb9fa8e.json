@@ -1,0 +1,206 @@
+{
+"fetched": 1793702108.3526027,
+"item": "Hatched Chili",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains1"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Bjora Marches"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Bjora Marches#contains30"
+},
+{
+"Contained in": [
+"Chest of the Grothmar Hero"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Grothmar Hero#contains2"
+},
+{
+"Contained in": [
+"Echo of the Shiverpeaks"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echo of the Shiverpeaks#contains2"
+},
+{
+"Contained in": [
+"Faint Echo of the Shiverpeaks"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Faint Echo of the Shiverpeaks#contains2"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Banner Cache"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Banner Cache#contains11"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Weapon Requisition"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Weapon Requisition#contains1"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Weapons Cache"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Weapons Cache#contains7"
+},
+{
+"Contained in": [
+"Grothmar Legionnaire Weapons Cache"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Legionnaire Weapons Cache#contains8"
+},
+{
+"Contained in": [
+"Grothmar Warchest"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Grothmar Warchest#contains4"
+},
+{
+"Contained in": [
+"Strong Echo of the Shiverpeaks"
+],
+"Contains item": [
+"Hatched Chili"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Strong Echo of the Shiverpeaks#contains2"
+}
+]
+}

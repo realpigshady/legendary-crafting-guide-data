@@ -1,0 +1,5 @@
+{
+"revid": 2567201,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Anomaly]] and a [[Box of Recipes: Prototype|Recipe: Prototype]].\n| id = 71096\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Anomaly}}\n\n== Contents ==\n* {{contains|Essence of Anomaly|chance=Guaranteed}}\n* {{contains|Box of Recipes: Prototype|chance=Guaranteed}}\n\n[[de:Truhe der Anomalie]]\n[[es:Cofre de anomalía]]\n[[fr:Coffre d'anomalie]]",
+"title": "Chest of Anomaly"
+}

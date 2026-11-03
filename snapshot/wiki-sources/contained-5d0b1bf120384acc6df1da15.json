@@ -1,0 +1,224 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Kralkatite Ore",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-7"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains1"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains8"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Dragonfall"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Dragonfall#contains31"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Istan"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Istan#contains28"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Thunderhead"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3-4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Thunderhead#contains31"
+},
+{
+"Contained in": [
+"Bundle of Kralkatite"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Kralkatite#contains1"
+},
+{
+"Contained in": [
+"Chest of the Istani Hero"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Istani Hero#contains2"
+},
+{
+"Contained in": [
+"Istani Strongbox"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Istani Strongbox#contains6"
+},
+{
+"Contained in": [
+"Sack of Kralkatite Ore"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"250"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Sack of Kralkatite Ore#contains1"
+},
+{
+"Contained in": [
+"Season 4 Currency Box"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Currency Box#contains6"
+},
+{
+"Contained in": [
+"Season 4 Material Chest (Raid)"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest (Raid)#contains1"
+},
+{
+"Contained in": [
+"Season 4 Material Chest"
+],
+"Contains item": [
+"Kralkatite Ore"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"12"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest#contains1"
+}
+]
+}

@@ -1,0 +1,26 @@
+{
+"fetched": 1793701470.2088294,
+"item": "Essence of Rainbows",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Rainbows"
+],
+"Contains item": [
+"Essence of Rainbows"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Rainbows#contains1"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2719210,
+"text": "{{Item infobox\n| icon = Daily achievement chest.png\n| type = container\n| rarity = exotic\n| bound = account\n| id = 68164\n| description = Double-click to open. Contains a rare item, a Resonating Sliver, and 2 Writs of Experience.\n| status = discontinued\n}}\n\n[[Chest of the Explorer]] is a reward for [[Daily]] achievements.\n\n== Acquisition ==\n{{achievement list|reward=Chest of the Explorer}}\n\n== Contents ==\n* 1 piece of [[Equipment]], minimum of {{rarity|masterwork}} quality depending on the level of the opener\n* {{contains|Writ of Experience|chance=Guaranteed}} (2)\n* {{contains|Resonating Sliver|chance=Guaranteed}}\n\n[[Category:Daily rewards]]\n[[de:Truhe des Explorators]]\n[[es:Cofre del pionero]]\n[[fr:Coffre de l'Explorateur]]",
+"title": "Chest of the Explorer"
+}

@@ -1,0 +1,26 @@
+{
+"fetched": 1793701470.2088294,
+"item": "Essence of Illumination",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Illumination"
+],
+"Contains item": [
+"Essence of Illumination"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Illumination#contains1"
+}
+]
+}

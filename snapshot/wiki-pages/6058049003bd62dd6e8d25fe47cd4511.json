@@ -1,0 +1,5 @@
+{
+"revid": 2567207,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the Essence of Energy and recipes for completing [[Zap]].\n| id = 71585\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Energy}}\n\n== Contents ==\n* {{contains|Essence of Energy|chance=Guaranteed}}\n* {{contains|Box of Recipes: Zap|chance=Guaranteed}}\n\n[[de:Truhe der Energie]]\n[[es:Cofre de energía]]\n[[fr:Coffre d'énergie]]",
+"title": "Chest of Energy"
+}

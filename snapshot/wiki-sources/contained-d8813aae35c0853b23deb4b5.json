@@ -1,0 +1,26 @@
+{
+"fetched": 1793701470.2088294,
+"item": "Essence of the Garden",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of the Garden"
+],
+"Contains item": [
+"Essence of the Garden"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Garden#contains1"
+}
+]
+}

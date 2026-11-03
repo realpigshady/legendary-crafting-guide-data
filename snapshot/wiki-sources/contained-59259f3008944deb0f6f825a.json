@@ -1,0 +1,170 @@
+{
+"fetched": 1793702188.446544,
+"item": "Shallot",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Astral Fluctuating Mass"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Astral Fluctuating Mass#contains122"
+},
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1-8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains238"
+},
+{
+"Contained in": [
+"Generosity's Reward"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4-9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Generosity's Reward#contains134"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains223"
+},
+{
+"Contained in": [
+"Large Icy Bag"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Large Icy Bag#contains17"
+},
+{
+"Contained in": [
+"Medium Thorned Bag"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Medium Thorned Bag#contains19"
+},
+{
+"Contained in": [
+"Mystery Cooking Ingredient Box"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mystery Cooking Ingredient Box#contains34"
+},
+{
+"Contained in": [
+"Shallots in Bulk"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Shallots in Bulk#contains1"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Shallot"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5-7"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains204"
+}
+]
+}

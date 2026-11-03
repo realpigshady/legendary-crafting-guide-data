@@ -1,0 +1,5 @@
+{
+"revid": 2627285,
+"text": "{{item infobox\n| description = Contains a [[Lesser Vision Crystal|lesser vision crystal]], [[Glob of Dark Matter|dark matter]] and [[Obsidian Shard|obsidian shards]].\n| type = container\n| rarity= exotic\n| bound = account\n| id = 67222\n}}\n\n== Acquisition ==\n{{achievement list|reward=Regal Bag of Goods}}\n\n== Contents ==\n* {{contains|Lesser Vision Crystal|chance=Guaranteed}}\n* {{contains|Glob of Dark Matter|qty=3|chance=Guaranteed}}\n* {{contains|Obsidian Shard|qty=3|chance=Guaranteed}}\n\n[[de:Königlicher Beutel mit Waren]]\n[[es:Saco de bienes regio]]\n[[fr:Sac de marchandises régalien]]",
+"title": "Regal Bag of Goods"
+}

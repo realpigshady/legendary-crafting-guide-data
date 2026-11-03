@@ -1,0 +1,188 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Mistborn Mote",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 4)"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 4)#contains28"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains4"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Dragonfall"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Dragonfall#contains32"
+},
+{
+"Contained in": [
+"Chest of the Mistborn Hero"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Mistborn Hero#contains2"
+},
+{
+"Contained in": [
+"Dragonfall Cache"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragonfall Cache#contains7"
+},
+{
+"Contained in": [
+"Dragonfall Cache"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragonfall Cache#contains8"
+},
+{
+"Contained in": [
+"Dragonfall Coffer"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragonfall Coffer#contains1"
+},
+{
+"Contained in": [
+"Season 4 Currency Box"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Currency Box#contains1"
+},
+{
+"Contained in": [
+"Season 4 Material Chest (Raid)"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"50"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest (Raid)#contains6"
+},
+{
+"Contained in": [
+"Season 4 Material Chest"
+],
+"Contains item": [
+"Mistborn Mote"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Season 4 Material Chest#contains6"
+}
+]
+}

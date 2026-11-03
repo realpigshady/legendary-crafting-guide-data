@@ -1,0 +1,5 @@
+{
+"revid": 2567208,
+"text": "{{item infobox\n| description = Contains the Essence of Freezing and recipes for completing [[Tooth of Frostfang]].\n| type = container\n| rarity = exotic\n| value = 264\n| bound = account\n| id = 72332\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Freezing}}\n\n== Contents ==\n* {{contains|Essence of Freezing|chance=Guaranteed}}\n* {{contains|Box of Recipes: Tooth of Frostfang|chance=Guaranteed}}\n\n[[de:Truhe des Einfrierens]]\n[[es:Cofre de congelación]]\n[[fr:Coffre de froid]]",
+"title": "Chest of Freezing"
+}

@@ -1,0 +1,598 @@
+{
+"fetched": 1793701782.1667547,
+"item": "Fine Essence of Luck",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Bag of Auric Basin Supplies"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Auric Basin Supplies#contains2"
+},
+{
+"Contained in": [
+"Bag of Death"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Death#contains2"
+},
+{
+"Contained in": [
+"Bag of Dragon's Stand Supplies"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Dragon's Stand Supplies#contains9"
+},
+{
+"Contained in": [
+"Bag of Loot (End of Dragons)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1-3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (End of Dragons)#contains10"
+},
+{
+"Contained in": [
+"Bag of Loot (Janthir Wilds)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (Janthir Wilds)#contains17"
+},
+{
+"Contained in": [
+"Bag of Loot (Path of Fire)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (Path of Fire)#contains4"
+},
+{
+"Contained in": [
+"Bag of Loot (Secrets of the Obscure)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (Secrets of the Obscure)#contains5"
+},
+{
+"Contained in": [
+"Bag of Loot (Visions of Eternity)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (Visions of Eternity)#contains7"
+},
+{
+"Contained in": [
+"Bag of Loot (container)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Loot (container)#contains1"
+},
+{
+"Contained in": [
+"Bag of Tangled Depths Supplies"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Tangled Depths Supplies#contains2"
+},
+{
+"Contained in": [
+"Bag of Verdant Brink Supplies"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Verdant Brink Supplies#contains2"
+},
+{
+"Contained in": [
+"Champion Risen Wizard Loot Box"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champion Risen Wizard Loot Box#contains4"
+},
+{
+"Contained in": [
+"Divine Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Divine Lucky Envelope#contains3"
+},
+{
+"Contained in": [
+"Djinn Energy Cluster"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Djinn Energy Cluster#contains6"
+},
+{
+"Contained in": [
+"Dragon Ball Champion's Divine Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon Ball Champion's Divine Lucky Envelope#contains2"
+},
+{
+"Contained in": [
+"Echovald Wilds Strongbox"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Echovald Wilds Strongbox#contains9"
+},
+{
+"Contained in": [
+"Foot Pads"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Foot Pads#contains2"
+},
+{
+"Contained in": [
+"Forgeblasted Barrel"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Forgeblasted Barrel#contains2"
+},
+{
+"Contained in": [
+"Fragile Prism"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fragile Prism#contains2"
+},
+{
+"Contained in": [
+"Homemade Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Homemade Lucky Envelope#contains3"
+},
+{
+"Contained in": [
+"Iboga Petals"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Iboga Petals#contains2"
+},
+{
+"Contained in": [
+"Junundu Bezoar"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Junundu Bezoar#contains2"
+},
+{
+"Contained in": [
+"Large Wintersday Gift (container)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Large Wintersday Gift (container)#contains2"
+},
+{
+"Contained in": [
+"Little Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"2-3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Little Lucky Envelope#contains1"
+},
+{
+"Contained in": [
+"Medium Wintersday Gift"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Medium Wintersday Gift#contains2"
+},
+{
+"Contained in": [
+"Personalized Homemade Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Personalized Homemade Lucky Envelope#contains1"
+},
+{
+"Contained in": [
+"Personalized Wintersday Gift/historical"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Personalized Wintersday Gift/historical#contains13"
+},
+{
+"Contained in": [
+"Pyre Gall"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Pyre Gall#contains2"
+},
+{
+"Contained in": [
+"Small Wintersday Gift (historical)"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Small Wintersday Gift (historical)#contains2"
+},
+{
+"Contained in": [
+"Tar-Bound Spell Book"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tar-Bound Spell Book#contains2"
+},
+{
+"Contained in": [
+"Tarnished Memory Crystal"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tarnished Memory Crystal#contains2"
+},
+{
+"Contained in": [
+"The Evon Gnashblade Lucky Envelope"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "The Evon Gnashblade Lucky Envelope#contains7"
+},
+{
+"Contained in": [
+"Tixx's Gift/historical"
+],
+"Contains item": [
+"Fine Essence of Luck"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Tixx's Gift/historical#contains12"
+}
+]
+}

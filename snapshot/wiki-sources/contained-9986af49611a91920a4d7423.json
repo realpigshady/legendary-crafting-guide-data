@@ -1,0 +1,636 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Tome of Knowledge",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Adept Chest of the Mists"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Adept Chest of the Mists#contains3"
+},
+{
+"Contained in": [
+"Bag of Educational Supplies"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1, 3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Educational Supplies#contains4"
+},
+{
+"Contained in": [
+"Bag of Experience (exotic)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Experience (exotic)#contains1"
+},
+{
+"Contained in": [
+"Bag of Experience (fine)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Experience (fine)#contains1"
+},
+{
+"Contained in": [
+"Bag of Experience (masterwork)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Experience (masterwork)#contains1"
+},
+{
+"Contained in": [
+"Bag of Experience (rare)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"3"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bag of Experience (rare)#contains1"
+},
+{
+"Contained in": [
+"Black Lion Chest/historical 2"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [],
+"_subject": "Black Lion Chest/historical 2#contains60"
+},
+{
+"Contained in": [
+"Champion Chest of the Mists"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Champion Chest of the Mists#contains3"
+},
+{
+"Contained in": [
+"Chest of Ascalonian Catacombs Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Ascalonian Catacombs Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Caudecus's Manor Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Caudecus's Manor Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Citadel of Flame Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Citadel of Flame Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Crucible of Eternity Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Crucible of Eternity Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Grand Experience"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"6"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Grand Experience#contains1"
+},
+{
+"Contained in": [
+"Chest of Honor of the Waves Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Honor of the Waves Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Ruined City of Arah Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Ruined City of Arah Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Sorrow's Embrace Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Sorrow's Embrace Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of Twilight Arbor Goods"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Twilight Arbor Goods#contains2"
+},
+{
+"Contained in": [
+"Chest of the Mists (exotic)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Chest of the Mists (exotic)#contains3"
+},
+{
+"Contained in": [
+"Chest of the Mists (wvw)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Mists (wvw)#contains1"
+},
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains310"
+},
+{
+"Contained in": [
+"Fractal Adept's Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fractal Adept's Chest#contains6"
+},
+{
+"Contained in": [
+"Fractal Expert's Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fractal Expert's Chest#contains6"
+},
+{
+"Contained in": [
+"Fractal Initiate's Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fractal Initiate's Chest#contains6"
+},
+{
+"Contained in": [
+"Fractal Master's Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fractal Master's Chest#contains6"
+},
+{
+"Contained in": [
+"Generosity's Reward"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Generosity's Reward#contains362"
+},
+{
+"Contained in": [
+"Gift from Mawdrey II"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gift from Mawdrey II#contains321"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains326"
+},
+{
+"Contained in": [
+"Large Rank-Up Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Large Rank-Up Chest#contains2"
+},
+{
+"Contained in": [
+"Ogden's Gratitude"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ogden's Gratitude#contains5"
+},
+{
+"Contained in": [
+"Transcendent Chest of Knowledge"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Transcendent Chest of Knowledge#contains4"
+},
+{
+"Contained in": [
+"Veteran Chest of the Mists"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Veteran Chest of the Mists#contains3"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains268"
+},
+{
+"Contained in": [
+"Wizard's Vault Weekly Completion Chest"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wizard's Vault Weekly Completion Chest#contains3"
+},
+{
+"Contained in": [
+"WvW Season 1 Participation Bag"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "WvW Season 1 Participation Bag#contains1"
+},
+{
+"Contained in": [
+"WvW Season One Reward Chest (Unlocked)"
+],
+"Contains item": [
+"Tome of Knowledge"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5-10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "WvW Season One Reward Chest (Unlocked)#contains6"
+}
+]
+}

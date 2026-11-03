@@ -1,0 +1,44 @@
+{
+"fetched": 1793701978.974808,
+"item": "Case of Captured Lightning",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Citadel of Zakiros: Hero's Choice Chest"
+],
+"Contains item": [
+"Case of Captured Lightning"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Citadel of Zakiros: Hero's Choice Chest#contains4"
+},
+{
+"Contained in": [
+"Skywatch Archipelago: Hero's Choice Chest"
+],
+"Contains item": [
+"Case of Captured Lightning"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Skywatch Archipelago: Hero's Choice Chest#contains2"
+}
+]
+}

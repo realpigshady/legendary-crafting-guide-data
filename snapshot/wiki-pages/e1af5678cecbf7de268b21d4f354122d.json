@@ -1,0 +1,5 @@
+{
+"revid": 2567210,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Heroes]] and recipes for completing [[The Chosen]].\n| id = 72682\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Heroes}}\n\n== Contents ==\n* {{contains|Essence of Heroes|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Chosen|chance=Guaranteed}}\n\n[[de:Truhe der Helden]]\n[[es:Cofre de héroes]]\n[[fr:Coffre d'héroïsme]]",
+"title": "Chest of Heroes"
+}

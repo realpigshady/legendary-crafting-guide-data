@@ -1,0 +1,134 @@
+{
+"fetched": 1793702031.5471406,
+"item": "Fresh Winterberry",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Black Lion Delivery Box (Season 3)"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2-5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Delivery Box (Season 3)#contains33"
+},
+{
+"Contained in": [
+"Black Lion Living World Supply Bag"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"3, 5, 7"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Living World Supply Bag#contains10"
+},
+{
+"Contained in": [
+"Black Lion Material Bag"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6-9"
+],
+"Is historical": [
+"t"
+],
+"_subject": "Black Lion Material Bag#contains3"
+},
+{
+"Contained in": [
+"Black Lion Material Bag: Orr"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Black Lion Material Bag: Orr#contains29"
+},
+{
+"Contained in": [
+"Bundle of Winterberries"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bundle of Winterberries#contains1"
+},
+{
+"Contained in": [
+"Chest of the Bitterfrost Frontier Hero"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"2"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of the Bitterfrost Frontier Hero#contains2"
+},
+{
+"Contained in": [
+"Winterberry Strongbox"
+],
+"Contains item": [
+"Fresh Winterberry"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"100"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Winterberry Strongbox#contains1"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2564475,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Performance]] and recipes for completing [[The Bard]].\n| id = 75155\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Performance}}\n\n== Contents ==\n* {{contains|Essence of Performance|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Bard|chance=Guaranteed}}\n\n[[de:Truhe des Auftritts]]\n[[es:Cofre de rendimiento]]\n[[fr:Coffre de représentation]]",
+"title": "Chest of Performance"
+}

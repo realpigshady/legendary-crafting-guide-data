@@ -1,0 +1,5 @@
+{
+"revid": 2567205,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Diving]] and recipes for [[Carcharias]].\n| id = 70770\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Diving}}\n\n== Contents ==\n* {{contains|Essence of Diving|chance=Guaranteed}}\n* {{contains|Box of Recipes: Carcharias|chance=Guaranteed}}\n\n[[de:Truhe des Tauchens]]\n[[es:Cofre de buceo]]\n[[fr:Coffre de plongée]]",
+"title": "Chest of Diving"
+}

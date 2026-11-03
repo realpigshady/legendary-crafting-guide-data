@@ -1,0 +1,188 @@
+{
+"fetched": 1793702216.1289933,
+"item": "Ginger Root",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Astral Fluctuating Mass"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Astral Fluctuating Mass#contains85"
+},
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains195"
+},
+{
+"Contained in": [
+"Generosity's Reward"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"7-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Generosity's Reward#contains91"
+},
+{
+"Contained in": [
+"Gift from Mawdrey II"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"5-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gift from Mawdrey II#contains129"
+},
+{
+"Contained in": [
+"Ginger Root in Bulk"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Ginger Root in Bulk#contains1"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains136"
+},
+{
+"Contained in": [
+"Mystery Cooking Ingredient Box"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mystery Cooking Ingredient Box#contains50"
+},
+{
+"Contained in": [
+"Thorned Sack"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Thorned Sack#contains11"
+},
+{
+"Contained in": [
+"Tiny Thorned Bag"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tiny Thorned Bag#contains16"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Ginger Root"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains162"
+}
+]
+}

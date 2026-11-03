@@ -1,0 +1,51 @@
+{
+"fetched": 1793701452.5697458,
+"item": "Gift of Insight",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "100"
+},
+{
+"Has item currency": "Amalgamated Draconic Lodestone",
+"Has item value": "55"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "4"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Gift of Insight"
+],
+"_subject": "Magister Sirkk#vendor1"
+}
+]
+}

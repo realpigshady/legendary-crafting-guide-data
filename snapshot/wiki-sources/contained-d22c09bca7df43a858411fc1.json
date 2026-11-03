@@ -1,0 +1,152 @@
+{
+"fetched": 1793702158.2507658,
+"item": "Avocado",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Avocados in Bulk"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"25"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Avocados in Bulk#contains1"
+},
+{
+"Contained in": [
+"Fluctuating Mass"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4, 7-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Fluctuating Mass#contains170"
+},
+{
+"Contained in": [
+"Generosity's Reward"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4-9"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Generosity's Reward#contains66"
+},
+{
+"Contained in": [
+"Gift from Mawdrey II"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gift from Mawdrey II#contains104"
+},
+{
+"Contained in": [
+"Gunk-Covered Pellet"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"9-11"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Gunk-Covered Pellet#contains85"
+},
+{
+"Contained in": [
+"Mystery Cooking Ingredient Box"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mystery Cooking Ingredient Box#contains52"
+},
+{
+"Contained in": [
+"Thorned Sack"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Thorned Sack#contains8"
+},
+{
+"Contained in": [
+"Volatile Mass"
+],
+"Contains item": [
+"Avocado"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"7-8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Volatile Mass#contains136"
+}
+]
+}

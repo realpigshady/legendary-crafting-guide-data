@@ -1,0 +1,242 @@
+{
+"fetched": 1793701656.0204074,
+"item": "Bauble",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Banana Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Banana Loot Box#contains3"
+},
+{
+"Contained in": [
+"Bee Dog Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bee Dog Loot Box#contains3"
+},
+{
+"Contained in": [
+"Box of Super Adventure Box Goods"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Box of Super Adventure Box Goods#contains3"
+},
+{
+"Contained in": [
+"Doggy Bag (second)"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"6-10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Doggy Bag (second)#contains14"
+},
+{
+"Contained in": [
+"King Toad Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"8"
+],
+"Is historical": [
+"f"
+],
+"_subject": "King Toad Loot Box#contains2"
+},
+{
+"Contained in": [
+"Monkey Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Monkey Loot Box#contains3"
+},
+{
+"Contained in": [
+"Storm Wizard Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"16"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Storm Wizard Loot Box#contains2"
+},
+{
+"Contained in": [
+"Super Adventure Bonus: Bronze"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"5"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Adventure Bonus: Bronze#contains1"
+},
+{
+"Contained in": [
+"Super Adventure Bonus: Gold"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"15"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Adventure Bonus: Gold#contains1"
+},
+{
+"Contained in": [
+"Super Adventure Bonus: Silver"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"10"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Adventure Bonus: Silver#contains1"
+},
+{
+"Contained in": [
+"Super Loot Bag"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1–45"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Loot Bag#contains8"
+},
+{
+"Contained in": [
+"Super Weapon Box (exotic)"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"32"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Super Weapon Box (exotic)#contains1"
+},
+{
+"Contained in": [
+"Yeti Loot Box"
+],
+"Contains item": [
+"Bauble"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"4"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Yeti Loot Box#contains2"
+}
+]
+}
