@@ -1,9 +1,51 @@
 {
   "families": {
-    "gen2_weapon": {
+    "weapon": {
       "enabled": true,
+      "from": "armory",
+      "types": [
+        "Weapon"
+      ],
+      "_note": "Every legendary weapon (Gen 1, 2, 3, spears...)"
+    },
+    "armor": {
+      "enabled": false,
+      "wiki_category": "Category:Legendary armor",
+      "_note": "Parked for a future release: single piece or 6-piece set per weight class."
+    },
+    "trinket": {
+      "enabled": true,
+      "from": "armory",
+      "types": [
+        "Trinket"
+      ]
+    },
+    "back": {
+      "enabled": true,
+      "from": "armory",
+      "types": [
+        "Back"
+      ]
+    },
+    "upgrade": {
+      "enabled": true,
+      "from": "armory",
+      "types": [
+        "UpgradeComponent"
+      ],
+      "_note": "Legendary runes and sigils"
+    },
+    "relic": {
+      "enabled": true,
+      "from": "armory",
+      "types": [
+        "Relic"
+      ]
+    },
+    "gen2_weapon": {
+      "enabled": false,
       "wiki_category": "Category:Legendary weapons",
-      "_note": "The wiki has one category for every generation; members = these titles (same 16 as the addon's kGen2Names), each checked against the category.",
+      "_note": "Superseded by the armory families (weapon covers Gen 2); kept for reference.",
       "wiki_titles": [
         "Astralaria",
         "Chuka and Champawat",
@@ -32,11 +74,6 @@
       "enabled": false,
       "wiki_category": "Category:Legendary weapons",
       "_note": "Needs wiki_titles before enabling: the wiki doesn't split weapons by generation."
-    },
-    "armor": {
-      "enabled": false,
-      "wiki_category": "Category:Legendary armor",
-      "_note": "Parked for a future release: single piece or 6-piece set per weight class."
     }
   }
 }

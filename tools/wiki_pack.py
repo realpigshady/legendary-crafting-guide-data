@@ -20,7 +20,7 @@ from pathlib import Path
 from typing import Callable
 
 BATCH = 50                 # MediaWiki: titles per query for normal clients
-MAX_NODES = 4000           # guard against a runaway walk (a bad link loop)
+MAX_NODES = 20000          # guard against a runaway walk (a bad link loop)
 
 # How the wiki writes the parts we read. Edit here if the wiki's templates change.
 TEMPLATES = {

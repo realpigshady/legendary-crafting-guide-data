@@ -335,14 +335,22 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
             except wp.WikiDown:
                 return None
             return page.title if page else None
-        matched, miss = match_family(fam, family_members(http, fam), set(by_name), resolve)
+        if fam.get("from") == "armory":   # every legendary of these API types, by its wiki page
+            want = sorted({i["name"] for i in items if i.get("type") in fam["types"] and i.get("name")})
+            try:
+                pages = store.pages(want)
+            except wp.WikiDown as e:
+                raise SourceDown(str(e)) from e
+            matched = {pages[n].title: n for n in want if n in pages}
+            miss = [f"{n}: no wiki page" for n in want if n not in pages]
+        else:
+            matched, miss = match_family(fam, family_members(http, fam), set(by_name), resolve)
         warnings += [f"{fam_id}: {w}" for w in miss]
         for w in miss:
             print(f"  {fam_id}: {w}", file=sys.stderr)
         members = sorted(matched)
         if not members:
-            raise SystemExit(f"{fam_id}: 0 legendaries matched — check wiki_category "
-                             f"'{fam['wiki_category']}' in config/families.json")
+            raise SystemExit(f"{fam_id}: 0 legendaries matched — check config/families.json")
         if limit:
             members = members[:limit]
         print(f"{fam_id}: {len(members)} legendaries")
