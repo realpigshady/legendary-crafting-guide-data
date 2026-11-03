@@ -1,0 +1,41 @@
+{
+ "params": {
+  "action": "query",
+  "list": "allpages",
+  "apnamespace": "274",
+  "apprefix": "Event timer",
+  "aplimit": "50"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "allpages": [
+    {
+     "pageid": 164609,
+     "ns": 274,
+     "title": "Widget:Event timer"
+    },
+    {
+     "pageid": 386688,
+     "ns": 274,
+     "title": "Widget:Event timer/data.json"
+    },
+    {
+     "pageid": 253530,
+     "ns": 274,
+     "title": "Widget:Event timer/jquery ui sortable.js"
+    },
+    {
+     "pageid": 253531,
+     "ns": 274,
+     "title": "Widget:Event timer/jquery ui sortable min.js"
+    },
+    {
+     "pageid": 409380,
+     "ns": 274,
+     "title": "Widget:Event timer test"
+    }
+   ]
+  }
+ }
+}

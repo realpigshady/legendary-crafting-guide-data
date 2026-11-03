@@ -1,0 +1,323 @@
+{
+ "params": {
+  "action": "query",
+  "meta": "siteinfo",
+  "siprop": "namespaces"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "namespaces": {
+    "-2": {
+     "id": -2,
+     "case": "first-letter",
+     "name": "Media",
+     "subpages": false,
+     "canonical": "Media",
+     "content": false,
+     "nonincludable": false
+    },
+    "-1": {
+     "id": -1,
+     "case": "first-letter",
+     "name": "Special",
+     "subpages": false,
+     "canonical": "Special",
+     "content": false,
+     "nonincludable": false
+    },
+    "0": {
+     "id": 0,
+     "case": "first-letter",
+     "name": "",
+     "subpages": true,
+     "content": true,
+     "nonincludable": false
+    },
+    "1": {
+     "id": 1,
+     "case": "first-letter",
+     "name": "Talk",
+     "subpages": true,
+     "canonical": "Talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "2": {
+     "id": 2,
+     "case": "first-letter",
+     "name": "User",
+     "subpages": true,
+     "canonical": "User",
+     "content": false,
+     "nonincludable": false
+    },
+    "3": {
+     "id": 3,
+     "case": "first-letter",
+     "name": "User talk",
+     "subpages": true,
+     "canonical": "User talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "4": {
+     "id": 4,
+     "case": "first-letter",
+     "name": "Guild Wars 2 Wiki",
+     "subpages": true,
+     "canonical": "Project",
+     "content": false,
+     "nonincludable": false
+    },
+    "5": {
+     "id": 5,
+     "case": "first-letter",
+     "name": "Guild Wars 2 Wiki talk",
+     "subpages": true,
+     "canonical": "Project talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "6": {
+     "id": 6,
+     "case": "first-letter",
+     "name": "File",
+     "subpages": false,
+     "canonical": "File",
+     "content": false,
+     "nonincludable": false
+    },
+    "7": {
+     "id": 7,
+     "case": "first-letter",
+     "name": "File talk",
+     "subpages": true,
+     "canonical": "File talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "8": {
+     "id": 8,
+     "case": "first-letter",
+     "name": "MediaWiki",
+     "subpages": true,
+     "canonical": "MediaWiki",
+     "content": false,
+     "nonincludable": false,
+     "namespaceprotection": "editinterface"
+    },
+    "9": {
+     "id": 9,
+     "case": "first-letter",
+     "name": "MediaWiki talk",
+     "subpages": true,
+     "canonical": "MediaWiki talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "10": {
+     "id": 10,
+     "case": "first-letter",
+     "name": "Template",
+     "subpages": true,
+     "canonical": "Template",
+     "content": false,
+     "nonincludable": false
+    },
+    "11": {
+     "id": 11,
+     "case": "first-letter",
+     "name": "Template talk",
+     "subpages": true,
+     "canonical": "Template talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "12": {
+     "id": 12,
+     "case": "first-letter",
+     "name": "Help",
+     "subpages": true,
+     "canonical": "Help",
+     "content": false,
+     "nonincludable": false
+    },
+    "13": {
+     "id": 13,
+     "case": "first-letter",
+     "name": "Help talk",
+     "subpages": true,
+     "canonical": "Help talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "14": {
+     "id": 14,
+     "case": "first-letter",
+     "name": "Category",
+     "subpages": false,
+     "canonical": "Category",
+     "content": false,
+     "nonincludable": false
+    },
+    "15": {
+     "id": 15,
+     "case": "first-letter",
+     "name": "Category talk",
+     "subpages": true,
+     "canonical": "Category talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "102": {
+     "id": 102,
+     "case": "first-letter",
+     "name": "Property",
+     "subpages": false,
+     "canonical": "Property",
+     "content": false,
+     "nonincludable": false
+    },
+    "103": {
+     "id": 103,
+     "case": "first-letter",
+     "name": "Property talk",
+     "subpages": false,
+     "canonical": "Property talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "106": {
+     "id": 106,
+     "case": "first-letter",
+     "name": "Form",
+     "subpages": false,
+     "canonical": "Form",
+     "content": false,
+     "nonincludable": false
+    },
+    "107": {
+     "id": 107,
+     "case": "first-letter",
+     "name": "Form talk",
+     "subpages": false,
+     "canonical": "Form talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "108": {
+     "id": 108,
+     "case": "first-letter",
+     "name": "Concept",
+     "subpages": false,
+     "canonical": "Concept",
+     "content": false,
+     "nonincludable": false
+    },
+    "109": {
+     "id": 109,
+     "case": "first-letter",
+     "name": "Concept talk",
+     "subpages": false,
+     "canonical": "Concept talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "112": {
+     "id": 112,
+     "case": "first-letter",
+     "name": "smw/schema",
+     "subpages": false,
+     "canonical": "smw/schema",
+     "content": false,
+     "nonincludable": false,
+     "defaultcontentmodel": "smw/schema"
+    },
+    "113": {
+     "id": 113,
+     "case": "first-letter",
+     "name": "smw/schema talk",
+     "subpages": false,
+     "canonical": "smw/schema talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "200": {
+     "id": 200,
+     "case": "first-letter",
+     "name": "ArenaNet",
+     "subpages": true,
+     "canonical": "ArenaNet",
+     "content": false,
+     "nonincludable": false
+    },
+    "201": {
+     "id": 201,
+     "case": "first-letter",
+     "name": "ArenaNet talk",
+     "subpages": true,
+     "canonical": "ArenaNet talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "202": {
+     "id": 202,
+     "case": "first-letter",
+     "name": "API",
+     "subpages": true,
+     "canonical": "API",
+     "content": false,
+     "nonincludable": false,
+     "namespaceprotection": "editapi"
+    },
+    "203": {
+     "id": 203,
+     "case": "first-letter",
+     "name": "API talk",
+     "subpages": true,
+     "canonical": "API talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "274": {
+     "id": 274,
+     "case": "first-letter",
+     "name": "Widget",
+     "subpages": false,
+     "canonical": "Widget",
+     "content": false,
+     "nonincludable": false,
+     "namespaceprotection": "editwidgets"
+    },
+    "275": {
+     "id": 275,
+     "case": "first-letter",
+     "name": "Widget talk",
+     "subpages": true,
+     "canonical": "Widget talk",
+     "content": false,
+     "nonincludable": false
+    },
+    "828": {
+     "id": 828,
+     "case": "first-letter",
+     "name": "Module",
+     "subpages": true,
+     "canonical": "Module",
+     "content": false,
+     "nonincludable": false
+    },
+    "829": {
+     "id": 829,
+     "case": "first-letter",
+     "name": "Module talk",
+     "subpages": true,
+     "canonical": "Module talk",
+     "content": false,
+     "nonincludable": false
+    }
+   }
+  }
+ }
+}

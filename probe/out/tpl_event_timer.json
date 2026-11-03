@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Template:Event timer"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 164623,
+     "ns": 10,
+     "title": "Template:Event timer",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "<div id=\"event-wrapper\" class=\"event-wrapper\" style=\"{{{style|}}}\">\n<div class=\"event-limit\"><div class=\"event-limit-sticky\"><span class=\"event-limit-text prev\">Previous period</span></div><div class=\"event-limit-sticky\"><span class=\"event-limit-text next\">Next period</span></div></div>\n<div class=\"event-pointer\" title=\"Current time\"><div class=\"event-pointer-sticky\"><span class=\"event-pointer-time\">00:00 UTC</span></div></div>\n<div style=\"height:10px; width:100%;\"></div>\n<div id=\"event-container\"></div>\n</div><span class=\"navigation-not-searchable\">{{#if: {{{1|}}}\n | {{#Widget:Event timer|zone={{#arraymap:{{lc:{{{1}}}}}|,|@@@|@@@|,}}}}\n | {{#Widget:Event timer|exclude={{#arraymap:{{lc:{{{exclude|}}}}}|,|@@@|@@@|,}}}}\n}}</span><noinclude>\nThis template uses [[Widget:Event timer]] to display ingame events such as the Heart of Thorns meta events, the Dry Top events and world bosses.\n\n== Usage ==\n<pre>{{Event timer}}</pre>\n\n=== Parameters ===\n;1 ''(unnamed parameter)''\n:Optional. If given, this parameter will cause the widget to display the bar associated with the given abbreviation, see the table below for valid options (festivals are hidden by default - this is controlled through the <code>festival exclude</code> parameter below). Multiple options can be specified by separating the value with a comma, e.g. <code>'wb,hwb'</code>, which will display multiple bars.\n{| class=\"wikitable\"\n! Parameter option    !! Equivalent to\n|-\n| <code>core-dn</code>     || CORE: Day and night\n|-                         \n| <code>core-wb</code>     || CORE: World bosses\n|-                         \n| <code>core-hwb</code>    || CORE: Hard world bosses\n|-                         \n| <code>core-la</code>     || CORE: Leyline Anomaly\n|-                         \n| <code>core-in</code>     || CORE: Scarlet's Invasion and Awakened Invasion\n|-                         \n| <code>core-fi</code>     || CORE: Fractal Incursions\n|-                         \n| <code>core-ateu</code>   || CORE: EU PvP tournaments\n|-                         \n| <code>core-atna</code>   || CORE: NA PvP tournaments\n|-                         \n| <code>lws2-dt</code>     || LWS2: Dry Top\n|-                         \n| <code>hot-vb</code>      || HOT: Verdant Brink\n|-\n| <code>hot-ab</code>      || HOT: Auric Basin\n|-                         \n| <code>hot-td</code>      || HOT: Tangled Depths\n|-                         \n| <code>hot-ds</code>      || HOT: Dragon's Stand\n|-                         \n| <code>lws3-ld</code>     || LWS3: Lake Doric\n|-                         \n| <code>pof-co</code>      || POF: Crystal Oasis\n|-                         \n| <code>pof-dh</code>      || POF: Desert Highlands\n|-                         \n| <code>pof-er</code>      || POF: Elon Riverlands\n|-                         \n| <code>pof-td</code>      || POF: The Desolation\n|-                         \n| <code>pof-dv</code>      || POF: Domain of Vabbi\n|-\n| <code>lws4-di</code>     || LWS4: Domain of Istan\n|-\n| <code>lws4-jb</code>     || LWS4: Jahai Bluffs\n|-\n| <code>lws4-tp</code>     || LWS4: Thunderhead Peaks\n|-\n| <code>lws5-gv</code>     || LWS5: Grothmar Valley\n|-\n| <code>lws5-bm</code>     || LWS5: Bjora Marches\n|-\n| <code>eod-dn</code>      || EOD: Cantha Day and Night\n|-                         \n| <code>eod-sp</code>      || EOD: Seitung Province\n|-                         \n| <code>eod-nkc</code>     || EOD: New Kaineng City\n|-                         \n| <code>eod-ew</code>      || EOD: The Echovald Wilds\n|-                         \n| <code>eod-de</code>      || EOD: Dragon's End\n|-\n| <code>soto-sa</code>     || SOTO: Skywatch Archipelago\n|-\n| <code>soto-wt</code>     || SOTO: Wizard's Tower (adventures)\n|-\n| <code>soto-am</code>     || SOTO: Amnytas\n|-\n| <code>jw-js</code>       || JW: Janthir Syntri\n|-                         \n| <code>jw-bn</code>       || JW: Bava Nisos\n|-                         \n| <code>voe-dn</code>      || VOE: Castora Day and Night\n|-                         \n| <code>voe-ss</code>      || VOE: Shipwreck Strand\n|-                         \n| <code>voe-sw</code>      || VOE: Starlit Weald\n|-                         \n| <code>voe-eg</code>      || VOE: Eternity's Garden\n|-\n| <code>public-eotn</code> || LWS5: Dragonstorm plus LWS1 Instances (accessed from Eye of the North)\n|-\n| <code>public-con</code>  || SOTO: Convergence (Inner Nayos) and JW: Convergence (Mount Balrior)\n|-\n| <code>festival-lc</code> || Festival: Festival of the Four Winds (Labyrinthine Cliffs)\n|-                         \n| <code>festival-db</code> || Festival: Dragon Bash\n|-                         \n| <code>festival-ha</code> || Festival: Halloween\n|}\n\n;exclude\n:Optional. Defaults to blank. Accepts comma separated lists of zones per the zone parameter above. If set, excludes specific events from showing. Typically used to exclude festival events. Example usage: <code>lc,db,ha</code>.\n\n;style\n:Optional. Can be used to add additional styling to the parent wrapper element. Don't wrap the parameter in quotes, the template does that already. Example to avoid clashing with infoboxes: <code><nowiki>style = margin-right: 280px;\n</nowiki></code>\n\n[[Category:Data templates]]\n</noinclude>"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
