@@ -1,0 +1,37 @@
+{
+  "_note": "Which phases of the wiki's event timer (Widget:Event timer/data.json) count as one run of an activity. Minutes, start cycle and waypoint come from the wiki; only this choice is ours. 'segments' are phase names; their minutes are added. Activities match by id (test catalog) or by map name (wiki activities, e.g. wiki:auric_basin).",
+  "events": {
+    "lws2-dt": {"segments": ["Sandstorm"]},
+    "hot-vb": {"segments": ["Night: Night and the Enemy", "Night Bosses"]},
+    "hot-ab": {"segments": ["Battle in Tarir (Octovine)"]},
+    "hot-td": {"segments": ["King of the Jungle (Chak Gerent)"]},
+    "hot-ds": {"segments": ["Start advancing on the Blighting Towers"]},
+    "pof-co": {"segments": ["Rounds 1 to 3"]},
+    "pof-dh": {"segments": ["Buried Treasure"]},
+    "pof-er": {"segments": ["The Path to Ascension: Augury Rock", "Doppelganger"]},
+    "pof-td": {"segments": ["Junundu Rising"]},
+    "pof-dv": {"segments": ["Serpents' Ire"]},
+    "lws4-di": {"segments": ["Palawadan"]},
+    "lws4-jb": {"segments": ["Escorts", "Death-Branded Shatterer"]},
+    "lws4-tp": {"segments": ["Thunderhead Keep"]},
+    "eod-sp": {"segments": ["Aetherblade Assault"]},
+    "eod-nkc": {"segments": ["Kaineng Blackout"]},
+    "eod-ew": {"segments": ["Gang War"]},
+    "eod-de": {"segments": ["The Battle for the Jade Sea"]},
+    "soto-sa": {"segments": ["Unlocking the Wizard's Tower"]},
+    "soto-am": {"segments": ["Defense of Amnytas"]},
+    "jw-js": {"segments": ["Of Mists and Monsters"]},
+    "jw-bn": {"segments": ["A Titanic Voyage"]},
+    "voe-ss": {"segments": ["Hammerhart Rumble!"]},
+    "voe-sw": {"segments": ["Secrets of the Weald"]},
+    "voe-eg": {"segments": ["Shackles of the Ancients"]},
+    "voe-lh": {"segments": ["Depths of Cruelty"]}
+  },
+  "activities": {
+    "dry_top": "lws2-dt", "verdant_brink": "hot-vb", "auric_basin": "hot-ab", "tangled_depths": "hot-td",
+    "dragons_stand": "hot-ds", "elon_riverlands": "pof-er", "domain_of_istan": "lws4-di", "dragons_end": "eod-de",
+    "janthir_syntri": "jw-js", "shipwreck_strand": "voe-ss", "crystal_oasis": "pof-co", "desert_highlands": "pof-dh",
+    "domain_of_vabbi": "pof-dv", "seitung_province": "eod-sp", "new_kaineng": "eod-nkc", "echovald_wilds": "eod-ew",
+    "skywatch": "soto-sa", "amnytas": "soto-am", "bava_nisos": "jw-bn", "starlit_weald": "voe-sw"
+  }
+}

@@ -57,6 +57,7 @@ def main() -> None:
     ap.add_argument("--world", type=Path)
     ap.add_argument("--sample", type=Path)
     ap.add_argument("--recipes", type=Path, help="extra test recipes (random-output forge)")
+    ap.add_argument("--snapshot", type=Path, help="data repo snapshot/: wiki event timer (run length, cycle, waypoint) for metas")
     ap.add_argument("--out", type=Path, required=True)
     a = ap.parse_args()
     exp = json.loads(a.export.read_text())
@@ -230,6 +231,10 @@ def main() -> None:
                 for y in ys:
                     nodes[y["node_id"]]["sources"].append({"kind": "activity", "inputs": [], "activity_id": act["id"]})
 
+    if a.snapshot:
+        import event_timers as etm
+        events = etm.load_stored(a.snapshot)
+        print(f"event timers: {etm.apply(activities, events) if events else 0} of {len(activities)} activities timed from the wiki")
     pack = {"format_version": 1, "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
             "sample": True,
             "_note": "LOCAL TEST PACK built from an interim gw2.app export while the GW2 wiki is down. Never published. "

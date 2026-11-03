@@ -30,6 +30,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki_pack as wp  # noqa: E402
 import wiki_sources as wsrc  # noqa: E402
+import event_timers as etm  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -365,12 +366,21 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 "weapon_type": item.get("details", {}).get("type"),
             })
 
+    act_list = sorted(acts.values(), key=lambda a: a["id"])
+    try:
+        events = etm.load(store)
+    except wp.WikiDown:
+        events = None
+    timed = etm.apply(act_list, events) if events else 0
+    if not events:
+        warnings.append("event timers: wiki data unavailable, metas have no run length")
+    print(f"event timers: {timed} of {len(act_list)} activities timed")
     pack = {
         "format_version": FORMAT_VERSION,
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "legendaries": legendaries,
         "nodes": list(nodes.values()),
-        "activities": sorted(acts.values(), key=lambda a: a["id"]),   # wiki places/tracks; no times (DRF fills them)
+        "activities": act_list,   # wiki places/tracks; metas timed from the wiki event timer, the rest by DRF
         "all_legendary_item_ids": sorted(i["id"] for i in items),
         # Hosts that were down this run and served from snapshot instead.
         # The addon shows "wiki data from snapshot" when non-empty.
