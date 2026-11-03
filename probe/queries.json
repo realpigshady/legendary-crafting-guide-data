@@ -1,9 +1,7 @@
 {
- "widget_event_data": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Widget:Event timer/data.json"
+ "location_types": {
+  "action": "smwbrowse",
+  "browse": "pvalue",
+  "params": "{\"property\": \"Has location type\", \"limit\": 200, \"offset\": 0, \"search\": \"\"}"
  }
 }
