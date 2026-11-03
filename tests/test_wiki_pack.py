@@ -159,3 +159,9 @@ def test_match_family_titles_against_category_and_api():
     assert got == {"Bolt": "Bolt"} and warn == []
     got, warn = bp.match_family(fam, cat, api | {"Gone Again"}, lambda t: "Gone Again" if t == "Gone" else None)
     assert got["Gone Again"] == "Gone Again" and warn == []
+
+
+def test_clean_name_drops_stuck_counts():
+    assert wp.clean_name("1 Essence of Llamatic Elegance") == "Essence of Llamatic Elegance"
+    assert wp.clean_name("[[Mystic Coin]]") == "Mystic Coin"
+    assert wp.clean_name("1st Birthday Gift") == "1st Birthday Gift"

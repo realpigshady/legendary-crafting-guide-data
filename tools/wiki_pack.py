@@ -95,9 +95,8 @@ def split_params(body: str) -> dict[str, str]:
 def clean_name(raw: str) -> str:
     """'[[Gift of Mastery|gifts]]' -> 'Gift of Mastery'; '[[Raven Staff]]' -> 'Raven Staff'."""
     m = re.search(r"\[\[([^|\]]+)", raw)
-    if m:
-        return m.group(1).strip()
-    return _LINK.sub(r"\1", raw).strip()
+    name = m.group(1).strip() if m else _LINK.sub(r"\1", raw).strip()
+    return re.sub(r"^\d+\s*[x×]?\s+(?=[A-Za-z])", "", name)   # "1 Essence of ..." / "5x Mystic Coin": the count is a separate field
 
 
 def infobox_id(wikitext: str) -> int | None:
@@ -188,6 +187,9 @@ class PageStore:
         self.redirects: dict[str, str] = (
             json.loads(self._redirects_path.read_text(encoding="utf-8")) if self._redirects_path.exists() else {})
         self._redirects_saved = dict(self.redirects)
+        # titles the wiki has no page for: offline they stay missing instead of aborting
+        self._missing_path = self.dir / "_missing.json"
+        self.missing: set[str] = set(json.loads(self._missing_path.read_text(encoding="utf-8"))) if self._missing_path.exists() else set()
 
     def _path(self, title: str) -> Path:
         return self.dir / (hashlib.sha256(title.encode()).hexdigest()[:32] + ".json")
@@ -230,6 +232,8 @@ class PageStore:
         for t in titles:
             target = self.redirects.get(t, t)
             page = self._load(target) or self._load(t)
+            if page is None and target in self.missing:
+                continue
             if page is None:
                 raise WikiDown(f"wiki down and '{t}' was never stored")
             self.stale += 1
@@ -251,6 +255,11 @@ class PageStore:
             self._redirects_path.write_text(json.dumps(self.redirects, ensure_ascii=False, sort_keys=True, indent=0), encoding="utf-8")
             self._redirects_saved = dict(self.redirects)
         revs = {p["title"]: p.get("lastrevid", 0) for p in info.get("pages", []) if not p.get("missing") and not p.get("invalid")}
+        gone = {p["title"] for p in info.get("pages", []) if p.get("missing") or p.get("invalid")} | \
+               {final[t] for t in titles if final[t] not in revs and not any(p.get("title") == final[t] for p in info.get("pages", []))}
+        if gone - self.missing or self.missing & set(revs):
+            self.missing = (self.missing | gone) - set(revs)
+            self._missing_path.write_text(json.dumps(sorted(self.missing), ensure_ascii=False, indent=0), encoding="utf-8")
         have = {f: self._load(f) for f in set(final.values()) if f in revs}
         changed = [f for f in revs if not have.get(f) or have[f].revid != revs[f]]
         if changed:

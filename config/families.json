@@ -9,9 +9,12 @@
       "_note": "Every legendary weapon (Gen 1, 2, 3, spears...)"
     },
     "armor": {
-      "enabled": false,
-      "wiki_category": "Category:Legendary armor",
-      "_note": "Parked for a future release: single piece or 6-piece set per weight class."
+      "enabled": true,
+      "from": "armory",
+      "types": [
+        "Armor"
+      ],
+      "_note": "Every legendary armor piece (all sets, weights); a 6-piece set goal is planned (SPEC \u00a712)"
     },
     "trinket": {
       "enabled": true,

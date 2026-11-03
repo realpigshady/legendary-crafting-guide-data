@@ -368,16 +368,18 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                          "smw_requests": smw.requests, "requests": store.requests - before[0],
                          "bytes": store.bytes - before[1], "pages_downloaded": store.fresh - before[2],
                          "pages_by_depth": tree.pages_by_depth}
+        root_of = {n["name"]: n["id"] for n in tree.nodes.values()}
         for title in members:
-            item = by_name[matched[title]]
-            legendaries.append({
-                "id": f"{fam_id}:{item['id']}",
-                "family": fam_id,
-                "name": title,
-                "item_id": item["id"],
-                "root_node_id": f"item:{item['id']}",
-                "weapon_type": item.get("details", {}).get("type"),
-            })
+            # every API item of that name (two items can share one, e.g. Selachimorpha): same tree
+            for item in [i for i in items if i.get("name") == matched[title]] or [by_name[matched[title]]]:
+                legendaries.append({
+                    "id": f"{fam_id}:{item['id']}",
+                    "family": fam_id,
+                    "name": title,
+                    "item_id": item["id"],
+                    "root_node_id": root_of.get(title, f"item:{item['id']}"),
+                    "weapon_type": item.get("details", {}).get("type"),
+                })
 
     try:
         events = etm.load(store)
