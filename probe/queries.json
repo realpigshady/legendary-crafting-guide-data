@@ -1,28 +1,9 @@
 {
- "tpl_event_timer": {
+ "widget_event_data": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
-  "titles": "Template:Event timer"
- },
- "widget_event_timer": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Widget:Event timer"
- },
- "widget_pages": {
-  "action": "query",
-  "list": "allpages",
-  "apnamespace": "274",
-  "apprefix": "Event timer",
-  "aplimit": "50"
- },
- "ns_info": {
-  "action": "query",
-  "meta": "siteinfo",
-  "siprop": "namespaces"
+  "titles": "Widget:Event timer/data.json"
  }
 }
