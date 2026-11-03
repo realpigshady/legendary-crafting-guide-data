@@ -1,0 +1,26 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "templates",
+  "tllimit": "100",
+  "titles": "Event timers"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 164766,
+     "ns": 0,
+     "title": "Event timers",
+     "templates": [
+      {
+       "ns": 10,
+       "title": "Template:Event timer"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

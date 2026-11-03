@@ -1,0 +1,32 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Event timers"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 164766,
+     "ns": 0,
+     "title": "Event timers",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "These are some of the significant [[dynamic event]]s that happen on a set timer. They include [[world boss]]es as well as [[meta event]]s in various [[expansion]] and [[Living World]] zones.\n\nYou can reach this page from the game by entering <code>/wiki et</code> into the in-game chat box.\n\nThe event timer is customizable: event bars can be hidden using the [x] in the top-right corner of each bar, repositioned by dragging, and further adjusted using the settings panel below. For a complete list of available options, see: [[Widget:Event timer#Features|Feature documentation]].\n__NOTOC__\n{{Event timer|exclude=festival-lc<!--,festival-ha-->,festival-db}}\n\n== Related items ==\n* [[World Boss Portal Device]] &mdash; a [[Gem Store]] item that announces the occurrence of [[world boss]]es in the in-game chat and allows instant teleportation to their locations.\n* [[Ley-Infused Lodestone]] &mdash; a gizmo purchased from [[Magister Ela Makkay]] or [[Sarettokk]] that indicates the current or next map for the Ley-Line Anomaly.\n* [[Maguuma Pact Operation Portal Device]] &mdash; a Gem Store item that announces the occurrence of [[meta event]]s within the [[Heart of Maguuma]] and instant teleportation to their locations.\n* [[Hero's Choice Chest]] &mdash; a type of a daily reward from several [[meta event]]s in [[expansion]] [[zone]]s.\n\n== See also ==\n* [[World boss]] &mdash; for a more detailed world boss event schedule covering 24 hours.\n* [[Daily#Daily|Daily]] &mdash; for a list of today's daily achievements including fractals.\n* [[Dry Top/event table]] &mdash; for the list of events that begin in [[Dry Top]] every 5 minutes.\n* [[Defeat the invading Awakened]] &mdash; for the xx:30 hourly Awakened Invasions.\n* [[Catch Brand crystals and use them to disrupt the rift]] &mdash; Pre for Riftstalker Events every 10 minutes (xx:x0).\n* [[Wizard's Vault]] for the Wizard's Vault objectives and rewards.\n\n== Trivia ==\n* This page is based on the [http://gw2.ninja/timer Guild Wars 2 Event Timer] by reddit user [https://www.reddit.com/user/fffam Fffam] and [https://twitch.tv/rediche Rediche].\n\n[[Category:Guides]]\n\n[[de:Event-Timer]]\n[[es:Cronómetro de eventos]]\n[[fr:Horaires des événements]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
