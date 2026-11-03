@@ -1,16 +1,23 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Guild Puzzle",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Snowden Drifts",
+"Category:Guild puzzles",
+"Category:Guild articles with stub sections",
+"Category:Pages with verification requests"
+],
 "Has canonical name": [
 "Angvar's Trove"
 ],
 "Has location type": [
 "Guild Puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -20,12 +27,18 @@
 "_subject": "Angvar's Trove (guild puzzle)"
 },
 {
+"Category": [
+"Category:Plains of Ashford",
+"Category:Guild puzzles",
+"Category:Guild articles with stub sections"
+],
 "Has canonical name": [
 "Langmar Estate"
 ],
 "Has location type": [
 "Guild Puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -35,12 +48,17 @@
 "_subject": "Langmar Estate (guild puzzle)"
 },
 {
+"Category": [
+"Category:Brisban Wildlands",
+"Category:Guild puzzles"
+],
 "Has canonical name": [
 "Proxemics Lab"
 ],
 "Has location type": [
 "Guild Puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],

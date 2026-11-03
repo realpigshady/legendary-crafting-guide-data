@@ -1,15 +1,22 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Team Deathmatch",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Team Deathmatch",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Asura Arena"
 ],
 "Has location type": [
 "Team Deathmatch"
+],
+"Has map id": [
+1201
 ],
 "Is historical": [
 "f"
@@ -20,11 +27,18 @@
 "_subject": "Asura Arena"
 },
 {
+"Category": [
+"Category:Team Deathmatch",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Auric Span"
 ],
 "Has location type": [
 "Team Deathmatch"
+],
+"Has map id": [
+1328
 ],
 "Is historical": [
 "f"
@@ -35,11 +49,18 @@
 "_subject": "Auric Span"
 },
 {
+"Category": [
+"Category:Team Deathmatch",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Hall of the Mists"
 ],
 "Has location type": [
 "Team Deathmatch"
+],
+"Has map id": [
+1200
 ],
 "Is historical": [
 "f"

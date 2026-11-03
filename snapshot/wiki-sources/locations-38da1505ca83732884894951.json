@@ -1,15 +1,27 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Activity",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Anomalies",
+"Category:Articles with stub sections",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Cutthroat Politics",
+"Category:Festival of the Four Winds",
+"Category:Pages with verification requests"
+],
 "Has canonical name": [
 "Aspect Arena"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+918
 ],
 "Is historical": [
 "f"
@@ -20,12 +32,17 @@
 "_subject": "Aspect Arena"
 },
 {
+"Category": [
+"Category:Activities",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Basket Brawl"
 ],
 "Has location type": [
 "Activity"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -33,11 +50,20 @@
 "_subject": "Basket Brawl"
 },
 {
+"Category": [
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Bell Choir Ensemble"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+881
 ],
 "Is historical": [
 "f"
@@ -48,11 +74,18 @@
 "_subject": "Bell Choir Ensemble"
 },
 {
+"Category": [
+"Category:Activities",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Crab Toss"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+905
 ],
 "Is historical": [
 "f"
@@ -63,11 +96,17 @@
 "_subject": "Crab Toss"
 },
 {
+"Category": [
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Crab Toss"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+905
 ],
 "Is historical": [
 "t"
@@ -78,11 +117,19 @@
 "_subject": "Crab Toss/historical"
 },
 {
+"Category": [
+"Category:Temporary content",
+"Category:Activities",
+"Category:Lunar New Year"
+],
 "Has canonical name": [
 "Dragon Ball Arena"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+911
 ],
 "Is historical": [
 "f"
@@ -93,11 +140,18 @@
 "_subject": "Dragon Ball Arena"
 },
 {
+"Category": [
+"Category:Activities",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Keg Brawl"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+334
 ],
 "Is historical": [
 "f"
@@ -108,11 +162,21 @@
 "_subject": "Keg Brawl"
 },
 {
+"Category": [
+"Category:Halloween",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Pages with verification requests",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Lunatic Inquisition"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+864
 ],
 "Is historical": [
 "f"
@@ -123,11 +187,22 @@
 "_subject": "Lunatic Inquisition"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Halloween",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Mad King's Clock Tower"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+865
 ],
 "Is historical": [
 "f"
@@ -138,11 +213,20 @@
 "_subject": "Mad King's Clock Tower"
 },
 {
+"Category": [
+"Category:Halloween",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Reaper's Rumble"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+862
 ],
 "Is historical": [
 "f"
@@ -153,11 +237,19 @@
 "_subject": "Reaper's Rumble"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Activities",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Sanctum Sprint"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+919
 ],
 "Is historical": [
 "f"
@@ -168,11 +260,22 @@
 "_subject": "Sanctum Sprint"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Pages with verification requests",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Snowball Mayhem"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+877
 ],
 "Is historical": [
 "f"
@@ -183,11 +286,18 @@
 "_subject": "Snowball Mayhem"
 },
 {
+"Category": [
+"Category:Activities",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Southsun Survival"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+920
 ],
 "Is historical": [
 "f"
@@ -198,12 +308,20 @@
 "_subject": "Southsun Survival"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Halloween",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Stopped Clock Tower"
 ],
 "Has location type": [
 "Activity"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -213,11 +331,23 @@
 "_subject": "Stopped Clock Tower"
 },
 {
+"Category": [
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Wintersday: The Wondrous Workshop of Toymaker Tixx",
+"Category:Pages with verification requests",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Toypocalypse"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+1270,
+880
 ],
 "Is historical": [
 "f"
@@ -228,11 +358,23 @@
 "_subject": "Toypocalypse"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Activities",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Winter Wonderland"
 ],
 "Has location type": [
 "Activity"
+],
+"Has map id": [
+882
 ],
 "Is historical": [
 "f"

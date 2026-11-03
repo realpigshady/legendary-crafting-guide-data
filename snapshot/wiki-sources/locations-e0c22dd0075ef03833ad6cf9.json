@@ -1,16 +1,28 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Mini-dungeon",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Articles with stub sections",
+"Category:Achievements",
+"Category:Location stubs",
+"Category:Jumping puzzles",
+"Category:Mini-dungeons",
+"Category:Visions of Eternity content",
+"Category:Shipwreck Strand"
+],
 "Has canonical name": [
 "'Booter's Path"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -20,12 +32,18 @@
 "_subject": "'Booter's Path"
 },
 {
+"Category": [
+"Category:Queensdale",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Bad Neighborhood"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -35,12 +53,19 @@
 "_subject": "Bad Neighborhood"
 },
 {
+"Category": [
+"Category:Mini-dungeons",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Eternity's Garden"
+],
 "Has canonical name": [
 "Chamber of Regret"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -50,12 +75,19 @@
 "_subject": "Chamber of Regret"
 },
 {
+"Category": [
+"Category:Achievements",
+"Category:Mini-dungeons",
+"Category:Path of Fire content",
+"Category:Domain of Vabbi"
+],
 "Has canonical name": [
 "Dispersed Energy"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -65,12 +97,18 @@
 "_subject": "Dispersed Energy"
 },
 {
+"Category": [
+"Category:Caledon Forest",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Don't Touch the Shiny"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -80,12 +118,18 @@
 "_subject": "Don't Touch the Shiny"
 },
 {
+"Category": [
+"Category:Diessa Plateau",
+"Category:Mini-dungeons",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Font of Rhand"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -95,12 +139,18 @@
 "_subject": "Font of Rhand"
 },
 {
+"Category": [
+"Category:Cursed Shore",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Forgotten Stream"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -110,12 +160,18 @@
 "_subject": "Forgotten Stream"
 },
 {
+"Category": [
+"Category:Dredgehaunt Cliffs",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Forsaken Fortune"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -125,12 +181,21 @@
 "_subject": "Forsaken Fortune"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Articles with stub sections",
+"Category:Mini-dungeons",
+"Category:Text errors",
+"Category:Visions of Eternity content",
+"Category:Leyspring Hollows"
+],
 "Has canonical name": [
 "From Ruins to Riches"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -140,12 +205,21 @@
 "_subject": "From Ruins to Riches"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Kessex Hills",
+"Category:Mini-dungeons",
+"Category:Bugs",
+"Category:Explorer achievements",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Goff's Loot"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -155,12 +229,19 @@
 "_subject": "Goff's Loot"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Cursed Shore",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Grounded"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -170,12 +251,19 @@
 "_subject": "Grounded (mini-dungeon)"
 },
 {
+"Category": [
+"Category:Frostgorge Sound",
+"Category:Mini-dungeons",
+"Category:Explorer achievements",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Magellan's Memento"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -185,12 +273,19 @@
 "_subject": "Magellan's Memento"
 },
 {
+"Category": [
+"Category:Pages with verification requests",
+"Category:Lake Doric",
+"Category:Mini-dungeons",
+"Category:Living World Season 3 content"
+],
 "Has canonical name": [
 "Noran's Safe Room"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -200,12 +295,18 @@
 "_subject": "Noran's Safe Room"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Lake Doric",
+"Category:Mini-dungeons"
+],
 "Has canonical name": [
 "Melandru's Refuge"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -215,12 +316,19 @@
 "_subject": "Not All Who Wander Are Lost"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Fireheart Rise",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Rebel's Seclusion"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -230,12 +338,19 @@
 "_subject": "Rebel's Seclusion (mini-dungeon)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Mini-dungeons",
+"Category:Path of Fire content",
+"Category:Crystal Oasis"
+],
 "Has canonical name": [
 "Sanctum of Nabkha"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -245,12 +360,18 @@
 "_subject": "Sanctum of Nabkha (mini-dungeon)"
 },
 {
+"Category": [
+"Category:Straits of Devastation",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Ship of Sorrows"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -260,12 +381,21 @@
 "_subject": "Ship of Sorrows"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Caledon Forest",
+"Category:Mini-dungeons",
+"Category:Bugs",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Tears of Itlaocol"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -275,12 +405,20 @@
 "_subject": "Tears of Itlaocol"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Straits of Devastation",
+"Category:Mini-dungeons",
+"Category:Explorer achievements",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "The Long Way Around"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -290,12 +428,21 @@
 "_subject": "The Long Way Around"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Pages with verification requests",
+"Category:Mini-dungeons",
+"Category:End of Dragons content",
+"Category:Dragon's End"
+],
 "Has canonical name": [
 "Trial of the Elders"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -305,12 +452,22 @@
 "_subject": "Trial of the Elders"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Pages with verification requests",
+"Category:Mini-dungeons",
+"Category:Bugs",
+"Category:End of Dragons content",
+"Category:The Echovald Wilds"
+],
 "Has canonical name": [
 "Valdhertz Crypts"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -320,12 +477,19 @@
 "_subject": "Valdhertz Crypts (mini-dungeon)"
 },
 {
+"Category": [
+"Category:Mini-dungeons",
+"Category:Bugs",
+"Category:End of Dragons content",
+"Category:The Echovald Wilds"
+],
 "Has canonical name": [
 "Vasburg Armory"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -335,12 +499,18 @@
 "_subject": "Vasburg Armory (mini-dungeon)"
 },
 {
+"Category": [
+"Category:Lornar's Pass",
+"Category:Mini-dungeons",
+"Category:Explorer achievements"
+],
 "Has canonical name": [
 "Windy Cave Treasure"
 ],
 "Has location type": [
 "Mini-dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],

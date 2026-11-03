@@ -1,15 +1,23 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Stronghold",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Stronghold",
+"Category:PvP articles with stub sections",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Battle of Champion's Dusk"
 ],
 "Has location type": [
 "Stronghold"
+],
+"Has map id": [
+1011
 ],
 "Is historical": [
 "f"

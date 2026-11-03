@@ -1,15 +1,22 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Fractal",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Aetherblade Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+956
 ],
 "Is historical": [
 "f"
@@ -20,11 +27,18 @@
 "_subject": "Aetherblade Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Aquatic Ruins Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+951
 ],
 "Is historical": [
 "f"
@@ -35,11 +49,18 @@
 "_subject": "Aquatic Ruins Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Captain Mai Trin Boss Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+960
 ],
 "Is historical": [
 "f"
@@ -50,11 +71,18 @@
 "_subject": "Captain Mai Trin Boss Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Chaos Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1164
 ],
 "Is historical": [
 "f"
@@ -65,11 +93,19 @@
 "_subject": "Chaos Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Cliffside Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+952
 ],
 "Is historical": [
 "f"
@@ -80,11 +116,23 @@
 "_subject": "Cliffside Fractal"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Dialogue articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Deepstone Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1290
 ],
 "Is historical": [
 "f"
@@ -95,11 +143,20 @@
 "_subject": "Deepstone Fractal"
 },
 {
+"Category": [
+"Category:Articles with stub sections",
+"Category:Dungeon articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Kinfall Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1584
 ],
 "Is historical": [
 "f"
@@ -110,11 +167,20 @@
 "_subject": "Kinfall Fractal"
 },
 {
+"Category": [
+"Category:Dungeon articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Lonely Tower Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1538
 ],
 "Is historical": [
 "f"
@@ -125,11 +191,18 @@
 "_subject": "Lonely Tower Fractal"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Fractals of the Mists"
+],
 "Has canonical name": [
 "Mistlock Observatory"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+872
 ],
 "Is historical": [
 "f"
@@ -140,11 +213,21 @@
 "_subject": "Mistlock Observatory"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Out of date information"
+],
 "Has canonical name": [
 "Molten Boss Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+959
 ],
 "Is historical": [
 "f"
@@ -155,11 +238,21 @@
 "_subject": "Molten Boss Fractal"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Out of date information"
+],
 "Has canonical name": [
 "Molten Furnace Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+955
 ],
 "Is historical": [
 "f"
@@ -170,11 +263,21 @@
 "_subject": "Molten Furnace Fractal"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Nightmare Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1177
 ],
 "Is historical": [
 "f"
@@ -185,12 +288,14 @@
 "_subject": "Nightmare Fractal"
 },
 {
+"Category": [],
 "Has canonical name": [
 "Seikilos/sandbox"
 ],
 "Has location type": [
 "Fractal"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -200,11 +305,22 @@
 "_subject": "User:Seikilos/sandbox"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Dungeon articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Shattered Observatory Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1205
 ],
 "Is historical": [
 "f"
@@ -215,11 +331,23 @@
 "_subject": "Shattered Observatory Fractal"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Articles with stub sections",
+"Category:Dungeon articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Silent Surf Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1500
 ],
 "Is historical": [
 "f"
@@ -230,11 +358,19 @@
 "_subject": "Silent Surf Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Siren's Reef Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1309
 ],
 "Is historical": [
 "f"
@@ -245,11 +381,19 @@
 "_subject": "Siren's Reef Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Snowblind Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+948
 ],
 "Is historical": [
 "f"
@@ -260,11 +404,19 @@
 "_subject": "Snowblind Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Solid Ocean Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+958
 ],
 "Is historical": [
 "f"
@@ -275,11 +427,22 @@
 "_subject": "Solid Ocean Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:PvE stubs",
+"Category:Uses API key for achievements",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Solitary Throne Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1636
 ],
 "Is historical": [
 "f"
@@ -290,11 +453,21 @@
 "_subject": "Solitary Throne Fractal"
 },
 {
+"Category": [
+"Category:Dungeon articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Sunqua Peak Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1384
 ],
 "Is historical": [
 "f"
@@ -305,11 +478,19 @@
 "_subject": "Sunqua Peak Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Swampland Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+949
 ],
 "Is historical": [
 "f"
@@ -320,11 +501,22 @@
 "_subject": "Swampland Fractal"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Thaumanova Reactor Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+957
 ],
 "Is historical": [
 "f"
@@ -335,11 +527,18 @@
 "_subject": "Thaumanova Reactor Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Twilight Oasis Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+1267
 ],
 "Is historical": [
 "f"
@@ -350,11 +549,19 @@
 "_subject": "Twilight Oasis Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Uncategorized Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+947
 ],
 "Is historical": [
 "f"
@@ -365,11 +572,19 @@
 "_subject": "Uncategorized Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Underground Facility Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+953
 ],
 "Is historical": [
 "f"
@@ -380,11 +595,18 @@
 "_subject": "Underground Facility Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements"
+],
 "Has canonical name": [
 "Urban Battleground Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+950
 ],
 "Is historical": [
 "f"
@@ -395,11 +617,19 @@
 "_subject": "Urban Battleground Fractal"
 },
 {
+"Category": [
+"Category:Fractals of the Mists",
+"Category:Uses API key for achievements",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Volcanic Fractal"
 ],
 "Has location type": [
 "Fractal"
+],
+"Has map id": [
+954
 ],
 "Is historical": [
 "f"

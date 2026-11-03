@@ -1,15 +1,23 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Dungeon",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Aetherblade Retreat",
+"Category:Living World Season 1 content",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Aetherblade Retreat"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+915
 ],
 "Is historical": [
 "t"
@@ -20,11 +28,20 @@
 "_subject": "Aetherblade Retreat"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Ascalonian Catacombs"
+],
 "Has canonical name": [
 "Ascalonian Catacombs"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+36,
+33
 ],
 "Is historical": [
 "f"
@@ -35,11 +52,23 @@
 "_subject": "Ascalonian Catacombs"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Ascalonian Catacombs",
+"Category:Dungeon articles with stub sections",
+"Category:Bugs",
+"Category:Text errors",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Ascalonian Catacombs (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+36
 ],
 "Is historical": [
 "f"
@@ -50,11 +79,22 @@
 "_subject": "Ascalonian Catacombs (explorable)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Anomalies",
+"Category:Ascalonian Catacombs",
+"Category:Bugs",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Ascalonian Catacombs (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+33
 ],
 "Is historical": [
 "f"
@@ -65,11 +105,21 @@
 "_subject": "Ascalonian Catacombs (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Halloween",
+"Category:Temporary content",
+"Category:Mad King's Realm",
+"Category:Ascent to Madness"
+],
 "Has canonical name": [
 "Ascent to Madness"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+863
 ],
 "Is historical": [
 "f"
@@ -80,12 +130,19 @@
 "_subject": "Ascent to Madness"
 },
 {
+"Category": [
+"Category:Canach's Lair",
+"Category:Last Stand at Southsun",
+"Category:Living World Season 1 content",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Canach's Lair"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -95,12 +152,20 @@
 "_subject": "Canach's Lair (dungeon)"
 },
 {
+"Category": [
+"Category:Canach's Lair",
+"Category:Last Stand at Southsun",
+"Category:Living World Season 1 content",
+"Category:Historical locations",
+"Category:Canach's Lair (explorable)"
+],
 "Has canonical name": [
 "Canach's Lair (explorable)"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -110,12 +175,19 @@
 "_subject": "Canach's Lair (explorable)"
 },
 {
+"Category": [
+"Category:Canach's Lair",
+"Category:Last Stand at Southsun",
+"Category:Living World Season 1 content",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Canach's Lair"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -125,11 +197,20 @@
 "_subject": "Canach's Lair (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Kryta",
+"Category:Caudecus's Manor"
+],
 "Has canonical name": [
 "Caudecus's Manor"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+76,
+75
 ],
 "Is historical": [
 "f"
@@ -140,11 +221,24 @@
 "_subject": "Caudecus's Manor"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Kryta",
+"Category:Anomalies",
+"Category:Dungeon articles with stub sections",
+"Category:Caudecus's Manor",
+"Category:Pages with verification requests",
+"Category:Text errors",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Caudecus's Manor (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+76
 ],
 "Is historical": [
 "f"
@@ -155,11 +249,21 @@
 "_subject": "Caudecus's Manor (explorable)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Kryta",
+"Category:Dungeon articles with stub sections",
+"Category:Caudecus's Manor",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Caudecus's Manor (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+75
 ],
 "Is historical": [
 "f"
@@ -170,11 +274,20 @@
 "_subject": "Caudecus's Manor (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Citadel of Flame"
+],
 "Has canonical name": [
 "Citadel of Flame"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+69,
+66
 ],
 "Is historical": [
 "f"
@@ -185,11 +298,24 @@
 "_subject": "Citadel of Flame"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Citadel of Flame",
+"Category:Dialogue articles with stub sections",
+"Category:Dungeon articles with stub sections",
+"Category:Pages with verification requests",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Citadel of Flame (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+69
 ],
 "Is historical": [
 "f"
@@ -200,11 +326,21 @@
 "_subject": "Citadel of Flame (explorable)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Ascalon",
+"Category:Anomalies",
+"Category:Citadel of Flame",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Citadel of Flame (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+66
 ],
 "Is historical": [
 "f"
@@ -215,11 +351,20 @@
 "_subject": "Citadel of Flame (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Maguuma Jungle",
+"Category:Crucible of Eternity"
+],
 "Has canonical name": [
 "Crucible of Eternity"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+82,
+81
 ],
 "Is historical": [
 "f"
@@ -230,11 +375,22 @@
 "_subject": "Crucible of Eternity"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Maguuma Jungle",
+"Category:Crucible of Eternity",
+"Category:Pages with verification requests",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Crucible of Eternity (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+82
 ],
 "Is historical": [
 "f"
@@ -245,11 +401,21 @@
 "_subject": "Crucible of Eternity (explorable)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Maguuma Jungle",
+"Category:Crucible of Eternity",
+"Category:Pages with verification requests",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Crucible of Eternity (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+81
 ],
 "Is historical": [
 "f"
@@ -260,12 +426,20 @@
 "_subject": "Crucible of Eternity (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Fractals of the Mists",
+"Category:Bugs",
+"Category:Fractals of the Mists (region)",
+"Category:Pages with non-numeric formatnum arguments"
+],
 "Has canonical name": [
 "Fractals of the Mists"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -275,11 +449,21 @@
 "_subject": "Fractals of the Mists"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Honor of the Waves",
+"Category:Sanctuaries"
+],
 "Has canonical name": [
 "Honor of the Waves"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+71,
+70
 ],
 "Is historical": [
 "f"
@@ -290,11 +474,21 @@
 "_subject": "Honor of the Waves"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Honor of the Waves",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Honor of the Waves (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+71
 ],
 "Is historical": [
 "f"
@@ -305,11 +499,20 @@
 "_subject": "Honor of the Waves (explorable)"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Honor of the Waves",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Honor of the Waves (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+70
 ],
 "Is historical": [
 "f"
@@ -320,12 +523,19 @@
 "_subject": "Honor of the Waves (story)"
 },
 {
+"Category": [
+"Category:Flame and Frost",
+"Category:Molten Facility",
+"Category:Living World Season 1 content",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Molten Facility"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -335,12 +545,20 @@
 "_subject": "Molten Facility"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Clockwork Chaos",
+"Category:Scarlet's Playhouse",
+"Category:Living World Season 1 content",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Scarlet's Playhouse"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -350,11 +568,20 @@
 "_subject": "Scarlet's Playhouse/historical"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Sorrow's Embrace"
+],
 "Has canonical name": [
 "Sorrow's Embrace"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+64,
+63
 ],
 "Is historical": [
 "f"
@@ -365,11 +592,21 @@
 "_subject": "Sorrow's Embrace"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Sorrow's Embrace",
+"Category:Pages with verification requests",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Sorrow's Embrace (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+64
 ],
 "Is historical": [
 "f"
@@ -380,11 +617,20 @@
 "_subject": "Sorrow's Embrace (explorable)"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Dungeons",
+"Category:Sorrow's Embrace",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Sorrow's Embrace (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+63
 ],
 "Is historical": [
 "f"
@@ -395,12 +641,23 @@
 "_subject": "Sorrow's Embrace (story)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Rata Sum",
+"Category:Temporary content",
+"Category:Super Adventure Box",
+"Category:Pages with verification requests",
+"Category:Super Adventure Festival",
+"Category:Uses API key",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Super Adventure Box"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -410,11 +667,21 @@
 "_subject": "Super Adventure Box"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Ruins of Orr",
+"Category:Dungeons",
+"Category:The Ruined City of Arah",
+"Category:Text errors"
+],
 "Has canonical name": [
 "The Ruined City of Arah"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+112
 ],
 "Is historical": [
 "f"
@@ -425,11 +692,21 @@
 "_subject": "The Ruined City of Arah"
 },
 {
+"Category": [
+"Category:Ruins of Orr",
+"Category:Dungeons",
+"Category:The Ruined City of Arah",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "The Ruined City of Arah (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+112
 ],
 "Is historical": [
 "f"
@@ -440,12 +717,19 @@
 "_subject": "The Ruined City of Arah (explorable)"
 },
 {
+"Category": [
+"Category:The Ruined City of Arah",
+"Category:Dungeon articles with stub sections",
+"Category:Historical locations",
+"Category:Bugs"
+],
 "Has canonical name": [
 "The Ruined City of Arah"
 ],
 "Has location type": [
 "Dungeon"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -455,11 +739,22 @@
 "_subject": "The Ruined City of Arah (story)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Dungeons",
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Tixx's Infinirarium",
+"Category:Wintersday Celebration"
+],
 "Has canonical name": [
 "Tixx's Infinirarium"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+878
 ],
 "Is historical": [
 "f"
@@ -470,11 +765,20 @@
 "_subject": "Tixx's Infinirarium"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Maguuma Jungle",
+"Category:Twilight Arbor"
+],
 "Has canonical name": [
 "Twilight Arbor"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+67,
+68
 ],
 "Is historical": [
 "f"
@@ -485,11 +789,25 @@
 "_subject": "Twilight Arbor"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Dungeons",
+"Category:Anomalies",
+"Category:Maguuma Jungle",
+"Category:Twilight Arbor",
+"Category:Dialogue articles with stub sections",
+"Category:Pages with verification requests",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Twilight Arbor (explorable)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+67
 ],
 "Is historical": [
 "f"
@@ -500,11 +818,22 @@
 "_subject": "Twilight Arbor (explorable)"
 },
 {
+"Category": [
+"Category:Dungeons",
+"Category:Maguuma Jungle",
+"Category:Twilight Arbor",
+"Category:Dungeon articles with stub sections",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Twilight Arbor (story)"
 ],
 "Has location type": [
 "Dungeon"
+],
+"Has map id": [
+68
 ],
 "Is historical": [
 "f"

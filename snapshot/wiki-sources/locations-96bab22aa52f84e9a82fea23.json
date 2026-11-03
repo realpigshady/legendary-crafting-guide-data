@@ -1,16 +1,23 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Jumping puzzle",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Living World Season 3 content",
+"Category:Siren's Landing"
+],
 "Has canonical name": [
 "Abaddon's Ascent"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -20,12 +27,18 @@
 "_subject": "Abaddon's Ascent"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Malchor's Leap"
+],
 "Has canonical name": [
 "Antre of Adjournment"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -35,12 +48,19 @@
 "_subject": "Antre of Adjournment"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:World vs. World"
+],
 "Has canonical name": [
 "Armistice Bastion"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -50,12 +70,19 @@
 "_subject": "Armistice Bastion (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Visions of Eternity content",
+"Category:Eternity's Garden"
+],
 "Has canonical name": [
 "Artificer's Rise"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -65,12 +92,18 @@
 "_subject": "Artificer's Rise"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Blazeridge Steppes",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Behem Gauntlet"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -80,12 +113,23 @@
 "_subject": "Behem Gauntlet (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Articles with stub sections",
+"Category:Achievements",
+"Category:Jumping puzzles",
+"Category:Bugs",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Starlit Weald"
+],
 "Has canonical name": [
 "Birdie Benefactor"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -95,12 +139,18 @@
 "_subject": "Birdie Benefactor"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Fields of Ruin",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Branded Mine"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -110,12 +160,19 @@
 "_subject": "Branded Mine"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Cursed Shore",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Buried Archives"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -125,12 +182,18 @@
 "_subject": "Buried Archives"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Iron Marches",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Chaos Crystal Cavern"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -140,12 +203,19 @@
 "_subject": "Chaos Crystal Cavern"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Timberline Falls",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Coddler's Cove"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -155,12 +225,19 @@
 "_subject": "Coddler's Cove"
 },
 {
+"Category": [
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Leyspring Hollows"
+],
 "Has canonical name": [
 "Coleopteran Cavern"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -170,12 +247,18 @@
 "_subject": "Coleopteran Cavern"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Mount Maelstrom",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Conundrum Cubed"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -185,12 +268,19 @@
 "_subject": "Conundrum Cubed"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Blazeridge Steppes",
+"Category:Jumping puzzles",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Craze's Folly"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -200,12 +290,18 @@
 "_subject": "Craze's Folly"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Diessa Plateau",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Crimson Plateau"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -215,12 +311,18 @@
 "_subject": "Crimson Plateau"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Caledon Forest",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Dark Reverie"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -230,12 +332,20 @@
 "_subject": "Dark Reverie"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Queensdale",
+"Category:Jumping puzzles",
+"Category:Pages with verification requests",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Demongrub Pits"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -245,12 +355,19 @@
 "_subject": "Demongrub Pits (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Heart of Thorns content",
+"Category:Jumping puzzles",
+"Category:Auric Basin"
+],
 "Has canonical name": [
 "Egg Bearer"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -260,12 +377,19 @@
 "_subject": "Egg Bearer"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Harathi Hinterlands",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Fawcett's Bounty"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -275,12 +399,19 @@
 "_subject": "Fawcett's Bounty"
 },
 {
+"Category": [
+"Category:Location stubs",
+"Category:Jumping puzzles",
+"Category:The Icebrood Saga content",
+"Category:Grothmar Valley"
+],
 "Has canonical name": [
 "Flame Legion Camp"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -290,12 +421,19 @@
 "_subject": "Flame Legion Camp (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:The Icebrood Saga content",
+"Category:Grothmar Valley"
+],
 "Has canonical name": [
 "Gauntlet of the Khan-Ur"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -305,12 +443,19 @@
 "_subject": "Gauntlet of the Khan-Ur"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Metrica Province",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Goemm's Lab"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -320,12 +465,19 @@
 "_subject": "Goemm's Lab"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Diessa Plateau",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Grendich Gamble"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -335,12 +487,18 @@
 "_subject": "Grendich Gamble"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Lornar's Pass",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Griffonrook Run"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -350,12 +508,18 @@
 "_subject": "Griffonrook Run (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Sparkfly Fen",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Hexfoundry Unhinged"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -365,12 +529,20 @@
 "_subject": "Hexfoundry Unhinged"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Mount Maelstrom",
+"Category:Jumping puzzles",
+"Category:Pages with verification requests",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Hidden Garden"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -380,12 +552,18 @@
 "_subject": "Hidden Garden"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Auric Basin"
+],
 "Has canonical name": [
 "Highest Gear"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -395,12 +573,20 @@
 "_subject": "Highest Gear"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Bugs",
+"Category:Visions of Eternity content",
+"Category:Leyspring Hollows"
+],
 "Has canonical name": [
 "Inquest Cache"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -410,12 +596,20 @@
 "_subject": "Inquest Cache"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Starlit Weald"
+],
 "Has canonical name": [
 "Inquest Hologram"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -425,12 +619,19 @@
 "_subject": "Inquest Hologram"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Snowden Drifts",
+"Category:Jumping puzzles",
+"Category:Text errors"
+],
 "Has canonical name": [
 "King Jalis's Refuge"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -440,12 +641,18 @@
 "_subject": "King Jalis's Refuge (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Plains of Ashford",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Loreclaw Expanse"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -455,12 +662,19 @@
 "_subject": "Loreclaw Expanse (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Tangled Depths",
+"Category:PvE stubs"
+],
 "Has canonical name": [
 "Master Mushroom Spelunker"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -470,12 +684,19 @@
 "_subject": "Master Mushroom Spelunker"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Visions of Eternity content",
+"Category:Starlit Weald"
+],
 "Has canonical name": [
 "Meandering Magic"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -485,12 +706,18 @@
 "_subject": "Meandering Magic"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Fractals of the Mists"
+],
 "Has canonical name": [
 "Mistlock Mountaineer"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -500,12 +727,18 @@
 "_subject": "Mistlock Mountaineer"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Green Alpine Borderlands",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Mistwrought Vault"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -515,12 +748,18 @@
 "_subject": "Mistwrought Vault"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Caledon Forest",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Morgan's Leap"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -530,12 +769,21 @@
 "_subject": "Morgan's Leap"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Articles with stub sections",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Eternity's Garden"
+],
 "Has canonical name": [
 "Munchin' Moths"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -545,12 +793,18 @@
 "_subject": "Munchin' Moths"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Gendarran Fields",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Not So Secret"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -560,12 +814,18 @@
 "_subject": "Not So Secret"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Obsidian Sanctum (zone)"
+],
 "Has canonical name": [
 "Obsidian Sanctum"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -575,12 +835,18 @@
 "_subject": "Obsidian Sanctum"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Timberline Falls",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Only Zuhl"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -590,12 +856,19 @@
 "_subject": "Only Zuhl"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Visions of Eternity content",
+"Category:Shipwreck Strand"
+],
 "Has canonical name": [
 "Orb Cavern"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -605,12 +878,19 @@
 "_subject": "Orb Cavern"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Fireheart Rise",
+"Category:Jumping puzzles",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Pig Iron Quarry"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -620,12 +900,18 @@
 "_subject": "Pig Iron Quarry"
 },
 {
+"Category": [
+"Category:Bloodtide Coast",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Professor Portmatt's Lab"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -635,12 +921,18 @@
 "_subject": "Professor Portmatt's Lab"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Dry Top"
+],
 "Has canonical name": [
 "Prospect Valley Crash Site"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -650,12 +942,21 @@
 "_subject": "Prospect Valley Crash Site"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Bugs",
+"Category:Locations missing a screenshot",
+"Category:Janthir Wilds content",
+"Category:Lowland Shore"
+],
 "Has canonical name": [
 "Queen's Confidence"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -665,12 +966,19 @@
 "_subject": "Queen's Confidence (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Maguuma Wastes",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Retrospective Runaround"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -680,12 +988,18 @@
 "_subject": "Retrospective Runaround"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Malchor's Leap"
+],
 "Has canonical name": [
 "Scavenger's Chasm"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -695,12 +1009,20 @@
 "_subject": "Scavenger's Chasm"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Ring of Fire",
+"Category:Pages with verification requests",
+"Category:Living World Season 3 content"
+],
 "Has canonical name": [
 "Searing Ascent"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -710,12 +1032,18 @@
 "_subject": "Searing Ascent"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Frostgorge Sound",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Shattered Ice Ruins"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -725,12 +1053,19 @@
 "_subject": "Shattered Ice Ruins"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Ember Bay",
+"Category:Living World Season 3 content"
+],
 "Has canonical name": [
 "Skip up the Volcano"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -740,12 +1075,18 @@
 "_subject": "Skip up the Volcano"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Southsun Cove"
+],
 "Has canonical name": [
 "Skipping Stones"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -755,12 +1096,20 @@
 "_subject": "Skipping Stones"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Visions of Eternity content",
+"Category:Shipwreck Strand"
+],
 "Has canonical name": [
 "Soaring Copse"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -770,12 +1119,19 @@
 "_subject": "Soaring Copse (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Caledon Forest",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Spekks's Laboratory"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -785,12 +1141,18 @@
 "_subject": "Spekks's Laboratory"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Caledon Forest",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Spelunker's Delve"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -800,12 +1162,19 @@
 "_subject": "Spelunker's Delve"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Gendarran Fields",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Swashbuckler's Cove"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -815,12 +1184,18 @@
 "_subject": "Swashbuckler's Cove"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Kessex Hills",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "The Collapsed Observatory"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -830,12 +1205,20 @@
 "_subject": "The Collapsed Observatory"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Articles with stub sections",
+"Category:Jumping puzzles",
+"Category:Janthir Wilds content",
+"Category:Bava Nisos"
+],
 "Has canonical name": [
 "Traversing the Titan"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -845,12 +1228,20 @@
 "_subject": "Traversing the Titan"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Janthir Wilds content",
+"Category:Lowland Shore"
+],
 "Has canonical name": [
 "Treetop Beehive"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -860,12 +1251,19 @@
 "_subject": "Treetop Beehive"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:End of Dragons content",
+"Category:Cantha"
+],
 "Has canonical name": [
 "Trials of the Tengu"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -875,12 +1273,18 @@
 "_subject": "Trials of the Tengu"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Dredgehaunt Cliffs",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Tribulation Rift Scaffolding"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -890,12 +1294,19 @@
 "_subject": "Tribulation Rift Scaffolding"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Kryta",
+"Category:Jumping puzzles",
+"Category:Living World Season 1 content"
+],
 "Has canonical name": [
 "Troll's End"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -905,12 +1316,19 @@
 "_subject": "Troll's End"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Kryta",
+"Category:Jumping puzzles",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Troll's Revenge"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -920,12 +1338,18 @@
 "_subject": "Troll's Revenge"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Southsun Cove"
+],
 "Has canonical name": [
 "Under New Management"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -935,12 +1359,18 @@
 "_subject": "Under New Management"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Lion's Arch",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Urmaug's Secret"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -950,12 +1380,19 @@
 "_subject": "Urmaug's Secret"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Locations missing a screenshot",
+"Category:Lowland Shore"
+],
 "Has canonical name": [
 "Vale Brazier"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -965,12 +1402,19 @@
 "_subject": "Vale Brazier"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Sparkfly Fen",
+"Category:Jumping puzzles",
+"Category:Pages with verification requests"
+],
 "Has canonical name": [
 "Verarium Delves"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -980,12 +1424,18 @@
 "_subject": "Verarium Delves (jumping puzzle)"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:Straits of Devastation"
+],
 "Has canonical name": [
 "Vizier's Tower"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -995,12 +1445,19 @@
 "_subject": "Vizier's Tower"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Diessa Plateau",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Wall Breach Blitz"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -1010,12 +1467,18 @@
 "_subject": "Wall Breach Blitz"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Lion's Arch",
+"Category:Jumping puzzles"
+],
 "Has canonical name": [
 "Weyandt's Revenge"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -1025,12 +1488,19 @@
 "_subject": "Weyandt's Revenge"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Jumping puzzles",
+"Category:End of Dragons content",
+"Category:New Kaineng City"
+],
 "Has canonical name": [
 "Wind through the Walls"
 ],
 "Has location type": [
 "Jumping puzzle"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],

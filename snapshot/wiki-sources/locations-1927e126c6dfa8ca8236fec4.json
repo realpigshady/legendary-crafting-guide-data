@@ -1,15 +1,22 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Conquest",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Battle of Kyhlo"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+549
 ],
 "Is historical": [
 "f"
@@ -20,11 +27,18 @@
 "_subject": "Battle of Kyhlo"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Djinn's Dominion"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+1305
 ],
 "Is historical": [
 "f"
@@ -35,11 +49,19 @@
 "_subject": "Djinn's Dominion"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Eternal Coliseum"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+1171
 ],
 "Is historical": [
 "f"
@@ -50,11 +72,19 @@
 "_subject": "Eternal Coliseum"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player",
+"Category:Pages with image sizes containing extra px"
+],
 "Has canonical name": [
 "Forest of Niflhel"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+554
 ],
 "Is historical": [
 "f"
@@ -65,11 +95,18 @@
 "_subject": "Forest of Niflhel"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Legacy of the Foefire"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+795
 ],
 "Is historical": [
 "f"
@@ -80,12 +117,17 @@
 "_subject": "Legacy of the Foefire"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Historical locations"
+],
 "Has canonical name": [
 "Raid on the Capricorn"
 ],
 "Has location type": [
 "Conquest"
 ],
+"Has map id": [],
 "Is historical": [
 "t"
 ],
@@ -95,11 +137,18 @@
 "_subject": "Raid on the Capricorn"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Revenge of the Capricorn"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+1163
 ],
 "Is historical": [
 "f"
@@ -110,11 +159,19 @@
 "_subject": "Revenge of the Capricorn"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:PvP articles with stub sections",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Skyhammer"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+900
 ],
 "Is historical": [
 "f"
@@ -125,11 +182,18 @@
 "_subject": "Skyhammer"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Spirit Watch"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+894
 ],
 "Is historical": [
 "f"
@@ -140,11 +204,18 @@
 "_subject": "Spirit Watch"
 },
 {
+"Category": [
+"Category:Conquest",
+"Category:Player vs. Player"
+],
 "Has canonical name": [
 "Temple of the Silent Storm"
 ],
 "Has location type": [
 "Conquest"
+],
+"Has map id": [
+875
 ],
 "Is historical": [
 "f"

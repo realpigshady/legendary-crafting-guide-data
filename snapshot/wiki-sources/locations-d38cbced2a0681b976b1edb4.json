@@ -1,15 +1,24 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Dragon Response Mission",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Bloodtide Coast"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1387,
+1394
 ],
 "Is historical": [
 "f"
@@ -20,11 +29,23 @@
 "_subject": "Dragon Response Mission: Bloodtide Coast"
 },
 {
+"Category": [
+"Category:NPC articles with stub sections",
+"Category:Event articles with stub sections",
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Text errors",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Brisban Wildlands"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1391,
+1399
 ],
 "Is historical": [
 "f"
@@ -35,11 +56,22 @@
 "_subject": "Dragon Response Mission: Brisban Wildlands"
 },
 {
+"Category": [
+"Category:Articles with stub sections",
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Bugs",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Caledon Forest"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1385,
+1403
 ],
 "Is historical": [
 "f"
@@ -50,11 +82,22 @@
 "_subject": "Dragon Response Mission: Caledon Forest"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Bugs",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Fields of Ruin"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1398,
+1400
 ],
 "Is historical": [
 "f"
@@ -65,11 +108,20 @@
 "_subject": "Dragon Response Mission: Fields of Ruin"
 },
 {
+"Category": [
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Fireheart Rise"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1390,
+1404
 ],
 "Is historical": [
 "f"
@@ -80,11 +132,23 @@
 "_subject": "Dragon Response Mission: Fireheart Rise"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Bugs",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Gendarran Fields"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1396,
+1405
 ],
 "Is historical": [
 "f"
@@ -95,11 +159,21 @@
 "_subject": "Dragon Response Mission: Gendarran Fields"
 },
 {
+"Category": [
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Bugs",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Lake Doric"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1402,
+1393
 ],
 "Is historical": [
 "f"
@@ -110,11 +184,21 @@
 "_subject": "Dragon Response Mission: Lake Doric"
 },
 {
+"Category": [
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Text errors",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Metrica Province"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1397,
+1401
 ],
 "Is historical": [
 "f"
@@ -125,11 +209,23 @@
 "_subject": "Dragon Response Mission: Metrica Province"
 },
 {
+"Category": [
+"Category:Pages with verification requests",
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Bugs",
+"Category:Text errors",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Snowden Drifts"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1388,
+1389
 ],
 "Is historical": [
 "f"
@@ -140,11 +236,20 @@
 "_subject": "Dragon Response Mission: Snowden Drifts"
 },
 {
+"Category": [
+"Category:Uses API key for achievements",
+"Category:The Icebrood Saga content",
+"Category:Dragon Response Missions"
+],
 "Has canonical name": [
 "Dragon Response Mission: Thunderhead Peaks"
 ],
 "Has location type": [
 "Dragon Response Mission"
+],
+"Has map id": [
+1386,
+1395
 ],
 "Is historical": [
 "f"

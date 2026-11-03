@@ -1,15 +1,24 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Push",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:The Mists",
+"Category:PvP articles with stub sections",
+"Category:Push"
+],
 "Has canonical name": [
 "Sunjiang Backstreets"
 ],
 "Has location type": [
 "Push"
+],
+"Has map id": [
+1561
 ],
 "Is historical": [
 "f"

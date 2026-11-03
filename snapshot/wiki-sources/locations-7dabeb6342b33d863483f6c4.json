@@ -1,15 +1,25 @@
 {
-"fetched": 1793681233.3296435,
+"fetched": 1793681337.1368318,
 "item": "Raid",
 "kind": "locations",
-"q": "bd5d54a34a4b",
+"q": "3500a575bdcc",
 "rows": [
 {
+"Category": [
+"Category:Anomalies",
+"Category:Raids",
+"Category:PvE stubs",
+"Category:End of Dragons content",
+"Category:Seitung Province"
+],
 "Has canonical name": [
 "Aetherblade Hideout"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1432
 ],
 "Is historical": [
 "f"
@@ -20,11 +30,22 @@
 "_subject": "Aetherblade Hideout"
 },
 {
+"Category": [
+"Category:Heart of Thorns content",
+"Category:Dungeon articles with stub sections",
+"Category:Heart of Maguuma",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Articles that are missing citations"
+],
 "Has canonical name": [
 "Bastion of the Penitent"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1188
 ],
 "Is historical": [
 "f"
@@ -35,11 +56,20 @@
 "_subject": "Bastion of the Penitent"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Path of Fire content",
+"Category:Bjora Marches"
+],
 "Has canonical name": [
 "Boneskinner"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1339,
+1351
 ],
 "Is historical": [
 "f"
@@ -50,11 +80,22 @@
 "_subject": "Boneskinner"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Anomalies",
+"Category:Raids",
+"Category:The Icebrood Saga content",
+"Category:Drizzlewood Coast"
+],
 "Has canonical name": [
 "Cold War"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1374,
+1376
 ],
 "Is historical": [
 "f"
@@ -65,11 +106,20 @@
 "_subject": "Cold War"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Bugs",
+"Category:Skywatch Archipelago",
+"Category:Secrets of the Obscure content"
+],
 "Has canonical name": [
 "Cosmic Observatory"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1515
 ],
 "Is historical": [
 "f"
@@ -80,11 +130,26 @@
 "_subject": "Cosmic Observatory"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Anomalies",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Path of Fire content",
+"Category:Uses API key for achievements",
+"Category:Text errors",
+"Category:Forging Steel",
+"Category:Story articles with stub sections"
+],
 "Has canonical name": [
 "Forging Steel"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1362,
+1368
 ],
 "Is historical": [
 "f"
@@ -95,12 +160,19 @@
 "_subject": "Forging Steel"
 },
 {
+"Category": [
+"Category:Heart of Thorns content",
+"Category:Heart of Maguuma",
+"Category:Raids",
+"Category:Forsaken Thicket"
+],
 "Has canonical name": [
 "Forsaken Thicket"
 ],
 "Has location type": [
 "Raid"
 ],
+"Has map id": [],
 "Is historical": [
 "f"
 ],
@@ -110,11 +182,23 @@
 "_subject": "Forsaken Thicket"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Path of Fire content",
+"Category:Bjora Marches",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "Fraenir of Jormag"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1341,
+1344
 ],
 "Is historical": [
 "f"
@@ -125,11 +209,24 @@
 "_subject": "Fraenir of Jormag"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Anomalies",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:PvE stubs",
+"Category:Bugs",
+"Category:Visions of Eternity content",
+"Category:Shipwreck Strand"
+],
 "Has canonical name": [
 "Guardian's Glade"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1609
 ],
 "Is historical": [
 "f"
@@ -140,11 +237,24 @@
 "_subject": "Guardian's Glade"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:The Mists",
+"Category:Dungeon articles with stub sections",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Path of Fire content",
+"Category:Hall of Chains",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Hall of Chains"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1264
 ],
 "Is historical": [
 "f"
@@ -155,11 +265,20 @@
 "_subject": "Hall of Chains"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Bugs",
+"Category:End of Dragons content",
+"Category:Dragon's End"
+],
 "Has canonical name": [
 "Harvest Temple"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1437
 ],
 "Is historical": [
 "f"
@@ -170,11 +289,21 @@
 "_subject": "Harvest Temple"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Bugs",
+"Category:End of Dragons content",
+"Category:New Kaineng City"
+],
 "Has canonical name": [
 "Kaineng Overlook"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1451
 ],
 "Is historical": [
 "f"
@@ -185,11 +314,25 @@
 "_subject": "Kaineng Overlook"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:NPC articles with stub sections",
+"Category:Articles with stub sections",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Bugs",
+"Category:Text errors",
+"Category:Janthir Wilds content",
+"Category:Mount Balrior (zone)"
+],
 "Has canonical name": [
 "Mount Balrior"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1564
 ],
 "Is historical": [
 "f"
@@ -200,11 +343,23 @@
 "_subject": "Mount Balrior"
 },
 {
+"Category": [
+"Category:Dungeon articles with stub sections",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Path of Fire content",
+"Category:Crystal Desert",
+"Category:Mythwright Gambit",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Mythwright Gambit"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1303
 ],
 "Is historical": [
 "f"
@@ -215,11 +370,22 @@
 "_subject": "Mythwright Gambit"
 },
 {
+"Category": [
+"Category:Spoilers",
+"Category:Raids",
+"Category:PvE stubs",
+"Category:Bugs",
+"Category:Visions of Eternity content",
+"Category:Castora"
+],
 "Has canonical name": [
 "Nexus of Eternity"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1638
 ],
 "Is historical": [
 "f"
@@ -230,11 +396,22 @@
 "_subject": "Nexus of Eternity"
 },
 {
+"Category": [
+"Category:Lion's Arch",
+"Category:Anomalies",
+"Category:Battle for Lion's Arch",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Living World Season 1 content"
+],
 "Has canonical name": [
 "Old Lion's Court"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1485
 ],
 "Is historical": [
 "f"
@@ -245,11 +422,22 @@
 "_subject": "Old Lion's Court"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Heart of Thorns content",
+"Category:Raids",
+"Category:Salvation Pass",
+"Category:Forsaken Thicket",
+"Category:Pages with verification requests"
+],
 "Has canonical name": [
 "Salvation Pass"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1149
 ],
 "Is historical": [
 "f"
@@ -260,11 +448,24 @@
 "_subject": "Salvation Pass"
 },
 {
+"Category": [
+"Category:Shiverpeak Mountains",
+"Category:Anomalies",
+"Category:Wintersday",
+"Category:Temporary content",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Secret Lair of the Snowmen"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1306,
+1352
 ],
 "Is historical": [
 "f"
@@ -275,11 +476,21 @@
 "_subject": "Secret Lair of the Snowmen"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Path of Fire content",
+"Category:Grothmar Valley",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Shiverpeaks Pass"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1331,
+1332
 ],
 "Is historical": [
 "f"
@@ -290,11 +501,23 @@
 "_subject": "Shiverpeaks Pass"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Anomalies",
+"Category:Heart of Thorns content",
+"Category:Raids",
+"Category:Spirit Vale",
+"Category:Forsaken Thicket",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Spirit Vale"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1062
 ],
 "Is historical": [
 "f"
@@ -305,11 +528,22 @@
 "_subject": "Spirit Vale"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Heart of Thorns content",
+"Category:Raids",
+"Category:Forsaken Thicket",
+"Category:Pages with verification requests",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Stronghold of the Faithful"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1156
 ],
 "Is historical": [
 "f"
@@ -320,11 +554,21 @@
 "_subject": "Stronghold of the Faithful"
 },
 {
+"Category": [
+"Category:Anomalies",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Secrets of the Obscure content",
+"Category:Nayos"
+],
 "Has canonical name": [
 "Temple of Febe"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1520
 ],
 "Is historical": [
 "f"
@@ -335,11 +579,24 @@
 "_subject": "Temple of Febe"
 },
 {
+"Category": [
+"Category:Location articles with stub sections",
+"Category:Raids",
+"Category:Pages with verification requests",
+"Category:Path of Fire content",
+"Category:Crystal Desert",
+"Category:The Key of Ahdashim",
+"Category:Bugs",
+"Category:Text errors"
+],
 "Has canonical name": [
 "The Key of Ahdashim"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1323
 ],
 "Is historical": [
 "f"
@@ -350,11 +607,20 @@
 "_subject": "The Key of Ahdashim"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Path of Fire content",
+"Category:Bjora Marches"
+],
 "Has canonical name": [
 "Voice of the Fallen and Claw of the Fallen"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1340,
+1346
 ],
 "Is historical": [
 "f"
@@ -365,11 +631,22 @@
 "_subject": "Voice of the Fallen and Claw of the Fallen"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:Path of Fire content",
+"Category:Uses API key for achievements",
+"Category:Bjora Marches",
+"Category:Bugs"
+],
 "Has canonical name": [
 "Whisper of Jormag"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1357,
+1359
 ],
 "Is historical": [
 "f"
@@ -380,11 +657,19 @@
 "_subject": "Whisper of Jormag"
 },
 {
+"Category": [
+"Category:Raids",
+"Category:End of Dragons content",
+"Category:The Echovald Wilds"
+],
 "Has canonical name": [
 "Xunlai Jade Junkyard"
 ],
 "Has location type": [
 "Raid"
+],
+"Has map id": [
+1450
 ],
 "Is historical": [
 "f"
