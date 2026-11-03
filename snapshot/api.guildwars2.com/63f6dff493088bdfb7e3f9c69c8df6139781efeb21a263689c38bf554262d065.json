@@ -1,0 +1,26 @@
+{
+"body": [
+{
+"chat_link": "[&AgHgTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/32D3BC4B5722155E15DC5A1DE5E9255C50F90609/65909.png",
+"id": 19680,
+"level": 0,
+"name": "Copper Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19680"
+}

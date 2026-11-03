@@ -1,0 +1,5 @@
+{
+"revid": 2726820,
+"text": "{{Item infobox\n| description = Created in the Mystic Forge by combining:\n* 5 [[Auric Ingot|Auric Ingots]]\n* 5 [[Reclaimed Metal Plate|Reclaimed Metal Plates]]\n* 5 [[Chak Egg|Chak Eggs]]\n* 1 [[Gift of the Pact]]\n| type = crafting material\n| material type = mystic\n| rarity = exotic\n| bound = account\n| id = 78936\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 5 Chak Egg\n| ingredient2 = 5 Auric Ingot\n| ingredient3 = 5 Reclaimed Metal Plate\n| ingredient4 = 1 Gift of the Pact\n| quantity = 1\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Hingabe]]\n[[es:Don de dedicación]]\n[[fr:Don de dévouement]]",
+"title": "Gift of Dedication"
+}

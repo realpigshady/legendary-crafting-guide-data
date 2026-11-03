@@ -1,0 +1,309 @@
+{
+"fetched": 1793700756.670418,
+"item": "Gift of Prowess",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Bastion of the Penitent)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of the Penitent"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Bastion of the Penitent)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Hall of Chains)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Chains"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Hall of Chains)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Mythwright Gambit)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mythwright Gambit"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Mythwright Gambit)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Salvation Pass)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Salvation Pass"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Salvation Pass)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Spirit Vale)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Spirit Vale"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Spirit Vale)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Stronghold of the Faithful)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of the Faithful"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (Stronghold of the Faithful)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Eldritch Scroll",
+"Has item value": "1"
+},
+{
+"Has item currency": "Obsidian Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Cube of Stabilized Dark Energy",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (The Key of Ahdashim)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Key of Ahdashim"
+],
+"Sells item": [
+"Gift of Prowess"
+],
+"_subject": "Scholar Glenna (The Key of Ahdashim)#vendor3"
+}
+]
+}

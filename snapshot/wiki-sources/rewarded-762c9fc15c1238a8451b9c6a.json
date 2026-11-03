@@ -1,0 +1,46 @@
+{
+"fetched": 1793701048.522672,
+"item": "Gift of Amnytas",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Amnytas"
+],
+"Rewards item": [
+"Gift of Amnytas"
+],
+"_subject": "Amnytas#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of Amnytas"
+],
+"_subject": "Map completion#reward57"
+}
+]
+}

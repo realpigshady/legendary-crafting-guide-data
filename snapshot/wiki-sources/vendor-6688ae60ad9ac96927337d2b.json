@@ -1,0 +1,306 @@
+{
+"fetched": 1793700839.8266978,
+"item": "Clot of Congealed Screams",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Calcified Gasp",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Mage (The Commons)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Commons"
+],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Astral Ward Mage (The Commons)#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Calcified Gasp",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Memory's Hollow)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Memory's Hollow"
+],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Astral Ward Skirmisher (Memory's Hollow)#vendor1"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Citadel of Zakiros: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Citadel of Zakiros: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Citadel of Zakiros: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Inner Nayos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor12"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Citadel of Zakiros: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor23"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Inner Nayos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Inner Nayos: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Inner Nayos: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Inner Nayos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor12"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Citadel of Zakiros: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor23"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Inner Nayos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor12"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Citadel of Zakiros: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Clot of Congealed Screams"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor23"
+}
+]
+}

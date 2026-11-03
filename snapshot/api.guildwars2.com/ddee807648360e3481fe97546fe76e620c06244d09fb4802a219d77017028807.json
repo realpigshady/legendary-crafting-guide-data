@@ -258,100 +258,6 @@
 "vendor_value": 40
 },
 {
-"chat_link": "[&AgEQwQAA]",
-"description": "Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.",
-"details": {
-"attribute_adjustment": 0,
-"flags": [
-"ShortBow",
-"HeavyArmor",
-"LightArmor",
-"Dagger",
-"MediumArmor",
-"Focus",
-"Greatsword",
-"Hammer",
-"Trinket",
-"Harpoon",
-"Mace",
-"Pistol",
-"Rifle",
-"Scepter",
-"Shield",
-"Speargun",
-"Axe",
-"Staff",
-"Sword",
-"Torch",
-"Trident",
-"Warhorn",
-"LongBow"
-],
-"infix_upgrade": {
-"attributes": [
-{
-"attribute": "AgonyResistance",
-"modifier": 1
-}
-],
-"buff": {
-"description": "+1 Agony Resistance",
-"skill_id": 22100
-},
-"id": 764
-},
-"infusion_upgrade_flags": [
-"Infusion"
-],
-"suffix": "",
-"type": "Default"
-},
-"flags": [
-"NoSalvage",
-"NoSell"
-],
-"game_types": [
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/C605E2EF280B5E4CF9A249E80AB3053843C5EBE3/511839.png",
-"id": 49424,
-"level": 0,
-"name": "+1 Agony Infusion",
-"rarity": "Ascended",
-"restrictions": [],
-"type": "UpgradeComponent",
-"upgrades_into": [
-{
-"item_id": 104755,
-"upgrade": "Attunement"
-},
-{
-"item_id": 104864,
-"upgrade": "Attunement"
-},
-{
-"item_id": 104797,
-"upgrade": "Attunement"
-},
-{
-"item_id": 104706,
-"upgrade": "Attunement"
-},
-{
-"item_id": 104681,
-"upgrade": "Attunement"
-},
-{
-"item_id": 104741,
-"upgrade": "Attunement"
-}
-],
-"vendor_value": 330
-},
-{
 "chat_link": "[&AgGkFAEA]",
 "description": "Rewarded through PvP reward tracks and PvP dailies.",
 "flags": [
@@ -1545,5 +1451,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19623,19675,19676,19678,19717,19721,19976,20796,20797,46683,46746,49424,70820,70867,71581,71994,73381,76427,76530,77302,77486,77520,79230,81296,81815,82008,82036,82746,83259,84203,86036,86093,87557,88909,91010,91112,91124,93016,93101,93146,93284,97655,100569,103913,105848,105933,106370,106467,106627,106672,106975,107136,107201,109114,109141,109274,109361,109459,109489,109666,109715"
+"url": "https://api.guildwars2.com/v2/items?ids=19623,19675,19676,19678,19717,19721,19976,20796,20797,46683,46746,70820,70867,71581,71994,73381,76427,76530,77302,77486,77520,79230,81296,81815,82008,82036,82746,83259,84203,86036,86093,87557,88909,91010,91112,91124,93016,93101,93146,93284,97655,100569,103913,105848,105933,106370,106467,106627,106672,106975,107136,107201,109114,109141,109274,109361,109459,109489,109666,109715"
 }

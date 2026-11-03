@@ -1,0 +1,5 @@
+{
+"revid": 2370572,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Elonian Leather Shoulders.\n| material type = component\n| rarity = basic\n| value = 7\n| id = 45862\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 1 Bolt of Damask\n| id = 8108\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Elonisches Schulterschützerpolster]]\n[[es:Relleno para guardahombros eloniano]]\n[[fr:Rembourrage de garde-épaules de cuir élonien]]",
+"title": "Elonian Shoulderguard Padding"
+}

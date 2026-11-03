@@ -1,0 +1,5 @@
+{
+"revid": 3199904,
+"text": "{{Item infobox\n| description = A gift used to create legendary armor.\n| type = crafting material\n| material type = mystic\n| rarity = exotic\n| bound = account\n| id = 78989\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n{{Collapsible section|<h3>Recipe (discontinued)</h3>|\n* This recipe is no longer available using newly acquired Legendary Insights as they have been converted into a currency. Thus, unless the player has leftover Legendary Insights as items, Gifts of Prowess must be bought from Scholar Glenna.'''\n{{Recipe\n| status = historical\n| source = Mystic Forge\n| ingredient1 = 25 Legendary Insight (consumable)\n| ingredient2 = 1 Eldritch Scroll\n| ingredient3 = 50 Obsidian Shard\n| ingredient4 = 1 Cube of Stabilized Dark Energy\n| quantity = 1\n}}\n}}\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Geschicks]]\n[[es:Don de destreza]]\n[[fr:Don de prouesse]]",
+"title": "Gift of Prowess"
+}

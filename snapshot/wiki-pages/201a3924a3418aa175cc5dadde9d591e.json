@@ -1,0 +1,5 @@
+{
+"revid": 2370508,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Deldrimor Steel Coats.\n| material type = component\n| rarity = basic\n| value = 8\n| id = 45878\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 5 Deldrimor Steel Ingot\n| ingredient3 = 25 Thermocatalytic Reagent\n| id = 8052\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Brustpanzerleiste]]\n[[es:Retazo para loriga de acero de Deldrimor]]\n[[fr:Panneau de pansière en acier de Deldrimor]]",
+"title": "Deldrimor Steel Chestplate Panel"
+}

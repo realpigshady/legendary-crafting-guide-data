@@ -1,0 +1,5 @@
+{
+"revid": 2370571,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Elonian Leather Coats.\n| material type = component\n| rarity = basic\n| value = 7\n| id = 45868\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 5 Elonian Leather Square\n| id = 8114\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Elonische Mantelleiste]]\n[[es:Retazo para abrigo tres cuartos eloniano]]\n[[fr:Panneau de manteau long de cuir élonien]]",
+"title": "Elonian Longcoat Panel"
+}

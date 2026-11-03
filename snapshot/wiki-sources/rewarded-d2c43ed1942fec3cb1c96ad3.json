@@ -1,0 +1,46 @@
+{
+"fetched": 1793701048.522672,
+"item": "Gift of Skywatch Archipelago",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of Skywatch Archipelago"
+],
+"_subject": "Map completion#reward56"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skywatch Archipelago"
+],
+"Rewards item": [
+"Gift of Skywatch Archipelago"
+],
+"_subject": "Skywatch Archipelago#reward1"
+}
+]
+}

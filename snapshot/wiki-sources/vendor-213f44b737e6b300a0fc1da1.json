@@ -1,0 +1,55 @@
+{
+"fetched": 1793700839.8266978,
+"item": "Gift of the Astral Ward",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Gift of Skywatch Archipelago",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Amnytas",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Persistence",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Inner Nayos",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of the Astral Ward"
+],
+"_subject": "Lyhr#vendor34"
+}
+]
+}

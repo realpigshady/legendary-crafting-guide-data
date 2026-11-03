@@ -1,0 +1,5 @@
+{
+"revid": 2370507,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Deldrimor Steel Coats.\n| material type = component\n| rarity = basic\n| value = 8\n| id = 45872\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 1 Bolt of Damask\n| id = 8046\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Brustpanzerpolster]]\n[[es:Relleno para loriga de acero de Deldrimor]]\n[[fr:Rembourrage de pansière en acier de Deldrimor]]",
+"title": "Deldrimor Steel Chestplate Padding"
+}

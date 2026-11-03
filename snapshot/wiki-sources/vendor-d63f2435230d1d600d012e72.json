@@ -1,0 +1,57 @@
+{
+"fetched": 1793700588.4169834,
+"item": "Obsidian Light Gloves",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Gift of Expertise",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Mighty Prosperity",
+"Has item value": "1"
+},
+{
+"Has item currency": "Arcanum of Astral Grasp",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Stormy Skies",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Recipe: Legendary Obsidian Armor"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Obsidian Light Gloves"
+],
+"_subject": "Lyhr#vendor51"
+}
+]
+}

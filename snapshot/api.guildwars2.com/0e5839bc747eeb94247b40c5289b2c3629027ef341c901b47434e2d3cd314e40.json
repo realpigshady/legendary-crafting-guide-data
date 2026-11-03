@@ -1,0 +1,1140 @@
+{
+"body": [
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgFOTQAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7CFD70F53A845E4ED1212040C18C123FC172910/65959.png",
+"id": 19790,
+"level": 0,
+"name": "Spool of Gossamer Thread",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEITgAA]",
+"description": "Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. \nPart of Zommoros's favorite trades.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+"id": 19976,
+"level": 0,
+"name": "Mystic Coin",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE8UQAA]",
+"description": "Used by the Mystic Forge to change one material into another.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/68FF9617BA1BE1AD58E83E4209AEF0FB58950702/434425.png",
+"id": 20796,
+"level": 0,
+"name": "Philosopher's Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgE/UQAA]",
+"description": "Sold by Miyani in Lion's Arch.\n<c=@flavor>Zommoros loves crystals.</c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/045C05C2F83A59FC4B6F15073465C5D3040E4DF5/65674.png",
+"id": 20799,
+"level": 0,
+"name": "Mystic Crystal",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHVXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/080D00670558CD9E580D5662030394B2206E92A6/434537.png",
+"id": 24277,
+"level": 0,
+"name": "Pile of Crystalline Dust",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgEPXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CBC82EA8093AE4F60F0752B179F7CD02DDF5CB33/223781.png",
+"id": 24335,
+"level": 0,
+"name": "Pile of Putrid Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 63
+},
+{
+"chat_link": "[&AgHbjAAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF1CF7199B7EF969937A7A4E2D3A2652931C5D07/499397.png",
+"id": 36059,
+"level": 0,
+"name": "Plastic Fangs",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgHcjAAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6B774901B743CDFE002A6258F6260CA93B03BB98/499398.png",
+"id": 36060,
+"level": 0,
+"name": "Chattering Skull",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgHdjAAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/096A9B4F79A323C335921E30A824AFF505E270BE/499399.png",
+"id": 36061,
+"level": 0,
+"name": "Nougat Center",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgGymAAA]",
+"details": {
+"minipet_id": 129
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3F9A1CA7C192FAFFDEE13E28A09AD8DA0F165FE4/534184.png",
+"id": 39090,
+"level": 0,
+"name": "Mini Risen Priest of Balthazar",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGeowAA]",
+"description": "A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/231E351E042921F8BE94B2E3717D2DF734D4B9F4/561863.png",
+"id": 41886,
+"level": 0,
+"name": "Bauble Bubble",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF6sAAA]",
+"description": "Double-click to gain 200 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DAB46301D2175B2CAAC4BACBA02F6A0A2F1DBEB8/631151.png",
+"id": 45178,
+"level": 0,
+"name": "Exotic Essence of Luck",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGKtgAA]",
+"description": "Refined from piles of bloodstone dust.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C03D6909B0A36EED87538C8D1FFFC27390FDF4E/631479.png",
+"id": 46730,
+"level": 0,
+"name": "Bloodstone Brick",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGMtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DD0CE05EB7F841A99D58A106EE0CDFBF6A96F9FB/631481.png",
+"id": 46732,
+"level": 0,
+"name": "Dragonite Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGOtgAA]",
+"description": "Refined from fragments.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AF8B122915F042AF6749C0AE4583FA963DADF56/631483.png",
+"id": 46734,
+"level": 0,
+"name": "Empyreal Star",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGStgAA]",
+"description": "Refined from iron, steel, darksteel, and mithrillium.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94DCAE59215C0096449906A81F202B0201FBA85B/631486.png",
+"id": 46738,
+"level": 0,
+"name": "Deldrimor Steel Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGTtgAA]",
+"description": "Refined from thin leather, coarse leather, rugged leather, and thick elonian cord.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/057F4DB327DB7F46490876E4D9D86E7C1D613C26/631487.png",
+"id": 46739,
+"level": 0,
+"name": "Elonian Leather Square",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGVtgAA]",
+"description": "Refined from wool, cotton, linen, and silk weaving thread.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7E7DA70B0EA3DB78CCB2F4FDA400A9BFEF0B0D6C/631489.png",
+"id": 46741,
+"level": 0,
+"name": "Bolt of Damask",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGbtgAA]",
+"description": "Used in the crafting of ascended items. Can be purchased from master craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/090DF0E7AFD6AD9A6C9FC31CCE510A05663D0A0E/631495.png",
+"id": 46747,
+"level": 0,
+"name": "Thermocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGgtgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/622C35BD7B48F77C07C94CA3C73F9D9ADBCA4403/631529.png",
+"id": 46752,
+"level": 0,
+"name": "Augur's Stone",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgFuwwAA]",
+"description": "Can be consumed for karma or exchanged for goods from Heirloom Lost and Found merchants in the Battle for Lion's Arch or the Durmand Priory in Lornar's Pass.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9E730AACF1D51352E4660A2C924306695795104E/740222.png",
+"id": 50030,
+"level": 0,
+"name": "Found Belonging",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgFQDQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38C83A6073EADFF39E0FA0AE59C822A79DBEF6E1/1202990.png",
+"id": 68944,
+"level": 0,
+"name": "Auric Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE4DwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDC53CC11B9AB85DB076EDB07AF3D274BF47BC3D/1204963.png",
+"id": 69432,
+"level": 0,
+"name": "Pile of Auric Dust",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGRFAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E0EE103FD3B8D1A83926BEFDDA7D5AFBE3946ED1/1302178.png",
+"id": 70801,
+"level": 0,
+"name": "Gift of Claws",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGkFAEA]",
+"description": "Rewarded through PvP reward tracks and PvP dailies.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BBA010474B8CCE22392E71EF81E5FDB662BC32F/1206834.png",
+"id": 70820,
+"level": 80,
+"name": "Shard of Glory",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgHTFQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7254B1CD565840690A9E66FD02B462A834334779/1302177.png",
+"id": 71123,
+"level": 0,
+"name": "Gift of Bones",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHnFwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/801E26996E5F172CC6450C104EBAB4E44F023950/1302176.png",
+"id": 71655,
+"level": 0,
+"name": "Gift of Blood",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFrGAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A58234EAA165603433A0B37E0E7CEB8C455E600/1302186.png",
+"id": 71787,
+"level": 0,
+"name": "Gift of Venom",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE6GQEA]",
+"description": "Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/073D6BA90E2434B02CDEC736AEA252202FA0BA71/1200192.png",
+"id": 71994,
+"level": 0,
+"name": "Ball of Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgHsHQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D20A5EF808673908059EE148A8B71242C3A4554C/1302181.png",
+"id": 73196,
+"level": 0,
+"name": "Gift of Dust",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEUHgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DFC0F6DF2BEE3C83DB2EA28150FEB7A94FEA9F6/1302185.png",
+"id": 73236,
+"level": 0,
+"name": "Gift of Totems",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEgHgEA]",
+"description": "Found in Chests of the Mists and salvaged from ascended rings. Used to stabilize dark energy for the safe construction of items. Can also be traded for Fractal Encryptions.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1995007E91F8EE320FBA5805AEF27EECCF9CD3A0/1200208.png",
+"id": 73248,
+"level": 0,
+"name": "Stabilizing Matrix",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1000
+},
+{
+"chat_link": "[&AgEjJgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CB33CA326C61A5350B4E40C0C621605CB456C25/1302184.png",
+"id": 75299,
+"level": 0,
+"name": "Gift of Scales",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHgJwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1275A0309ADB2AA6024974C353170E0D2364DCB/1302182.png",
+"id": 75744,
+"level": 0,
+"name": "Gift of Fangs",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHWSQEA]",
+"description": "Double-click to exchange for Living World Season 1 items.",
+"details": {
+"type": "Default",
+"vendor_ids": [
+549
+]
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB7D723231106C11A173ECF1CC2D947EEEA1796C/1767458.png",
+"id": 84438,
+"level": 0,
+"name": "Black Lion Commemorative Sprocket",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFUawEA]",
+"description": "In the Mystic Forge, combine Slumbering Transcendence, 250 Unidentified Dyes, an Emblem of Tournament Victory, and an Essence of Llamatic Elegance to create Transcendence.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C959D395C4EAE74CCFC62831D450DBA3B0A37855/2270826.png",
+"id": 93012,
+"level": 0,
+"name": "Emblem of Tournament Victory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFFdgEA]",
+"description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF0EDBF868E8E5D53BDD9F4CC00DAAD5B6ABAD78/2597019.png",
+"id": 95813,
+"level": 0,
+"name": "Hydrocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgF6hgEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/40E82323BB45EA0BCEC5680A29F826BDAD20ADAA/3255341.png",
+"id": 99962,
+"level": 0,
+"name": "Gift of Persistence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHAiAEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/170FBCEA0B2F2EB2BDCC80F01577134A9A5B1A9B/3122200.png",
+"id": 100544,
+"level": 0,
+"name": "Gift of Skywatch Archipelago",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG+iQEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9AB1077FA5C02961EB2537EE80BFC5A77BB63743/3122194.png",
+"id": 100798,
+"level": 0,
+"name": "Gift of Amnytas",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHbjAEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/39E830DF5892D30A09CDE2AAF80D75E071DA07D0/3122199.png",
+"id": 101595,
+"level": 0,
+"name": "Gift of Inner Nayos",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEYmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6C0CDA94EC94FA906493E2050DDECDD5965877FD/3199530.png",
+"id": 104728,
+"level": 0,
+"name": "Citadel of Zakiros: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF/mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE1D62A95F57470D61E15D47D20159D8E2BB18FB/3122157.png",
+"id": 104831,
+"level": 0,
+"name": "Skywatch Archipelago: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DC26975002D02B68BEF2A46EF2A89E7243FD63/1424065.png",
+"id": 104838,
+"level": 0,
+"name": "Verdant Brink: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGYmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6C0CDA94EC94FA906493E2050DDECDD5965877FD/3199530.png",
+"id": 104856,
+"level": 0,
+"name": "Inner Nayos: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHxmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F1100DBF0DF2BE50F609EE0F92E0043BE8C35F9D/3122155.png",
+"id": 104945,
+"level": 0,
+"name": "Amnytas: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEpmgEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2127D47C74BCCC26AA2DB5DFA75DBF7B4D42D43F/1424067.png",
+"id": 105001,
+"level": 0,
+"name": "Tangled Depths: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,84438,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
+}

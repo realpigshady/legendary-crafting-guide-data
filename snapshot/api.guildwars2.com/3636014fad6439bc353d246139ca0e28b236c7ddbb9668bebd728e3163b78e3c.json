@@ -1,0 +1,1604 @@
+{
+"body": [
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHeTAAA]",
+"description": "A gift used in legendary crafting.\n\nAcquired from the WvW Gift of Battle Item Reward Track.\n\nTo create the Gift of War Prosperity, combine this in the Mystic Forge with:\n• 15 Mystic Clovers\n• 1 Gift of Condensed Might\n• 1 Gift of Condensed Magic",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB593444A3ED065F7BE3EC71713CF80D145EABCB/455858.png",
+"id": 19678,
+"level": 0,
+"name": "Gift of Battle",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHVTQAA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE16FCC326D80A3906B17B6A75E8A91980BE4670/434362.png",
+"id": 19925,
+"level": 0,
+"name": "Obsidian Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 300
+},
+{
+"chat_link": "[&AgF0UQAA]",
+"description": "A powerful scroll used in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/57B5F0CE02092248CDA26C7A54EF01EE2209A5FC/434427.png",
+"id": 20852,
+"level": 0,
+"name": "Eldritch Scroll",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEjswAA]",
+"description": "Used to craft Elonian Leather Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0CF09720250E92742D1030255DDBE32553944FB/699245.png",
+"id": 45859,
+"level": 0,
+"name": "Elonian Glove Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEkswAA]",
+"description": "Used to craft Elonian Leather Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5E3753C2C70FC605B733262FA8E1B4E53E59B8E0/699246.png",
+"id": 45860,
+"level": 0,
+"name": "Elonian Helmet Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgElswAA]",
+"description": "Used to craft Elonian Leather Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D69A7DD63FCE3EEAB91A09CBF2FB78284ECB3DB4/699247.png",
+"id": 45861,
+"level": 0,
+"name": "Elonian Longcoat Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEmswAA]",
+"description": "Used to craft Elonian Leather Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A9E676E85F550CBEBB04920DB90C133BCC270AE9/699248.png",
+"id": 45862,
+"level": 0,
+"name": "Elonian Shoulderguard Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEnswAA]",
+"description": "Used to craft Elonian Leather Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/79D1F902E6EA35A31DE6BE930C51C035ED9D516C/699249.png",
+"id": 45863,
+"level": 0,
+"name": "Elonian Trouser Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEoswAA]",
+"description": "Used to craft Elonian Leather Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1C0F4AF102404D150229CAC251D04E19085D02F8/699250.png",
+"id": 45864,
+"level": 0,
+"name": "Elonian Boot Sole",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEpswAA]",
+"description": "Used to craft Elonian Leather Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/57C9099E7C305FF669B1E1CBE6B7296E1299C9F3/699251.png",
+"id": 45865,
+"level": 0,
+"name": "Elonian Boot Upper",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEqswAA]",
+"description": "Used to craft Elonian Leather Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E2252C1B390E96C1A50B64CC24DB04350A06EF33/699252.png",
+"id": 45866,
+"level": 0,
+"name": "Elonian Glove Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgErswAA]",
+"description": "Used to craft Elonian Leather Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BF065E37E9C75063B50257EA44D1AD308460E96/699253.png",
+"id": 45867,
+"level": 0,
+"name": "Elonian Helmet Strap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEsswAA]",
+"description": "Used to craft Elonian Leather Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C063C549D2FD735D7AA3537F4DAEEDBB0F940670/699254.png",
+"id": 45868,
+"level": 0,
+"name": "Elonian Longcoat Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEtswAA]",
+"description": "Used to craft Elonian Leather Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A5D6E4BC33B30F39014CD80DEBD6A2DD109B4CBE/699255.png",
+"id": 45869,
+"level": 0,
+"name": "Elonian Shoulderguard Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEuswAA]",
+"description": "Used to craft Elonian Leather Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/93F7285BD7090C671EE360A76DA3DB31E49B1E65/699256.png",
+"id": 45870,
+"level": 0,
+"name": "Elonian Trouser Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEvswAA]",
+"description": "Used to craft Deldrimor Steel Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACFF281E5F303662FCA067B814C70A2207B0E2FD/699257.png",
+"id": 45871,
+"level": 0,
+"name": "Deldrimor Steel Boot Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEwswAA]",
+"description": "Used to craft Deldrimor Steel Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/442714D3EF4701F290D703C7AC299F355521DC0C/699258.png",
+"id": 45872,
+"level": 0,
+"name": "Deldrimor Steel Chestplate Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgExswAA]",
+"description": "Used to craft Deldrimor Steel Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9E4958CA14983004B378DA2643913D4C5EBCE676/699259.png",
+"id": 45873,
+"level": 0,
+"name": "Deldrimor Steel Gauntlet Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEyswAA]",
+"description": "Used to craft Deldrimor Steel Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4630CEC57F470EA075D6203872979B9792CC2FCD/699260.png",
+"id": 45874,
+"level": 0,
+"name": "Deldrimor Steel Helmet Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEzswAA]",
+"description": "Used to craft Deldrimor Steel Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FD2B12FCBF45909F45A0F871D99614E032C73209/699261.png",
+"id": 45875,
+"level": 0,
+"name": "Deldrimor Steel Legging Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE0swAA]",
+"description": "Used to craft Deldrimor Steel Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2D4DE3B02A0DB7A86560DA48DFBF54337D4D05C6/699262.png",
+"id": 45876,
+"level": 0,
+"name": "Deldrimor Steel Pauldron Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE1swAA]",
+"description": "Used to craft Deldrimor Steel Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7844451CF966AAF65AAAF651DF0A5C23781A0690/699263.png",
+"id": 45877,
+"level": 0,
+"name": "Deldrimor Steel Boot Casing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE2swAA]",
+"description": "Used to craft Deldrimor Steel Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E916ED787BD1EFE1FE05AC0A0CBF014A6E067DB0/699264.png",
+"id": 45878,
+"level": 0,
+"name": "Deldrimor Steel Chestplate Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE3swAA]",
+"description": "Used to craft Deldrimor Steel Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BDA76BF17D9F89D55C6D0F071B5B0C5EF0B0B5E/699265.png",
+"id": 45879,
+"level": 0,
+"name": "Deldrimor Steel Gauntlet Plates",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE4swAA]",
+"description": "Used to craft Deldrimor Steel Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/10760F5ADB6FAFF2C8CE0271BE1A96569BDA04BD/699266.png",
+"id": 45880,
+"level": 0,
+"name": "Deldrimor Steel Helmet Casing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE5swAA]",
+"description": "Used to craft Deldrimor Steel Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/70925952DC45D72BF4DB1EA53EF42A45E4D353DE/699267.png",
+"id": 45881,
+"level": 0,
+"name": "Deldrimor Steel Legging Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE6swAA]",
+"description": "Used to craft Deldrimor Steel Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1E8F0A02B0262F2E5FD5691A9BBD9A9E44D47BC/699268.png",
+"id": 45882,
+"level": 0,
+"name": "Deldrimor Steel Pauldron Casing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFDswAA]",
+"description": "Used to craft Damask Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2D9A780C08EBB0E66BFE465C794527BFD2EFE831/699269.png",
+"id": 45891,
+"level": 0,
+"name": "Damask Coat Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFEswAA]",
+"description": "Used to craft Damask Coats.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/01FD07EEB93A1ED6BDB01D75D3EC15F320A91AF0/699270.png",
+"id": 45892,
+"level": 0,
+"name": "Damask Coat Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFFswAA]",
+"description": "Used to craft Damask Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B083601AB2A2F41D3E9D8D1489B04F5FBD531EC/699271.png",
+"id": 45893,
+"level": 0,
+"name": "Damask Epaulet Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFGswAA]",
+"description": "Used to craft Damask Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/462EC5A558D2BDE6B950B49A0D68DC059C0B0257/699272.png",
+"id": 45894,
+"level": 0,
+"name": "Damask Gloves Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFHswAA]",
+"description": "Used to craft Damask Gloves.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/52EF0164ABBF366B9DD4AB050AAB61F14F1942FB/699273.png",
+"id": 45895,
+"level": 0,
+"name": "Damask Gloves Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFIswAA]",
+"description": "Used to craft Damask Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F4E2F0023A6B20687EEA11BB71E2FF10BB041841/699274.png",
+"id": 45896,
+"level": 0,
+"name": "Damask Helm Padding",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFJswAA]",
+"description": "Used to craft Damask Helms.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF0FA8994371FCEFE8635BA5E96C56A10B3337E1/699275.png",
+"id": 45897,
+"level": 0,
+"name": "Damask Helm Strap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFKswAA]",
+"description": "Used to craft Damask Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4FA5E273611502729F586121A40D0A0DD67B5825/699276.png",
+"id": 45898,
+"level": 0,
+"name": "Damask Pants Lining",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFLswAA]",
+"description": "Used to craft Damask Leggings.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4B0B064F035F02C027F3C1A47120067C36B57D36/699277.png",
+"id": 45899,
+"level": 0,
+"name": "Damask Pants Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFMswAA]",
+"description": "Used to craft Damask Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4994464797BB0C9A37C5933BD95E2480DD1A474C/699278.png",
+"id": 45900,
+"level": 0,
+"name": "Damask Shoe Upper",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFNswAA]",
+"description": "Used to craft Damask Shoulders.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4ECBACADAB14E4492D2DD5540CEBD4181E58E245/699279.png",
+"id": 45901,
+"level": 0,
+"name": "Damask Epaulet Panel",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFOswAA]",
+"description": "Used to craft Damask Boots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E53E3277EB0552A9391C800FB7E1100FE3E20E92/699280.png",
+"id": 45902,
+"level": 0,
+"name": "Damask Shoe Sole",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGatgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F19A8B4E309C3042358FB194F7190331DEF27EB/631494.png",
+"id": 46746,
+"level": 0,
+"name": "Vision Crystal",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 40
+},
+{
+"chat_link": "[&AgGlvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Spiders.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F13AC2EC1990C5D97DFCF547D30CCA06340EB20E/648142.png",
+"id": 48805,
+"level": 0,
+"name": "High-Quality Plastic Fangs",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGmvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Souls.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C04007291E2AA26AEA65FB0D62E7303B303B45F/648143.png",
+"id": 48806,
+"level": 0,
+"name": "Tyria's Best Nougat Center",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGnvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of the Moon.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9EA2050504ECB1A0B45538B2235C101795A92106/648144.png",
+"id": 48807,
+"level": 0,
+"name": "Gibbering Skull",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgFzwQAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F304B2B4F078BBD2EBA347FBEC521C7047B672A9/1200199.png",
+"id": 49523,
+"level": 0,
+"name": "Lesser Vision Crystal",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 40
+},
+{
+"chat_link": "[&AgHTFAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Fangs\n• 1 Gift of Scales\n• 1 Gift of Claws\n•1 Gift of Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CCA4C2F8AF79D2EB0CFF381E3DDA3EA792BA7412/1302180.png",
+"id": 70867,
+"level": 0,
+"name": "Gift of Condensed Might",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGdFwEA]",
+"description": "Found in World vs. World reward tracks.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4D0455D2EFDB0DFC008F4564B38D6545901A05B/1206833.png",
+"id": 71581,
+"level": 80,
+"name": "Memory of Battle",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgENGgEA]",
+"description": "Found on chak and in their caches. Can be traded in to Nuhoch vendors for chak weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4A58480BE6669B605E909F44EAE64896DB030CDD/62389.png",
+"id": 72205,
+"level": 0,
+"name": "Chak Egg",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgGxHQEA]",
+"description": "Used to craft pristine mist essence, a key component in legendary backpacks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/411E3F3A0B029113093E31530AAF022E7DDE241A/1200194.png",
+"id": 73137,
+"level": 0,
+"name": "Cube of Stabilized Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgFBHwEA]",
+"description": "Used to craft Exalted weapon cores for use in Auric weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/19D0522B1EEF07A6FD94285167F14CD1AC6FCE6B/1202988.png",
+"id": 73537,
+"level": 0,
+"name": "Auric Ingot",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF0IgEA]",
+"description": "Salvaged from Reclaimed weapons. Can be traded in to the Whispers Keeper in Dragon's Stand for plated weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AC2729C25DE5C2A3E925083570C2161F52280163/1203052.png",
+"id": 74356,
+"level": 0,
+"name": "Reclaimed Metal Plate",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHyKgEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Blood\n• 1 Gift of Venom\n• 1 Gift of Totems\n• 1 Gift of Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09F42753049B20A54F6017B1F26A9447613016FE/1302179.png",
+"id": 76530,
+"level": 0,
+"name": "Gift of Condensed Magic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH2LQEA]",
+"description": "Used to purchase gifts for legendary armor and the legendary ring Coalescence from raid vendors.\nDouble-click to add to wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6D33B7387BAF2E2CC9B5D37D1D1B01246AB6FA22/1302744.png",
+"id": 77302,
+"level": 0,
+"name": "Legendary Insight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 500
+},
+{
+"chat_link": "[&AgGLLgEA]",
+"description": "A gift used to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1D95FA449E5DF700C4DB20EBEBCB92007FE4397/3270630.png",
+"id": 77451,
+"level": 0,
+"name": "Gift of Craftsmanship",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHbLgEA]",
+"description": "Double-click 4 Mist Core Fragments to create a Perfect Mist Core. Combine with Mystic Clovers, Gift of Condensed Might, and Gift of Condensed Magic in the Mystic Forge to create Gift of Competitive Prosperity.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E12BD918E15AE5F6E00296C6FF68067934EBEFFE/1313073.png",
+"id": 77531,
+"level": 0,
+"name": "Mist Core Fragment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHJMwEA]",
+"description": "A gift used to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7B3879F7CA4242B10DA6F60104762DFDC4762E65/1451303.png",
+"id": 78793,
+"level": 0,
+"name": "Gift of the Pact",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGEOgEA]",
+"description": "Used in the crafting of Envoy armor pieces.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C904D7ABDA5B972F6F34FA5B6A9A5BBBC1E61D53/1201849.png",
+"id": 80516,
+"level": 0,
+"name": "Envoy Insignia",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgEnQgEA]",
+"description": "Combine with Condensed Spirit Energy, Star of Glory, and Jar of Distilled Glory in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/65E362A0FB4B22104205CAD920330935A3C10B21/1766745.png",
+"id": 82471,
+"level": 0,
+"name": "Record of League Participation",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEMQwEA]",
+"description": "Combine with 1 Eldritch Scroll, 50 Obsidian Shards, and 1 Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of Competitive Prowess.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BB5AEF25B7ED3179BC6595140C6039A8CABA044C/1766746.png",
+"id": 82700,
+"level": 0,
+"name": "Record of League Victories",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHuQwEA]",
+"description": "Combine with Record of League Participation, Star of Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/06AF4818461DAB62AD720BD06564E4DB3F613D3A/1766743.png",
+"id": 82926,
+"level": 0,
+"name": "Jar of Distilled Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGKRAEA]",
+"description": "Used to upgrade WvW and PvP ascended armor into Legendary Armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3ECFB1AF398D30D1DD861926600413A36125870/1766739.png",
+"id": 83082,
+"level": 0,
+"name": "Glob of Condensed Spirit Energy",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGARgEA]",
+"description": "Combine with 1 Eldritch Scroll, 50 Obsidian Shards, and 1 Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of War Prowess.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2BAE4B4FB909730B9ECB42D90CED07DBBC4EFD79/1766744.png",
+"id": 83584,
+"level": 0,
+"name": "Legendary War Insight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 500
+},
+{
+"chat_link": "[&AgGkRgEA]",
+"description": "Combine with Certificate of Heroics, Condensed Spirit Energy, and 250 Memories of Battle in the Mystic Forge to create the Gift of War Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D20800DA37F719026243210FA132907E04D4C6BE/1766738.png",
+"id": 83620,
+"level": 0,
+"name": "Certificate of Honor",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGgRwEA]",
+"description": "Combine with Record of League Participation, Jar of Distilled Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1378CB153292790C23BB9F51A365110E0AACA361/1766747.png",
+"id": 83872,
+"level": 0,
+"name": "Star of Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGDSAEA]",
+"description": "Combine with 1 Certificate of Honor, 1 Condensed Spirit Energy, and 250 Memories of Battle in the Mystic Forge to create the Gift of War Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1198A72552C0625631360D0FDD075DCB41C64B32/1766737.png",
+"id": 84099,
+"level": 0,
+"name": "Certificate of Heroics",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF3fQEA]",
+"description": "In the Mystic Forge, combine 500 Hydrocatalytic Reagents, 250 Thermocatalytic Reagents, and 250 exotic Essences of Luck to create a Gift of Research.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75E96691D495B9A7B7216F3A2D96309C72A7D596/2595111.png",
+"id": 97655,
+"level": 0,
+"name": "Gift of Research",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 160
+},
+{
+"chat_link": "[&AgF8hgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E650550C0FA8A96D049B3CDFD561430259B969F1/3123704.png",
+"id": 99964,
+"level": 0,
+"name": "Pouch of Stardust",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEChwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E24EF5010A08319050EDA370367DFC9F71F4290F/3188139.png",
+"id": 100098,
+"level": 0,
+"name": "Clot of Congealed Screams",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGrhwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6EAC5C9D6C6DB841D446C5C973E312C7F85179F1/3123706.png",
+"id": 100267,
+"level": 0,
+"name": "Case of Captured Lightning",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFyiAEA]",
+"description": "Used to make a Gift of Stormy Skies.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C47404C12AA33C0D69D7CBB5FEBC4412B9210C57/3122195.png",
+"id": 100466,
+"level": 0,
+"name": "Gift of the Astral Ward",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFCigEA]",
+"description": "An amalgamation of rift essences used for crafting.\nThe recipe can be purchased from Lyhr in the Wizard's Tower.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/41279A5101E4A871C0440FAA3F921DBC610C0D49/3123730.png",
+"id": 100930,
+"level": 0,
+"name": "Amalgamated Rift Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19675,19678,19925,20852,45859,45860,45861,45862,45863,45864,45865,45866,45867,45868,45869,45870,45871,45872,45873,45874,45875,45876,45877,45878,45879,45880,45881,45882,45891,45892,45893,45894,45895,45896,45897,45898,45899,45900,45901,45902,46746,48805,48806,48807,49523,70867,71581,72205,73137,73537,74356,76530,77302,77451,77531,78793,80516,82471,82700,82926,83082,83584,83620,83872,84099,97655,99964,100098,100267,100466,100930"
+}

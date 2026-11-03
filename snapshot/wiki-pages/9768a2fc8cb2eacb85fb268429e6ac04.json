@@ -1,0 +1,5 @@
+{
+"revid": 2370465,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Damask Helms.\n| material type = component\n| rarity = basic\n| value = 8\n| id = 45897\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = tailor\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 1 Elonian Leather Square\n| ingredient4 = 1 Bolt of Damask\n| id = 8219\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Damast-Helmriemen]]\n[[es:Correa para yelmo de damasco]]\n[[fr:Lanière de heaume damassé]]",
+"title": "Damask Helm Strap"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2908883,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Damask Shoulders.\n| material type = component\n| rarity = basic\n| value = 8\n| id = 45893\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = tailor\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 2 Bolt of Damask\n| id = 8215\n}}\n\nPossible drop when salvaging ascended shoulder armor with an ascended salvage kit.\n\n== Used in ==\n{{recipe list}}\n\n[[de:Damast-Epaulettenpolster]]\n[[es:Relleno para charreteras de damasco]]\n[[fr:Rembourrage d'épaulettes damassées]]",
+"title": "Damask Epaulet Padding"
+}

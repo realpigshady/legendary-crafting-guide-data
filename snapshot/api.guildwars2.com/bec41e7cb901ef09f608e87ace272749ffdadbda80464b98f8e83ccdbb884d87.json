@@ -1,0 +1,26 @@
+{
+"body": [
+{
+"chat_link": "[&AgHnTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/33150406A468526276071A0D0AD678B9F1D6EDCA/65915.png",
+"id": 19687,
+"level": 0,
+"name": "Silver Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19687"
+}

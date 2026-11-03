@@ -1,0 +1,67 @@
+{
+"body": [
+{
+"chat_link": "[&AgHiTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/80C845F5ED06036F7E041C7214C29FA3D562A480/65911.png",
+"id": 19682,
+"level": 0,
+"name": "Gold Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgH3TAAA]",
+"description": "Refine into Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DA1D9FCF3006222DEE691016EFF8AEE162C3431D/65931.png",
+"id": 19703,
+"level": 0,
+"name": "Silver Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgELXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/40AD50C4C1AABB0562B9F1E6051267F05A344840/434538.png",
+"id": 24331,
+"level": 0,
+"name": "Pile of Soiled Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19682,19703,24331"
+}

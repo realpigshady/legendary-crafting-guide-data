@@ -1,0 +1,48 @@
+{
+"fetched": 1793700839.8266978,
+"item": "Gift of the Pact",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Airship Part",
+"Has item value": "250"
+},
+{
+"Has item currency": "Lump of Aurillium",
+"Has item value": "250"
+},
+{
+"Has item currency": "Ley Line Crystal",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers Keeper (Dragon's Stand)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Vigilant Precipice",
+"Dragon's Domain"
+],
+"Sells item": [
+"Gift of the Pact"
+],
+"_subject": "Whispers Keeper (Dragon's Stand)#vendor38"
+}
+]
+}

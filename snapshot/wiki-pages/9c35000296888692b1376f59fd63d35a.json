@@ -1,0 +1,5 @@
+{
+"revid": 2370463,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Damask Gloves.\n| material type = component\n| rarity = basic\n| value = 8\n| id = 45895\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = tailor\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 1 Elonian Leather Square\n| ingredient4 = 1 Bolt of Damask\n| id = 8217\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Damast-Handschuhleiste]]\n[[es:Retazo para guantes de damasco]]\n[[fr:Panneau de gants damassés]]",
+"title": "Damask Gloves Panel"
+}

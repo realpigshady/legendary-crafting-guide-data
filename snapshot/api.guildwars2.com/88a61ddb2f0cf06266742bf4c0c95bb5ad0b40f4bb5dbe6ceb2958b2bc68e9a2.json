@@ -1,0 +1,829 @@
+{
+"body": [
+{
+"chat_link": "[&AgHfTAAA]",
+"description": "Refined from Copper Ore and Tin.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E3D6CBCEACAE61041366A4C0021B6E6B40630A0F/65908.png",
+"id": 19679,
+"level": 0,
+"name": "Bronze Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgHkTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7B0701F4092237431EDC72340BC89AA126EA4EF0/65913.png",
+"id": 19684,
+"level": 0,
+"name": "Mithril Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgHzTAAA]",
+"description": "Refine into Iron Ingots or use Coal to refine into Steel Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C1FD07F60E0B74C497761C1C014D03E402E60C6F/65927.png",
+"id": 19699,
+"level": 0,
+"name": "Iron Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgH2TAAA]",
+"description": "Refine into Platinum Ingots or use Primordium to refine into Darksteel Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/413D7EE8CE04C0BC07C31A4B381EB6344150F849/65930.png",
+"id": 19702,
+"level": 0,
+"name": "Platinum Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEITQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7BA22DDCF0F4277A692D5D75271F9491AC303AD/63573.png",
+"id": 19720,
+"level": 0,
+"name": "Bolt of Jute",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEQTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACB203A4381C7B690A7C9BAA2EFEBD01A418E3AD/65945.png",
+"id": 19728,
+"level": 0,
+"name": "Thin Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgESTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BDAA40E3795930BBF3DC5ACE366ABAE2D5BBFB2/65947.png",
+"id": 19730,
+"level": 0,
+"name": "Coarse Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgETTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/73E9DCD5D9E50BBE3DDC97B8120E0EB9BDC590E6/65948.png",
+"id": 19731,
+"level": 0,
+"name": "Rugged Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEXTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/12B5A77DE31564F344BFD46875C3200E9105E0A8/65952.png",
+"id": 19735,
+"level": 0,
+"name": "Cured Thick Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEaTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E0F2811CBEA77DF5344499E6B4C01673EE6DAC9/65955.png",
+"id": 19738,
+"level": 0,
+"name": "Stretched Rawhide Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEbTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F4E176F0B5B040F690AB7AE7B7A6844C83F2D0D/65956.png",
+"id": 19739,
+"level": 0,
+"name": "Wool Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEdTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3C013701E6252F3F100D2559BE4E47546CE1E82F/65957.png",
+"id": 19741,
+"level": 0,
+"name": "Cotton Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEfTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/28536CD63C63047DA7DA9F7923923461DCFC5860/65958.png",
+"id": 19743,
+"level": 0,
+"name": "Linen Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEjTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/17570FF5167A03B42605BEE44AFFF0547E07C0F4/65960.png",
+"id": 19747,
+"level": 0,
+"name": "Bolt of Silk",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEmTQAA]",
+"description": "Used with Iron to refine Steel. Can be purchased from Master Craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3728DC6E10FA4DADCD3B0918A70FAE9DEA96BDD4/65962.png",
+"id": 19750,
+"level": 0,
+"name": "Lump of Coal",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgHUTQAA]",
+"description": "Used with Platinum to refine Darksteel. Can be purchased from Master Craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3728DC6E10FA4DADCD3B0918A70FAE9DEA96BDD4/65962.png",
+"id": 19924,
+"level": 0,
+"name": "Lump of Primordium",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEPTgAA]",
+"description": "Take this stone to the Mystic Forge to have Zommoros forge something special for you.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/033CAC7DB2DE70BF39DA10D061375BA2B9BD6FA9/220548.png",
+"id": 19983,
+"level": 0,
+"name": "Mystic Forge Stone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHRXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/33653CA0C67796BE03A22B5AE3197D0564376700/434533.png",
+"id": 24273,
+"level": 0,
+"name": "Pile of Shimmering Dust",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHXXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C04FDFF465A682BB080F272E9DB3DBC0637113D/66935.png",
+"id": 24279,
+"level": 0,
+"name": "Small Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHdXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EE0C5C5917BE5B0F1569134E40E80399FFC73E17/66941.png",
+"id": 24285,
+"level": 0,
+"name": "Small Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHjXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3008755732C166F3ACF87CC044779C5D95D25896/66946.png",
+"id": 24291,
+"level": 0,
+"name": "Vial of Thin Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHpXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABE928F56C08C9ED47664948EB30A25B08DC5DEF/66952.png",
+"id": 24297,
+"level": 0,
+"name": "Small Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgENXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87CFBBE42926064C2F6399F68BE06B23FA53109/63275.png",
+"id": 24333,
+"level": 0,
+"name": "Pile of Filthy Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEXXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E2EC91117128DC5BC0B0FA0267EBBC2429B3556F/66989.png",
+"id": 24343,
+"level": 0,
+"name": "Bone Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEbXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4CFEC931B41FA0092E5C9B6F240FE1F64E2F5247/66993.png",
+"id": 24347,
+"level": 0,
+"name": "Small Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEhXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/58E20991EB9BA6D4954DAFC6AF4B3CE3C8EB7116/220904.png",
+"id": 24353,
+"level": 0,
+"name": "Small Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgFgowAA]",
+"description": "Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/669B427B9735DC61EF3A566064083F1DC37E9D5A/561825.png",
+"id": 41824,
+"level": 0,
+"name": "Continue Coin",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF3sAAA]",
+"description": "Double-click to gain 10 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BF5D192EE5DAF97A7F4090461C450DA00F8FFAC/631148.png",
+"id": 45175,
+"level": 0,
+"name": "Fine Essence of Luck",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4sAAA]",
+"description": "Double-click to gain 50 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07450110280000435FBA2B4BE57DE6DCE86E22AC/631149.png",
+"id": 45176,
+"level": 0,
+"name": "Masterwork Essence of Luck",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGqtQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0844635EDFBF68F1BA74EE1B6E097D935472E354/631279.png",
+"id": 46506,
+"level": 0,
+"name": "King Toad Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGrtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF45EC0C201F1694E51968399C56AF73F4790CD0/631280.png",
+"id": 46507,
+"level": 0,
+"name": "Storm Wizard Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGstQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CE4AC53C0FC9F602ADF247460F77CFDCBA95E7E/631281.png",
+"id": 46508,
+"level": 0,
+"name": "King Toad Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGttQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CDBF115DD29B3C26BAFB90121A11E27CC953B19/631282.png",
+"id": 46509,
+"level": 0,
+"name": "King Toad Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGutQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0C90A4D3BB7E51B02A178F1275DEA40C801C176/631283.png",
+"id": 46510,
+"level": 0,
+"name": "Storm Wizard Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGvtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B8F87E1734E2C6D4CA971395A0314E46AB68015C/631284.png",
+"id": 46511,
+"level": 0,
+"name": "Storm Wizard Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE0tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1915994170BE9E519457F5A2717C3115285236BD/631434.png",
+"id": 46644,
+"level": 0,
+"name": "Princess Miya's Wig",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE1tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2BA4600512A1C35F026B65986A19E51E31E7DD18/631435.png",
+"id": 46645,
+"level": 0,
+"name": "Princess Miya's Dress",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE2tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DCF5DD1E4D0BBD027D08237CDCB00791A29DC33C/631436.png",
+"id": 46646,
+"level": 0,
+"name": "Princess Miya's Tiara",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19679,19684,19699,19702,19720,19728,19730,19731,19735,19738,19739,19741,19743,19747,19750,19924,19983,24273,24279,24285,24291,24297,24333,24343,24347,24353,41824,45175,45176,46506,46507,46508,46509,46510,46511,46644,46645,46646"
+}

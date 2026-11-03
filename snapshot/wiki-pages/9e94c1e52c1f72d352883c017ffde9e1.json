@@ -1,0 +1,5 @@
+{
+"revid": 2727060,
+"text": "{{Item infobox\n| description = Created in the [[Mystic Forge]] by combining:\n* 1 [[Gift of Condensed Might]]\n* 1 [[Gift of Condensed Magic]]\n* 1 [[Gift of Craftsmanship]]\n* 15 [[Mystic Clovers]]\n| type = crafting material\n| material type = mystic\n| rarity = exotic\n| bound = account\n| requires = hot\n| id = 78866\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 1 Gift of Craftsmanship\n| ingredient2 = 15 Mystic Clover\n| ingredient3 = 1 Gift of Condensed Magic\n| ingredient4 = 1 Gift of Condensed Might\n| quantity = 1\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Trivia ==\n* The recipe was discovered with the release of [[Stronghold of the Faithful]].\n\n[[de:Gabe des Wohlstands]]\n[[es:Don de prosperidad]]\n[[fr:Don de prospérité]]",
+"title": "Gift of Prosperity"
+}

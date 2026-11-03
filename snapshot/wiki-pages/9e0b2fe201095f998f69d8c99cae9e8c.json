@@ -1,0 +1,5 @@
+{
+"revid": 2678908,
+"text": "{{Item infobox\n| type = crafting material\n| material type = mystic\n| description = In the [[Mystic Forge]], combine a [[Gift of War Prosperity]], [[Gift of War Prowess]], [[Gift of War Dedication]], and a WvW Ascended Armor piece to upgrade the armor to [[Legendary armor|Legendary]].\n| rarity = Legendary\n| value = 165\n| bound = account\n| id = 84168\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 1 Legendary War Insight\n| ingredient2 = 1 Eldritch Scroll\n| ingredient3 = 50 Obsidian Shard\n| ingredient4 = 1 Cube of Stabilized Dark Energy\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Kriegsgeschicks]]\n[[es:Don de destreza para la guerra]]\n[[fr:Don de prouesse de guerre]]",
+"title": "Gift of War Prowess"
+}

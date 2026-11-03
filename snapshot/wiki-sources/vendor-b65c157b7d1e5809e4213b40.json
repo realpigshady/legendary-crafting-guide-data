@@ -1,0 +1,103 @@
+{
+"fetched": 1793701042.1558073,
+"item": "Gift of Inner Nayos",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clot of Congealed Screams",
+"Has item value": "13"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Illuminating Inner Nayos"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Weekly, Map Currency & Essence"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Inner Nayos"
+],
+"_subject": "Gharr Leadclaw/Weekly, Map Currency & Essence#vendor45"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clot of Congealed Screams",
+"Has item value": "13"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Illuminating Inner Nayos"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Weekly, Map Currency & Essence"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Gift of Inner Nayos"
+],
+"_subject": "Portable Wizard's Tower Exchange/Weekly, Map Currency & Essence#vendor45"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clot of Congealed Screams",
+"Has item value": "13"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Illuminating Inner Nayos"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Weekly, Map Currency & Essence"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Gift of Inner Nayos"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Weekly, Map Currency & Essence#vendor45"
+}
+]
+}

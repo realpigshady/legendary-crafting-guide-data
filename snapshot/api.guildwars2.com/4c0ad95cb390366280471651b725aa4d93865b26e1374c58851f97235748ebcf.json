@@ -1,0 +1,1934 @@
+{
+"body": [
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgESNAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Condensed Might\n• 1 Gift of Condensed Magic\n• 1 Gift of Craftsmanship\n• 15 Mystic Clovers",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E8AEB623E27334EC2701BA68AC1BEBB6127797E2/1451300.png",
+"id": 78866,
+"level": 0,
+"name": "Gift of Prosperity",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFYNAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 5 Auric Ingots\n• 5 Reclaimed Metal Plates\n• 5 Chak Eggs\n• 1 Gift of the Pact",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3C6E3495CE20F21B5474B204BAE9B4F46620807D/1451302.png",
+"id": 78936,
+"level": 0,
+"name": "Gift of Dedication",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGNNAEA]",
+"description": "A gift used to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/67DADE6693F805B033B43C74D9AFE5553AC6B158/1451301.png",
+"id": 78989,
+"level": 0,
+"name": "Gift of Prowess",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH4OAEA]",
+"default_skin": 7127,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 403.326,
+"defense": 330,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Coat",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FB18190B78062C633DE42F7D66F340BC386977FF/1634581.png",
+"id": 80120,
+"level": 80,
+"name": "Refined Envoy Vestments",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgH/OAEA]",
+"default_skin": 7109,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 191,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Boots",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/196BE3FD2C2301EFEFE22E98E3FFFC41C8069878/1634568.png",
+"id": 80127,
+"level": 80,
+"name": "Refined Envoy Greaves",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgExOQEA]",
+"default_skin": 7120,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 165,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Boots",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/60E85BC87152F87F1D6C587AC774504E57BDB54E/1634592.png",
+"id": 80177,
+"level": 80,
+"name": "Refined Envoy Boots",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgFsOQEA]",
+"default_skin": 7088,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 127,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Shoulders",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B253EF22450C0323DDE0BBAEDBA045187FBC3953/1634573.png",
+"id": 80236,
+"level": 80,
+"name": "Refined Envoy Pauldrons",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgGIOQEA]",
+"default_skin": 7103,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 77,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Shoulders",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F07C7D6A13539CD253B01B5D9607ADF3440F63F/1634585.png",
+"id": 80264,
+"level": 80,
+"name": "Refined Envoy Mantle",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgGTOQEA]",
+"default_skin": 7093,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"defense": 203,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Leggings",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FC154D95720FC1BAC3A50A300308495C6E56EF02/1634584.png",
+"id": 80275,
+"level": 80,
+"name": "Refined Envoy Pants",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgHuOQEA]",
+"default_skin": 7128,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 102,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Shoulders",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05C206056F0391E163001EE27CA1A3B1B927807A/1634597.png",
+"id": 80366,
+"level": 80,
+"name": "Refined Envoy Shoulderpads",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgEDOgEA]",
+"default_skin": 7072,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 127,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Helm",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08BD6169AA1807487D2D025CA92459D3655B9B53/1634571.png",
+"id": 80387,
+"level": 80,
+"name": "Refined Envoy Helmet",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgErOgEA]",
+"default_skin": 7110,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"defense": 254,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Leggings",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/33BB05D56F5C0F79151F07EFBF4BB0D952346C0E/1634572.png",
+"id": 80427,
+"level": 80,
+"name": "Refined Envoy Tassets",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgE5OgEA]",
+"default_skin": 7095,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 77,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Helm",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4A6F447F0ED0501AA0631592EE7DE12719EBFFAF/1634583.png",
+"id": 80441,
+"level": 80,
+"name": "Refined Envoy Cowl",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgFMOgEA]",
+"default_skin": 7082,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 140,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Gloves",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/03653011AA6E3EA0ABFFE46A03F20FD6050EE098/1634582.png",
+"id": 80460,
+"level": 80,
+"name": "Refined Envoy Gloves",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgHHOgEA]",
+"default_skin": 7150,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 140,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Boots",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CFC4C80ACAD86398BFD91318BCE70E2AA3ABBC65/1634580.png",
+"id": 80583,
+"level": 80,
+"name": "Refined Envoy Shoes",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgHfOgEA]",
+"default_skin": 7141,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 403.326,
+"defense": 355,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Coat",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F7A6A2E3D04FDEE614D9F646B0759B9955B63157/1634593.png",
+"id": 80607,
+"level": 80,
+"name": "Refined Envoy Jerkin",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgH6OgEA]",
+"default_skin": 7099,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 102,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Helm",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/65DC63CC1BC4B8E898800102C372F8ACD85421FA/1634595.png",
+"id": 80634,
+"level": 80,
+"name": "Refined Envoy Mask",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgEIOwEA]",
+"default_skin": 7075,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 403.326,
+"defense": 381,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Coat",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2AA96D63CFBA41DD5FE805D94A073BB22E7EBC57/1634569.png",
+"id": 80648,
+"level": 80,
+"name": "Refined Envoy Breastplate",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgESOwEA]",
+"default_skin": 7123,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 165,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Gloves",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B90315D80B036BD60650C543FC04DFA619C595AF/1634594.png",
+"id": 80658,
+"level": 80,
+"name": "Refined Envoy Vambraces",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgEhOwEA]",
+"default_skin": 7153,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 191,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Gloves",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A0B07A2BE147AA0D9C960BD877029DEDCF59B479/1634570.png",
+"id": 80673,
+"level": 80,
+"name": "Refined Envoy Gauntlets",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgEjOwEA]",
+"default_skin": 7098,
+"description": "<c=@flavor>This armor attempts to channel the power of the envoys.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"defense": 229,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "Leggings",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9023F9ADD5E202F3B6E0C86AF01AC56016A500AA/1634596.png",
+"id": 80675,
+"level": 80,
+"name": "Refined Envoy Leggings",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgGuQQEA]",
+"description": "In the Mystic Forge, combine a Gift of Competitive Prosperity, Gift of Competitive Prowess, Gift of Competitive Dedication, and a PvP Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/69B24461E9292791F558D0BDDAE2D9F1CE510D19/1767205.png",
+"id": 82350,
+"level": 0,
+"name": "Gift of Competitive Prowess",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgE6QwEA]",
+"description": "In the Mystic Forge, combine a Gift of War Prosperity, Gift of War Prowess, Gift of War Dedication, and a WvW Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF36531138CD609728929AEBF646F4B72849D222/1766741.png",
+"id": 82746,
+"level": 0,
+"name": "Gift of War Prosperity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgE7RQEA]",
+"description": "In the Mystic Forge, combine a Gift of War Prosperity, Gift of War Prowess, Gift of War Dedication, and a WvW Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BD52D4F9396E52280A04225413CD295C039FCB39/1766740.png",
+"id": 83259,
+"level": 0,
+"name": "Gift of War Dedication",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgHISAEA]",
+"description": "In the Mystic Forge, combine a Gift of War Prosperity, Gift of War Prowess, Gift of War Dedication, and a WvW Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1B5BC43409657C7F0C3DEE7C746D512AE9CB01F8/1766742.png",
+"id": 84168,
+"level": 0,
+"name": "Gift of War Prowess",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgHOSAEA]",
+"description": "In the Mystic Forge, combine a Gift of Competitive Prosperity, Gift of Competitive Prowess, Gift of Competitive Dedication, and a PvP Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/431022DBDD2A2AAF4B03B7093DF6496ACC082DB4/1767204.png",
+"id": 84174,
+"level": 0,
+"name": "Gift of Competitive Prosperity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgHrSAEA]",
+"description": "In the Mystic Forge, combine a Gift of Competitive Prosperity, Gift of Competitive Prowess, Gift of Competitive Dedication, and a PvP Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AA79315EC7556EE2BD307E20AE39071CAA76EF4/1767203.png",
+"id": 84203,
+"level": 0,
+"name": "Gift of Competitive Dedication",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgHShgEA]",
+"description": "Combined by a skilled crafter with a Gift of Mighty Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/453C91B7BEF843DDC707D90E707D501955217623/3122190.png",
+"id": 100050,
+"level": 0,
+"name": "Arcanum of Astral Grasp",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFmhwEA]",
+"description": "Combined by a skilled crafter with a Gift of Mighty Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E804AD20FE92BF2F49270AC6BD9E534A9341CA29/3122192.png",
+"id": 100198,
+"level": 0,
+"name": "Arcanum of Astral Stride",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHAhwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/45382BCD5CA341B10E6E4080C990E1BDF7E4BD99/3122201.png",
+"id": 100288,
+"level": 0,
+"name": "Gift of Stormy Skies",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGdiAEA]",
+"description": "Can be combined by a skilled crafter with a Gift of Magical Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB9E50730EE8FCD9E4692555BDD6ED176A52DD4E/3122191.png",
+"id": 100509,
+"level": 0,
+"name": "Arcanum of Astral Heartbeat",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGgiAEA]",
+"description": "Used to craft legendary Obsidian head, shoulder, and chest armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/01084BAC0422D90B25E602097A6AA10B1EC8F3BF/3122197.png",
+"id": 100512,
+"level": 0,
+"name": "Gift of Magical Prosperity",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGsiAEA]",
+"description": "Can be combined by a skilled crafter with a Gift of Magical Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A0F5EE25B63DDA18D6E3C29B65BF0309C57FAF3C/3122188.png",
+"id": 100524,
+"level": 0,
+"name": "Arcanum of Astral Bearing",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFiiQEA]",
+"description": "Can be combined by a skilled crafter with a Gift of Magical Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/65A9A8EB01E1D8FAB2B62016E737F2D91D54A300/3122193.png",
+"id": 100706,
+"level": 0,
+"name": "Arcanum of Astral Thought",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgH0iQEA]",
+"description": "Used in crafting legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/13936A08DB2E6EC6A2D340E4233BC79CACC8A0E1/3122196.png",
+"id": 100852,
+"level": 0,
+"name": "Gift of Expertise",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFFigEA]",
+"description": "Used to craft legendary Obsidian boots, gloves, and leggings.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4AECC35E2965C93004C273E722AA0AE80B943DE6/3122198.png",
+"id": 100933,
+"level": 0,
+"name": "Gift of Mighty Prosperity",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFSigEA]",
+"description": "Combined by a skilled crafter with a Gift of Mighty Prosperity, Gift of Stormy Skies, and Gift of Expertise within the Wizard's Tower to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3D207F73B407B346E5C6E5B1587A0667BE5343A9/3122189.png",
+"id": 100946,
+"level": 0,
+"name": "Arcanum of Astral Footprints",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19721,78866,78936,78989,80120,80127,80177,80236,80264,80275,80366,80387,80427,80441,80460,80583,80607,80634,80648,80658,80673,80675,82350,82746,83259,84168,84174,84203,100050,100198,100288,100509,100512,100524,100706,100852,100933,100946"
+}

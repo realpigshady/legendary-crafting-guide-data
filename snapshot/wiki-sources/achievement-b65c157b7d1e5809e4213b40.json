@@ -1,0 +1,48 @@
+{
+"fetched": 1793701046.038761,
+"item": "Gift of Inner Nayos",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Calcified Gasp",
+"Mastery Point (Secrets of the Obscure)",
+"Gift of Inner Nayos"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Inner Nayos: Nyedra Surrounds (achievements)"
+],
+"Has canonical name": [
+"Inner Nayos Mastery II"
+],
+"Has game id": [
+7800
+],
+"Is historical": [
+"f"
+],
+"_subject": "Inner Nayos: Nyedra Surrounds (achievements)#achievement7800"
+},
+{
+"Gives item": [
+"Gift of Inner Nayos"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"The Realm of Dreams (achievements)"
+],
+"Has canonical name": [
+"Secrets of the Obscure: The Realm of Dreams Mastery"
+],
+"Has game id": [
+7831
+],
+"Is historical": [
+"f"
+],
+"_subject": "The Realm of Dreams (achievements)#achievement7831"
+}
+]
+}

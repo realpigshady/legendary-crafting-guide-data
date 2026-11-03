@@ -1,0 +1,148 @@
+{
+"fetched": 1793700839.8266978,
+"item": "Envoy Insignia",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "50000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Bastion of the Penitent)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of the Penitent"
+],
+"Sells item": [
+"Envoy Insignia"
+],
+"_subject": "Scholar Glenna (Bastion of the Penitent)#vendor108"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "50000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Salvation Pass)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Salvation Pass"
+],
+"Sells item": [
+"Envoy Insignia"
+],
+"_subject": "Scholar Glenna (Salvation Pass)#vendor108"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "50000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Spirit Vale)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Spirit Vale"
+],
+"Sells item": [
+"Envoy Insignia"
+],
+"_subject": "Scholar Glenna (Spirit Vale)#vendor104"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "25"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "50000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (Stronghold of the Faithful)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of the Faithful"
+],
+"Sells item": [
+"Envoy Insignia"
+],
+"_subject": "Scholar Glenna (Stronghold of the Faithful)#vendor109"
+}
+]
+}

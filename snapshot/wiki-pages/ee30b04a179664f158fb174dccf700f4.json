@@ -1,0 +1,5 @@
+{
+"revid": 2370563,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Elonian Leather Boots.\n| material type = component\n| rarity = basic\n| value = 7\n| id = 45865\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 500\n| ingredient1 = 60 Spool of Gossamer Thread\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 2 Elonian Leather Square\n| id = 8111\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Elonischer Stiefelhals]]\n[[es:Pala para botas eloniana]]\n[[fr:Tige de bottes de cuir élonien]]",
+"title": "Elonian Boot Upper"
+}
