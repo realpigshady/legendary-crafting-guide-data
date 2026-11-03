@@ -1,7 +1,22 @@
 {
- "location_types": {
-  "action": "smwbrowse",
-  "browse": "pvalue",
-  "params": "{\"property\": \"Has location type\", \"limit\": 200, \"offset\": 0, \"search\": \"\"}"
+ "cat_strikes": {
+  "action": "ask",
+  "query": "[[Category:Strike missions]]|?Has location type|limit=100"
+ },
+ "cat_convergences": {
+  "action": "ask",
+  "query": "[[Category:Convergences]]|?Has location type|limit=50"
+ },
+ "cat_search": {
+  "action": "query",
+  "list": "allcategories",
+  "acprefix": "Strike",
+  "aclimit": "20"
+ },
+ "cat_search2": {
+  "action": "query",
+  "list": "allcategories",
+  "acprefix": "Convergence",
+  "aclimit": "20"
  }
 }
