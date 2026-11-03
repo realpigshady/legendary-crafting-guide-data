@@ -83,3 +83,8 @@ def test_store_splits_per_item_and_falls_back(tmp_path):
     assert s3.get("vendor", ["Mystic Runestone"])["Mystic Runestone"] and s3.down
     with pytest.raises(ws.WikiSourcesDown):
         s3.get("vendor", ["Never Asked"])
+
+
+def test_locations_query_asks_map_id_and_category():
+    q = ws.QUERIES["locations"](["Raid"])
+    assert "?Has map id" in q and "?Category" in q

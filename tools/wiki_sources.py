@@ -67,7 +67,7 @@ def _q_rewards_of(pages: list[str]) -> str:   # everything an event / location p
 
 def _q_locations(types: list[str]) -> str:     # every location page of these types
     return ("[[Has context::Location]][[Has location type::" + "||".join(types) + "]]"
-            "|?Has location type|?Has canonical name|?Located in|?Is historical")
+            "|?Has location type|?Has canonical name|?Located in|?Is historical|?Has map id|?Category")
 
 
 def _q_category(cats: list[str]) -> str:       # every page in one category (asked one at a time)
