@@ -70,15 +70,20 @@ def _q_locations(types: list[str]) -> str:     # every location page of these ty
             "|?Has location type|?Has canonical name|?Located in|?Is historical|?Has map id|?Category")
 
 
+def _q_contained(names: list[str]) -> str:     # containers that hold the item
+    return ("[[Contains item::" + "||".join(names) + "]]"
+            "|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical")
+
+
 def _q_category(cats: list[str]) -> str:       # every page in one category (asked one at a time)
     return f"[[{cats[0]}]]|?Has location type|?Has canonical name|?Located in|?Is historical"
 
 
 QUERIES = {"category": _q_category, "vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
-           "rewards_of": _q_rewards_of, "locations": _q_locations}
+           "rewards_of": _q_rewards_of, "locations": _q_locations, "contained": _q_contained}
 # which printout names the item a row is about
 ROW_ITEM = {"vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
-            "rewards_of": "Rewarded by", "locations": "Has location type"}
+            "rewards_of": "Rewarded by", "locations": "Has location type", "contained": "Contains item"}
 
 
 # --------------------------------------------------------------------------- SMW values
@@ -344,3 +349,20 @@ def activity_rows(item: str, rewarded: list[dict], tracks: list[dict]) -> list[d
                     "count": _int(r.get("Has rewarded item quantity")) or 1, "chance": chance,
                     "note": f"{chance.lower()} from {by}" + (f" ({ctx.lower()})" if ctx else "")})
     return out
+
+
+def container_sources(item: str, rws: list[dict]) -> tuple[list[dict], list[str]]:
+    """Boxes that surely give the item (guaranteed or the player's choice; not chance drops).
+    Source: kind vendor with the box as its one input and open_container set (opening it)."""
+    out, names = [], []
+    for r in rws:
+        chance = str((r.get("Has contained item chance") or [""])[0]).lower()
+        if any(w in chance for w in ("chance", "rare", "uncommon", "unlikely")) or _true(r.get("Is historical")):
+            continue
+        box = (r.get("Contained in") or [r["_subject"].split("#")[0]])[0]
+        if not box or box in names:
+            continue
+        names.append(box)
+        out.append({"kind": "vendor", "inputs": [{"node_id": "@" + box, "count": 1}], "open_container": True,
+                    "output_count": _int(r.get("Has contained item quantity")) or 1})
+    return out, names

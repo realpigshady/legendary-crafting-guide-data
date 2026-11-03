@@ -129,7 +129,8 @@ def places(store: "ws.SourceStore") -> list[dict]:
     return sorted(out, key=lambda a: a["id"])
 
 
-def add_yields(acts: list[dict], store: "ws.SourceStore") -> None:
+def add_yields(acts: list[dict], store: "ws.SourceStore", currencies: dict[str, int] | None = None) -> None:
+    cur = {k.lower(): v for k, v in (currencies or {}).items()}
     pages = sorted({a["_page"] for a in acts})
     got = store.get("rewards_of", pages)
     for a in acts:
@@ -139,16 +140,21 @@ def add_yields(acts: list[dict], store: "ws.SourceStore") -> None:
                 continue
             iid = ws._int(r.get("Has game id"))
             item = (r.get("Rewards item") or [None])[0]
-            if not iid or not item:
+            if not item:
                 continue
-            nid = f"item:{iid}"
+            if item.lower() in cur:            # a wallet currency (Airship Part, Spirit Shard...)
+                nid = f"currency:{cur[item.lower()]}"
+            elif iid:
+                nid = f"item:{iid}"
+            else:
+                continue
             ys[nid] = ys.get(nid, 0) + (ws._int(r.get("Has rewarded item quantity")) or 1)
         a["yields"] = [{"node_id": k, "count": v, "name": None} for k, v in sorted(ys.items())]
         for y in a["yields"]:
             y.pop("name")
 
 
-def build(events: dict | None, store: "ws.SourceStore") -> list[dict]:
+def build(events: dict | None, store: "ws.SourceStore", currencies: dict[str, int] | None = None) -> list[dict]:
     acts = (timed(events) if events else []) + places(store)
-    add_yields(acts, store)
+    add_yields(acts, store, currencies)
     return acts

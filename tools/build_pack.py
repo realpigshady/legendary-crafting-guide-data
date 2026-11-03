@@ -356,7 +356,8 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         print(f"{fam_id}: {len(members)} legendaries")
         before = (store.requests, store.bytes, store.fresh)
         try:
-            tree = wp.walk(store, members, currencies, lambda ids: untradeable_ids(http, ids), expand, sources=smw)
+            ids = [i["id"] for i in items if i.get("name") in set(matched.values())]
+            tree = wp.walk(store, members, currencies, lambda ids_: untradeable_ids(http, ids_), expand, sources=smw, root_ids=ids)
         except (wp.WikiDown, wsrc.WikiSourcesDown) as e:
             raise SourceDown(str(e)) from e
         for n in tree.nodes.values():
@@ -377,7 +378,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                     "family": fam_id,
                     "name": title,
                     "item_id": item["id"],
-                    "root_node_id": root_of.get(title, f"item:{item['id']}"),
+                    "root_node_id": f"item:{item['id']}" if f"item:{item['id']}" in tree.nodes else root_of.get(title, f"item:{item['id']}"),
                     "weapon_type": item.get("details", {}).get("type"),
                 })
 
@@ -388,7 +389,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     if not events:
         warnings.append("event timers: wiki data unavailable, timed events missing from the catalog")
     try:
-        catalog = acat.build(events, smw)
+        catalog = acat.build(events, smw, currencies)
     except wsrc.WikiSourcesDown as e:
         raise SourceDown(str(e)) from e
     # full catalog for other packs (test pack): every activity, every guaranteed yield
