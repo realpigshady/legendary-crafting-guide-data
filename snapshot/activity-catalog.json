@@ -3257,6 +3257,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Pilaster Rock (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Abaddon%27s_Ascent"
+},
+"id": "loc:abaddon_s_ascent",
+"mode": "pve",
+"name": "Abaddon's Ascent",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Aetherblade_Fractal"
 },
@@ -3308,12 +3319,56 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Guild Puzzle in Angvar's Trove (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Angvar%27s_Trove_%28guild_puzzle%29"
+},
+"id": "loc:angvar_s_trove_guild_puzzle",
+"mode": "pve",
+"name": "Angvar's Trove",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Theater of Delight (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Antre_of_Adjournment"
+},
+"id": "loc:antre_of_adjournment",
+"mode": "pve",
+"name": "Antre of Adjournment",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Aquatic_Ruins_Fractal"
 },
 "id": "loc:aquatic_ruins_fractal",
 "mode": "pve",
 "name": "Aquatic Ruins Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Armistice Bastion (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Armistice_Bastion_%28jumping_puzzle%29"
+},
+"id": "loc:armistice_bastion_jumping_puzzle",
+"mode": "pve",
+"name": "Armistice Bastion",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Ley-Drowned Quarry (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Artificer%27s_Rise"
+},
+"id": "loc:artificer_s_rise",
+"mode": "pve",
+"name": "Artificer's Rise",
 "yields": []
 },
 {
@@ -3388,6 +3443,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Team Deathmatch in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Asura_Arena"
+},
+"id": "loc:asura_arena",
+"mode": "pvp",
+"name": "Asura Arena",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Team Deathmatch in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Auric_Span"
+},
+"id": "loc:auric_span",
+"mode": "pvp",
+"name": "Auric Span",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Beggar's Burrow (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Bad_Neighborhood"
 },
@@ -3410,6 +3487,39 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Stronghold in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Battle_of_Champion%27s_Dusk"
+},
+"id": "loc:battle_of_champion_s_dusk",
+"mode": "pvp",
+"name": "Battle of Champion's Dusk",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Battle_of_Kyhlo"
+},
+"id": "loc:battle_of_kyhlo",
+"mode": "pvp",
+"name": "Battle of Kyhlo",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Behem Gauntlet (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Behem_Gauntlet_%28jumping_puzzle%29"
+},
+"id": "loc:behem_gauntlet_jumping_puzzle",
+"mode": "pve",
+"name": "Behem Gauntlet",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Bell_Choir_Ensemble"
 },
@@ -3422,6 +3532,17 @@
 "node_id": "item:77604"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Skyshroud Canopy (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Birdie_Benefactor"
+},
+"id": "loc:birdie_benefactor",
+"mode": "pve",
+"name": "Birdie Benefactor",
+"yields": []
 },
 {
 "expansion": "core",
@@ -3489,6 +3610,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Varim's Run (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Branded_Mine"
+},
+"id": "loc:branded_mine",
+"mode": "pve",
+"name": "Branded Mine",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Cathedral of Silence (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Buried_Archives"
+},
+"id": "loc:buried_archives",
+"mode": "pve",
+"name": "Buried Archives",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Captain_Mai_Trin_Boss_Fractal"
 },
@@ -3539,6 +3682,17 @@
 "id": "loc:chamber_of_regret",
 "mode": "pve",
 "name": "Chamber of Regret",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Champion's Shield (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Chaos_Crystal_Cavern"
+},
+"id": "loc:chaos_crystal_cavern",
+"mode": "pve",
+"name": "Chaos Crystal Cavern",
 "yields": []
 },
 {
@@ -3599,6 +3753,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Mellaggan's Grotto (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Coddler%27s_Cove"
+},
+"id": "loc:coddler_s_cove",
+"mode": "pve",
+"name": "Coddler's Cove",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Drizzlewood Coast (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Cold_War"
 },
@@ -3639,6 +3804,28 @@
 "node_id": "item:93649"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Doyen's Adytum (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Coleopteran_Cavern"
+},
+"id": "loc:coleopteran_cavern",
+"mode": "pve",
+"name": "Coleopteran Cavern",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Cubular Fells (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Conundrum_Cubed"
+},
+"id": "loc:conundrum_cubed",
+"mode": "pve",
+"name": "Conundrum Cubed",
+"yields": []
 },
 {
 "expansion": "core",
@@ -3691,6 +3878,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Terra Carorunda (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Craze%27s_Folly"
+},
+"id": "loc:craze_s_folly",
+"mode": "pve",
+"name": "Craze's Folly",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Reaper's Corridor (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crimson_Plateau"
+},
+"id": "loc:crimson_plateau",
+"mode": "pve",
+"name": "Crimson Plateau",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Crucible_of_Eternity"
 },
@@ -3724,6 +3933,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Dreamdark Enclave (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dark_Reverie"
+},
+"id": "loc:dark_reverie",
+"mode": "pve",
+"name": "Dark Reverie",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Deepstone_Fractal"
 },
@@ -3735,12 +3955,34 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Demongrub Pits (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Demongrub_Pits_%28jumping_puzzle%29"
+},
+"id": "loc:demongrub_pits_jumping_puzzle",
+"mode": "pve",
+"name": "Demongrub Pits",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Dzasha Uplands (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Dispersed_Energy"
 },
 "id": "loc:dispersed_energy",
 "mode": "pve",
 "name": "Dispersed Energy",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Djinn%27s_Dominion"
+},
+"id": "loc:djinn_s_dominion",
+"mode": "pvp",
+"name": "Djinn's Dominion",
 "yields": []
 },
 {
@@ -3936,12 +4178,67 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Tarir, the Forgotten City (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Egg_Bearer"
+},
+"id": "loc:egg_bearer",
+"mode": "pve",
+"name": "Egg Bearer",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Eternal_Coliseum"
+},
+"id": "loc:eternal_coliseum",
+"mode": "pvp",
+"name": "Eternal Coliseum",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Arca Lake (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Fawcett%27s_Bounty"
+},
+"id": "loc:fawcett_s_bounty",
+"mode": "pve",
+"name": "Fawcett's Bounty",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Flame Legion Camp (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Flame_Legion_Camp_%28jumping_puzzle%29"
+},
+"id": "loc:flame_legion_camp_jumping_puzzle",
+"mode": "pve",
+"name": "Flame Legion Camp",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Flame Temple Tombs (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Font_of_Rhand"
 },
 "id": "loc:font_of_rhand",
 "mode": "pve",
 "name": "Font of Rhand",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forest_of_Niflhel"
+},
+"id": "loc:forest_of_niflhel",
+"mode": "pvp",
+"name": "Forest of Niflhel",
 "yields": []
 },
 {
@@ -4070,12 +4367,56 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Khan-Ur's Gauntlet (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Gauntlet_of_the_Khan-Ur"
+},
+"id": "loc:gauntlet_of_the_khan_ur",
+"mode": "pve",
+"name": "Gauntlet of the Khan-Ur",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Cuatl Morass (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Goemm%27s_Lab"
+},
+"id": "loc:goemm_s_lab",
+"mode": "pve",
+"name": "Goemm's Lab",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Earthlord's Gap (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Goff%27s_Loot"
 },
 "id": "loc:goff_s_loot",
 "mode": "pve",
 "name": "Goff's Loot",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in The Blasted Moors (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Grendich_Gamble"
+},
+"id": "loc:grendich_gamble",
+"mode": "pve",
+"name": "Grendich Gamble",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Griffonrook Run (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Griffonrook_Run_%28jumping_puzzle%29"
+},
+"id": "loc:griffonrook_run_jumping_puzzle",
+"mode": "pve",
+"name": "Griffonrook Run",
 "yields": []
 },
 {
@@ -4131,6 +4472,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Team Deathmatch in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Hall_of_the_Mists"
+},
+"id": "loc:hall_of_the_mists",
+"mode": "pvp",
+"name": "Hall of the Mists",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Dragon's End (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Harvest_Temple"
 },
@@ -4155,6 +4507,39 @@
 "node_id": "item:97132"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Darkweather Rise (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Hexfoundry_Unhinged"
+},
+"id": "loc:hexfoundry_unhinged",
+"mode": "pve",
+"name": "Hexfoundry Unhinged",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Dierdre's Steps (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Hidden_Garden"
+},
+"id": "loc:hidden_garden",
+"mode": "pve",
+"name": "Hidden Garden",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Lastgear Standing (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Highest_Gear"
+},
+"id": "loc:highest_gear",
+"mode": "pve",
+"name": "Highest Gear",
+"yields": []
 },
 {
 "expansion": "core",
@@ -4187,6 +4572,28 @@
 "id": "loc:honor_of_the_waves_story",
 "mode": "pve",
 "name": "Honor of the Waves (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Ley Distributary (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Inquest_Cache"
+},
+"id": "loc:inquest_cache",
+"mode": "pve",
+"name": "Inquest Cache",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Command Complex (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Inquest_Hologram"
+},
+"id": "loc:inquest_hologram",
+"mode": "pve",
+"name": "Inquest Hologram",
 "yields": []
 },
 {
@@ -4288,6 +4695,39 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in King Jalis's Refuge (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/King_Jalis%27s_Refuge_%28jumping_puzzle%29"
+},
+"id": "loc:king_jalis_s_refuge_jumping_puzzle",
+"mode": "pve",
+"name": "King Jalis's Refuge",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Guild Puzzle in Langmar Estate (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Langmar_Estate_%28guild_puzzle%29"
+},
+"id": "loc:langmar_estate_guild_puzzle",
+"mode": "pve",
+"name": "Langmar Estate",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Legacy_of_the_Foefire"
+},
+"id": "loc:legacy_of_the_foefire",
+"mode": "pvp",
+"name": "Legacy of the Foefire",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Lonely_Tower_Fractal"
 },
@@ -4316,6 +4756,17 @@
 "node_id": "item:94020"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Loreclaw Expanse (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Loreclaw_Expanse_%28jumping_puzzle%29"
+},
+"id": "loc:loreclaw_expanse_jumping_puzzle",
+"mode": "pve",
+"name": "Loreclaw Expanse",
+"yields": []
 },
 {
 "expansion": "core",
@@ -4366,12 +4817,56 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Rata Novus (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Master_Mushroom_Spelunker"
+},
+"id": "loc:master_mushroom_spelunker",
+"mode": "pve",
+"name": "Master Mushroom Spelunker",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Command Complex (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Meandering_Magic"
+},
+"id": "loc:meandering_magic",
+"mode": "pve",
+"name": "Meandering Magic",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Mistlock Observatory (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mistlock_Mountaineer"
+},
+"id": "loc:mistlock_mountaineer",
+"mode": "pve",
+"name": "Mistlock Mountaineer",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Mistlock_Observatory"
 },
 "id": "loc:mistlock_observatory",
 "mode": "pve",
 "name": "Mistlock Observatory",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Sunnyhill (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mistwrought_Vault"
+},
+"id": "loc:mistwrought_vault",
+"mode": "pve",
+"name": "Mistwrought Vault",
 "yields": []
 },
 {
@@ -4399,6 +4894,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Morgan's Spiral (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Morgan%27s_Leap"
+},
+"id": "loc:morgan_s_leap",
+"mode": "pve",
+"name": "Morgan's Leap",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Mount Balrior (zone) (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Mount_Balrior"
 },
@@ -4415,6 +4921,17 @@
 "node_id": "item:77378"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Temple of Abnegation (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Munchin%27_Moths"
+},
+"id": "loc:munchin_moths",
+"mode": "pve",
+"name": "Munchin' Moths",
+"yields": []
 },
 {
 "expansion": "core",
@@ -4524,6 +5041,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Broadhollow Bluffs (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Not_So_Secret"
+},
+"id": "loc:not_so_secret",
+"mode": "pve",
+"name": "Not So Secret",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Zraith's Beacon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Obsidian_Sanctum"
+},
+"id": "loc:obsidian_sanctum",
+"mode": "pve",
+"name": "Obsidian Sanctum",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Lion's Arch (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Old_Lion%27s_Court"
 },
@@ -4556,6 +5095,83 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Sector Zuhl (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Only_Zuhl"
+},
+"id": "loc:only_zuhl",
+"mode": "pve",
+"name": "Only Zuhl",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Riddled Cove (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Orb_Cavern"
+},
+"id": "loc:orb_cavern",
+"mode": "pve",
+"name": "Orb Cavern",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Pig Iron Mine (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Pig_Iron_Quarry"
+},
+"id": "loc:pig_iron_quarry",
+"mode": "pve",
+"name": "Pig Iron Quarry",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Sorrowful Sound (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Professor_Portmatt%27s_Lab"
+},
+"id": "loc:professor_portmatt_s_lab",
+"mode": "pve",
+"name": "Professor Portmatt's Lab",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Prospect Valley (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Prospect_Valley_Crash_Site"
+},
+"id": "loc:prospect_valley_crash_site",
+"mode": "pve",
+"name": "Prospect Valley Crash Site",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Guild Puzzle in Proxemics Lab (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Proxemics_Lab_%28guild_puzzle%29"
+},
+"id": "loc:proxemics_lab_guild_puzzle",
+"mode": "pve",
+"name": "Proxemics Lab",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Autumn's Vale (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Queen%27s_Confidence_%28jumping_puzzle%29"
+},
+"id": "loc:queen_s_confidence_jumping_puzzle",
+"mode": "pve",
+"name": "Queen's Confidence",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Reaper%27s_Rumble"
 },
@@ -4578,6 +5194,28 @@
 "id": "loc:rebel_s_seclusion_mini_dungeon",
 "mode": "pve",
 "name": "Rebel's Seclusion",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in The Silverwastes (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Retrospective_Runaround"
+},
+"id": "loc:retrospective_runaround",
+"mode": "pve",
+"name": "Retrospective Runaround",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Revenge_of_the_Capricorn"
+},
+"id": "loc:revenge_of_the_capricorn",
+"mode": "pvp",
+"name": "Revenge of the Capricorn",
 "yields": []
 },
 {
@@ -4626,6 +5264,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Theater of Delight (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Scavenger%27s_Chasm"
+},
+"id": "loc:scavenger_s_chasm",
+"mode": "pve",
+"name": "Scavenger's Chasm",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Draconis Mons (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Searing_Ascent"
+},
+"id": "loc:searing_ascent",
+"mode": "pve",
+"name": "Searing Ascent",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Secret_Lair_of_the_Snowmen"
 },
@@ -4638,6 +5298,17 @@
 "node_id": "item:77604"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Shattered Ice Floe (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Shattered_Ice_Ruins"
+},
+"id": "loc:shattered_ice_ruins",
+"mode": "pve",
+"name": "Shattered Ice Ruins",
+"yields": []
 },
 {
 "expansion": "core",
@@ -4735,6 +5406,39 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Sopor Titanum (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Skip_up_the_Volcano"
+},
+"id": "loc:skip_up_the_volcano",
+"mode": "pve",
+"name": "Skip up the Volcano",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Southsun Shoals (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Skipping_Stones"
+},
+"id": "loc:skipping_stones",
+"mode": "pve",
+"name": "Skipping Stones",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Skyhammer"
+},
+"id": "loc:skyhammer",
+"mode": "pvp",
+"name": "Skyhammer",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Snowball_Mayhem"
 },
@@ -4757,6 +5461,17 @@
 "id": "loc:snowblind_fractal",
 "mode": "pve",
 "name": "Snowblind Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Soaring Sands (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Soaring_Copse_%28jumping_puzzle%29"
+},
+"id": "loc:soaring_copse_jumping_puzzle",
+"mode": "pve",
+"name": "Soaring Copse",
 "yields": []
 },
 {
@@ -4828,6 +5543,28 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Sandycove Beach (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Spekks%27s_Laboratory"
+},
+"id": "loc:spekks_s_laboratory",
+"mode": "pve",
+"name": "Spekks's Laboratory",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in The Verdence (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Spelunker%27s_Delve"
+},
+"id": "loc:spelunker_s_delve",
+"mode": "pve",
+"name": "Spelunker's Delve",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Spirit_Vale"
 },
@@ -4844,6 +5581,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Spirit_Watch"
+},
+"id": "loc:spirit_watch",
+"mode": "pvp",
+"name": "Spirit Watch",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Stopped_Clock_Tower"
 },
@@ -4855,12 +5603,34 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Strike mission (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Strike_Mission"
+},
+"id": "loc:strike_mission",
+"mode": "pve",
+"name": "Strike Mission",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Stronghold_of_the_Faithful"
 },
 "id": "loc:stronghold_of_the_faithful",
 "mode": "pve",
 "name": "Stronghold of the Faithful",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Push in The Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sunjiang_Backstreets"
+},
+"id": "loc:sunjiang_backstreets",
+"mode": "pvp",
+"name": "Sunjiang Backstreets",
 "yields": []
 },
 {
@@ -4920,6 +5690,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Cornucopian Fields (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Swashbuckler%27s_Cove"
+},
+"id": "loc:swashbuckler_s_cove",
+"mode": "pve",
+"name": "Swashbuckler's Cove",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Wychmire Swamp (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Tears_of_Itlaocol"
 },
@@ -4963,12 +5744,34 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Conquest in Player vs. Player (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Temple_of_the_Silent_Storm"
+},
+"id": "loc:temple_of_the_silent_storm",
+"mode": "pvp",
+"name": "Temple of the Silent Storm",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Thaumanova_Reactor_Fractal"
 },
 "id": "loc:thaumanova_reactor_fractal",
 "mode": "pve",
 "name": "Thaumanova Reactor Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Cereboth Canyon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Collapsed_Observatory"
+},
+"id": "loc:the_collapsed_observatory",
+"mode": "pve",
+"name": "The Collapsed Observatory",
 "yields": []
 },
 {
@@ -5050,12 +5853,78 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Hidden Nodule (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Traversing_the_Titan"
+},
+"id": "loc:traversing_the_titan",
+"mode": "pve",
+"name": "Traversing the Titan",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Bjorn Thicket (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Treetop_Beehive"
+},
+"id": "loc:treetop_beehive",
+"mode": "pve",
+"name": "Treetop Beehive",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Silent Surf (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Trial_of_the_Elders"
 },
 "id": "loc:trial_of_the_elders",
 "mode": "pve",
 "name": "Trial of the Elders",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Seitung Province (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Trials_of_the_Tengu"
+},
+"id": "loc:trials_of_the_tengu",
+"mode": "pve",
+"name": "Trials of the Tengu",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Tribulation Rift (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Tribulation_Rift_Scaffolding"
+},
+"id": "loc:tribulation_rift_scaffolding",
+"mode": "pve",
+"name": "Tribulation Rift Scaffolding",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Memory of Old Lion's Arch (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Troll%27s_End"
+},
+"id": "loc:troll_s_end",
+"mode": "pve",
+"name": "Troll's End",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Lion's Arch (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Troll%27s_Revenge"
+},
+"id": "loc:troll_s_revenge",
+"mode": "pve",
+"name": "Troll's Revenge",
 "yields": []
 },
 {
@@ -5116,6 +5985,17 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Pearl Islet (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Under_New_Management"
+},
+"id": "loc:under_new_management",
+"mode": "pve",
+"name": "Under New Management",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Underground_Facility_Fractal"
 },
@@ -5133,6 +6013,17 @@
 "id": "loc:urban_battleground_fractal",
 "mode": "pve",
 "name": "Urban Battleground Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Postern Ward (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Urmaug%27s_Secret"
+},
+"id": "loc:urmaug_s_secret",
+"mode": "pve",
+"name": "Urmaug's Secret",
 "yields": []
 },
 {
@@ -5160,12 +6051,45 @@
 {
 "expansion": "core",
 "guidance": {
+"text": "Jumping puzzle in Cragged Upland (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Vale_Brazier"
+},
+"id": "loc:vale_brazier",
+"mode": "pve",
+"name": "Vale Brazier",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
 "text": "Mini-dungeon in Melandru's Hope (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Vasburg_Armory_%28mini-dungeon%29"
 },
 "id": "loc:vasburg_armory_mini_dungeon",
 "mode": "pve",
 "name": "Vasburg Armory",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Verarium Delves (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Verarium_Delves_%28jumping_puzzle%29"
+},
+"id": "loc:verarium_delves_jumping_puzzle",
+"mode": "pve",
+"name": "Verarium Delves",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Shark's Teeth Archipelago (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Vizier%27s_Tower"
+},
+"id": "loc:vizier_s_tower",
+"mode": "pve",
+"name": "Vizier's Tower",
 "yields": []
 },
 {
@@ -5225,6 +6149,28 @@
 "id": "loc:volcanic_fractal",
 "mode": "pve",
 "name": "Volcanic Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in The Breached Wall (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Wall_Breach_Blitz"
+},
+"id": "loc:wall_breach_blitz",
+"mode": "pve",
+"name": "Wall Breach Blitz",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Sharkmaw Caverns (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Weyandt%27s_Revenge"
+},
+"id": "loc:weyandt_s_revenge",
+"mode": "pve",
+"name": "Weyandt's Revenge",
 "yields": []
 },
 {
@@ -5294,6 +6240,17 @@
 "node_id": "item:93245"
 }
 ]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Jumping puzzle in Old Kaineng (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Wind_through_the_Walls"
+},
+"id": "loc:wind_through_the_walls",
+"mode": "pve",
+"name": "Wind through the Walls",
+"yields": []
 },
 {
 "expansion": "core",
