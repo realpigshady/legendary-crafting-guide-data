@@ -418,7 +418,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
             # piece, on the same page): that item's source, with this page's item as an input.
             for s in list(node["sources"]):
                 oid, oname = s.pop("_output_id", None), s.pop("_output_name", None)
-                if oid and iid and oid != iid:
+                if oid and oid != iid:
                     node["sources"].remove(s)
                     vid = f"item:{oid}"
                     v = w.nodes.setdefault(vid, {"id": vid, "type": "forge" if s["kind"] == "mystic_forge" else "craft",
