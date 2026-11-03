@@ -70,14 +70,14 @@ def _q_locations(types: list[str]) -> str:     # every location page of these ty
             "|?Has location type|?Has canonical name|?Located in|?Is historical")
 
 
-def _q_category(cats: list[str]) -> str:       # every page in these categories
-    return "[[" + "||".join(cats) + "]]|?Category|?Has location type|?Has canonical name|?Located in|?Is historical"
+def _q_category(cats: list[str]) -> str:       # every page in one category (asked one at a time)
+    return f"[[{cats[0]}]]|?Has location type|?Has canonical name|?Located in|?Is historical"
 
 
 QUERIES = {"category": _q_category, "vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
            "rewards_of": _q_rewards_of, "locations": _q_locations}
 # which printout names the item a row is about
-ROW_ITEM = {"category": "Category", "vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
+ROW_ITEM = {"vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
             "rewards_of": "Rewarded by", "locations": "Has location type"}
 
 
@@ -161,7 +161,7 @@ class SourceStore:
             self.requests += 1
             reply = self.post(params)
             if "error" in reply:
-                raise RuntimeError(f"SMW ask: {reply['error'].get('info', reply['error'])}")
+                raise SmwError(f"SMW ask: {reply['error'].get('info', reply['error'])} [{query[:200]}]")
             out += rows(reply)
             nxt = reply.get("query-continue-offset")
             if not nxt or nxt <= offset:
@@ -184,16 +184,24 @@ class SourceStore:
             for n in todo:
                 out[n] = self._live_or_stored(kind, [n], lambda ns: self._ask(_q_track(ns[0])), now).get(n, [])
             return out
+        if kind == "category":   # rows don't name their category: one query each, every row is its
+            for n in todo:
+                out[n] = self._live_or_stored(kind, [n], lambda ns: self._ask(_q_category(ns)), now, whole=True).get(n, [])
+            return out
         for i in range(0, len(todo), CHUNK):
             part = todo[i:i + CHUNK]
             out.update(self._live_or_stored(kind, part, lambda ns: self._ask(QUERIES[kind](ns)), now))
         return out
 
-    def _live_or_stored(self, kind, names, ask, now) -> dict[str, list[dict]]:
+    def _live_or_stored(self, kind, names, ask, now, whole=False) -> dict[str, list[dict]]:
         if not self.down:
             try:
                 got = ask(names)
                 by: dict[str, list[dict]] = {n: [] for n in names}
+                if whole:
+                    by[names[0]] = got
+                    self._save(kind, names[0], got, now)
+                    return by
                 low = {n.lower(): n for n in names}
                 for r in got:
                     for item in _items_of(kind, r):
@@ -202,6 +210,8 @@ class SourceStore:
                 for n, rws in by.items():
                     self._save(kind, n, rws, now)
                 return by
+            except SmwError:
+                raise                        # a bad query isn't an outage: say what the wiki said
             except Exception:  # noqa: BLE001 - one failure = down for this run
                 self.down = True
         out = {}
@@ -215,6 +225,10 @@ class SourceStore:
 
 
 class WikiSourcesDown(Exception):
+    pass
+
+
+class SmwError(Exception):
     pass
 
 

@@ -26,7 +26,7 @@ PLACE_TYPES = ["Fractal", "Raid", "Dungeon", "Dragon Response Mission", "Mini-du
                "Guild Puzzle", "Conquest", "Stronghold", "Team Deathmatch", "Push"]
 PVP_TYPES = {"Conquest", "Stronghold", "Team Deathmatch", "Push"}
 # activities filed by category, not location type
-PLACE_CATEGORIES = {"Category:Strike missions": "Strike mission", "Category:Convergences": "Convergence"}
+PLACE_CATEGORIES = {"Category:Strike Missions": "Strike mission"}   # convergences: in the event timer
 SKIP_MAPS = re.compile(r"day and night", re.I)
 FILLER = re.compile(r"^\s*(reset|prep|preparations?|\(continued\))\s*$", re.I)   # gaps between runs, not activities
 EXPANSION = {"core": "core", "lws2": "core", "public": "core", "festival": "core", "t": "core",
