@@ -1,0 +1,885 @@
+{
+"fetched": 1793700180.6021113,
+"item": "Packet of Salt",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Apprentice (cooking)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Apprentice (cooking)#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bhia"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Bhia#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caria"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ashford Forum"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Caria#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cemil"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Cemil#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Chef (Aerodrome)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Chef (Aerodrome)#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Chef Kaga"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Chef Kaga#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Chef Mountainsplitter"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Chef Mountainsplitter#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Crusader Kruve"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Crusader Kruve#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Flavor Scholar Raima"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Flavor Scholar Raima#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Flimm"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desider Atum"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Flimm#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Garik"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stronghold of Ebonhawke"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Garik#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gurges Burnpaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Gurges Burnpaw#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Head Chef Jacqueline"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Head Chef Jacqueline#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kathleen"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Kathleen#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lachaidh"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum",
+"Trader's Forum (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Lachaidh#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Liv"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Icesteppes"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Liv#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Melinda"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Township of Claypool"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Melinda#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Myrtle"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mabon Market"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Myrtle#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Disciple (Master Chef)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Pavilion Disciple (Master Chef)#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Prazz"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Synergetics Union"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Prazz#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Reimar (master chef)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Reimar (master chef)#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sage"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"District Promenade",
+"Royal Terrace"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Sage#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Shar#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siptikk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Havoc's Heir"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Siptikk#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sous-Chef Seimur Oxbone"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Home instance",
+"Trade Commons",
+"District Promenade",
+"Western Ward",
+"Mustering Ground",
+"Village of Butcher's Block",
+"Creator's Commons",
+"Ronan's Bower"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Sous-Chef Seimur Oxbone#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tik'sip"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Noble's Folly"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Tik'sip#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vyor Ravenhanded"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Vyor Ravenhanded#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "80"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Zenn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Synergetics Union"
+],
+"Sells item": [
+"Packet of Salt"
+],
+"_subject": "Zenn#vendor5"
+}
+]
+}

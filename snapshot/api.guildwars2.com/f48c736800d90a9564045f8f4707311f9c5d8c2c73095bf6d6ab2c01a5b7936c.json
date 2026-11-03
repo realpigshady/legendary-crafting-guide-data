@@ -1,0 +1,1549 @@
+{
+"body": [
+{
+"chat_link": "[&AgGnTAAA]",
+"description": "A gift of energy used to create generation one and two legendary weapons and the legendary trinkets Vision and Aurora.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an artificer rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3D0EF516072931651F7F430B0C6BD8D6FE38E1C7/455804.png",
+"id": 19623,
+"level": 0,
+"name": "Gift of Energy",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHcTAAA]",
+"description": "Used to create legendary weapon and trinket gift items.\n\nPurchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AB22A149E9B807AA726CC6B1D7D0435A840A300/455856.png",
+"id": 19676,
+"level": 0,
+"name": "Icy Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 1250
+},
+{
+"chat_link": "[&AgHeTAAA]",
+"description": "A gift used in legendary crafting.\n\nAcquired from the WvW Gift of Battle Item Reward Track.\n\nTo create the Gift of War Prosperity, combine this in the Mystic Forge with:\n• 15 Mystic Clovers\n• 1 Gift of Condensed Might\n• 1 Gift of Condensed Magic",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB593444A3ED065F7BE3EC71713CF80D145EABCB/455858.png",
+"id": 19678,
+"level": 0,
+"name": "Gift of Battle",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEFTQAA]",
+"description": "Used in crafting for making Hylek items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/582641FE0D5FD2AB0903CA0050049167A89CB97C/67028.png",
+"id": 19717,
+"level": 0,
+"name": "Sun Bead",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgEITgAA]",
+"description": "Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. \nPart of Zommoros's favorite trades.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+"id": 19976,
+"level": 0,
+"name": "Mystic Coin",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE8UQAA]",
+"description": "Used by the Mystic Forge to change one material into another.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/68FF9617BA1BE1AD58E83E4209AEF0FB58950702/434425.png",
+"id": 20796,
+"level": 0,
+"name": "Philosopher's Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgE9UQAA]",
+"description": "A shard of pure power used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D9F626FA79AA0C49436337B1C767023CCF14EFF9/434426.png",
+"id": 20797,
+"level": 0,
+"name": "Bloodstone Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFbtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09B8304C6AEE96A6C25DA57BFA03EBFCC66A0B60/631470.png",
+"id": 46683,
+"level": 0,
+"name": "Crystalline Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGatgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F19A8B4E309C3042358FB194F7190331DEF27EB/631494.png",
+"id": 46746,
+"level": 0,
+"name": "Vision Crystal",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 40
+},
+{
+"chat_link": "[&AgEQwQAA]",
+"description": "Double-click to apply to an unused infusion slot. Used by artificers to craft more powerful agony infusions.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "AgonyResistance",
+"modifier": 1
+}
+],
+"buff": {
+"description": "+1 Agony Resistance",
+"skill_id": 22100
+},
+"id": 764
+},
+"infusion_upgrade_flags": [
+"Infusion"
+],
+"suffix": "",
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C605E2EF280B5E4CF9A249E80AB3053843C5EBE3/511839.png",
+"id": 49424,
+"level": 0,
+"name": "+1 Agony Infusion",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "UpgradeComponent",
+"upgrades_into": [
+{
+"item_id": 104755,
+"upgrade": "Attunement"
+},
+{
+"item_id": 104864,
+"upgrade": "Attunement"
+},
+{
+"item_id": 104797,
+"upgrade": "Attunement"
+},
+{
+"item_id": 104706,
+"upgrade": "Attunement"
+},
+{
+"item_id": 104681,
+"upgrade": "Attunement"
+},
+{
+"item_id": 104741,
+"upgrade": "Attunement"
+}
+],
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGkFAEA]",
+"description": "Rewarded through PvP reward tracks and PvP dailies.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BBA010474B8CCE22392E71EF81E5FDB662BC32F/1206834.png",
+"id": 70820,
+"level": 80,
+"name": "Shard of Glory",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgHTFAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Fangs\n• 1 Gift of Scales\n• 1 Gift of Claws\n•1 Gift of Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CCA4C2F8AF79D2EB0CFF381E3DDA3EA792BA7412/1302180.png",
+"id": 70867,
+"level": 0,
+"name": "Gift of Condensed Might",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGdFwEA]",
+"description": "Found in World vs. World reward tracks.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4D0455D2EFDB0DFC008F4564B38D6545901A05B/1206833.png",
+"id": 71581,
+"level": 80,
+"name": "Memory of Battle",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE6GQEA]",
+"description": "Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/073D6BA90E2434B02CDEC736AEA252202FA0BA71/1200192.png",
+"id": 71994,
+"level": 0,
+"name": "Ball of Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgGlHgEA]",
+"description": "Use in the Mystic Forge with an Agony Infusion, an Ascended Ring, and a Philosopher's Stone to craft an Attuned Ascended Ring.\nCan be bought inside the Fractals of the Mists once you have trained Agony Channeler in the Fractal Attunement Mastery line.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/33A24CED131E010FB63B60C1303B5AEDC606B528/575165.png",
+"id": 73381,
+"level": 0,
+"name": "Agonized Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGLKgEA]",
+"description": "In the Mystic Forge, combine a Gift of Battle, a Gift of Glory, a Gift of War, and a Cube of Stabilized Dark Energy to create the Gift of the Mists.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/02A006B49750920132E0F4BD0901F0FF9ABA07B9/1205258.png",
+"id": 76427,
+"level": 0,
+"name": "Gift of the Mists",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHyKgEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Blood\n• 1 Gift of Venom\n• 1 Gift of Totems\n• 1 Gift of Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09F42753049B20A54F6017B1F26A9447613016FE/1302179.png",
+"id": 76530,
+"level": 0,
+"name": "Gift of Condensed Magic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH2LQEA]",
+"description": "Used to purchase gifts for legendary armor and the legendary ring Coalescence from raid vendors.\nDouble-click to add to wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6D33B7387BAF2E2CC9B5D37D1D1B01246AB6FA22/1302744.png",
+"id": 77302,
+"level": 0,
+"name": "Legendary Insight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 500
+},
+{
+"chat_link": "[&AgGuLgEA]",
+"description": "Combine 5 of these in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and a Perfect Mist Core to create the Gift of Skirmishing.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0E0A40E7C1D3CB944432F76EC6E52B614B29BEB/1313079.png",
+"id": 77486,
+"level": 0,
+"name": "Certificate of Support",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHQLgEA]",
+"description": "Combine in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and 5 Certificates of Support to create the Gift of Skirmishing.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A2FCE1D04B4DEEC1A2D12FC1940FA810409C0D47/1313080.png",
+"id": 77520,
+"level": 0,
+"name": "Perfect Mist Core",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF+NQEA]",
+"description": "Obtained from vendors in the Mistlock Observatory. Used to purchase rare items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EFB10E0748A8E82B176BD1AFFBF5E2B4C72D06CD/1465514.png",
+"id": 79230,
+"level": 0,
+"name": "Integrated Fractal Matrix",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 1000
+},
+{
+"chat_link": "[&AgGQPQEA]",
+"description": "Combine the Legendary Spike, 4 Gifts of Battle, 250 Memories of Battle, and 2 Vision Crystals in the Mystic Forge to create the Gift of Conquering.",
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D12175CCA72539F1E8CC967AAF1D2045D3D24F01/1701107.png",
+"id": 81296,
+"level": 80,
+"name": "Legendary Spike",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 3000
+},
+{
+"chat_link": "[&AgGXPwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05F9644D3720EA446C96F561BC807C0E9E41E4C8/1729314.png",
+"id": 81815,
+"level": 0,
+"name": "Gift of Bloodstone Magic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFYQAEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E800EB45234541A6D6D4CC3EEA0C17229E95EB21/1729318.png",
+"id": 82008,
+"level": 0,
+"name": "Gift of Valor",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgF0QAEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/039B0F41A2610DF444E600BE46E60F2A95F1999B/1729316.png",
+"id": 82036,
+"level": 0,
+"name": "Gift of Dragon Magic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgE6QwEA]",
+"description": "In the Mystic Forge, combine a Gift of War Prosperity, Gift of War Prowess, Gift of War Dedication, and a WvW Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF36531138CD609728929AEBF646F4B72849D222/1766741.png",
+"id": 82746,
+"level": 0,
+"name": "Gift of War Prosperity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgE7RQEA]",
+"description": "In the Mystic Forge, combine a Gift of War Prosperity, Gift of War Prowess, Gift of War Dedication, and a WvW Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BD52D4F9396E52280A04225413CD295C039FCB39/1766740.png",
+"id": 83259,
+"level": 0,
+"name": "Gift of War Dedication",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgHrSAEA]",
+"description": "In the Mystic Forge, combine a Gift of Competitive Prosperity, Gift of Competitive Prowess, Gift of Competitive Dedication, and a PvP Ascended Armor piece to upgrade the armor to Legendary.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AA79315EC7556EE2BD307E20AE39071CAA76EF4/1767203.png",
+"id": 84203,
+"level": 0,
+"name": "Gift of Competitive Dedication",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgEUUAEA]",
+"description": "A gift used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8E86D04013AA541BE0CBACAE2080679CBF1DA71/1894676.png",
+"id": 86036,
+"level": 0,
+"name": "Gift of Desert Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFNUAEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18E7F86FAFFA1FEBB53E0101C4F807724B7709BA/1894675.png",
+"id": 86093,
+"level": 0,
+"name": "Funerary Incense",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEFVgEA]",
+"description": "Can be traded for grandmaster marks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6746AD0BC7EEB85962D9D05B6B7E59ECCE7C726D/1986161.png",
+"id": 87557,
+"level": 80,
+"name": "Grandmaster Mark Shard",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFNWwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F40339A348AC2240FFC81A600DCBC8BD02133871/2155853.png",
+"id": 88909,
+"level": 0,
+"name": "Gift of Complex Emotions",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgGCYwEA]",
+"description": "This could use some repairs...",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0A672B01C2B3042D1A626803193ED7A70007F06D/2149898.png",
+"id": 91010,
+"level": 0,
+"name": "Shattered Gift of Prescience",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHoYwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6790D64E546992B70F9E6B064C394E509A07A63D/2150029.png",
+"id": 91112,
+"level": 0,
+"name": "Gift of Ephemeral Magic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgH0YwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5678345367027854E34941DF16EF9270AEEEB540/2149903.png",
+"id": 91124,
+"level": 0,
+"name": "Gift of Crystalline Magic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFYawEA]",
+"description": "In the Mystic Forge, combine a Salt-Forged Mist Diamond with a Gift of the Mists, a Gift of Competitive Dedication, and 100 Icy Runestones to create Gift of the Champion.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/01120EBEE3E0E3989740050806973A5EA7EAE12E/2270292.png",
+"id": 93016,
+"level": 0,
+"name": "Salt-Forged Mist Diamond",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGtawEA]",
+"description": "In the Mystic Forge, combine a War Commendation, Gift of the Mists, Gift of War Dedication, and 100 Icy Runestones to create a Gift of the World.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2A7BBB96B8FA21521D68EAFCDF49926E59D7D4D6/2270828.png",
+"id": 93101,
+"level": 0,
+"name": "War Commendation",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHaawEA]",
+"description": "In the Mystic Forge, combine a Gift of Warfare, an Emblem of the Conqueror, a Mist Pearl, and a Mist-Enhanced Mithril to create a War Commendation.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D548CB0A04FA28BC76A91A6D8045E31A06DD417B/2270825.png",
+"id": 93146,
+"level": 0,
+"name": "Emblem of the Conqueror",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFkbAEA]",
+"description": "Combine with a Gift of the Mists, a Gift of Competitive Dedication, and a Salt-Forged Mist Diamond in the Mystic Forge to create the Gift of the Champion.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/06AF4818461DAB62AD720BD06564E4DB3F613D3A/1766743.png",
+"id": 93284,
+"level": 0,
+"name": "Tome of the Mists",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF3fQEA]",
+"description": "In the Mystic Forge, combine 500 Hydrocatalytic Reagents, 250 Thermocatalytic Reagents, and 250 exotic Essences of Luck to create a Gift of Research.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75E96691D495B9A7B7216F3A2D96309C72A7D596/2595111.png",
+"id": 97655,
+"level": 0,
+"name": "Gift of Research",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 160
+},
+{
+"chat_link": "[&AgHZiAEA]",
+"description": "An amalgamation of rift essences used for crafting that have been purified by magic...and more than a little luck.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BED8999F9DF2EEFDB3715A15E97DB17390CA0813/3123733.png",
+"id": 100569,
+"level": 0,
+"name": "Purified Rift Essence",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHplQEA]",
+"description": "Can be placed in the Mystic Forge with any siege blueprint to convert to 200 of that siege equipment type.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B3DF01B49E3C299B09FAC338E9383F13C1F43706/3442798.png",
+"id": 103913,
+"level": 0,
+"name": "Pile of Recycled Siege Equipment",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4nQEA]",
+"description": "Used to create a Gift of the Survivors.\n\nPurchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62B6A3561704ED626FE46046F041A3B1DA7ADB51/3710069.png",
+"id": 105848,
+"level": 0,
+"name": "Concentrated Chromatic Sap",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHNnQEA]",
+"description": "Used to create a Gift of the People.\n\nPurchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04BBDBF2746479F9F4DA2EE0ED5AE35CA602DEA8/3710055.png",
+"id": 105933,
+"level": 0,
+"name": "Patron of the Magical Arts Plaque",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGCnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by completing the Shipwreck Strand Mastery achievement.\nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3DF23197BD570150B071C7949BE9F5BBFE50D434/3710062.png",
+"id": 106370,
+"level": 0,
+"name": "Survivor's Enchanted Compass",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHjnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/69490A215111E1BA0A7C307AC590316E560D2DB4/3708957.png",
+"id": 106467,
+"level": 0,
+"name": "Gift of Shipwreck Strand Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGDoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by completing the Starlit Weald Mastery achievement. \nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D36C238C4EB0337FA32D6D507D8F3C925BE10F6/3710056.png",
+"id": 106627,
+"level": 0,
+"name": "Seer Wreath of Service",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGwoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7236FF7200ADFA3F973E51B40A582FF00316F2AD/3708958.png",
+"id": 106672,
+"level": 0,
+"name": "Gift of Starlit Weald Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHfoQEA]",
+"description": "Combine a Gift of Infused Gems, a Gift of the Sun, a Gift of the Beach, and 10 Purified Rift Essences in the Mystic Forge to create the Gift of Rays.\n\nCreated by combining the following in the Mystic Forge:\n• 250 Obsidian Shards\n• 250 Beryl, Chrysocola, Emerald, Opal, Ruby, or Sapphire Orbs\n• 1 Bloodstone Shard\n• 100 Mystic Runestones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A4BC3958B8D52F1C667535DE0C0911DE40ECC892/3744703.png",
+"id": 106975,
+"level": 0,
+"name": "Gift of Infused Gems",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGAogEA]",
+"description": "Combine a Gift of the Sun, a Gift of the Beach, a Gift of Infused Gems, and 10 Purified Rift Essences in the Mystic Forge to create a Gift of Rays.\n\nCreated by combining the following in the Mystic Forge:\n• 2 Gifts of Light\n• 2 Gifts of Condensed Magic\n• 2 Gifts of Condensed Might\n• 250 Sun Beads",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4E0EE392D03662746C5ECBFAFCD2D8C480D23BA6/3744705.png",
+"id": 107136,
+"level": 0,
+"name": "Gift of the Sun",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHBogEA]",
+"description": "Combine a Gift of the Beach, a Gift of the Sun, a Gift of Infused Gems, and 10 Purified Rift Essences in the Mystic Forge to create a Gift of Rays.\n\nCreated by combining the following in the Mystic Forge:\n• 250 Piles of Coarse Sand\n• 100 Ley-Infused Sands\n• 250 Coral Orbs\n• 1 Relic of the Sunless",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/97E3FC0631BD177AF7EEF8BF05949D344C0BF13D/3744701.png",
+"id": 107201,
+"level": 0,
+"name": "Gift of the Beach",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE6qgEA]",
+"description": "Used to create a Gift of Galdra.\n\nEarned by fully exploring Eternity's Garden. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/365171412593DC2E1B0F4ED1C15874D2DF25E263/3770116.png",
+"id": 109114,
+"level": 0,
+"name": "Gift of Eternity's Garden Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFVqgEA]",
+"description": "Used to create a Gift of Galdra.\n\nEarned by completing the Eternity's Garden Mastery achievement. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23BAF7DA1D44B145E1BCB4B97E50B1D9AFFC64F5/3771064.png",
+"id": 109141,
+"level": 0,
+"name": "Preserved Eidolon Hide",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHaqgEA]",
+"description": "Used to create a Gift of Shadowstones.\n\nPurchased from the renown heart vendor in Pilgrim's Rest in Eternity's Garden.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/653814587FD90F210CE9716D2DE3741ABADF0F9A/3771069.png",
+"id": 109274,
+"level": 0,
+"name": "Shadowstone Orb",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgExqwEA]",
+"description": "Used to create a Gift of Galdra.\n\nAcquired by completing the Forge Guard's armor collection. Purchased from Visions of Eternity map vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3607916D32C495D82AD450020DDDD365F050FDD1/3770117.png",
+"id": 109361,
+"level": 0,
+"name": "Gift of Regrowth",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGTqwEA]",
+"description": "Can be spent at vendors in Eternity's Garden.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E775F80195D7B835E4C81CA47EB19A5924E4ADF1/3771067.png",
+"id": 109459,
+"level": 0,
+"name": "Shadowstone Fragment",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGxqwEA]",
+"description": "Used to create a Gift of Shadowstones.\n\nAcquired by completing the Glimmering Resin weapon collection. Purchased from Visions of Eternity map vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DEC4CE0CB767CF720977D103D95072FE976A917D/3770118.png",
+"id": 109489,
+"level": 0,
+"name": "Gift of Restoration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFirAEA]",
+"description": "Used to create Visions of Eternity legendary items.\n\nPurchased from Visions of Eternity renown heart vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF7653289B033CBCAD3412370A930FA2001AE59F/3771072.png",
+"id": 109666,
+"level": 0,
+"name": "Seer Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGTrAEA]",
+"description": "Used to create a Gift of Shadowstones.\n\nPurchased from the renown heart vendor in Artificer's Islet in Eternity's Garden.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/31B61E164159B1FAC2561E5BC135072255A27512/3771068.png",
+"id": 109715,
+"level": 0,
+"name": "Shadowstone Containment Frame",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19623,19675,19676,19678,19717,19721,19976,20796,20797,46683,46746,49424,70820,70867,71581,71994,73381,76427,76530,77302,77486,77520,79230,81296,81815,82008,82036,82746,83259,84203,86036,86093,87557,88909,91010,91112,91124,93016,93101,93146,93284,97655,100569,103913,105848,105933,106370,106467,106627,106672,106975,107136,107201,109114,109141,109274,109361,109459,109489,109666,109715"
+}

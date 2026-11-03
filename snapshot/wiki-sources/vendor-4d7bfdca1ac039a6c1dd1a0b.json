@@ -1,0 +1,49 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Patron of the Magical Arts Plaque",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "500"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Starlit Weald Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Patron of the Magical Arts Plaque"
+],
+"_subject": "Huntmaster Arnorr#vendor1"
+}
+]
+}

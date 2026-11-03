@@ -1,0 +1,415 @@
+{
+"fetched": 1793697612.1608658,
+"item": "Gift of Shining Arms",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Acolyte of Balance Dexx#vendor28"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Alliance Field Quartermaster#vendor15"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor28"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Canach#vendor32"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Captain Emund#vendor35"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Castaway Agnes#vendor32"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Historian Meliza#vendor29"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Huntmaster Arnorr#vendor35"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Magister Sirkk#vendor35"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Steward Brizio#vendor28"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shining Ward Weapon Collector"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Gift of Shining Arms"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor34"
+}
+]
+}

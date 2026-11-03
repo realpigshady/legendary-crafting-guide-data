@@ -1,0 +1,74 @@
+{
+"fetched": 1793697716.1358633,
+"item": "Shadowstone Research Data",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Relic of the Eternal Alchemy",
+"Shadowstone Research Data",
+"Tenebral Ward Token: Chest",
+"Mists Scrying Mirror"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Leyspring Hollows (achievements)"
+],
+"Has canonical name": [
+"Leyspring Hollows Mastery"
+],
+"Has game id": [
+9417
+],
+"Is historical": [
+"f"
+],
+"_subject": "Leyspring Hollows (achievements)#achievement9417"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Shadowstone Research Data"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Inquest Saboteur Renown Mastery"
+],
+"Has game id": [
+9369
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement9369"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Shadowstone Research Data"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Assemblage Alliance Camp Renown Mastery"
+],
+"Has game id": [
+9378
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement9378"
+}
+]
+}

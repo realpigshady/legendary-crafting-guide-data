@@ -1,0 +1,5 @@
+{
+"revid": 2077541,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = ingredient\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 12166\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Cooking Ingredient\n| disciplines = chef\n| rating = 0\n| ingredient1 = 1 Bag of Flour\n| ingredient2 = 1 Stick of Butter\n| ingredient3 = 1 Jug of Water\n| id = 2851\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Teigkugel]]\n[[es:Bola de masa]]\n[[fr:Boule de pâte]]",
+"title": "Ball of Dough"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 1782650,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| description = Refined by combining copper ore, iron ore, lumps of coal, and thermocatalytic reagents.\n| rarity = Exotic\n| bound = account\n| requires = hot\n| value = 66\n| id = 73596\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Discovery\n| type = Legendary Component\n| disciplines = Artificer\n| rating = 400\n| ingredient1 = 100 Copper Ore\n| ingredient2 = 100 Iron Ore\n| ingredient3 = 10 Lump of Coal\n| ingredient4 = 10 Thermocatalytic Reagent\n| id = 10145\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Trivia ==\n* [[wikipedia:Cadmium pigments|Cadmium salts]] are used to make particularly vibrant red, yellow, and orange pigments.\n\n[[de:Phiole mit Cadmiumsalz]]\n[[es:Frasco de sales de cadmio]]\n[[fr:Fiole de sels de cadmium]]",
+"title": "Vial of Cadmium Salts"
+}

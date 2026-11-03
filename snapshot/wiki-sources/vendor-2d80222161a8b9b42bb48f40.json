@@ -1,0 +1,815 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Chunk of Ancient Ambergris",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of Strength"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Astral Ward Skirmisher (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bending Reed"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Bending Reed#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Circus Castaway (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shipwreck Beach"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Circus Castaway (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dock Worker (Lion's Arch Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Sanctum Harbor"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Dock Worker (Lion's Arch Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dock Worker (Rata Sum Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Rata Sum Port Authority"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Dock Worker (Rata Sum Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor31"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Humbled Den"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Shore",
+"The Golden Lake"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Humbled Den#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kairi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kaineng Docks"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Kairi#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lupine in the Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stricken Plains"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Lupine in the Wind#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Crystal Oasis Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Free City of Amnoon"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Merchant (Crystal Oasis Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Iron Marches Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Monger's Sink"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Merchant (Iron Marches Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Siren's Landing Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bloated Beach"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Merchant (Siren's Landing Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mori Villager (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mori Village"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Mori Villager (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Olmakhan Villager (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Atholma"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Olmakhan Villager (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Peddler (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Peddler (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor31"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Cantha Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Portable Wizard's Tower Exchange/Cantha Exchanges#vendor127"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Seitung Province: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Seitung Province: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shui"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Xunlai Jade Quarry"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Shui#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sora"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Seitung Harbor"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Sora#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Taro Everclaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Taro Everclaw#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Flawless Fish Fillet",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Local Legend"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Twoloop Trader (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maladar's Inlet"
+],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Twoloop Trader (Fishmonger)#vendor7"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Cantha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Wizard's Gobbler/Cantha#vendor127"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seitung Province: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chunk of Ancient Ambergris"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor31"
+}
+]
+}

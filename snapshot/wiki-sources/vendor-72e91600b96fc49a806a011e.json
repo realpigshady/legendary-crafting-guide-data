@@ -1,0 +1,272 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Certificate of Heroics",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Commander War Razor#vendor13"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Proof of Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Commander War Razor#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Desert Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Path of Fire]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Commander War Razor#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Commander War Razor#vendor24"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor13"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Proof of Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Desert Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Path of Fire]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Certificate of Heroics"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor24"
+}
+]
+}

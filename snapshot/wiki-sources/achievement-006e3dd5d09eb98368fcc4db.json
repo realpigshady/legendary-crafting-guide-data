@@ -1,0 +1,71 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Corrupted Lodestone",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Corrupted Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Ice Infuser"
+],
+"Has canonical name": [
+"Dragon Ice Infuser"
+],
+"Has game id": [
+5585
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5585"
+},
+{
+"Gives item": [
+"Corrupted Lodestone",
+"Season 4 Currency Box",
+"Amalgamated Draconic Lodestone",
+"Prismatium Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Master of Draconic Ice"
+],
+"Has canonical name": [
+"Master of Draconic Ice"
+],
+"Has game id": [
+5633
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5633"
+},
+{
+"Gives item": [
+"Corrupted Lodestone",
+"Amalgamated Draconic Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Forger of Draconic Ice"
+],
+"Has canonical name": [
+"Forger of Draconic Ice"
+],
+"Has game id": [
+5659
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5659"
+}
+]
+}

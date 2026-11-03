@@ -1,0 +1,5 @@
+{
+"revid": 2077572,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 12176\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| rating = 25\n| ingredient1 = 1 Jar of Vinegar\n| ingredient2 = 1 Jar of Vegetable Oil\n| ingredient3 = 1 Pile of Salt and Pepper\n| id = 2850\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Flasche einfacher Salatsoße]]\n[[es:Botella de aliño sencillo]]\n[[fr:Bouteille de vinaigrette simple]]",
+"title": "Bottle of Simple Dressing"
+}

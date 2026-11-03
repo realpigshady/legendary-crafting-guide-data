@@ -1,0 +1,77 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Refined Homestead Metal",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Refined Homestead Metal",
+"Curious Lowland Honeycomb",
+"Serpent's Wrath Weapon Choice Box",
+"Shred of Janthir Wilds Mastery",
+"Stash of Carved Lowland Pine Coins"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Assist the Kodan Inhabitants of Harvest Den"
+],
+"Has canonical name": [
+"Harvest Den Renown Mastery"
+],
+"Has game id": [
+8179
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (achievements)#achievement8179"
+},
+{
+"Gives item": [
+"Refined Homestead Metal",
+"Ursus Oblige",
+"Serpent's Wrath Weapon Choice Box",
+"Curious Mursaat Currency",
+"Stash of Carved Lowland Pine Coins"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Help the kodan study and settle in the Janthir Syntri region"
+],
+"Has canonical name": [
+"Stricken Plains Renown Mastery"
+],
+"Has game id": [
+8296
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (achievements)#achievement8296"
+},
+{
+"Gives item": [
+"Refined Homestead Metal",
+"Ursus Oblige",
+"Serpent's Wrath Weapon Choice Box",
+"Curious Mursaat Currency",
+"Stash of Carved Lowland Pine Coins"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Assist those surveying Mistburned Barrens in keeping their camp safe and running"
+],
+"Has canonical name": [
+"Mistburned Barrens Renown Mastery"
+],
+"Has game id": [
+8605
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (achievements)#achievement8605"
+}
+]
+}

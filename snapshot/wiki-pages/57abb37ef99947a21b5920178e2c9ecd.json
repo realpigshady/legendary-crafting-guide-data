@@ -1,0 +1,5 @@
+{
+"revid": 1468101,
+"text": "{{Item infobox\n| description = Refined from [[Wool Scrap|Scraps]].\n| type = crafting material\n| material type = refinement\n| tier = 2\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 3\n| id = 19740\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, scribe, tailor\n| rating = 75\n| ingredient1 = 2 Wool Scrap\n| id = 12\n}}\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Bolt of Jute\n| ingredient2 = 1 Bolt of Wool\n| ingredient3 = 5 Pile of Shimmering Dust\n| ingredient4 = 2 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Wollballen]]\n[[es:Haz de lana]]\n[[fr:Rouleau de laine]]",
+"title": "Bolt of Wool"
+}

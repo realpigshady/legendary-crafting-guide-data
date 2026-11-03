@@ -1,0 +1,5 @@
+{
+"revid": 2371066,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used in staff crafting.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45888\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 4 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7372\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geisterholz-Stabschaft]]\n[[es:Asta para báculo de madera espiritual]]\n[[fr:Hampe de bâton de boisesprit]]",
+"title": "Spiritwood Staff Shaft"
+}

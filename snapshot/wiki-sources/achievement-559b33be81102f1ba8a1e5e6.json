@@ -1,0 +1,51 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Inscribed Shard",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Inscribed Shard",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Long Live the Lich"
+],
+"Has canonical name": [
+"Return to the Domain of Kourna"
+],
+"Has game id": [
+6005
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Long Live the Lich#achievement6005"
+},
+{
+"Gives item": [
+"Inscribed Shard"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to Season 4 (achievements)"
+],
+"Has canonical name": [
+"Local Response: Domain of Kourna (Weekly)"
+],
+"Has game id": [
+8381
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 4 (achievements)#achievement8381"
+}
+]
+}

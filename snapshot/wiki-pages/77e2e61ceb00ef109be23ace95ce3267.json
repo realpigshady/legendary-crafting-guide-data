@@ -1,0 +1,5 @@
+{
+"revid": 2884151,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A gift of history used to create [[The Flameseeker Prophecies]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[tailor]] rating of 400 to craft.\n| rarity = legendary\n| collection = Legendary Weapon: The Flameseeker Prophecies\n| bound = account\n| id = 19629\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of History\n| type = Crafting Component\n| disciplines = tailor\n| rating = 400\n| ingredient3 = 1 Gift of Ascalon\n| ingredient2 = 250 Cured Hardened Leather Square\n| ingredient4 = 250 Pile of Crystalline Dust\n| ingredient1 = 100 Onyx Lodestone\n| id = 844\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Geschichte]]\n[[es:Don de la historia]]\n[[fr:Don d'histoire]]",
+"title": "Gift of History"
+}

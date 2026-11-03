@@ -1,0 +1,132 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Black Peppercorn",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Abella"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Black Peppercorn"
+],
+"_subject": "Abella#vendor11"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Artis"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Ruins of Rin"
+],
+"Sells item": [
+"Black Peppercorn"
+],
+"_subject": "Artis#vendor11"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Catio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Canton Factorium"
+],
+"Sells item": [
+"Black Peppercorn"
+],
+"_subject": "Catio#vendor11"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Elebor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Canal Ward"
+],
+"Sells item": [
+"Black Peppercorn"
+],
+"_subject": "Elebor#vendor6"
+}
+]
+}

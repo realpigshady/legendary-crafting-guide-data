@@ -1,0 +1,5 @@
+{
+"revid": 2884167,
+"text": "{{Item infobox\n| type = trophy\n| description = A vial of liquid flame used to create [[Incinerator]] and [[Rodgort]].<br><br>Purchase the recipe for this item from any [[Mystic Forge]] vendor and reach a [[chef]] rating of 400 to [[craft]].\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: Rodgort; Legendary Weapon: Incinerator\n| bound = account\n| id = 19634\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Liquid Flame\n| type = Crafting Component\n| disciplines = chef\n| rating = 400\n| ingredient1 = 250 Ghost Pepper\n| ingredient2 = 1 Gift of Baelfire\n| ingredient3 = 100 Molten Lodestone\n| ingredient4 = 100 Destroyer Lodestone\n| id = 3164\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Phiole mit flüssiger Flamme]]\n[[es:Vial de llama líquida]]\n[[fr:Fiole de flamme liquide]]",
+"title": "Vial of Liquid Flame"
+}

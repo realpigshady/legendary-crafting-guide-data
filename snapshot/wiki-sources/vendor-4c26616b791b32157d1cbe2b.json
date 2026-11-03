@@ -1,0 +1,105 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Snow Diamond",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snowflake",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Wintersday]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Charity Corps Seraph (Snowflake Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Crown Pavilion"
+],
+"Sells item": [
+"Snow Diamond"
+],
+"_subject": "Charity Corps Seraph (Snowflake Trader)#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snowflake",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Wintersday]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Charity Corps Seraph (Wintersday Rewards)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Crown Pavilion"
+],
+"Sells item": [
+"Snow Diamond"
+],
+"_subject": "Charity Corps Seraph (Wintersday Rewards)#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snowflake",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wintersday Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route"
+],
+"Sells item": [
+"Snow Diamond"
+],
+"_subject": "Wintersday Vendor#vendor33"
+}
+]
+}

@@ -1,0 +1,55 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Gift of the Mistwalker",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Emblem of the Conqueror",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mistwalker Infusion",
+"Has item value": "1"
+},
+{
+"Has item currency": "Emblem of the Avenger",
+"Has item value": "40"
+},
+{
+"Has item currency": "Gift of the Mists",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Mists Research: Strife Unending"
+],
+"Has total purchase cap": [
+2
+],
+"Has vendor": [
+"Dugan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Gift of the Mistwalker"
+],
+"_subject": "Dugan#vendor60"
+}
+]
+}

@@ -1,0 +1,90 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Destroyer Lodestone",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Destroyer Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Fire Infuser"
+],
+"Has canonical name": [
+"Dragon Fire Infuser"
+],
+"Has game id": [
+5565
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5565"
+},
+{
+"Gives item": [
+"Destroyer Lodestone",
+"Season 4 Currency Box",
+"Amalgamated Draconic Lodestone",
+"Prismatium Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Master of Draconic Fire"
+],
+"Has canonical name": [
+"Master of Draconic Fire"
+],
+"Has game id": [
+5647
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5647"
+},
+{
+"Gives item": [
+"Destroyer Lodestone",
+"Amalgamated Draconic Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Forger of Draconic Fire"
+],
+"Has canonical name": [
+"Forger of Draconic Fire"
+],
+"Has game id": [
+5666
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5666"
+},
+{
+"Gives item": [
+"Destroyer Lodestone"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Transfer Chaser (achievements)"
+],
+"Has canonical name": [
+"Sensor Scouter—Southsun Cove"
+],
+"Has game id": [
+3093
+],
+"Is historical": [
+"f"
+],
+"_subject": "Transfer Chaser (achievements)#achievement3093"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2974139,
+"text": "{{Item infobox\n| variables = {{Nourishment|30 m|+100 [[Ferocity]]<br>33% Chance to Gain [[Might]] on [[Critical hit|Critical Hit]]<br>+10% [[Experience]] from Kills|id=24792}}\n| type = food\n| food type = dessert\n| rarity = fine\n| level = 80\n| salvage = Compost, Research\n| id = 66539\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Prickly Pear Sorbet\n| type = Dessert\n| disciplines = chef\n| rating = 400\n| ingredient1 = 5 Prickly Pear\n| ingredient2 = 1 Bowl of Ice Cream Base\n| ingredient3 = 1 Glacial Shard\n| ingredient4 = 1 Lime\n| id = 9720\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n== Notes ==\n* It can be fed to a cat in [[Dry Top]] as a part of the [[Hungry cat scavenger hunt]].\n\n[[Category:Chef recipes from Dry Top]]\n[[de:Schüssel mit Kaktusfeigensorbet]]\n[[es:Cuenco de sorbete de chumbera]]\n[[fr:Bol de farce pour sorbet à la figue de barbarie]]",
+"title": "Bowl of Prickly Pear Sorbet"
+}

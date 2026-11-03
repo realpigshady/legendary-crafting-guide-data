@@ -1,0 +1,844 @@
+{
+"body": [
+{
+"chat_link": "[&AgHgTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/32D3BC4B5722155E15DC5A1DE5E9255C50F90609/65909.png",
+"id": 19680,
+"level": 0,
+"name": "Copper Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgHxTAAA]",
+"description": "Refine into Copper Ingots or use Tin to refine into Bronze Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E17C5A65955239640743E48B30A3425FACA5D02/65925.png",
+"id": 19697,
+"level": 0,
+"name": "Copper Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgH3TAAA]",
+"description": "Refine into Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DA1D9FCF3006222DEE691016EFF8AEE162C3431D/65931.png",
+"id": 19703,
+"level": 0,
+"name": "Silver Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgH+TAAA]",
+"description": "Refined from Logs.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DF93CAB2913940F5FD44FF66EF309632125DB28/65936.png",
+"id": 19710,
+"level": 0,
+"name": "Green Wood Plank",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEITQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7BA22DDCF0F4277A692D5D75271F9491AC303AD/63573.png",
+"id": 19720,
+"level": 0,
+"name": "Bolt of Jute",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEOTQAA]",
+"description": "Refine into Planks.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB6C5501209B91D9B890B1F84B29BC0142CB59D8/65943.png",
+"id": 19726,
+"level": 0,
+"name": "Soft Wood Log",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEQTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACB203A4381C7B690A7C9BAA2EFEBD01A418E3AD/65945.png",
+"id": 19728,
+"level": 0,
+"name": "Thin Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEaTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E0F2811CBEA77DF5344499E6B4C01673EE6DAC9/65955.png",
+"id": 19738,
+"level": 0,
+"name": "Stretched Rawhide Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEbTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F4E176F0B5B040F690AB7AE7B7A6844C83F2D0D/65956.png",
+"id": 19739,
+"level": 0,
+"name": "Wool Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHuXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E2CD04924CFA55FEBF9614DA490D7AE660C1D24/66956.png",
+"id": 24302,
+"level": 0,
+"name": "Charged Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH/XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7C5BF3B99647E2AB0E0F6C18B60CD5743D21BADC/66970.png",
+"id": 24319,
+"level": 0,
+"name": "Glacial Core",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 42
+},
+{
+"chat_link": "[&AgEMXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B0C2B9E7178D4A2010696936066073A0461AF3A/63277.png",
+"id": 24332,
+"level": 0,
+"name": "Pile of Foul Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgETXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/31E8DC797FD7369A2824AAB76D414350FFABED95/66985.png",
+"id": 24339,
+"level": 0,
+"name": "Corrupted Core",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 42
+},
+{
+"chat_link": "[&AgGUXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "CritDamage",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Ferocity",
+"skill_id": 256
+},
+"id": 467
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Peridot",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACA124CE1DBE22F3F64BAFC8F7D7F4B3B4F45E17/220911.png",
+"id": 24468,
+"level": 20,
+"name": "Peridot Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGVXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Precision",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Precision",
+"skill_id": 252
+},
+"id": 463
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Carnelian",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5BFE9A910EAA6B4D56FA2BAD11A1D03ED91B2CD0/220912.png",
+"id": 24469,
+"level": 20,
+"name": "Carnelian Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGWXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Toughness",
+"modifier": 2
+},
+{
+"attribute": "Vitality",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Vitality\n+2 Toughness",
+"skill_id": 262
+},
+"id": 472
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Lapis",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/98345E1004EBC610B76092D27DFFC673F539BD4F/220913.png",
+"id": 24470,
+"level": 20,
+"name": "Lapis Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGXXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 2
+},
+{
+"attribute": "Precision",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Precision\n+2 Power",
+"skill_id": 258
+},
+"id": 469
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sunstone",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FFB03B78C09C6AE394A94346D00E7105BE14042B/220914.png",
+"id": 24471,
+"level": 20,
+"name": "Sunstone Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgG1XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Vitality",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Vitality",
+"skill_id": 254
+},
+"id": 465
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Amethyst",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1E7D30E6DC75FFB1E8B06F6BFD0E72F80F52E52A/220941.png",
+"id": 24501,
+"level": 20,
+"name": "Amethyst Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgHXXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 2
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Condition Damage\n+2 Precision",
+"skill_id": 261
+},
+"id": 461
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Topaz",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/11B59BBE4A46F32A33542333B128E81545D93418/220961.png",
+"id": 24535,
+"level": 20,
+"name": "Topaz Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgHylAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99E8B669F94A3ED511B84AEDDF970E3A6057EDC2/526240.png",
+"id": 38130,
+"level": 0,
+"name": "Tiny Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHzlAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29FFF132F428A46D0F64DF31720A3E574E5DA177/526241.png",
+"id": 38131,
+"level": 0,
+"name": "Delicate Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgH0lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/624467FA340D2461C95F1168D765901BAFFBBEA8/526242.png",
+"id": 38132,
+"level": 0,
+"name": "Glittering Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 14
+},
+{
+"chat_link": "[&AgH1lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/74D6ABFA685AB25923B20100FBD6C5FD0CD55915/526243.png",
+"id": 38133,
+"level": 0,
+"name": "Unique Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgH2lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E9809B82F370D7E73F7971AE49D3F034D0CB348/526244.png",
+"id": 38134,
+"level": 0,
+"name": "Pristine Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH3lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D5763C0411E0DDB5634260D3E05E07DF2459641D/526245.png",
+"id": 38135,
+"level": 0,
+"name": "Flawless Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 25
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19680,19697,19703,19710,19720,19726,19728,19738,19739,24302,24319,24332,24339,24468,24469,24470,24471,24501,24535,38130,38131,38132,38133,38134,38135"
+}

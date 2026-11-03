@@ -1,0 +1,219 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Mist Band (Infused)",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ascended Shard of Glory",
+"Has item value": "150"
+},
+{
+"Has item currency": "Shard of Glory",
+"Has item value": "170"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ascended Armor League Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "Ascended Armor League Vendor#vendor39"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pristine Fractal Relic",
+"Has item value": "100"
+},
+{
+"Has item currency": "Integrated Fractal Matrix",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"BUY-2046 PFR"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "BUY-2046 PFR#vendor32"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ascended Shard of Glory",
+"Has item value": "150"
+},
+{
+"Has item currency": "Shard of Glory",
+"Has item value": "170"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Armor Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "League Armor Vendor#vendor39"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "250"
+},
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "350"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lionguard (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "Lionguard (Skirmish Merchant)/Others#vendor10"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "250"
+},
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "350"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mercenary (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "Mercenary (Skirmish Merchant)/Others#vendor10"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "250"
+},
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "350"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skirmish Supervisor/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Mist Band (Infused)"
+],
+"_subject": "Skirmish Supervisor/Others#vendor10"
+}
+]
+}

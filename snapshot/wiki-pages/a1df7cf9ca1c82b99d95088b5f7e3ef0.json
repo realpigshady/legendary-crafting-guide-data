@@ -1,0 +1,5 @@
+{
+"revid": 2984791,
+"text": "{{Item infobox\n| type = crafting material\n| material storage = Advanced Crafting Materials\n| rarity = Exotic\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| id = 103103\n| requires = jw\n}}\n[[Sweet-Treated Pine Plank]] is an {{rarity|exotic|exotic}} [[crafting material]].\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{Recipe\n| source = automatic\n| disciplines = armorsmith, artificer, huntsman, jeweler, leatherworker, tailor, weaponsmith\n| rating = 400\n| ingredient1 = 5 Honey Flower\n| ingredient2 = 5 Lowland Pine Log\n| ingredient3 = 3 Glob of Ectoplasm\n| ingredient4 = 5 Orichalcum Ingot\n| id = 14846\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Sweet-Treated Pine Plank}}\n\n[[de:Honigimprägnierte Kiefernholzplanke]]\n[[es:Tabla de pino endulzada]]\n[[fr:Planche de bois traité au sucre]]",
+"title": "Sweet-Treated Pine Plank"
+}

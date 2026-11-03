@@ -1,0 +1,5 @@
+{
+"revid": 2546739,
+"text": "{{Item infobox\n| type = crafting material\n| description = ''Double-click to apply to an accessory, amulet or ring with an unused upgrade slot.''\n| variables = {{item stat|Healing|25}}{{item stat|condition damage|15}}{{item stat|toughness|15}}\n| material type = Jewel\n| tier = 6\n| rarity = exotic\n| level = 80\n| value = 264\n| id = 37906\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipes ===\n{{recipe\n| source = discovery\n| type = Upgrade Component\n| disciplines = jeweler\n| rating = 400\n| ingredient1 = 1 Orichalcum Filigree\n| ingredient2 = 1 Glob of Ectoplasm\n| ingredient3 = 15 Passion Flower\n| id = 6636\n}}\n\n=== Extracted from ===\n{{Contains upgrade component}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Erlesene Maracujablüte]]\n[[es:Flor de la pasión exquisita]]\n[[fr:Passiflore exquise]]",
+"title": "Exquisite Passion Flower"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3040451,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| material storage = Scribing Materials\n| rarity = fine\n| value = 16\n| id = 71148\n| requires = hot\n| description = Crafted from [[Ancient Wood Pulp|wood pulp]] and [[Bolt of Gossamer|cloth]]. Used to make scrolls and books.\n}}\n\n== Acquisition ==\n{{recipe\n| id = 11479\n| source= automatic\n| type = Crafting Component\n| disciplines = scribe\n| rating = 400\n| ingredient1 = 1 Ancient Wood Pulp\n| ingredient2 = 1 Jug of Water\n| ingredient3 = 1 Bolt of Gossamer\n}}\n\n== Used in ==\n{{recipe list by discipline|other=[[Has item data object.Has item type::!Infusion]]}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n=== Stat changing ===\n{{main|Stat changing}}\n\n{{Scribe crafting components nav}}\n\n[[de:Blatt Premium-Papier]]\n[[es:Hoja de papel supremo]]\n[[fr:Feuille de papier premium]]",
+"title": "Sheet of Premium Paper"
+}

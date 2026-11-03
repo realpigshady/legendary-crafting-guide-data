@@ -1,0 +1,45 @@
+{
+"body": [
+{
+"chat_link": "[&AgH8XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6DD06745F5484B1F1CF0DD9BED26573504BF1575/66969.png",
+"id": 24316,
+"level": 0,
+"name": "Glacial Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEQXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/19AA3BEF089B72F09D80E43A210FF4FCF9369345/66982.png",
+"id": 24336,
+"level": 0,
+"name": "Corrupted Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24316,24336"
+}

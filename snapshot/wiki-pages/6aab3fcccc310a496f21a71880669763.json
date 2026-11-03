@@ -1,0 +1,5 @@
+{
+"revid": 2077567,
+"text": "{{Item infobox\n| description = [[Ingredient]]\n| type = Crafting material\n| material type = ingredient\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 12170\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Cooking Ingredient\n| disciplines = chef\n| rating = 75\n| ingredient1 = 1 Glass of Buttermilk\n| ingredient2 = 1 Stick of Butter\n| ingredient3 = 1 Egg\n| ingredient4 = 1 Vanilla Bean\n| id = 2855\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Schüssel mit feuchten Backzutaten]]\n[[es:Cuenco de ingredientes líquidos de panadero]]\n[[fr:Bol d'ingrédients hydratés de boulangerie]]",
+"title": "Bowl of Baker's Wet Ingredients"
+}

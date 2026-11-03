@@ -1,0 +1,5 @@
+{
+"revid": 2884145,
+"text": "{{Item infobox\n| type = trophy\n| description = A gift used to create the legendary hammer [[The Juggernaut]].\n\nMade by combining these items in the [[Mystic Forge]]:\n* 1 [[Gift of Metal]]\n* 1 [[Vial of Quicksilver]]\n* 100 [[Icy Runestones]]\n* 1 [[Superior Sigil of Benevolence]]\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: The Juggernaut\n| bound = account\n| value = 640\n| id = 19649\n}}\n\n== Acquisition ==\n\n{{recipe\n| source = Mystic Forge\n| ingredient1 = 1 Gift of Metal\n| ingredient2 = 1 Vial of Quicksilver\n| ingredient3 = 100 Icy Runestone\n| ingredient4 = 1 Superior Sigil of Benevolence\n}}\n\n=== Contained in ===\n{{contained in}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Molochs]]\n[[es:Don del Juggernaut]]\n[[fr:Don du Mastodonte]]",
+"title": "Gift of The Juggernaut"
+}

@@ -1,0 +1,51 @@
+{
+"fetched": 1793700081.7438629,
+"item": "Vial of Titan Melted Liquid Obsidian",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Mursaat Obsidian Chunk",
+"Has item value": "7"
+},
+{
+"Has item currency": "Titan Heatstone",
+"Has item value": "7"
+},
+{
+"Has item currency": "Ancient Wood Plank",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Trader Sampaguita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Vial of Titan Melted Liquid Obsidian"
+],
+"_subject": "Ward Trader Sampaguita#vendor62"
+}
+]
+}

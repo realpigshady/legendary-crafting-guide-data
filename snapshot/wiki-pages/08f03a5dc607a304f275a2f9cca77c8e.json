@@ -1,0 +1,5 @@
+{
+"revid": 2301837,
+"text": "{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|precision|7}}{{item stat|power|5}}\n| type = crafting material\n| material type = gemstone\n| tier = 3\n| material storage = Gemstones and Jewels\n| rarity = fine\n| level = 35\n| value = 34\n| id = 24503\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Extracted from ===\n{{contains upgrade component}}\n\n=== Recipes ===\n{{recipe\n| name = Transmogrify Sunstone Lump\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 125\n| ingredient1 = 1 Pile of Shimmering Dust\n| ingredient2 = 2 Sunstone Nugget\n| id = 3713\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Sonnensteinbrocken]]\n[[es:Pieza de heliolita]]\n[[fr:Bloc de pierre solaire]]",
+"title": "Sunstone Lump"
+}

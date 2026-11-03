@@ -1,0 +1,407 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Shadowstone Fragment",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Acolyte of Balance Dexx#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Alliance Field Quartermaster#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Canach#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Captain Emund#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Castaway Agnes#vendor20"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Convergence: Nexus of Eternity Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+30
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Convergence: Nexus of Eternity Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Convergence: Nexus of Eternity Commander's Choice Chest#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Historian Meliza#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Huntmaster Arnorr#vendor23"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Leyspring Hollows: Hero's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Leyspring Hollows: Hero's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Leyspring Hollows: Hero's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Magister Sirkk#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Steward Brizio#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Shadowstone Fragment"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor22"
+}
+]
+}

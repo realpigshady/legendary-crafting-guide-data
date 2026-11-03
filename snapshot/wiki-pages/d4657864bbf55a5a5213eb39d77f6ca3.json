@@ -1,0 +1,5 @@
+{
+"revid": 2077717,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = Seasoning\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 12496\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| rating = 175\n| ingredient1 = 1 Onion\n| ingredient2 = 1 Head of Garlic\n| ingredient3 = 1 Ginger Root\n| ingredient4 = 1 Chili Pepper\n| id = 3082\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Haufen von Gewürzmischung für Rührpfanne]]\n[[es:Montón de mezcla de especias para sofrito]]\n[[fr:Tas de mélange d'épices pour légumes sautés]]",
+"title": "Pile of Stirfry Spice Mix"
+}

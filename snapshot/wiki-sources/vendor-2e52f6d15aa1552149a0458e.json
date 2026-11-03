@@ -1,0 +1,40 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Certificate of Support",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "PvP League Ticket",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories",
+"Champion's Rest"
+],
+"Sells item": [
+"Certificate of Support"
+],
+"_subject": "League Vendor#vendor5"
+}
+]
+}

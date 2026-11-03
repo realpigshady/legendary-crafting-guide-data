@@ -1,0 +1,30 @@
+{
+"body": [
+{
+"chat_link": "[&AgHOjAEA]",
+"description": "Unused Relic Effect Slot",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DED07BF6DF37E69A08D1C49D9C45D81BD8A5CA/3255567.png",
+"id": 101582,
+"level": 80,
+"name": "Legendary Relic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Relic",
+"vendor_value": 640
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=101582"
+}

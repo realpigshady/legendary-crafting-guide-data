@@ -1,0 +1,5 @@
+{
+"revid": 1684265,
+"text": "{{Item infobox\n| type = crafting material\n| material type = rare\n| tier = 1\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| value = 9\n| id = 24336\n}}\n\n== Acquisition ==\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== [[Map Bonus Reward]] ===\n* Week 1 - [[Snowden Drifts]] - 10 total\n* Week 2 - none\n* Week 3 - [[Fields of Ruin]] - 4 total\n* Week 4 - [[Lornar's Pass]] - 10 total\n* Week 5 - [[Gendarran Fields]] - 10 total\n* Week 6 - [[Brisban Wildlands]] - 10 total\n* Week 7 - [[Kessex Hills]] - 4 total\n* Week 8 - [[Diessa Plateau]] - 4 total\n\nIt is currently '''Week {{#vardefineecho:index|{{#expr: ((({{#time: U | {{{date|now}}} {{{1|}}} }} - {{#time: U | 2015/10/08 20:00 }})/(60*60*24*7)) mod 8 )+1}}}}\n'''\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{Advanced crafting materials nav}}\n\n[[de:Verdorbener Span]]\n[[es:Astilla corrupta]]\n[[fr:Esquille corrompue]]",
+"title": "Corrupted Sliver"
+}

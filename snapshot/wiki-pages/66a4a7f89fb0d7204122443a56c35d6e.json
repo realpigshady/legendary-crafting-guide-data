@@ -1,0 +1,5 @@
+{
+"revid": 2809150,
+"text": "{{Item infobox\n| description = Used to craft [[Chaos Gun]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 75429\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| type = Legendary Component\n| sheet = Box of Recipes: Chaos Gun\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 1 Sculptor's Tools\n| ingredient2 = 10 Orichalcum Ingot\n| ingredient3 = 50 Mithril Ingot\n| ingredient4 = 1 Deldrimor Steel Ingot\n| id = 11424\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Verzierter Pistolenrahmen]]\n[[es:Armazón para pistola ornamentado]]\n[[fr:Monture de pistolet ornée]]",
+"title": "Ornate Pistol Frame"
+}

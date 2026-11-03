@@ -1,0 +1,5 @@
+{
+"revid": 2902617,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft spears.\n| material type = component\n| rarity = Basic\n| bound = account\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| value = 8\n| id = 45853\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 3 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7804\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Deldrimor-Stahl-Speerspitze]]\n[[es:Punta para lanza de acero de Deldrimor]]\n[[fr:Tête de lance en acier de Deldrimor]]",
+"title": "Deldrimor Steel Spear Head"
+}

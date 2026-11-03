@@ -1,0 +1,5 @@
+{
+"revid": 2292589,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Piece of Ambrite|Ambrite]].\n| material type = rare\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| value = 48\n| id = 66650\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, artificer, huntsman, jeweler, leatherworker, tailor, weaponsmith\n| rating = 400\n| ingredient1 = 25 Piece of Ambrite\n| ingredient2 = 5 Quartz Crystal\n| id = 9664\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Sheet of Ambrite}}\n\n{{Advanced crafting materials nav}}\n\n[[de:Ambrit-Platte]]\n[[es:Lámina de ambrita]]\n[[fr:Feuille d'ambrite]]",
+"title": "Sheet of Ambrite"
+}

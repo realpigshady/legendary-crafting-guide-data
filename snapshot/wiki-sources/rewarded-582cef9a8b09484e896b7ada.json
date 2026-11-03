@@ -1,0 +1,401 @@
+{
+"fetched": 1793698553.9948075,
+"item": "Shadowstone Fragment",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Assist the Stewards of Galdra around the forge"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Assist the Stewards of Galdra around the forge#reward6"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Bonus chest/Rewards#reward87"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Bonus chest/Rewards#reward89"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Bonus chest/Rewards/Eternity's Garden (small)"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Bonus chest/Rewards/Eternity's Garden (small)#reward13"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Clear enemies from the ruins"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Clear enemies from the ruins#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Clear the poison vines"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Clear the poison vines#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Decode the seer texts"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Decode the seer texts#reward6"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defeat the enhanced creature to sever the chain"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Defeat the enhanced creature to sever the chain#reward10"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defend the cocoons from beetles"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Defend the cocoons from beetles#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Destroy the Inquest bridge"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Destroy the Inquest bridge#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Destroy the mysterious artifact"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Destroy the mysterious artifact#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Find and collect the seer relics hidden throughout the muck"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Find and collect the seer relics hidden throughout the muck#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Steward Cecco unfuse animals of their seer influence"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Help Steward Cecco unfuse animals of their seer influence#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Steward Edifi build more stewards"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Help Steward Edifi build more stewards#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Sulien intercept Inquest radio frequencies"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Help Sulien intercept Inquest radio frequencies#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help secure and steal Inquest weaponry"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Help secure and steal Inquest weaponry#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Keep the ley infusers safe while Edifi finishes the spell"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Keep the ley infusers safe while Edifi finishes the spell#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Release souls from the feretory"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Release souls from the feretory#reward13"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Shackles of the Ancients"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Shackles of the Ancients#reward12"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Shackles of the Ancients"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Shackles of the Ancients#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Use Imren's spellbook to aid the Inquest-controlled stewards"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Use Imren's spellbook to aid the Inquest-controlled stewards#reward8"
+}
+]
+}

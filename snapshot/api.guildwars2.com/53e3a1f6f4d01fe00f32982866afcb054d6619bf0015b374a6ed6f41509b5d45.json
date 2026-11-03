@@ -1,0 +1,588 @@
+{
+"body": [
+{
+"chat_link": "[&AgGqTAAA]",
+"description": "A gift of fortune used to create legendary weapons.\n\nMade by combining these items in the Mystic Forge:\n• 77 Mystic Clovers\n• 250 Globs of Ectoplasm\n• 1 Gift of Might\n• 1 Gift of Magic",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62A0F109C444E275E966B9A903D63FFE99540BAD/455807.png",
+"id": 19626,
+"level": 0,
+"name": "Gift of Fortune",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHOkAAA]",
+"description": "Used by the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EFE42371FCAF18C0BC49969CDC601AEAC0F3560E/511814.png",
+"id": 37070,
+"level": 0,
+"name": "Gift of Ascension",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 315
+},
+{
+"chat_link": "[&AgF1GgEA]",
+"default_skin": 6234,
+"description": "<c=@flavor>Used to craft the legendary backpack Ad Infinitum</c>",
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/66A65645BE085493A9E30EA659651715CDE91D07/1202361.png",
+"id": 72309,
+"level": 80,
+"name": "Unbound",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGJIgEA]",
+"description": "Place a Gift of Infinity, a Gift of Fortune, a Gift of Ascension, and the precursor in the Mystic Forge to receive the legendary backpack Ad Infinitum.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/52F53A2EF1120D292AE651BF11007CE059EB309C/1203100.png",
+"id": 74377,
+"level": 0,
+"name": "Gift of Infinity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGtLgEA]",
+"description": "Used to create the PvP legendary backpack.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D48CA3E6AFE283570B830302766BA8094E2E469/1313071.png",
+"id": 77485,
+"level": 0,
+"name": "Gift of Skirmishing",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHFLgEA]",
+"description": "Used to create the PvP legendary backpack.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F4F0371F4C301E6174EEF95DF722D39EE12DFA2/1313070.png",
+"id": 77509,
+"level": 0,
+"name": "Gift of the Competitor",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHgLgEA]",
+"default_skin": 6556,
+"description": "Used to craft the Legendary backpack, the Ascension.",
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C85CAF09039309D9612314534B56623F365278FA/1313064.png",
+"id": 77536,
+"level": 80,
+"name": "Wings of Ascension",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHbPQEA]",
+"description": "Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0303F40F4CB00219D8B8DE6ABFBA77E8F92710D2/1701102.png",
+"id": 81371,
+"level": 0,
+"name": "Gift of Conquering",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgE7PgEA]",
+"default_skin": 7248,
+"description": "Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/73E4EF2CBF9578A528311B01D8D4302FF8CF1DF7/1701095.png",
+"id": 81467,
+"level": 80,
+"name": "Warcry",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFGPgEA]",
+"description": "Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3E87E605ADA9FEB1862916408E3E86C5713D17A/1701106.png",
+"id": 81478,
+"level": 0,
+"name": "Gift of Warfare",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHymAEA]",
+"default_skin": 13095,
+"description": "Combine a Gift of the Mistburned Isles, a Gift of Shadows, a Gift of the Feast, and Orrax Contained in the Mystic Forge to create Orrax Manifested.",
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C61975234AD30103EF7DAD0BD52578F00B0CDF5B/3629148.png",
+"id": 104690,
+"level": 80,
+"name": "Orrax Contained",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGOmQEA]",
+"description": "Combine a Gift of the Mistburned Isles, a Gift of Shadows, a Gift of The Feast, and Orrax Contained in the Mystic Forge to create the legendary backpack and glider Orrax Manifested.\n\nCreated in the Mystic Forge by combining:\n• 1 Gift of Darkness\n• 1 Gift of Scales\n• 1 Gift of Titan Understanding\n• 1 Bloodstone Shard",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3ECEAF5B1346BA6A63C85BB7C8590DFEE4EE53E8/3629209.png",
+"id": 104846,
+"level": 0,
+"name": "Gift of Shadows",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGomQEA]",
+"description": "Combine a Gift of the Mistburned Isles, a Gift of Shadows, a Gift of The Feast, and Orrax Contained in the Mystic Forge to create the legendary backpack and glider Orrax Manifested.\n\nCreated in the Mystic Forge by combining:\n• 1 Gift of the Appetizer\n• 1 Gift of the Entrée\n• 1 Gift of the Side Course\n• 1 Gift of the Dessert",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D1A66A94620B95736698D4D9AE0ECEC94AC66791/3629213.png",
+"id": 104872,
+"level": 0,
+"name": "Gift of the Feast",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgECmgEA]",
+"description": "Combine a Gift of the Mistburned Isles, a Gift of Shadows, a Gift of the Feast, and Orrax Contained in the Mystic Forge to create the legendary backpack and glider Orrax Manifested.\n\nCreated in the Mystic Forge by combining:\n• 1 Gift of the Mursaat Ruins\n• 1 Gift of Janthir Wanderlust\n• 250 Mursaat Runestones\n• 250 Mystic Runestones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DA0A3DDF1E067FF992210FC7984D6D140B3405F9/3629248.png",
+"id": 104962,
+"level": 0,
+"name": "Gift of the Mistburned Isles",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19626,37070,72309,74377,77485,77509,77536,81371,81467,81478,104690,104846,104872,104962"
+}

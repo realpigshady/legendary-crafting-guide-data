@@ -1,0 +1,44 @@
+{
+"fetched": 1793697612.1608658,
+"item": "Amalgamated Draconic Lodestone",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bauble Bubble",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Super Adventure Festival]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Super Adventure Box Weekly Trader"
+],
+"Has weekly purchase cap": [
+3
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Creator's Commons",
+"Hub"
+],
+"Sells item": [
+"Amalgamated Draconic Lodestone"
+],
+"_subject": "Super Adventure Box Weekly Trader#vendor8"
+}
+]
+}

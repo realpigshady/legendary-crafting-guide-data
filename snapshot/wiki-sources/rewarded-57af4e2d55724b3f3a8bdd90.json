@@ -1,0 +1,293 @@
+{
+"fetched": 1793697807.0054154,
+"item": "Shadowstone Research Data",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Clear debris and look for survivors (Leyspring Hollows)"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Clear debris and look for survivors (Leyspring Hollows)#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Defeat your haunting reflection"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Defeat your haunting reflection#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Deliver tomes and missives to the ghosts of the elders as they debate battle plans"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Deliver tomes and missives to the ghosts of the elders as they debate battle plans#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward11"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"13"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward14"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward22"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward33"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward39"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10-15"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward50"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Destroy the Mark III Golem!"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Destroy the Mark III Golem!#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Escort Ward Medic Taliesin out of the Infested Sluiceways"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Escort Ward Medic Taliesin out of the Infested Sluiceways#reward4"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Forage and taste test for edible mushrooms (Leyspring Hollows)"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Forage and taste test for edible mushrooms (Leyspring Hollows)#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-6"
+],
+"Rewarded by": [
+"Help the Astral Ward sort stewards based on their magical alignment"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Help the Astral Ward sort stewards based on their magical alignment#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-6"
+],
+"Rewarded by": [
+"Lure chak to the nearby Inquest annex"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Lure chak to the nearby Inquest annex#reward6"
+}
+]
+}

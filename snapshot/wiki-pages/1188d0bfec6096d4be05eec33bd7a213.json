@@ -1,0 +1,5 @@
+{
+"revid": 2700031,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+20 [[Condition Damage|condition damage]]<br>+10% [[Experience]] from Kills|id=9786}}\n| type = food, crafting material\n| food type = snack\n| rarity = fine\n| level = 0\n| salvage = Compost\n| id = 12279\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Snack\n| disciplines = chef\n| ingredient1 = 3 Mushroom\n| ingredient2 = 1 Packet of Salt\n| ingredient3 = 1 Jar of Vegetable Oil\n| id = 2917\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[Category:Ingredients]]\n[[de:Röstpilz]]\n[[es:Champiñón a la parrilla]]\n[[fr:Champignon grillé]]",
+"title": "Grilled Mushroom"
+}

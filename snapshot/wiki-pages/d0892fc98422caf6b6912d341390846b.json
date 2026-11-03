@@ -1,0 +1,5 @@
+{
+"revid": 2301833,
+"text": "{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|vitality|5}}{{item stat|toughness|2}}\n| type = crafting material\n| material type = gemstone\n| tier = 2\n| material storage = Gemstones and Jewels\n| rarity = fine\n| level = 20\n| value = 24\n| id = 24470, 64656\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Extracted from ===\n{{contains upgrade component}}\n\n=== Recipes ===\n{{recipe\n| name = Transmogrify Lapis Nugget\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 50\n| ingredient1 = 1 Pile of Glittering Dust\n| ingredient2 = 1 Turquoise Pebble\n| ingredient3 = 1 Malachite Pebble\n| id = 3415\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Lapisnugget]]\n[[es:Trozo de lapislázuli]]\n[[fr:Nodule de lapis]]",
+"title": "Lapis Nugget"
+}

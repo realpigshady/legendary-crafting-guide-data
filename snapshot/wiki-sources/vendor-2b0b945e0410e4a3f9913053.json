@@ -1,0 +1,567 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Jade Runestone",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ancient Coin",
+"Has item value": "200"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Chin-Hwa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Daigo Ward"
+],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Chin-Hwa#vendor66"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Echovald Wilds: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Echovald Wilds: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor43"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gharr Leadclaw/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Gharr Leadclaw/Bulk Exchanges#vendor55"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gyala Delve: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Gyala Delve: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"New Kaineng City: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "New Kaineng City: Commander's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor37"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor43"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor55"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Cantha Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Cantha Exchanges#vendor133"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Cantha Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Cantha Exchanges#vendor139"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Cantha Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Portable Wizard's Tower Exchange/Cantha Exchanges#vendor151"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Cantha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Cantha#vendor133"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Cantha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Cantha#vendor139"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Cantha"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Cantha#vendor151"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "New Kaineng City: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor37"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Echovald Wilds: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor43"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gyala Delve: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Jade Runestone"
+],
+"_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor55"
+}
+]
+}

@@ -1,0 +1,567 @@
+{
+"fetched": 1793698964.7890267,
+"item": "Fabulous Fish Fillet",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of Strength"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Astral Ward Skirmisher (Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bending Reed"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Bending Reed#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Circus Castaway (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shipwreck Beach"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Circus Castaway (Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dock Worker (Lion's Arch Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Sanctum Harbor"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Dock Worker (Lion's Arch Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dock Worker (Rata Sum Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Rata Sum Port Authority"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Dock Worker (Rata Sum Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Humbled Den"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Shore",
+"The Golden Lake"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Humbled Den#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kairi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kaineng Docks"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Kairi#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lupine in the Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Stricken Plains"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Lupine in the Wind#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Crystal Oasis Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Free City of Amnoon"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Merchant (Crystal Oasis Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Iron Marches Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Monger's Sink"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Merchant (Iron Marches Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Siren's Landing Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bloated Beach"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Merchant (Siren's Landing Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mori Villager (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mori Village"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Mori Villager (Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Olmakhan Villager (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Atholma"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Olmakhan Villager (Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Peddler (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Peddler (Fishmonger)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shui"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Xunlai Jade Quarry"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Shui#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sora"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Seitung Harbor"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Sora#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Taro Everclaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arborstone"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Taro Everclaw#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Fish Fillet",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Twoloop Trader (Fishmonger)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maladar's Inlet"
+],
+"Sells item": [
+"Fabulous Fish Fillet"
+],
+"_subject": "Twoloop Trader (Fishmonger)#vendor2"
+}
+]
+}

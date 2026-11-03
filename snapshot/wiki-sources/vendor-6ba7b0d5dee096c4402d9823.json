@@ -1,0 +1,375 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Branded Mass",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+},
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Anette Eymundrdottir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jora's Keep"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Anette Eymundrdottir#vendor49"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Jorbreaker",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"the festival [[Dragon Bash]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon Bash Merchant (Weekly)"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Might and Main"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Dragon Bash Merchant (Weekly)#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "455"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dredge Supplier Yuliya"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dredgeways"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Dredge Supplier Yuliya#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "455"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gorrik"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Grotto"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Gorrik#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Humble Stone"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Spirits' Refuge"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Humble Stone#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+},
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kjep Corrson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Kjep Corrson#vendor79"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "455"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rhoban"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Deldrimor Ruins"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Rhoban#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "455"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sayida the Sly"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Symphony's Haven"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Sayida the Sly#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Traveling Elonian Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pact Command"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Traveling Elonian Trader#vendor24"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blue Prophet Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigil Emissary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Vigil Emissary#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigil Emissary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Branded Mass"
+],
+"_subject": "Vigil Emissary#vendor7"
+}
+]
+}

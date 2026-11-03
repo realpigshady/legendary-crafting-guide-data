@@ -1,0 +1,5 @@
+{
+"revid": 3135203,
+"text": "{{Item infobox\n| description = Combine with 20 [[Vial of Powerful Blood|Vials of Powerful Blood]], 50 [[Vial of Potent Blood|Vials of Potent Blood]], and 250 [[Piles of Bloodstone Dust]] in the Mystic Forge to create a [[Mystic Essence of Strategy]].\n| type = Trophy\n| material type = mystic\n| rarity = Rare\n| bound = account\n| id = 81326\n}}\n\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n<div style=\"display:none\"><!--Hidden recipe to display 1000 Badge of Honor in base ingredients query-->\n<!-- Due to the bug that the wiki system cannot recognise \"1000\" items, this has been separated into 500+500 -->\n{{Recipe | source = other | ingredient1 = 500 Badge of Honor | ingredient2 = 500 Badge of Honor}}\n</div>\n\n[[de:Essenz der Strategie]]\n[[es:Esencia de estrategia]]\n[[fr:Essence de stratégie]]",
+"title": "Essence of Strategy"
+}

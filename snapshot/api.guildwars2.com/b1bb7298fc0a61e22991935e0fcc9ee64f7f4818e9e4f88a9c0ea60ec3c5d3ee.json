@@ -1,0 +1,703 @@
+{
+"body": [
+{
+"chat_link": "[&AgEcTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E9BB423BDD0D54E33B020DAFFAFBE6F75A62F003/63545.png",
+"id": 19740,
+"level": 0,
+"name": "Bolt of Wool",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEdTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3C013701E6252F3F100D2559BE4E47546CE1E82F/65957.png",
+"id": 19741,
+"level": 0,
+"name": "Cotton Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHtXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E2CD04924CFA55FEBF9614DA490D7AE660C1D24/66956.png",
+"id": 24301,
+"level": 0,
+"name": "Charged Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHyXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9BAD413B9A2F18BE1DA83C0638560F98ED300A15/66959.png",
+"id": 24306,
+"level": 0,
+"name": "Onyx Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgH3XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B55A8510D75CBF6DF6BEF4FD3D52C349B1C4129/66964.png",
+"id": 24311,
+"level": 0,
+"name": "Molten Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgH8XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6DD06745F5484B1F1CF0DD9BED26573504BF1575/66969.png",
+"id": 24316,
+"level": 0,
+"name": "Glacial Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEBXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5CBA53FEA2210EC074E33D650D6E3FDCCB252B2C/66972.png",
+"id": 24321,
+"level": 0,
+"name": "Destroyer Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEGXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/044EFF43FF7DF27C0C542AAA4E064E0F533E782E/66977.png",
+"id": 24326,
+"level": 0,
+"name": "Crystal Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgELXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/40AD50C4C1AABB0562B9F1E6051267F05A344840/434538.png",
+"id": 24331,
+"level": 0,
+"name": "Pile of Soiled Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgEQXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/19AA3BEF089B72F09D80E43A210FF4FCF9369345/66982.png",
+"id": 24336,
+"level": 0,
+"name": "Corrupted Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgGTXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 3
+}
+],
+"buff": {
+"description": "+3 Precision",
+"skill_id": 233
+},
+"id": 337
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Tiger's Eye",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/163AD43C145B93F350023F6ADAD51305C93B960D/220910.png",
+"id": 24467,
+"level": 0,
+"name": "Tiger's Eye Pebble",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGUXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "CritDamage",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Ferocity",
+"skill_id": 256
+},
+"id": 467
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Peridot",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACA124CE1DBE22F3F64BAFC8F7D7F4B3B4F45E17/220911.png",
+"id": 24468,
+"level": 20,
+"name": "Peridot Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGVXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Precision",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Precision",
+"skill_id": 252
+},
+"id": 463
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Carnelian",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5BFE9A910EAA6B4D56FA2BAD11A1D03ED91B2CD0/220912.png",
+"id": 24469,
+"level": 20,
+"name": "Carnelian Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGWXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Toughness",
+"modifier": 2
+},
+{
+"attribute": "Vitality",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Vitality\n+2 Toughness",
+"skill_id": 262
+},
+"id": 472
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Lapis",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/98345E1004EBC610B76092D27DFFC673F539BD4F/220913.png",
+"id": 24470,
+"level": 20,
+"name": "Lapis Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGXXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 2
+},
+{
+"attribute": "Precision",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Precision\n+2 Power",
+"skill_id": 258
+},
+"id": 469
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sunstone",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FFB03B78C09C6AE394A94346D00E7105BE14042B/220914.png",
+"id": 24471,
+"level": 20,
+"name": "Sunstone Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgG1XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Vitality",
+"modifier": 2
+}
+],
+"buff": {
+"description": "+5 Power\n+2 Vitality",
+"skill_id": 254
+},
+"id": 465
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Amethyst",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1E7D30E6DC75FFB1E8B06F6BFD0E72F80F52E52A/220941.png",
+"id": 24501,
+"level": 20,
+"name": "Amethyst Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgHWXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "ConditionDamage",
+"modifier": 3
+}
+],
+"buff": {
+"description": "+3 Condition Damage",
+"skill_id": 70
+},
+"id": 132
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Amber",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/616CA09A677C9B41FCAE746DCD245F04084955D2/220960.png",
+"id": 24534,
+"level": 0,
+"name": "Amber Pebble",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGafQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E3DFD60991F245407769947F14BD5E6A330DAF2/2594826.png",
+"id": 97690,
+"level": 50,
+"name": "Fabulous Fish Fillet",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19740,19741,24301,24306,24311,24316,24321,24326,24331,24336,24467,24468,24469,24470,24471,24501,24534,97690"
+}

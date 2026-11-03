@@ -1,0 +1,5 @@
+{
+"revid": 1784756,
+"text": "{{Item infobox\n| description = Used to craft [[The Hunter]].\n| type = crafting material\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 77217\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Hunter\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| quantity = 1\n| ingredient1 = 1 Black Powder (item)\n| ingredient2 = 1 Burning Ember\n| ingredient3 = 25 Sun Bead\n| ingredient4 = 1 Molten Lodestone\n| id = 11587\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Lebende Flamme]]\n[[es:Llama viva]]\n[[fr:Flamme vivante]]",
+"title": "Living Flame"
+}

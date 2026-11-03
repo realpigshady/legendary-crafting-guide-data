@@ -1,0 +1,462 @@
+{
+"fetched": 1793698553.9948075,
+"item": "Curious Mursaat Currency",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Assist Ekto's paranormal research"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Assist Ekto's paranormal research#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Assist the kodan in researching the titan blight"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Assist the kodan in researching the titan blight#reward2"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-4"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Bonus chest/Rewards#reward65"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Clear Rising Bloom's garden of Mistburned flowers"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Clear Rising Bloom's garden of Mistburned flowers#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Clear out the elementals"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Clear out the elementals#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Collect affected flora samples for Curious Remedy's research"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Collect affected flora samples for Curious Remedy's research#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Collect and turn in debris from the shore and enemies"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Collect and turn in debris from the shore and enemies#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Collect jars, fill them with lightning, and deposit them in the drop-off locations"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Collect jars, fill them with lightning, and deposit them in the drop-off locations#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defend the captive kodan sacrifice"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Defend the captive kodan sacrifice#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defend the kodan base from the Mistburned creatures"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Defend the kodan base from the Mistburned creatures#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defend the lightning rods and repair them with scrap from enemies"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Defend the lightning rods and repair them with scrap from enemies#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Follow Guiding Star and their team on the expedition"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Follow Guiding Star and their team on the expedition#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Help Gleaning Copse clean up rotting plants and clear out rotting enemies"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Help Gleaning Copse clean up rotting plants and clear out rotting enemies#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the kodan gather foraged plants and animal meat"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Help the kodan gather foraged plants and animal meat#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the kodan prepare for their expedition by distributing supplies"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Help the kodan prepare for their expedition by distributing supplies#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the kodan study and settle in the Janthir Syntri region"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Help the kodan study and settle in the Janthir Syntri region#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Investigate Forager's Hunt for hidden enemies"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Investigate Forager's Hunt for hidden enemies#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Kill the giant crab terrorizing the shore"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Kill the giant crab terrorizing the shore#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Kill the leviathan"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Kill the leviathan#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Of Mists and Monsters"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Of Mists and Monsters#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Paint titan footprints and bring them to Running Colors"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Paint titan footprints and bring them to Running Colors#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Rescue the storm chaser"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Rescue the storm chaser#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Security Activated: Defeat the Champion Jade Construct"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Security Activated: Defeat the Champion Jade Construct#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Support the kodan as they maintain their camp"
+],
+"Rewards item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Support the kodan as they maintain their camp#reward2"
+}
+]
+}

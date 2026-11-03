@@ -1,0 +1,278 @@
+{
+"body": [
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgGRFAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E0EE103FD3B8D1A83926BEFDDA7D5AFBE3946ED1/1302178.png",
+"id": 70801,
+"level": 0,
+"name": "Gift of Claws",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHTFQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7254B1CD565840690A9E66FD02B462A834334779/1302177.png",
+"id": 71123,
+"level": 0,
+"name": "Gift of Bones",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHnFwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/801E26996E5F172CC6450C104EBAB4E44F023950/1302176.png",
+"id": 71655,
+"level": 0,
+"name": "Gift of Blood",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFrGAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A58234EAA165603433A0B37E0E7CEB8C455E600/1302186.png",
+"id": 71787,
+"level": 0,
+"name": "Gift of Venom",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHsHQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D20A5EF808673908059EE148A8B71242C3A4554C/1302181.png",
+"id": 73196,
+"level": 0,
+"name": "Gift of Dust",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEUHgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DFC0F6DF2BEE3C83DB2EA28150FEB7A94FEA9F6/1302185.png",
+"id": 73236,
+"level": 0,
+"name": "Gift of Totems",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEjJgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CB33CA326C61A5350B4E40C0C621605CB456C25/1302184.png",
+"id": 75299,
+"level": 0,
+"name": "Gift of Scales",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHgJwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1275A0309ADB2AA6024974C353170E0D2364DCB/1302182.png",
+"id": 75744,
+"level": 0,
+"name": "Gift of Fangs",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgF3fQEA]",
+"description": "In the Mystic Forge, combine 500 Hydrocatalytic Reagents, 250 Thermocatalytic Reagents, and 250 exotic Essences of Luck to create a Gift of Research.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75E96691D495B9A7B7216F3A2D96309C72A7D596/2595111.png",
+"id": 97655,
+"level": 0,
+"name": "Gift of Research",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 160
+},
+{
+"chat_link": "[&AgGkjAEA]",
+"description": "Used in the Mystic Forge to create the Gift of Relics. Used for the legendary relic.\n\nA Mystic Facet is made by combining these items in the Mystic Forge:\n• 1 Relic\n• 250 Piles of Lucent Crystal \n• 250 Piles of Lucent Crystal\n• 250 Piles of Lucent Crystal",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EDA0452ED3DD2A0DB0C0340ACCC83FE2DB0599BB/3255339.png",
+"id": 101540,
+"level": 0,
+"name": "Mystic Facet",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 130
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19675,19721,70801,71123,71655,71787,73196,73236,75299,75744,97655,101540"
+}

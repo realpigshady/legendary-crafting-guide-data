@@ -1,0 +1,5 @@
+{
+"revid": 2694924,
+"text": "{{Item infobox\n| description = Used to craft greatswords.\n| type = crafting material\n| material type = component\n| rarity = Exotic\n| value = 64\n| bound = Account\n| id = 97366\n| requires = eod\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| sheet = Sheaf of Recipes: Dragon's Bite\n| disciplines = Weaponsmith\n| rating = 500\n| type = Component\n| ingredient1 = 1 Deldrimor Steel Greatsword Hilt\n| ingredient2 = 1 Blessing of the Jade Empress\n| ingredient3 = 20 Chunk of Pure Jade\n| id = 13717\n}}\n\n== Used in ==\n{{Recipe list}}\n\n[[de:Verstärkter Präkursor-Großschwertheft]]\n[[es:Empuñadura para mandoble precursor fortificada]]\n[[fr:Garde d'espadon précurseur renforcée]]",
+"title": "Fortified Precursor Greatsword Hilt"
+}

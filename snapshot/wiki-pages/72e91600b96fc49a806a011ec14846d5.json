@@ -1,0 +1,5 @@
+{
+"revid": 3135210,
+"text": "{{Item infobox\n| description = Combine with 1 [[Certificate of Honor]], 1 [[Glob of Condensed Spirit Energy|Condensed Spirit Energy]], and 250 [[Memory of Battle|Memories of Battle]] in the Mystic Forge to create the [[Gift of War Dedication]].\n| type = crafting material\n| material type = basic\n| rarity = Exotic\n| bound = account\n| id = 84099\n| requires = HoT\n}}\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n<div style=\"display:none\"><!--Hidden recipe to display the material in base ingredients query-->\n{{Recipe | source = other | ingredient1 = 250 Testimony of Jade Heroics}}\n</div>\n\n[[de:Zertifikat der Heldentaten]]\n[[es:Certificado de hazañas]]\n[[fr:Certificat d'héroïsme]]",
+"title": "Certificate of Heroics"
+}

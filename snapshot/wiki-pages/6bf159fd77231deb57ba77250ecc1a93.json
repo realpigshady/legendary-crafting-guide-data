@@ -1,0 +1,5 @@
+{
+"revid": 2217252,
+"text": "{{item infobox\n| description = Used to craft [[Dusk]] and [[Dawn]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 73411\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = sheet\n| type = Legendary Component\n| sheet = Box of Recipes: Dusk; Box of Recipes: Dawn\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 5 Mystic Binding Agent\n| ingredient2 = 10 Glob of Dark Matter\n| ingredient3 = 5 Glob of Ectoplasm\n| ingredient4 = 1 Vial of Condensed Mists Essence\n| id = 11462\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Dimensionaler Destabilisierer]]\n[[es:Desestabilizador dimensional]]\n[[fr:Perturbateur dimensionnel]]",
+"title": "Dimensional Destabilizer"
+}

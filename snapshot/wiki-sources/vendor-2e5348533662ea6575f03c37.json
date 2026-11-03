@@ -1,0 +1,57 @@
+{
+"fetched": 1793700081.7438629,
+"item": "Gift of Mistburned Barrens",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Ruin Shard",
+"Has item value": "100"
+},
+{
+"Has item currency": "Vial of Titan Melted Liquid Obsidian",
+"Has item value": "2"
+},
+{
+"Has item currency": "Ursus Oblige",
+"Has item value": "2000"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "51000"
+},
+{
+"Has item currency": "Ancient Coin",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist those surveying Mistburned Barrens in keeping their camp safe and running|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Gift of Mistburned Barrens"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor11"
+}
+]
+}

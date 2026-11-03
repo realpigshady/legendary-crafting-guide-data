@@ -1,0 +1,48 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Fresh Winterberry",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Bitterfrost Frontier"
+],
+"Rewards item": [
+"Fresh Winterberry"
+],
+"_subject": "Bitterfrost Frontier#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Frozen Out"
+],
+"Rewards item": [
+"Fresh Winterberry"
+],
+"_subject": "Frozen Out#reward5"
+}
+]
+}

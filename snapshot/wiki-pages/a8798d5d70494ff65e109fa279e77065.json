@@ -1,0 +1,5 @@
+{
+"revid": 2080015,
+"text": "{{Item infobox\n| type = crafting material\n| material type = ascended\n| tier = 7\n| material storage = Ascended Materials\n| rarity = ascended\n| bound = account\n| description = Used in the weaving of [[Bolt of Damask|damask]].\n| id = 46740\n}}\n[[Spool of Silk Weaving Thread]] is an [[ascended]] crafting material.\n\n== Acquisition ==\nThe recipe can only be crafted once per day per account within the standard reset time.\n{{Recipe\n| source = automatic\n| type = Ectoplasm Refinement\n| disciplines = Tailor,Leatherworker,Armorsmith\n| rating = 450\n| timegate = y\n| ingredient1 = 100 Bolt of Silk\n| ingredient2 = 1 Glob of Ectoplasm\n| ingredient3 = 25 Spool of Gossamer Thread\n| id = 7318\n}}\n\n== Used in ==\n{{recipe list}}\n\n{{Common crafting materials nav}}\n\n[[Category:Time gated recipes]]\n[[de:Spule Seidenwebfaden]]\n[[es:Carrete de hilo de seda para tejer]]\n[[fr:Bobine de fil de soie à tisser]]",
+"title": "Spool of Silk Weaving Thread"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2157822,
+"text": "{{Item infobox\n| type = crafting material\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|precision|20}}{{item stat|toughness|14}}{{item stat|power|14}}\n| material type = gemstone\n| tier = 6\n| material storage = Gemstones and Jewels\n| rarity = rare\n| level = 80\n| value = 198\n| id = 24515\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n{{rewarded by}}\n\n=== Recipe ===\n{{recipe\n| name = Transmogrify Emerald Orb\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 350\n| ingredient1 = 5 Pile of Incandescent Dust\n| ingredient2 = 2 Emerald Crystal\n| id = 3432\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Smaragdkugel]]\n[[es:Orbe de esmeralda]]\n[[fr:Orbe d'émeraude]]",
+"title": "Emerald Orb"
+}

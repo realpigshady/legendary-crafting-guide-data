@@ -1,0 +1,53 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Gift of Galdra",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Research",
+"Has item value": "1"
+},
+{
+"Has item currency": "Preserved Eidolon Hide",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Eternity's Garden Exploration",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Regrowth",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Help out with research and expedition tasks around Pilgrim's Rest|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Gift of Galdra"
+],
+"_subject": "Historian Meliza#vendor11"
+}
+]
+}

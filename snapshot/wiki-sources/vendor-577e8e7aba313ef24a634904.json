@@ -1,0 +1,53 @@
+{
+"fetched": 1793697479.921695,
+"item": "Gift of the Tenebral Ward",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Banner of the Tenebral Ward",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Shining Arms",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Tenebral Armor",
+"Has item value": "1"
+},
+{
+"Has item currency": "Seer Runestone",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Gift of the Tenebral Ward"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor13"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2631352,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Cotton Scrap|Scraps]].\n| material type = refinement\n| tier = 3\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 5\n| id = 19742\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{Contained in}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, scribe, tailor\n| rating = 150\n| ingredient1 = 2 Cotton Scrap\n| id = 7\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Bolt of Wool\n| ingredient2 = 1 Bolt of Cotton\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 4 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Baumwollballen]]\n[[es:Haz de algodón]]\n[[fr:Rouleau de coton]]",
+"title": "Bolt of Cotton"
+}

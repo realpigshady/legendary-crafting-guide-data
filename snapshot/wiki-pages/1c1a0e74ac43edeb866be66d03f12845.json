@@ -1,0 +1,5 @@
+{
+"revid": 2299579,
+"text": "{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|condition damage|20}}{{item stat|power|14}}{{item stat|vitality|14}}\n| type = crafting material\n| material type = gemstone\n| material storage = Gemstones and Jewels\n| tier = 6\n| level = 80\n| rarity = rare\n| value = 198\n| id = 24512\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Extracted from ===\n{{contains upgrade component}}\n\n=== Recipe ===\n{{recipe\n| name = Transmogrify Chrysocola Orb\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 350\n| ingredient1 = 5 Pile of Incandescent Dust\n| ingredient2 = 2 Chrysocola Crystal\n| id = 3429\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Chrysokollkugel]]\n[[es:Orbe de crisocola]]\n[[fr:Orbe de chrysocolle]]",
+"title": "Chrysocola Orb"
+}

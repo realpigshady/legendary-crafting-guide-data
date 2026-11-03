@@ -1,0 +1,52 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Shadowstone Fragment",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Shadowstone Fragment"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Pilgrim's Rest Renown Mastery"
+],
+"Has game id": [
+9243
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement9243"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Shadowstone Fragment"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Artificer's Islet Renown Mastery"
+],
+"Has game id": [
+9343
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement9343"
+}
+]
+}

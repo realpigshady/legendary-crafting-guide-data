@@ -1,0 +1,2164 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Arrow Cart Blueprint",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"ACLM-0403"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "ACLM-0403#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"ACLM-0403"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "ACLM-0403#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"ACLM-0403"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "ACLM-0403#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brass Nettlemoor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Brass Nettlemoor#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Arrow Cart Blueprint (blue)",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Superior Arrow Cart Blueprint",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor46"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor52"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Caster (merchant)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Envoy Kahleem"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Envoy Kahleem#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Envoy Kahleem"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Envoy Kahleem#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Envoy Kahleem"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Envoy Kahleem#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guest Elder (Laurel Merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guest Elder (Laurel Merchant)#vendor146"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Commendation Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Commendation Trader#vendor17"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Commendation Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Commendation Trader#vendor78"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Commendation Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Commendation Trader#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Officer (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Postern Ward",
+"Royal Terrace",
+"Havoc's Heir",
+"Noble's Folly"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Officer (Guild Commendation Trader)#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Officer (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Postern Ward",
+"Royal Terrace",
+"Havoc's Heir",
+"Noble's Folly"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Officer (Guild Commendation Trader)#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Officer (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Postern Ward",
+"Royal Terrace",
+"Havoc's Heir",
+"Noble's Folly"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Officer (Guild Commendation Trader)#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Promoter (guild commendation trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Promoter (guild commendation trader)#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Promoter (guild commendation trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Promoter (guild commendation trader)#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guild Promoter (guild commendation trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Guild Promoter (guild commendation trader)#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"High-Flying Frieda"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "High-Flying Frieda#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"High-Flying Frieda"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "High-Flying Frieda#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"High-Flying Frieda"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "High-Flying Frieda#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jale"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Jale#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jocasta"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Jocasta#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kriss"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Kriss#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Laurel Merchant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Great Lodge",
+"The Upper City",
+"Hall of Memories",
+"Fort Marriner",
+"Memorial Quadrant",
+"Creator's Commons",
+"Garden of Dusk",
+"Havoc's Heir",
+"Mistlock Observatory",
+"Commodore's Quarter",
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Laurel Merchant#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merit Professor Rizzak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Merit Professor Rizzak#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nicola (laurel merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Nicola (laurel merchant)#vendor146"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Arrow Cart Blueprint (blue)",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Superior Arrow Cart Blueprint",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor46"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor52"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Elder (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Pavilion Elder (Guild Commendation Trader)#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Elder (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Pavilion Elder (Guild Commendation Trader)#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Pavilion Elder (Guild Commendation Trader)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Pavilion Elder (Guild Commendation Trader)#vendor83"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Permanent Portable Provisioner#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Permanent Portable Provisioner#vendor9"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Permanent Portable Provisioner#vendor99"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Samuel Darkwillson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Samuel Darkwillson#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Samuel Darkwillson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Samuel Darkwillson#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Arrow Cart Blueprint (blue)",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Siege Master (WvW)#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Siege Master (WvW)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Superior Arrow Cart Blueprint",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Siege Master (WvW)#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Siege Master (WvW)#vendor53"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Siege Master (WvW)#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Stalwart Ben"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Stalwart Ben#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Stalwart Ben"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Stalwart Ben#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Stalwart Ben"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Gilded Hollow",
+"Lost Precipice",
+"Windswept Haven",
+"Isle of Reflection"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Stalwart Ben#vendor83"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Arrow Cart Blueprint (blue)",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Superior Arrow Cart Blueprint",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor46"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor52"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tlamatini (merchant)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Explorer Olread"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Tyrian Explorer Olread#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Varka"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Varka#vendor146"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Wizard's Gobbler/Permanent Portable Provisioner#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Wizard's Gobbler/Permanent Portable Provisioner#vendor66"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Wizard's Gobbler/Permanent Portable Provisioner#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yucel"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lily of the Elon"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Yucel#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "1200"
+},
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+4
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yucel"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lily of the Elon"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Yucel#vendor78"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Guild Commendation",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Yucel"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lily of the Elon"
+],
+"Sells item": [
+"Arrow Cart Blueprint"
+],
+"_subject": "Yucel#vendor83"
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Gift of the People",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Patron of the Magical Arts Plaque",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Starlit Weald Exploration",
+"Has item value": "1"
+},
+{
+"Has item currency": "Seer Wreath of Service",
+"Has item value": "1"
+},
+{
+"Has item currency": "Antiquated Ducat",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Gift of the People"
+],
+"_subject": "Canach#vendor1"
+}
+]
+}

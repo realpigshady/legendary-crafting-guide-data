@@ -1,0 +1,5 @@
+{
+"revid": 2508659,
+"text": "{{Item infobox\n| icon = Finite Wings.png\n| type = crafting material\n| id = 72613\n| description = Used in crafting ascended backpacks. Made from [[Glob of Ectoplasm|ectoplasm]], [[Shard of Crystallized Mists Essence|shard of crystallized mists essence]], a [[Vision Crystal|vision crystal]], and [[Spirit of the Upper Bound]].\n| material type = component\n| rarity = ascended\n| bound = account\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Unbound\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 25 Glob of Ectoplasm\n| ingredient2 = 5 Shard of Crystallized Mists Essence\n| ingredient3 = 1 Vision Crystal\n| ingredient4 = 1 Spirit of the Upper Bound\n| id = 10733\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Schwingen ohne Grenzen]]\n[[es:Alas de Variable Independiente]]\n[[fr:Ailes déliées]]",
+"title": "Unbound Wings"
+}

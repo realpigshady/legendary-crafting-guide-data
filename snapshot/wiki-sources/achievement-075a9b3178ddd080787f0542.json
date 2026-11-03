@@ -1,0 +1,54 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Refined Homestead Wood",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Refined Homestead Wood",
+"Ursus Oblige",
+"Curious Mursaat Currency",
+"Mini Ruinshard Mauler",
+"Stash of Carved Lowland Pine Coins"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Support the kodan as they maintain their camp"
+],
+"Has canonical name": [
+"Forager's Hunt Renown Mastery"
+],
+"Has game id": [
+8259
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (achievements)#achievement8259"
+},
+{
+"Gives item": [
+"Refined Homestead Wood",
+"Ursus Oblige",
+"Curious Lowland Honeycomb",
+"Mini Lucid Boulder",
+"Stash of Carved Lowland Pine Coins"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Assist the Kodan around Autumn's Vale"
+],
+"Has canonical name": [
+"Autumn's Vale Renown Mastery"
+],
+"Has game id": [
+8346
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (achievements)#achievement8346"
+}
+]
+}

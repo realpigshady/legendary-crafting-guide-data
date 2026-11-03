@@ -1,0 +1,74 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Star of Glory",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ascended Shard of Glory",
+"Has item value": "400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ascended Armor League Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories"
+],
+"Sells item": [
+"Star of Glory"
+],
+"_subject": "Ascended Armor League Vendor#vendor67"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ascended Shard of Glory",
+"Has item value": "400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"[[Guild Wars 2: Heart of Thorns]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Armor Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Star of Glory"
+],
+"_subject": "League Armor Vendor#vendor67"
+}
+]
+}

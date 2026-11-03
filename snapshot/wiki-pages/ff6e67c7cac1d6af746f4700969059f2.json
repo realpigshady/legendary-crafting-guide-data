@@ -1,0 +1,5 @@
+{
+"revid": 2631350,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Linen Scrap|Scraps]].\n| material type = refinement\n| tier = 4\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 6\n| id = 19744\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{Contained in}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, scribe, tailor\n| rating = 225\n| ingredient1 = 2 Linen Scrap\n| id = 10\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 190\n| ingredient1 = 250 Bolt of Cotton\n| ingredient2 = 1 Bolt of Linen\n| ingredient3 = 5 Pile of Radiant Dust\n| ingredient4 = 6 Philosopher's Stone\n}}\n\n== Used in ==\n{{gww}}\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Leinenballen]]\n[[es:Haz de lino]]\n[[fr:Rouleau de lin]]",
+"title": "Bolt of Linen"
+}

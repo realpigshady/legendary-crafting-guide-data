@@ -1,0 +1,51 @@
+{
+"fetched": 1793699025.3258686,
+"item": "Strife Unending",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Warclaw",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of the Mist Warrior",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of the Mistwalker",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Mists Research: Strife Unending"
+],
+"Has total purchase cap": [
+2
+],
+"Has vendor": [
+"Dugan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Strife Unending"
+],
+"_subject": "Dugan#vendor61"
+}
+]
+}

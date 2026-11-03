@@ -1,0 +1,5 @@
+{
+"revid": 2959523,
+"text": "{{Item infobox\n| description = Used to brew a [[Thaw Elixir|thaw elixir]], traded with [[Slooshoo]], or consumed for [[Unbound Magic|unbound magic]].\n| material storage = Advanced Crafting Materials\n| type = consumable\n| rarity = masterwork\n| bound = account\n| id = 79899\n| requires = lws3\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Sold by ===\n{{Sold by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n{{rewarded by}}\n\n== Contents ==\n* {{contains|Unbound Magic|qty=15-30|chance=Guaranteed}}\n\n== Used in ==\n=== Thaw Elixir ===\n* 12 [[Fresh Winterberry|Fresh Winterberries]] are used as part of recipe for the [[Thaw Elixir]].\n\n=== Recipes ===\n;Chef\n{{recipe table| discipline = Chef | ingredient = Fresh Winterberry}}\n;Handiworker\n{{recipe table| discipline = Handiworker | ingredient = Fresh Winterberry}}\n\n== Currency for ==\n{{Vendor query table|currency=Fresh Winterberry}}\n\n{{Tokens nav}}\n\n[[de:Frische Winterbeere]]\n[[es:Baya de invierno fresca]]\n[[fr:Houx frais]]",
+"title": "Fresh Winterberry"
+}

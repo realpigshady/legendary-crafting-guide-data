@@ -1,0 +1,5 @@
+{
+"revid": 2701232,
+"text": "{{Trinket infobox\n| type = Amulet\n| level = 80\n| rarity = Ascended\n| description = {{flavor|It took a lot of tears to create this much salt.}}\n| prefix = selectable\n| enrichment slot = y\n| value = 660\n| bound = account\n| unique = y\n| salvage = Ascended\n| id = 77482\n}}\n\n== Acquisition ==\n{{Recipe\n| source = mystic forge\n| ingredient1 = 1 Mystic Essence of Determination\n| ingredient2 = 1 Mystic Essence of Challenge\n| ingredient3 = 1 Mystic Essence of Discipline\n| ingredient4 = 1 Mystic Essence of Success\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Available prefixes ==\n* The following [[Attribute combinations|prefixes]] can be selected:\n{{prefix selection|all ascended trinket}}\n\n== Trivia ==\n* Erroneously, this amulet used to have exotic attributes selectable. This was fixed with the [[Game updates/2015-12-15|December 15, 2015 update]].\n\n[[de:Phiole mit Salz]]\n[[es:Vial de sal]]\n[[fr:Fiole de sel]]",
+"title": "Vial of Salt"
+}

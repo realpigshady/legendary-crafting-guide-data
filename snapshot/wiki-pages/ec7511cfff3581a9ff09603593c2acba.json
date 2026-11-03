@@ -1,0 +1,5 @@
+{
+"revid": 2827630,
+"text": "{{Upgrade component infobox\n| type = gemstone\n| material storage = Gemstones and Jewels\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|condition damage|17}}{{item stat|vitality|17}}{{item stat|concentration|9}}{{item stat|expertise|9}}\n| level = 80\n| rarity = Exotic\n| value = 256\n| id = 96471\n| requires = eod\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Gathered from ===\n{{Gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* The same character can gather from additional nodes by repeatedly changing map instances.\n\n\n[[de:Brocken von versteinertem Echowald-Harz]]\n[[es:Pedazo de resina de Echovald petrificada]]\n[[fr:Morceau de résine pétrifiée d'Echovald]]",
+"title": "Chunk of Petrified Echovald Resin"
+}

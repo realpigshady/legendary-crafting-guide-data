@@ -1,0 +1,5 @@
+{
+"revid": 2077646,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Hardened Leather Section|Sections]].\n| material type = refinement\n| tier = 6\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 8\n| id = 19737\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = huntsman, leatherworker, scribe, tailor, armorsmith\n| rating = 400\n| ingredient1 = 3 Hardened Leather Section\n| id = 28\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 10\n| upper quantity = 40\n| ingredient1 = 250 Cured Thick Leather Square\n| ingredient2 = 1 Cured Hardened Leather Square\n| ingredient3 = 5 Pile of Crystalline Dust\n| ingredient4 = 10 Philosopher's Stone\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Getrockneter gehärteter Lederflicken]]\n[[es:Retal de cuero curado endurecido]]\n[[fr:Pièce de cuir durci traité]]",
+"title": "Cured Hardened Leather Square"
+}

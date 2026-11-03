@@ -1,0 +1,5 @@
+{
+"revid": 3034312,
+"text": "{{Item infobox\n| description = Combine 6 [[Deldrimor Steel Spear Head]]s, 6 [[Large Spiritwood Haft]]s, 6 [[Vision Crystal]]s, and a [[Memory of Bearkin's Adversaries]] to create [[Nyr Hrammr]].<br/><br/>This item is acquired from the achievement \"[[Klobjarne Geirr: World Boss or Meta-Event Completions]].\"\n| type = Crafting material\n| material type = Mystic\n| rarity = Legendary\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| bound = Account\n| id = 103793\n| requires = jw\n}}\n\n== Acquisition ==\n{{achievement list|reward=Memory of Bearkin's Adversaries}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n{{bug|The recipe in this item's description is incorrect. It actually creates a Gift of Sharpened Tip, which is used to craft Nyr Hrammr.}}\n\n[[de:Erinnerung an Kontrahenten der Bärlinge]]\n[[es:Recuerdo de adversarios de los osunos]]\n[[fr:Souvenir des adversaires des Kodans]]",
+"title": "Memory of Bearkin's Adversaries"
+}

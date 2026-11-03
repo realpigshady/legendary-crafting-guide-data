@@ -1,0 +1,386 @@
+{
+"fetched": 1793698840.0996466,
+"item": "Curious Mursaat Ruin Shard",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Assist those surveying Mistburned Barrens in keeping their camp safe and running"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Assist those surveying Mistburned Barrens in keeping their camp safe and running#reward2"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-4"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Bonus chest/Rewards#reward66"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Collect coalesced Mists energy from defeated enemies and throw it into the jade construct before it deactivates"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Collect coalesced Mists energy from defeated enemies and throw it into the jade construct before it deactivates#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Collect lightning to keep the asura turrets charged"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Collect lightning to keep the asura turrets charged#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Craft bows for the survey"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Craft bows for the survey#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Defeat Yagon and the captured jade construct"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Defeat Yagon and the captured jade construct#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Escort Priory Scholar Ciana to the southern ruins"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Escort Priory Scholar Ciana to the southern ruins#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Escort the Kodan Wildstalker"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Escort the Kodan Wildstalker#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Escort the jade construct through the Valley of Agony by throwing coalesced Mists energy into it"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Escort the jade construct through the Valley of Agony by throwing coalesced Mists energy into it#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Find and defeat the source of the Mists runoff scent"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Find and defeat the source of the Mists runoff scent#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Grab a rifle from the pack dolyak and prevent the bees from destroying the scanners"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Grab a rifle from the pack dolyak and prevent the bees from destroying the scanners#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Have your warclaw sniff around to reveal bloodstone samples. Return the samples to Priory Scholar Ciana"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Have your warclaw sniff around to reveal bloodstone samples. Return the samples to Priory Scholar Ciana#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Help the southern survey team put the ghosts to rest"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Help the southern survey team put the ghosts to rest#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Keep the areas clear while the golems gather samples"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Keep the areas clear while the golems gather samples#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Keep the jade construct alive by throwing coalesced Mists energy into it as it fights the titanspawn"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Keep the jade construct alive by throwing coalesced Mists energy into it as it fights the titanspawn#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Overload the jade construct by throwing overcharged coalesced Mists energy into it while it's at full health"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Overload the jade construct by throwing overcharged coalesced Mists energy into it while it's at full health#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Program the golems and bring them to the ruins entrance"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Program the golems and bring them to the ruins entrance#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Protect Ciana while she investigates the construct"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Protect Ciana while she investigates the construct#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Stop Manikaz from completing his ritual"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Stop Manikaz from completing his ritual#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Weaken and tranquilize Mistburned creatures for allies to research"
+],
+"Rewards item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Weaken and tranquilize Mistburned creatures for allies to research#reward2"
+}
+]
+}

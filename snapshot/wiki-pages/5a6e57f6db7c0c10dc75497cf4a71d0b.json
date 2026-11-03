@@ -1,0 +1,5 @@
+{
+"revid": 2079557,
+"text": "{{Item infobox\n| description = Used to craft [[The Colossus]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 76843\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Colossus\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 100 Mithril Ingot\n| ingredient2 = 1 Sculptor's Tools\n| ingredient3 = 250 Platinum Ingot\n| ingredient4 = 5 Onyx Lodestone\n| id = 11618\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Kolossstatue]]\n[[es:Estatua del Coloso]]\n[[fr:Statue de colosse]]",
+"title": "Colossus Statue"
+}

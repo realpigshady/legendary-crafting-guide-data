@@ -1,0 +1,5 @@
+{
+"revid": 2694925,
+"text": "{{Item infobox\n| description = Used to craft axes.\n| type = crafting material\n| material type = component\n| rarity = Exotic\n| value = 64\n| bound = Account\n| id = 96398\n| requires = eod\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| sheet = Sheaf of Recipes: Dragon's Rending\n| disciplines = Weaponsmith\n| rating = 500\n| type = Component\n| ingredient1 = 1 Deldrimor Steel Axe Blade\n| ingredient2 = 1 Blessing of the Jade Empress\n| ingredient3 = 20 Chunk of Pure Jade\n| id = 13718\n}}\n\n== Used in ==\n{{Recipe list}}\n\n[[de:Verstärkter Präkursor-Axtkopf]]\n[[es:Cabeza para hacha precursora fortificada]]\n[[fr:Fer de hache précurseur renforcé]]",
+"title": "Fortified Precursor Axe Head"
+}

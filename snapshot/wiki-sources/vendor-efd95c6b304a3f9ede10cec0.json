@@ -1,0 +1,378 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Chromatic Sap",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Acolyte of Balance Dexx#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Alliance Field Quartermaster#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Canach#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Captain Emund#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Castaway Agnes#vendor18"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Castora: Hero's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castora: Hero's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Castora: Hero's Choice Chest#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Historian Meliza#vendor15"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Huntmaster Arnorr#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Magister Sirkk#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Steward Brizio#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Aether-Rich Sap",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Chromatic Sap"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor20"
+}
+]
+}

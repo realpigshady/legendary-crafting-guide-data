@@ -1,0 +1,5 @@
+{
+"revid": 3044047,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Power]]<br>+70 [[Healing Power]]<br>+10% [[Experience]]|id=32522}}\n| type = food\n| food type = dessert\n| rarity = masterwork\n| level = 80\n| salvage = Compost, Research\n| id = 71826\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Bowl of Passion Fruit Tapioca Pudding\n| type = Dessert\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Bowl of Tapioca Pudding\n| ingredient2 = 1 Raspberry Passion Fruit Compote\n| id = 11583\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n== Notes ==\n* Although it says \"+10% Experience\" the bonus applies only for kills.\n\n[[de:Schüssel mit Maracuja-Tapiokapudding]]\n[[es:Cuenco de pudin de maracuyá y tapioca]]\n[[fr:Bol de tapioca aux fruits de la passion]]",
+"title": "Bowl of Passion Fruit Tapioca Pudding"
+}

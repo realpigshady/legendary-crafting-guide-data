@@ -1,0 +1,47 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Flame Ram Blueprint",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Flame Ram Blueprint",
+"WvW Rush Champion Point"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"World vs. World Rush (achievements)"
+],
+"Has canonical name": [
+"WvW Rush Sign-Up"
+],
+"Has game id": [
+7621
+],
+"Is historical": [
+"f"
+],
+"_subject": "World vs. World Rush (achievements)#achievement7621"
+},
+{
+"Gives item": [
+"Flame Ram Blueprint"
+],
+"Gives item quantity": [
+3
+],
+"Has achievement page": [
+"World vs. World Rush (achievements)/historical"
+],
+"Has canonical name": [
+"WvW Rush Sign-Up"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "World vs. World Rush (achievements)/historical#achievement99915"
+}
+]
+}

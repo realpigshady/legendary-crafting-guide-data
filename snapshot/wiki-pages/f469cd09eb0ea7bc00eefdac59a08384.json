@@ -1,0 +1,5 @@
+{
+"revid": 2296275,
+"text": "{{Item infobox\n| description = Used to craft [[Frenzy]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 71385\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Rage\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 1 Charged Lodestone\n| ingredient2 = 10 Watchwork Sprocket\n| ingredient3 = 1 Pile of Crystalline Dust\n| ingredient4 = 5 Bolt of Gossamer\n| id = 10469\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Aerator]]\n[[es:Aireador]]\n[[fr:Aérateur]]",
+"title": "Aerator"
+}

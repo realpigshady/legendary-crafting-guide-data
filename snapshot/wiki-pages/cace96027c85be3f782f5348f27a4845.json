@@ -1,0 +1,5 @@
+{
+"revid": 3181802,
+"text": "{{Item infobox\n| description = Refined from [[Bolt of Wool|wool]], [[Bolt of Cotton|cotton]], [[Bolt of Linen|linen]], and [[Spool of Silk Weaving Thread|silk weaving thread]].\n| type = crafting material\n| material type = ascended\n| tier = 7\n| material storage = Ascended Materials\n| rarity = ascended\n| value = 80\n| id = 46741\n}}\n[[Bolt of Damask|Bolts of Damask]] are used to craft [[ascended equipment]].\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipes ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, tailor\n| rating = 450\n| ingredient1 = 20 Bolt of Wool\n| ingredient2 = 10 Bolt of Cotton\n| ingredient3 = 20 Bolt of Linen\n| ingredient4 = 1 Spool of Silk Weaving Thread\n| id = 7309\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n{{gww}}\n{{Common crafting materials nav}}\n\n[[de:Damastballen]]\n[[es:Haz de damasco]]\n[[fr:Rouleau de tissu damassé]]",
+"title": "Bolt of Damask"
+}

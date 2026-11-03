@@ -1,0 +1,5 @@
+{
+"revid": 2884139,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = An eel statue used to create [[Kraitkin]].<br><br>Purchase the recipe for this item from any [[Mystic Forge]] vendor and reach a [[tailor]] rating of 400 to [[craft]].\n| rarity = legendary\n| collection = Legendary Weapon: Kraitkin\n| bound = account\n| id = 19642\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Eel Statue\n| type = Crafting Component\n| disciplines = tailor\n| rating = 400\n| ingredient1 = 1 Gift of the Forgeman\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Cured Hardened Leather Square\n| ingredient4 = 250 Armored Scale\n| id = 1715\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n* [[Shark Statue]]\n* [[Unicorn Statue]]\n* [[Wolf Statue]]\n\n[[de:Aalstatue]]\n[[es:Estatua de anguila]]\n[[fr:Statue d'anguille]]",
+"title": "Eel Statue"
+}

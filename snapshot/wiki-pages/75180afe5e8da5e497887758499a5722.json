@@ -1,0 +1,5 @@
+{
+"revid": 2817404,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|30% [[Magic Find]]<br>+70 [[Condition Damage]]<br>+10% [[Experience]] from Kills|id=10141}}\n| type = food, crafting material\n| food type = snack\n| level = 80\n| rarity = fine\n| salvage = Compost, Research\n| id = 12472\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Snack\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Jar of Vegetable Oil\n| ingredient2 = 1 Pile of Salt and Pepper\n| ingredient3 = 1 Lotus Root\n| id = 3074\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[Category:Ingredients]]\n[[de:Schale mit frittiertem Lotus]]\n[[es:Bol de lotos fritos]]\n[[fr:Tasse de lotus frit]]",
+"title": "Cup of Lotus Fries"
+}

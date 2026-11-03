@@ -1,0 +1,49 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Concentrated Chromatic Sap",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "500"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "250"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Concentrated Chromatic Sap"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor1"
+}
+]
+}

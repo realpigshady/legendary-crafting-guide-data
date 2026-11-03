@@ -1,0 +1,57 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Gift of the Beach",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Pile of Coarse Sand",
+"Has item value": "250"
+},
+{
+"Has item currency": "Ley-Infused Sand",
+"Has item value": "100"
+},
+{
+"Has item currency": "Relic of the Sunless",
+"Has item value": "1"
+},
+{
+"Has item currency": "Coral Orb",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Radiance of the Sun God"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Palak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Gift of the Beach"
+],
+"_subject": "Palak#vendor4"
+}
+]
+}

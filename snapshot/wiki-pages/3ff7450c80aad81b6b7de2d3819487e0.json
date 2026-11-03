@@ -1,0 +1,5 @@
+{
+"revid": 2631353,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Jute Scrap|Scraps]].\n| material type = refinement\n| tier = 1\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 2\n| id = 19720\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{Contained in}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, scribe, tailor\n| ingredient1 = 2 Jute Scrap\n| id = 9\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n\n[[de:Juteballen]]\n[[es:Haz de yute]]\n[[fr:Rouleau de jute]]",
+"title": "Bolt of Jute"
+}

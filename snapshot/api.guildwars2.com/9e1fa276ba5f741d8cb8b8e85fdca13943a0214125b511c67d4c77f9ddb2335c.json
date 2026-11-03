@@ -1,0 +1,26 @@
+{
+"body": [
+{
+"chat_link": "[&AgEzewEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/39290418EC39DABDCB33136E5358E609D5FCC5B1/2594831.png",
+"id": 97075,
+"level": 0,
+"name": "Piece of Crustacean Meat",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=97075"
+}

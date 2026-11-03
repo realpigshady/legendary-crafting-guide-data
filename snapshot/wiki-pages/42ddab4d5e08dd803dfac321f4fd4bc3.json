@@ -1,0 +1,5 @@
+{
+"revid": 2077578,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| rarity = basic\n| id = 12180\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| sheet = Recipe: Ascalonian Herbs\n| type = Seasoning\n| disciplines = chef\n| rating = 100\n| ingredient1 = 1 Oregano Leaf\n| ingredient2 = 1 Basil Leaf\n| ingredient3 = 1 Parsley Leaf\n| ingredient4 = 1 Thyme Leaf\n| id = 2846\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n{{Anomaly|This recipe can also be unlocked with the [[recipe sheet]] [[Recipe: Ascalonian Herbs]]. However, since it unlocks automatically for free, there's no reason to buy the recipe sheet.}}\n\n[[de:Haufen ascalonischer Kräuter]]\n[[es:Montón de hierbas ascalonianas]]\n[[fr:Tas d'herbes ascaloniennes]]",
+"title": "Pile of Ascalonian Herbs"
+}

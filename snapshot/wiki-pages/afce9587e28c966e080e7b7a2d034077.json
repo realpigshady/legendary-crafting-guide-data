@@ -1,0 +1,5 @@
+{
+"revid": 3180695,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Expertise]]<br>+70 [[Condition Damage]]<br>+1% All [[Experience]] Gained|id=46273}}\n| type = food\n| food type = snack\n| value = 96\n| level = 80\n| rarity = rare\n| salvage = Compost, Research\n| id = 84550\n| requires = pof\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Red Lentil Saobosa\n| disciplines = Chef\n| rating = 400\n| type = Snack\n| ingredient1 = 1 Handful of Red Lentils\n| ingredient2 = 2 Ball of Dough\n| ingredient3 = 2 Jug of Water\n| ingredient4 = 3 Jar of Vegetable Oil\n| id = 12111\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n== Notes ==\n* The following provide the same [[Expertise]] and [[Condition Damage]] stats ([[Feast]]s are 1 hour):\n{{item tp table|\nBlood Orange;\nBowl of Garlic Kale Sautee;\nKoi Cake;\nRare Veggie Pizza;\nFeast of Rare Veggie Pizzas;\nMint and Veggie Flatbread;\nSalsa-Topped Veggie Flatbread\n}}\n\n[[de:Saobosa mit roten Linsen]]\n[[es:Saobosa de lentejas rojas]]\n[[fr:Saobosa de lentilles rouges]]",
+"title": "Red-Lentil Saobosa"
+}

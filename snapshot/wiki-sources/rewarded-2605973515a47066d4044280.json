@@ -1,0 +1,48 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Jade Shard",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Confessor's End"
+],
+"Rewards item": [
+"Jade Shard"
+],
+"_subject": "Confessor's End#reward6"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Lake Doric"
+],
+"Rewards item": [
+"Jade Shard"
+],
+"_subject": "Lake Doric#reward2"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2884190,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A shark statue used to create [[Kamohoali'i Kotaki]].<br><br>Purchase the recipe for this item from any [[Mystic Forge]] vendor and reach a [[jeweler]] rating of 400 to [[craft]].\n| rarity = legendary\n| collection = Legendary Weapon: Kamohoali'i Kotaki\n| bound = account\n| id = 19641\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shark Statue\n| type = Crafting Component\n| disciplines = jeweler\n| rating = 400\n| ingredient1 = 1 Gift of Zhaitan\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Armored Scale\n| ingredient4 = 250 Vial of Powerful Blood\n| id = 1714\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n*[[Eel Statue]]\n*[[Unicorn Statue]]\n*[[Wolf Statue]]\n\n[[de:Haistatue]]\n[[es:Estatua de tiburón]]\n[[fr:Statue de requin]]",
+"title": "Shark Statue"
+}

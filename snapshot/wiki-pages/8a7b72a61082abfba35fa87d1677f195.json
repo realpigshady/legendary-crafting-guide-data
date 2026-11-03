@@ -1,0 +1,5 @@
+{
+"revid": 2727016,
+"text": "{{Item infobox\n| description = In the [[Mystic Forge]], combine 200 [[Chunks of Pure Jade]], 100 [[Jade Runestone|Jade Runestones]], 5 [[Blessing of the Jade Empress|Blessings of the Jade Empress]], and 100 [[Chunk of Ancient Ambergris|Chunks of Ancient Ambergris]] to create a [[Gift of the Dragon Empire]].\n| type = trophy\n| material type = mystic\n| rarity = legendary\n| bound = account\n| id = 97433\n| requires = eod\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 100 Jade Runestone\n| ingredient2 = 200 Chunk of Pure Jade\n| ingredient3 = 100 Chunk of Ancient Ambergris\n| ingredient4 = 5 Blessing of the Jade Empress\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Drachenreichs]]\n[[es:Don del Imperio del Dragón]]\n[[fr:Don de l'Empire du dragon]]",
+"title": "Gift of the Dragon Empire"
+}

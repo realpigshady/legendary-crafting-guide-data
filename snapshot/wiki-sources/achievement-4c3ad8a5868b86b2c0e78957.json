@@ -1,0 +1,74 @@
+{
+"fetched": 1793699869.1223552,
+"item": "Eitrite Ingot",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Gift of Ice",
+"Eternal Ice Shard",
+"Eitrite Ingot",
+"Season 4 Currency Box",
+"Amalgamated Draconic Lodestone",
+"Recipe: Eitrite Ingot",
+"Great Gift of the Ancestors"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Illuminated Boreal Weapons"
+],
+"Has canonical name": [
+"Illuminated Boreal Weapons"
+],
+"Has game id": [
+5085
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5085"
+},
+{
+"Gives item": [
+"Berserker's Orichalcum Imbued Inscription",
+"Eitrite Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"The Hunger"
+],
+"Has canonical name": [
+"The Hunger"
+],
+"Has game id": [
+5020
+],
+"Is historical": [
+"f"
+],
+"_subject": "Whisper in the Dark (achievements)#achievement5020"
+},
+{
+"Gives item": [
+"Berserker's Orichalcum Imbued Inscription",
+"Eternal Ice Shard",
+"Eitrite Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Ancient Weaponeer"
+],
+"Has canonical name": [
+"Ancient Weaponeer"
+],
+"Has game id": [
+5042
+],
+"Is historical": [
+"f"
+],
+"_subject": "Whisper in the Dark (achievements)#achievement5042"
+}
+]
+}

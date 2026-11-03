@@ -1,0 +1,5 @@
+{
+"revid": 2079868,
+"text": "{{Item infobox\n| description = Used to craft [[Carcharias]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 75841\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Carcharias\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 20 Orichalcum Ingot\n| ingredient2 = 10 Superior Sharpening Stone\n| ingredient3 = 1 Orichalcum Plated Dowel\n| ingredient4 = 20 Ancient Wood Plank\n| id = 10250\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gezackte Harpune]]\n[[es:Arpón serrado]]\n[[fr:Harpon dentelé]]",
+"title": "Serrated Harpoon"
+}

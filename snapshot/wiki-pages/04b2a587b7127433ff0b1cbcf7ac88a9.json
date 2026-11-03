@@ -1,0 +1,5 @@
+{
+"revid": 1137293,
+"text": "{{Item infobox\n| icon = Crafter's Backpack Frame.png\n| type = crafting material\n| id = 71885\n| description = Used in crafting ascended backpacks. Made of [[Bolt of Damask|damask]], [[Elonian Leather Square|elonian leather]], [[Spiritwood Plank|spiritwood]], and [[Deldrimor Steel Ingot|Deldrimor steel]].\n| material type = component\n| rarity = ascended\n| bound = account\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Unbound\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 5 Spiritwood Plank\n| ingredient2 = 5 Deldrimor Steel Ingot\n| ingredient3 = 5 Elonian Leather Square\n| ingredient4 = 5 Bolt of Damask\n| id = 10672\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Nebelrahmen dritter Ordnung]]\n[[es:Estructura de niebla de tercer orden]]\n[[fr:Structure des Brumes de niveau 3]]",
+"title": "Third Order Mist Frame"
+}

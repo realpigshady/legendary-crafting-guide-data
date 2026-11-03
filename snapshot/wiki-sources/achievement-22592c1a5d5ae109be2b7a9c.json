@@ -1,0 +1,51 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Mistborn Mote",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Mistborn Mote"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to Season 4 (achievements)"
+],
+"Has canonical name": [
+"Local Response: Dragonfall (Weekly)"
+],
+"Has game id": [
+8405
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 4 (achievements)#achievement8405"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Mistborn Mote",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to War Eternal"
+],
+"Has canonical name": [
+"Return to Dragonfall"
+],
+"Has game id": [
+5995
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to War Eternal#achievement5995"
+}
+]
+}

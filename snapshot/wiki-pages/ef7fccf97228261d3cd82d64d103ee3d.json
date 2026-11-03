@@ -1,0 +1,5 @@
+{
+"revid": 2884172,
+"text": "{{Item infobox\n| description = A gift of weather used to create [[Meteorlogicus]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an [[armorsmith]] rating of 400 to craft.\n| type = trophy\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: Meteorlogicus\n| bound = account\n| value = 640\n| id = 19637\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Weather\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 400\n| ingredient1 = 1 Gift of Knowledge\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Hardened Leather Section\n| ingredient4 = 100 Charged Lodestone\n| id = 845\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Wetters]]\n[[es:Don del clima]]\n[[fr:Don de climat]]",
+"title": "Gift of Weather"
+}

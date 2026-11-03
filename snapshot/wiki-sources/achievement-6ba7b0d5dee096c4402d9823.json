@@ -1,0 +1,51 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Branded Mass",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Mystic Coin",
+"1000 Volatile Magic",
+"Branded Mass",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to All or Nothing"
+],
+"Has canonical name": [
+"Return to Thunderhead Peaks"
+],
+"Has game id": [
+6023
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to All or Nothing#achievement6023"
+},
+{
+"Gives item": [
+"Branded Mass"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to Season 4 (achievements)"
+],
+"Has canonical name": [
+"Local Response: Thunderhead Peaks (Weekly)"
+],
+"Has game id": [
+8383
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 4 (achievements)#achievement8383"
+}
+]
+}

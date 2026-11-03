@@ -1,0 +1,5 @@
+{
+"revid": 3138697,
+"text": "{{Item infobox\n| type = crafting material\n| material type = mystic\n| description = In the [[Mystic Forge]], combine a [[Gift of War Prosperity]], [[Gift of War Prowess]], [[Gift of War Dedication]], and a WvW Ascended Armor piece to upgrade the armor to [[Legendary armor|Legendary]].\n| rarity = Legendary\n| value = 165\n| bound = account\n| id = 82746\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 1 Gift of Battle\n| ingredient2 = 15 Mystic Clover\n| ingredient3 = 1 Gift of Condensed Might\n| ingredient4 = 1 Gift of Condensed Magic\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of War Prosperity}}\n\n[[de:Gabe des Kriegswohlstands]]\n[[es:Don de prosperidad en la guerra]]\n[[fr:Don de prospérité de la guerre]]",
+"title": "Gift of War Prosperity"
+}

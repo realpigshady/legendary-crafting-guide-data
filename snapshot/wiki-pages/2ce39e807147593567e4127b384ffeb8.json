@@ -1,0 +1,5 @@
+{
+"revid": 2370524,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft pistols.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45833\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 3 Deldrimor Steel Ingot\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7591\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Pistolenlauf aus Deldrimor-Stahl]]\n[[es:Cañón para pistola de acero de Deldrimor]]\n[[fr:Canon de pistolet en acier de Deldrimor]]",
+"title": "Deldrimor Steel Pistol Barrel"
+}

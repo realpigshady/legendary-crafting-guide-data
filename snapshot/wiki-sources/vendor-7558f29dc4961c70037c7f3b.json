@@ -1,0 +1,95 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Curious Mursaat Remnants",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bava Nisos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bava Nisos: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Bava Nisos: Commander's Choice Chest#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Bava Nisos",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Janthir Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Portable Wizard's Tower Exchange/Janthir Exchanges#vendor10"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Bava Nisos",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Janthir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Wizard's Gobbler/Janthir#vendor10"
+}
+]
+}

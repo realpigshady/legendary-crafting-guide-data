@@ -1,0 +1,5 @@
+{
+"revid": 2700032,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+50 [[Condition Damage]]<br>+40 [[Precision]]<br>+10% [[Experience]] from Kills|id=9814}}\n| type = food\n| food type = snack\n| rarity = fine\n| level = 30\n| salvage = Compost, Research\n| id = 12283\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Snack\n| disciplines = chef\n| rating = 150\n| ingredient1 = 1 Jar of Vegetable Oil\n| ingredient2 = 1 Pile of Salt and Pepper\n| ingredient3 = 1 Portobello Mushroom\n| id = 2956\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[de:Gegrillter Portobellopilz]]\n[[es:Champiñón Portobello a la parrilla]]\n[[fr:Champignon portobello grillé]]",
+"title": "Grilled Portobello Mushroom"
+}

@@ -1,0 +1,256 @@
+{
+"fetched": 1793699855.1726224,
+"item": "Essence of Animosity",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Proof of Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Commander War Razor#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Desert Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Commander War Razor#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Commander War Razor#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Commander War Razor#vendor6"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Proof of Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Desert Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Jade Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Essence of Animosity"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor6"
+}
+]
+}

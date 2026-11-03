@@ -1,0 +1,5 @@
+{
+"revid": 3110675,
+"text": "{{Item infobox\n| description = Combine a [[Gift of Rays]], a [[Gift of the Survivors]], a [[Gift of the People]], and a [[Gift of the Hylek]] in the [[Mystic Forge]] to create the legendary ring [[Endless Summer]]\n<br/>\nCreated by combining the following in the Mystic Forge:<br/>\n• A [[Gift of the Sun]]<br/>\n• A [[Gift of the Beach]]<br/>\n• A [[Gift of Infused Gems]]<br/>\n• 10 [[Purified Rift Essence]]<br/>\n| type = Crafting material\n| material type = Mystic\n| rarity = Legendary\n| bound = Account\n| id = 107040\n| requires = voe\n}}\n\n== Acquisition ==\n=== Recipe === \n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of the Sun\n| ingredient2 = 1 Gift of the Beach\n| ingredient3 = 1 Gift of Infused Gems\n| ingredient4 = 10 Purified Rift Essence\n}}\n=== Sold by===\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Strahlen]]\n[[es:Don de rayos]]\n[[fr:Don des rais]]",
+"title": "Gift of Rays"
+}

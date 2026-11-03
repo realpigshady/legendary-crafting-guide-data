@@ -1,0 +1,644 @@
+{
+"fetched": 1793699798.2708542,
+"item": "Trebuchet Blueprint (blue)",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brass Nettlemoor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Brass Nettlemoor#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Caster (merchant)#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Caster (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Molevekian Delve"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Caster (merchant)#vendor43"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guest Elder (Laurel Merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Guest Elder (Laurel Merchant)#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jale"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Bay of Elon"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Jale#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Jocasta"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Memories"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Jocasta#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kriss"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Kriss#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Laurel Merchant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"The Great Lodge",
+"The Upper City",
+"Hall of Memories",
+"Fort Marriner",
+"Memorial Quadrant",
+"Creator's Commons",
+"Garden of Dusk",
+"Havoc's Heir",
+"Mistlock Observatory",
+"Commodore's Quarter",
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Laurel Merchant#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Laurel Merchant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"The Great Lodge",
+"The Upper City",
+"Hall of Memories",
+"Fort Marriner",
+"Memorial Quadrant",
+"Creator's Commons",
+"Garden of Dusk",
+"Havoc's Heir",
+"Mistlock Observatory",
+"Commodore's Quarter",
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Laurel Merchant#vendor269"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merit Professor Rizzak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Merit Professor Rizzak#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Nicola (laurel merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Champion's Rest"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Nicola (laurel merchant)#vendor262"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ogre Hunter (WvW merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Orgath Uplands"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Ogre Hunter (WvW merchant)#vendor43"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Permanent Portable Provisioner#vendor83"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Permanent Portable Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Permanent Portable Provisioner#vendor90"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Siege Master (WvW)#vendor42"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Siege Master (WvW)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Siege Master (WvW)#vendor49"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Tlamatini (merchant)#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Badge of Honor",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tlamatini (merchant)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Darkrait Inlet"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Tlamatini (merchant)#vendor43"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Laurel",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Varka"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Trebuchet Blueprint (blue)"
+],
+"_subject": "Varka#vendor262"
+}
+]
+}

@@ -1,0 +1,45 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Gift of Complex Emotions",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "10000"
+},
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Coalescence II: The Gift"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scholar Glenna (The Key of Ahdashim)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Key of Ahdashim"
+],
+"Sells item": [
+"Gift of Complex Emotions"
+],
+"_subject": "Scholar Glenna (The Key of Ahdashim)#vendor41"
+}
+]
+}

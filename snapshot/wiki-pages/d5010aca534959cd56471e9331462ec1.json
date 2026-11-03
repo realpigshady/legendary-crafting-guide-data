@@ -1,0 +1,5 @@
+{
+"revid": 2391535,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = ingredient\n| rarity = basic\n| id = 12528\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Cooking Ingredient\n| disciplines = chef\n| rating = 275\n| ingredient1 = 1 Onion\n| ingredient2 = 1 Jar of Vegetable Oil\n| ingredient3 = 1 Head of Garlic\n| ingredient4 = 1 Shallot\n| id = 3033\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Schüssel mit exotischer scharfer Gewürzmischung zum Sautieren]]\n[[es:Cuenco de mezcla de salteado ácida elaborada]]\n[[fr:Bol de mélange relevé pour sauté élégant]]",
+"title": "Bowl of Fancy Tangy Sautee Mix"
+}

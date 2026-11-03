@@ -1,0 +1,485 @@
+{
+"body": [
+{
+"chat_link": "[&AgF9LwAA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/116B302CC6143B753304B771760EB9735918B4FB/63102.png",
+"id": 12157,
+"level": 0,
+"name": "Jar of Vinegar",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgHnTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/33150406A468526276071A0D0AD678B9F1D6EDCA/65915.png",
+"id": 19687,
+"level": 0,
+"name": "Silver Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgH3TAAA]",
+"description": "Refine into Ingots.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DA1D9FCF3006222DEE691016EFF8AEE162C3431D/65931.png",
+"id": 19703,
+"level": 0,
+"name": "Silver Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHWXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C40532E544D99B9A92B703131409390EF36E513A/66934.png",
+"id": 24278,
+"level": 0,
+"name": "Tiny Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHiXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0FB13FB0EDEA8E56676A05F80E3FDC5E92E98E1/66945.png",
+"id": 24290,
+"level": 0,
+"name": "Vial of Weak Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHoXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE87D4DE89F16B7B6E1EF6D133F3B28AA3971C9/66951.png",
+"id": 24296,
+"level": 0,
+"name": "Tiny Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHyXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9BAD413B9A2F18BE1DA83C0638560F98ED300A15/66959.png",
+"id": 24306,
+"level": 0,
+"name": "Onyx Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgECXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF65D6D16101C608709619BAE2045E00511E7CD5/66973.png",
+"id": 24322,
+"level": 0,
+"name": "Destroyer Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEHXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/43D43127072CF33D58B25E2FCC940435EB3D4548/66978.png",
+"id": 24327,
+"level": 0,
+"name": "Crystal Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEMXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B0C2B9E7178D4A2010696936066073A0461AF3A/63277.png",
+"id": 24332,
+"level": 0,
+"name": "Pile of Foul Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgERXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A492E71E419ECFD94D8A2B1400A09A0C20373CE/66983.png",
+"id": 24337,
+"level": 0,
+"name": "Corrupted Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEWXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0A5B3C374C1A7F07BA3D06162857D1599B01F91D/66988.png",
+"id": 24342,
+"level": 0,
+"name": "Bone Chip",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEaXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/386E92E109C9937C4477E5F82A0291AA05D44A92/66992.png",
+"id": 24346,
+"level": 0,
+"name": "Tiny Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEgXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0394D7C230A11502C4CF07003B66BC64F4F7C7C2/65893.png",
+"id": 24352,
+"level": 0,
+"name": "Tiny Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgE3qQAA]",
+"description": "A sugary, delicious, chewy treat.",
+"details": {
+"apply_count": 1,
+"description": "Movement speed increased by 10%. Stacks duration. Causes sugar crash.",
+"duration_ms": 10000,
+"icon": "https://render.guildwars2.com/file/6FF5C83F9A13E64D3AFF15B959AC35DAE91DA4DC/500244.png",
+"name": "Sugar Rush",
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1A53C833985AF29F60470C5DEEA61704F6B97E1E/591442.png",
+"id": 43319,
+"level": 0,
+"name": "Piece of Zhaitaffy",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgFvSQEA]",
+"description": "Double-click to activate a Scan special-action skill and a blue map circle to help find Buried Treasure. Consumed upon interacting with Buried Treasure.\n<c=@Flavor>Elonians and Tyrians both seek historic artifacts.</c>",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D048B33A0266139B6A9C9ECA18C2BCADB91C9D34/1766401.png",
+"id": 84335,
+"level": 0,
+"name": "Treasure Hunting Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFjUgEA]",
+"description": "Used to purchase rewards from Wintersday vendors in Divinity's Reach.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4E72696614D536500D093EE6C95FA9DD650E913B/1914827.png",
+"id": 86627,
+"level": 0,
+"name": "Snow Diamond",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 49
+},
+{
+"chat_link": "[&AgGoZwEA]",
+"description": "Can be used in crafting or traded with vendors in Grothmar Valley.\n\n<c=@Flavor>Grown over devourer nests, these peppers are particularly piquant.</c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/410EE218CCA01BB60A0BE00D0BA076B1DCCFD648/2199299.png",
+"id": 92072,
+"level": 0,
+"name": "Hatched Chili",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGdaAEA]",
+"description": "Used for crafting Restored Boreal weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C6C44ED5740BBEBA332DBC5A3558930A6A765611/2220625.png",
+"id": 92317,
+"level": 0,
+"name": "Eitrite Ingot",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 64
+},
+{
+"chat_link": "[&AgFVbgEA]",
+"description": "A ritual vial used to convert kodan into boneskinners. Combine this with a Boneskinner Weapon, Amalgamated Draconic Lodestones, and Gifts of Bones in the Mystic Forge to unleash their full potential.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/06C7050937E91E1D97F4A0F27618744B5C50B4C0/2314490.png",
+"id": 93781,
+"level": 0,
+"name": "Boneskinner Ritual Vial",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF2bgEA]",
+"description": "Grants progress toward the Significant Otter achievement. If the achievement is complete, reveals a vision of Otter.\n<c=@flavor>The norn may have fled these lands, but their memories remain.</c>",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DF720660E9FDEED4BDFB50D27233F3EB0FDF459A/2314412.png",
+"id": 93814,
+"level": 0,
+"name": "Memory of Otter",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHTbwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9DDB1C7505A90302C2071E1A680C0057B900C62C/2351828.png",
+"id": 94163,
+"level": 0,
+"name": "Prismaticite Crystal",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=12157,19687,19703,24278,24290,24296,24306,24322,24327,24332,24337,24342,24346,24352,43319,84335,86627,92072,92317,93781,93814,94163"
+}

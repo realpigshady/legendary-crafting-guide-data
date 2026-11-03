@@ -1,0 +1,241 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Curious Mursaat Ruin Shard",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Endless Yagon Tonic",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"Endless Yagon Tonic to be added to wardrobe"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor28"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mini Janthir Warg",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"Mini Janthir Warg to be added to wardrobe"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor32"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mini Barbed Vale",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"Mini Barbed Vale to be added to wardrobe"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor36"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist those surveying Mistburned Barrens in keeping their camp safe and running|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor6"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Mistburned Barrens",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Janthir Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Portable Wizard's Tower Exchange/Janthir Exchanges#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Mursaat Obsidian Chunk",
+"Has item value": "3"
+},
+{
+"Has item currency": "Titan Heatstone",
+"Has item value": "3"
+},
+{
+"Has item currency": "Curious Mursaat Remnants",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Trader Sampaguita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Ward Trader Sampaguita#vendor14"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Mistburned Barrens",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Janthir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Ruin Shard"
+],
+"_subject": "Wizard's Gobbler/Janthir#vendor9"
+}
+]
+}

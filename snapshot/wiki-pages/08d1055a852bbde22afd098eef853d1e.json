@@ -1,0 +1,5 @@
+{
+"revid": 2884174,
+"text": "{{Item infobox\n| type = trophy\n| description = A gift of nature used to create [[Kudzu]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[leatherworker]] rating of 400 to craft.\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: Kudzu\n| bound = account\n| id = 19627\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Nature\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 400\n| ingredient1 = 250 Omnomberry\n| ingredient2 = 1 Gift of Thorns\n| ingredient3 = 250 Ancient Wood Plank\n| ingredient4 = 250 Cured Hardened Leather Square\n| id = 1712\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Natur]]\n[[es:Don de la naturaleza]]\n[[fr:Don de nature]]",
+"title": "Gift of Nature"
+}

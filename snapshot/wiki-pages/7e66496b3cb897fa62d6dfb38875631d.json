@@ -1,0 +1,5 @@
+{
+"revid": 2974134,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Healing]]<br>+70 [[Concentration]]<br>+10% [[Experience]] from Kills|id=49296}}\n| type = food\n| food type = meal\n| level = 80\n| rarity = Masterwork\n| salvage = Compost\n| id = 87076\n| requires = lws4\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Bowl of Poultry Satay\n| disciplines = Chef\n| rating = 400\n| type = Meal\n| ingredient1 = 2 Jar of Red Curry Paste\n| ingredient2 = 1 Pile of Tangy Seasoning\n| ingredient3 = 1 Bottle of Coconut Milk\n| ingredient4 = 3 Slab of Poultry Meat\n| id = 12658\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n== Trivia ==\n* Was made tradable in the January 19, 2021 patch. \n\n[[de:Schüssel mit Geflügel-Satay]]\n[[es:Cuenco de pollo satay]]\n[[fr:Bol de saté de volaille]]",
+"title": "Bowl of Poultry Satay"
+}

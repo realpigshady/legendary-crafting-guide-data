@@ -1,0 +1,53 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Gift of Shadowstones",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shadowstone Orb",
+"Has item value": "1"
+},
+{
+"Has item currency": "Shadowstone Containment Frame",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Restoration",
+"Has item value": "1"
+},
+{
+"Has item currency": "Seer Runestone",
+"Has item value": "200"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist the Stewards of Galdra around the forge|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Gift of Shadowstones"
+],
+"_subject": "Steward Brizio#vendor10"
+}
+]
+}

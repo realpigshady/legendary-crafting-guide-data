@@ -1,0 +1,835 @@
+{
+"body": [
+{
+"chat_link": "[&AgH0PwEA]",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2E5391DBF100D5A4413A07C3A13FC3513F29C394/1729332.png",
+"id": 81908,
+"level": 80,
+"name": "Aurora",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 825
+},
+{
+"chat_link": "[&AgGoYwEA]",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A5587E6C220ECF0601523947DE33A0B34048800D/2149863.png",
+"id": 91048,
+"level": 80,
+"name": "Vision",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 825
+},
+{
+"chat_link": "[&AgFiZAEA]",
+"description": "Swirls around your finger, a constant reminder of the impact an individual can have.",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/962F99162FDE4AF471DF9E3BCA712CD6F5050B53/2149899.png",
+"id": 91234,
+"level": 80,
+"name": "Coalescence",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE/awEA]",
+"description": "<c=@flavor>Rise above it all.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"infusion_slots": [
+{
+"flags": [
+"Enrichment"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Amulet"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C0D5BBDDD412439FE5F620253EFADAEF6CB760E/2270218.png",
+"id": 92991,
+"level": 80,
+"name": "Transcendence",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGxawEA]",
+"description": "<c=@flavor>Combine your strength and vanquish your foes.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/170765A1B5C5A90C430BD04479DABC10B1AF7E01/2270744.png",
+"id": 93105,
+"level": 80,
+"name": "Conflux",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF1cwEA]",
+"description": "This may have reached you when many legendary items were added to your armory. It is of no further consequence and will disappear in time.",
+"details": {
+"attribute_adjustment": 10.395,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"type": "Accessory"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3ECFB1AF398D30D1DD861926600413A36125870/1766739.png",
+"id": 95093,
+"level": 0,
+"name": "Legendary Equipment Unlocked!",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGUdAEA]",
+"description": "<c=@flavor>The fulfillment of a legacy spanning thousands of years flies alongside you.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"infusion_slots": [
+{
+"flags": [
+"Enrichment"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Amulet"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/046C2DACF8C064D23BD8374C7895DA2F13AD146F/2449345.png",
+"id": 95380,
+"level": 80,
+"name": "Prismatic Champion's Regalia",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEOogEA]",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2869C8BF337BBA66173504119A0380C7BB13EB31/3745902.png",
+"id": 107022,
+"level": 80,
+"name": "Endless Summer",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgHUqQEA]",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5B3A01AC083B965D2077F2D402D00847E2D41B01/3769860.png",
+"id": 109012,
+"level": 80,
+"name": "Strife Unending",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 825
+},
+{
+"chat_link": "[&AgEOqgEA]",
+"description": "<c=@flavor>Candidates for Divitium Nava were bestowed this star as a badge of recognition.</c>",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2E4C9D4766C40BB9CBAE28749D78B7B32A9CE608/3769859.png",
+"id": 109070,
+"level": 80,
+"name": "Stella Radians",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=81908,91048,91234,92991,93105,95093,95380,107022,109012,109070"
+}

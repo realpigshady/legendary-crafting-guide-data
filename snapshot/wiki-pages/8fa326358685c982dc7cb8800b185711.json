@@ -1,0 +1,5 @@
+{
+"revid": 2597499,
+"text": "{{Item infobox\n| icon = Azurite Orb.png\n| rarity = exotic\n| type = crafting material\n| description = Use in the mystic forge with an agony infusion, an ascended ring, and a philosopher's stone to craft an [[Attuned equipment|attuned]] ascended ring.<br>Can be bought inside the [[Fractals of the Mists]] once you have trained [[Agony Channeler]] in the [[Fractal Attunement Mastery]] line.\n| bound = account\n| id = 73381\n| requires = hot, pof\n}}\n\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Any slotted agony infusion on the ring will be destroyed when attuning in the Mystic Forge. Use an [[Infusion Extraction Device]] if you want to save the infusion.\n{{bug|The item description says that you need to train [[Agony Channeler]] in order to be able to purchase the item, but the vendor tab is unlocked for purchase as soon as you finish training [[Follows Advice]].}}\n\n[[de:Gequälte Essenz]]\n[[es:Esencia agónica]]\n[[fr:Essence agonisante]]",
+"title": "Agonized Essence"
+}

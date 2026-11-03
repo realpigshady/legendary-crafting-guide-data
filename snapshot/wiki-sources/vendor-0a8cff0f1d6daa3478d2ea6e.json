@@ -1,0 +1,131 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Shard of Lowland Shore",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "3"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "3"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1750"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guiding Breath"
+],
+"Has weekly purchase cap": [
+7
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Den"
+],
+"Sells item": [
+"Shard of Lowland Shore"
+],
+"_subject": "Guiding Breath#vendor24"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "3"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "3"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1750"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shading Willow"
+],
+"Has weekly purchase cap": [
+7
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Shard of Lowland Shore"
+],
+"_subject": "Shading Willow#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "3"
+},
+{
+"Has item currency": "Amalgamated Gemstone",
+"Has item value": "3"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1750"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vast Caldera"
+],
+"Has weekly purchase cap": [
+7
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Coursing Upland"
+],
+"Sells item": [
+"Shard of Lowland Shore"
+],
+"_subject": "Vast Caldera#vendor22"
+}
+]
+}

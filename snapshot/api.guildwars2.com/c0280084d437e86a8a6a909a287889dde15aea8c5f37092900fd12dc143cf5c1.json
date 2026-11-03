@@ -1,0 +1,2602 @@
+{
+"body": [
+{
+"chat_link": "[&AgGwTAAA]",
+"description": "A gift of light used to create Sunrise and Endless Summer.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9BBF3A1FF80564570D5569EC7FA8F17858C63EC9/455813.png",
+"id": 19632,
+"level": 0,
+"name": "Gift of Light",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHPTAAA]",
+"description": "Elonian wine, purchased from Miyani in Lion's Arch.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CC720B5A5810A84FD97AB00FA43F1679C48074DE/455843.png",
+"id": 19663,
+"level": 0,
+"name": "Bottle of Elonian Wine",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 313
+},
+{
+"chat_link": "[&AgHkTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7B0701F4092237431EDC72340BC89AA126EA4EF0/65913.png",
+"id": 19684,
+"level": 0,
+"name": "Mithril Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgH9TAAA]",
+"description": "Refined from Logs.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DB5C0A4EB6E7F730DAC3B3DE7032482792E76FA7/220462.png",
+"id": 19709,
+"level": 0,
+"name": "Elder Wood Plank",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEFTQAA]",
+"description": "Used in crafting for making Hylek items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/582641FE0D5FD2AB0903CA0050049167A89CB97C/67028.png",
+"id": 19717,
+"level": 0,
+"name": "Sun Bead",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgEXTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/12B5A77DE31564F344BFD46875C3200E9105E0A8/65952.png",
+"id": 19735,
+"level": 0,
+"name": "Cured Thick Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgEjTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/17570FF5167A03B42605BEE44AFFF0547E07C0F4/65960.png",
+"id": 19747,
+"level": 0,
+"name": "Bolt of Silk",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHVTQAA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE16FCC326D80A3906B17B6A75E8A91980BE4670/434362.png",
+"id": 19925,
+"level": 0,
+"name": "Obsidian Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 300
+},
+{
+"chat_link": "[&AgE/UQAA]",
+"description": "Sold by Miyani in Lion's Arch.\n<c=@flavor>Zommoros loves crystals.</c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/045C05C2F83A59FC4B6F15073465C5D3040E4DF5/65674.png",
+"id": 20799,
+"level": 0,
+"name": "Mystic Crystal",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgELUwAA]",
+"description": "Use to construct a siege golem build site. It has autoswitching capabilities to attack with rockets at a range of 1500 or to melee. Requires 125 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/B00B18CAC691356363F626EDCC67B71C11AED5A5/1201509.png",
+"id": 21259,
+"level": 0,
+"name": "Siege Golem Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgHSXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3F95D5E3E1B07294C7625B36004F6AE76C05E117/434534.png",
+"id": 24274,
+"level": 0,
+"name": "Pile of Radiant Dust",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHTXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DDCA6504E718CA6DFF08F1483A2F356D0F4AEB4A/434535.png",
+"id": 24275,
+"level": 0,
+"name": "Pile of Luminous Dust",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHUXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3501C2BBADF95BE5F14E31484850E851EFCA33CB/434536.png",
+"id": 24276,
+"level": 0,
+"name": "Pile of Incandescent Dust",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHVXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/080D00670558CD9E580D5662030394B2206E92A6/434537.png",
+"id": 24277,
+"level": 0,
+"name": "Pile of Crystalline Dust",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgG8XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 20
+},
+{
+"attribute": "Precision",
+"modifier": 14
+},
+{
+"attribute": "CritDamage",
+"modifier": 14
+}
+],
+"buff": {
+"description": "+20 Power\n+14 Ferocity\n+14 Precision",
+"skill_id": 154
+},
+"id": 406
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Ruby",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7702E49901413CC14B2F5B7BFD059522333210E6/220947.png",
+"id": 24508,
+"level": 80,
+"name": "Ruby Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgG+XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 14
+},
+{
+"attribute": "Precision",
+"modifier": 20
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 14
+}
+],
+"buff": {
+"description": "+20 Precision\n+14 Condition Damage\n+14 Power",
+"skill_id": 223
+},
+"id": 409
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Coral",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A5634473D2B67BEC9CE2335473673CB665F4D50C/220949.png",
+"id": 24510,
+"level": 80,
+"name": "Coral Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHAXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 14
+},
+{
+"attribute": "Vitality",
+"modifier": 14
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 20
+}
+],
+"buff": {
+"description": "+20 Condition Damage\n+14 Power\n+14 Vitality",
+"skill_id": 199
+},
+"id": 441
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Chrysocola",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DD7DB26B7BDCED3E15CB971D0016299F38490D58/220951.png",
+"id": 24512,
+"level": 80,
+"name": "Chrysocola Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHDXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 14
+},
+{
+"attribute": "Precision",
+"modifier": 20
+},
+{
+"attribute": "Toughness",
+"modifier": 14
+}
+],
+"buff": {
+"description": "+20 Precision\n+14 Toughness\n+14 Power",
+"skill_id": 202
+},
+"id": 421
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Emerald",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/327A0AA63E50E268EC02C4A5F0DBD246F207AEBB/220952.png",
+"id": 24515,
+"level": 80,
+"name": "Emerald Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHEXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 14
+},
+{
+"attribute": "Toughness",
+"modifier": 14
+},
+{
+"attribute": "Healing",
+"modifier": 20
+}
+],
+"buff": {
+"description": "+20 Healing\n+14 Power\n+14 Toughness",
+"skill_id": 207
+},
+"id": 425
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sapphire",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D13B6E523AE806CFF3D21E12793571037FAA46F7/220953.png",
+"id": 24516,
+"level": 80,
+"name": "Sapphire Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHIXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 20
+},
+{
+"attribute": "Vitality",
+"modifier": 14
+},
+{
+"attribute": "CritDamage",
+"modifier": 14
+}
+],
+"buff": {
+"description": "+20 Power\n+14 Ferocity\n+14 Vitality",
+"skill_id": 215
+},
+"id": 437
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Beryl",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7D130AE0AE5073703219A0BC48C3CD6C95215CFD/220955.png",
+"id": 24520,
+"level": 80,
+"name": "Beryl Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgHKXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 14
+},
+{
+"attribute": "Precision",
+"modifier": 20
+},
+{
+"attribute": "CritDamage",
+"modifier": 14
+}
+],
+"buff": {
+"description": "+20 Precision\n+14 Ferocity\n+14 Power",
+"skill_id": 231
+},
+"id": 417
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Opal",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62CE38CB99469CBADDAD6FF4A221F75B636AA55D/220957.png",
+"id": 24522,
+"level": 80,
+"name": "Opal Orb",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgEjmwAA]",
+"description": "Use to construct an arrow cart build site. The arrow cart's primary function is to deal moderate area damage to infantry. Range 2,500. Requires 30 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/01FB9A4995DFF3BEBB58A31605E0C07CF5724B65/561980.png",
+"id": 39715,
+"level": 0,
+"name": "Arrow Cart Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgElmwAA]",
+"description": "Use to construct a trebuchet build site. The trebuchet's primary function is to deal heavy area damage to walls or moderate damage to gates. Range 10,000. Requires 60 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/F5F5F3F5AA77BB4FA0D8C8B8A8B3DA4A60CAC2A4/561981.png",
+"id": 39717,
+"level": 0,
+"name": "Trebuchet Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgGeowAA]",
+"description": "A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/231E351E042921F8BE94B2E3717D2DF734D4B9F4/561863.png",
+"id": 41886,
+"level": 0,
+"name": "Bauble Bubble",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgETpAAA]",
+"description": "Use to construct a ballista build site. The ballista's primary function is to deal heavy single-target damage to siege equipment and infantry. Range 3,000. Requires 30 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/26A639067B32FD48B36C150C0A10CCC63C9F31A8/561982.png",
+"id": 42003,
+"level": 0,
+"name": "Ballista Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgEUpAAA]",
+"description": "Use to construct a catapult build site. The catapult's primary function is to deal heavy area damage to walls or moderate damage to gates. Range 4,000. Requires 40 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/2F071FC3D4291869CC33E7CBC8DB6AF5211AF704/561979.png",
+"id": 42004,
+"level": 0,
+"name": "Catapult Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgH2qgAA]",
+"description": "Grants one character level if below level 80 or one spirit shard if level 80.\nOnly usable in PvE and WvW.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1932B731E2F70F2F1E3D453A4B7C26B24CF647C0/603246.png",
+"id": 43766,
+"level": 0,
+"name": "Tome of Knowledge",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF6sAAA]",
+"description": "Double-click to gain 200 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DAB46301D2175B2CAAC4BACBA02F6A0A2F1DBEB8/631151.png",
+"id": 45178,
+"level": 0,
+"name": "Exotic Essence of Luck",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFatgAA]",
+"description": "Refine into crystalline ingots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BE52D559C4196100120ADF3E91AC0CC08F4FEF2/631469.png",
+"id": 46682,
+"level": 0,
+"name": "Crystalline Ore",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGKtgAA]",
+"description": "Refined from piles of bloodstone dust.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C03D6909B0A36EED87538C8D1FFFC27390FDF4E/631479.png",
+"id": 46730,
+"level": 0,
+"name": "Bloodstone Brick",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGMtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DD0CE05EB7F841A99D58A106EE0CDFBF6A96F9FB/631481.png",
+"id": 46732,
+"level": 0,
+"name": "Dragonite Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGOtgAA]",
+"description": "Refined from fragments.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AF8B122915F042AF6749C0AE4583FA963DADF56/631483.png",
+"id": 46734,
+"level": 0,
+"name": "Empyreal Star",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGbtgAA]",
+"description": "Used in the crafting of ascended items. Can be purchased from master craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/090DF0E7AFD6AD9A6C9FC31CCE510A05663D0A0E/631495.png",
+"id": 46747,
+"level": 0,
+"name": "Thermocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGgtgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/622C35BD7B48F77C07C94CA3C73F9D9ADBCA4403/631529.png",
+"id": 46752,
+"level": 0,
+"name": "Augur's Stone",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgGlvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Spiders.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F13AC2EC1990C5D97DFCF547D30CCA06340EB20E/648142.png",
+"id": 48805,
+"level": 0,
+"name": "High-Quality Plastic Fangs",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGmvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Souls.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C04007291E2AA26AEA65FB0D62E7303B303B45F/648143.png",
+"id": 48806,
+"level": 0,
+"name": "Tyria's Best Nougat Center",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGnvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of the Moon.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9EA2050504ECB1A0B45538B2235C101795A92106/648144.png",
+"id": 48807,
+"level": 0,
+"name": "Gibbering Skull",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHfCQEA]",
+"description": "Used in the Mystic Forge to create the Eternal Sands focus and to make Polish, used in precursor crafting.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/35BC2D35511C806348730A5E63152B2E260D4A5C/919363.png",
+"id": 68063,
+"level": 0,
+"name": "Amalgamated Gemstone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 200
+},
+{
+"chat_link": "[&AgGAEwEA]",
+"description": "Combine with the Gift of War, Gift of Battle, and a Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of the Mists.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6D09364B7B3D423AA15375AE60723993B0C56C75/1302183.png",
+"id": 70528,
+"level": 0,
+"name": "Gift of Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGRFAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E0EE103FD3B8D1A83926BEFDDA7D5AFBE3946ED1/1302178.png",
+"id": 70801,
+"level": 0,
+"name": "Gift of Claws",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFgFQEA]",
+"description": "Combine with the Gift of Glory, Gift of Battle, and a Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of the Mists.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4919DC17C851F80B4EC7BC02AC66012E26210960/1302187.png",
+"id": 71008,
+"level": 0,
+"name": "Gift of War",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHTFQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7254B1CD565840690A9E66FD02B462A834334779/1302177.png",
+"id": 71123,
+"level": 0,
+"name": "Gift of Bones",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHZFwEA]",
+"description": "Filtered out of Silky Sand.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D838CB1BF7D49E1725EBB1F3ABD00C55EB67CE1E/1205401.png",
+"id": 71641,
+"level": 0,
+"name": "Pile of Coarse Sand",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 13
+},
+{
+"chat_link": "[&AgHnFwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/801E26996E5F172CC6450C104EBAB4E44F023950/1302176.png",
+"id": 71655,
+"level": 0,
+"name": "Gift of Blood",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFrGAEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A58234EAA165603433A0B37E0E7CEB8C455E600/1302186.png",
+"id": 71787,
+"level": 0,
+"name": "Gift of Venom",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGxHQEA]",
+"description": "Used to craft pristine mist essence, a key component in legendary backpacks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/411E3F3A0B029113093E31530AAF022E7DDE241A/1200194.png",
+"id": 73137,
+"level": 0,
+"name": "Cube of Stabilized Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgHsHQEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D20A5EF808673908059EE148A8B71242C3A4554C/1302181.png",
+"id": 73196,
+"level": 0,
+"name": "Gift of Dust",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEUHgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DFC0F6DF2BEE3C83DB2EA28150FEB7A94FEA9F6/1302185.png",
+"id": 73236,
+"level": 0,
+"name": "Gift of Totems",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEgHgEA]",
+"description": "Found in Chests of the Mists and salvaged from ascended rings. Used to stabilize dark energy for the safe construction of items. Can also be traded for Fractal Encryptions.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1995007E91F8EE320FBA5805AEF27EECCF9CD3A0/1200208.png",
+"id": 73248,
+"level": 0,
+"name": "Stabilizing Matrix",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1000
+},
+{
+"chat_link": "[&AgG1IwEA]",
+"description": "Use to construct a flame ram build site. The flame ram's primary function is to deal heavy damage to gates. Unable to damage walls. Range 360. Requires 40 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/CC3A6023CBFDD7386CA12D6E08A63E55E6E34875/1201508.png",
+"id": 74677,
+"level": 0,
+"name": "Flame Ram Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgEjJgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CB33CA326C61A5350B4E40C0C621605CB456C25/1302184.png",
+"id": 75299,
+"level": 0,
+"name": "Gift of Scales",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHgJwEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1275A0309ADB2AA6024974C353170E0D2364DCB/1302182.png",
+"id": 75744,
+"level": 0,
+"name": "Gift of Fangs",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHDKgEA]",
+"description": "Use to construct a shield generator build site. The generator's primary function is to project force fields in order to disrupt enemy movement and support allies. Range 3,750. Requires 40 supply to complete.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/AE01E2CC6B0E69457BB56334E5ECC30FC7FE21A5/1201510.png",
+"id": 76483,
+"level": 0,
+"name": "Shield Generator Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgGFLAEA]",
+"description": "Used to refine Crystalline Ore into Crystalline Ingots. Crafted from Obsidian Shards, Airship Oil, Auric Dust and Ley Line Sparks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C00CF0A5804C7794EEE7605945A66098B302D00E/1204964.png",
+"id": 76933,
+"level": 0,
+"name": "Fulgurite",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGqLgEA]",
+"description": "<c=@flavor>It took a lot of tears to create this much salt.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"infusion_slots": [
+{
+"flags": [
+"Enrichment"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Amulet"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C6AC7BB0B70C95D4DD4D07209546B6FB56A1E0D/1313083.png",
+"id": 77482,
+"level": 80,
+"name": "Vial of Salt",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgGwNQEA]",
+"description": "Can be consumed for unbound magic or traded with Scholar Rakka.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DA92F9059C30EF00DBC6CB0D233F235E17F12DD/1465570.png",
+"id": 79280,
+"level": 0,
+"name": "Blood Ruby",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgE6NgEA]",
+"description": "Used in the Mystic Forge to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04296A0273A1DB6866E5180B73F5A3E59E2A0C95/1493223.png",
+"id": 79418,
+"level": 0,
+"name": "Mystic Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgFtNgEA]",
+"description": "Can be consumed for unbound magic or traded with Scholar Surra.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EC4BA02B3BFEE603551B53BBF5305679AE700776/1493259.png",
+"id": 79469,
+"level": 0,
+"name": "Petrified Wood",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgEbOAEA]",
+"description": "Used to brew a thaw elixir, traded with Slooshoo, or consumed for unbound magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/414B0D0E3E38F73EC360C5BAE8A1DE98D324DCE6/1601463.png",
+"id": 79899,
+"level": 0,
+"name": "Fresh Winterberry",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgHMOQEA]",
+"description": "Can be consumed for unbound magic or traded with Quartermaster Hitchens.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B3D1DB6458480968B2FC0C0115476EC892CD0555/1633883.png",
+"id": 80332,
+"level": 0,
+"name": "Jade Shard",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHnPAEA]",
+"description": "Can be consumed for unbound magic or traded with vendors.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D667F038D601D31EC35F08E96EB1C832026E3A21/1677062.png",
+"id": 81127,
+"level": 0,
+"name": "Fire Orchid Blossom",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHCPQEA]",
+"description": "Double-click to receive a Grandmaster Mark of your choice.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/11BA712EB7DB6BE8C166FA206F3EAECE020665E2/1701120.png",
+"id": 81346,
+"level": 0,
+"name": "Box of Grandmaster Marks",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFGPgEA]",
+"description": "Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3E87E605ADA9FEB1862916408E3E86C5713D17A/1701106.png",
+"id": 81478,
+"level": 0,
+"name": "Gift of Warfare",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEqPwEA]",
+"description": "Can be consumed for unbound magic or traded with vendors.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F3B0E4096379AA58AFC6CE1ED1FBC5B015C40840/1729789.png",
+"id": 81706,
+"level": 0,
+"name": "Orrian Pearl",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgEnQgEA]",
+"description": "Combine with Condensed Spirit Energy, Star of Glory, and Jar of Distilled Glory in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/65E362A0FB4B22104205CAD920330935A3C10B21/1766745.png",
+"id": 82471,
+"level": 0,
+"name": "Record of League Participation",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHuQwEA]",
+"description": "Combine with Record of League Participation, Star of Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/06AF4818461DAB62AD720BD06564E4DB3F613D3A/1766743.png",
+"id": 82926,
+"level": 0,
+"name": "Jar of Distilled Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGKRAEA]",
+"description": "Used to upgrade WvW and PvP ascended armor into Legendary Armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3ECFB1AF398D30D1DD861926600413A36125870/1766739.png",
+"id": 83082,
+"level": 0,
+"name": "Glob of Condensed Spirit Energy",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFURQEA]",
+"description": "Used in crafting rare Crystal Desert gear and components.\nAlso sought after by Priory Researcher Elisa.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DFA737F4360575AFCF7BDD470B9DF3140EF45530/1767170.png",
+"id": 83284,
+"level": 0,
+"name": "Ley-Infused Sand",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGkRgEA]",
+"description": "Combine with Certificate of Heroics, Condensed Spirit Energy, and 250 Memories of Battle in the Mystic Forge to create the Gift of War Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D20800DA37F719026243210FA132907E04D4C6BE/1766738.png",
+"id": 83620,
+"level": 0,
+"name": "Certificate of Honor",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGgRwEA]",
+"description": "Combine with Record of League Participation, Jar of Distilled Glory, and Condensed Spirit Energy in the Mystic Forge to create the Gift of Competitive Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1378CB153292790C23BB9F51A365110E0AACA361/1766747.png",
+"id": 83872,
+"level": 0,
+"name": "Star of Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGDSAEA]",
+"description": "Combine with 1 Certificate of Honor, 1 Condensed Spirit Energy, and 250 Memories of Battle in the Mystic Forge to create the Gift of War Dedication.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1198A72552C0625631360D0FDD075DCB41C64B32/1766737.png",
+"id": 84099,
+"level": 0,
+"name": "Certificate of Heroics",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHWSQEA]",
+"description": "Double-click to exchange for Living World Season 1 items.",
+"details": {
+"type": "Default",
+"vendor_ids": [
+549
+]
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB7D723231106C11A173ECF1CC2D947EEEA1796C/1767458.png",
+"id": 84438,
+"level": 0,
+"name": "Black Lion Commemorative Sprocket",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF/TgEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/39280A6342D79BDF657A49E7CBABF0DF26A5F628/1894678.png",
+"id": 85631,
+"level": 0,
+"name": "Gift of the Desert",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgE1UAEA]",
+"description": "Can be traded with vendors in the Domain of Istan, used for crafting, or consumed for Volatile Magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/380A7E3B250B050C2C39B1106CA39AED65C8396B/1894933.png",
+"id": 86069,
+"level": 0,
+"name": "Kralkatite Ore",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgE6UQEA]",
+"description": "In the Mystic Forge, combine a Gift of the Desert, a Gift of the Rider, a Bloodstone Shard, and 250 Funerary Incenses to create the Gift of Desert Mastery.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9E0761140A5609C4161130C5BB4FC44C1E69A338/1894682.png",
+"id": 86330,
+"level": 0,
+"name": "Gift of the Rider",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHBUwEA]",
+"description": "Can be traded with vendors in Sandswept Isles or consumed for volatile magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3148F3239A104D6C7CE4F65DB41BAAB16039C81E/1947318.png",
+"id": 86977,
+"level": 0,
+"name": "Difluorite Crystal",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFdVgEA]",
+"description": "Can be traded with vendors in the Domain of Kourna or consumed for volatile magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F5D7B94E53F8B380497CADDE2A562222B30EB793/1998867.png",
+"id": 87645,
+"level": 0,
+"name": "Inscribed Shard",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgF7WwEA]",
+"description": "Can be traded with vendors in Jahai Bluffs or consumed for volatile magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D75705348E1AE54CF0679FA65C24E0739A3B79F/2038791.png",
+"id": 88955,
+"level": 0,
+"name": "Lump of Mistonium",
+"rarity": "Exotic",
+"restrictions": [
+"Mesmer"
+],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHBXQEA]",
+"description": "Can be traded with vendors in Thunderhead Peaks or consumed for volatile magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C2FD403DACFABF74B9E3824914FB60B3C285804/2083245.png",
+"id": 89537,
+"level": 0,
+"name": "Branded Mass",
+"rarity": "Exotic",
+"restrictions": [
+"Mesmer"
+],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGfYgEA]",
+"description": "Can be traded with camp vendors in Dragonfall or consumed for volatile magic.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E76806D6DF4E27C70EA70A9FAC1F0D036C18659E/2140686.png",
+"id": 90783,
+"level": 0,
+"name": "Mistborn Mote",
+"rarity": "Exotic",
+"restrictions": [
+"Mesmer"
+],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFeawEA]",
+"description": "In the Mystic Forge, combine a Vial of Salt, an Emblem of Victory, a Mist Diamond, and a Mist-Enhanced Orichalcum to create a Salt-Forged Mist Diamond.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/68D067612DDDA73A25A83218212E130EEFF305E0/2270827.png",
+"id": 93022,
+"level": 0,
+"name": "Emblem of Victory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFqawEA]",
+"description": "In the Mystic Forge, combine a Vial of Salt, an Emblem of Victory, a Mist Diamond, and a Mist-Enhanced Orichalcum to create a Salt-Forged Mist Diamond.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7246F6508396F0EC3C77880DF01466AC6045291/2270291.png",
+"id": 93034,
+"level": 0,
+"name": "Mist Diamond",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHbawEA]",
+"description": "In the Mystic Forge, combine a Gift of Warfare, an Emblem of the Conqueror, a Mist Pearl, and a Mist-Enhanced Mithril to create a War Commendation.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4B6D93A838E3993D65A5416D4A7BAC1FB3A97CFA/2270836.png",
+"id": 93147,
+"level": 0,
+"name": "Mist Pearl",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHfawEA]",
+"description": "In the Mystic Forge, combine a Vial of Salt, an Emblem of Victory, a Mist Diamond, and a Mist-Enhanced Orichalcum to create a Salt-Forged Mist Diamond.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/37E30C57B5FEBE16C662F30C24B7A317A137667D/2270367.png",
+"id": 93151,
+"level": 0,
+"name": "Mist-Enhanced Orichalcum",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFAbAEA]",
+"description": "In the Mystic Forge, combine a Gift of Warfare, an Emblem of the Conqueror, a Mist Pearl, and a Mist-Enhanced Mithril to create a War Commendation.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E178FE6A2BA14F0D6B251AA5FB30B070D5AC0D9A/2270368.png",
+"id": 93248,
+"level": 0,
+"name": "Mist-Enhanced Mithril",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFFdgEA]",
+"description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF0EDBF868E8E5D53BDD9F4CC00DAAD5B6ABAD78/2597019.png",
+"id": 95813,
+"level": 0,
+"name": "Hydrocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgEwiAEA]",
+"description": "Using an elite skill summons a pool on the target enemy that inflicts poison and cripple. Pool duration scales with the recharge of the elite skill.",
+"flags": [
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CEF1E6DA2DBF143661DF26E668034A621812B61A/3122370.png",
+"id": 100400,
+"level": 60,
+"name": "Relic of the Sunless",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Relic",
+"vendor_value": 200
+},
+{
+"chat_link": "[&AgFCigEA]",
+"description": "An amalgamation of rift essences used for crafting.\nThe recipe can be purchased from Lyhr in the Wizard's Tower.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/41279A5101E4A871C0440FAA3F921DBC610C0D49/3123730.png",
+"id": 100930,
+"level": 0,
+"name": "Amalgamated Rift Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHWnAEA]",
+"description": "Can be spent at vendors in Starlit Weald or consumed to add 5 antiquated ducats to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AA420C667F369E59BC075D6B06117613ED71DC0D/3710076.png",
+"id": 105686,
+"level": 0,
+"name": "Raw Enchanting Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGRnwEA]",
+"description": "Can be spent at vendors in Shipwreck Strand or consumed to add 5 aether-rich sap to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2714DAB2CB9C40510190E7C4E30F1BFAED732B99/3710068.png",
+"id": 106385,
+"level": 0,
+"name": "Chromatic Sap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19632,19663,19684,19709,19717,19721,19735,19747,19925,20799,21259,24274,24275,24276,24277,24508,24510,24512,24515,24516,24520,24522,39715,39717,41886,42003,42004,43766,45178,46682,46730,46732,46734,46747,46752,48805,48806,48807,68063,70528,70801,71008,71123,71641,71655,71787,73137,73196,73236,73248,74677,75299,75744,76483,76933,77482,79280,79418,79469,79899,80332,81127,81346,81478,81706,82471,82926,83082,83284,83620,83872,84099,84438,85631,86069,86330,86977,87645,88955,89537,90783,93022,93034,93147,93151,93248,95813,100400,100930,105686,106385"
+}

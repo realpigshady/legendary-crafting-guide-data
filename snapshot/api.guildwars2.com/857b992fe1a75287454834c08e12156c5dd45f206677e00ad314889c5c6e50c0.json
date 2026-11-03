@@ -1,0 +1,99 @@
+{
+"body": [
+{
+"chat_link": "[&AgFxZQEA]",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"Dagger",
+"Focus",
+"Greatsword",
+"Hammer",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [],
+"id": 112
+},
+"infusion_upgrade_flags": [],
+"suffix": "",
+"type": "Sigil"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2DDB0E173860AD433DF6D8AF412FDAFB9BCC4FB9/2179569.png",
+"id": 91505,
+"level": 80,
+"name": "Legendary Sigil",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGQZQEA]",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"HeavyArmor",
+"LightArmor",
+"MediumArmor"
+],
+"infix_upgrade": {
+"attributes": [],
+"id": 112
+},
+"infusion_upgrade_flags": [],
+"suffix": "",
+"type": "Rune"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3CEECEBACCC4E7D25DBC79C7A4B5B2933AB01DE3/2179567.png",
+"id": 91536,
+"level": 80,
+"name": "Legendary Rune",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 65
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=91505,91536"
+}

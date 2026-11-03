@@ -1,0 +1,51 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Deldrimor Steel Spear Head",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Crystalline Dust",
+"Has item value": "5"
+},
+{
+"Has item currency": "Thermocatalytic Reagent",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "2"
+},
+{
+"Has item currency": "Deldrimor Steel Ingot",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Deldrimor Steel Spear Head"
+],
+"_subject": "Ward Crafter Lucirae#vendor33"
+}
+]
+}

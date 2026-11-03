@@ -1,0 +1,384 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Curious Mursaat Currency",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Help the kodan study and settle in the Janthir Syntri region|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arid Esker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Echoing Hills"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Arid Esker#vendor6"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "1"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "3"
+},
+{
+"Has item currency": "Honey Flower",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"the [[Help the kodan study and settle in the Janthir Syntri region|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arid Esker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Echoing Hills"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Arid Esker#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Ruin Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Mursaat Obsidian Chunk",
+"Has item value": "3"
+},
+{
+"Has item currency": "Titan Heatstone",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"the [[Assist those surveying Mistburned Barrens in keeping their camp safe and running|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor8"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Janthir Syntri",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Portable Wizard's Tower Exchange/Janthir Exchanges"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Portable Wizard's Tower Exchange/Janthir Exchanges#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Support the kodan as they maintain their camp|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigilant Dawn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Vigilant Dawn#vendor6"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "1"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "3"
+},
+{
+"Has item currency": "Honey Flower",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"the [[Support the kodan as they maintain their camp|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigilant Dawn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Vigilant Dawn#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Rotted Titan Amber",
+"Has item value": "3"
+},
+{
+"Has item currency": "Charged Titan Ore",
+"Has item value": "3"
+},
+{
+"Has item currency": "Curious Mursaat Remnants",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Trader Sampaguita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Ward Trader Sampaguita#vendor13"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist the kodan in researching the titan blight|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers of Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Festering Basin"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Whispers of Wind#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Curious Lowland Honeycomb",
+"Has item value": "1"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "3"
+},
+{
+"Has item currency": "Honey Flower",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [
+"the [[Assist the kodan in researching the titan blight|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers of Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Festering Basin"
+],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Whispers of Wind#vendor9"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Janthir Syntri",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Janthir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Curious Mursaat Currency"
+],
+"_subject": "Wizard's Gobbler/Janthir#vendor8"
+}
+]
+}

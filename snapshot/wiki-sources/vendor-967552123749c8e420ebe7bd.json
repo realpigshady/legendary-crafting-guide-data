@@ -1,0 +1,44 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Petrified Wood",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Festival Token",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"the festival [[Festival of the Four Winds]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Festival Rewards Vendor (Weekly)"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Crown Pavilion (zone)",
+"Bazaar Docks"
+],
+"Sells item": [
+"Petrified Wood"
+],
+"_subject": "Festival Rewards Vendor (Weekly)#vendor6"
+}
+]
+}

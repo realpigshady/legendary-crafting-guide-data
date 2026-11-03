@@ -1,0 +1,43 @@
+{
+"fetched": 1793700131.9856305,
+"item": "Bottle of Coconut Milk",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "249"
+},
+{
+"Has item currency": "Difluorite Crystal",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Malor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Ruined Paths"
+],
+"Sells item": [
+"Bottle of Coconut Milk"
+],
+"_subject": "Malor#vendor6"
+}
+]
+}

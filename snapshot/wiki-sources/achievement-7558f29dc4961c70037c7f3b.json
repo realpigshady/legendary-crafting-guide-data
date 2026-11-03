@@ -1,0 +1,50 @@
+{
+"fetched": 1793698787.2593026,
+"item": "Curious Mursaat Remnants",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Curious Mursaat Remnants"
+],
+"Gives item quantity": [
+5
+],
+"Has achievement page": [
+"Use medicine to reduce the titan's inflammation and open the pathway"
+],
+"Has canonical name": [
+"Sweet Relief"
+],
+"Has game id": [
+8721
+],
+"Is historical": [
+"f"
+],
+"_subject": "Bava Nisos (achievements)#achievement8721"
+},
+{
+"Gives item": [
+"Curious Mursaat Remnants"
+],
+"Gives item quantity": [
+30
+],
+"Has achievement page": [
+"Return to Janthir Wilds (achievements)"
+],
+"Has canonical name": [
+"Revenge of Saevus Saxum"
+],
+"Has game id": [
+9211
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Janthir Wilds (achievements)#achievement9211"
+}
+]
+}

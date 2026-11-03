@@ -1,0 +1,51 @@
+{
+"fetched": 1793697479.921695,
+"item": "Gift of Reality",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Mists",
+"Has item value": "1"
+},
+{
+"Has item currency": "Mists Scrying Mirror",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Leyspring Hollows Exploration",
+"Has item value": "1"
+},
+{
+"Has item currency": "Advanced Research Data Crystal",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Gift of Reality"
+],
+"_subject": "Acolyte of Balance Dexx#vendor12"
+}
+]
+}

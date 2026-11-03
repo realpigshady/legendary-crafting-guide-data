@@ -1,0 +1,5 @@
+{
+"revid": 2079716,
+"text": "{{Item infobox\n| description = Refined from [[Ancient Wood Plank|planks]].\n| type = crafting material\n| material type = refinement\n| material storage = Scribing Materials\n| rarity = fine\n| bound = account\n| value = 4\n| id = 74681\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = refinement\n| disciplines = scribe\n| rating = 400\n| ingredient1 = 1 Ancient Wood Plank\n| id = 10797\n}}\n\n== Used in ==\n{{recipe list}}\n\n{{Scribe crafting components nav}}\n\n[[de:Antike Holzmasse]]\n[[es:Pulpa de madera antigua]]\n[[fr:Pulpe de bois ancien]]",
+"title": "Ancient Wood Pulp"
+}

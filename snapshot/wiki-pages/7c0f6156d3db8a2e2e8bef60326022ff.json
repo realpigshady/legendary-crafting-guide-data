@@ -1,0 +1,5 @@
+{
+"revid": 2669158,
+"text": "{{Item infobox\n| description = Double-click to apply to an item with an unused upgrade slot.\n| variables = {{item stat|healing|11}}{{item stat|power|8}}{{item stat|toughness|8}}\n| type = crafting material\n| material type = gemstone\n| tier = 4\n| material storage = Gemstones and Jewels\n| rarity = fine\n| level = 50\n| value = 45\n| id = 24876\n}}\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| name = Transmogrify Sapphire Shard\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 200\n| ingredient1 = 1 Pile of Radiant Dust\n| ingredient2 = 2 Lapis Lump\n| id = 3720\n| base ingredients calculation = n\n}}\n\n=== Extracted from ===\n{{Contains upgrade component}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Saphir-Scherbe]]\n[[es:Esquirla de zafiro]]\n[[fr:Éclat de saphir]]",
+"title": "Sapphire Shard"
+}

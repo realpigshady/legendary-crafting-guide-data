@@ -1,0 +1,55 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Charged Quartz Crystal",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Charged Lodestone",
+"Charged Quartz Crystal",
+"Assassin's Orichalcum Imbued Inscription",
+"Berserker's Orichalcum Imbued Inscription",
+"Cleric's Orichalcum Imbued Inscription",
+"Knight's Orichalcum Imbued Inscription",
+"Stormcaller Core",
+"Recipe: Stormcaller Core"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Stormcaller Armsmaster"
+],
+"Has canonical name": [
+"Stormcaller Armsmaster"
+],
+"Has game id": [
+5284
+],
+"Is historical": [
+"f"
+],
+"_subject": "No Quarter (achievements)#achievement5284"
+},
+{
+"Gives item": [
+"Charged Quartz Crystal"
+],
+"Gives item quantity": [
+5
+],
+"Has achievement page": [
+"Into the Labyrinth"
+],
+"Has canonical name": [
+"Labyrinth Runner"
+],
+"Has game id": [
+1817
+],
+"Is historical": [
+"f"
+],
+"_subject": "Tangled Paths (achievements)#achievement1817"
+}
+]
+}

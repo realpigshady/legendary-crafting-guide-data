@@ -1,0 +1,39 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Janthir Syntri Renown Token",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Ruin Shard",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+3
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor45"
+}
+]
+}

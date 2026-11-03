@@ -1,0 +1,114 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Kralkatite Ore",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Kralkatite Ore"
+],
+"Gives item quantity": [
+5
+],
+"Has achievement page": [
+"Bookworm"
+],
+"Has canonical name": [
+"Bookworm"
+],
+"Has game id": [
+3999
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daybreak (achievements)#achievement3999"
+},
+{
+"Gives item": [
+"Kralkatite Ore"
+],
+"Gives item quantity": [
+50
+],
+"Has achievement page": [
+"Brandstone Research"
+],
+"Has canonical name": [
+"Brandstone Research"
+],
+"Has game id": [
+4000
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daybreak (achievements)#achievement4000"
+},
+{
+"Gives item": [
+"Kralkatite Ore"
+],
+"Gives item quantity": [
+5
+],
+"Has achievement page": [
+"That Belongs in a Museum"
+],
+"Has canonical name": [
+"That Belongs in a Museum"
+],
+"Has game id": [
+4032
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daybreak (achievements)#achievement4032"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Kralkatite Ore",
+"1000 Volatile Magic",
+"Plasma Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Daybreak"
+],
+"Has canonical name": [
+"Return to the Domain of Istan"
+],
+"Has game id": [
+5948
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Daybreak#achievement5948"
+},
+{
+"Gives item": [
+"Kralkatite Ore"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to Season 4 (achievements)"
+],
+"Has canonical name": [
+"Local Response: Domain of Istan (Weekly)"
+],
+"Has game id": [
+8370
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Season 4 (achievements)#achievement8370"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2217256,
+"text": "{{Item infobox\n| description = Used to craft [[Spark (weapon)|Spark]].\n| type = crafting material\n| material type = component\n| value = 66\n| rarity = exotic\n| bound = account\n| id = 75825\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = sheet\n| type = Legendary Component\n| sheet = Box of Recipes: Spark\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 50 Orichalcum Ingot\n| ingredient2 = 5 Pile of Crystalline Dust\n| ingredient3 = 1 Deldrimor Steel Ingot\n| ingredient4 = 10 Sheet of Ambrite\n| id = 10734\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Treibstoffkanister]]\n[[es:Bidón de combustible]]\n[[fr:Bidon de carburant]]",
+"title": "Fuel Cannister"
+}

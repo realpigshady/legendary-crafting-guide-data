@@ -1,0 +1,39 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Black Powder (item)",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Thegren Topjaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tela Range"
+],
+"Sells item": [
+"Black Powder (item)"
+],
+"_subject": "Thegren Topjaw#vendor6"
+}
+]
+}

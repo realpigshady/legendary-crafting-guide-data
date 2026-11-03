@@ -1,0 +1,131 @@
+{
+"fetched": 1793699938.1752532,
+"item": "Gift of Ascension",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "500"
+},
+{
+"Has item currency": "Coin",
+"Has item value": "2520"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"BUY-4373"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Gift of Ascension"
+],
+"_subject": "BUY-4373#vendor2"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Black Lion Commemorative Sprocket",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Black Lion Commemorative Sprocket"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Gift of Ascension"
+],
+"_subject": "Black Lion Commemorative Sprocket#vendor22"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Fractal Reliquary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Gift of Ascension"
+],
+"_subject": "Fractal Reliquary#vendor6"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "25"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Wizard's Gobbler/Fractal Reliquary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Gift of Ascension"
+],
+"_subject": "Wizard's Gobbler/Fractal Reliquary#vendor6"
+}
+]
+}

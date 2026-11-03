@@ -1,0 +1,5 @@
+{
+"revid": 2700095,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|Gain [[Concentration]] Equal to 3% of Your [[Precision]]<br>Gain Concentration Equal to 6% of Your [[Healing Power]]<br>+10% [[Experience]] from Kills|utility|id=9968}}\n| type = utility item\n| rarity = fine\n| level = 80\n| value = 33\n| collection = Utility Utilizer\n| salvage = Research\n| id = 9461\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Consumable\n| quantity = 5\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 20 Jug of Water\n| ingredient2 = 3 Pile of Crystalline Dust\n| id = 4485\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Related achievements ==\n* {{achievement|Utility Utilizer}}\n\n== See also ==\n* [[Peppermint Oil]]\n\n{{Utility items nav}}\n\n[[de:Meister-Wartungsöl]]\n[[es:Aceite de mantenimiento maestro]]\n[[fr:Huile de maintenance de maître]]",
+"title": "Master Maintenance Oil"
+}

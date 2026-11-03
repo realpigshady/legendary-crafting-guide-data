@@ -1,0 +1,5 @@
+{
+"revid": 2508141,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| rarity = basic\n| id = 12542\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Lime\n| ingredient2 = 1 Pile of Stirfry Spice Mix\n| ingredient3 = 1 Cayenne Pepper\n| ingredient4 = 1 Lemongrass\n| id = 3085\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Glas mit roter Currypaste]]\n[[es:Tarro de pasta de curry roja]]\n[[fr:Pot de pâte de curry rouge]]",
+"title": "Jar of Red Curry Paste"
+}

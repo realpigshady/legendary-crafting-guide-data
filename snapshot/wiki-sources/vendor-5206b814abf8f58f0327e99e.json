@@ -1,0 +1,46 @@
+{
+"fetched": 1793698882.124771,
+"item": "Shard of Crystallized Mists Essence",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "28800"
+},
+{
+"Has item currency": "Fractal Relic",
+"Has item value": "300"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Follows Advice"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"INFUZ-5959"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Shard of Crystallized Mists Essence"
+],
+"_subject": "INFUZ-5959#vendor69"
+}
+]
+}

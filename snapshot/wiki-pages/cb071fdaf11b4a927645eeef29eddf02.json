@@ -1,0 +1,5 @@
+{
+"revid": 2157818,
+"text": "{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|precision|11}}{{item stat|condition damage|8}}{{item stat|power|8}}\n| type = crafting material\n| material type = gemstone\n| tier = 4\n| material storage = Gemstones and Jewels\n| rarity = fine\n| level = 50\n| value = 45\n| id = 24874\n}}\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Recipes ===\n{{recipe\n| name = Transmogrify Coral Chunk\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 200\n| ingredient1 = 1 Pile of Radiant Dust\n| ingredient2 = 2 Topaz Lump\n| id = 3716\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Gemstone nav}}\n\n[[de:Korallenstück]]\n[[es:Pedazo de coral]]\n[[fr:Morceau de corail]]",
+"title": "Coral Chunk"
+}

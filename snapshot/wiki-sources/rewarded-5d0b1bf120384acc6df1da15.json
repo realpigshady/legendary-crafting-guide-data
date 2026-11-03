@@ -1,0 +1,48 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Kralkatite Ore",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Champion's Dawn (story)"
+],
+"Rewards item": [
+"Kralkatite Ore"
+],
+"_subject": "Champion's Dawn (story)#reward2"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Domain of Istan"
+],
+"Rewards item": [
+"Kralkatite Ore"
+],
+"_subject": "Domain of Istan#reward2"
+}
+]
+}

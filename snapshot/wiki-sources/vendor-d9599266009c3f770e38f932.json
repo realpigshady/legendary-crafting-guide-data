@@ -1,0 +1,196 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Gift of the Sanctuary",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dungeon Armor and Weapons/Honor of the Waves"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Dungeon Armor and Weapons/Honor of the Waves#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Lava Lounge)/Honor of the Waves"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Merchant (Lava Lounge)/Honor of the Waves#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Mistlock Sanctuary)/Honor of the Waves"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Merchant (Mistlock Sanctuary)/Honor of the Waves#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tear Cinderskull/Honor of the Waves"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Tear Cinderskull/Honor of the Waves#vendor46"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ulof Sindersson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Ulof Sindersson#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Honor of the Waves]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Visiting Trader (Dungeon Merchant)/Honor of the Waves"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Gift of the Sanctuary"
+],
+"_subject": "Visiting Trader (Dungeon Merchant)/Honor of the Waves#vendor46"
+}
+]
+}

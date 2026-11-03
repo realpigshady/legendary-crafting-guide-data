@@ -1,0 +1,1090 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Refined Homestead Metal",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Copper Ore",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor1"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Silver Ore",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor10"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold Ore",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor11"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Platinum Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor12"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mithril Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor13"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orichalcum Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor14"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Copper Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor15"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Iron Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor16"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Silver Ore",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor17"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor18"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Platinum Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor19"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Iron Ore",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor2"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mithril Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor20"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orichalcum Ore",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor21"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "61600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor29"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Silver Ore",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor3"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62096"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor30"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor31"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63112"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor32"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63624"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor33"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64144"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor34"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64664"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor35"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65192"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor36"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65720"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor37"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "66256"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor38"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold Ore",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor4"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Platinum Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor5"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mithril Ore",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor6"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orichalcum Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor7"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Copper Ore",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor8"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Iron Ore",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Ore Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Metal Forge"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Metal"
+],
+"_subject": "Homestead Refinement—Metal Forge#vendor9"
+}
+]
+}

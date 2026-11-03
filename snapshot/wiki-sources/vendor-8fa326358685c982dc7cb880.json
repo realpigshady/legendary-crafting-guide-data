@@ -1,0 +1,42 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Agonized Essence",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "2400"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Agony Channeler"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"INFUZ-5959"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Observatory",
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Agonized Essence"
+],
+"_subject": "INFUZ-5959#vendor65"
+}
+]
+}

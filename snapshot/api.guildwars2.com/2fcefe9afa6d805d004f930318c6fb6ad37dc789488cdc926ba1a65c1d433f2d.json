@@ -1,0 +1,4852 @@
+{
+"body": [
+{
+"chat_link": "[&AgHcdwAA]",
+"default_skin": 4674,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Ice",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1100,
+"min_power": 900,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24555,
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F9C08DE12ADD1082A103DC6EF7401281B23985E/456009.png",
+"id": 30684,
+"level": 80,
+"name": "Frostfang",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHddwAA]",
+"default_skin": 4676,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1134,
+"min_power": 966,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24865,
+"type": "LongBow"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B604C764D3E19E391F5E24CCFBC414500606BD29/456010.png",
+"id": 30685,
+"level": 80,
+"name": "Kudzu",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHedwAA]",
+"default_skin": 4669,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24571,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/98F0ED6A7F7A310FCE6D161C0B36B0071E4D1917/456011.png",
+"id": 30686,
+"level": 80,
+"name": "The Dreamer",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHfdwAA]",
+"default_skin": 4682,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Fire",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1030,
+"min_power": 970,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24548,
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D9B12A1EBEDC04047295CF0A66E43E650297D429/456012.png",
+"id": 30687,
+"level": 80,
+"name": "Incinerator",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHgdwAA]",
+"default_skin": 4672,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24607,
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3DBEB4FE4C81401AF6EA905FE16E4F3050F540B/456013.png",
+"id": 30688,
+"level": 80,
+"name": "The Minstrel",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHhdwAA]",
+"default_skin": 4678,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24599,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A30DA1A1EF05BD080C95AE2EF0067BADCDD0D89D/456014.png",
+"id": 30689,
+"level": 80,
+"name": "Eternity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHidwAA]",
+"default_skin": 4681,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24584,
+"type": "Hammer"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F9FAEDF77052A514E876145908B3B3346314A13E/456015.png",
+"id": 30690,
+"level": 80,
+"name": "The Juggernaut",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHjdwAA]",
+"default_skin": 4671,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24612,
+"type": "Harpoon"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4705EC549A3296F493312C4018754816175E5D28/456016.png",
+"id": 30691,
+"level": 80,
+"name": "Kamohoali'i Kotaki",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHkdwAA]",
+"default_skin": 4670,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24607,
+"type": "Mace"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0302BC8DDD84D20F0B73C1D702438F5534F3308/456017.png",
+"id": 30692,
+"level": 80,
+"name": "The Moot",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHldwAA]",
+"default_skin": 4668,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24592,
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/03342FFE0E35B35D5207B65ECB0C1D06442377AB/456018.png",
+"id": 30693,
+"level": 80,
+"name": "Quip",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHmdwAA]",
+"default_skin": 4677,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Fire",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1265,
+"min_power": 1035,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24615,
+"type": "Rifle"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3ECD99482DD865AA7D42B2EF6AFEFA705294555C/456019.png",
+"id": 30694,
+"level": 80,
+"name": "The Predator",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHndwAA]",
+"default_skin": 4673,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Lightning",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24554,
+"type": "Scepter"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AC940BF377C5D3EF13B2060D53EF19F1BC34BE48/456020.png",
+"id": 30695,
+"level": 80,
+"name": "Meteorlogicus",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHodwAA]",
+"default_skin": 4675,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 64,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 954,
+"min_power": 846,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24601,
+"type": "Shield"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BE58181BEA0559E60873ED940D0408D0596B4464/456021.png",
+"id": 30696,
+"level": 80,
+"name": "The Flameseeker Prophecies",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHpdwAA]",
+"default_skin": 4664,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24561,
+"type": "Speargun"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/67EB25E29BA73D96B34523C02B256516DD60DA06/456024.png",
+"id": 30697,
+"level": 80,
+"name": "Frenzy",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHqdwAA]",
+"default_skin": 4683,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24572,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FD221A90427ADBD29B7E2DF8BDAF98BB16391162/456025.png",
+"id": 30698,
+"level": 80,
+"name": "The Bifrost",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHrdwAA]",
+"default_skin": 4684,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Lightning",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24554,
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE47E046D10DF27508910869B5EB040F6BBBE793/456026.png",
+"id": 30699,
+"level": 80,
+"name": "Bolt",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHsdwAA]",
+"default_skin": 4665,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Fire",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 972,
+"min_power": 828,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24548,
+"type": "Torch"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B1D6CB3AB4017633280ACDB36470F46829FDDD13/456027.png",
+"id": 30700,
+"level": 80,
+"name": "Rodgort",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHtdwAA]",
+"default_skin": 4666,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24632,
+"type": "Trident"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1FAD3D4BE1FA503C49FCF532582867FB060664E4/456028.png",
+"id": 30701,
+"level": 80,
+"name": "Kraitkin",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHudwAA]",
+"default_skin": 4667,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 945,
+"min_power": 855,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24618,
+"type": "Warhorn"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/19E01CC637F4F370B43E132ACEBFD7C6E1570DE7/456029.png",
+"id": 30702,
+"level": 80,
+"name": "Howler",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHvdwAA]",
+"default_skin": 4679,
+"description": "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:\n• Twilight\n• 5 Piles of Crystalline Dust\n• 10 Philosopher's Stones</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24562,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EFF16C4F19792627355DC294E6D7093F544921E7/456030.png",
+"id": 30703,
+"level": 80,
+"name": "Sunrise",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHwdwAA]",
+"default_skin": 4680,
+"description": "<c=@flavor>This weapon is used to craft the legendary greatsword Eternity by combining it in the Mystic Forge with:\n• Sunrise\n• 5 Piles of Crystalline Dust\n• 10 Philosopher's Stones</c>",
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24599,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CE3AF0B7B9BB6244726779F5B6A930541BA6C15F/456031.png",
+"id": 30704,
+"level": 80,
+"name": "Twilight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHXFgEA]",
+"default_skin": 6466,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24572,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5346383A9218504978A57642D9F664DB6EE9984D/1206505.png",
+"id": 71383,
+"level": 80,
+"name": "Nevermore",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgEJHAEA]",
+"default_skin": 6276,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24592,
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DBF1507C304507F618C0C4217E96074E1DD4EB/1204299.png",
+"id": 72713,
+"level": 80,
+"name": "HOPE",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgF+KQEA]",
+"default_skin": 6506,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Ice",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1100,
+"min_power": 900,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24555,
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/13B9B1A4A85E775E267D33B6B7FA2D436DEA0BA1/1200325.png",
+"id": 76158,
+"level": 80,
+"name": "Astralaria",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHcMgEA]",
+"default_skin": 6717,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24618,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6AA4DCD7BFD228EF1658DE017FF114700260D316/1423757.png",
+"id": 78556,
+"level": 80,
+"name": "Chuka and Champawat",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHKNgEA]",
+"default_skin": 6966,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24624,
+"type": "Mace"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D24F4476F94842E4A8B1F9650DA92A72B590DC02/1493252.png",
+"id": 79562,
+"level": 80,
+"name": "Eureka",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgG6NwEA]",
+"default_skin": 7024,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 64,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 954,
+"min_power": 846,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24551,
+"type": "Shield"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7EE6042646197A0B6A0EF21E419645ED175564F5/1601552.png",
+"id": 79802,
+"level": 80,
+"name": "Shooshadoo",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgFoOgEA]",
+"default_skin": 7078,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1265,
+"min_power": 1035,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24773,
+"type": "Rifle"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0E9706D871154B6D43B62CC2969C2108905B9A12/1634157.png",
+"id": 80488,
+"level": 80,
+"name": "The HMS Divinity",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgE2PQEA]",
+"default_skin": 7206,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 972,
+"min_power": 828,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24624,
+"type": "Torch"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D4399FD6BC23DEF9DB32CBC49029C93682FFBC9/1676632.png",
+"id": 81206,
+"level": 80,
+"name": "Flames of War",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGvPwEA]",
+"default_skin": 7337,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24571,
+"type": "Hammer"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BD331EF87CDCD678D22D4DF9B509E22C4606AAB6/1729253.png",
+"id": 81839,
+"level": 80,
+"name": "Sharur",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgElQAEA]",
+"default_skin": 7300,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24678,
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DB4197185C097D04569265051654AA121F459A1D/1729769.png",
+"id": 81957,
+"level": 80,
+"name": "The Shining Blade",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgFSUAEA]",
+"default_skin": 7907,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24583,
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2C2D04DA23E54103AD4C082033090D78A91BA0EE/1894811.png",
+"id": 86098,
+"level": 80,
+"name": "The Binding of Ipos",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgFFVAEA]",
+"default_skin": 8051,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1030,
+"min_power": 970,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24562,
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F210EEC4136273F5224D21C28F50B48B4AA5756/1947147.png",
+"id": 87109,
+"level": 80,
+"name": "Claw of the Khan-Ur",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGHVgEA]",
+"default_skin": 8145,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 945,
+"min_power": 855,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24601,
+"type": "Warhorn"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C791E818A1AC06DB5A61E239C1DB6CDF4F7D69E6/1999146.png",
+"id": 87687,
+"level": 80,
+"name": "Verdarach",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgEAWgEA]",
+"default_skin": 8389,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24582,
+"type": "Scepter"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B51C094561D8D8DD30B8006E3DB84C149B3F1D90/2038676.png",
+"id": 88576,
+"level": 80,
+"name": "Xiuquatl",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgH+XgEA]",
+"default_skin": 8576,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1134,
+"min_power": 966,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24624,
+"type": "LongBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D2C5CF133804E1062B08370044E774F854F107F5/2083170.png",
+"id": 89854,
+"level": 80,
+"name": "Pharus",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgG3YQEA]",
+"default_skin": 8748,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 86170,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DCFDE7D52BBB71A34C06987C1798D5FDDC74B94A/2140499.png",
+"id": 90551,
+"level": 80,
+"name": "Exordium",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgF8dQEA]",
+"default_skin": 10322,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Mace"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A56EAC4E2EFA53EDC7ECFA7B9131AB32262269FD/2595159.png",
+"id": 95612,
+"level": 80,
+"name": "Aurene's Tail",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgG7dQEA]",
+"default_skin": 10702,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CD7F0C7B39AE4529781EE126D7F4B8FDE220FAD3/2596930.png",
+"id": 95675,
+"level": 80,
+"name": "Aurene's Fang",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgHEdQEA]",
+"default_skin": 10572,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Hammer"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C1B30BCF7A11E56066A46004262D01F67094B834/2595011.png",
+"id": 95684,
+"level": 80,
+"name": "Aurene's Weight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgFAdgEA]",
+"default_skin": 10328,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/42B56CCE6997200828B06B7652F5DEAC0507A95E/2595779.png",
+"id": 95808,
+"level": 80,
+"name": "Aurene's Argument",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgEcdwEA]",
+"default_skin": 10652,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 64,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 954,
+"min_power": 846,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Shield"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F29EC22EA359F2EAA01E2924F9CF0733F3CA2A9/2596828.png",
+"id": 96028,
+"level": 80,
+"name": "Aurene's Scale",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgHLdwEA]",
+"default_skin": 10334,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1030,
+"min_power": 970,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08769D9DC9EC1A9D94EC19A802DA2106CB0CF741/2594358.png",
+"id": 96203,
+"level": 80,
+"name": "Aurene's Claw",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgHddwEA]",
+"default_skin": 10276,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1060,
+"min_power": 940,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Scepter"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/46C3662430F1CEA74CCB062FD248FC260D129B43/2596776.png",
+"id": 96221,
+"level": 80,
+"name": "Aurene's Wisdom",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgFkeAEA]",
+"default_skin": 10289,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1155,
+"min_power": 1045,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94D19303448005274F24F433016D2CE1AC54057E/2594851.png",
+"id": 96356,
+"level": 80,
+"name": "Aurene's Bite",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgGMeQEA]",
+"default_skin": 10536,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3B74D76E0400CC03E17097CE5E0BEFC0325EAD21/2596889.png",
+"id": 96652,
+"level": 80,
+"name": "Aurene's Insight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgGpegEA]",
+"default_skin": 10745,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1100,
+"min_power": 900,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE67A529B6960E955B8BCDE02343C704D01B7F8/2593577.png",
+"id": 96937,
+"level": 80,
+"name": "Aurene's Rending",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgE1ewEA]",
+"default_skin": 10581,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/15B9AECD7B05250D4D90721CE67ACBE0E8E3DEA1/2593873.png",
+"id": 97077,
+"level": 80,
+"name": "Aurene's Wing",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgFLewEA]",
+"default_skin": 10756,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 972,
+"min_power": 828,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Torch"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C3B21B45AA1A47A1470FAFFC1BFD9E426FC29D5C/2596992.png",
+"id": 97099,
+"level": 80,
+"name": "Aurene's Breath",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgGNewEA]",
+"default_skin": 10464,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3FFD5043BAB5710341A166C900BED8D47409600F/2594769.png",
+"id": 97165,
+"level": 80,
+"name": "Aurene's Gaze",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgFhfAEA]",
+"default_skin": 10413,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1265,
+"min_power": 1035,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Rifle"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7309BE5518786B002106F59110E7F9CDFE541969/2596715.png",
+"id": 97377,
+"level": 80,
+"name": "Aurene's Persuasion",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgE2fQEA]",
+"default_skin": 10599,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1134,
+"min_power": 966,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "LongBow"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F36B984CF57CF901A00526BAC1FA56979904C929/2593844.png",
+"id": 97590,
+"level": 80,
+"name": "Aurene's Flight",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 990
+},
+{
+"chat_link": "[&AgH3fQEA]",
+"default_skin": 10479,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 945,
+"min_power": 855,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Warhorn"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/480D1EBF4A468059631D11C100406AE1C617C3D4/2597054.png",
+"id": 97783,
+"level": 80,
+"name": "Aurene's Voice",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgGHlQEA]",
+"default_skin": 12703,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 86170,
+"type": "Harpoon"
+},
+"flags": [
+"HideSuffix",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BC680270399F49A15415E402623AD4E5A09A6411/3442617.png",
+"id": 103815,
+"level": 80,
+"name": "Klobjarne Geirr",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgG1nAEA]",
+"default_skin": 13334,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1166,
+"min_power": 1034,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 86170,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/062138CC40DF0A2D4195C9DAA5FDD8BF0ECC27F9/3710038.png",
+"id": 105653,
+"level": 80,
+"name": "Ancora Pax",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgEhnwEA]",
+"default_skin": 13306,
+"details": {
+"attribute_adjustment": 717.024,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 86170,
+"type": "Harpoon"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/31290C7C3C6799515EC55B143EFE292ED00B5663/3710037.png",
+"id": 106273,
+"level": 80,
+"name": "Ancora Bellum",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgHErQEA]",
+"default_skin": 14230,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1050,
+"min_power": 950,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C009DEECBD6AB295310C31C0E7B8DDC14408EF56/3806591.png",
+"id": 110020,
+"level": 80,
+"name": "Wages of Stars",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=30684,30685,30686,30687,30688,30689,30690,30691,30692,30693,30694,30695,30696,30697,30698,30699,30700,30701,30702,30703,30704,71383,72713,76158,78556,79562,79802,80488,81206,81839,81957,86098,87109,87687,88576,89854,90551,95612,95675,95684,95808,96028,96203,96221,96356,96652,96937,97077,97099,97165,97377,97590,97783,103815,105653,106273,110020"
+}

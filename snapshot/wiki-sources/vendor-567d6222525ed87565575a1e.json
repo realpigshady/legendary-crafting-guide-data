@@ -1,0 +1,53 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Shadowstone Containment Frame",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mithril Ingot",
+"Has item value": "2500"
+},
+{
+"Has item currency": "Elder Wood Plank",
+"Has item value": "2500"
+},
+{
+"Has item currency": "Cured Thick Leather Square",
+"Has item value": "2500"
+},
+{
+"Has item currency": "Bolt of Silk",
+"Has item value": "2500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist the Stewards of Galdra around the forge|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Shadowstone Containment Frame"
+],
+"_subject": "Steward Brizio#vendor12"
+}
+]
+}

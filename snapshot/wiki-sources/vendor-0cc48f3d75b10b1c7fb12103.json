@@ -1,0 +1,39 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Jar of Paint Base",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1848"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tirzie the Painter"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Orlaf Escarpments"
+],
+"Sells item": [
+"Jar of Paint Base"
+],
+"_subject": "Tirzie the Painter#vendor1"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2726976,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| id = 81861\n| description = A gift used to create [[legendary jewelry]].\n| rarity = legendary\n| bound = account\n| value = 640\n| requires = lws3\n}}\n\n== Acquisition ==\n{{recipe\n| source = mystic\n| ingredient1 = 1 Crystalline Ingot\n| ingredient2 = 1 Bloodstone Shard\n| ingredient3 = 1 Gift of Bloodstone Magic\n| ingredient4 = 1 Gift of Dragon Magic\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Drachenbeherrschung]]\n[[es:Don de dominio dracónico]]\n[[fr:Don de maîtrise draconique]]",
+"title": "Gift of Draconic Mastery"
+}

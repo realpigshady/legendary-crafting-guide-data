@@ -1,0 +1,5 @@
+{
+"revid": 2079595,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft The Flameseeker Prophecies.\n| material type = component\n| rarity = exotic\n| bound = account\n| id = 71890\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Chosen\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 1 Deldrimor Steel Ingot\n| ingredient2 = 50 Cured Thick Leather Square\n| ingredient3 = 50 Orichalcum Ingot\n| ingredient4 = 100 Mithril Ingot\n| id = 10059\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Schild der Legenden]]\n[[es:Escudo de leyenda]]\n[[fr:Bouclier de légende]]",
+"title": "Shield of Legend"
+}

@@ -1,0 +1,97 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Raw Enchanting Stone",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Raw Enchanting Stone"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Foothold Bivouac Renown Mastery"
+],
+"Has game id": [
+8857
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement8857"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Raw Enchanting Stone"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Priory Expedition Renown Mastery"
+],
+"Has game id": [
+8915
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement8915"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Raw Enchanting Stone"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Untamed Crags Renown Mastery"
+],
+"Has game id": [
+9065
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement9065"
+},
+{
+"Gives item": [
+"Raw Enchanting Stone",
+"Seer Wreath of Service",
+"Mastery Point (Visions of Eternity)",
+"Relic of the Mist Stranger",
+"Alliance Field Operative's Coat Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Starlit Weald (achievements)"
+],
+"Has canonical name": [
+"Starlit Weald Mastery"
+],
+"Has game id": [
+9057
+],
+"Is historical": [
+"f"
+],
+"_subject": "Starlit Weald (achievements)#achievement9057"
+}
+]
+}

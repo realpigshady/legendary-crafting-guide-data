@@ -1,0 +1,5 @@
+{
+"revid": 2371064,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft short bows.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45842\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 4 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7600\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geisterholz-Kurzbogenstab]]\n[[es:Duela para arco corto de madera espiritual]]\n[[fr:Hampe d'arc court de boisesprit]]",
+"title": "Spiritwood Short-Bow Stave"
+}

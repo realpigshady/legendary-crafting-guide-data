@@ -1,0 +1,5 @@
+{
+"revid": 2884179,
+"text": "{{Item infobox\n| description = A gift of ice used to create [[Frostfang]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[jeweler]] rating of 400 to craft.\n| type = trophy\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: Frostfang\n| bound = account\n| value = 640\n| id = 19624\n}}\n\n== Acquisition ==\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Ice\n| type = Crafting Component\n| disciplines = jeweler\n| rating = 400\n| ingredient1 = 1 Gift of the Sanctuary\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 100 Glacial Lodestone\n| ingredient4 = 100 Corrupted Lodestone\n| id = 3723\n}}\n\n=== Achievement ===\n{{achievement list|reward = Gift of Ice}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Eises]]\n[[es:Don del hielo]]\n[[fr:Don de glace]]",
+"title": "Gift of Ice"
+}

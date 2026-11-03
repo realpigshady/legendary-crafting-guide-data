@@ -1,0 +1,5 @@
+{
+"revid": 2669140,
+"text": "{{Item infobox\n| description = Double-click to apply to an item with an unused upgrade slot.\n| type = crafting material\n| variables = {{item stat|healing|14}}{{item stat|condition damage|10}}{{item stat|toughness|10}}\n| level = 65\n| material type = gemstone\n| material storage = Gemstones and Jewels\n| rarity = masterwork\n| value = 110\n| id = 37907\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n{{rewarded by}}\n\n=== Extracted from ===\n{{Contains upgrade component}}\n\n== Currency for ==\n{{Vendor query table|currency=Passion Flower}}\n\n== Used in ==\n{{Recipe list by discipline}}\n\n{{Gemstone nav}}\n\n[[de:Maracujablüte]]\n[[es:Flor de la pasión]]\n[[fr:Passiflore]]",
+"title": "Passion Flower"
+}

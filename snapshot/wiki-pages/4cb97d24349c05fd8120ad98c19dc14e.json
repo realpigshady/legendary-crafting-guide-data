@@ -1,0 +1,5 @@
+{
+"revid": 2746498,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = ingredient\n| material storage = Cooking Materials\n| rarity = fine\n| level = 80\n| bound = account\n| id = 74242\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Bag of Cassava Flour\n| type = Cooking Ingredient\n| disciplines = chef\n| rating = 400\n| ingredient1 = 10 Cassava Root\n| ingredient2 = 5 Milling Stone\n| ingredient3 = 1 Milling Basin\n| id = 10741\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n{{anomaly|Even though it requires a [[Recipe: Bag of Cassava Flour|recipe]] to craft and therefore cannot be obtained by non-cook characters, it is listed under [[Material Storage#Cooking Materials (135)|cooking materials]] instead of [[Material Storage#Cooking Ingredients (37)|cooking ingredients]].}}\n\n[[de:Beutel mit Cassavamehl]]\n[[es:Bolsa de harina de yuca]]\n[[fr:Sac de farine de manioc]]",
+"title": "Bag of Cassava Flour"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2588930,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 12178\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| ingredient1 = 1 Packet of Salt\n| ingredient2 = 1 Black Peppercorn\n| id = 2845\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Haufen Salz und Pfeffer]]\n[[es:Montón de sal y pimienta]]\n[[fr:Tas de sel et de poivre]]",
+"title": "Pile of Salt and Pepper"
+}

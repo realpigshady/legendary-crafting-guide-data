@@ -1,0 +1,29 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Inscribed Shard",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Domain of Kourna"
+],
+"Rewards item": [
+"Inscribed Shard"
+],
+"_subject": "Domain of Kourna#reward1"
+}
+]
+}

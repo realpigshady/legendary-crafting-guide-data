@@ -1,0 +1,984 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Refined Homestead Wood",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Wood Log",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor1"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Hard Wood Log",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor10"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elder Wood Log",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor11"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ancient Wood Log",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor12"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Wood Log",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor13"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Soft Wood Log",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor14"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seasoned Wood Log",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor15"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Hard Wood Log",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor16"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elder Wood Log",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor17"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ancient Wood Log",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor18"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Soft Wood Log",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor2"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "61600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor26"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62096"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor27"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor28"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63112"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor29"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seasoned Wood Log",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor3"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63624"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor30"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64144"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor31"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64664"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor32"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65192"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor33"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65720"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor34"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "66256"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor35"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Hard Wood Log",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor4"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Elder Wood Log",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor5"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ancient Wood Log",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor6"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Wood Log",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor7"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Soft Wood Log",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor8"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seasoned Wood Log",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Wood Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Lumber Mill"
+],
+"Has weekly purchase cap": [
+250
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Wood"
+],
+"_subject": "Homestead Refinement—Lumber Mill#vendor9"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3150798,
+"text": "{{Item infobox\n| variables = {{Nourishment|30 m|+100 [[Power]] <br>+70 [[Precision]]<br>+10% [[Experience]] from Kills|id=9769}}\n| type = food, crafting material\n| food type = meal\n| rarity = fine\n| level = 80\n| collection = Fine Dining\n| salvage = Compost, Research\n| id = 12467\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = discovery\n| type = Meal\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Stick of Butter\n| ingredient2 = 1 Snow Truffle\n| ingredient3 = 1 Orrian Truffle\n| ingredient4 = 1 Slab of Red Meat\n| id = 3124\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n{{collection nav}}\n\n[[Category:Ingredients]]\n[[de:Teller mit Trüffelsteak]]\n[[es:Plato de filete con trufas]]\n[[fr:Assiette de steak à la truffe]]",
+"title": "Plate of Truffle Steak"
+}

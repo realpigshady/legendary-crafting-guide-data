@@ -1,0 +1,5 @@
+{
+"revid": 2701690,
+"text": "{{Upgrade component infobox\n| description = Double-click to apply to a weapon.\n| variables = Increase Inflicted [[Poisoned|Poison]] Duration: 20%\n| type = Sigil\n| element = Enhancement\n| rarity = exotic\n| level = 60\n| value = 216\n| salvage = Standard, Research\n| id = 24632\n}}\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Sigil of Venom\n| disciplines = Artificer, Weaponsmith, Huntsman\n| rating = 400\n| type = Upgrade Component\n| ingredient1 = 15 Pile of Lucent Crystal\n| ingredient2 = 5 Emerald Orb\n| ingredient3 = 1 Symbol of Enhancement\n| ingredient4 = 10 Glob of Ectoplasm\n| id = 12991\n}}\n\n=== Extracted from ===\n{{contains upgrade component}}\n\n=== Other ===\n{{mystic forge sigils text}}\n\n== Used in ==\n{{recipe list}}\n\n{{rune and sigil nav}}\n\n[[de:Überlegenes Sigill des Giftes]]\n[[es:Sello superior de veneno]]\n[[fr:Cachet de venin supérieur]]",
+"title": "Superior Sigil of Venom"
+}

@@ -1,0 +1,415 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Gift of Eternity's Garden Exploration",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Acolyte of Balance Dexx#vendor31"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Alliance Field Quartermaster#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor31"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Canach#vendor35"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Captain Emund#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Castaway Agnes#vendor35"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Historian Meliza#vendor32"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Huntmaster Arnorr#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Magister Sirkk#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Steward Brizio#vendor31"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character has map completed [[Eternity's Garden]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Gift of Eternity's Garden Exploration"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor37"
+}
+]
+}

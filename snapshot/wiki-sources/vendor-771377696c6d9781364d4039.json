@@ -1,0 +1,37 @@
+{
+"fetched": 1793699855.1726224,
+"item": "Memory of Otter",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Icebrood Saga Material",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+5
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Icebrood Saga Material"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Memory of Otter"
+],
+"_subject": "Icebrood Saga Material#vendor4"
+}
+]
+}

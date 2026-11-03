@@ -1,0 +1,29 @@
+{
+"fetched": 1793697807.0054154,
+"item": "Gift of Leyspring Hollows Exploration",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Leyspring Hollows"
+],
+"Rewards item": [
+"Gift of Leyspring Hollows Exploration"
+],
+"_subject": "Leyspring Hollows#reward1"
+}
+]
+}

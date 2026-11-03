@@ -1,0 +1,70 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Sun Bead",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "21"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cuadinti"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Sun Bead"
+],
+"_subject": "Cuadinti#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "525"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Cuadinti"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Astrozintli Forelands"
+],
+"Sells item": [
+"Sun Bead"
+],
+"_subject": "Cuadinti#vendor2"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2569974,
+"text": "{{Item infobox\n| description = Crafted from [[Green Wood Pulp|wood pulp]] and [[Bolt of Jute|cloth]]. Used to make scrolls and books.\n| type = crafting material\n| material type = component\n| material storage = Scribing Materials\n| rarity = fine\n| value = 4\n| id = 72579\n| requires = hot\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{Contained in}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = scribe\n| ingredient1 = 1 Green Wood Pulp\n| ingredient2 = 1 Jug of Water\n| ingredient3 = 1 Bolt of Jute\n| id = 10956\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Scribe crafting components nav}}\n\n[[de:Blatt raues Papier]]\n[[es:Hoja de papel basto]]\n[[fr:Feuille de papier de cuir grossier]]",
+"title": "Sheet of Coarse Paper"
+}

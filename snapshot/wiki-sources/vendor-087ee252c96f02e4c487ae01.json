@@ -1,0 +1,55 @@
+{
+"fetched": 1793697612.1608658,
+"item": "Gift of Sharpened Tip",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+},
+{
+"Has item currency": "Deldrimor Steel Spear Head",
+"Has item value": "6"
+},
+{
+"Has item currency": "Large Spiritwood Haft",
+"Has item value": "6"
+},
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "6"
+},
+{
+"Has item currency": "Memory of Bearkin's Adversaries",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Sharpened Tip"
+],
+"_subject": "Ward Crafter Lucirae#vendor29"
+}
+]
+}

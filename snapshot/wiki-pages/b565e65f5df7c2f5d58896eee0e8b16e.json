@@ -1,0 +1,5 @@
+{
+"revid": 2674251,
+"text": "{{Item infobox\n| type = Crafting material\n| description = Used to craft [[Storm]].\n| rarity = exotic\n| level = 0\n| bound = account\n| value = 66\n| id = 70884\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| name = Globe (Exotic)\n| source = recipe sheet\n| sheet = Box of Recipes: Storm\n| type = Legendary Component\n| disciplines = artificer\n| rating = 500\n| ingredient1 = 25 Clay Brick\n| ingredient2 = 3 Molten Lodestone\n| ingredient3 = 50 Jug of water\n| ingredient4 = 5 Glacial Lodestone\n| id = 10067\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Kugel]]\n[[es:Globo (objeto)]]\n[[fr:Globe]]",
+"title": "Globe"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2878254,
+"text": "{{otheruses|the crafting component|the decoration|Lattice|other uses|Lattice (disambiguation)}}\n{{Item infobox\n| name = Lattice\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| description = Use to craft [[Leaf of Kudzu]].\n| value = 66\n| id = 73966\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Leaf of Kudzu\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 3 Spiritwood Plank\n| ingredient2 = 50 Ancient Wood Plank\n| ingredient3 = 100 Elder Wood Plank\n| ingredient4 = 50 Mithril Ingot\n| id = 10501\n}}\n\n== Used in ==\n{{recipe list}}",
+"title": "Lattice (component)"
+}

@@ -1,0 +1,134 @@
+{
+"fetched": 1793699467.2183678,
+"item": "Integrated Fractal Matrix",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Kinfall Fractal#reward6"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Lonely Tower Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Lonely Tower Fractal#reward8"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Nightmare Fractal#reward22"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shattered Observatory Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Shattered Observatory Fractal#reward13"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Silent Surf Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Silent Surf Fractal#reward9"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Fractal"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Sunqua Peak Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Sunqua Peak Fractal#reward5"
+}
+]
+}

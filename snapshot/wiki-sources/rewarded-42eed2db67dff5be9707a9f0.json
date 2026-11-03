@@ -1,0 +1,29 @@
+{
+"fetched": 1793699877.5599132,
+"item": "Boneskinner Ritual Vial",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Raid"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"9"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Boneskinner Ritual Vial"
+],
+"_subject": "Boneskinner#reward9"
+}
+]
+}

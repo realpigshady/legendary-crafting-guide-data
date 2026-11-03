@@ -1,0 +1,5 @@
+{
+"revid": 2694938,
+"text": "{{Item infobox\n| description = Used to craft shields.\n| type = crafting material\n| material type = component\n| rarity = Exotic\n| value = 64\n| bound = Account\n| id = 96312\n| requires = eod\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| sheet = Sheaf of Recipes: Dragon's Scale\n| disciplines = Weaponsmith\n| rating = 500\n| type = Component\n| ingredient1 = 1 Deldrimor Steel Shield Backing\n| ingredient2 = 1 Blessing of the Jade Empress\n| ingredient3 = 20 Chunk of Pure Jade\n| id = 13668\n}}\n\n== Used in ==\n{{Recipe list}}\n\n[[de:Verstärkte Präkursor-Schildstütze]]\n[[es:Embrazadura para escudo precursor fortificada]]\n[[fr:Renfort de bouclier précurseur renforcé]]",
+"title": "Fortified Precursor Shield Backing"
+}

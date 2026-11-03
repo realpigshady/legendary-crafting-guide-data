@@ -1,0 +1,5 @@
+{
+"revid": 3110681,
+"text": "{{Item infobox\n| description = Combine a [[Gift of the Sun]], a [[Gift of the Beach]], a [[Gift of Infused Gems]], and 10 [[Purified Rift Essence|Purified Rift Essences]] in the [[Mystic Forge]] to create [[Gift of Rays]].\n<br/>\nCreated by combining the following in the Mystic Forge:<br/>\n• 2 [[Gift of Light]]<br/>\n• 2 [[Gift of Condensed Might]]<br/>\n• 2 [[Gift of Condensed Magic]]<br/>\n• 250 [[Sun Beads]]<br/>\n| type = Crafting material\n| material type = Mystic\n| rarity = Legendary\n| bound = Account\n| id = 107136\n| requires = voe\n}}\n\n== Acquisition ==\n=== Recipe === \n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 2 Gift of Light\n| ingredient2 = 2 Gift of Condensed Might\n| ingredient3 = 2 Gift of Condensed Magic\n| ingredient4 = 250 Sun Beads\n}}\n=== Sold by===\n{{Sold by}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of the Sun}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Sonne]]\n[[es:Don del sol]]\n[[fr:Don du Soleil]]",
+"title": "Gift of the Sun"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2077640,
+"text": "{{Item infobox\n| type = crafting material\n| description = Refined from [[Silk Scrap|Scraps]].\n| material type = refinement\n| tier = 5\n| material storage = Basic Crafting Materials\n| rarity = basic\n| value = 7\n| id = 19747\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, leatherworker, scribe, tailor\n| rating = 300\n| ingredient1 = 3 Silk Scrap\n| id = 8\n}}\n\n{{recipe\n| source = Mystic Forge\n| type = Promotion\n| quantity = 40\n| upper quantity = 200\n| ingredient1 = 250 Bolt of Linen\n| ingredient2 = 1 Bolt of Silk\n| ingredient3 = 5 Pile of Incandescent Dust\n| ingredient4 = 8 Philosopher's Stone\n}}\n\n== Used in ==\n{{gww}}\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Common crafting materials nav}}\n[[de:Seidenballen]]\n[[es:Haz de seda]]\n[[fr:Rouleau de soie]]",
+"title": "Bolt of Silk"
+}

@@ -1,0 +1,243 @@
+{
+"fetched": 1793699583.3191035,
+"item": "Inscribed Shard",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+},
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Anette Eymundrdottir"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jora's Keep"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Anette Eymundrdottir#vendor47"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Jorbreaker",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+50
+],
+"Has requirement": [
+"the festival [[Dragon Bash]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon Bash Merchant (Weekly)"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Might and Main"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Dragon Bash Merchant (Weekly)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Humble Stone"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Spirits' Refuge"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Humble Stone#vendor36"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+},
+{
+"Has item currency": "Eternal Ice Shard",
+"Has item value": "75"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kjep Corrson"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Kjep Corrson#vendor77"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+5
+],
+"Has item cost": [
+{
+"Has item currency": "Volatile Magic",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Traveling Elonian Trader"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pact Command"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Traveling Elonian Trader#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blue Prophet Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigil Emissary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Vigil Emissary#vendor14"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigil Emissary"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Monuments"
+],
+"Sells item": [
+"Inscribed Shard"
+],
+"_subject": "Vigil Emissary#vendor5"
+}
+]
+}

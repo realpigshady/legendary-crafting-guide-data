@@ -1,0 +1,5 @@
+{
+"revid": 3006657,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Toughness]]<br>+70 [[Power]]<br>+10% [[Experience]] from Kills|id=17823}}\n| type = food\n| food type = meal\n| rarity = fine\n| level = 80\n| salvage = Compost, Research\n| id = 41567\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Plate of Spicy Herbed Chicken\n| type = Meal\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Bowl of Fancy Tangy Sautee Mix\n| ingredient2 = 5 Ghost Pepper\n| ingredient3 = 3 Slab of Poultry Meat\n| ingredient4 = 1 Pile of Zesty Herbs\n| id = 7227\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[de:Teller mit scharfem Kräuterhühnchen]]\n[[es:Plato de pollo con especias picantes]]\n[[fr:Assiette de poulet épicé]]",
+"title": "Plate of Spicy Herbed Chicken"
+}

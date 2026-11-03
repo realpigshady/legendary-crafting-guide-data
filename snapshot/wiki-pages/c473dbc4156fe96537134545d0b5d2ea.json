@@ -1,0 +1,5 @@
+{
+"revid": 2726956,
+"text": "{{Item infobox\n| description = A gift used to create [[legendary jewelry]].\n| type = Trophy\n| rarity = Legendary\n| value = 640\n| bound = account\n| id = 91041\n| requires = lws4\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 100 Funerary Incense\n| ingredient2 = 1 Bloodstone Shard\n| ingredient3 = 1 Gift of Crystalline Magic\n| ingredient4 = 1 Gift of Ephemeral Magic\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Dürre-Beherrschung]]\n[[es:Don de dominio árido]]\n[[fr:Don de maîtrise aride]]",
+"title": "Gift of Arid Mastery"
+}

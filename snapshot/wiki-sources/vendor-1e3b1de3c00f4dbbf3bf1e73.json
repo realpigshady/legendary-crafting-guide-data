@@ -1,0 +1,105 @@
+{
+"fetched": 1793699798.2708542,
+"item": "Jorbreaker",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Piece of Zhaitaffy",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Dragon Bash]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon Bash Merchant (Candy)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Might and Main"
+],
+"Sells item": [
+"Jorbreaker"
+],
+"_subject": "Dragon Bash Merchant (Candy)#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Piece of Zhaitaffy",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Dragon Bash]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon Bash Merchant (Prizes)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Might and Main"
+],
+"Sells item": [
+"Jorbreaker"
+],
+"_subject": "Dragon Bash Merchant (Prizes)#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Piece of Zhaitaffy",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dragon Bash Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hooligan's Route"
+],
+"Sells item": [
+"Jorbreaker"
+],
+"_subject": "Dragon Bash Vendor#vendor23"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2079549,
+"text": "{{Item infobox\n| description = Used to craft [[Chaos Gun]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 76094\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Chaos Gun\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 10 Colored Paper\n| ingredient2 = 50 Mithril Ingot\n| ingredient3 = 1 Black Powder (item)\n| ingredient4 = 50 Pile of Glittering Dust\n| id = 11447\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Konfettigeschosse]]\n[[es:Bala de confeti]]\n[[fr:Balle de confettis]]",
+"title": "Confetti Bullets"
+}

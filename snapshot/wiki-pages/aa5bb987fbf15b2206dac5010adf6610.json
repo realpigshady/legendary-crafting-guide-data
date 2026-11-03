@@ -1,0 +1,5 @@
+{
+"revid": 2726985,
+"text": "{{Item infobox\n| type = crafting material\n| material type = basic\n| description = In the [[Mystic Forge]], combine a [[Gift of Competitive Prosperity]], [[Gift of Competitive Prowess]], [[Gift of Competitive Dedication]], and a PvP Ascended Armor piece to upgrade the armor to [[Legendary armor|Legendary]].\n| rarity = Legendary\n| value = 165\n| bound = account\n| id = 84203\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = mystic forge\n| ingredient1 = 1 Record of League Participation\n| ingredient2 = 1 Star of Glory\n| ingredient3 = 1 Glob of Condensed Spirit Energy\n| ingredient4 = 1 Jar of Distilled Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der kämpferischen Hingabe]]\n[[es:Don de dedicación competitiva]]\n[[fr:Don d'ardeur compétitive]]",
+"title": "Gift of Competitive Dedication"
+}

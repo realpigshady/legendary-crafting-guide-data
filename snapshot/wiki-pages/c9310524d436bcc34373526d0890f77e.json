@@ -1,0 +1,5 @@
+{
+"revid": 2674302,
+"text": "{{otheruses|the item used to craft a [[Leaf of Kudzu]]|the [[trophy]] used in decoration crafting|Pruning Shear}}\n{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| description = Use to craft [[Leaf of Kudzu]].\n| value = 66\n| id = 72849\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Leaf of Kudzu\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Deldrimor Steel Ingot\n| ingredient2 = 1 Spiritwood Plank\n| ingredient3 = 100 Mithril Ingot\n| ingredient4 = 50 Cured Thick Leather Square\n| id = 10019\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Baumschere]]\n[[es:Tijeras de podar (componente)]]\n[[fr:Sécateur]]",
+"title": "Pruning Shears"
+}

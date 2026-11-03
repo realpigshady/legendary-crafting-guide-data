@@ -1,0 +1,5 @@
+{
+"revid": 3103733,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A gift of light used to create [[Sunrise]] and [[Endless Summer]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an [[armorsmith]] rating of 400 to craft.\n| rarity = legendary\n| collection = Legendary Weapon: Sunrise\n| bound = account\n| id = 19632\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Light\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 400\n| ingredient1 = 1 Gift of Ascalon\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Cured Hardened Leather Square\n| ingredient4 = 100 Charged Lodestone\n| id = 843\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Lichts]]\n[[es:Don de la luz]]\n[[fr:Don de lumière]]",
+"title": "Gift of Light"
+}

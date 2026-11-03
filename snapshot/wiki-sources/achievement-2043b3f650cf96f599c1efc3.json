@@ -1,0 +1,130 @@
+{
+"fetched": 1793699869.1223552,
+"item": "Prismaticite Crystal",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Amalgamated Gemstone",
+"Prismaticite Crystal",
+"Recipe: Prismatium Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Slayer Arms Master"
+],
+"Has canonical name": [
+"Dragon Slayer Arms Master"
+],
+"Has game id": [
+5537
+],
+"Is historical": [
+"f"
+],
+"_subject": "Champions (achievements)#achievement5537"
+},
+{
+"Gives item": [
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Response Mission"
+],
+"Has canonical name": [
+"Daily Dragon Responder"
+],
+"Has game id": [
+5482
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Icebrood Saga#achievement5482"
+},
+{
+"Gives item": [
+"Destroyer Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Fire Infuser"
+],
+"Has canonical name": [
+"Dragon Fire Infuser"
+],
+"Has game id": [
+5565
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5565"
+},
+{
+"Gives item": [
+"Corrupted Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Ice Infuser"
+],
+"Has canonical name": [
+"Dragon Ice Infuser"
+],
+"Has game id": [
+5585
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5585"
+},
+{
+"Gives item": [
+"Corrupted Lodestone",
+"Amalgamated Draconic Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Forger of Draconic Ice"
+],
+"Has canonical name": [
+"Forger of Draconic Ice"
+],
+"Has game id": [
+5659
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5659"
+},
+{
+"Gives item": [
+"Destroyer Lodestone",
+"Amalgamated Draconic Lodestone",
+"Prismaticite Crystal"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Forger of Draconic Fire"
+],
+"Has canonical name": [
+"Forger of Draconic Fire"
+],
+"Has game id": [
+5666
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5666"
+}
+]
+}

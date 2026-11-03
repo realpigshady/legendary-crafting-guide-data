@@ -1,0 +1,5 @@
+{
+"revid": 2884170,
+"text": "{{Item infobox\n| type = trophy\n| description = A gift of entertainment used to create legendary weapons [[Quip]] and [[The Moot]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an [[armorsmith]] rating of 400 to craft.\n| material type = mystic\n| rarity = Legendary\n| collection = Legendary Weapon: The Moot; Legendary Weapon: Quip\n| bound = account\n| id = 19635\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Entertainment\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 400\n| ingredient1 = 1 Gift of the Nobleman\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Bolt of Gossamer\n| ingredient4 = 5 Box o' Fun\n| id = 2564\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Unterhaltung]]\n[[es:Don del entretenimiento]]\n[[fr:Don de divertissement]]",
+"title": "Gift of Entertainment"
+}

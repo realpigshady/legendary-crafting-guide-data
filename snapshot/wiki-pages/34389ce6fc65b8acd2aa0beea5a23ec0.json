@@ -1,0 +1,5 @@
+{
+"revid": 2654147,
+"text": "{{Back item infobox\n| description = Used to craft the [[legendary back item|legendary backpack]], [[The Ascension]].\n| prefix = selectable\n| level = 80\n| rarity = ascended\n| skin = Wings of Ascension (skin)\n| bound = account\n| infusion slot = y\n| unique = y\n| id = 77536\n}}\n[[Wings of Ascension]] is a [[PvP League]] reward [[back item]] and the precursor to the [[legendary back item]], [[The Ascension]].\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| ingredient1 = 1 Recruit's Wings of Glory\n| ingredient2 = 1 Veteran's Wings of Glory\n| ingredient3 = 1 Champion's Wings of Glory\n| ingredient4 = 1 Elite's Wings of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Available prefixes ==\n* The following [[Attribute combinations|prefixes]] can be selected:\n{{prefix selection|all ascended trinket}}\n\n== Notes ==\n* Unsalvageable due to being a precursor backpack.\n\n{{PvP League backpieces nav}}\n\n[[de:Schwingen des Aufstiegs]]\n[[es:Alas de Ascensión]]\n[[fr:Les ailes de l'Ascension]]",
+"title": "Wings of Ascension"
+}

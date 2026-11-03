@@ -1,0 +1,5 @@
+{
+"revid": 3135202,
+"text": "{{Item infobox\n| id = 82926\n| type = crafting material\n| material type = basic\n| description = Combine with [[Record of League Participation]], [[Star of Glory]], and [[Glob of Condensed Spirit Energy|Condensed Spirit Energy]] in the Mystic Forge to create the [[Gift of Competitive Dedication]].\n| rarity = Exotic\n| bound = account\n| requires = hot\n}}\n\n== Acquisition ==\n{{Sold by}}\n\n== Used in ==\n{{recipe list}}\n\n\n<div style=\"display:none\"><!--Hidden recipe to display required ingredients in base ingredients query-->\n<!-- Due to the bug that the wiki system cannot recognise \"1000\" items, this has been separated into 500+500 -->\n{{Recipe | source = other | ingredient1 = 500 Shard of Glory | ingredient2 = 500 Shard of Glory}}\n</div>\n\n[[de:Glas destillierten Ruhms]]\n[[es:Tarro de gloria destilada]]\n[[fr:Jarre de gloire distillée]]",
+"title": "Jar of Distilled Glory"
+}

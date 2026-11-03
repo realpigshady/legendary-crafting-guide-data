@@ -1,0 +1,899 @@
+{
+"fetched": 1793698553.9948075,
+"item": "Curious Lowland Honeycomb",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Assist the Kodan Inhabitants of Harvest Den"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Assist the Kodan Inhabitants of Harvest Den#reward2"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Assist the Kodan around Autumn's Vale"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Assist the Kodan around Autumn's Vale#reward2"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Assist the Kodan in Their Coursing Upland Activities"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Assist the Kodan in Their Coursing Upland Activities#reward2"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-4"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Bonus chest/Rewards#reward64"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Catch and collect the flying fish"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Catch and collect the flying fish#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Collect driftwood to help repair the bridge"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Collect driftwood to help repair the bridge#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Collect frogs across the river and bring them back to the pot"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Collect frogs across the river and bring them back to the pot#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Collect logs by using your warclaw's Chain Pull skill on trees"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Collect logs by using your warclaw's Chain Pull skill on trees#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Compete with kodan cubs in a spear contest"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Compete with kodan cubs in a spear contest#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2, 4"
+],
+"Rewarded by": [
+"Dance among the kodan"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Dance among the kodan#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat Azure Windfall in a sparring match"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat Azure Windfall in a sparring match#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat Silent Loch in a sparring match"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat Silent Loch in a sparring match#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat Springhearted in a sparring match"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat Springhearted in a sparring match#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defeat the Bog Queen before she floods the area with maggots"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the Bog Queen before she floods the area with maggots#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Defeat the drake matriarch before she steals any fish"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the drake matriarch before she steals any fish#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat the invasive iboga"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the invasive iboga#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat the queen bee"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the queen bee#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defeat the rotlings to save the Astral Ward scout"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the rotlings to save the Astral Ward scout#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2, 4"
+],
+"Rewarded by": [
+"Defeat the valravn near the graveyard before it consumes a heart"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defeat the valravn near the graveyard before it consumes a heart#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defend the kodan from the bog bodies while they gather peat"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Defend the kodan from the bog bodies while they gather peat#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Destroy the pollutants, and cover yourself in rot and get examined by the ward"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Destroy the pollutants, and cover yourself in rot and get examined by the ward#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Engage the wolf pack leader"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Engage the wolf pack leader#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Escort Ardent Gale as she poisons valravn nests"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Escort Ardent Gale as she poisons valravn nests#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Escort Winding Kant as he looks for his lost spear"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Escort Winding Kant as he looks for his lost spear#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Forage and taste test for edible mushrooms"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Forage and taste test for edible mushrooms#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Gather honey for the kodan"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Gather honey for the kodan#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Get warclaw cubs back in their pens before they eat the cabbages"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Get warclaw cubs back in their pens before they eat the cabbages#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help Frantic Hummingbird tend to the garden"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help Frantic Hummingbird tend to the garden#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Help Warming Sun heal the wounded fawn"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help Warming Sun heal the wounded fawn#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the Astral Ward clean up the ocean"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help the Astral Ward clean up the ocean#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Help the kodan cubs defeat the training illusions"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help the kodan cubs defeat the training illusions#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the kodan cultivate honeybees"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help the kodan cultivate honeybees#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Help the kodan relax in the hot springs"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Help the kodan relax in the hot springs#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Hunt down the rampaging basilisk"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Hunt down the rampaging basilisk#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Hunt down the rampaging warg"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Hunt down the rampaging warg#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Join the kodan on her hunting expedition"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Join the kodan on her hunting expedition#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Join the kodan on his hunting expedition"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Join the kodan on his hunting expedition#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Keep the troll party from getting out of hand"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Keep the troll party from getting out of hand#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Kill the titanspawn infesting the area and tend to their victims"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Kill the titanspawn infesting the area and tend to their victims#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Lowland Shore Fishing Tournament"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Lowland Shore Fishing Tournament#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Prepare fish before they rot"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Prepare fish before they rot#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Prove your mettle to Barbed Vale"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Prove your mettle to Barbed Vale#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Reach the Warclaw Run finish line!"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Reach the Warclaw Run finish line!#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Subdue the Mushroom King"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Subdue the Mushroom King#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Subdue the wild creature (Coursing Upland)"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Subdue the wild creature (Coursing Upland)#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Subdue the wild creature (Cragged Upland)"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "Subdue the wild creature (Cragged Upland)#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"While on your warclaw, dash through the maggots before they infest more bodies"
+],
+"Rewards item": [
+"Curious Lowland Honeycomb"
+],
+"_subject": "While on your warclaw, dash through the maggots before they infest more bodies#reward2"
+}
+]
+}

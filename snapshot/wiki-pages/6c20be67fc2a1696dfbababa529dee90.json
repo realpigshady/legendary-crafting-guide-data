@@ -1,0 +1,5 @@
+{
+"revid": 2217259,
+"text": "{{Item infobox\n| description = Used to craft [[Howl]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 77179\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| type = Legendary Component\n| sheet = Box of Recipes: Howl\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 50 Mithril Ingot\n| ingredient2 = 10 Large Scale\n| ingredient3 = 10 Spool of Gossamer Thread\n| ingredient4 = 2 Emerald Orb\n| id = 11178\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Mithril-Schlange]]\n[[es:Serpiente de mithril]]\n[[fr:Serpent en mithril]]",
+"title": "Mithril Snake"
+}

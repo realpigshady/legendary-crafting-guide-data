@@ -1,0 +1,5 @@
+{
+"revid": 1784435,
+"text": "{{Item infobox\n| description = Used to craft [[The Lover]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 72464\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| name = Horse Figure (Exotic)\n| id = 10740\n| source = recipe sheet\n| sheet = Box of Recipes: The Lover\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 5 Spiritwood Plank\n| ingredient2 = 50 Ancient Wood Plank\n| ingredient3 = 50 Elder Wood Plank\n| ingredient4 = 10 Pile of Crystalline Dust\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Pferdefigur]]\n[[es:Estatuilla de caballo]]\n[[fr:Figurine de cheval]]",
+"title": "Horse Figure"
+}

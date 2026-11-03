@@ -1,0 +1,5 @@
+{
+"revid": 3026003,
+"text": "{{Item infobox\n| type = crafting material\n| material storage = Advanced Crafting Materials\n| rarity = Exotic\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| id = 102467\n| requires = jw\n}}\n[[Neutralized Titan Alloy]] is an {{rarity|exotic|exotic}} [[crafting material]].\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{Recipe\n| source = automatic\n| disciplines = armorsmith, artificer, huntsman, jeweler, leatherworker, tailor, weaponsmith\n| rating = 400\n| ingredient1 = 5 Rotted Titan Amber\n| ingredient2 = 5 Charged Titan Ore\n| ingredient3 = 3 Glob of Ectoplasm\n| ingredient4 = 5 Orichalcum Ingot\n| id = 14805\n}}\n\n== Used in ==\n{{Recipe list}}\n\n== Currency for ==\n{{Vendor query table|currency=Neutralized Titan Alloy}}\n\n[[de:Neutralisierte Titanen-Legierung]]\n[[es:Aleación del titán neutralizada]]\n[[fr:Alliage de Titan neutralisé]]",
+"title": "Neutralized Titan Alloy"
+}

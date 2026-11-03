@@ -1,0 +1,5 @@
+{
+"revid": 2080125,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = ingredient\n| material storage = Cooking Ingredients\n| rarity = basic\n| id = 38216\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Cooking Ingredient\n| disciplines = chef\n| ingredient1 = 1 Glass of Buttermilk\n| ingredient2 = 1 Egg\n| ingredient3 = 1 Bag of Sugar\n| ingredient4 = 1 Vanilla Bean\n| id = 6809\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Ascended Cheesecake grants the same stats as [[Fried Golden Dumpling]] (+100 Concentration, 33% chance to gain might on critical hit).\n* Ascended Creme Brulee grants +100 Concentration and +70 Healing Power.\n\n[[de:Schüssel mit Speiseeis]]\n[[es:Cuenco de base de helado]]\n[[fr:Bol de crème glacée]]",
+"title": "Bowl of Ice Cream Base"
+}

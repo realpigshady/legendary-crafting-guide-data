@@ -1,0 +1,5 @@
+{
+"revid": 2566343,
+"text": "{{Item infobox\n| icon = Gift of Sentience.png\n| description = A gift used to create legendary jewelry.\n| type = Trophy\n| rarity = Legendary\n| bound = account\n| id = 91225\n| requires = pof\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe (discontinued) ===\n* This recipe is no longer available using newly acquired Legendary Insights as they have been converted into a currency. Thus, unless the player has leftover Legendary Insights as items, Gifts of Compassion must be bought from Scholar Glenna.\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Gift of Desert Mastery\n| ingredient2 = 6 Ball of Dark Energy\n| ingredient3 = 150 Legendary Insight (consumable)\n| ingredient4 = 1 Gift of Complex Emotions\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Mitgefühls]]\n[[es:Don de la compasión]]\n[[fr:Don de compassion]]",
+"title": "Gift of Compassion"
+}

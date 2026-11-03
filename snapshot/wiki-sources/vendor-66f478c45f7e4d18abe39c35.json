@@ -1,0 +1,55 @@
+{
+"fetched": 1793699168.1902235,
+"item": "Gift of the Mist Warrior",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Testimony of Castoran Heroics",
+"Has item value": "500"
+},
+{
+"Has item currency": "Grandmaster Mark Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Pile of Recycled Siege Equipment",
+"Has item value": "25"
+},
+{
+"Has item currency": "Gift of War Prosperity",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Mists Research: Strife Unending"
+],
+"Has total purchase cap": [
+2
+],
+"Has vendor": [
+"Dugan"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Gift of the Mist Warrior"
+],
+"_subject": "Dugan#vendor59"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2077569,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| rarity = basic\n| id = 12181\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| rating = 100\n| ingredient1 = 2 Onion\n| ingredient2 = 1 Packet of Salt\n| ingredient3 = 2 Head of Garlic\n| id = 2849\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Haufen von scharfem Gewürz]]\n[[es:Montón de condimento ácido]]\n[[fr:Tas d'assaisonnement épicé]]",
+"title": "Pile of Tangy Seasoning"
+}

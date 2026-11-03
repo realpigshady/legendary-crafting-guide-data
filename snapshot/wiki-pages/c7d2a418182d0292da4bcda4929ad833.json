@@ -1,0 +1,5 @@
+{
+"revid": 2674254,
+"text": "{{item infobox\n| description = Used to craft [[The Bard]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 75877\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| id = 10549\n| name = Rooster Statues\n| source = recipe sheet\n| sheet = Box of Recipes: The Bard\n| type = Legendary Component\n| disciplines = Artificer\n| rating = 500\n| quantity = 1\n| ingredient1 = 7 Emerald Orb\n| ingredient2 = 1 Deldrimor Steel Ingot\n| ingredient3 = 100 Elder Wood Plank\n| ingredient4 = 50 Ancient Wood Plank\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Hahnstatuen]]\n[[es:Estatua de gallo (objeto de colección)]]\n[[fr:Statue de coq]]",
+"title": "Rooster Statues"
+}

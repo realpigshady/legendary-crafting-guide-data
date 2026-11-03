@@ -1,0 +1,5 @@
+{
+"revid": 3010825,
+"text": "{{disambig}}\n[[Charm (ingredient)|Charm]] may refer to the following ingredients used to craft [[rune]]s and [[relic]]s:\n{| {{STDT}}\n|-\n| Charm || TP high buy || TP low sell\n|-\n| {{item icon|Charm of Brilliance}} || {{tp|Charm of Brilliance|buy}} || {{tp|Charm of Brilliance|sell}}\n|-\n| {{item icon|Charm of Potence}} || {{tp|Charm of Potence|buy}} || {{tp|Charm of Potence|sell}}\n|-\n| {{item icon|Charm of Skill}} || {{tp|Charm of Skill|buy}} || {{tp|Charm of Skill|sell}}\n|}\n\n== Recipe ==\nCombining any three [[Charm (ingredient)|Charms]] with a [[Philosopher's Stone]] will yield a random charm. There is a higher chance to obtain a charm not used in the recipe, and a lower chance to receive a charm used in the forge.\n{{Recipe\n| source = Mystic Forge\n| ingredient1 = 1 Charm (ingredient)\n| ingredient2 = 1 Charm (ingredient)\n| ingredient3 = 1 Charm (ingredient)\n| ingredient4 = 1 Philosopher's Stone\n| base ingredients calculation = n\n}}\n\n== See also ==\n* [[Symbol (ingredient)]]\n\n{{#set:Has canonical name=Charm}}\n[[de:Talisman (Handwerksmaterial)]]\n[[es:Talismán (ingrediente)]]",
+"title": "Charm (ingredient)"
+}

@@ -1,0 +1,1671 @@
+{
+"body": [
+{
+"chat_link": "[&AgGvTAAA]",
+"description": "A gift of darkness used to create Twilight.\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach an armorsmith rating of 400 to craft.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/255A5E0CC05144DD5638D9A8E4A25FA12FA042DA/455812.png",
+"id": 19631,
+"level": 0,
+"name": "Gift of Darkness",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHYTAAA]",
+"description": "A gift used to create legendary weapons.\n\nMade by combining these items in the Mystic Forge:\n• 250 Vicious Fangs\n• 250 Armored Scales\n• 250 Vicious Claws\n• 250 Ancient Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2F41032550D4024E184FAD6C1C0C14E53A09BCEA/455852.png",
+"id": 19672,
+"level": 0,
+"name": "Gift of Might",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHZTAAA]",
+"description": "A gift used to create legendary weapons.\n\nMade by combining these items in the Mystic Forge:\n• 250 Vials of Powerful Blood\n• 250 Powerful Venom Sacs\n• 250 Elaborate Totems\n• 250 Piles of Crystalline Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/992EC43FA1317BED252DB9D09905C601160B0E01/455853.png",
+"id": 19673,
+"level": 0,
+"name": "Gift of Magic",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHeTAAA]",
+"description": "A gift used in legendary crafting.\n\nAcquired from the WvW Gift of Battle Item Reward Track.\n\nTo create the Gift of War Prosperity, combine this in the Mystic Forge with:\n• 15 Mystic Clovers\n• 1 Gift of Condensed Might\n• 1 Gift of Condensed Magic",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB593444A3ED065F7BE3EC71713CF80D145EABCB/455858.png",
+"id": 19678,
+"level": 0,
+"name": "Gift of Battle",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgE9UQAA]",
+"description": "A shard of pure power used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D9F626FA79AA0C49436337B1C767023CCF14EFF9/434426.png",
+"id": 20797,
+"level": 0,
+"name": "Bloodstone Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGatgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F19A8B4E309C3042358FB194F7190331DEF27EB/631494.png",
+"id": 46746,
+"level": 0,
+"name": "Vision Crystal",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 40
+},
+{
+"chat_link": "[&AgGkFAEA]",
+"description": "Rewarded through PvP reward tracks and PvP dailies.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BBA010474B8CCE22392E71EF81E5FDB662BC32F/1206834.png",
+"id": 70820,
+"level": 80,
+"name": "Shard of Glory",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGdFwEA]",
+"description": "Found in World vs. World reward tracks.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4D0455D2EFDB0DFC008F4564B38D6545901A05B/1206833.png",
+"id": 71581,
+"level": 80,
+"name": "Memory of Battle",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgHNGAEA]",
+"description": "Used in crafting ascended backpacks. Made of damask, elonian leather, spiritwood, and Deldrimor steel.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BEF40DDFC9240727741A0704AD04FA01D2DA4E2A/866730.png",
+"id": 71885,
+"level": 0,
+"name": "Third Order Mist Frame",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgGlGwEA]",
+"description": "Used in crafting ascended backpacks. Made from ectoplasm, crystallized mist essence, a vision crystal, and Spirit of the Upper Bound.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/254BC8EFC296C8BF71C64716A4220CB95102B4A0/223929.png",
+"id": 72613,
+"level": 0,
+"name": "Unbound Wings",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgEjJgEA]",
+"description": "Purchase this recipe from Miyani.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CB33CA326C61A5350B4E40C0C621605CB456C25/1302184.png",
+"id": 75299,
+"level": 0,
+"name": "Gift of Scales",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHNJgEA]",
+"description": "Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B6745C0DA4CB49665746CA04022E244606115B9F/65628.png",
+"id": 75469,
+"level": 0,
+"name": "Solution: Unbound",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEFKAEA]",
+"description": "Used to craft ascended and legendary backpacks. Made from Essences of Luck, Thermocatalytic Reagents, and a Cube of Stabilized Dark Energy.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0F15CC7A245C804C71F31F6B1037F5B043F3905/587072.png",
+"id": 75781,
+"level": 0,
+"name": "Pristine Mist Essence",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgGlLgEA]",
+"default_skin": 6573,
+"description": "Combine all 4 Wings of Glory to obtain Wings of Ascension, precursor to the Ascension.",
+"details": {
+"attribute_adjustment": 75.456,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AD6A9A24F832480CC1EA97B4DA67032E4EB3F45E/1313062.png",
+"id": 77477,
+"level": 80,
+"name": "Champion's Wings of Glory",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGuLgEA]",
+"description": "Combine 5 of these in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and a Perfect Mist Core to create the Gift of Skirmishing.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0E0A40E7C1D3CB944432F76EC6E52B614B29BEB/1313079.png",
+"id": 77486,
+"level": 0,
+"name": "Certificate of Support",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG1LgEA]",
+"description": "Combine the Thrill of Battle, Tapestry of Sacrifice, Monument of Legends, and Hymn of Glory in the Mystic Forge to create the Gift of the Competitor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/393EA56A68EF00D0B20D9458D1B445A198C2A297/1313082.png",
+"id": 77493,
+"level": 0,
+"name": "The Thrill of Battle",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG5LgEA]",
+"description": "Combine the Thrill of Battle, Tapestry of Sacrifice, Monument of Legends, and Hymn of Glory in the Mystic Forge to create the Gift of the Competitor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F3A564A9ABD6C67319C5D494B377D140C18F80C/1313081.png",
+"id": 77497,
+"level": 0,
+"name": "Tapestry of Sacrifice",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG/LgEA]",
+"default_skin": 6562,
+"description": "Combine all 4 Wings of Glory to obtain Wings of Ascension, precursor to the Ascension.",
+"details": {
+"attribute_adjustment": 85.36,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C604DA0A5C11DEA69F419E2EEC274AFF20D0C20E/1313063.png",
+"id": 77503,
+"level": 80,
+"name": "Elite's Wings of Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHDLgEA]",
+"default_skin": 6558,
+"description": "Combine all 4 Wings of Glory to obtain Wings of Ascension, precursor to the Ascension.",
+"details": {
+"attribute_adjustment": 64.656,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/164C35F01DE3FDFCB8D3EE0920A5F4B803E6996B/1313033.png",
+"id": 77507,
+"level": 80,
+"name": "Recruit's Wings of Glory",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHQLgEA]",
+"description": "Combine in the Mystic Forge with 2 Vision Crystals, 250 Shards of Glory, and 5 Certificates of Support to create the Gift of Skirmishing.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A2FCE1D04B4DEEC1A2D12FC1940FA810409C0D47/1313080.png",
+"id": 77520,
+"level": 0,
+"name": "Perfect Mist Core",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHSLgEA]",
+"default_skin": 6560,
+"description": "Combine all 4 Wings of Glory to obtain Wings of Ascension, precursor to the Ascension.",
+"details": {
+"attribute_adjustment": 69.989,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/39593E04DED3374BBA7B439FDC201F15ECD8F42D/1313061.png",
+"id": 77522,
+"level": 80,
+"name": "Veteran's Wings of Glory",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHiLgEA]",
+"description": "Combine the Thrill of Battle, Tapestry of Sacrifice, Monument of Legends, and Hymn of Glory in the Mystic Forge to create the Gift of the Competitor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A4080E0C6FA2A8640016AD74EC21D40FC600FBFA/1313074.png",
+"id": 77538,
+"level": 0,
+"name": "Monument of Legends",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHsLgEA]",
+"description": "Combine the Thrill of Battle, Tapestry of Sacrifice, Monument of Legends, and Hymn of Glory in the Mystic Forge to create the Gift of the Competitor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/26146E08489556457703777CAC2CFCADB37AD1FB/1313072.png",
+"id": 77548,
+"level": 0,
+"name": "Hymn of Glory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE6NgEA]",
+"description": "Used in the Mystic Forge to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04296A0273A1DB6866E5180B73F5A3E59E2A0C95/1493223.png",
+"id": 79418,
+"level": 0,
+"name": "Mystic Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgGIPQEA]",
+"default_skin": 7256,
+"description": "Combine the Recruit's, Soldier's, General's, and Commander's Wings of War to obtain Warcry, precursor to Warbringer.",
+"details": {
+"attribute_adjustment": 75.456,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4D430AF4DF5A3675B97E05FC0F0E4C2B35CAF632/1701093.png",
+"id": 81288,
+"level": 80,
+"name": "General's Wings of War",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGOPQEA]",
+"default_skin": 7252,
+"description": "Combine the Recruit's, Soldier's, General's, and Commander's Wings of War to obtain Warcry, precursor to Warbringer.",
+"details": {
+"attribute_adjustment": 85.36,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/59EDCAC43B5EFE104ACE3F3B1A4405F42F2CBA0F/1701094.png",
+"id": 81294,
+"level": 80,
+"name": "Commander's Wings of War",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGQPQEA]",
+"description": "Combine the Legendary Spike, 4 Gifts of Battle, 250 Memories of Battle, and 2 Vision Crystals in the Mystic Forge to create the Gift of Conquering.",
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D12175CCA72539F1E8CC967AAF1D2045D3D24F01/1701107.png",
+"id": 81296,
+"level": 80,
+"name": "Legendary Spike",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 3000
+},
+{
+"chat_link": "[&AgGnPQEA]",
+"description": "Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7BF37720940A0E406326B46A6B51E7C50A9B56D7/1701112.png",
+"id": 81319,
+"level": 0,
+"name": "Mystic Essence of Strategy",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHMPQEA]",
+"default_skin": 7246,
+"description": "Combine the Recruit's, Soldier's, General's, and Commander's Wings of War to obtain Warcry, precursor to Warbringer.",
+"details": {
+"attribute_adjustment": 69.989,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0E7813E70E9204D90227FE6161ED66AF09DF1FEB/1701092.png",
+"id": 81356,
+"level": 80,
+"name": "Soldier's Wings of War",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgH/PQEA]",
+"description": "Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/607848F822DFC4D90CCF5AE54011646359B40967/1701110.png",
+"id": 81407,
+"level": 0,
+"name": "Mystic Essence of Annihilation",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEpPgEA]",
+"description": "Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B01701670E589124703A4102FEA746D4D49AFED6/1701111.png",
+"id": 81449,
+"level": 0,
+"name": "Mystic Essence of Carnage",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEvPgEA]",
+"default_skin": 7276,
+"description": "Combine the Recruit's, Soldier's, General's, and Commander's Wings of War to obtain Warcry, precursor to Warbringer.",
+"details": {
+"attribute_adjustment": 64.656,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E130FBD10F1AAC58ADD9F1375D4108FB081D0F47/1701091.png",
+"id": 81455,
+"level": 80,
+"name": "Recruit's Wings of War",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFWPgEA]",
+"description": "Combine Mystic Essence of Strategy, Mystic Essence of Animosity, Mystic Essence of Carnage, and Mystic Essence of Annihilation in the Mystic Forge to create the Gift of Warfare.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0FC911B8E6D20B7AAFD5EDCBF93B1E37BCF9FA99/1701109.png",
+"id": 81494,
+"level": 0,
+"name": "Mystic Essence of Animosity",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGJdwEA]",
+"description": "In the Mystic Forge, combine 38 Mystic Clovers, a Gift of Condensed Magic, a Gift of Condensed Might, and 5 Amalgamated Draconic Lodestones to create a Draconic Tribute.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9AC3F5DBA9B52A0D0A7BCD4DAE03D5F073040D43/2594263.png",
+"id": 96137,
+"level": 0,
+"name": "Draconic Tribute",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHfjwEA]",
+"default_skin": 12476,
+"description": "<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from the renown heart vendor in Mistburned Barrens. </c>",
+"details": {
+"attribute_adjustment": 85.36,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/73656EDEFFC3F55A0B3D3263704D99AD71DCB833/3593172.png",
+"id": 102367,
+"level": 80,
+"name": "Salmon of Knowledge Backpiece",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgG3kwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/636FCB6D19952BE2AC1A7DF20F0A78AF1DFC7E60/3376085.png",
+"id": 103351,
+"level": 0,
+"name": "Mursaat Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgH7mAEA]",
+"description": "Combine a Gift of the Mursaat Ruins, a Gift of Janthir Wanderlust, 250 Mursaat Runestones, and 250 Mystic Runestones in the Mystic Forge to create a Gift of the Mistburned Isles.\n\nCreated in the Mystic Forge by combining:\n• 1 Gift of Lowland Shore\n• 1 Gift of Janthir Syntri\n• 1 Gift of Mistburned Barrens\n• 1 Gift of Bava Nisos",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E3EF535D833F7049BC8DC75C728B6149873143B/3629247.png",
+"id": 104699,
+"level": 0,
+"name": "Gift of Janthir Wanderlust",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEAmQEA]",
+"default_skin": 13081,
+"description": "<c=@flavor>This back item is used for crafting Janthir Wilds legendaries. Remnants can be purchased from Ward Trader Sampaguita in Bava Nisos.</c>",
+"details": {
+"attribute_adjustment": 85.36,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+]
+},
+"flags": [
+"AccountBound",
+"NoSell",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EE555B3777E24EFD0AC4219803DC343866E39B23/3629028.png",
+"id": 104704,
+"level": 80,
+"name": "Askur Camping Cookout Backpiece",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgENmQEA]",
+"description": "Combine a Gift of the Appetizer, a Gift of the Entrée, a Gift of the Side Course, and a Gift of the Dessert in the Mystic Forge to create the Gift of the Feast.\n\nCreated in the Mystic Forge by combining:\n• 200 Bowls of Prickly Pear Sorbet\n• 50 Bowls of Passion Fruit Tapioca Pudding\n• 2 Amalgamated Rift Essences\n• 5 Fruits of the Shadow",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/261F0E030546DD4143F8DCD305E90823C39DE1C8/3629211.png",
+"id": 104717,
+"level": 0,
+"name": "Gift of the Dessert",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE7mQEA]",
+"description": "Combine a Gift of the Mursaat Ruins, a Gift of Janthir Wanderlust, 250 Mursaat Runestones, and 250 Mystic Runestones in the Mystic Forge to create the Gift of the Mistburned Isles.\n\nCreated in the Mystic Forge by combining:\n• 100 Vials of Titan Melted Liquid Obsidian\n• 50 Mists Gate Residues\n• 100 Shards of Mistburned Barrens\n• 100 Shards of Bava Nisos",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CD1C40D04200F4AB55565C3BA02BAB0507BD42D/3629249.png",
+"id": 104763,
+"level": 0,
+"name": "Gift of the Mursaat Ruins",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFJmQEA]",
+"description": "Combine a Binding of the Dragon, a Draconic Tribute, a Salmon of Knowledge Backpack, and an Askur Camping Cookout Backpack (or the remnants of either) in the Mystic Forge to create the legendary precursor Orrax Contained.\n\nRewarded from completing the achievement Unknown Nightmares: Experiments in the Shadows.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7F1598BC4BEE3BBB9DA87EDB9046FBFB4D30E7CA/3629147.png",
+"id": 104777,
+"level": 0,
+"name": "Binding of the Dragon",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFRmQEA]",
+"description": "Remnants of an Askur Camping Cookout Backpiece. Used as a replacement for the Askur Camping Cookout Backpiece in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF377B55F6033210C3F7A92A1C1CEAEF142204E7/3629252.png",
+"id": 104785,
+"level": 0,
+"name": "Askur Camping Cookout Backpiece Remnant",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFXmQEA]",
+"description": "Combine a Gift of Darkness, a Gift of Scales, a gift of Titan Understanding, and a Bloodstone Shard in the Mystic Forge to create the Gift of Shadows.\n\nA Gift of Titan Understanding can be purchased from the renown heart vendor in Mistburned Barrens or Ward Trader Sampaguita.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D4F635BDDA08E8B978B67605ED9DC406CED37F60/3629250.png",
+"id": 104791,
+"level": 0,
+"name": "Gift of Titan Understanding",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFxmQEA]",
+"description": "Remnant of a Salmon of Knowledge Backpiece. Used as a replacement for Salmon of Knowledge Backpiece in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/12DBE0767A652D19D0255B63EE253D72D70B26A8/3629253.png",
+"id": 104817,
+"level": 0,
+"name": "Salmon of Knowledge Backpiece Remnant",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGHmQEA]",
+"description": "Combine a Gift of the Appetizer, a Gift of the Entrée, a Gift of the Side Course, and a Gift of the Dessert in the Mystic Forge to create the Gift of the Feast.\n\nCreated in the Mystic Forge by combining:\n• 200 Meaty Asparagus Skewers\n• 100 Bowls of Black Pepper Cactus Salad\n• 30 Mystic Clovers\n• 5 Fruits of the Shadow",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/262BE922052F65A77345CD68F6284BB20DE6972D/3629214.png",
+"id": 104839,
+"level": 0,
+"name": "Gift of the Side Course",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHkmQEA]",
+"description": "Combine a Gift of the Appetizer, a Gift of the Entrée, a Gift of the Side Course, and a Gift of the Dessert in the Mystic Forge to create the Gift of the Feast.\n\nCreated in the Mystic Forge by combining:\n• 200 Plates of Orrian Steak Frittes\n• 100 Plates of Truffle Steak\n• 50 Plates of Spicy Herbed Chicken\n• 5 Fruits of the Shadow",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3B4C651C0A72217DA35E4E11D1E1ECB5EA4B2407/3629212.png",
+"id": 104932,
+"level": 0,
+"name": "Gift of the Entrée",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEFmgEA]",
+"description": "Combine a Gift of the Appetizer, a Gift of the Entrée, a Gift of the Side Course, and a Gift of  the Dessert in the Mystic Forge to create the Gift of the Feast.\n\nCreated in the Mystic Forge by combining:\n• 200 Bowls of Poultry Satay\n• 100 Red-Lentil Saobosas\n• 50 Spicy Marinated Mushrooms\n• 5 Fruits of the Shadow",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B872EFDB02520AA29080EA19A76E3D38FCC9E7BA/3629210.png",
+"id": 104965,
+"level": 0,
+"name": "Gift of the Appetizer",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19631,19672,19673,19675,19678,19721,20797,46746,70820,71581,71885,72613,75299,75469,75781,77477,77486,77493,77497,77503,77507,77520,77522,77538,77548,79418,81288,81294,81296,81319,81356,81407,81449,81455,81494,96137,102367,103351,104699,104704,104717,104763,104777,104785,104791,104817,104839,104932,104965"
+}

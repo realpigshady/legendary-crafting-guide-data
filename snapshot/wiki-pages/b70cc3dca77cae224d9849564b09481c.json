@@ -1,0 +1,5 @@
+{
+"revid": 2959520,
+"text": "{{Upgrade component infobox\n| description = Double-click to apply to an item with an unused upgrade slot.\n| variables = {{item stat|Power|17}}{{item stat|Ferocity|17}}{{item stat|Vitality|9}}{{item stat|Precision|9}}\n| type = gemstone\n| material storage = Gemstones and Jewels\n| level = 80\n| rarity = Exotic\n| value = 256\n| id = 97102\n| requires = eod\n| prefix = dragon\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Gathered from ===\n{{Gathered from}}\n\n=== Contained in ===\n{{Contained in}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Notes ==\n* A maximum of 20 [[Jadeite Vein]] nodes can be gathered from every day per account. Without gathering boosts up to 60 Chunks of Pure Jade can be collected. Extra nodes disappear once the daily limit has been reached.\n\n[[de:Brocken von purer Jade]]\n[[es:Pedazo de jade puro]]\n[[fr:Morceau de jade pur]]",
+"title": "Chunk of Pure Jade"
+}

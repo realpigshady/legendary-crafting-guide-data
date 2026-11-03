@@ -1,0 +1,5 @@
+{
+"revid": 2800802,
+"text": "{{Item infobox\n| type = trophy\n| description = A gift of music used to create [[The Minstrel]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[jeweler]] rating of 400 to craft.\n| material type = mystic\n| rarity = legendary\n| bound = account\n| id = 19630\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Music\n| type = Crafting Component\n| disciplines = jeweler\n| rating = 400\n| ingredient1 = 1 Gift of the Nobleman\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Bolt of Gossamer\n| ingredient4 = 100 Opal Orb\n| id = 3725\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n[[de:Gabe der Musik]]\n[[es:Don de la música]]\n[[fr:Don de musique]]",
+"title": "Gift of Music"
+}

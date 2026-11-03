@@ -1,0 +1,5 @@
+{
+"revid": 2217269,
+"text": "{{Item infobox\n| description = Used to craft [[Spark (weapon)|Spark]].\n| type = crafting material\n| material type = component\n| value = 66\n| rarity = exotic\n| bound = account\n| id = 73736\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = sheet\n| type = Legendary Component\n| sheet = Box of Recipes: Spark\n| disciplines = weaponsmith\n| rating = 500\n| ingredient1 = 50 Orichalcum Ingot\n| ingredient2 = 1 Watchwork Mechanism\n| ingredient3 = 10 Thermocatalytic Reagent\n| ingredient4 = 5 Globs of Ectoplasm\n| id = 11499\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Regulatordüse]]\n[[es:Válvula reguladora]]\n[[fr:Embout de régulateur]]",
+"title": "Regulator Nozzle"
+}

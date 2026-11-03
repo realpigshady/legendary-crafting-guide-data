@@ -1,0 +1,5 @@
+{
+"revid": 2727020,
+"text": "{{Item infobox\n| description = In the [[Mystic Forge]], combine a [[Gift of the Champion]] with a [[Mist Pendant]], a [[Mystic Tribute]], and a [[Gift of Skirmishing]] to create the legendary amulet [[Transcendence]].\n| type = crafting material\n| material type = basic\n| rarity = Legendary\n| value = 165\n| bound = account\n| id = 93036\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Salt-Forged Mist Diamond\n| ingredient2 = 1 Gift of the Mists\n| ingredient3 = 1 Gift of Competitive Dedication\n| ingredient4 = 1 Tome of the Mists\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Champions]]\n[[es:Don del campeón]]\n[[fr:Don du champion]]",
+"title": "Gift of the Champion"
+}

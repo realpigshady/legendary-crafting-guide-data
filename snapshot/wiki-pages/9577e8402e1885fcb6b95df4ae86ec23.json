@@ -1,0 +1,5 @@
+{
+"revid": 2795744,
+"text": "{{Item infobox\n| description = A gift of lightning used to create [[Bolt]].<br><br>Purchase the recipe for this item from any Mystic Forge vendor and reach an [[artificer]] rating of 400 to craft.\n| type = Trophy\n| material type = Mystic\n| rarity = Legendary\n| collection = Legendary Weapon: Bolt\n| value = 640\n| bound = Account\n| id = 19639\n}}\n\n== Acquisition ==\n=== Recipe ===\n{{Recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Lightning\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 1 Gift of Ascalon\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Bolt of Gossamer\n| ingredient4 = 100 Charged Lodestone\n| id = 4317\n}}\n\n=== Achievements ===\n{{Achievement list|reward=Gift of Lightning}}\n\n== Used in ==\n{{Recipe list}}\n\n{{Collection nav}}\n\n[[de:Gabe des Blitzschlags]]\n[[es:Don del relámpago]]\n[[fr:Don de foudre]]",
+"title": "Gift of Lightning"
+}

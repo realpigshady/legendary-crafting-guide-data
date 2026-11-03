@@ -1,0 +1,65 @@
+{
+"fetched": 1793699697.2510087,
+"item": "Tome of Knowledge",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Tome of Knowledge"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"No Refuge"
+],
+"Has canonical name": [
+"Wicked Rodeo"
+],
+"Has game id": [
+1829
+],
+"Is historical": [
+"f"
+],
+"_subject": "Seeds of Truth (achievements)#achievement1829"
+},
+{
+"Gives item": [
+"Tome of Knowledge"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"WvW Spring Tournament 2014 (achievements)"
+],
+"Has canonical name": [
+"Well Aren't You Special"
+],
+"Has game id": [
+1542
+],
+"Is historical": [
+"t"
+],
+"_subject": "WvW Spring Tournament 2014 (achievements)#achievement1542"
+},
+{
+"Gives item": [
+"Tome of Knowledge"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"WvW Spring Tournament 2014 (achievements)"
+],
+"Has canonical name": [
+"Reactor Robber"
+],
+"Has game id": [
+1553
+],
+"Is historical": [
+"t"
+],
+"_subject": "WvW Spring Tournament 2014 (achievements)#achievement1553"
+}
+]
+}

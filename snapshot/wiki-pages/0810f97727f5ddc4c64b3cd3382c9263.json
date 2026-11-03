@@ -1,0 +1,5 @@
+{
+"revid": 2846944,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A gift of darkness used to create [[Twilight]].<br/><br/>Purchase the recipe for this item from any Mystic Forge vendor and reach an [[armorsmith]] rating of 400 to craft.\n| collection = Legendary Weapon: Twilight\n| rarity = legendary\n| bound = account\n| value = 640\n| id = 19631\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Darkness\n| type = Crafting Component\n| disciplines = armorsmith\n| rating = 400\n| ingredient1 = 1 Gift of Ascalon\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 250 Cured Hardened Leather Square\n| ingredient4 = 100 Onyx Lodestone\n| id = 842\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Dunkelheit]]\n[[es:Don de la oscuridad]]\n[[fr:Don de ténèbres]]",
+"title": "Gift of Darkness"
+}

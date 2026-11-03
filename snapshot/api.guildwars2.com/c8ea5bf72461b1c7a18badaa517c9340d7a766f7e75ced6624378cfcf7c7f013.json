@@ -1,0 +1,100 @@
+{
+"body": [
+{
+"chat_link": "[&AgHTFAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Fangs\n• 1 Gift of Scales\n• 1 Gift of Claws\n•1 Gift of Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CCA4C2F8AF79D2EB0CFF381E3DDA3EA792BA7412/1302180.png",
+"id": 70867,
+"level": 0,
+"name": "Gift of Condensed Might",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHyKgEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Blood\n• 1 Gift of Venom\n• 1 Gift of Totems\n• 1 Gift of Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09F42753049B20A54F6017B1F26A9447613016FE/1302179.png",
+"id": 76530,
+"level": 0,
+"name": "Gift of Condensed Magic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGLLgEA]",
+"description": "A gift used to create legendary armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A1D95FA449E5DF700C4DB20EBEBCB92007FE4397/3270630.png",
+"id": 77451,
+"level": 0,
+"name": "Gift of Craftsmanship",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGPjAEA]",
+"description": "In the Mystic Forge, combine a Gift of Relics, a Gift of Condensed Magic, a Gift of Condensed Might, and a Gift of Craftsmanship to create a legendary relic.\n\nA Gift of Relics is made by combining these items in the Mystic Forge:\n• 25 Mystic Facets\n• 25 Mystic Clovers \n• 150 Globs of Ectoplasm\n• 1 Gift of Research",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D6E27E21C6B7125D756E4316F2D4576BD9E4D550/3255338.png",
+"id": 101519,
+"level": 0,
+"name": "Gift of Relics",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=70867,76530,77451,101519"
+}

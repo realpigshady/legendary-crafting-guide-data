@@ -1,0 +1,1835 @@
+{
+"body": [
+{
+"chat_link": "[&AgH4TAAA]",
+"description": "Used with Copper Ore to refine Bronze Ingots. Can be purchased from Master Craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B2705275944046734E4079651E6BB0CC0EEB3943/65932.png",
+"id": 19704,
+"level": 0,
+"name": "Lump of Tin",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgH+TAAA]",
+"description": "Refined from Logs.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DF93CAB2913940F5FD44FF66EF309632125DB28/65936.png",
+"id": 19710,
+"level": 0,
+"name": "Green Wood Plank",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEITQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7BA22DDCF0F4277A692D5D75271F9491AC303AD/63573.png",
+"id": 19720,
+"level": 0,
+"name": "Bolt of Jute",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEQTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACB203A4381C7B690A7C9BAA2EFEBD01A418E3AD/65945.png",
+"id": 19728,
+"level": 0,
+"name": "Thin Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgESTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BDAA40E3795930BBF3DC5ACE366ABAE2D5BBFB2/65947.png",
+"id": 19730,
+"level": 0,
+"name": "Coarse Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEaTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E0F2811CBEA77DF5344499E6B4C01673EE6DAC9/65955.png",
+"id": 19738,
+"level": 0,
+"name": "Stretched Rawhide Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEgTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7CD96276BF2094F5A17EB520DAA5123F04023102/63575.png",
+"id": 19744,
+"level": 0,
+"name": "Bolt of Linen",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEkTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/021DA825F2092327B1C6BC09EC77BD5DE5B4770D/65961.png",
+"id": 19748,
+"level": 0,
+"name": "Silk Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgH+WQAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. Has a small chance of salvaging upgrades.",
+"details": {
+"charges": 15,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+"id": 23038,
+"level": 0,
+"name": "Crude Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEAWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F0B4025A23D3D1ADE0466FFEAA7023D8EFD8422C/66765.png",
+"id": 23040,
+"level": 0,
+"name": "Basic Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEBWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 15% chance of rarer materials. 40% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CA01D91B20EB19359FFF313C6DC5C2480A0872B0/66766.png",
+"id": 23041,
+"level": 0,
+"name": "Fine Salvage Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 36
+},
+{
+"chat_link": "[&AgECWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 60% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7902452AAF4824D66ED0A914CB1C0864D33A116F/66767.png",
+"id": 23042,
+"level": 0,
+"name": "Journeyman's Salvage Kit",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 100
+},
+{
+"chat_link": "[&AgEFWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5FE549CF38CE536D730631CE2EDEC7F95575B3DB/2699840.png",
+"id": 23045,
+"level": 0,
+"name": "Mystic Salvage Kit",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHXXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C04FDFF465A682BB080F272E9DB3DBC0637113D/66935.png",
+"id": 24279,
+"level": 0,
+"name": "Small Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHdXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EE0C5C5917BE5B0F1569134E40E80399FFC73E17/66941.png",
+"id": 24285,
+"level": 0,
+"name": "Small Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHjXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3008755732C166F3ACF87CC044779C5D95D25896/66946.png",
+"id": 24291,
+"level": 0,
+"name": "Vial of Thin Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHpXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABE928F56C08C9ED47664948EB30A25B08DC5DEF/66952.png",
+"id": 24297,
+"level": 0,
+"name": "Small Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHvXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/306AB62DEBCD6D02113CD0730BDC6F95BA9B9AC4/65587.png",
+"id": 24303,
+"level": 0,
+"name": "Charged Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH0XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F0C133B3E8FADB3C070DA35C015551A7E50692F8/66961.png",
+"id": 24308,
+"level": 0,
+"name": "Onyx Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH5XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F7A947B33B0710FF2D34EAD478E7C9C430A4CFE4/66966.png",
+"id": 24313,
+"level": 0,
+"name": "Molten Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH+XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C3FD9D339FFF55543CB33643C91B0E4BA9D2F4A4/65591.png",
+"id": 24318,
+"level": 0,
+"name": "Glacial Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEDXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/51F010BBE69639210416F8E436C00177670C5847/66974.png",
+"id": 24323,
+"level": 0,
+"name": "Destroyer Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEIXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2EDD405D1DF17EB01192982A3F9CF59090D7A617/65590.png",
+"id": 24328,
+"level": 0,
+"name": "Crystal Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgENXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87CFBBE42926064C2F6399F68BE06B23FA53109/63275.png",
+"id": 24333,
+"level": 0,
+"name": "Pile of Filthy Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgESXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08AF9D2A7576FA66BEC322A859ADA0DFF7BA4B0E/66984.png",
+"id": 24338,
+"level": 0,
+"name": "Corrupted Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEXXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E2EC91117128DC5BC0B0FA0267EBBC2429B3556F/66989.png",
+"id": 24343,
+"level": 0,
+"name": "Bone Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEbXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4CFEC931B41FA0092E5C9B6F240FE1F64E2F5247/66993.png",
+"id": 24347,
+"level": 0,
+"name": "Small Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEhXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/58E20991EB9BA6D4954DAFC6AF4B3CE3C8EB7116/220904.png",
+"id": 24353,
+"level": 0,
+"name": "Small Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgG6XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 5
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Condition Damage\n+5 Precision",
+"skill_id": 76
+},
+"id": 134
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Topaz",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/20F826D4C42F7A9B9FCC122C0C80D8DA0AB9AE45/220945.png",
+"id": 24506,
+"level": 35,
+"name": "Topaz Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgEmYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Vitality",
+"modifier": 8
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 11
+}
+],
+"buff": {
+"description": "+11 Condition Damage\n+8 Power\n+8 Vitality",
+"skill_id": 276
+},
+"id": 485
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Chrysocola",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6B2F59D4A0C2F0C0CB3C66B2FF677D1B19AA996B/221171.png",
+"id": 24870,
+"level": 50,
+"name": "Chrysocola Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEnYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Precision",
+"modifier": 11
+},
+{
+"attribute": "Toughness",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Precision\n+8 Toughness\n+8 Power",
+"skill_id": 294
+},
+"id": 503
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Emerald",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABC7A420B199269CA97CD45BA595387D46362C5A/221172.png",
+"id": 24871,
+"level": 50,
+"name": "Emerald Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEoYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 11
+},
+{
+"attribute": "Vitality",
+"modifier": 8
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Power\n+8 Ferocity\n+8 Vitality",
+"skill_id": 296
+},
+"id": 505
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Beryl",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE93DE9F1BDFEF18A63D9163B0EA3E5632BFF939/221173.png",
+"id": 24872,
+"level": 50,
+"name": "Beryl Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEpYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 11
+},
+{
+"attribute": "Precision",
+"modifier": 8
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Power\n+8 Ferocity\n+8 Precision",
+"skill_id": 288
+},
+"id": 497
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Ruby",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94FF174423B920D7D10BD70F9A08EB34B5FA47DA/221174.png",
+"id": 24873,
+"level": 50,
+"name": "Ruby Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgErYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Precision",
+"modifier": 11
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Precision\n+8 Ferocity\n+8 Power",
+"skill_id": 286
+},
+"id": 495
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Opal",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB9C9C6F061D545F2EA4EF07C8436AEF0CDE0E90/221176.png",
+"id": 24875,
+"level": 50,
+"name": "Opal Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgHGjAAA]",
+"description": "Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"BulkConsume"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E6017363449406DEE3DD3B80263AA2A91716F1DE/499375.png",
+"id": 36038,
+"level": 0,
+"name": "Trick-or-Treat Bag",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgGIlAAA]",
+"description": "Earned by playing Fractals of the Mists scales 51–100.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7DB2AB514CB9ACC219457DC1AEAB340BD578644F/512007.png",
+"id": 38024,
+"level": 0,
+"name": "Shard of Crystallized Mists Essence",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"upgrades_into": [
+{
+"item_id": 75943,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74343,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84095,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75438,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70979,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75277,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70554,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82505,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83675,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75079,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71065,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74744,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76921,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73560,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73813,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76557,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73281,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84778,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75175,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74364,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71726,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75315,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72591,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72932,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74097,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73756,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75669,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82373,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82585,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76936,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76504,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71346,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73083,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84212,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75355,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72423,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84313,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70595,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82705,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75156,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71795,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72171,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75312,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76024,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84577,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76809,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83321,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70695,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74646,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72016,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83525,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76823,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96126,
+"upgrade": "Infusion"
+},
+{
+"item_id": 95737,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96725,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97834,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96269,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96120,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97708,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97520,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96368,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104802,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104864,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104797,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104868,
+"upgrade": "Infusion"
+},
+{
+"item_id": 89597,
+"upgrade": "Infusion"
+},
+{
+"item_id": 87884,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86599,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86419,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86624,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86478,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104804,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104681,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97237,
+"upgrade": "Infusion"
+}
+],
+"vendor_value": 79
+},
+{
+"chat_link": "[&AgHylAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99E8B669F94A3ED511B84AEDDF970E3A6057EDC2/526240.png",
+"id": 38130,
+"level": 0,
+"name": "Tiny Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHzlAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29FFF132F428A46D0F64DF31720A3E574E5DA177/526241.png",
+"id": 38131,
+"level": 0,
+"name": "Delicate Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgH0lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/624467FA340D2461C95F1168D765901BAFFBBEA8/526242.png",
+"id": 38132,
+"level": 0,
+"name": "Glittering Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 14
+},
+{
+"chat_link": "[&AgH1lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/74D6ABFA685AB25923B20100FBD6C5FD0CD55915/526243.png",
+"id": 38133,
+"level": 0,
+"name": "Unique Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgF3sAAA]",
+"description": "Double-click to gain 10 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BF5D192EE5DAF97A7F4090461C450DA00F8FFAC/631148.png",
+"id": 45175,
+"level": 0,
+"name": "Fine Essence of Luck",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4sAAA]",
+"description": "Double-click to gain 50 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07450110280000435FBA2B4BE57DE6DCE86E22AC/631149.png",
+"id": 45176,
+"level": 0,
+"name": "Masterwork Essence of Luck",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGNtgAA]",
+"description": "Refine into dragonite ingots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D53E69EFB3AFF4C85CC370AA32F1A6A61C03CCE8/631482.png",
+"id": 46733,
+"level": 0,
+"name": "Dragonite Ore",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGPtgAA]",
+"description": "Refine into empyreal stars.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE4779014F27DE027BDBE761607B220923DB03D5/631484.png",
+"id": 46735,
+"level": 0,
+"name": "Empyreal Fragment",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgFQDQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38C83A6073EADFF39E0FA0AE59C822A79DBEF6E1/1202990.png",
+"id": 68944,
+"level": 0,
+"name": "Auric Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGkKwEA]",
+"description": "Refined from planks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BDA73F5C71D3FBA4A609E1906554034095693898/1201901.png",
+"id": 76708,
+"level": 0,
+"name": "Green Wood Pulp",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgH2QgEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F4EF7DB1576EDEFFF226D9D33E03A566B276662/1767539.png",
+"id": 82678,
+"level": 0,
+"name": "Pulsing Brandspark",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEtRwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7EE737D8FFC9B1DB04D4AF2C973150C92897E2A5/1767537.png",
+"id": 83757,
+"level": 0,
+"name": "Congealed Putrescence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGvdQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/173FA4FBAC687AA5AF4F7E24C5749562B71503C4/2594827.png",
+"id": 95663,
+"level": 80,
+"name": "Fantastic Fish Fillet",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGidgEA]",
+"description": "Double-click to salvage a crafted item for research notes.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F86C0DBF03CCE774807AD37CFF03A993D519CDF0/2699841.png",
+"id": 95906,
+"level": 0,
+"name": "Research Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgFXkAEA]",
+"description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+"details": {
+"minipet_id": 934
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94217590333EF92EB7E8A7A8627CA07F16925796/3592779.png",
+"id": 102487,
+"level": 0,
+"name": "Mini Barbed Vale",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGzlwEA]",
+"description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+"details": {
+"minipet_id": 960
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D5F615DF6C92BDFD133BF7B62E5B17E780B5B062/3592782.png",
+"id": 104371,
+"level": 0,
+"name": "Mini Janthir Warg",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgHblwEA]",
+"description": "Double-click to transform into Yagon.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NoUnderwater",
+"AccountBindOnUse",
+"Tonic"
+],
+"game_types": [
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29D9120AF52E9F4890BFC9D149B237653CCA77D0/3592696.png",
+"id": 104411,
+"level": 0,
+"name": "Endless Yagon Tonic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 104
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19704,19710,19720,19728,19730,19738,19744,19748,23038,23040,23041,23042,23045,24279,24285,24291,24297,24303,24308,24313,24318,24323,24328,24333,24338,24343,24347,24353,24506,24870,24871,24872,24873,24875,36038,38024,38130,38131,38132,38133,45175,45176,46733,46735,68944,76708,82678,83757,95663,95906,102487,104371,104411"
+}

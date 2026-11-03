@@ -1,0 +1,918 @@
+{
+"body": [
+{
+"chat_link": "[&AgEGTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A03B07F2A625FE01B01A59042BDD06C7C5AC30D2/65939.png",
+"id": 19718,
+"level": 0,
+"name": "Jute Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEHTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0CB8030AD26C3C7563B10E5EC397490F991ED795/65940.png",
+"id": 19719,
+"level": 0,
+"name": "Rawhide Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEeTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2EA1366176E09ECFCA1E93441ACAEF10E7C93B7A/63542.png",
+"id": 19742,
+"level": 0,
+"name": "Bolt of Cotton",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEfTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/28536CD63C63047DA7DA9F7923923461DCFC5860/65958.png",
+"id": 19743,
+"level": 0,
+"name": "Linen Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEPTgAA]",
+"description": "Take this stone to the Mystic Forge to have Zommoros forge something special for you.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/033CAC7DB2DE70BF39DA10D061375BA2B9BD6FA9/220548.png",
+"id": 19983,
+"level": 0,
+"name": "Mystic Forge Stone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHWXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C40532E544D99B9A92B703131409390EF36E513A/66934.png",
+"id": 24278,
+"level": 0,
+"name": "Tiny Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHcXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/129C3E6801966212018033D29B23ABAF5A712615/66940.png",
+"id": 24284,
+"level": 0,
+"name": "Tiny Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHiXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0FB13FB0EDEA8E56676A05F80E3FDC5E92E98E1/66945.png",
+"id": 24290,
+"level": 0,
+"name": "Vial of Weak Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHoXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE87D4DE89F16B7B6E1EF6D133F3B28AA3971C9/66951.png",
+"id": 24296,
+"level": 0,
+"name": "Tiny Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHuXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E2CD04924CFA55FEBF9614DA490D7AE660C1D24/66956.png",
+"id": 24302,
+"level": 0,
+"name": "Charged Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgHzXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C9F32DD525689EC3ADABDD7B633F1815A2C93080/66960.png",
+"id": 24307,
+"level": 0,
+"name": "Onyx Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH4XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FB6878B6DC31AFC10F3B7DB8D1F93C0CFB5C08BF/66965.png",
+"id": 24312,
+"level": 0,
+"name": "Molten Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH9XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6909C7740DF404434BA1D32E4F7042D050FF7FE7/63150.png",
+"id": 24317,
+"level": 0,
+"name": "Glacial Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgECXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF65D6D16101C608709619BAE2045E00511E7CD5/66973.png",
+"id": 24322,
+"level": 0,
+"name": "Destroyer Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEHXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/43D43127072CF33D58B25E2FCC940435EB3D4548/66978.png",
+"id": 24327,
+"level": 0,
+"name": "Crystal Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEMXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B0C2B9E7178D4A2010696936066073A0461AF3A/63277.png",
+"id": 24332,
+"level": 0,
+"name": "Pile of Foul Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgERXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A492E71E419ECFD94D8A2B1400A09A0C20373CE/66983.png",
+"id": 24337,
+"level": 0,
+"name": "Corrupted Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEWXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0A5B3C374C1A7F07BA3D06162857D1599B01F91D/66988.png",
+"id": 24342,
+"level": 0,
+"name": "Bone Chip",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEaXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/386E92E109C9937C4477E5F82A0291AA05D44A92/66992.png",
+"id": 24346,
+"level": 0,
+"name": "Tiny Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEgXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0394D7C230A11502C4CF07003B66BC64F4F7C7C2/65893.png",
+"id": 24352,
+"level": 0,
+"name": "Tiny Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgGYXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "Precision",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Precision",
+"skill_id": 75
+},
+"id": 359
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Carnelian",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8D502B4E57E116002506A0CE519F4EA52CB79B8/220915.png",
+"id": 24472,
+"level": 35,
+"name": "Carnelian Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG3XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Precision",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Precision\n+5 Power",
+"skill_id": 173
+},
+"id": 379
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sunstone",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F9B09A85A77B6C356F4D15FF6F9FB4DF90BACCE/220943.png",
+"id": 24503,
+"level": 35,
+"name": "Sunstone Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG4XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "CritDamage",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Ferocity",
+"skill_id": 169
+},
+"id": 371
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Peridot",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A736B6941805F8412591DFF52F77CD9B767CCDF1/220944.png",
+"id": 24504,
+"level": 35,
+"name": "Peridot Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG7XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Toughness",
+"modifier": 5
+},
+{
+"attribute": "Vitality",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Vitality\n+5 Toughness",
+"skill_id": 181
+},
+"id": 387
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Lapis",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF721EAEE6B8F77CE36E1EEB6A94E27395A872AE/220946.png",
+"id": 24507,
+"level": 35,
+"name": "Lapis Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgHPXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "Vitality",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Vitality",
+"skill_id": 165
+},
+"id": 367
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Amethyst",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/601E907BDC961A36E97258C20DA5BB130690C95C/220959.png",
+"id": 24527,
+"level": 35,
+"name": "Amethyst Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgHXXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 2
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Condition Damage\n+2 Precision",
+"skill_id": 261
+},
+"id": 461
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Topaz",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/11B59BBE4A46F32A33542333B128E81545D93418/220961.png",
+"id": 24535,
+"level": 20,
+"name": "Topaz Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGSEgEA]",
+"description": "Can be traded with Mordrem researchers across Tyria for valuable items.\n\nDouble-click to locate a nearby Mordrem researcher.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F011DDB9A359CD2CBA523A00E0F3445A0ECAE83F/1058330.png",
+"id": 70290,
+"level": 0,
+"name": "Mordrem Bloom",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFURQEA]",
+"description": "Used in crafting rare Crystal Desert gear and components.\nAlso sought after by Priory Researcher Elisa.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DFA737F4360575AFCF7BDD470B9DF3140EF45530/1767170.png",
+"id": 83284,
+"level": 0,
+"name": "Ley-Infused Sand",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEtRwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7EE737D8FFC9B1DB04D4AF2C973150C92897E2A5/1767537.png",
+"id": 83757,
+"level": 0,
+"name": "Congealed Putrescence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGvegEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D4AAF271369F309BDD1363A2C64C79725B0131F5/2594830.png",
+"id": 96943,
+"level": 65,
+"name": "Flavorful Fish Fillet",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19718,19719,19742,19743,19983,24278,24284,24290,24296,24302,24307,24312,24317,24322,24327,24332,24337,24342,24346,24352,24472,24503,24504,24507,24527,24535,70290,83284,83757,96943"
+}

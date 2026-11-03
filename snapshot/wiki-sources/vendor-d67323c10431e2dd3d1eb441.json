@@ -1,0 +1,128 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Titan Heatstone",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bava Nisos: Commander's Choice Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+30
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Bava Nisos: Commander's Choice Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Titan Heatstone"
+],
+"_subject": "Bava Nisos: Commander's Choice Chest#vendor6"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Ruin Shard",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Titan Heatstone"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor43"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mistburned Renown Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+20
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mistburned Renown Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Titan Heatstone"
+],
+"_subject": "Mistburned Renown Chest#vendor6"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Remnants",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+10
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Trader Sampaguita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Titan Heatstone"
+],
+"_subject": "Ward Trader Sampaguita#vendor20"
+}
+]
+}

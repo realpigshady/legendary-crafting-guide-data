@@ -1,0 +1,46 @@
+{
+"fetched": 1793698553.9948075,
+"item": "Gift of Lowland Shore",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Lowland Shore"
+],
+"Rewards item": [
+"Gift of Lowland Shore"
+],
+"_subject": "Lowland Shore#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of Lowland Shore"
+],
+"_subject": "Map completion#reward62"
+}
+]
+}

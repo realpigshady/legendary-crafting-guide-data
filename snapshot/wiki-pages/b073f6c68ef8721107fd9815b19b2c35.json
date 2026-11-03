@@ -1,0 +1,5 @@
+{
+"revid": 2237876,
+"text": "{{otheruses|the item used in crafting [[The Hunter]]|the historical [[engineer]] trait|Scope (trait)}}\n{{Item infobox\n| description = Used to craft [[The Hunter]].\n| type = crafting material\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 72997\n| requires = hot\n}}\n\n== Acquisition ==\n{{Recipe\n| source = recipe sheet\n| type = Legendary Component\n| sheet = Box of Recipes: The Hunter\n| disciplines = huntsman\n| rating = 500\n| quantity = 1\n| ingredient1 = 250 Copper Ingot\n| ingredient2 = 15 Pile of Crystalline Dust\n| ingredient3 = 50 Pile of Coarse Sand\n| ingredient4 = 1 Watchwork Mechanism\n| id = 10820\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Zielfernrohr]]\n[[es:Mira (objeto)]]\n[[fr:Lunette]]",
+"title": "Scope"
+}

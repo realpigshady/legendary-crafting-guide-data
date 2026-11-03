@@ -1,0 +1,70 @@
+{
+"fetched": 1793699855.1726224,
+"item": "Essence of Carnage",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Essence of Carnage"
+],
+"_subject": "Legendary Commander War Razor#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Memory of Battle",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Essence of Carnage"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor7"
+}
+]
+}

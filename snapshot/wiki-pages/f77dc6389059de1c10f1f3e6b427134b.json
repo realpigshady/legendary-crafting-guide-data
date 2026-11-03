@@ -1,0 +1,5 @@
+{
+"revid": 2971888,
+"text": "{{Item infobox\n| description = Can be spent at vendors in [[Janthir Syntri]] or consumed to add 5 [[Ursus Oblige|ursus oblige]]s to your wallet.\n| type = consumable\n| material storage = Advanced Crafting Materials\n| rarity = basic\n| collection = Legendary Weapon: Klobjarne Geirr Gifts\n| bound = account\n| id = 102494\n| requires = jw\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{Contained in}}\n\n=== Sold by ===\n{{Sold by}}\n\n=== Reward tracks ===\n{{Contained in reward track}}\n\n=== Rewarded by ===\n* Some events reward one [[Curious Mursaat Currency]], while some more difficult events reward two. This increases to two and four, respectively, after training the [[Scavenger of the Wilds]] mastery.\n{{rewarded by}}\n\n=== Achievements ===\n{{Achievement list|reward=Curious Mursaat Currency}}\n\n== Used in ==\n=== Consumption ===\n* {{contains|Ursus Oblige|chance=Guaranteed|qty=5}}\n\n== Currency for ==\n{{Vendor query table|currency=Curious Mursaat Currency}}\n\n[[de:Seltsame Mursaat-Währung]]\n[[es:Divisa curiosa mursaat]]\n[[fr:Monnaie mursaat étrange]]",
+"title": "Curious Mursaat Currency"
+}

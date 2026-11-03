@@ -1,0 +1,307 @@
+{
+"body": [
+{
+"chat_link": "[&AgEbTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F4E176F0B5B040F690AB7AE7B7A6844C83F2D0D/65956.png",
+"id": 19739,
+"level": 0,
+"name": "Wool Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgGQXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 3
+}
+],
+"buff": {
+"description": "+3 Power",
+"skill_id": 69
+},
+"id": 333
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Garnet",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62432B92985A9F759F24C55675429696060F0B1D/220907.png",
+"id": 24464,
+"level": 0,
+"name": "Garnet Pebble",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGRXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Vitality",
+"modifier": 3
+}
+],
+"buff": {
+"description": "+3 Vitality",
+"skill_id": 237
+},
+"id": 344
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Turquoise",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29156EE072F52C2EE7C9B45CC91DA0F79539D1D7/220908.png",
+"id": 24465,
+"level": 0,
+"name": "Turquoise Pebble",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGSXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Toughness",
+"modifier": 3
+}
+],
+"buff": {
+"description": "+3 Toughness",
+"skill_id": 241
+},
+"id": 345
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Malachite",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0545ACA4031B6A343418223C9B9D601941C29BE2/220909.png",
+"id": 24466,
+"level": 0,
+"name": "Malachite Pebble",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgE0YQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "BoonDuration",
+"modifier": 10
+}
+],
+"buff": {
+"description": "+10 Concentration",
+"skill_id": 43298
+},
+"id": 357
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Copper",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DBA477C50202162C7CA47F422F7CB306B71C2AC8/221185.png",
+"id": 24884,
+"level": 0,
+"name": "Copper Doubloon",
+"rarity": "Rare",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgH6eQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7B6CF5C9923AD4E8C76AED444E9C5A15BA2CB6B9/2594829.png",
+"id": 96762,
+"level": 35,
+"name": "Fine Fish Fillet",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19739,24464,24465,24466,24884,96762"
+}

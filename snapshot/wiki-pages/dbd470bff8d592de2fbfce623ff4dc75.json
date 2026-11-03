@@ -1,0 +1,5 @@
+{
+"revid": 2709885,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|Gain [[Power]] Equal to 3% of Your [[Precision]]<br>Gain Power Equal to 6% of Your [[Ferocity]]<br>+10% [[Experience]] from Kills|utility|id=9963}}\n| type = utility item\n| rarity = fine\n| level = 80\n| value = 33\n| collection = Utility Utilizer\n| salvage = Research\n| id = 9443, 78305\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = discovery\n| type = Consumable\n| quantity = 5\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 1 Orichalcum Ingot\n| ingredient2 = 3 Pile of Crystalline Dust\n| id = 5401\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Related achievements ==\n* {{achievement|Utility Utilizer}}\n\n== Notes ==\n* Account bound sharpening stones ([&AgHhMQEA]) acquired from a [[Level-80 Boost Package]] cannot be used for crafting or in the Mystic Forge.\n\n== See also ==\n* {{item icon|Tin of Fruitcake}}\n\n{{Utility items nav}}\n\n[[de:Überlegener Wetzstein]]\n[[es:Piedra de afilar superior]]\n[[fr:Pierre à affûter supérieure]]",
+"title": "Superior Sharpening Stone"
+}

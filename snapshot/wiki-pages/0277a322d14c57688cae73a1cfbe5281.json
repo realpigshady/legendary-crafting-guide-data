@@ -1,0 +1,5 @@
+{
+"revid": 2926778,
+"text": "{{otheruses|the crafting material|the [[guild hall]] decoration|Snake Statue (decoration)|the [[homestead]] decoration|Snake Statue (Handiwork)}}\n{{Item infobox\n| description = Used to craft [[Venom (weapon)|Venom]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| id = 72543\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Venom\n| disciplines = artificer\n| type = Legendary Component\n| rating = 500\n| ingredient1 = 10 Mithril Ingot\n| ingredient2 = 3 Coral Tentacle\n| ingredient3 = 3 Emerald Orb\n| ingredient4 = 1 Sheet of Ambrite\n| id = 11347\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Schlangenstatue]]\n[[es:Estatua de serpiente]]\n[[fr:Statue de serpent]]",
+"title": "Snake Statue"
+}

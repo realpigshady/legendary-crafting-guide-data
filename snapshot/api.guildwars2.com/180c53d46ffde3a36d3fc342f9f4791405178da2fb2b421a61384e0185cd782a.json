@@ -1,0 +1,330 @@
+{
+"body": [
+{
+"chat_link": "[&AgEPTgAA]",
+"description": "Take this stone to the Mystic Forge to have Zommoros forge something special for you.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/033CAC7DB2DE70BF39DA10D061375BA2B9BD6FA9/220548.png",
+"id": 19983,
+"level": 0,
+"name": "Mystic Forge Stone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgENXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87CFBBE42926064C2F6399F68BE06B23FA53109/63275.png",
+"id": 24333,
+"level": 0,
+"name": "Pile of Filthy Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgFgowAA]",
+"description": "Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/669B427B9735DC61EF3A566064083F1DC37E9D5A/561825.png",
+"id": 41824,
+"level": 0,
+"name": "Continue Coin",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF3sAAA]",
+"description": "Double-click to gain 10 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BF5D192EE5DAF97A7F4090461C450DA00F8FFAC/631148.png",
+"id": 45175,
+"level": 0,
+"name": "Fine Essence of Luck",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGqtQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0844635EDFBF68F1BA74EE1B6E097D935472E354/631279.png",
+"id": 46506,
+"level": 0,
+"name": "King Toad Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGrtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF45EC0C201F1694E51968399C56AF73F4790CD0/631280.png",
+"id": 46507,
+"level": 0,
+"name": "Storm Wizard Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGstQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CE4AC53C0FC9F602ADF247460F77CFDCBA95E7E/631281.png",
+"id": 46508,
+"level": 0,
+"name": "King Toad Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGttQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CDBF115DD29B3C26BAFB90121A11E27CC953B19/631282.png",
+"id": 46509,
+"level": 0,
+"name": "King Toad Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGutQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0C90A4D3BB7E51B02A178F1275DEA40C801C176/631283.png",
+"id": 46510,
+"level": 0,
+"name": "Storm Wizard Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGvtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B8F87E1734E2C6D4CA971395A0314E46AB68015C/631284.png",
+"id": 46511,
+"level": 0,
+"name": "Storm Wizard Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE0tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1915994170BE9E519457F5A2717C3115285236BD/631434.png",
+"id": 46644,
+"level": 0,
+"name": "Princess Miya's Wig",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE1tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2BA4600512A1C35F026B65986A19E51E31E7DD18/631435.png",
+"id": 46645,
+"level": 0,
+"name": "Princess Miya's Dress",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE2tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DCF5DD1E4D0BBD027D08237CDCB00791A29DC33C/631436.png",
+"id": 46646,
+"level": 0,
+"name": "Princess Miya's Tiara",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGSEgEA]",
+"description": "Can be traded with Mordrem researchers across Tyria for valuable items.\n\nDouble-click to locate a nearby Mordrem researcher.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F011DDB9A359CD2CBA523A00E0F3445A0ECAE83F/1058330.png",
+"id": 70290,
+"level": 0,
+"name": "Mordrem Bloom",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19983,24333,41824,45175,46506,46507,46508,46509,46510,46511,46644,46645,46646,70290"
+}

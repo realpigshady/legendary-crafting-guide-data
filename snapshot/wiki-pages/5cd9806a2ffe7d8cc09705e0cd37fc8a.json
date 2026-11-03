@@ -1,0 +1,5 @@
+{
+"revid": 2884176,
+"text": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A gift of water used to craft [[Frenzy]].\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[chef]] rating of 400 to craft.\n| rarity = legendary\n| collection = Legendary Weapon: Frenzy\n| bound = account\n| value = 640\n| id = 19643\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Water\n| type = Crafting Component\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Gift of the Sanctuary\n| ingredient2 = 250 Orichalcum Ingot\n| ingredient3 = 100 Molten Lodestone\n| ingredient4 = 100 Glacial Lodestone\n| id = 3166\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Wassers]]\n[[es:Don del agua]]\n[[fr:Don d'eau]]",
+"title": "Gift of Water"
+}

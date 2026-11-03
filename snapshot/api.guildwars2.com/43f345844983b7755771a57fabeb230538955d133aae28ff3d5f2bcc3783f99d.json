@@ -1,0 +1,674 @@
+{
+"body": [
+{
+"chat_link": "[&AgH+WQAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. Has a small chance of salvaging upgrades.",
+"details": {
+"charges": 15,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+"id": 23038,
+"level": 0,
+"name": "Crude Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEAWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F0B4025A23D3D1ADE0466FFEAA7023D8EFD8422C/66765.png",
+"id": 23040,
+"level": 0,
+"name": "Basic Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEBWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 15% chance of rarer materials. 40% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CA01D91B20EB19359FFF313C6DC5C2480A0872B0/66766.png",
+"id": 23041,
+"level": 0,
+"name": "Fine Salvage Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 36
+},
+{
+"chat_link": "[&AgECWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 60% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7902452AAF4824D66ED0A914CB1C0864D33A116F/66767.png",
+"id": 23042,
+"level": 0,
+"name": "Journeyman's Salvage Kit",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 100
+},
+{
+"chat_link": "[&AgEDWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75FB93F7EA0D3CFC0E023D1C72BE205457F905F7/66768.png",
+"id": 23043,
+"level": 0,
+"name": "Master's Salvage Kit",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgEFWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5FE549CF38CE536D730631CE2EDEC7F95575B3DB/2699840.png",
+"id": 23045,
+"level": 0,
+"name": "Mystic Salvage Kit",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHQXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F438A5EFB89C4ED6F8A04FE6E7060D05C294C4C6/434532.png",
+"id": 24272,
+"level": 0,
+"name": "Pile of Glittering Dust",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHWXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C40532E544D99B9A92B703131409390EF36E513A/66934.png",
+"id": 24278,
+"level": 0,
+"name": "Tiny Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHcXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/129C3E6801966212018033D29B23ABAF5A712615/66940.png",
+"id": 24284,
+"level": 0,
+"name": "Tiny Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHiXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0FB13FB0EDEA8E56676A05F80E3FDC5E92E98E1/66945.png",
+"id": 24290,
+"level": 0,
+"name": "Vial of Weak Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHoXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE87D4DE89F16B7B6E1EF6D133F3B28AA3971C9/66951.png",
+"id": 24296,
+"level": 0,
+"name": "Tiny Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgENXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87CFBBE42926064C2F6399F68BE06B23FA53109/63275.png",
+"id": 24333,
+"level": 0,
+"name": "Pile of Filthy Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEWXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0A5B3C374C1A7F07BA3D06162857D1599B01F91D/66988.png",
+"id": 24342,
+"level": 0,
+"name": "Bone Chip",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEaXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/386E92E109C9937C4477E5F82A0291AA05D44A92/66992.png",
+"id": 24346,
+"level": 0,
+"name": "Tiny Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEgXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0394D7C230A11502C4CF07003B66BC64F4F7C7C2/65893.png",
+"id": 24352,
+"level": 0,
+"name": "Tiny Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHGjAAA]",
+"description": "Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"BulkConsume"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E6017363449406DEE3DD3B80263AA2A91716F1DE/499375.png",
+"id": 36038,
+"level": 0,
+"name": "Trick-or-Treat Bag",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgFgowAA]",
+"description": "Grants a player five lives inside the Super Adventure Box. See Moto in Rata Sum for details on how to play.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/669B427B9735DC61EF3A566064083F1DC37E9D5A/561825.png",
+"id": 41824,
+"level": 0,
+"name": "Continue Coin",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4sAAA]",
+"description": "Double-click to gain 50 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07450110280000435FBA2B4BE57DE6DCE86E22AC/631149.png",
+"id": 45176,
+"level": 0,
+"name": "Masterwork Essence of Luck",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGqtQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0844635EDFBF68F1BA74EE1B6E097D935472E354/631279.png",
+"id": 46506,
+"level": 0,
+"name": "King Toad Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGrtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF45EC0C201F1694E51968399C56AF73F4790CD0/631280.png",
+"id": 46507,
+"level": 0,
+"name": "Storm Wizard Z-1",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGstQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CE4AC53C0FC9F602ADF247460F77CFDCBA95E7E/631281.png",
+"id": 46508,
+"level": 0,
+"name": "King Toad Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGttQAA]",
+"description": "Combine King Toad Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CDBF115DD29B3C26BAFB90121A11E27CC953B19/631282.png",
+"id": 46509,
+"level": 0,
+"name": "King Toad Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGutQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0C90A4D3BB7E51B02A178F1275DEA40C801C176/631283.png",
+"id": 46510,
+"level": 0,
+"name": "Storm Wizard Z-2",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGvtQAA]",
+"description": "Combine Storm Wizard Z-1, Z-2, Z-3, and a Moto Weapon Design in the Mystic Forge.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B8F87E1734E2C6D4CA971395A0314E46AB68015C/631284.png",
+"id": 46511,
+"level": 0,
+"name": "Storm Wizard Z-3",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE0tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1915994170BE9E519457F5A2717C3115285236BD/631434.png",
+"id": 46644,
+"level": 0,
+"name": "Princess Miya's Wig",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE1tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2BA4600512A1C35F026B65986A19E51E31E7DD18/631435.png",
+"id": 46645,
+"level": 0,
+"name": "Princess Miya's Dress",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgE2tgAA]",
+"description": "Combine Princess Miya's Wig, Dress, and Tiara with Mini Moto in the Mystic Forge.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DCF5DD1E4D0BBD027D08237CDCB00791A29DC33C/631436.png",
+"id": 46646,
+"level": 0,
+"name": "Princess Miya's Tiara",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20
+},
+{
+"chat_link": "[&AgGidgEA]",
+"description": "Double-click to salvage a crafted item for research notes.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F86C0DBF03CCE774807AD37CFF03A993D519CDF0/2699841.png",
+"id": 95906,
+"level": 0,
+"name": "Research Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 25
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=23038,23040,23041,23042,23043,23045,24272,24278,24284,24290,24296,24333,24342,24346,24352,36038,41824,45176,46506,46507,46508,46509,46510,46511,46644,46645,46646,95906"
+}

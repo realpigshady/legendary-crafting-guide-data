@@ -1,0 +1,5 @@
+{
+"revid": 3110683,
+"text": "{{Item infobox\n| description = Combine a [[Gift of the Beach]], a [[Gift of the Sun]], a [[Gift of Infused Gems]], and 10 [[Purified Rift Essence|Purified Rift Essences]] in the [[Mystic Forge]] to create [[Gift of Rays]].\n<br/>\nCreated by combining the following in the Mystic Forge:<br/>\n• 250 [[Pile of Coarse Sand]]<br/>\n• 100 [[Ley-Infused Sand]]<br/>\n• 250 [[Coral Orb]]<br/>\n• 1 [[Relic of the Sunless]]<br/>\n| type = Crafting material\n| material type = Mystic\n| rarity = Legendary\n| bound = Account\n| id = 107201\n| requires = voe\n}}\n\n== Acquisition ==\n=== Recipe === \n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 250 Pile of Coarse Sand\n| ingredient2 = 100 Ley-Infused Sand\n| ingredient3 = 250 Coral Orb\n| ingredient4 = 1 Relic of the Sunless\n}}\n=== Sold by===\n{{Sold by}}\n\n== Currency for ==\n{{Vendor query table|currency=Gift of the Beach}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Strandes]]\n[[es:Don de la playa]]\n[[fr:Don de la plage]]",
+"title": "Gift of the Beach"
+}

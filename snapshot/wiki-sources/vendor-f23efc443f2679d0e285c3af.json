@@ -1,0 +1,55 @@
+{
+"fetched": 1793697479.921695,
+"item": "Nyr Hrammr",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+},
+{
+"Has item currency": "Gift of Sharpened Tip",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Metal",
+"Has item value": "1"
+},
+{
+"Has item currency": "Bearkin War Helm Remnant",
+"Has item value": "1"
+},
+{
+"Has item currency": "Standing Stones Timepiece Remnant",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Nyr Hrammr"
+],
+"_subject": "Ward Crafter Lucirae#vendor28"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2371065,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used in staff crafting.\n| material type = component\n| rarity = Basic\n| value = 8\n| bound = account\n| id = 45887\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 500\n| ingredient1 = 5 Pile of Crystalline Dust\n| ingredient2 = 2 Spiritwood Plank\n| ingredient3 = 50 Thermocatalytic Reagent\n| id = 7371\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geisterholz-Stabkopf]]\n[[es:Cabezal para báculo de madera espiritual]]\n[[fr:Tête de bâton de boisesprit]]",
+"title": "Spiritwood Staff Head"
+}

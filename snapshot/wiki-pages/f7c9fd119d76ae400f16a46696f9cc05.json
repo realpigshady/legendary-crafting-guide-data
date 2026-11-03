@@ -1,0 +1,5 @@
+{
+"revid": 2817415,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+80 [[Healing Power|Healing]]<br>+60 [[Condition Damage]]<br>+10% [[Experience]] from Kills|id=15840}}\n| type = food\n| food type = dessert\n| rarity = fine\n| level = 75\n| salvage = Compost, Research\n| id = 36782\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Dessert\n| disciplines = chef\n| rating = 350\n| ingredient1 = 1 Bag of Sugar\n| ingredient2 = 1 Vanilla Bean\n| ingredient3 = 1 Raspberry\n| ingredient4 = 1 Passion Fruit\n| id = 6563\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[de:Himbeer-Maracujakompott]]\n[[es:Compota de maracuyá y frambuesa]]\n[[fr:Compote framboise-fruits de la passion]]",
+"title": "Raspberry Passion Fruit Compote"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 3135873,
+"text": "{{Item infobox\n| description = Can be traded with vendors in [[Jahai Bluffs]] or consumed for [[Volatile Magic|volatile magic]].\n| material storage = Advanced Crafting Materials\n| type = consumable\n| rarity = Exotic\n| bound = account\n| id = 88955\n| requires = lws4\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Sold by ===\n* 5 can be bought from each completed {{renown heart}} [[Renown Heart NPC]] in [[Jahai Bluffs]], per character, per day.\n* 5 can be bought from [[Traveling Elonian Trader]] in [[Dragonfall]], per account, per day.\n{{Sold by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n{{rewarded by}}\n\n=== Achievements ===\n{{achievement list|reward=Lump of Mistonium}}\n\n=== Other ===\n* 1 from the [[Map bonus reward|Jahai Bluffs map bonus]]\n\n== Contents ==\n* {{contains|Volatile Magic|qty=15-25|chance=Guaranteed}}\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Lump of Mistonium}}\n\n{{Tokens nav}}\n\n[[de:Nebeloniumbrocken]]\n[[es:Trozo de nieblonio]]\n[[fr:Morceau de mistonium]]",
+"title": "Lump of Mistonium"
+}

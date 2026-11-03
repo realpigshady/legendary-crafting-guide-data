@@ -1,0 +1,5 @@
+{
+"revid": 2117252,
+"text": "{{Item infobox\n| description = In the Mystic Forge, combine a Salt-Forged Mist Diamond with a [[Gift of the Mists]], a [[Gift of Competitive Dedication]], and 100 [[Icy Runestone]]s to create [[Gift of the Champion]].\n| type = Trophy\n| rarity = Exotic\n| bound = account\n| id = 93016\n}}\n\n== Acquisition ==\n{{Recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Vial of Salt\n| ingredient2 = 1 Emblem of Victory\n| ingredient3 = 1 Mist Diamond\n| ingredient4 = 1 Mist-Enhanced Orichalcum\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n{{bug|The in-game description text (as shown here) incorrectly states that the Salt-Forged Mist Diamond is combined in the Mystic Forge with 100 Icy Runestones. The correct item, a [[Tome of the Mists]], is displayed in the recipe. Icy Runestones are not a possible combination with this item, so you can't mistakenly use the wrong recipe.}}\n\n[[de:Salzgeschmiedeter Nebeldiamant]]\n[[es:Diamante de la Niebla forjado a sal]]\n[[fr:Diamant forgé par le sel]]",
+"title": "Salt-Forged Mist Diamond"
+}

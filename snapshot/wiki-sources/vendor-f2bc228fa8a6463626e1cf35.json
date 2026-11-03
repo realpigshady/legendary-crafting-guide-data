@@ -1,0 +1,41 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Delicate Harp String",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"The Minstrel III: The Bard"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Marcello DiGiacomo"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Delicate Harp String"
+],
+"_subject": "Marcello DiGiacomo#vendor1"
+}
+]
+}

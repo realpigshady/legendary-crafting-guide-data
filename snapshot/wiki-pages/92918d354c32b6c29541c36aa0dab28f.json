@@ -1,0 +1,5 @@
+{
+"revid": 2077582,
+"text": "{{Item infobox\n| icon = Bottle of Passion Fruit Sauce.png\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| rarity = basic\n| id = 12175\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Seasoning\n| disciplines = chef\n| rating = 125\n| ingredient1 = 1 Bottle of Simple Dressing\n| ingredient2 = 1 Pile of Ascalonian Herbs\n| id = 2848\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Flasche ascalonischer Salatsoße]]\n[[es:Botella de aliño ascaloniano]]\n[[fr:Bouteille de vinaigrette ascalonienne]]",
+"title": "Bottle of Ascalonian Dressing"
+}

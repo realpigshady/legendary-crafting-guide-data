@@ -1,0 +1,196 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Gift of the Nobleman",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Dungeon Armor and Weapons/Caudecus's Manor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Dungeon Armor and Weapons/Caudecus's Manor#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Lava Lounge)/Caudecus's Manor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lava Lounge"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Merchant (Lava Lounge)/Caudecus's Manor#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Merchant (Mistlock Sanctuary)/Caudecus's Manor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistlock Sanctuary"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Merchant (Mistlock Sanctuary)/Caudecus's Manor#vendor46"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Seraph Outfitter Eva"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner (Memory of Old Lion's Arch)"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Seraph Outfitter Eva#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tear Cinderskull/Caudecus's Manor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Tear Cinderskull/Caudecus's Manor#vendor46"
+},
+{
+"Has context": [],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tale of Dungeon Delving",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the explorable mode of [[Caudecus's Manor]] 5 times"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Visiting Trader (Dungeon Merchant)/Caudecus's Manor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Thousand Seas Pavilion"
+],
+"Sells item": [
+"Gift of the Nobleman"
+],
+"_subject": "Visiting Trader (Dungeon Merchant)/Caudecus's Manor#vendor46"
+}
+]
+}

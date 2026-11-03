@@ -1,0 +1,31 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Watchwork Sprocket",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Watchwork Sprocket",
+"Watchwork Portal Device",
+"Salvageable Twisted Watchwork Scrap",
+"Jagged Twisted Watchwork Scrap",
+"Daydreamer's Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Wrath of the Twisted Marionette"
+],
+"Has canonical name": [
+"Wrath of the Twisted Marionette Avenger"
+],
+"Has game id": [
+5845
+],
+"Is historical": [
+"t"
+],
+"_subject": "Wrath of the Twisted Marionette#achievement5845"
+}
+]
+}

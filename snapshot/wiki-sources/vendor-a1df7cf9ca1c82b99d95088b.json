@@ -1,0 +1,315 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Sweet-Treated Pine Plank",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+},
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Help the kodan study and settle in the Janthir Syntri region|renown heart]] to be incomplete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arid Esker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Echoing Hills"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Arid Esker#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guiding Breath"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Den"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Guiding Breath#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shading Willow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Shading Willow#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vast Caldera"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Coursing Upland"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Vast Caldera#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+},
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Support the kodan as they maintain their camp|renown heart]] to be incomplete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigilant Dawn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Vigilant Dawn#vendor21"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Trader Sampaguita"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Ward Trader Sampaguita#vendor60"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Honey Flower",
+"Has item value": "7"
+},
+{
+"Has item currency": "Lowland Pine Log",
+"Has item value": "7"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "4"
+},
+{
+"Has item currency": "Orichalcum Ingot",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist the kodan in researching the titan blight|renown heart]] to be incomplete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers of Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Festering Basin"
+],
+"Sells item": [
+"Sweet-Treated Pine Plank"
+],
+"_subject": "Whispers of Wind#vendor19"
+}
+]
+}

@@ -1,0 +1,101 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Emblem of the Conqueror",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Emblem of the Avenger",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lionguard (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fort Marriner"
+],
+"Sells item": [
+"Emblem of the Conqueror"
+],
+"_subject": "Lionguard (Skirmish Merchant)/Others#vendor63"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Emblem of the Avenger",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Mercenary (Skirmish Merchant)/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Emblem of the Conqueror"
+],
+"_subject": "Mercenary (Skirmish Merchant)/Others#vendor63"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Emblem of the Avenger",
+"Has item value": "100"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skirmish Supervisor/Others"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Emblem of the Conqueror"
+],
+"_subject": "Skirmish Supervisor/Others#vendor63"
+}
+]
+}

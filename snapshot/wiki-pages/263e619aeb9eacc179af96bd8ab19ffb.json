@@ -1,0 +1,5 @@
+{
+"revid": 2847246,
+"text": "{{Item infobox\n| description = Used in the creation of [[Gift of Sigils]].\n| type = crafting material\n| material type = basic\n| rarity = Rare\n| id = 89133\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{Recipe\n| name = Mystic Mote (Rare)\n| source = Recipe Sheet\n| type = Refinement\n| sheet = Recipe: Mystic Mote\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 75\n| ingredient1 = 10 Pile of Lucent Crystal\n| ingredient2 = 1 Symbol of Control\n| ingredient3 = 1 Symbol of Enhancement\n| ingredient4 = 1 Symbol of Pain\n| id = 12833\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n* [[Mystic Aspect]] - similar crafting material used for the [[Gift of Runes]].\n* [[Mystic Facet]] - similar crafting material used for the [[Gift of Relics]].\n\n[[de:Mystisches Stäubchen]]\n[[es:Mota mística]]\n[[fr:Particule mystique]]",
+"title": "Mystic Mote"
+}

@@ -1,0 +1,50 @@
+{
+"fetched": 1793699877.5599132,
+"item": "Hatched Chili",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Grothmar Valley"
+],
+"Rewards item": [
+"Hatched Chili"
+],
+"_subject": "Grothmar Valley#reward1"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Raid"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"9"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Hatched Chili"
+],
+"_subject": "Shiverpeaks Pass#reward14"
+}
+]
+}

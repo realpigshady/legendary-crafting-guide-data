@@ -1,0 +1,26 @@
+{
+"fetched": 1793699904.2407608,
+"item": "Memory of Otter",
+"kind": "salvage",
+"q": "c280137652a9",
+"rows": [
+{
+"Has canonical name": [
+"Charged Stormcaller weapons"
+],
+"Salvages into": [
+"Memory of Otter"
+],
+"_subject": "Charged Stormcaller weapons"
+},
+{
+"Has canonical name": [
+"Volcanic Stormcaller weapons"
+],
+"Salvages into": [
+"Memory of Otter"
+],
+"_subject": "Volcanic Stormcaller weapons"
+}
+]
+}

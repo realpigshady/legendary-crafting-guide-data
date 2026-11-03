@@ -1,0 +1,5 @@
+{
+"revid": 2884117,
+"text": "{{Item infobox\n| description = A gift of stealth used to create [[The Predator]]\n\nPurchase the recipe for this item from any Mystic Forge vendor and reach a [[leatherworker]] rating of 400 to craft.\n| type = trophy\n| material type = mystic\n| rarity = Legendary\n| collection = Legendary Weapon: The Predator\n| value = 640\n| bound = account\n| id = 19636\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Gift of Stealth\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 400\n| ingredient1 = 250 Orrian Truffle\n| ingredient2 = 1 Gift of Knowledge\n| ingredient3 = 250 Orichalcum Ingot\n| ingredient4 = 100 Onyx Lodestone\n| id = 2565\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Tarnung]]\n[[es:Don del sigilo]]\n[[fr:Don de furtivité]]",
+"title": "Gift of Stealth"
+}

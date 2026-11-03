@@ -1,0 +1,5 @@
+{
+"revid": 3001901,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Power]]<br>+70 [[Vitality]]<br>+10% [[Experience]] from Kills|id=9773}}\n| type = food\n| food type = meal\n| rarity = fine\n| level = 80\n| collection = Fine Dining\n| id = 12468\n| salvage = Compost, Research\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = discovery\n| type = Meal\n| disciplines = chef\n| rating = 400\n| ingredient1 = 1 Cup of Lotus Fries\n| ingredient2 = 1 Slab of Red Meat\n| id = 3119\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Plate of Orrian Steak Frittes}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n{{collection nav}}\n\n[[de:Teller mit orrianischem Steak und Fritten]]\n[[es:Plato de churrasco orriano con patatas fritas]]\n[[fr:Assiette de steak-frites orrien]]",
+"title": "Plate of Orrian Steak Frittes"
+}

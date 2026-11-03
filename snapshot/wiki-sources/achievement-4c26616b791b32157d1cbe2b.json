@@ -1,0 +1,64 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Snow Diamond",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Snow Diamond",
+"Sugardrift Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"(Weekly) Wintersday Festivities"
+],
+"Has canonical name": [
+"(Weekly) Wintersday Festivities"
+],
+"Has game id": [
+6057
+],
+"Is historical": [
+"f"
+],
+"_subject": "Wintersday Traditions#achievement6057"
+},
+{
+"Gives item": [
+"Snow Diamond",
+"Sacred Solstice Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Wintersday Traditions"
+],
+"Has canonical name": [
+"Wintersday Festivities (2023)"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Wintersday Traditions#achievement99925"
+},
+{
+"Gives item": [
+"Snow Diamond",
+"Plush Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Wintersday Traditions"
+],
+"Has canonical name": [
+"Wintersday Festivities (2024)"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Wintersday Traditions#achievement99927"
+}
+]
+}

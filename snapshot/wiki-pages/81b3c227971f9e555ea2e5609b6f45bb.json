@@ -1,0 +1,5 @@
+{
+"revid": 2701613,
+"text": "{{Upgrade component infobox\n| description = Double-click to apply to a weapon.\n| variables = +7% [[Critical Chance]]\n| type = sigil\n| element = Enhancement\n| rarity = exotic\n| level = 60\n| value = 216\n| salvage = Standard, Research\n| id = 24618\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Sigil of Accuracy\n| type= Upgrade Component\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 400\n| ingredient1 = 10 Pile of Lucent Crystal\n| ingredient2 = 1 Charged Fossil\n| ingredient3 = 2 Symbol of Enhancement\n| ingredient4 = 10 Glob of Ectoplasm\n| id = 12911\n}}\n\n=== Extracted from ===\n{{contains upgrade component|format=link}}\n\n=== Other ===\n{{Mystic forge sigils text}}\n\n== Used in ==\n{{recipe list}}\n\n{{rune and sigil nav}}\n\n[[de:Überlegenes Sigill der Treffsicherheit]]\n[[es:Sello superior de precisión]]\n[[fr:Cachet d'exactitude supérieur]]",
+"title": "Superior Sigil of Accuracy"
+}

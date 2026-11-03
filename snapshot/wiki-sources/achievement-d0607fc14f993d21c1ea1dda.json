@@ -1,0 +1,51 @@
+{
+"fetched": 1793698787.2593026,
+"item": "Curious Mursaat Ruin Shard",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Titan Heatstone",
+"Mursaat Obsidian Chunk",
+"Curious Mursaat Ruin Shard",
+"Salmon of Knowledge Backpiece"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Mistburned Barrens (achievements)"
+],
+"Has canonical name": [
+"Mistburned Barrens Mastery"
+],
+"Has game id": [
+8582
+],
+"Is historical": [
+"f"
+],
+"_subject": "Mistburned Barrens (achievements)#achievement8582"
+},
+{
+"Gives item": [
+"Curious Mursaat Ruin Shard"
+],
+"Gives item quantity": [
+30
+],
+"Has achievement page": [
+"Return to Janthir Wilds (achievements)"
+],
+"Has canonical name": [
+"Revenge of the Mursaat"
+],
+"Has game id": [
+9204
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to Janthir Wilds (achievements)#achievement9204"
+}
+]
+}

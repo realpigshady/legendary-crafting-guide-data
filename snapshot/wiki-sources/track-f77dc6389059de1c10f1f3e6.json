@@ -1,0 +1,76 @@
+{
+"fetched": 1793698578.1517003,
+"item": "Curious Mursaat Currency",
+"kind": "track",
+"q": "a78fbdcafa13",
+"rows": [
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 15,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 15,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item15"
+},
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 15,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 15,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item15"
+},
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 35,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 35,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item35"
+},
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 35,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Currency",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 35,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item35"
+}
+]
+}

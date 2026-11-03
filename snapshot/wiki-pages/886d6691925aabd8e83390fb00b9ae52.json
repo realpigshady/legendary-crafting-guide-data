@@ -1,0 +1,5 @@
+{
+"revid": 3089687,
+"text": "{{Item infobox\n| type = crafting material\n| description = Transform 25 Quartz into a Charged Quartz Crystal at a place of power.\n| material type = rare\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| value = 50\n| bound = account\n| id = 43772\n}}\n[[Charged Quartz Crystal]] is used for [[crafting]] [[equipment]] with [[celestial]] stats.\n\n== Acquisition ==\n=== Recipe ===\n{{recipe\n| name = Charged Quartz Crystal\n| source = automatic\n| type = [[Place of power]]\n| quantity = 1\n| timegate = y\n| ingredient1 = 25 Quartz Crystal\n}}\n\n=== Gathered from ===\n{{gathered from}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Achievements ===\n{{achievement list|reward=Charged Quartz Crystal}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Currency for ==\n{{Vendor query table|currency=Charged Quartz Crystal}}\n\n== See also ==\n* [[Crafting material#Advanced crafting materials|Advanced crafting materials]]\n\n[[Category:Time gated recipes]]\n[[de:Aufgeladener Quarzkristall]]\n[[es:Cristal de cuarzo cargado]]\n[[fr:Cristal de quartz chargé]]",
+"title": "Charged Quartz Crystal"
+}

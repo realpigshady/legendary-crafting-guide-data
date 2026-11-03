@@ -1,0 +1,5 @@
+{
+"revid": 2661845,
+"text": "{{Item infobox\n| description = ''Double-click to apply to an item with an unused upgrade slot.''\n| variables = {{item stat|power|14}}{{item stat|ferocity|10}}{{item stat|precision|10}}\n| type = crafting material\n| material type = gemstone\n| tier = 5\n| material storage = Gemstones and Jewels\n| rarity = masterwork\n| level = 65\n| value = 110\n| id = 24474\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Dropped by ===\n{{dropped by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n{{rewarded by}}\n\n=== Recipe ===\n{{recipe\n| name = Transmogrify Ruby Crystal\n| source = automatic\n| type = Refinement\n| disciplines = jeweler\n| rating = 275\n| ingredient1 = 1 Pile of Luminous Dust\n| ingredient2 = 2 Ruby Shard\n| id = 3427\n| base ingredients calculation = n\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n== Currency for ==\n{{Vendor query table|currency=Ruby Crystal}}\n\n{{Gemstone nav}}\n\n[[de:Rubinkristall]]\n[[es:Cristal de rubí]]\n[[fr:Cristal de rubis]]",
+"title": "Ruby Crystal"
+}

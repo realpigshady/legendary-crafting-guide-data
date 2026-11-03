@@ -1,0 +1,45 @@
+{
+"body": [
+{
+"chat_link": "[&AgH9XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6909C7740DF404434BA1D32E4F7042D050FF7FE7/63150.png",
+"id": 24317,
+"level": 0,
+"name": "Glacial Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgERXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A492E71E419ECFD94D8A2B1400A09A0C20373CE/66983.png",
+"id": 24337,
+"level": 0,
+"name": "Corrupted Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24317,24337"
+}

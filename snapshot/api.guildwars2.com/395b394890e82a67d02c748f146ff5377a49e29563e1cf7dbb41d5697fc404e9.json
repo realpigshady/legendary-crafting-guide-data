@@ -1,0 +1,1383 @@
+{
+"body": [
+{
+"chat_link": "[&AgFjTwAA]",
+"description": "Double-click to identify one random dye color, which can be unlocked for all of your characters or recycled at the Mystic Forge.",
+"details": {
+"type": "GiftBox"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/109A6B04C4E577D9266EEDA21CC30E6B800DD452/66587.png",
+"id": 20323,
+"level": 0,
+"name": "Unidentified Dye",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGnUgAA]",
+"description": "This item no longer functions as siege equipment. It may be double-clicked to turn it into new siege or exchanged in bulk at siege merchants throughout the Mists.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoMysticForge",
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw"
+],
+"icon": "https://render.guildwars2.com/file/430B1C0B04B9A826DAE7AC0B7A940D02E35DA26E/63048.png",
+"id": 21159,
+"level": 0,
+"name": "Alpha Siege Golem Blueprint",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgGMGAEA]",
+"description": "Made by combining these items in the Mystic Forge:\n• 2 Gifts of Condensed Magic\n• 2 Gifts of Condensed Might\n• 77 Mystic Clovers\n• 250 Mystic Coins",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62A0F109C444E275E966B9A903D63FFE99540BAD/455807.png",
+"id": 71820,
+"level": 0,
+"name": "Mystic Tribute",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGtLgEA]",
+"description": "Used to create the PvP legendary backpack.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D48CA3E6AFE283570B830302766BA8094E2E469/1313071.png",
+"id": 77485,
+"level": 0,
+"name": "Gift of Skirmishing",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFsOAEA]",
+"description": "Central Tyrian and Maguuma Pendant<br><c=@flavor>Worn by seasoned mist walkers.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"infusion_slots": [
+{
+"flags": [
+"Enrichment"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Amulet"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4944FD054FD80D805B0BFFB2DA60363A7DD31FDB/1614376.png",
+"id": 79980,
+"level": 80,
+"name": "Mist Pendant",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgG6OAEA]",
+"description": "Central Tyrian and Maguuma Band<br><c=@flavor>Crafted from the blood of your enemies.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EAA61AAF9BEF031104FD063C0A301A520EF5F5E6/1614682.png",
+"id": 80058,
+"level": 80,
+"name": "Mist Band (Infused)",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"upgrades_into": [
+{
+"item_id": 80793,
+"upgrade": "Attunement"
+}
+],
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgGZOwEA]",
+"description": "Central Tyrian and Maguuma Band<br><c=@flavor>Crafted from the blood of your enemies.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"NotUpgradeable",
+"AccountBindOnUse",
+"Attuned"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EAA61AAF9BEF031104FD063C0A301A520EF5F5E6/1614682.png",
+"id": 80793,
+"level": 80,
+"name": "Attuned Mist Band (Infused)",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"upgrades_from": [
+{
+"item_id": 80058,
+"upgrade": "Attunement"
+}
+],
+"vendor_value": 495
+},
+{
+"chat_link": "[&AgHbPQEA]",
+"description": "Combine the Gift of Fortune, Warcry, Gift of Warfare, and Gift of Conquering in the Mystic Forge to create Warbringer.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0303F40F4CB00219D8B8DE6ABFBA77E8F92710D2/1701102.png",
+"id": 81371,
+"level": 0,
+"name": "Gift of Conquering",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFBPwEA]",
+"description": "<c=@flavor>This trinket is used to craft the legendary accessory Aurora.</c>",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4558ACF4ACB81EDCCB5909E1F92E3A8011659FF0/1729362.png",
+"id": 81729,
+"level": 80,
+"name": "Spark of Sentience",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 413
+},
+{
+"chat_link": "[&AgGEPwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0368DF6B4D011939F513BA0428955E04080F9E69/1729317.png",
+"id": 81796,
+"level": 0,
+"name": "Gift of Sentience",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHFPwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A5EB64FB4332B890DD010CD011BA082AF202BBD3/1729315.png",
+"id": 81861,
+"level": 0,
+"name": "Gift of Draconic Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFYUAEA]",
+"description": "This band of energy burns and chafes your skin as it writhes on your finger, furiously hissing incomprehensible epithets. <c=@flavor>This is the precursor for the legendary ring Coalescence.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6FE0F5F9C9E42B6B19655DE1B9DCB95A2DDBDE12/1894959.png",
+"id": 86104,
+"level": 80,
+"name": "Hateful Sworl",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFpYwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/962F99162FDE4AF471DF9E3BCA712CD6F5050B53/2149899.png",
+"id": 90985,
+"level": 0,
+"name": "Gift of Prescience",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgGbYwEA]",
+"description": "<c=@flavor>This trinket is used to craft the legendary accessory Vision.</c>",
+"details": {
+"attribute_adjustment": 224.07,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+],
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/012A1A5D2F555F04AA1F215DC9D923901313C568/2149862.png",
+"id": 91035,
+"level": 80,
+"name": "Glimpse",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 413
+},
+{
+"chat_link": "[&AgGhYwEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23731409412B1A9DC64B02D1C00C136B3A597EC0/2149861.png",
+"id": 91041,
+"level": 0,
+"name": "Gift of Arid Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgE5ZAEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/009503515A5EB61379F4A969BAF3E01EE4CCFE33/2155854.png",
+"id": 91193,
+"level": 0,
+"name": "Gift of Patience",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgFZZAEA]",
+"description": "A gift used to create legendary jewelry.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0368DF6B4D011939F513BA0428955E04080F9E69/1729317.png",
+"id": 91225,
+"level": 0,
+"name": "Gift of Compassion",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgFUawEA]",
+"description": "In the Mystic Forge, combine Slumbering Transcendence, 250 Unidentified Dyes, an Emblem of Tournament Victory, and an Essence of Llamatic Elegance to create Transcendence.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C959D395C4EAE74CCFC62831D450DBA3B0A37855/2270826.png",
+"id": 93012,
+"level": 0,
+"name": "Emblem of Tournament Victory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFsawEA]",
+"description": "In the Mystic Forge, combine a Gift of the Champion with a Mist Pendant, a Mystic Tribute, and a Gift of Skirmishing to create Transcendence.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE45625CD95FF40F75DBD4693993B5A05174E738/2270293.png",
+"id": 93036,
+"level": 0,
+"name": "Gift of the Champion",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgGTawEA]",
+"description": "In the Mystic Forge, combine Slumbering Conflux, 250 Unidentified Dyes, an Emblem of the Avenger, and an Alpha Siege Golem Blueprint to create Conflux.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C756AF2212663BAAB926E1EE064CFE7E2FF0EE97/2270824.png",
+"id": 93075,
+"level": 0,
+"name": "Emblem of the Avenger",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHIawEA]",
+"description": "<c=@flavor>Combine your strength and vanquish your foes.</c>",
+"details": {
+"attribute_adjustment": 268.884,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Ring"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/170765A1B5C5A90C430BD04479DABC10B1AF7E01/2270744.png",
+"id": 93128,
+"level": 80,
+"name": "Slumbering Conflux",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHUawEA]",
+"description": "<c=@flavor>Rise above it all.</c>",
+"details": {
+"attribute_adjustment": 358.512,
+"infusion_slots": [
+{
+"flags": [
+"Enrichment"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+],
+"type": "Amulet"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C0D5BBDDD412439FE5F620253EFADAEF6CB760E/2270218.png",
+"id": 93140,
+"level": 80,
+"name": "Slumbering Transcendence",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEGbAEA]",
+"description": "In the Mystic Forge, combine a Gift of the World with a Mist Band, a Mystic Tribute, and a Gift of Conquering to create Conflux.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B8475FE410023EF2993705462732A7949527C49A/2270674.png",
+"id": 93190,
+"level": 0,
+"name": "Gift of the World",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 165
+},
+{
+"chat_link": "[&AgFMnQEA]",
+"description": "In the Mystic Forge, combine a Gift of the Survivors and a Gift of the People with two other legendary gifts to create a legendary item:\n\n• Aetheric Anchor—Gift of Insight and Gift of the Elders\n• Selachimorpha—Gift of Castoran Mastery and the Precursor Agaleus\n• Endless Summer—Gift of the Hylek and Gift of Rays\n\nPurchased from Canach at Pub Canach in Shipwreck Strand.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/45B44097576D0F0A7D0C5E06985E18AB77D8F8F5/3708961.png",
+"id": 105804,
+"level": 0,
+"name": "Gift of the People",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHYoAEA]",
+"description": "In the Mystic Forge, combine a Gift of the Survivors and a Gift of the People with two other legendary gifts to create a legendary item:\n\n• Aetheric Anchor—Gift of Insight and Gift of the Elders\n• Selachimorpha—Gift of Castoran Mastery and the Precursor Agaleus\n• Endless Summer—Gift of the Hylek and Gift of Rays\n\nPurchased from the Castaway Agnes in Hullgarden in Shipwreck Strand.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CAE0204429420B293DBD30C864E82C1A17EF7E1D/3708963.png",
+"id": 106712,
+"level": 0,
+"name": "Gift of the Survivors",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHqoQEA]",
+"description": "Combine a Gift of Rays, a Gift of the Survivors, a Gift of the People, and a Gift of the Hylek in the Mystic Forge to create the legendary ring Endless Summer.\n\nAcquired by completing the Radiance of the Sun God achievement. Additional copies can be purchased from Shaman Palak in Shipwreck Strand.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BBCEE0C2745C1D33D61F9BA6487B4B4826BC947C/3744702.png",
+"id": 106986,
+"level": 0,
+"name": "Gift of the Hylek",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEgogEA]",
+"description": "Combine a Gift of Rays, a Gift of the Survivors, a Gift of the People, and a Gift of the Hylek in the Mystic Forge to create the legendary ring Endless Summer.\n\nCreated by combining the following in the Mystic Forge:\n• A Gift of the Sun\n• A Gift of the Beach\n• A Gift of Infused Gems\n• 10 Purified Rift Essences",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2B6B0EB936F6AE206C7A5B1D579108B9A8019CFC/3744704.png",
+"id": 107040,
+"level": 0,
+"name": "Gift of Rays",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFpqgEA]",
+"description": "Combine in the Mystic Forge with a Vial of Liquid Shadowstone, a Gift of Galdra, and a Mystic Tribute to create Stella Radians.\n\nPurchased from the renown heart vendor in Artificer's Islet in Eternity's Garden in exchange for:\n• 1 Shadowstone Orb\n• 1 Shadowstone Containment Frame\n• 1 Gift of Restoration\n• 200 Seer Runestones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/54746B32C110D5303B56D4800C5B32C40DBF2EED/3770119.png",
+"id": 109161,
+"level": 0,
+"name": "Gift of Shadowstones",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEzqwEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/141392C30AB1E5790213F83837154969F74C791A/3770122.png",
+"id": 109363,
+"level": 0,
+"name": "Gift of the Warclaw",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFPqwEA]",
+"description": "<c=@flavor>This accessory is used to craft the legendary accessory Stella Radians.\n\nCombine this item in the Mystic Forge with:\n• 1 Gift of Galdra\n• 1 Gift of Shadowstones\n• 1 Mystic Tribute</c>",
+"details": {
+"attribute_adjustment": 213.4,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 35
+},
+{
+"attribute": "Precision",
+"modifier": 35
+},
+{
+"attribute": "Toughness",
+"modifier": 35
+},
+{
+"attribute": "Vitality",
+"modifier": 35
+},
+{
+"attribute": "CritDamage",
+"modifier": 35
+},
+{
+"attribute": "Healing",
+"modifier": 35
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 35
+},
+{
+"attribute": "BoonDuration",
+"modifier": 35
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 35
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"type": "Accessory"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E609A5B574AF97E4E74E9ED3250FCC7F6AFF28FF/3771060.png",
+"id": 109391,
+"level": 80,
+"name": "Vial of Liquid Shadowstone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trinket",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGdqwEA]",
+"description": "Combine in the Mystic Forge with a Vial of Liquid Shadowstone, a Gift of Shadowstones, and a Mystic Tribute to create Stella Radians.\n\nPurchased from renown heart vendor in Pilgrim's Rest in Eternity's Garden in exchange for:\n• 1 Gift of Research\n• 1 Preserved Eidolon Hide\n• 1 Gift of Eternity's Garden Exploration\n• 1 Gift of Regrowth",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/693C4E2B1494A297CA4E6F15B503AD22CAE8404E/3770115.png",
+"id": 109469,
+"level": 0,
+"name": "Gift of Galdra",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEyrAEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B6559537EFDA0EC9E50DF7CAEC74A2220EE114A4/3770120.png",
+"id": 109618,
+"level": 0,
+"name": "Gift of the Mistwalker",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF2rAEA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1404BD5F61AECA05FD06C8D89B9F98A20BF4CE7B/3770121.png",
+"id": 109686,
+"level": 0,
+"name": "Gift of the Mist Warrior",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=20323,21159,71820,77485,79980,80058,80793,81371,81729,81796,81861,86104,90985,91035,91041,91193,91225,93012,93036,93075,93128,93140,93190,105804,106712,106986,107040,109161,109363,109391,109469,109618,109686"
+}

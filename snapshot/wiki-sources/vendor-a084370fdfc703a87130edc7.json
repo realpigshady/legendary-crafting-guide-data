@@ -1,0 +1,39 @@
+{
+"fetched": 1793698723.9077964,
+"item": "Chili Pepper",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kastaz Strongpaw"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Noxin Dells"
+],
+"Sells item": [
+"Chili Pepper"
+],
+"_subject": "Kastaz Strongpaw#vendor10"
+}
+]
+}

@@ -1,0 +1,167 @@
+{
+"body": [
+{
+"chat_link": "[&AgFxlQEA]",
+"description": "Combine 6 Deldrimor Steel Spear Heads, 6 Large Spiritwood Hafts, 6 Vision Crystals, and a Memory of Bearkin's Adversaries to create Nyr Hrammr.\n\nThis item is acquired from the achievement \"Klobjarne Geirr: World Boss or Meta-Event Completions.\"",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FEE368623CC6031EDB58D877E85FA6E82DEB6B06/3441847.png",
+"id": 103793,
+"level": 0,
+"name": "Memory of Bearkin's Adversaries",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGZlQEA]",
+"description": "Combine 25 Tales of Adventure, a Gift of Bones, a Memory of Bearkin's Victories, and a Memory of Bearkin Hunts to create a Gift of Recollector of Memories.\n\nThis item is acquired from the Klobjarne Geirr: Raid or Convergence Victories achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23452121230F0F2D19F80FD4669D7693ADEABAA3/3441835.png",
+"id": 103833,
+"level": 0,
+"name": "Memory of the Bearkin's Victories",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG4mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104888,
+"level": 0,
+"name": "Dragon's End: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHWnAEA]",
+"description": "Can be spent at vendors in Starlit Weald or consumed to add 5 antiquated ducats to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AA420C667F369E59BC075D6B06117613ED71DC0D/3710076.png",
+"id": 105686,
+"level": 0,
+"name": "Raw Enchanting Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGRnwEA]",
+"description": "Can be spent at vendors in Shipwreck Strand or consumed to add 5 aether-rich sap to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2714DAB2CB9C40510190E7C4E30F1BFAED732B99/3710068.png",
+"id": 106385,
+"level": 0,
+"name": "Chromatic Sap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGTqwEA]",
+"description": "Can be spent at vendors in Eternity's Garden.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E775F80195D7B835E4C81CA47EB19A5924E4ADF1/3771067.png",
+"id": 109459,
+"level": 0,
+"name": "Shadowstone Fragment",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=103793,103833,104888,105686,106385,109459"
+}

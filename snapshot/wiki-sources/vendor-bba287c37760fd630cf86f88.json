@@ -1,0 +1,415 @@
+{
+"fetched": 1793699315.5092866,
+"item": "Survivor's Enchanted Compass",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Acolyte of Balance Dexx#vendor33"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Alliance Field Quartermaster#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor33"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Canach#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Captain Emund#vendor40"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Castaway Agnes#vendor37"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Historian Meliza#vendor34"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Huntmaster Arnorr#vendor40"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Magister Sirkk#vendor40"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Steward Brizio#vendor33"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "300000"
+},
+{
+"Has item currency": "Gold",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Shipwreck Strand Mastery"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Survivor's Enchanted Compass"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor39"
+}
+]
+}

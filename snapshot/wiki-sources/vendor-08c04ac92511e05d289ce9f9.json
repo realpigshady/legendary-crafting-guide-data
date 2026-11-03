@@ -1,0 +1,107 @@
+{
+"fetched": 1793698882.124771,
+"item": "Endless Yagon Tonic",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Ruin Shard",
+"Has item value": "200"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the novelty to not already be unlocked"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Endless Yagon Tonic"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor25"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mini Janthir Warg",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the novelty to not already be unlocked"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Endless Yagon Tonic"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor26"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mini Barbed Vale",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the novelty to not already be unlocked"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Endless Yagon Tonic"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor27"
+}
+]
+}

@@ -1,0 +1,27 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Tome of Knowledge",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Arcana Obscura"
+],
+"Rewards item": [
+"Tome of Knowledge"
+],
+"_subject": "Arcana Obscura#reward1"
+}
+]
+}

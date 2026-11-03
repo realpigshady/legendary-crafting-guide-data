@@ -1,0 +1,5 @@
+{
+"revid": 2365311,
+"text": "{{Item infobox\n| type = crafting material\n| material type = rare\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| bound = account\n| value = 37\n| id = 75322\n}}\n\n[[Charged Thorn]]s are [[crafting material#Rare crafting materials|rare crafting materials]] used to create [[insignia]]s and [[inscription]]s with [[Commander's]] attributes.\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = Jeweler, Weaponsmith, Armorsmith, Artificer, Tailor, Huntsman, Leatherworker\n| rating = 400\n| quantity = 1\n| ingredient1 = 50 Barbed Thorn\n| ingredient2 = 1 Charged Quartz Crystal\n| id = 10370\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n* [[Crafting material#Advanced crafting materials|Advanced crafting materials]]\n\n[[de:Aufgeladener Dorn]]\n[[es:Espina cargada]]\n[[fr:Épine chargée]]",
+"title": "Charged Thorn"
+}

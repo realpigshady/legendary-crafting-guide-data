@@ -1,0 +1,5 @@
+{
+"revid": 2115501,
+"text": "{{Item infobox\n| type = crafting material\n| material type = rare\n| material storage = Advanced Crafting Materials\n| rarity = rare\n| bound = account\n| value = 48\n| requires = hot\n| id = 70851\n}}\n\n[[Charged Fossil]]s are rare [[crafting material]]s used to create [[Wanderer's]] insignias and inscriptions.\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = Jeweler, Weaponsmith, Armorsmith, Artificer, Tailor, Huntsman, Leatherworker\n| rating = 400\n| quantity = 1\n| ingredient1 = 50 Leaf Fossil\n| ingredient2 = 1 Charged Quartz Crystal\n| id = 9953\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n* [[Crafting material#Advanced crafting materials|Advanced crafting materials]]\n\n[[de:Aufgeladenes Fossil]]\n[[es:Fósil cargado]]\n[[fr:Fossile chargé]]",
+"title": "Charged Fossil"
+}

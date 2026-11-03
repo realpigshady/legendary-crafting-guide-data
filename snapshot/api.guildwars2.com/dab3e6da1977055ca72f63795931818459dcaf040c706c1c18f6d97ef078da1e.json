@@ -1,0 +1,25 @@
+{
+"body": [
+{
+"chat_link": "[&AgEMXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B0C2B9E7178D4A2010696936066073A0461AF3A/63277.png",
+"id": 24332,
+"level": 0,
+"name": "Pile of Foul Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24332"
+}

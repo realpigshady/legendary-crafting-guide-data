@@ -1,0 +1,25 @@
+{
+"fetched": 1793699885.352875,
+"item": "Hatched Chili",
+"kind": "track",
+"q": "a78fbdcafa13",
+"rows": [
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Hatched Chili",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 15,
+"Has reward track item quantity": 3
+},
+{
+"Has reward track item": "Charr Salvage",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 15,
+"Has reward track item quantity": 1
+}
+],
+"_subject": "Icebrood Saga Reward Track#item15"
+}
+]
+}

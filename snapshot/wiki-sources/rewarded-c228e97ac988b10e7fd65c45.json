@@ -1,0 +1,48 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Blood Ruby",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Bloodstone Fen"
+],
+"Rewards item": [
+"Blood Ruby"
+],
+"_subject": "Bloodstone Fen#reward2"
+},
+{
+"Has context": [
+"Story"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"3"
+],
+"Rewarded by": [
+"Confessor's Stronghold"
+],
+"Rewards item": [
+"Blood Ruby"
+],
+"_subject": "Confessor's Stronghold#reward5"
+}
+]
+}

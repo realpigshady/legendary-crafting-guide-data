@@ -1,0 +1,181 @@
+{
+"body": [
+{
+"chat_link": "[&AgH/XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7C5BF3B99647E2AB0E0F6C18B60CD5743D21BADC/66970.png",
+"id": 24319,
+"level": 0,
+"name": "Glacial Core",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 42
+},
+{
+"chat_link": "[&AgHylAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99E8B669F94A3ED511B84AEDDF970E3A6057EDC2/526240.png",
+"id": 38130,
+"level": 0,
+"name": "Tiny Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHzlAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29FFF132F428A46D0F64DF31720A3E574E5DA177/526241.png",
+"id": 38131,
+"level": 0,
+"name": "Delicate Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgH0lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/624467FA340D2461C95F1168D765901BAFFBBEA8/526242.png",
+"id": 38132,
+"level": 0,
+"name": "Glittering Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 14
+},
+{
+"chat_link": "[&AgH1lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/74D6ABFA685AB25923B20100FBD6C5FD0CD55915/526243.png",
+"id": 38133,
+"level": 0,
+"name": "Unique Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgH2lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E9809B82F370D7E73F7971AE49D3F034D0CB348/526244.png",
+"id": 38134,
+"level": 0,
+"name": "Pristine Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH3lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D5763C0411E0DDB5634260D3E05E07DF2459641D/526245.png",
+"id": 38135,
+"level": 0,
+"name": "Flawless Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 25
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=24319,38130,38131,38132,38133,38134,38135"
+}

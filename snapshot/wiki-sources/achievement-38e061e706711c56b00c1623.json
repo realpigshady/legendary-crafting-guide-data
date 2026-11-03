@@ -1,0 +1,249 @@
+{
+"fetched": 1793699819.6830244,
+"item": "Eternal Ice Shard",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Gift of Ice",
+"Eternal Ice Shard",
+"Eitrite Ingot",
+"Season 4 Currency Box",
+"Amalgamated Draconic Lodestone",
+"Recipe: Eitrite Ingot",
+"Great Gift of the Ancestors"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Illuminated Boreal Weapons"
+],
+"Has canonical name": [
+"Illuminated Boreal Weapons"
+],
+"Has game id": [
+5085
+],
+"Is historical": [
+"f"
+],
+"_subject": "Rare Collections#achievement5085"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Voice in the Deep"
+],
+"Has canonical name": [
+"Return to Voice in the Deep"
+],
+"Has game id": [
+5882
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Shadow in the Ice#achievement5882"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Chasing Ghosts"
+],
+"Has canonical name": [
+"Return to Chasing Ghosts"
+],
+"Has game id": [
+6014
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Shadow in the Ice#achievement6014"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Eternal Ice Shard",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Shadow in the Ice"
+],
+"Has canonical name": [
+"Return to Bjora Marches 2"
+],
+"Has game id": [
+6024
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Shadow in the Ice#achievement6024"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"What's Left Behind"
+],
+"Has canonical name": [
+"Return to What's Left Behind"
+],
+"Has game id": [
+5881
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5881"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"The Invitation"
+],
+"Has canonical name": [
+"Return to The Invitation"
+],
+"Has game id": [
+5964
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5964"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Silence (story)"
+],
+"Has canonical name": [
+"Return to Silence"
+],
+"Has game id": [
+5983
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5983"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Eternal Ice Shard",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Whisper in the Dark"
+],
+"Has canonical name": [
+"Return to Bjora Marches 1"
+],
+"Has game id": [
+5991
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5991"
+},
+{
+"Gives item": [
+"Eternal Ice Shard"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to the Icebrood Saga (achievements)"
+],
+"Has canonical name": [
+"Local Response: Bjora Marches (Weekly)"
+],
+"Has game id": [
+8525
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to the Icebrood Saga (achievements)#achievement8525"
+},
+{
+"Gives item": [
+"Eternal Ice Shard",
+"Recipe: Sturdy Boreal Duffel",
+"Season 4 Currency Box",
+"Gift of the Ancestors (ascended)",
+"Gift of the Ancestors (tier 5)",
+"Gift of the Ancestors (tier 2)",
+"Mastery Point (The Icebrood Saga)"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Master of the Ancestral Forge"
+],
+"Has canonical name": [
+"Master of the Ancestral Forge"
+],
+"Has game id": [
+5035
+],
+"Is historical": [
+"f"
+],
+"_subject": "Whisper in the Dark (achievements)#achievement5035"
+},
+{
+"Gives item": [
+"Berserker's Orichalcum Imbued Inscription",
+"Eternal Ice Shard",
+"Eitrite Ingot"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Ancient Weaponeer"
+],
+"Has canonical name": [
+"Ancient Weaponeer"
+],
+"Has game id": [
+5042
+],
+"Is historical": [
+"f"
+],
+"_subject": "Whisper in the Dark (achievements)#achievement5042"
+}
+]
+}

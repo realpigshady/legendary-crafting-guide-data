@@ -1,0 +1,5 @@
+{
+"revid": 3165759,
+"text": "{{back item infobox\n| description = Combine the [[Gift of Fortune]], Warcry, [[Gift of Warfare]], and [[Gift of Conquering]] in the [[Mystic Forge]] to create [[Warbringer]].\n| prefix = selectable\n| skin = Warcry (skin)\n| level = 80\n| rarity = ascended\n| bound = account\n| id = 81467\n| unique = y\n}}\n\n== Acquisition ==\n{{recipe\n| source = Mystic Forge\n| quantity = 1\n| ingredient1 = 1 Recruit's Wings of War\n| ingredient2 = 1 Soldier's Wings of War\n| ingredient3 = 1 General's Wings of War\n| ingredient4 = 1 Commander's Wings of War\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Available prefixes ==\n* The following [[Attribute combinations|prefixes]] can be selected:\n{{prefix selection|all ascended trinket|collapsed=y}}\n\n== Notes ==\n* You will need a [[World Experience#World ranks|World Rank]] of 350 and 2450 {{item icon|WvW Skirmish Claim Ticket}}, and must have used a [[Commander's Compendium]] or [[Catmander's Compendium]], to acquire all parts of Warcry.\n\n{{WvW Skirmish backpieces nav}}\n[[de:Kriegsschrei]]\n[[es:Grito de Guerra]]\n[[fr:Cri de guerre]]",
+"title": "Warcry"
+}

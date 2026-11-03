@@ -1,0 +1,29 @@
+{
+"fetched": 1793699467.2183678,
+"item": "Gift of Shipwreck Strand Exploration",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shipwreck Strand"
+],
+"Rewards item": [
+"Gift of Shipwreck Strand Exploration"
+],
+"_subject": "Shipwreck Strand#reward1"
+}
+]
+}

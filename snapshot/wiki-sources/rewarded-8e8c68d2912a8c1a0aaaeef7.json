@@ -1,0 +1,141 @@
+{
+"fetched": 1793698840.0996466,
+"item": "Janthir Syntri Renown Token",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Clear the Bloodstone Elementals"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Clear the Bloodstone Elementals#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Follow Guiding Star and their team on the expedition"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Follow Guiding Star and their team on the expedition#reward10"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Gleaning Copse clean up rotting plants and clear out rotting enemies"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Help Gleaning Copse clean up rotting plants and clear out rotting enemies#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help the kodan gather foraged plants and animal meat"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Help the kodan gather foraged plants and animal meat#reward30"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Of Mists and Monsters"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Of Mists and Monsters#reward4"
+},
+{
+"Has context": [
+"Adventure"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Swift Skiffs—Janthir"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "Swift Skiffs—Janthir#reward7"
+},
+{
+"Has context": [
+"Adventure"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The View from the Top"
+],
+"Rewards item": [
+"Janthir Syntri Renown Token"
+],
+"_subject": "The View from the Top#reward7"
+}
+]
+}

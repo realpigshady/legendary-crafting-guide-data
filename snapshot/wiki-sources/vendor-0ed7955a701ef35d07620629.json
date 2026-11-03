@@ -1,0 +1,98 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Shard of the Homestead",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Refined Homestead Metal",
+"Has item value": "5"
+},
+{
+"Has item currency": "Refined Homestead Fiber",
+"Has item value": "5"
+},
+{
+"Has item currency": "Refined Homestead Wood",
+"Has item value": "5"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Adept Handiworker Crafting"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway (Homestead Master)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Comosus Isle"
+],
+"Sells item": [
+"Shard of the Homestead"
+],
+"_subject": "Castaway (Homestead Master)#vendor95"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Refined Homestead Metal",
+"Has item value": "5"
+},
+{
+"Has item currency": "Refined Homestead Fiber",
+"Has item value": "5"
+},
+{
+"Has item currency": "Refined Homestead Wood",
+"Has item value": "5"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "1050"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Adept Handiworker Crafting"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Deft Lahar"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow"
+],
+"Sells item": [
+"Shard of the Homestead"
+],
+"_subject": "Deft Lahar#vendor95"
+}
+]
+}

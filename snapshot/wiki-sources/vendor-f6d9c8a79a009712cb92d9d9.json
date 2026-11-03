@@ -1,0 +1,155 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Gift of Janthir Syntri",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Currency",
+"Has item value": "100"
+},
+{
+"Has item currency": "Janthir Syntri Renown Token",
+"Has item value": "15"
+},
+{
+"Has item currency": "Ursus Oblige",
+"Has item value": "2000"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "51000"
+},
+{
+"Has item currency": "Ancient Coin",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character already completed the map"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arid Esker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Echoing Hills"
+],
+"Sells item": [
+"Gift of Janthir Syntri"
+],
+"_subject": "Arid Esker#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Currency",
+"Has item value": "100"
+},
+{
+"Has item currency": "Janthir Syntri Renown Token",
+"Has item value": "15"
+},
+{
+"Has item currency": "Ursus Oblige",
+"Has item value": "2000"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "51000"
+},
+{
+"Has item currency": "Ancient Coin",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character already completed the map"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigilant Dawn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Gift of Janthir Syntri"
+],
+"_subject": "Vigilant Dawn#vendor26"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Curious Mursaat Currency",
+"Has item value": "100"
+},
+{
+"Has item currency": "Janthir Syntri Renown Token",
+"Has item value": "15"
+},
+{
+"Has item currency": "Ursus Oblige",
+"Has item value": "2000"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "51000"
+},
+{
+"Has item currency": "Ancient Coin",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"character already completed the map"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers of Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Festering Basin"
+],
+"Sells item": [
+"Gift of Janthir Syntri"
+],
+"_subject": "Whispers of Wind#vendor24"
+}
+]
+}

@@ -1,0 +1,53 @@
+{
+"fetched": 1793697612.1608658,
+"item": "Banner of the Tenebral Ward",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mystic Runestone",
+"Has item value": "150"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "500"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "2500"
+},
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "2500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Banner of the Tenebral Ward"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor12"
+}
+]
+}

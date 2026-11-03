@@ -1,0 +1,74 @@
+{
+"fetched": 1793699967.2533054,
+"item": "Soldier's Wings of War",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "525"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Recruit's Wings of War"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Commander War Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"World vs. World"
+],
+"Sells item": [
+"Soldier's Wings of War"
+],
+"_subject": "Legendary Commander War Razor#vendor2"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "WvW Skirmish Claim Ticket",
+"Has item value": "525"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Recruit's Wings of War"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Legendary Retired Commander Burn Razor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Armistice Bastion"
+],
+"Sells item": [
+"Soldier's Wings of War"
+],
+"_subject": "Legendary Retired Commander Burn Razor#vendor2"
+}
+]
+}

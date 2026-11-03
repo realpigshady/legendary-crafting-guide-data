@@ -1,0 +1,42 @@
+{
+"fetched": 1793699967.2533054,
+"item": "Champion's Wings of Glory",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "PvP League Ticket",
+"Has item value": "30"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Veteran's Wings of Glory"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"League Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Memories",
+"Champion's Rest"
+],
+"Sells item": [
+"Champion's Wings of Glory"
+],
+"_subject": "League Vendor#vendor8"
+}
+]
+}

@@ -1,0 +1,97 @@
+{
+"fetched": 1793698494.3789423,
+"item": "Chromatic Sap",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Chromatic Sap"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Breezy Cay Renown Mastery"
+],
+"Has game id": [
+8923
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement8923"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Chromatic Sap"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Glimmering Arches Renown Mastery"
+],
+"Has game id": [
+8969
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement8969"
+},
+{
+"Gives item": [
+"Refined Homestead Fiber",
+"Scrap of Castora Mastery",
+"Shred of Castora Mastery",
+"Chromatic Sap"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Renown Hearts (Visions of Eternity)"
+],
+"Has canonical name": [
+"Hullgarden Renown Mastery"
+],
+"Has game id": [
+8995
+],
+"Is historical": [
+"f"
+],
+"_subject": "Renown Hearts (Visions of Eternity)#achievement8995"
+},
+{
+"Gives item": [
+"Chromatic Sap",
+"Relic of the Pirate Queen",
+"Survivor's Enchanted Compass",
+"Alliance Field Operative's Leggings Box",
+"Mastery Point (Visions of Eternity)"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Shipwreck Strand (achievements)"
+],
+"Has canonical name": [
+"Shipwreck Strand Mastery"
+],
+"Has game id": [
+8880
+],
+"Is historical": [
+"f"
+],
+"_subject": "Shipwreck Strand (achievements)#achievement8880"
+}
+]
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2079808,
+"text": "{{Item infobox\n| description = Used to craft [[The Legend]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| value = 66\n| bound = account\n| requires = hot\n| id = 73809\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Legend\n| type = Legendary Component\n| disciplines = artificer\n| rating = 500\n| ingredient1 = 1 Glob of Ectoplasm\n| ingredient2 = 1 Spiritwood Plank\n| ingredient3 = 1 Sculptor's Tools\n| ingredient4 = 10 Pile of Crystalline Dust\n| id = 10772\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geschnitzte Träne]]\n[[es:Lágrima talladas]]\n[[fr:Larme sculptée]]",
+"title": "Carved Tear Drop"
+}

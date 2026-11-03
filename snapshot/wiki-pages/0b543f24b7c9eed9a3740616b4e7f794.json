@@ -1,0 +1,5 @@
+{
+"revid": 2847247,
+"text": "{{Item infobox\n| description = Used in the creation of [[Gift of Runes]].\n| type = crafting material\n| material type = basic\n| rarity = Rare\n| id = 89105\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{Recipe\n| name = Mystic Aspect\n| source = recipe sheet\n| type = Refinement\n| sheet = Recipe: Mystic Aspect\n| disciplines = armorsmith, leatherworker, tailor\n| rating = 75\n| ingredient1 = 10 Pile of Lucent Crystal\n| ingredient2 = 1 Charm of Brilliance\n| ingredient3 = 1 Charm of Potence\n| ingredient4 = 1 Charm of Skill\n| id = 12959\n}}\n\n== Used in ==\n{{recipe list}}\n\n== See also ==\n* [[Mystic Mote]] - similar crafting material used for the [[Gift of Sigils]].\n* [[Mystic Facet]] - similar crafting material used for the [[Gift of Relics]].\n\n[[de:Mystischer Aspekt]]\n[[es:Aspecto místico]]\n[[fr:Aspect mystique]]",
+"title": "Mystic Aspect"
+}

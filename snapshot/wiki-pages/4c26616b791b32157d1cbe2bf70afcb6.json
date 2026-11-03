@@ -1,0 +1,5 @@
+{
+"revid": 2548193,
+"text": "{{Item infobox\n| description = Used to purchase rewards from the Wintersday vendors in Divinity's Reach.\n| type = crafting material\n| material type = festive\n| material storage = Festive Materials\n| rarity = exotic\n| id = 86627\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Contained in ===\n{{contained in}}\n\n=== Achievements ===\n{{achievement list|reward=Snow Diamond}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Vendors ==\n{{vendor query table|currency=Snow Diamond|outline=vendor}}\n\n== Notes ==\n{| {{STDT|item}}\n! colspan=\"3\" | Cost comparison table\n|-\n! Item !! Buy price !! Sell price\n|-\n| 1 Snow Diamond|| {{Tp total placeholder|1;Snow Diamond}} || {{Tp total placeholder|info = sells|1;Snow Diamond}}\n|-\n| 1,000 Snowflake|| {{Tp total placeholder|1000;Snowflake}} || |{{Tp total placeholder|info = sells|1000;Snowflake}}\n|}\n{{Tp total calculate}}\n\n{{Tokens nav}}\n\n[[de:Schneediamant]]\n[[es:Diamante de nieve]]\n[[fr:Diamant de neige]]",
+"title": "Snow Diamond"
+}

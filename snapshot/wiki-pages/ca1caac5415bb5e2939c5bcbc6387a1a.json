@@ -1,0 +1,5 @@
+{
+"revid": 2080082,
+"text": "{{Item infobox\n| type = crafting material\n| description = [[Ingredient]]\n| material type = seasoning\n| rarity = basic\n| id = 41572\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Seasoning\n| disciplines = chef\n| rating = 400\n| ingredient1 = 5 Head of Garlic\n| ingredient2 = 1 Pile of Ascalonian Herbs\n| ingredient3 = 1 Cayenne Pepper\n| ingredient4 = 5 Saffron Thread\n| id = 7228\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Haufen pikanter Kräuter]]\n[[es:Montón de hierbas condimentadas]]\n[[fr:Tas d'herbes piquantes]]",
+"title": "Pile of Zesty Herbs"
+}

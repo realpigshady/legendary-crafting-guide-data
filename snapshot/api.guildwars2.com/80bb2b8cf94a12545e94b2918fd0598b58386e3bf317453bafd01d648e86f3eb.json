@@ -1,0 +1,2127 @@
+{
+"body": [
+{
+"chat_link": "[&AgGzMAAA]",
+"details": {
+"apply_count": 1,
+"description": "+100 Power\n+70 Precision\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB78371F9DADA4A130EDBD0D192D320402370F47/433656.png",
+"id": 12467,
+"level": 80,
+"name": "Plate of Truffle Steak",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 33
+},
+{
+"chat_link": "[&AgG0MAAA]",
+"details": {
+"apply_count": 1,
+"description": "+100 Power\n+70 Vitality\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/21F999BF071F37596A920AC31EBB094665345122/433657.png",
+"id": 12468,
+"level": 80,
+"name": "Plate of Orrian Steak Frittes",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 33
+},
+{
+"chat_link": "[&AgHQTAAA]",
+"description": "A gift used to create legendary weapons.\n\nPurchased from dungeon vendors for 500 Tales of Dungeon Delving.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/733301420DAC0DAE9206BCA4F727DB1EC6551C71/455844.png",
+"id": 19664,
+"level": 0,
+"name": "Gift of Ascalon",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHbTAAA]",
+"description": "Used to create legendary equipment.\n\nCan be purchased from some vendors, earned from some reward tracks, and randomly made in the Mystic Forge by combining:\n• Obsidian Shards\n• Mystic Coins\n• Globs of Ectoplasm\n• Philosopher's Stones or Mystic Crystals",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FE9DC3E10D4B2AE16DADEB07CF28A058570E2EF3/455855.png",
+"id": 19675,
+"level": 0,
+"name": "Mystic Clover",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHcTAAA]",
+"description": "Used to create legendary weapon and trinket gift items.\n\nPurchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AB22A149E9B807AA726CC6B1D7D0435A840A300/455856.png",
+"id": 19676,
+"level": 0,
+"name": "Icy Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 1250
+},
+{
+"chat_link": "[&AgHlTAAA]",
+"description": "Refined from Ore.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D1941454313ACCB234906840E1FB401D49091B96/220460.png",
+"id": 19685,
+"level": 0,
+"name": "Orichalcum Ingot",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEJTQAA]",
+"description": "Salvage Item",
+"flags": [],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/18CE5D78317265000CF3C23ED76AB3CEE86BA60E/65941.png",
+"id": 19721,
+"level": 0,
+"name": "Glob of Ectoplasm",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
+"chat_link": "[&AgEZTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BB34A319132236042659CE7B31DF6FA890FF6501/65954.png",
+"id": 19737,
+"level": 0,
+"name": "Cured Hardened Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgHVTQAA]",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE16FCC326D80A3906B17B6A75E8A91980BE4670/434362.png",
+"id": 19925,
+"level": 0,
+"name": "Obsidian Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 300
+},
+{
+"chat_link": "[&AgEITgAA]",
+"description": "Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. \nPart of Zommoros's favorite trades.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB0317DF5B0E1BA47436A5420248660765154C08/62864.png",
+"id": 19976,
+"level": 0,
+"name": "Mystic Coin",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgE8UQAA]",
+"description": "Used by the Mystic Forge to change one material into another.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/68FF9617BA1BE1AD58E83E4209AEF0FB58950702/434425.png",
+"id": 20796,
+"level": 0,
+"name": "Philosopher's Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgE/UQAA]",
+"description": "Sold by Miyani in Lion's Arch.\n<c=@flavor>Zommoros loves crystals.</c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/045C05C2F83A59FC4B6F15073465C5D3040E4DF5/65674.png",
+"id": 20799,
+"level": 0,
+"name": "Mystic Crystal",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHVXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/080D00670558CD9E580D5662030394B2206E92A6/434537.png",
+"id": 24277,
+"level": 0,
+"name": "Pile of Crystalline Dust",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHbXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/543EC37900EA2A57E77FA891193A48D66AA224AB/66939.png",
+"id": 24283,
+"level": 0,
+"name": "Powerful Venom Sac",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHeXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/14C880782A481EE8051BDB176E542AF55C6CE663/66942.png",
+"id": 24286,
+"level": 0,
+"name": "Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgHfXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95F72F7A1A3D6D01751148FF3D0D9709366F203B/66943.png",
+"id": 24287,
+"level": 0,
+"name": "Smooth Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 9
+},
+{
+"chat_link": "[&AgHgXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F94ECFFF0FA9C321C108DA34E777B27B0AC9D5F8/66944.png",
+"id": 24288,
+"level": 0,
+"name": "Large Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHhXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7061C82F4F9D0C585742F545C40A0F06BE0154DC/66527.png",
+"id": 24289,
+"level": 0,
+"name": "Armored Scale",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHmXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99AAE49EABF9A2415940FDB83CA1CE5E6E256020/66949.png",
+"id": 24294,
+"level": 0,
+"name": "Vial of Potent Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgHnXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1A930A6A7B5B01EAB4CB36E79014C12B500BF6B3/66950.png",
+"id": 24295,
+"level": 0,
+"name": "Vial of Powerful Blood",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHsXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C1ABF9082901FC3CEABC3138CBCCA1DAD5D41812/66955.png",
+"id": 24300,
+"level": 0,
+"name": "Elaborate Totem",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgH2XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2232AA41E3DF20EB249C0B6D10BC0D37FF6C0E3D/66963.png",
+"id": 24310,
+"level": 0,
+"name": "Onyx Lodestone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 63
+},
+{
+"chat_link": "[&AgEVXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/13F077BA5D5C6324CFCB0A2E39050F24A441190B/66987.png",
+"id": 24341,
+"level": 0,
+"name": "Large Bone",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEeXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3A4D64F4CE2951F358DE0AFCEA6551050FB4B4A7/66420.png",
+"id": 24350,
+"level": 0,
+"name": "Large Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEfXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/043E2BBA270F381870F1B45E7C09C098CAFE3D14/66996.png",
+"id": 24351,
+"level": 0,
+"name": "Vicious Claw",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgElXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F2050EE1A7A43EDCDCB1E971FDA608AD0566E4DA/66998.png",
+"id": 24357,
+"level": 0,
+"name": "Vicious Fang",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgEmXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0EE45FBB1E1A004600E9BAA7097830B2DE08587D/66828.png",
+"id": 24358,
+"level": 0,
+"name": "Ancient Bone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGIlAAA]",
+"description": "Earned by playing Fractals of the Mists scales 51–100.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7DB2AB514CB9ACC219457DC1AEAB340BD578644F/512007.png",
+"id": 38024,
+"level": 0,
+"name": "Shard of Crystallized Mists Essence",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"upgrades_into": [
+{
+"item_id": 75943,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74343,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84095,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75438,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70979,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75277,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70554,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82505,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83675,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75079,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71065,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74744,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76921,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73560,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73813,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76557,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73281,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84778,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75175,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74364,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71726,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75315,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72591,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72932,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74097,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73756,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75669,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82373,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82585,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76936,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76504,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71346,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73083,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84212,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75355,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72423,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84313,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70595,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82705,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75156,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71795,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72171,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75312,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76024,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84577,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76809,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83321,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70695,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74646,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72016,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83525,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76823,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96126,
+"upgrade": "Infusion"
+},
+{
+"item_id": 95737,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96725,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97834,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96269,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96120,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97708,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97520,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96368,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104802,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104864,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104797,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104868,
+"upgrade": "Infusion"
+},
+{
+"item_id": 89597,
+"upgrade": "Infusion"
+},
+{
+"item_id": 87884,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86599,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86419,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86624,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86478,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104804,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104681,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97237,
+"upgrade": "Infusion"
+}
+],
+"vendor_value": 79
+},
+{
+"chat_link": "[&AgFbogAA]",
+"details": {
+"apply_count": 1,
+"description": "+100 power\n+70 toughness\n+10 experience from kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E6CAF6FE6276B003B5C4AE6F96BAF09D276B6FC7/561713.png",
+"id": 41563,
+"level": 80,
+"name": "Spicy Marinated Mushroom",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 15
+},
+{
+"chat_link": "[&AgFfogAA]",
+"details": {
+"apply_count": 1,
+"description": "+100 toughness\n+70 power\n+10 experience from kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B79E2A53AA492BCF823AACDAC9E2E415DE9040B/561717.png",
+"id": 41567,
+"level": 80,
+"name": "Plate of Spicy Herbed Chicken",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 15
+},
+{
+"chat_link": "[&AgF5sAAA]",
+"description": "Double-click to gain 100 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4FA2D6CEF9039B402F2695CF2E740B4CF6F50753/631150.png",
+"id": 45177,
+"level": 0,
+"name": "Rare Essence of Luck",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF6sAAA]",
+"description": "Double-click to gain 200 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DAB46301D2175B2CAAC4BACBA02F6A0A2F1DBEB8/631151.png",
+"id": 45178,
+"level": 0,
+"name": "Exotic Essence of Luck",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFZtgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2C3CCBD8A8C7B97F1BB0D4EA30D447130E01160C/631468.png",
+"id": 46681,
+"level": 0,
+"name": "Glob of Dark Matter",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgGKtgAA]",
+"description": "Refined from piles of bloodstone dust.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C03D6909B0A36EED87538C8D1FFFC27390FDF4E/631479.png",
+"id": 46730,
+"level": 0,
+"name": "Bloodstone Brick",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGLtgAA]",
+"description": "Refine into bloodstone bricks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1468C6A946BFF0A42CBD08A70E45F8F05851FED0/631480.png",
+"id": 46731,
+"level": 0,
+"name": "Pile of Bloodstone Dust",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGMtgAA]",
+"description": "Refined from ore.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DD0CE05EB7F841A99D58A106EE0CDFBF6A96F9FB/631481.png",
+"id": 46732,
+"level": 0,
+"name": "Dragonite Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGNtgAA]",
+"description": "Refine into dragonite ingots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D53E69EFB3AFF4C85CC370AA32F1A6A61C03CCE8/631482.png",
+"id": 46733,
+"level": 0,
+"name": "Dragonite Ore",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGOtgAA]",
+"description": "Refined from fragments.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AF8B122915F042AF6749C0AE4583FA963DADF56/631483.png",
+"id": 46734,
+"level": 0,
+"name": "Empyreal Star",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGPtgAA]",
+"description": "Refine into empyreal stars.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE4779014F27DE027BDBE761607B220923DB03D5/631484.png",
+"id": 46735,
+"level": 0,
+"name": "Empyreal Fragment",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGQtgAA]",
+"description": "Refined from soft wood, seasoned wood, hard wood, and elder spirit residue.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/955A9F900BB8AB253C9C91C7F7DF4305A741917C/631485.png",
+"id": 46736,
+"level": 0,
+"name": "Spiritwood Plank",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGStgAA]",
+"description": "Refined from iron, steel, darksteel, and mithrillium.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94DCAE59215C0096449906A81F202B0201FBA85B/631486.png",
+"id": 46738,
+"level": 0,
+"name": "Deldrimor Steel Ingot",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGTtgAA]",
+"description": "Refined from thin leather, coarse leather, rugged leather, and thick elonian cord.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/057F4DB327DB7F46490876E4D9D86E7C1D613C26/631487.png",
+"id": 46739,
+"level": 0,
+"name": "Elonian Leather Square",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGVtgAA]",
+"description": "Refined from wool, cotton, linen, and silk weaving thread.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7E7DA70B0EA3DB78CCB2F4FDA400A9BFEF0B0D6C/631489.png",
+"id": 46741,
+"level": 0,
+"name": "Bolt of Damask",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGbtgAA]",
+"description": "Used in the crafting of ascended items. Can be purchased from master craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/090DF0E7AFD6AD9A6C9FC31CCE510A05663D0A0E/631495.png",
+"id": 46747,
+"level": 0,
+"name": "Thermocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGgtgAA]",
+"description": "Used in crafting Ascended items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/622C35BD7B48F77C07C94CA3C73F9D9ADBCA4403/631529.png",
+"id": 46752,
+"level": 0,
+"name": "Augur's Stone",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgGlvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Spiders.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F13AC2EC1990C5D97DFCF547D30CCA06340EB20E/648142.png",
+"id": 48805,
+"level": 0,
+"name": "High-Quality Plastic Fangs",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGmvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of Souls.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C04007291E2AA26AEA65FB0D62E7303B303B45F/648143.png",
+"id": 48806,
+"level": 0,
+"name": "Tyria's Best Nougat Center",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgGnvgAA]",
+"description": "Used in the creation of the crafting recipe for Gift of the Moon.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9EA2050504ECB1A0B45538B2235C101795A92106/648144.png",
+"id": 48807,
+"level": 0,
+"name": "Gibbering Skull",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 37
+},
+{
+"chat_link": "[&AgHhAwEA]",
+"details": {
+"apply_count": 1,
+"description": "Gain Health Every Second\n+70 Toughness\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/69EE049FDCF633B4200A61B816262ADEC46D0E80/831445.png",
+"id": 66529,
+"level": 80,
+"name": "Bowl of Black Pepper Cactus Salad",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 33
+},
+{
+"chat_link": "[&AgHrAwEA]",
+"details": {
+"apply_count": 1,
+"description": "+100 Ferocity\n33% Chance to Gain Might on Critical Hit\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7803EC07586759FA5C0965626CC1D91FFCBE7D09/831455.png",
+"id": 66539,
+"level": 80,
+"name": "Bowl of Prickly Pear Sorbet",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 33
+},
+{
+"chat_link": "[&AgHfCQEA]",
+"description": "Used in the Mystic Forge to create the Eternal Sands focus and to make Polish, used in precursor crafting.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/35BC2D35511C806348730A5E63152B2E260D4A5C/919363.png",
+"id": 68063,
+"level": 0,
+"name": "Amalgamated Gemstone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 200
+},
+{
+"chat_link": "[&AgHyEwEA]",
+"description": "Obtained by salvaging the backpack Upper Bound.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1DE649F0431C45987C2CF93F9E9C02562C50586C/1203031.png",
+"id": 70642,
+"level": 0,
+"name": "Spirit of the Upper Bound",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgHTFAEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Fangs\n• 1 Gift of Scales\n• 1 Gift of Claws\n•1 Gift of Bones",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CCA4C2F8AF79D2EB0CFF381E3DDA3EA792BA7412/1302180.png",
+"id": 70867,
+"level": 0,
+"name": "Gift of Condensed Might",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGSGAEA]",
+"details": {
+"apply_count": 1,
+"description": "+100 Power\n+70 Healing Power\n+10% Experience",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/71BB9DEFFB0E0F2D50C1B5BB0B3B5D9FA9059DDA/1201846.png",
+"id": 71826,
+"level": 80,
+"name": "Bowl of Passion Fruit Tapioca Pudding",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 15
+},
+{
+"chat_link": "[&AgE6GQEA]",
+"description": "Salvaged from ascended gear. Use Stabilizing Matrices to create Cubes of Stabilized Dark Energy, used to build the legendary backpack Ad Infinitum.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/073D6BA90E2434B02CDEC736AEA252202FA0BA71/1200192.png",
+"id": 71994,
+"level": 0,
+"name": "Ball of Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgGxHQEA]",
+"description": "Used to craft pristine mist essence, a key component in legendary backpacks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/411E3F3A0B029113093E31530AAF022E7DDE241A/1200194.png",
+"id": 73137,
+"level": 0,
+"name": "Cube of Stabilized Dark Energy",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
+"chat_link": "[&AgHyKgEA]",
+"description": "Created in the Mystic Forge by combining:\n• 1 Gift of Blood\n• 1 Gift of Venom\n• 1 Gift of Totems\n• 1 Gift of Dust",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/09F42753049B20A54F6017B1F26A9447613016FE/1302179.png",
+"id": 76530,
+"level": 0,
+"name": "Gift of Condensed Magic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGoPQEA]",
+"description": "Combine with 20 Vicious Claws, 50 Large Claws, and 10 Globs of Dark Matter in the Mystic Forge to create a Mystic Essence of Annihilation.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05FFA01898D2A0BE0D09F6E0C848799A7FDB8097/1701097.png",
+"id": 81320,
+"level": 0,
+"name": "Essence of Annihilation",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGuPQEA]",
+"description": "Combine with 20 Vials of Powerful Blood, 50 Vials of Potent Blood, and 250 Piles of Bloodstone Dust in the Mystic Forge to create a Mystic Essence of Strategy.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7DECD9AB626915A135D1C9D9B6C50C23FA97D734/1701099.png",
+"id": 81326,
+"level": 0,
+"name": "Essence of Strategy",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE9PgEA]",
+"description": "Combine with 20 Armored Scales, 50 Large Scales, and 250 Dragonite Ore in the Mystic Forge to create a Mystic Essence of Carnage.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/095B589F3445BD27EBCD9759AB6FF7027D2A720C/1701098.png",
+"id": 81469,
+"level": 0,
+"name": "Essence of Carnage",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFyPgEA]",
+"description": "Combine with 20 Ancient Bones, 50 Large Bones, and 250 Empyreal Fragments in the Mystic Forge to create a Mystic Essence of Animosity.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/70F0B7C44BBD5C330766906F15014D282CBCF575/1701096.png",
+"id": 81522,
+"level": 0,
+"name": "Essence of Animosity",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHWSQEA]",
+"description": "Double-click to exchange for Living World Season 1 items.",
+"details": {
+"type": "Default",
+"vendor_ids": [
+549
+]
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AB7D723231106C11A173ECF1CC2D947EEEA1796C/1767458.png",
+"id": 84438,
+"level": 0,
+"name": "Black Lion Commemorative Sprocket",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFGSgEA]",
+"description": "",
+"details": {
+"type": "Food"
+},
+"flags": [],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2B3EC23CDF996009130F1AA762A10C500863FF9D/1766617.png",
+"id": 84550,
+"level": 80,
+"name": "Red-Lentil Saobosa",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 96
+},
+{
+"chat_link": "[&AgEkVAEA]",
+"details": {
+"apply_count": 1,
+"description": "+100 Healing\n+70 Concentration\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/377429B509EF9780BED9DF6EC9C4E1BFD7DF57D0/1947190.png",
+"id": 87076,
+"level": 80,
+"name": "Bowl of Poultry Satay",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEPagEA]",
+"description": "Used in the Mystic Forge and crafting disciplines to create weapons.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CEBF06A096D0EB0AF0410CA90370F0157F70A921/2247707.png",
+"id": 92687,
+"level": 0,
+"name": "Amalgamated Draconic Lodestone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 200
+},
+{
+"chat_link": "[&AgFUawEA]",
+"description": "In the Mystic Forge, combine Slumbering Transcendence, 250 Unidentified Dyes, an Emblem of Tournament Victory, and an Essence of Llamatic Elegance to create Transcendence.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C959D395C4EAE74CCFC62831D450DBA3B0A37855/2270826.png",
+"id": 93012,
+"level": 0,
+"name": "Emblem of Tournament Victory",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHGdgEA]",
+"details": {
+"apply_count": 1,
+"description": "+15% Increased Torment Duration\n+70 Condition Damage\n+10% Experience from Kills",
+"duration_ms": 1800000,
+"icon": "https://render.guildwars2.com/file/779D3F0ABE5B46C09CFC57374DA8CC3A495F291C/436367.png",
+"name": "Nourishment",
+"type": "Food"
+},
+"flags": [
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A4D8E658C8D547E0F7602458D00BCADADC62EDFE/2594837.png",
+"id": 95942,
+"level": 80,
+"name": "Meaty Asparagus Skewer",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 33
+},
+{
+"chat_link": "[&AgFCigEA]",
+"description": "An amalgamation of rift essences used for crafting.\nThe recipe can be purchased from Lyhr in the Wizard's Tower.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/41279A5101E4A871C0440FAA3F921DBC610C0D49/3123730.png",
+"id": 100930,
+"level": 0,
+"name": "Amalgamated Rift Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgERkgEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F4A10790EDB51CC038006155AB510458096050D/3375055.png",
+"id": 102929,
+"level": 0,
+"name": "Gift of Lowland Shore",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEukgEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D8C2FB01050308CFB0B251286B0334AC0F46027C/3375054.png",
+"id": 102958,
+"level": 0,
+"name": "Gift of Janthir Syntri",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEllwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A26C0D6F7BF50D443FC4C971DE0CA423F85E4C39/3592775.png",
+"id": 104229,
+"level": 0,
+"name": "Vial of Titan Melted Liquid Obsidian",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF5lwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/37CB6FBE986F04B75664750A0108CD07F80A0623/3592773.png",
+"id": 104313,
+"level": 0,
+"name": "Gift of Mistburned Barrens",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGLlwEA]",
+"description": "Can be spent at vendors in Mistburned Barrens or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E0F9E2B9CEA649D540160AFB22AB650301B5171/3592777.png",
+"id": 104331,
+"level": 0,
+"name": "Curious Mursaat Ruin Shard",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF9mQEA]",
+"description": "Can be spent at vendors in Bava Nisos or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/96EF0A1708920D059FAFAAF05AFE18FD1CF39504/3630025.png",
+"id": 104829,
+"level": 0,
+"name": "Curious Mursaat Remnants",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGMmQEA]",
+"description": "Grown in the homestead. The seedlings are purchased from Deft Lahar.\n\nUsed in the Mystic Forge to create:\n• Gift of the Appetizer\n• Gift of the Entrée\n• Gift of the Side Course\n• Gift of the Dessert",
+"flags": [
+"NoSalvage",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3A0EBFF2690B38456F7A3D6E2046ADEFB81FB8F4/3629208.png",
+"id": 104844,
+"level": 0,
+"name": "Fruit of the Shadow",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGXmQEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.\n\nPurchased from a Bava Nisos vendor or from the Trading Post.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38A5D5A2FF921BE476696EACFA0F015C24E629F9/3629254.png",
+"id": 104855,
+"level": 0,
+"name": "Shard of Bava Nisos",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgHAmQEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CC2AF85864FDB592EE5638977C0A7D70AF745134/3629251.png",
+"id": 104896,
+"level": 0,
+"name": "Gift of Bava Nisos",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEsmgEA]",
+"description": "Acquired from Ward Trader Sampaguita in Bava Nisos.\nThis item is used to craft or purchase Slumbering Lightborne weapons, which she sells crafting recipes or assistance for.\n\n<c=@flavor>A faint glow emits from this spark.</c>",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7D6DC32F35F729761760399247FAFD2B1150053C/3630026.png",
+"id": 105004,
+"level": 0,
+"name": "Mists Gate Residue",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 64
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=12467,12468,19664,19675,19676,19685,19721,19737,19925,19976,20796,20799,24277,24283,24286,24287,24288,24289,24294,24295,24300,24310,24341,24350,24351,24357,24358,38024,41563,41567,45177,45178,46681,46730,46731,46732,46733,46734,46735,46736,46738,46739,46741,46747,46752,48805,48806,48807,66529,66539,68063,70642,70867,71826,71994,73137,76530,81320,81326,81469,81522,84438,84550,87076,92687,93012,95942,100930,102929,102958,104229,104313,104331,104829,104844,104855,104896,105004"
+}

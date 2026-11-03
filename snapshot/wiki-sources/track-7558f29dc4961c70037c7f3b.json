@@ -1,0 +1,42 @@
+{
+"fetched": 1793698848.9419067,
+"item": "Curious Mursaat Remnants",
+"kind": "track",
+"q": "a78fbdcafa13",
+"rows": [
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Remnants",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 34,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Remnants",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 34,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item34"
+},
+{
+"Contains item in reward track": [
+{
+"Has reward track item": "Curious Mursaat Remnants",
+"Has reward track item game mode": "PvP",
+"Has reward track item number": 34,
+"Has reward track item quantity": 5
+},
+{
+"Has reward track item": "Curious Mursaat Remnants",
+"Has reward track item game mode": "WvW",
+"Has reward track item number": 34,
+"Has reward track item quantity": 5
+}
+],
+"_subject": "Janthir Wilds Reward Track#item34"
+}
+]
+}

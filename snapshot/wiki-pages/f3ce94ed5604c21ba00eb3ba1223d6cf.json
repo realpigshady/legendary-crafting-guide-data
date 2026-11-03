@@ -1,0 +1,5 @@
+{
+"revid": 2354104,
+"text": "{{Item infobox\n| description = A gift used to create [[Vision|legendary jewelry]].\n| type = trophy\n| rarity = legendary\n| value = 640\n| bound = account\n| id = 90985\n| requires = lws4\n}}\n\n== Acquisition ==\n{{recipe\n| source = mystic\n| ingredient1 = 1 Gift of Energy\n| ingredient2 = 1 Gift of the Mists\n| ingredient3 = 100 Icy Runestone\n| ingredient4 = 1 Shattered Gift of Prescience\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Weitsicht]]\n[[es:Don de presciencia]]\n[[fr:Don de prescience]]",
+"title": "Gift of Prescience"
+}

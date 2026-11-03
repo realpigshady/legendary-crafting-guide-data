@@ -1,0 +1,521 @@
+{
+"fetched": 1793698840.0996466,
+"item": "Lowland Shore Renown Token",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Collect logs by using your warclaw's Chain Pull skill on trees"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Collect logs by using your warclaw's Chain Pull skill on trees#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Bog Queen before she floods the area with maggots"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Defeat the Bog Queen before she floods the area with maggots#reward9"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the invasive iboga"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Defeat the invasive iboga#reward6"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the rotling before it razes the area"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Defeat the rotling before it razes the area#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defend the kodan from the bog bodies while they gather peat"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Defend the kodan from the bog bodies while they gather peat#reward6"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Engage the wolf pack leader"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Engage the wolf pack leader#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Escort Ardent Gale as she poisons valravn nests"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Escort Ardent Gale as she poisons valravn nests#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forage and taste test for edible mushrooms"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Forage and taste test for edible mushrooms#reward9"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Gather honey for the kodan"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Gather honey for the kodan#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Sheltering Dusk heal the wounded wolf pup"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Help Sheltering Dusk heal the wounded wolf pup#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help Warming Sun heal the wounded fawn"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Help Warming Sun heal the wounded fawn#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help the Astral Ward clean up the ocean"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Help the Astral Ward clean up the ocean#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help the kodan cultivate honeybees"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Help the kodan cultivate honeybees#reward7"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Help the kodan relax in the hot springs"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Help the kodan relax in the hot springs#reward6"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Hunt down the rampaging basilisk"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Hunt down the rampaging basilisk#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Hunt down the rampaging reindeer"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Hunt down the rampaging reindeer#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Hunt down the rampaging warg"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Hunt down the rampaging warg#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Join the kodan on her hunting expedition"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Join the kodan on her hunting expedition#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Keep the troll party from getting out of hand"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Keep the troll party from getting out of hand#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the reef shark in the delta bog"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Kill the reef shark in the delta bog#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the titanspawn infesting the area and tend to their victims"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Kill the titanspawn infesting the area and tend to their victims#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Lowland Shore Fishing Tournament"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Lowland Shore Fishing Tournament#reward8"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Reach the Salmon Run finish line"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Reach the Salmon Run finish line#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Reach the Warclaw Run finish line!"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Reach the Warclaw Run finish line!#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Subdue the Mushroom King"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Subdue the Mushroom King#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Subdue the wild creature (Cragged Upland)"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Subdue the wild creature (Cragged Upland)#reward5"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"While on your warclaw, dash through the maggots before they infest more bodies"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "While on your warclaw, dash through the maggots before they infest more bodies#reward6"
+}
+]
+}

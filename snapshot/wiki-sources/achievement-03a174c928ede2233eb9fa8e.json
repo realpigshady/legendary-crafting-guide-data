@@ -1,0 +1,156 @@
+{
+"fetched": 1793699869.1223552,
+"item": "Hatched Chili",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+15
+],
+"Has achievement page": [
+"Daily Icebrood Saga"
+],
+"Has canonical name": [
+"Grothmar Legionnaire"
+],
+"Has game id": [
+4953
+],
+"Is historical": [
+"f"
+],
+"_subject": "Daily Icebrood Saga#achievement4953"
+},
+{
+"Gives item": [
+"Mystic Coin",
+"Magnetite Shard",
+"Hatched Chili",
+"Glittering Weapon Cache"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Bound by Blood"
+],
+"Has canonical name": [
+"Return to Grothmar Valley"
+],
+"Has game id": [
+5888
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5888"
+},
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"A Race to Arms"
+],
+"Has canonical name": [
+"Return to A Race to Arms"
+],
+"Has game id": [
+5954
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5954"
+},
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Bad Blood (Bound by Blood)"
+],
+"Has canonical name": [
+"Return to Bad Blood"
+],
+"Has game id": [
+5958
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5958"
+},
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Deeper and Deeper"
+],
+"Has canonical name": [
+"Return to Deeper and Deeper"
+],
+"Has game id": [
+5994
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5994"
+},
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+10
+],
+"Has achievement page": [
+"Coming Home"
+],
+"Has canonical name": [
+"Return to Coming Home"
+],
+"Has game id": [
+6008
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement6008"
+},
+{
+"Gives item": [
+"Hatched Chili"
+],
+"Gives item quantity": [
+250
+],
+"Has achievement page": [
+"Return to the Icebrood Saga (achievements)"
+],
+"Has canonical name": [
+"Local Response: Grothmar Valley (Weekly)"
+],
+"Has game id": [
+8524
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to the Icebrood Saga (achievements)#achievement8524"
+}
+]
+}

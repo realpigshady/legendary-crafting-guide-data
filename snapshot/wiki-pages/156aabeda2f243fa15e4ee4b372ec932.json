@@ -1,0 +1,5 @@
+{
+"revid": 2884182,
+"text": "{{otheruses|the {{rarity|legendary}} crafting material|the {{rarity|exotic}} crafting material|Wolf Statue (exotic)}}\n{{Item infobox\n| type = trophy\n| material type = mystic\n| description = A wolf statue used to create [[Howler]].<br><br>Purchase the recipe for this item from any [[Mystic Forge]] vendor and reach a [[leatherworker]] rating of 400 to [[craft]].\n| rarity = legendary\n| collection = Legendary Weapon: Howler\n| bound = account\n| id = 19640\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Wolf Statue\n| type = Crafting Component\n| disciplines = leatherworker\n| rating = 400\n| ingredient1 = 250 Orichalcum Ingot\n| ingredient2 = 250 Cured Hardened Leather Square\n| ingredient3 = 1 Gift of Thorns\n| ingredient4 = 250 Vicious Fang\n| id = 1713\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Wolfstatue]]\n[[es:Estatua de lobo]]\n[[fr:Statue de loup]]",
+"title": "Wolf Statue"
+}

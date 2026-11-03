@@ -1,0 +1,5 @@
+{
+"revid": 2974136,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|+100 [[Power]]<br>+70 [[Toughness]]<br>+10% [[Experience]] from kills|id=17824}}\n| type = food\n| food type = snack\n| rarity = fine\n| level = 80\n| salvage = Compost, Research\n| id = 41563\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Spicy Marinated Mushroom\n| type = Snack\n| disciplines = chef\n| rating = 400\n| ingredient1 = 5 Grilled Mushroom\n| ingredient2 = 10 Grilled Portobello Mushroom\n| ingredient3 = 3 Cayenne Pepper\n| ingredient4 = 5 Ghost Pepper\n| id = 7222\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[de:Scharfer marinierter Pilz]]\n[[es:Champiñón marinado picante]]\n[[fr:Champignon mariné épicé]]",
+"title": "Spicy Marinated Mushroom"
+}

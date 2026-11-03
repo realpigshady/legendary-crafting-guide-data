@@ -1,0 +1,29 @@
+{
+"fetched": 1793699467.2183678,
+"item": "Gift of Starlit Weald Exploration",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Starlit Weald"
+],
+"Rewards item": [
+"Gift of Starlit Weald Exploration"
+],
+"_subject": "Starlit Weald#reward1"
+}
+]
+}

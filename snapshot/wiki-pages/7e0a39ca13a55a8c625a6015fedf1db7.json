@@ -1,0 +1,5 @@
+{
+"revid": 3019287,
+"text": "{{Item infobox\n| icon = Resilient WvW Infusion.png\n| type = crafting material\n| material type = component\n| description = Used to craft [[ascended]] and [[legendary]] backpacks. Made from [[Rare Essence of Luck|Essences of Luck]], [[Thermocatalytic Reagent]]s, and a [[Cube of Stabilized Dark Energy]].\n| rarity = ascended\n| bound = account\n| id = 75781\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Finite Result\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 10 Rare Essence of Luck\n| ingredient2 = 1 Cube of Stabilized Dark Energy\n| ingredient3 = 10 Thermocatalytic Reagent\n| id = 10584\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Makellose Nebelessenz]]\n[[es:Esencia de niebla prístina]]\n[[fr:Essence des Brumes immaculée]]",
+"title": "Pristine Mist Essence"
+}

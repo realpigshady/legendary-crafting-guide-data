@@ -1,0 +1,5 @@
+{
+"revid": 2946653,
+"text": "{{Item infobox\n| description = Double-click to transform into [[Yagon]].\n| type = Gizmo, Novelty\n| novelty type = Tonic\n| novelty-id =\n| rarity = Exotic\n| bound = Account\n| id = 104411\n| requires = jw\n| gallery1 = Yagon.jpg\n| gallery1-text = Character's appearance after consuming the tonic.\n| gallery2 = Endless Yagon Tonic (preview).jpg\n| gallery2-text = Character's appearance in tonic preview.\n}}\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Sold by ===\n{{sold by}}\n\n== Currency for ==\n{{Vendor query table|currency=Endless Yagon Tonic}}\n\n[[de:Endloser Yagon-Trank]]\n[[es:Tónico de Yagon inagotable]]\n[[fr:Tonique de Yagon inépuisable]]\n\n== Skills ==\n{| {{STDT|pve}}\n{{Environmental skill table header}}\n{{Environmental skill table row|Return}}\n|}\n\n== Notes ==\n* All other skill slots will be [[Locked]] under this tonic's transformation.\n* Players can not jump under this transformation.\n* Appearance after consuming the tonic is different than preview.\n* Allowed to use the <code>/sleep</code> [[emote]].",
+"title": "Endless Yagon Tonic"
+}

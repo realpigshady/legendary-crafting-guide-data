@@ -1,0 +1,215 @@
+{
+"fetched": 1793698840.0996466,
+"item": "Curious Mursaat Remnants",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"32"
+],
+"Rewarded by": [
+"A Titanic Voyage"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "A Titanic Voyage#reward5"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-4"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Bonus chest/Rewards#reward67"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"3-4"
+],
+"Rewarded by": [
+"Defeat Lextalion the Merciless"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Defeat Lextalion the Merciless#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Defeat the Champion Titanspawn (Bava Nisos)"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Defeat the Champion Titanspawn (Bava Nisos)#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Defeat the swarm of titan minions"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Defeat the swarm of titan minions#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Destroy jade constructs, titanspawn, and other mursaat defenses"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Destroy jade constructs, titanspawn, and other mursaat defenses#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Help Kyung complete her ritual by consoling spirits, finding lost mursaat mementos, and driving away titanspawn"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Help Kyung complete her ritual by consoling spirits, finding lost mursaat mementos, and driving away titanspawn#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Help Rysta preserve and sort the mursaat texts before they degrade completely"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Help Rysta preserve and sort the mursaat texts before they degrade completely#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Kill titanspawn to power Livia's spell"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Kill titanspawn to power Livia's spell#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Set up the gastric dispersion devices"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Set up the gastric dispersion devices#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Use debris in the environment to help destroy the titan organ sacs"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Use debris in the environment to help destroy the titan organ sacs#reward1"
+}
+]
+}

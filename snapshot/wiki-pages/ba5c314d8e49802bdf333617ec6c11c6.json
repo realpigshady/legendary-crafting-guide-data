@@ -1,0 +1,5 @@
+{
+"revid": 3176793,
+"text": "{{Item infobox\n| type = consumable\n| rarity = basic\n| bound = account\n| description = Grants a small amount of [[experience]]. Trade 20 writs to [[Miyani]] in [[Lion's Arch]] for a [[tome of knowledge]].\n| id = 68109\n}}\n\n[[Writ of Experience]] is a consumable that grants 5% of the [[experience]] needed to reach the next level. After the [[Wizard's Vault]] replaced the old [[daily]] system, they can only be acquired from a limited number of achievements related to [[Seasons of the Dragons]].\n\n== Acquisition ==\n{{contained in}}\n\n== Currency for ==\n{{Vendor query table\n| currency = Writ of Experience}}\n\n== Notes ==\n* Cannot be used in [[combat]].\n* Cannot be used at [[level]] 80.\n\n== Trivia ==\n* As part of [[skill point]]s rework to [[hero point]]s, the [[Game updates/2015-06-23|23 June 2015 game update]] removed the possibility to use at level 80 and introduced the [[Tome of Knowledge]] trade.\n\n[[de:Schrift der Erfahrung]]\n[[es:Mandato de experiencia]]\n[[fr:Écrit d'expérience]]",
+"title": "Writ of Experience"
+}

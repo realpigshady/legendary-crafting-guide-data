@@ -1,0 +1,5 @@
+{
+"revid": 2674300,
+"text": "{{otheruses|the {{rarity|exotic}} crafting material|the {{rarity|legendary}} crafting material|Wolf Statue}}\n{{Item infobox\n| name = Wolf Statue\n| description = Used to craft [[Howl]].\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 72862\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| name = Wolf Statue\n| source = recipe sheet\n| sheet = Box of Recipes: Howl\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 500\n| ingredient1 = 1 Large Skull\n| ingredient2 = 50 Mithril Ingot\n| ingredient3 = 1 Bloodstone Brick\n| ingredient4 = 5 Vicious Fang\n| id = 10892\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[es:Estatua de lobo (exótico)]]",
+"title": "Wolf Statue (exotic)"
+}

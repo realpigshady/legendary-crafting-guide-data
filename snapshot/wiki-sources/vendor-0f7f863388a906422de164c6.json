@@ -1,0 +1,55 @@
+{
+"fetched": 1793697479.921695,
+"item": "Gift of Janthir Wilds",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Gatherer of the Hunt",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Expertise",
+"Has item value": "1"
+},
+{
+"Has item currency": "Bloodstone Shard",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Uncovered Grounds",
+"Has item value": "1"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Janthir Wilds"
+],
+"_subject": "Ward Crafter Lucirae#vendor1"
+}
+]
+}

@@ -1,0 +1,94 @@
+{
+"fetched": 1793697612.1608658,
+"item": "Gift of Research",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "10"
+},
+{
+"Has item currency": "Hydrocatalytic Reagent",
+"Has item value": "500"
+},
+{
+"Has item currency": "Thermocatalytic Reagent",
+"Has item value": "250"
+},
+{
+"Has item currency": "Exotic Essence of Luck",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Research"
+],
+"_subject": "Lyhr#vendor28"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "5"
+},
+{
+"Has item currency": "Hydrocatalytic Reagent",
+"Has item value": "500"
+},
+{
+"Has item currency": "Thermocatalytic Reagent",
+"Has item value": "250"
+},
+{
+"Has item currency": "Exotic Essence of Luck",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Research"
+],
+"_subject": "Ward Crafter Lucirae#vendor25"
+}
+]
+}

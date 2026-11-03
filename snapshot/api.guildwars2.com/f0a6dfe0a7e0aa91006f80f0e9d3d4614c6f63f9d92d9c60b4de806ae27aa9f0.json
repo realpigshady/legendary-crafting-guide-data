@@ -1,0 +1,362 @@
+{
+"body": [
+{
+"chat_link": "[&AgGrIQEA]",
+"default_skin": 6344,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/562A009CE8D66B63B975251BC97041BFBE0E07E1/1202351.png",
+"id": 74155,
+"level": 80,
+"name": "Ad Infinitum",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGiLgEA]",
+"default_skin": 6561,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C72336A9140CC9F2B34CCFCDCE2B217B380A1ADC/1313065.png",
+"id": 77474,
+"level": 80,
+"name": "The Ascension",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgE2PgEA]",
+"default_skin": 7272,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5EBEA1A467236237FCBACDC09969647956C4A371/1701118.png",
+"id": 81462,
+"level": 80,
+"name": "Warbringer",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGZmQEA]",
+"default_skin": 13090,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C5948587832ACA31FD01298DE081BDE626CC607/3629149.png",
+"id": 104857,
+"level": 80,
+"name": "Orrax Manifested",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 660
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=74155,77474,81462,104857"
+}

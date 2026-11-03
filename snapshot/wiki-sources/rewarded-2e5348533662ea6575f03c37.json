@@ -1,0 +1,46 @@
+{
+"fetched": 1793700105.2488801,
+"item": "Gift of Mistburned Barrens",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Map completion"
+],
+"Rewards item": [
+"Gift of Mistburned Barrens"
+],
+"_subject": "Map completion#reward64"
+},
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Mistburned Barrens"
+],
+"Rewards item": [
+"Gift of Mistburned Barrens"
+],
+"_subject": "Mistburned Barrens#reward1"
+}
+]
+}

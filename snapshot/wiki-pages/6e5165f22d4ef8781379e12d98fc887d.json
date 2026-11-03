@@ -1,0 +1,5 @@
+{
+"revid": 2699655,
+"text": "{{Item infobox\n| variables = {{nourishment|30 m|28% Chance to Gain [[Swiftness]] on [[Kill effect|Kill]]<br>+10% [[Experience]] from Kills|id=10075}}\n| type = food\n| food type = snack\n| rarity = fine\n| level = 25\n| salvage = Compost, Research\n| id = 12196\n}}\n\n== Acquisition ==\n{{recipe\n| source = discovery\n| type = Snack\n| disciplines = chef\n| rating = 125\n| ingredient1 = 1 Head of Lettuce\n| ingredient2 = 1 Beet\n| ingredient3 = 1 Bottle of Ascalonian Dressing\n| id = 2873\n}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n== Salvage results ==\n{{Food salvage results}}\n\n[[Category:Ingredients]]\n[[de:Schüssel mit ascalonischem Salat]]\n[[es:Cuenco de ensalada ascaloniana]]\n[[fr:Bol de salade ascalonienne]]",
+"title": "Bowl of Ascalonian Salad"
+}

@@ -1,0 +1,6602 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Refined Homestead Fiber",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blueberry",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor1"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Lettuce",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor10"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tarragon Leaves",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor100"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cassava Root",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor101"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Leek",
+"Has item value": "14"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor102"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Raspberry",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor103"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clove",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor104"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsnip",
+"Has item value": "14"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor105"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Saffron Thread",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor106"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Nopal",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor107"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Prickly Pear",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor108"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Flax Seeds",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor109"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Onion",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor11"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ghost Pepper",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor110"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Allspice Berries",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor111"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Handful of Red Lentils",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor112"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lotus Root",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor113"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Omnomberry",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor114"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orrian Truffle",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor115"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sawgill Mushroom",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor116"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seaweed",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor117"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snow Truffle",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor118"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blueberry",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor119"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Potato",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor12"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mushroom",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor120"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Carrot",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor121"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Black Peppercorn",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor122"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsley Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor123"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Thyme Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor124"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chili Pepper",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor125"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Garlic",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor126"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vanilla Bean",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor127"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Lettuce",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor128"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Onion",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor129"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bay Leaf",
+"Has item value": "32"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor13"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Potato",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor130"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bay Leaf",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor131"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Oregano Leaf",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor132"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sage Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor133"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spinach Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor134"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Strawberry",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor135"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Beet",
+"Has item value": "15"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor136"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Turnip",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor137"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cabbage",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor138"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Grape",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor139"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Oregano Leaf",
+"Has item value": "40"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor14"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Kale Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor140"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Yam",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor141"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Portobello Mushroom",
+"Has item value": "3"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor142"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dill Sprig",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor143"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rosemary Sprig",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor144"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sesame Seed",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor145"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Zucchini",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor146"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blackberry",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor147"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cauliflower",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor148"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mint Leaf",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor149"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sage Leaf",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor15"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Onion",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor150"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sugar Pumpkin",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor151"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rutabaga",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor152"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Artichoke",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor153"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Asparagus Spear",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor154"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Passion Fruit",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor155"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Butternut Squash",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor156"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cayenne Pepper",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor157"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lemongrass",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor158"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tarragon Leaves",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor159"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spinach Leaf",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor16"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cassava Root",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor160"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Leek",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor161"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Raspberry",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor162"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clove",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor163"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsnip",
+"Has item value": "7"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor164"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Saffron Thread",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor165"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Nopal",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor166"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Prickly Pear",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor167"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Flax Seeds",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor168"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ghost Pepper",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor169"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Strawberry",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor17"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Allspice Berries",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor170"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Handful of Red Lentils",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor171"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lotus Root",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor172"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Omnomberry",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor173"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orrian Truffle",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor174"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sawgill Mushroom",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor175"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seaweed",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+2
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor176"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snow Truffle",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"two [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor177"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Beet",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor18"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "61600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor185"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62096"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor186"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "62600"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor187"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63112"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor188"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "63624"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor189"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Turnip",
+"Has item value": "48"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor19"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64144"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor190"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "64664"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor191"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65192"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor192"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "65720"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor193"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Coin",
+"Has item value": "66256"
+}
+],
+"Has item quantity": [
+25
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+1
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor194"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mushroom",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor2"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cabbage",
+"Has item value": "40"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor20"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Grape",
+"Has item value": "32"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor21"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Kale Leaf",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor22"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Yam",
+"Has item value": "32"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor23"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Portobello Mushroom",
+"Has item value": "13"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor24"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dill Sprig",
+"Has item value": "40"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor25"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rosemary Sprig",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor26"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sesame Seed",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor27"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Zucchini",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor28"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blackberry",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor29"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Carrot",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor3"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cauliflower",
+"Has item value": "32"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor30"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mint Leaf",
+"Has item value": "28"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor31"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Onion",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor32"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sugar Pumpkin",
+"Has item value": "32"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor33"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rutabaga",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor34"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Artichoke",
+"Has item value": "28"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor35"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Asparagus Spear",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor36"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Passion Fruit",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor37"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Butternut Squash",
+"Has item value": "28"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor38"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cayenne Pepper",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor39"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Black Peppercorn",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor4"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lemongrass",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor40"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tarragon Leaves",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor41"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cassava Root",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor42"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Leek",
+"Has item value": "28"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor43"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Raspberry",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor44"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Clove",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor45"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsnip",
+"Has item value": "28"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor46"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Saffron Thread",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor47"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Nopal",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor48"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Prickly Pear",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor49"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsley Leaf",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor5"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Flax Seeds",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor50"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Ghost Pepper",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor51"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Pile of Allspice Berries",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor52"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Handful of Red Lentils",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor53"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lotus Root",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor54"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Omnomberry",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor55"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Orrian Truffle",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor56"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sawgill Mushroom",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor57"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Seaweed",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor58"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Snow Truffle",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor59"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Thyme Leaf",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor6"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blueberry",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor60"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mushroom",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor61"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Carrot",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor62"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Black Peppercorn",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor63"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Parsley Leaf",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor64"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Thyme Leaf",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor65"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chili Pepper",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor66"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Garlic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor67"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vanilla Bean",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor68"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Lettuce",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor69"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chili Pepper",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor7"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Onion",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor70"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Potato",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor71"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Bay Leaf",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor72"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Oregano Leaf",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor73"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sage Leaf",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor74"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Spinach Leaf",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor75"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Strawberry",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor76"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Beet",
+"Has item value": "30"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor77"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Turnip",
+"Has item value": "24"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor78"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cabbage",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor79"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Garlic",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor8"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Grape",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor80"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Kale Leaf",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor81"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Yam",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor82"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Portobello Mushroom",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor83"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Dill Sprig",
+"Has item value": "20"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor84"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rosemary Sprig",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor85"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sesame Seed",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor86"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Zucchini",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor87"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Blackberry",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor88"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Head of Cauliflower",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor89"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vanilla Bean",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor9"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Mint Leaf",
+"Has item value": "14"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor90"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Green Onion",
+"Has item value": "12"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor91"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Sugar Pumpkin",
+"Has item value": "16"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor92"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rutabaga",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor93"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Artichoke",
+"Has item value": "14"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor94"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Asparagus Spear",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor95"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Passion Fruit",
+"Has item value": "10"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor96"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Butternut Squash",
+"Has item value": "14"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor97"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Cayenne Pepper",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor98"
+},
+{
+"Has context": [
+"Object"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Lemongrass",
+"Has item value": "8"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"one [[Homestead Upgrade: Fiber Trade Efficiency]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Homestead Refinement—Farm"
+],
+"Has weekly purchase cap": [
+100
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hearth's Glow",
+"Comosus Isle"
+],
+"Sells item": [
+"Refined Homestead Fiber"
+],
+"_subject": "Homestead Refinement—Farm#vendor99"
+}
+]
+}

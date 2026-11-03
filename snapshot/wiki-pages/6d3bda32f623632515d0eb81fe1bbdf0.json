@@ -1,0 +1,5 @@
+{
+"revid": 2884136,
+"text": "{{Item infobox\n| type = trophy\n| description = A vial of pure quicksilver used to create [[The Juggernaut]].<br><br>Purchase the recipe for this item from any [[Mystic Forge]] vendor and reach a [[jeweler]] rating of 400 to [[craft]].\n| material type = mystic\n| rarity = legendary\n| collection = Legendary Weapon: The Juggernaut\n| bound = account\n| value = 640\n| id = 19633\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Vial of Quicksilver\n| type = Crafting Component\n| disciplines = jeweler\n| rating = 400\n| ingredient1 = 1 Gift of the Forgeman\n| ingredient2 = 250 Steel Ingot\n| ingredient3 = 150 Molten Lodestone\n| ingredient4 = 250 Silver Doubloon\n| id = 3726\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Trivia ==\n* Quicksilver is another name for the element [[wikipedia:mercury (element)|mercury]].\n\n[[de:Phiole mit Quecksilber]]\n[[es:Vial de azogue]]\n[[fr:Fiole de vif-argent]]",
+"title": "Vial of Quicksilver"
+}

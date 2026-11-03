@@ -1,0 +1,5 @@
+{
+"revid": 2338284,
+"text": "{{Item infobox\n| description = Used to craft the [[Structured PvP|PvP]] [[Legendary back item|legendary backpack]].\n| type = trophy\n| material type = mystic\n| id = 77485\n| rarity = legendary\n| bound = account\n}}\n[[Gift of Skirmishing]] is a [[structured PvP]] reward used to craft the [[legendary back item]] [[The Ascension]] and the [[legendary trinket]] [[Transcendence]].\n\n== Acquisition ==\n{{recipe\n| source = mystic forge\n| ingredient1 = 2 Vision Crystal\n| ingredient2 = 250 Shard of Glory\n| ingredient3 = 5 Certificate of Support\n| ingredient4 = 1 Perfect Mist Core\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe der Gefechtsbeherrschung]]\n[[es:Don de escaramuzas]]\n[[fr:Don d'escarmouche]]\n\n== Notes ==\n{{anomaly|The tooltip implies that it can only be used to craft a [[legendary back item]] which is not correct as [[Transcendence]], a [[legendary trinket]], can also be crafted with it.}}",
+"title": "Gift of Skirmishing"
+}

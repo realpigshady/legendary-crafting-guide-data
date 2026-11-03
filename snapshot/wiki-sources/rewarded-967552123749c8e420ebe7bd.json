@@ -1,0 +1,29 @@
+{
+"fetched": 1793699715.8601902,
+"item": "Petrified Wood",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Location"
+],
+"Has location type": [
+"Zone"
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ember Bay"
+],
+"Rewards item": [
+"Petrified Wood"
+],
+"_subject": "Ember Bay#reward2"
+}
+]
+}

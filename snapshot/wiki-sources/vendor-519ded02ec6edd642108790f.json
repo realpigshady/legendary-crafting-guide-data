@@ -1,0 +1,876 @@
+{
+"fetched": 1793700275.4620798,
+"item": "Gift of Craftsmanship",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ash Legion Provisioner"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Memorial Quadrant"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Ash Legion Provisioner#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Mage (Bastion of Balance)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of Balance"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Mage (Bastion of Balance)#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Mage (Bastion of the Natural)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of the Natural"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Mage (Bastion of the Natural)#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Mage (The Commons)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Commons"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Mage (The Commons)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Protector (Bastion of the Obscure)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of the Obscure"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Protector (Bastion of the Obscure)#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Protector (Wizard's Ascent)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wizard's Ascent"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Protector (Wizard's Ascent)#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Bastion of Knowledge)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of Knowledge"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Skirmisher (Bastion of Knowledge)#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Bastion of Strength)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Bastion of Strength"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Skirmisher (Bastion of Strength)#vendor10"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Skirmisher (Memory's Hollow)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Memory's Hollow"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Astral Ward Skirmisher (Memory's Hollow)#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Aym"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trade Commons"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Aym#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Brath"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Brath#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Deldrimor Dwarf (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Droknar's Light"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Deldrimor Dwarf (Faction Provisioner)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Gaerlar Stormrider"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Gaerlar Stormrider#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kestrel Watchkeeper (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Jade Mech Habitation Zone 03"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Kestrel Watchkeeper (Faction Provisioner)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Quartermaster Natomi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma's Breach"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Quartermaster Natomi#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Rend Scorchmaul"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Rend Scorchmaul#vendor11"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Researcher (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Rata Novus Promenade"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Researcher (Faction Provisioner)#vendor8"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Scavenger Rakatin"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Tarnished Treetop"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Scavenger Rakatin#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shining Isle (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Shining Isle (Faction Provisioner)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Skritt Trader (Lion's Arch)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Commodore's Quarter"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Skritt Trader (Lion's Arch)#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Supply Assistant"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ogre Camp"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Supply Assistant#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Synergetics Intern"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Interdisciplinary Accessium"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Synergetics Intern#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Temple Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dwayna High Road"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Temple Quartermaster#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vignir the Storm (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Vignir the Storm (Faction Provisioner)#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Member Bones"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Ward Member Bones#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Member Viszay"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mantle's Arrival"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Ward Member Viszay#vendor3"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Warden Eve"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maker's Terrace"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Warden Eve#vendor7"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Provisioner Token",
+"Has item value": "50"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Zaishen Warrior (Faction Provisioner)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Skyward Marches"
+],
+"Sells item": [
+"Gift of Craftsmanship"
+],
+"_subject": "Zaishen Warrior (Faction Provisioner)#vendor8"
+}
+]
+}

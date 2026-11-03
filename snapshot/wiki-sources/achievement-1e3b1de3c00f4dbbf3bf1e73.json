@@ -1,0 +1,82 @@
+{
+"fetched": 1793699819.6830244,
+"item": "Jorbreaker",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Jorbreaker",
+"Icebone Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"(Weekly) Dragon Bash Festivities"
+],
+"Has canonical name": [
+"(Weekly) Dragon Bash Festivities"
+],
+"Has game id": [
+6579
+],
+"Is historical": [
+"f"
+],
+"_subject": "Dragon Bash Feats#achievement6579"
+},
+{
+"Gives item": [
+"Jorbreaker",
+"Dragonrender Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Bash Feats"
+],
+"Has canonical name": [
+"(Weekly) Dragon Bash Festivities 2023"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Dragon Bash Feats#achievement99922"
+},
+{
+"Gives item": [
+"Jorbreaker",
+"Sacred Crystal Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Bash Feats"
+],
+"Has canonical name": [
+"(Weekly) Dragon Bash Festivities 2024"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Dragon Bash Feats#achievement99924"
+},
+{
+"Gives item": [
+"Jorbreaker",
+"Sacred Raven's Chest"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Dragon Bash Feats"
+],
+"Has canonical name": [
+"(Weekly) Dragon Bash Festivities 2025"
+],
+"Has game id": [],
+"Is historical": [
+"t"
+],
+"_subject": "Dragon Bash Feats#achievement99926"
+}
+]
+}

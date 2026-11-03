@@ -1,0 +1,39 @@
+{
+"fetched": 1793699025.3258686,
+"item": "Transcendence",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Slumbering Transcendence",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Grandmaster Craftsman Hobbs"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Trader's Forum"
+],
+"Sells item": [
+"Transcendence"
+],
+"_subject": "Grandmaster Craftsman Hobbs#vendor243"
+}
+]
+}

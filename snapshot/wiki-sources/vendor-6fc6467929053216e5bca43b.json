@@ -1,0 +1,440 @@
+{
+"fetched": 1793698149.0424862,
+"item": "Amalgamated Rift Essence",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Arid Esker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Echoing Hills"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Arid Esker#vendor16"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Guiding Breath"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Den"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Guiding Breath#vendor20"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Kodan Landspeaker (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Alliance Staging Ground"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Kodan Landspeaker (Renown Heart NPC)#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Lyhr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Outer Ring"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Lyhr#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Radiance of the Sun God"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Palak"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Palak#vendor12"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shading Willow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Autumn's Vale"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Shading Willow#vendor17"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vast Caldera"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Coursing Upland"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Vast Caldera#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Vigilant Dawn"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Old Hutment Site"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Vigilant Dawn#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Ward Crafter Lucirae"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Moon Camp Covert"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Ward Crafter Lucirae#vendor4"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Rare Rift Essence",
+"Has item value": "50"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "60"
+},
+{
+"Has item currency": "Masterwork Rift Essence",
+"Has item value": "100"
+},
+{
+"Has item currency": "Fine Rift Essence",
+"Has item value": "250"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Whispers of Wind"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Festering Basin"
+],
+"Sells item": [
+"Amalgamated Rift Essence"
+],
+"_subject": "Whispers of Wind#vendor17"
+}
+]
+}
