@@ -5603,17 +5603,6 @@
 {
 "expansion": "core",
 "guidance": {
-"text": "Strike mission (no run length on the wiki: DRF times it)",
-"wiki_url": "https://wiki.guildwars2.com/wiki/Strike_Mission"
-},
-"id": "loc:strike_mission",
-"mode": "pve",
-"name": "Strike Mission",
-"yields": []
-},
-{
-"expansion": "core",
-"guidance": {
 "text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Stronghold_of_the_Faithful"
 },
