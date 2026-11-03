@@ -144,13 +144,19 @@ class SourceStore:
         p = self._path(kind, name)
         return json.loads(p.read_text(encoding="utf-8")) if p.exists() else None
 
+    @staticmethod
+    def _sig(kind: str) -> str:
+        """The query's shape (printouts): a stored answer to an older query is fetched again."""
+        q = _q_track("X") if kind == "track" else QUERIES[kind](["X"])
+        return hashlib.sha256(q.encode()).hexdigest()[:12]
+
     def _save(self, kind: str, name: str, rws: list[dict], now: float) -> None:
         old = self._load(kind, name)
-        if old and old["rows"] == rws:   # unchanged: keep the file (and git blob); the age lives in fetched
+        if old and old["rows"] == rws and old.get("q") == self._sig(kind):   # unchanged: keep the file (and git blob); the age lives in fetched
             old["fetched"] = now
             rws, data = old["rows"], old
         else:
-            data = {"item": name, "kind": kind, "fetched": now, "rows": rws}
+            data = {"item": name, "kind": kind, "fetched": now, "rows": rws, "q": self._sig(kind)}
         self._path(kind, name).write_text(json.dumps(data, ensure_ascii=False, sort_keys=True, indent=0), encoding="utf-8")
 
     def _ask(self, query: str) -> list[dict]:
@@ -175,7 +181,7 @@ class SourceStore:
         todo = []
         for n in names:
             have = self._load(kind, n)
-            if have and (self.down or now - have.get("fetched", 0) < MAX_AGE_S):
+            if have and (self.down or (now - have.get("fetched", 0) < MAX_AGE_S and have.get("q", OLD_SIG.get(kind, self._sig(kind))) == self._sig(kind))):
                 out[n] = have["rows"]
                 self.stale += self.down
             else:
@@ -222,6 +228,10 @@ class SourceStore:
             self.stale += 1
             out[n] = have["rows"]
         return out
+
+
+# answers stored before signatures existed: only these kinds' queries changed since
+OLD_SIG = {"locations": "pre-map-id"}
 
 
 class WikiSourcesDown(Exception):
