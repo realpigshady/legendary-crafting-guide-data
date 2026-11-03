@@ -1,0 +1,78 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Sanctum Sprint",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+66224,
+93958
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"34-46"
+],
+"Rewarded by": [
+"Sanctum Sprint"
+],
+"Rewards item": [
+"Festival Token"
+],
+"_subject": "Sanctum Sprint#reward1"
+},
+{
+"Has game id": [
+88178
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Sanctum Sprint"
+],
+"Rewards item": [
+"Favor of the Bazaar"
+],
+"_subject": "Sanctum Sprint#reward2"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"23-32"
+],
+"Rewarded by": [
+"Sanctum Sprint"
+],
+"Rewards item": [
+"Festival Token"
+],
+"_subject": "Sanctum Sprint#reward3"
+},
+{
+"Has game id": [
+88178
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Sanctum Sprint"
+],
+"Rewards item": [
+"Favor of the Bazaar"
+],
+"_subject": "Sanctum Sprint#reward4"
+}
+]
+}

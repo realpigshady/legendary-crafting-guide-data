@@ -1,0 +1,39 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Defeat the Inquest's golem Mark II",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Inquest's golem Mark II"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Defeat the Inquest's golem Mark II#reward1"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Defeat the Inquest's golem Mark II"
+],
+"Rewards item": [
+"Box of Lab Equipment"
+],
+"_subject": "Defeat the Inquest's golem Mark II#reward2"
+}
+]
+}

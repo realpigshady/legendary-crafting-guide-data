@@ -1,0 +1,245 @@
+{
+"fetched": 1793669040.7742407,
+"item": "Activity",
+"kind": "locations",
+"rows": [
+{
+"Has canonical name": [
+"Aspect Arena"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Aspect Arena"
+},
+{
+"Has canonical name": [
+"Basket Brawl"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"t"
+],
+"Located in": [],
+"_subject": "Basket Brawl"
+},
+{
+"Has canonical name": [
+"Bell Choir Ensemble"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wintersday Celebration"
+],
+"_subject": "Bell Choir Ensemble"
+},
+{
+"Has canonical name": [
+"Crab Toss"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Crab Toss"
+},
+{
+"Has canonical name": [
+"Crab Toss"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Crab Toss/historical"
+},
+{
+"Has canonical name": [
+"Dragon Ball Arena"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kryta"
+],
+"_subject": "Dragon Ball Arena"
+},
+{
+"Has canonical name": [
+"Keg Brawl"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lake Mourn"
+],
+"_subject": "Keg Brawl"
+},
+{
+"Has canonical name": [
+"Lunatic Inquisition"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mad King's Realm"
+],
+"_subject": "Lunatic Inquisition"
+},
+{
+"Has canonical name": [
+"Mad King's Clock Tower"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mad King's Realm"
+],
+"_subject": "Mad King's Clock Tower"
+},
+{
+"Has canonical name": [
+"Reaper's Rumble"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mad King's Realm"
+],
+"_subject": "Reaper's Rumble"
+},
+{
+"Has canonical name": [
+"Sanctum Sprint"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Sanctum Sprint"
+},
+{
+"Has canonical name": [
+"Snowball Mayhem"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wintersday Celebration"
+],
+"_subject": "Snowball Mayhem"
+},
+{
+"Has canonical name": [
+"Southsun Survival"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Southsun Survival"
+},
+{
+"Has canonical name": [
+"Stopped Clock Tower"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mad King's Realm"
+],
+"_subject": "Stopped Clock Tower"
+},
+{
+"Has canonical name": [
+"Toypocalypse"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wintersday Celebration"
+],
+"_subject": "Toypocalypse"
+},
+{
+"Has canonical name": [
+"Winter Wonderland"
+],
+"Has location type": [
+"Activity"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wintersday Celebration"
+],
+"_subject": "Winter Wonderland"
+}
+]
+}

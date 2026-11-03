@@ -1,0 +1,349 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Whisper of Jormag",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+92316
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Small Chest of Valor"
+],
+"_subject": "Whisper of Jormag#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5, 10"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Whisper of Jormag#reward10"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Whisper of Jormag#reward11"
+},
+{
+"Has game id": [
+93245
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Misty Cape Scrap"
+],
+"_subject": "Whisper of Jormag#reward12"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Whisper of Jormag#reward13"
+},
+{
+"Has game id": [
+106909
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Icebrood Saga Raid Encounter Coffer"
+],
+"_subject": "Whisper of Jormag#reward14"
+},
+{
+"Has game id": [
+84731
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Piece of Unidentified Gear"
+],
+"_subject": "Whisper of Jormag#reward15"
+},
+{
+"Has game id": [
+92692
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Boneskinner's Rib"
+],
+"_subject": "Whisper of Jormag#reward16"
+},
+{
+"Has game id": [
+92785
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Ice Golem's Maw Box"
+],
+"_subject": "Whisper of Jormag#reward17"
+},
+{
+"Has game id": [
+93024
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Pristine Fang of the Whisper"
+],
+"_subject": "Whisper of Jormag#reward18"
+},
+{
+"Has game id": [
+92790
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Reliquary of the Raven Ceremonial Garb"
+],
+"_subject": "Whisper of Jormag#reward19"
+},
+{
+"Has game id": [
+92330
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Medium Chest of Valor"
+],
+"_subject": "Whisper of Jormag#reward2"
+},
+{
+"Has game id": [
+92697
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Large Chest of Valor"
+],
+"_subject": "Whisper of Jormag#reward3"
+},
+{
+"Has game id": [
+92236
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Small Chest of Vigilance"
+],
+"_subject": "Whisper of Jormag#reward4"
+},
+{
+"Has game id": [
+92242
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Medium Chest of Vigilance"
+],
+"_subject": "Whisper of Jormag#reward5"
+},
+{
+"Has game id": [
+92772
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Large Chest of Vigilance"
+],
+"_subject": "Whisper of Jormag#reward6"
+},
+{
+"Has game id": [
+92257
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Small Chest of Resilience"
+],
+"_subject": "Whisper of Jormag#reward7"
+},
+{
+"Has game id": [
+92369
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Medium Chest of Resilience"
+],
+"_subject": "Whisper of Jormag#reward8"
+},
+{
+"Has game id": [
+92775
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Whisper of Jormag"
+],
+"Rewards item": [
+"Raid Encounter: Lost Large Chest of Resilience"
+],
+"_subject": "Whisper of Jormag#reward9"
+}
+]
+}

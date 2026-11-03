@@ -1,0 +1,77 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Defeat the great jungle wurm",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the great jungle wurm"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Defeat the great jungle wurm#reward1"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat the great jungle wurm"
+],
+"Rewards item": [
+"Fallen Adventurer's Backpack"
+],
+"_subject": "Defeat the great jungle wurm#reward2"
+},
+{
+"Has game id": [
+87861
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the great jungle wurm"
+],
+"Rewards item": [
+"Caledon Forest Combat Distinction"
+],
+"_subject": "Defeat the great jungle wurm#reward3"
+},
+{
+"Has game id": [
+100123
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"75-125"
+],
+"Rewarded by": [
+"Defeat the great jungle wurm"
+],
+"Rewards item": [
+"Tasty Wurm Segment (Medicine)"
+],
+"_subject": "Defeat the great jungle wurm#reward4"
+}
+]
+}

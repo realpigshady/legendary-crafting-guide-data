@@ -1,0 +1,427 @@
+{
+"fetched": 1793669049.3899643,
+"item": "King of the Jungle",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+78332,
+78751
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Tangled Depths: Hero's Choice Chest"
+],
+"_subject": "King of the Jungle#reward1"
+},
+{
+"Has game id": [
+67516
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward10"
+},
+{
+"Has game id": [
+70892,
+86172
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward11"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"3"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward12"
+},
+{
+"Has game id": [
+70892,
+86172
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward13"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward14"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward15"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Goop-Covered Satchel"
+],
+"_subject": "King of the Jungle#reward16"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward17"
+},
+{
+"Has game id": [
+67261,
+68045,
+68522,
+71510
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Rare Gear"
+],
+"_subject": "King of the Jungle#reward18"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward19"
+},
+{
+"Has game id": [
+70810
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Ley-Line Bezoar"
+],
+"_subject": "King of the Jungle#reward2"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Goop-Covered Satchel"
+],
+"_subject": "King of the Jungle#reward20"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward21"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Rare Gear"
+],
+"_subject": "King of the Jungle#reward22"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward23"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Goop-Covered Satchel"
+],
+"_subject": "King of the Jungle#reward24"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward25"
+},
+{
+"Has game id": [
+72040
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Royal Chak Ichor"
+],
+"_subject": "King of the Jungle#reward3"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward4"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward5"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward7"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"3"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "King of the Jungle#reward8"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"King of the Jungle"
+],
+"Rewards item": [
+"Vial of Chak Acid"
+],
+"_subject": "King of the Jungle#reward9"
+}
+]
+}

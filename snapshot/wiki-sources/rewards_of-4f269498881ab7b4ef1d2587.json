@@ -1,0 +1,61 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Defeat the Void-corrupted Jade Maw",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+96622
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Void-corrupted Jade Maw"
+],
+"Rewards item": [
+"Badge of the Specter"
+],
+"_subject": "Defeat the Void-corrupted Jade Maw#reward1"
+},
+{
+"Has game id": [
+96767
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Void-corrupted Jade Maw"
+],
+"Rewards item": [
+"Badge of the Harbinger"
+],
+"_subject": "Defeat the Void-corrupted Jade Maw#reward2"
+},
+{
+"Has game id": [
+96353
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the Void-corrupted Jade Maw"
+],
+"Rewards item": [
+"Luxon Tools"
+],
+"_subject": "Defeat the Void-corrupted Jade Maw#reward3"
+}
+]
+}

@@ -1,0 +1,151 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Temple of Febe",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6, 12"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Temple of Febe#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"12"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Temple of Febe#reward2"
+},
+{
+"Has game id": [
+100858,
+107114
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Cerus's Coffer"
+],
+"_subject": "Temple of Febe#reward3"
+},
+{
+"Has game id": [
+100634
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Sample of Kryptis Corruption"
+],
+"_subject": "Temple of Febe#reward4"
+},
+{
+"Has game id": [
+101542,
+107065
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Cerus's Magnificent Coffer"
+],
+"_subject": "Temple of Febe#reward5"
+},
+{
+"Has game id": [
+100244
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Jar of Dangerous Spirits"
+],
+"_subject": "Temple of Febe#reward6"
+},
+{
+"Has game id": [
+101495
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Saryx Backpiece"
+],
+"_subject": "Temple of Febe#reward7"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Temple of Febe"
+],
+"Rewards item": [
+"Possession Infusion"
+],
+"_subject": "Temple of Febe#reward8"
+}
+]
+}

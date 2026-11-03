@@ -1,0 +1,45 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Your Mad King says...",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+64741,
+36372,
+36378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Your Mad King says..."
+],
+"Rewards item": [
+"Witch's Hat"
+],
+"_subject": "Your Mad King says...#reward1"
+},
+{
+"Has game id": [
+44738
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Your Mad King says..."
+],
+"Rewards item": [
+"Mask of the Night Skin"
+],
+"_subject": "Your Mad King says...#reward2"
+}
+]
+}

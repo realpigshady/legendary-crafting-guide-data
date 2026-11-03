@@ -1,0 +1,5360 @@
+[
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 00:00, 03:00, 06:00, 09:00...; wiki event timer)",
+"waypoint_chat_code": "[&BKgBAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kill_Admiral_Taidha_Covington"
+},
+"id": "evt:core-wb:admiral_taidha_covington",
+"mode": "pve",
+"name": "Admiral Taidha Covington",
+"starts_utc": [
+0,
+180,
+360,
+540,
+720,
+900,
+1080,
+1260
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:75485"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 120 min (UTC 00:15, 02:15, 04:15, 06:15...; wiki event timer)",
+"waypoint_chat_code": "[&BMIDAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kill_the_Svanir_shaman_chief_to_break_his_control_over_the_ice_elemental"
+},
+"id": "evt:core-wb:svanir_shaman_chief",
+"mode": "pve",
+"name": "Svanir Shaman Chief",
+"starts_utc": [
+15,
+135,
+255,
+375,
+495,
+615,
+735,
+855,
+975,
+1095,
+1215,
+1335
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:71950"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 00:30, 03:30, 06:30, 09:30...; wiki event timer)",
+"waypoint_chat_code": "[&BM0CAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kill_the_megadestroyer_before_it_blows_everyone_up"
+},
+"id": "evt:core-wb:megadestroyer",
+"mode": "pve",
+"name": "Megadestroyer",
+"starts_utc": [
+30,
+210,
+390,
+570,
+750,
+930,
+1110,
+1290
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:99242"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 120 min (UTC 00:45, 02:45, 04:45, 06:45...; wiki event timer)",
+"waypoint_chat_code": "[&BEcAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Destroy_the_fire_elemental_created_from_chaotic_energy_fusing_with_the_C.L.E.A.N._5000%27s_energy_core"
+},
+"id": "evt:core-wb:fire_elemental",
+"mode": "pve",
+"name": "Fire Elemental",
+"starts_utc": [
+45,
+165,
+285,
+405,
+525,
+645,
+765,
+885,
+1005,
+1125,
+1245,
+1365
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 1,
+"node_id": "item:88046"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 01:00, 04:00, 07:00, 10:00...; wiki event timer)",
+"waypoint_chat_code": "[&BE4DAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Slay_the_Shatterer"
+},
+"id": "evt:core-wb:the_shatterer",
+"mode": "pve",
+"name": "The Shatterer",
+"starts_utc": [
+60,
+240,
+420,
+600,
+780,
+960,
+1140,
+1320
+],
+"yields": [
+{
+"count": 2,
+"node_id": "item:83008"
+},
+{
+"count": 1,
+"node_id": "item:87901"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 120 min (UTC 01:15, 03:15, 05:15, 07:15...; wiki event timer)",
+"waypoint_chat_code": "[&BEEFAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_great_jungle_wurm"
+},
+"id": "evt:core-wb:great_jungle_wurm",
+"mode": "pve",
+"name": "Great Jungle Wurm",
+"starts_utc": [
+75,
+195,
+315,
+435,
+555,
+675,
+795,
+915,
+1035,
+1155,
+1275,
+1395
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:100123"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 1,
+"node_id": "item:87861"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 01:30, 04:30, 07:30, 10:30...; wiki event timer)",
+"waypoint_chat_code": "[&BLAAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_Ulgoth_the_Modniir_and_his_minions"
+},
+"id": "evt:core-wb:modniir_ulgoth",
+"mode": "pve",
+"name": "Modniir Ulgoth",
+"starts_utc": [
+90,
+270,
+450,
+630,
+810,
+990,
+1170,
+1350
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:73659"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BPcAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_shadow_behemoth"
+},
+"id": "evt:core-wb:shadow_behemoth",
+"mode": "pve",
+"name": "Shadow Behemoth",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": [
+{
+"count": 4,
+"node_id": "item:44361"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 02:00, 05:00, 08:00, 11:00...; wiki event timer)",
+"waypoint_chat_code": "[&BNQCAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Inquest%27s_golem_Mark_II"
+},
+"id": "evt:core-wb:golem_mark_ii",
+"mode": "pve",
+"name": "Golem Mark II",
+"starts_utc": [
+120,
+300,
+480,
+660,
+840,
+1020,
+1200,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 180 min (UTC 02:30, 05:30, 08:30, 11:30...; wiki event timer)",
+"waypoint_chat_code": "[&BHoCAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Claw_of_Jormag"
+},
+"id": "evt:core-wb:claw_of_jormag",
+"mode": "pve",
+"name": "Claw of Jormag",
+"starts_utc": [
+150,
+330,
+510,
+690,
+870,
+1050,
+1230,
+1410
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 1,
+"node_id": "item:87827"
+},
+{
+"count": 1,
+"node_id": "item:99024"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 5 a day (UTC 03:00, 07:00, 11:30, 16:00...; wiki event timer)",
+"waypoint_chat_code": "[&BNABAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_Tequatl_the_Sunless"
+},
+"id": "evt:core-hwb:tequatl_the_sunless",
+"mode": "pve",
+"name": "Tequatl the Sunless",
+"starts_utc": [
+180,
+420,
+690,
+960,
+1140
+],
+"yields": []
+},
+{
+"est_minutes": 30,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 6 a day (UTC 01:00, 04:00, 08:00, 12:30...; wiki event timer)",
+"waypoint_chat_code": "[&BKoBAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Triple_Trouble"
+},
+"id": "evt:core-hwb:triple_trouble",
+"mode": "pve",
+"name": "Triple Trouble",
+"starts_utc": [
+60,
+240,
+480,
+750,
+1020,
+1200
+],
+"yields": []
+},
+{
+"est_minutes": 30,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 6 a day (UTC 02:00, 06:00, 10:30, 15:00...; wiki event timer)",
+"waypoint_chat_code": "[&BNUGAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Karka_Queen_threatening_the_settlements"
+},
+"id": "evt:core-hwb:karka_queen",
+"mode": "pve",
+"name": "Karka Queen",
+"starts_utc": [
+120,
+360,
+630,
+900,
+1080,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 360 min (UTC 00:20, 06:20, 12:20, 18:20; wiki event timer)",
+"waypoint_chat_code": "[&BEwCAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Ley-Line_Anomaly_to_disperse_its_destructive_energy_before_it_overloads"
+},
+"id": "evt:core-la:timberline_falls",
+"mode": "pve",
+"name": "Ley-Line Anomaly: Timberline Falls",
+"starts_utc": [
+20,
+380,
+740,
+1100
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:19976"
+},
+{
+"count": 1,
+"node_id": "item:79047"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 360 min (UTC 02:20, 08:20, 14:20, 20:20; wiki event timer)",
+"waypoint_chat_code": "[&BOcBAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Ley-Line_Anomaly_to_disperse_its_destructive_energy_before_it_overloads"
+},
+"id": "evt:core-la:iron_marches",
+"mode": "pve",
+"name": "Ley-Line Anomaly: Iron Marches",
+"starts_utc": [
+140,
+500,
+860,
+1220
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:19976"
+},
+{
+"count": 1,
+"node_id": "item:79047"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 360 min (UTC 04:20, 10:20, 16:20, 22:20; wiki event timer)",
+"waypoint_chat_code": "[&BOQAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Ley-Line_Anomaly_to_disperse_its_destructive_energy_before_it_overloads"
+},
+"id": "evt:core-la:gendarran_fields",
+"mode": "pve",
+"name": "Ley-Line Anomaly: Gendarran Fields",
+"starts_utc": [
+260,
+620,
+980,
+1340
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:19976"
+},
+{
+"count": 1,
+"node_id": "item:79047"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 60 min (UTC 00:30, 01:30, 02:30, 03:30...; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_invading_Awakened"
+},
+"id": "evt:core-in:awakened_invasion",
+"mode": "pve",
+"name": "Invasions: Awakened Invasion",
+"starts_utc": [
+30,
+90,
+150,
+210,
+270,
+330,
+390,
+450,
+510,
+570,
+630,
+690,
+750,
+810,
+870,
+930,
+990,
+1050,
+1110,
+1170,
+1230,
+1290,
+1350,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BOQAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_invading_minions_of_Scarlet_Briar"
+},
+"id": "evt:core-in:defeat_scarlet_s_minions",
+"mode": "pve",
+"name": "Invasions: Defeat Scarlet's minions",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 240 min (UTC 00:00, 04:00, 08:00, 12:00...; wiki event timer)",
+"waypoint_chat_code": "[&BBIAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_enemy_spawned_by_the_fractal_incursion"
+},
+"id": "evt:core-fi:kessex_hills",
+"mode": "pve",
+"name": "Fractal Incursions: Kessex Hills",
+"starts_utc": [
+0,
+240,
+480,
+720,
+960,
+1200
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 240 min (UTC 01:00, 05:00, 09:00, 13:00...; wiki event timer)",
+"waypoint_chat_code": "[&BN0AAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_enemy_spawned_by_the_fractal_incursion"
+},
+"id": "evt:core-fi:diessa_plateau",
+"mode": "pve",
+"name": "Fractal Incursions: Diessa Plateau",
+"starts_utc": [
+60,
+300,
+540,
+780,
+1020,
+1260
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 240 min (UTC 02:00, 06:00, 10:00, 14:00...; wiki event timer)",
+"waypoint_chat_code": "[&BHUAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_enemy_spawned_by_the_fractal_incursion"
+},
+"id": "evt:core-fi:brisban_wildlands",
+"mode": "pve",
+"name": "Fractal Incursions: Brisban Wildlands",
+"starts_utc": [
+120,
+360,
+600,
+840,
+1080,
+1320
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: every 240 min (UTC 03:00, 07:00, 11:00, 15:00...; wiki event timer)",
+"waypoint_chat_code": " [&BLQAAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_enemy_spawned_by_the_fractal_incursion"
+},
+"id": "evt:core-fi:snowden_drifts",
+"mode": "pve",
+"name": "Fractal Incursions: Snowden Drifts",
+"starts_utc": [
+180,
+420,
+660,
+900,
+1140,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 12:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-ateu:automated_tournament_balthazar_s_brawl",
+"mode": "pvp",
+"name": "EU PvP Tournaments: Automated Tournament: Balthazar's Brawl",
+"starts_utc": [
+720
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 15:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-ateu:automated_tournament_grenth_s_game",
+"mode": "pvp",
+"name": "EU PvP Tournaments: Automated Tournament: Grenth's Game",
+"starts_utc": [
+900
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 18:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-ateu:automated_tournament_melandru_s_matchup",
+"mode": "pvp",
+"name": "EU PvP Tournaments: Automated Tournament: Melandru's Matchup",
+"starts_utc": [
+1080
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 21:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-ateu:automated_tournament_lyssa_s_legions",
+"mode": "pvp",
+"name": "EU PvP Tournaments: Automated Tournament: Lyssa's Legions",
+"starts_utc": [
+1260
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 00:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-atna:automated_tournament_grenth_s_game",
+"mode": "pvp",
+"name": "NA PvP Tournaments: Automated Tournament: Grenth's Game",
+"starts_utc": [
+0
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 03:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-atna:automated_tournament_melandru_s_matchup",
+"mode": "pvp",
+"name": "NA PvP Tournaments: Automated Tournament: Melandru's Matchup",
+"starts_utc": [
+180
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 09:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-atna:automated_tournament_lyssa_s_legions",
+"mode": "pvp",
+"name": "NA PvP Tournaments: Automated Tournament: Lyssa's Legions",
+"starts_utc": [
+540
+],
+"yields": []
+},
+{
+"est_minutes": 60,
+"expansion": "core",
+"guidance": {
+"text": "Core Tyria: 1 a day (UTC 21:00; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Automated_Tournaments%23Daily_tournaments"
+},
+"id": "evt:core-atna:automated_tournament_balthazar_s_brawl",
+"mode": "pvp",
+"name": "NA PvP Tournaments: Automated Tournament: Balthazar's Brawl",
+"starts_utc": [
+1260
+],
+"yields": []
+},
+{
+"est_minutes": 40,
+"expansion": "core",
+"guidance": {
+"text": "Living World Season 2: every 60 min (UTC 00:00, 01:00, 02:00, 03:00...; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crash_Site_%28meta_event%29"
+},
+"id": "evt:lws2-dt:crash_site",
+"mode": "pve",
+"name": "Dry Top: Crash Site",
+"starts_utc": [
+0,
+60,
+120,
+180,
+240,
+300,
+360,
+420,
+480,
+540,
+600,
+660,
+720,
+780,
+840,
+900,
+960,
+1020,
+1080,
+1140,
+1200,
+1260,
+1320,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Living World Season 2: every 60 min (UTC 00:40, 01:40, 02:40, 03:40...; wiki event timer)",
+"waypoint_chat_code": "[&BIAHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sandstorm%21"
+},
+"id": "evt:lws2-dt:sandstorm",
+"mode": "pve",
+"name": "Dry Top: Sandstorm",
+"starts_utc": [
+40,
+100,
+160,
+220,
+280,
+340,
+400,
+460,
+520,
+580,
+640,
+700,
+760,
+820,
+880,
+940,
+1000,
+1060,
+1120,
+1180,
+1240,
+1300,
+1360,
+1420
+],
+"yields": []
+},
+{
+"est_minutes": 25,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Night_and_the_Enemy"
+},
+"id": "evt:hot-vb:night_night_and_the_enemy",
+"mode": "pve",
+"name": "Verdant Brink: Night: Night and the Enemy",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:67261"
+},
+{
+"count": 1,
+"node_id": "item:67516"
+},
+{
+"count": 1,
+"node_id": "item:70827"
+},
+{
+"count": 1,
+"node_id": "item:75055"
+},
+{
+"count": 1,
+"node_id": "item:76010"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 00:10, 02:10, 04:10, 06:10...; wiki event timer)",
+"waypoint_chat_code": "[&BAgIAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Night_and_the_Enemy"
+},
+"id": "evt:hot-vb:night_bosses",
+"mode": "pve",
+"name": "Verdant Brink: Night Bosses",
+"starts_utc": [
+10,
+130,
+250,
+370,
+490,
+610,
+730,
+850,
+970,
+1090,
+1210,
+1330
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:67261"
+},
+{
+"count": 1,
+"node_id": "item:67516"
+},
+{
+"count": 1,
+"node_id": "item:70827"
+},
+{
+"count": 1,
+"node_id": "item:75055"
+},
+{
+"count": 1,
+"node_id": "item:76010"
+}
+]
+},
+{
+"est_minutes": 75,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Securing_Verdant_Brink"
+},
+"id": "evt:hot-vb:day_securing_verdant_brink",
+"mode": "pve",
+"name": "Day: Securing Verdant Brink",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": []
+},
+{
+"est_minutes": 75,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
+"waypoint_chat_code": "[&BN0HAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defending_Tarir"
+},
+"id": "evt:hot-ab:defending_tarir_pylons",
+"mode": "pve",
+"name": "Auric Basin: Defending Tarir (Pylons)",
+"starts_utc": [
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 00:45, 02:45, 04:45, 06:45...; wiki event timer)",
+"waypoint_chat_code": "[&BGwIAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Battle_in_Tarir"
+},
+"id": "evt:hot-ab:challenges",
+"mode": "pve",
+"name": "Auric Basin: Challenges",
+"starts_utc": [
+45,
+165,
+285,
+405,
+525,
+645,
+765,
+885,
+1005,
+1125,
+1245,
+1365
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:67261"
+},
+{
+"count": 1,
+"node_id": "item:67516"
+},
+{
+"count": 1,
+"node_id": "item:71416"
+},
+{
+"count": 1,
+"node_id": "item:75012"
+},
+{
+"count": 1,
+"node_id": "item:78650"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BAIIAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Battle_in_Tarir"
+},
+"id": "evt:hot-ab:battle_in_tarir_octovine",
+"mode": "pve",
+"name": "Auric Basin: Battle in Tarir (Octovine)",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:67261"
+},
+{
+"count": 1,
+"node_id": "item:67516"
+},
+{
+"count": 1,
+"node_id": "item:71416"
+},
+{
+"count": 1,
+"node_id": "item:75012"
+},
+{
+"count": 1,
+"node_id": "item:78650"
+}
+]
+},
+{
+"est_minutes": 95,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 00:50, 02:50, 04:50, 06:50...; wiki event timer)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Advancing_Across_Tangled_Roots"
+},
+"id": "evt:hot-td:advancing_across_tangled_roots_outposts",
+"mode": "pve",
+"name": "Tangled Depths: Advancing Across Tangled Roots (Outposts)",
+"starts_utc": [
+50,
+170,
+290,
+410,
+530,
+650,
+770,
+890,
+1010,
+1130,
+1250,
+1370
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BPUHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/King_of_the_Jungle"
+},
+"id": "evt:hot-td:king_of_the_jungle_chak_gerent",
+"mode": "pve",
+"name": "Tangled Depths: King of the Jungle (Chak Gerent)",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:67261"
+},
+{
+"count": 1,
+"node_id": "item:67516"
+},
+{
+"count": 1,
+"node_id": "item:70810"
+},
+{
+"count": 5,
+"node_id": "item:70892"
+},
+{
+"count": 1,
+"node_id": "item:72040"
+},
+{
+"count": 1,
+"node_id": "item:78332"
+}
+]
+},
+{
+"est_minutes": 1680,
+"expansion": "hot",
+"guidance": {
+"text": "Heart of Thorns: 1 a day (UTC 01:30; wiki event timer)",
+"waypoint_chat_code": "[&BBAIAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Advancing_on_the_Blighting_Towers"
+},
+"id": "evt:hot-ds:start_advancing_on_the_blighting_towers",
+"mode": "pve",
+"name": "Dragon's Stand: Start advancing on the Blighting Towers",
+"starts_utc": [
+90
+],
+"yields": []
+},
+{
+"est_minutes": 45,
+"expansion": "hot",
+"guidance": {
+"text": "Living World Season 3: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BLQJAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/White_Mantle_Control%3A_New_Loamhurst"
+},
+"id": "evt:lws3-ld:new_loamhurst",
+"mode": "pve",
+"name": "Lake Doric: New Loamhurst",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": []
+},
+{
+"est_minutes": 30,
+"expansion": "hot",
+"guidance": {
+"text": "Living World Season 3: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BK8JAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/White_Mantle_Control%3A_Noran%27s_Homestead"
+},
+"id": "evt:lws3-ld:noran_s_homestead",
+"mode": "pve",
+"name": "Lake Doric: Noran's Homestead",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": []
+},
+{
+"est_minutes": 45,
+"expansion": "hot",
+"guidance": {
+"text": "Living World Season 3: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BK0JAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/White_Mantle_Control%3A_Saidra%27s_Haven"
+},
+"id": "evt:lws3-ld:saidra_s_haven",
+"mode": "pve",
+"name": "Lake Doric: Saidra's Haven",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 16,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 00:05, 02:05, 04:05, 06:05...; wiki event timer)",
+"waypoint_chat_code": "[&BLsKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Casino_Blitz"
+},
+"id": "evt:pof-co:rounds_1_to_3",
+"mode": "pve",
+"name": "Crystal Oasis: Rounds 1 to 3",
+"starts_utc": [
+5,
+125,
+245,
+365,
+485,
+605,
+725,
+845,
+965,
+1085,
+1205,
+1325
+],
+"yields": []
+},
+{
+"est_minutes": 9,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 00:21, 02:21, 04:21, 06:21...; wiki event timer)",
+"waypoint_chat_code": "[&BLsKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Casino_Blitz"
+},
+"id": "evt:pof-co:pinata_reset",
+"mode": "pve",
+"name": "Crystal Oasis: Pinata/Reset",
+"starts_utc": [
+21,
+141,
+261,
+381,
+501,
+621,
+741,
+861,
+981,
+1101,
+1221,
+1341
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BGsKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Search_for_Buried_Treasure"
+},
+"id": "evt:pof-dh:buried_treasure",
+"mode": "pve",
+"name": "Desert Highlands: Buried Treasure",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 01:55, 03:55, 05:55, 07:55...; wiki event timer)",
+"waypoint_chat_code": "[&BFMKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Path_to_Ascension"
+},
+"id": "evt:pof-er:doppelganger",
+"mode": "pve",
+"name": "Elon Riverlands: Doppelganger",
+"starts_utc": [
+115,
+235,
+355,
+475,
+595,
+715,
+835,
+955,
+1075,
+1195,
+1315,
+1435
+],
+"yields": []
+},
+{
+"est_minutes": 25,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
+"waypoint_chat_code": "[&BFMKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Path_to_Ascension"
+},
+"id": "evt:pof-er:the_path_to_ascension_augury_rock",
+"mode": "pve",
+"name": "Elon Riverlands: The Path to Ascension: Augury Rock",
+"starts_utc": [
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 60 min (UTC 00:30, 01:30, 02:30, 03:30...; wiki event timer)",
+"waypoint_chat_code": "[&BMEKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Junundu_Rising"
+},
+"id": "evt:pof-td:junundu_rising",
+"mode": "pve",
+"name": "The Desolation: Junundu Rising",
+"starts_utc": [
+30,
+90,
+150,
+210,
+270,
+330,
+390,
+450,
+510,
+570,
+630,
+690,
+750,
+810,
+870,
+930,
+990,
+1050,
+1110,
+1170,
+1230,
+1290,
+1350,
+1410
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:84360"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BKMKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Maws_of_Torment"
+},
+"id": "evt:pof-td:maws_of_torment",
+"mode": "pve",
+"name": "The Desolation: Maws of Torment",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:84360"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 60 min (UTC 01:00, 02:00, 03:00, 04:00...; wiki event timer)",
+"waypoint_chat_code": "[&BO0KAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forged_with_Fire"
+},
+"id": "evt:pof-dv:forged_with_fire",
+"mode": "pve",
+"name": "Domain of Vabbi: Forged with Fire",
+"starts_utc": [
+60,
+120,
+180,
+240,
+300,
+360,
+420,
+480,
+540,
+600,
+660,
+720,
+780,
+840,
+900,
+960,
+1020,
+1080,
+1140,
+1200,
+1260,
+1320,
+1380
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:83035"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "pof",
+"guidance": {
+"text": "Path of Fire: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BHQKAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Serpents%27_Ire"
+},
+"id": "evt:pof-dv:serpents_ire",
+"mode": "pve",
+"name": "Domain of Vabbi: Serpents' Ire",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:83035"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "pof",
+"guidance": {
+"text": "Living World Season 4: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BAkLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Palawadan%2C_Jewel_of_Istan_%28meta_event%29"
+},
+"id": "evt:lws4-di:palawadan",
+"mode": "pve",
+"name": "Domain of Istan: Palawadan",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "Living World Season 4: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BIMLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dangerous_Prey"
+},
+"id": "evt:lws4-jb:escorts",
+"mode": "pve",
+"name": "Jahai Bluffs: Escorts",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "Living World Season 4: every 120 min (UTC 01:15, 03:15, 05:15, 07:15...; wiki event timer)",
+"waypoint_chat_code": "[&BJMLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Destroy_the_Death-Branded_Shatterer"
+},
+"id": "evt:lws4-jb:death_branded_shatterer",
+"mode": "pve",
+"name": "Jahai Bluffs: Death-Branded Shatterer",
+"starts_utc": [
+75,
+195,
+315,
+435,
+555,
+675,
+795,
+915,
+1035,
+1155,
+1275,
+1395
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:88955"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "Living World Season 4: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BLsLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Thunderhead_Keep_%28meta_event%29"
+},
+"id": "evt:lws4-tp:thunderhead_keep",
+"mode": "pve",
+"name": "Thunderhead Peaks: Thunderhead Keep",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "Living World Season 4: every 120 min (UTC 00:45, 02:45, 04:45, 06:45...; wiki event timer)",
+"waypoint_chat_code": "[&BKYLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Oil_Floes"
+},
+"id": "evt:lws4-tp:the_oil_floes",
+"mode": "pve",
+"name": "Thunderhead Peaks: The Oil Floes",
+"starts_utc": [
+45,
+165,
+285,
+405,
+525,
+645,
+765,
+885,
+1005,
+1125,
+1245,
+1365
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 00:10, 02:10, 04:10, 06:10...; wiki event timer)",
+"waypoint_chat_code": "[&BA4MAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ceremony_of_the_Sacred_Flame"
+},
+"id": "evt:lws5-gv:effigy",
+"mode": "pve",
+"name": "Grothmar Valley: Effigy",
+"starts_utc": [
+10,
+130,
+250,
+370,
+490,
+610,
+730,
+850,
+970,
+1090,
+1210,
+1330
+],
+"yields": []
+},
+{
+"est_minutes": 22,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 00:38, 02:38, 04:38, 06:38...; wiki event timer)",
+"waypoint_chat_code": "[&BA4MAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Haunting_of_Doomlore_Shrine"
+},
+"id": "evt:lws5-gv:doomlore_shrine",
+"mode": "pve",
+"name": "Grothmar Valley: Doomlore Shrine",
+"starts_utc": [
+38,
+158,
+278,
+398,
+518,
+638,
+758,
+878,
+998,
+1118,
+1238,
+1358
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 01:05, 03:05, 05:05, 07:05...; wiki event timer)",
+"waypoint_chat_code": "[&BPgLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Ooze_Pit_Trials"
+},
+"id": "evt:lws5-gv:ooze_pits",
+"mode": "pve",
+"name": "Grothmar Valley: Ooze Pits",
+"starts_utc": [
+65,
+185,
+305,
+425,
+545,
+665,
+785,
+905,
+1025,
+1145,
+1265,
+1385
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 01:40, 03:40, 05:40, 07:40...; wiki event timer)",
+"waypoint_chat_code": "[&BPgLAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/A_Concert_for_the_Ages"
+},
+"id": "evt:lws5-gv:metal_concert",
+"mode": "pve",
+"name": "Grothmar Valley: Metal Concert",
+"starts_utc": [
+100,
+220,
+340,
+460,
+580,
+700,
+820,
+940,
+1060,
+1180,
+1300,
+1420
+],
+"yields": []
+},
+{
+"est_minutes": 5,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 02:00, 04:00, 06:00, 08:00...; wiki event timer)",
+"waypoint_chat_code": "[&BCcMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Storms_of_Winter"
+},
+"id": "evt:lws5-bm:shards_and_construct",
+"mode": "pve",
+"name": "Bjora Marches: Shards and Construct",
+"starts_utc": [
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 00:05, 02:05, 04:05, 06:05...; wiki event timer)",
+"waypoint_chat_code": "[&BCcMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Storms_of_Winter"
+},
+"id": "evt:lws5-bm:icebrood_champions",
+"mode": "pve",
+"name": "Bjora Marches: Icebrood Champions",
+"starts_utc": [
+5,
+125,
+245,
+365,
+485,
+605,
+725,
+845,
+965,
+1085,
+1205,
+1325
+],
+"yields": []
+},
+{
+"est_minutes": 35,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 01:05, 03:05, 05:05, 07:05...; wiki event timer)",
+"waypoint_chat_code": "[&BDkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Champion_of_the_Ice_Dragon"
+},
+"id": "evt:lws5-bm:drakkar_and_spirits_of_the_wild",
+"mode": "pve",
+"name": "Bjora Marches: Drakkar and Spirits of the Wild",
+"starts_utc": [
+65,
+185,
+305,
+425,
+545,
+665,
+785,
+905,
+1025,
+1145,
+1265,
+1385
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "pof",
+"guidance": {
+"text": "The Icebrood Saga: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BCcMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Storms_of_Winter"
+},
+"id": "evt:lws5-bm:defend_jora_s_keep",
+"mode": "pve",
+"name": "Bjora Marches: Defend Jora's Keep",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": []
+},
+{
+"est_minutes": 30,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
+"waypoint_chat_code": "[&BGUNAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Aetherblade_Assault"
+},
+"id": "evt:eod-sp:aetherblade_assault",
+"mode": "pve",
+"name": "Seitung Province: Aetherblade Assault",
+"starts_utc": [
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 40,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: every 120 min (UTC 00:00, 02:00, 04:00, 06:00...; wiki event timer)",
+"waypoint_chat_code": "[&BBkNAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kaineng_Blackout"
+},
+"id": "evt:eod-nkc:kaineng_blackout",
+"mode": "pve",
+"name": "New Kaineng City: Kaineng Blackout",
+"starts_utc": [
+0,
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:97384"
+},
+{
+"count": 1,
+"node_id": "item:97901"
+}
+]
+},
+{
+"est_minutes": 35,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BMwMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Gang_War_of_Echovald"
+},
+"id": "evt:eod-ew:gang_war",
+"mode": "pve",
+"name": "The Echovald Wilds: Gang War",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": [
+{
+"count": 2,
+"node_id": "item:21683"
+},
+{
+"count": 2,
+"node_id": "item:22331"
+},
+{
+"count": 3,
+"node_id": "item:96464"
+},
+{
+"count": 5,
+"node_id": "item:96561"
+},
+{
+"count": 1,
+"node_id": "item:97118"
+},
+{
+"count": 1,
+"node_id": "item:97158"
+},
+{
+"count": 1,
+"node_id": "item:97185"
+},
+{
+"count": 1,
+"node_id": "item:97217"
+},
+{
+"count": 1,
+"node_id": "item:97233"
+},
+{
+"count": 1,
+"node_id": "item:97373"
+},
+{
+"count": 1,
+"node_id": "item:97506"
+},
+{
+"count": 1,
+"node_id": "item:97797"
+},
+{
+"count": 1,
+"node_id": "item:97894"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: every 120 min (UTC 01:40, 03:40, 05:40, 07:40...; wiki event timer)",
+"waypoint_chat_code": "[&BPkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Use_the_siege_turtles_to_destroy_the_shield_generators_as_you_fight_through_the_fort"
+},
+"id": "evt:eod-ew:aspenwood",
+"mode": "pve",
+"name": "The Echovald Wilds: Aspenwood",
+"starts_utc": [
+100,
+220,
+340,
+460,
+580,
+700,
+820,
+940,
+1060,
+1180,
+1300,
+1420
+],
+"yields": []
+},
+{
+"est_minutes": 8,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: 24 a day (UTC 00:05, 00:45, 02:05, 02:45...; wiki event timer)",
+"waypoint_chat_code": "[&BKIMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Defeat_the_Void-corrupted_Jade_Maw"
+},
+"id": "evt:eod-de:jade_maw",
+"mode": "pve",
+"name": "Dragon's End: Jade Maw",
+"starts_utc": [
+5,
+45,
+125,
+165,
+245,
+285,
+365,
+405,
+485,
+525,
+605,
+645,
+725,
+765,
+845,
+885,
+965,
+1005,
+1085,
+1125,
+1205,
+1245,
+1325,
+1365
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:96353"
+},
+{
+"count": 1,
+"node_id": "item:96622"
+},
+{
+"count": 1,
+"node_id": "item:96767"
+}
+]
+},
+{
+"est_minutes": 60,
+"expansion": "eod",
+"guidance": {
+"text": "End of Dragons: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BKIMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Battle_for_the_Jade_Sea"
+},
+"id": "evt:eod-de:the_battle_for_the_jade_sea",
+"mode": "pve",
+"name": "Dragon's End: The Battle for the Jade Sea",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 25,
+"expansion": "soto",
+"guidance": {
+"text": "Secrets of the Obscure: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BL4NAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Unlocking_the_Wizard%27s_Tower"
+},
+"id": "evt:soto-sa:unlocking_the_wizard_s_tower",
+"mode": "pve",
+"name": "Skywatch Archipelago: Unlocking the Wizard's Tower",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 25,
+"expansion": "soto",
+"guidance": {
+"text": "Secrets of the Obscure: every 120 min (UTC 01:55, 03:55, 05:55, 07:55...; wiki event timer)",
+"waypoint_chat_code": "[&BB8OAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Wizard%27s_Tower%3A_Fly_by_Night"
+},
+"id": "evt:soto-wt:fly_by_night",
+"mode": "pve",
+"name": "Wizard's Tower: Fly by Night",
+"starts_utc": [
+115,
+235,
+355,
+475,
+595,
+715,
+835,
+955,
+1075,
+1195,
+1315,
+1435
+],
+"yields": []
+},
+{
+"est_minutes": 40,
+"expansion": "soto",
+"guidance": {
+"text": "Secrets of the Obscure: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BB8OAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Skyscale_Target_Practice_in_the_Wizard%27s_Tower"
+},
+"id": "evt:soto-wt:target_practice",
+"mode": "pve",
+"name": "Wizard's Tower: Target Practice",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": []
+},
+{
+"est_minutes": 15,
+"expansion": "soto",
+"guidance": {
+"text": "Secrets of the Obscure: every 120 min (UTC 01:40, 03:40, 05:40, 07:40...; wiki event timer)",
+"waypoint_chat_code": "[&BB8OAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Adventure%23Secrets_of_the_Obscure"
+},
+"id": "evt:soto-wt:target_practice_fly_by_night",
+"mode": "pve",
+"name": "Wizard's Tower: Target Practice & Fly by Night",
+"starts_utc": [
+100,
+220,
+340,
+460,
+580,
+700,
+820,
+940,
+1060,
+1180,
+1300,
+1420
+],
+"yields": []
+},
+{
+"est_minutes": 25,
+"expansion": "soto",
+"guidance": {
+"text": "Secrets of the Obscure: every 120 min (UTC 00:00, 02:00, 04:00, 06:00...; wiki event timer)",
+"waypoint_chat_code": "[&BDQOAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Defense_of_Amnytas"
+},
+"id": "evt:soto-am:defense_of_amnytas",
+"mode": "pve",
+"name": "Defense of Amnytas",
+"starts_utc": [
+0,
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:100045"
+},
+{
+"count": 1,
+"node_id": "item:100109"
+},
+{
+"count": 1,
+"node_id": "item:100193"
+},
+{
+"count": 1,
+"node_id": "item:100320"
+},
+{
+"count": 1,
+"node_id": "item:100618"
+}
+]
+},
+{
+"est_minutes": 25,
+"expansion": "jw",
+"guidance": {
+"text": "Janthir Wilds: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BCoPAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Of_Mists_and_Monsters"
+},
+"id": "evt:jw-js:of_mists_and_monsters",
+"mode": "pve",
+"name": "Janthir Syntri: Of Mists and Monsters",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:102265"
+},
+{
+"count": 1,
+"node_id": "item:102468"
+},
+{
+"count": 1,
+"node_id": "item:102494"
+},
+{
+"count": 4,
+"node_id": "item:102881"
+},
+{
+"count": 1,
+"node_id": "item:103372"
+},
+{
+"count": 1,
+"node_id": "item:84731"
+}
+]
+},
+{
+"est_minutes": 25,
+"expansion": "jw",
+"guidance": {
+"text": "Janthir Wilds: every 120 min (UTC 01:20, 03:20, 05:20, 07:20...; wiki event timer)",
+"waypoint_chat_code": "[&BGEPAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/A_Titanic_Voyage"
+},
+"id": "evt:jw-bn:a_titanic_voyage",
+"mode": "pve",
+"name": "Bava Nisos: A Titanic Voyage",
+"starts_utc": [
+80,
+200,
+320,
+440,
+560,
+680,
+800,
+920,
+1040,
+1160,
+1280,
+1400
+],
+"yields": [
+{
+"count": 18,
+"node_id": "item:102283"
+},
+{
+"count": 11,
+"node_id": "item:104701"
+},
+{
+"count": 32,
+"node_id": "item:104829"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "voe",
+"guidance": {
+"text": "Visions of Eternity: every 120 min (UTC 00:40, 02:40, 04:40, 06:40...; wiki event timer)",
+"waypoint_chat_code": "[&BJEPAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Hammerhart_Rumble%21"
+},
+"id": "evt:voe-ss:hammerhart_rumble",
+"mode": "pve",
+"name": "Shipwreck Strand: Hammerhart Rumble!",
+"starts_utc": [
+40,
+160,
+280,
+400,
+520,
+640,
+760,
+880,
+1000,
+1120,
+1240,
+1360
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:105700"
+},
+{
+"count": 1,
+"node_id": "item:105822"
+},
+{
+"count": 1,
+"node_id": "item:106385"
+},
+{
+"count": 1,
+"node_id": "item:106481"
+},
+{
+"count": 1,
+"node_id": "item:106748"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 35,
+"expansion": "voe",
+"guidance": {
+"text": "Visions of Eternity: every 120 min (UTC 01:40, 03:40, 05:40, 07:40...; wiki event timer)",
+"waypoint_chat_code": "[&BJ4PAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Secrets_of_the_Weald"
+},
+"id": "evt:voe-sw:secrets_of_the_weald",
+"mode": "pve",
+"name": "Starlit Weald: Secrets of the Weald",
+"starts_utc": [
+100,
+220,
+340,
+460,
+580,
+700,
+820,
+940,
+1060,
+1180,
+1300,
+1420
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:105686"
+},
+{
+"count": 1,
+"node_id": "item:105822"
+},
+{
+"count": 1,
+"node_id": "item:105988"
+},
+{
+"count": 1,
+"node_id": "item:105997"
+},
+{
+"count": 1,
+"node_id": "item:106445"
+},
+{
+"count": 1,
+"node_id": "item:106748"
+},
+{
+"count": 1,
+"node_id": "item:38030"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 25,
+"expansion": "voe",
+"guidance": {
+"text": "Visions of Eternity: every 120 min (UTC 01:15, 03:15, 05:15, 07:15...; wiki event timer)",
+"waypoint_chat_code": "[&BPwPAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Shackles_of_the_Ancients"
+},
+"id": "evt:voe-eg:shackles_of_the_ancients",
+"mode": "pve",
+"name": "Eternity's Garden: Shackles of the Ancients",
+"starts_utc": [
+75,
+195,
+315,
+435,
+555,
+675,
+795,
+915,
+1035,
+1155,
+1275,
+1395
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:109202"
+},
+{
+"count": 1,
+"node_id": "item:109247"
+},
+{
+"count": 5,
+"node_id": "item:109459"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "voe",
+"guidance": {
+"text": "Visions of Eternity: every 180 min (UTC 02:00, 05:00, 08:00, 11:00...; wiki event timer)",
+"waypoint_chat_code": "[&BDYQAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Depths_of_Cruelty"
+},
+"id": "evt:voe-lh:depths_of_cruelty",
+"mode": "pve",
+"name": "Leyspring Hollows: Depths of Cruelty",
+"starts_utc": [
+120,
+300,
+480,
+660,
+840,
+1020,
+1200,
+1380
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:109927"
+},
+{
+"count": 1,
+"node_id": "item:110156"
+},
+{
+"count": 1,
+"node_id": "item:110205"
+},
+{
+"count": 1,
+"node_id": "item:110223"
+},
+{
+"count": 1,
+"node_id": "item:36461"
+}
+]
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 120 min (UTC 00:00, 02:00, 04:00, 06:00...; wiki event timer)",
+"waypoint_chat_code": "[&BAkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Twisted_Marionette"
+},
+"id": "evt:public-eotn:twisted_marionette",
+"mode": "pve",
+"name": "Eye of the North: Twisted Marionette",
+"starts_utc": [
+0,
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:49654"
+},
+{
+"count": 1,
+"node_id": "item:49655"
+},
+{
+"count": 1,
+"node_id": "item:49656"
+},
+{
+"count": 1,
+"node_id": "item:49657"
+},
+{
+"count": 1,
+"node_id": "item:49658"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BAkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Battle_For_Lion%27s_Arch"
+},
+"id": "evt:public-eotn:battle_for_lion_s_arch",
+"mode": "pve",
+"name": "Eye of the North: Battle For Lion's Arch",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": []
+},
+{
+"est_minutes": 20,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 120 min (UTC 01:00, 03:00, 05:00, 07:00...; wiki event timer)",
+"waypoint_chat_code": "[&BAkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragonstorm"
+},
+"id": "evt:public-eotn:dragonstorm",
+"mode": "pve",
+"name": "Eye of the North: Dragonstorm",
+"starts_utc": [
+60,
+180,
+300,
+420,
+540,
+660,
+780,
+900,
+1020,
+1140,
+1260,
+1380
+],
+"yields": [
+{
+"count": 2,
+"node_id": "item:83008"
+},
+{
+"count": 5,
+"node_id": "item:94163"
+},
+{
+"count": 6,
+"node_id": "item:96088"
+}
+]
+},
+{
+"est_minutes": 15,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
+"waypoint_chat_code": "[&BAkMAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Tower_of_Nightmares_%28meta_event%29"
+},
+"id": "evt:public-eotn:tower_of_nightmares",
+"mode": "pve",
+"name": "Eye of the North: Tower of Nightmares",
+"starts_utc": [
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 180 min (UTC 00:00, 03:00, 06:00, 09:00...; wiki event timer)",
+"waypoint_chat_code": "[&BK4OAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Convergence%3A_Mount_Balrior"
+},
+"id": "evt:public-con:mount_balrior",
+"mode": "pve",
+"name": "Convergence: Mount Balrior",
+"starts_utc": [
+0,
+180,
+360,
+540,
+720,
+900,
+1080,
+1260
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:100055"
+},
+{
+"count": 1,
+"node_id": "item:100078"
+},
+{
+"count": 1,
+"node_id": "item:100414"
+},
+{
+"count": 1,
+"node_id": "item:101213"
+},
+{
+"count": 8,
+"node_id": "item:102283"
+},
+{
+"count": 1,
+"node_id": "item:103842"
+},
+{
+"count": 2,
+"node_id": "item:36449"
+},
+{
+"count": 1,
+"node_id": "item:69910"
+}
+]
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 180 min (UTC 01:00, 04:00, 07:00, 10:00...; wiki event timer)",
+"waypoint_chat_code": "[&BDYQAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Convergence%3A_Nexus_of_Eternity"
+},
+"id": "evt:public-con:nexus_of_eternity",
+"mode": "pve",
+"name": "Convergence: Nexus of Eternity",
+"starts_utc": [
+60,
+240,
+420,
+600,
+780,
+960,
+1140,
+1320
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:100055"
+},
+{
+"count": 1,
+"node_id": "item:100078"
+},
+{
+"count": 1,
+"node_id": "item:100414"
+},
+{
+"count": 1,
+"node_id": "item:101213"
+},
+{
+"count": 1,
+"node_id": "item:110137"
+},
+{
+"count": 1,
+"node_id": "item:110220"
+},
+{
+"count": 2,
+"node_id": "item:36449"
+},
+{
+"count": 1,
+"node_id": "item:69910"
+},
+{
+"count": 6,
+"node_id": "item:83008"
+}
+]
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Public Instances: every 180 min (UTC 01:30, 04:30, 07:30, 10:30...; wiki event timer)",
+"waypoint_chat_code": "[&BB8OAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Convergence%3A_Outer_Nayos"
+},
+"id": "evt:public-con:outer_nayos",
+"mode": "pve",
+"name": "Convergence: Outer Nayos",
+"starts_utc": [
+90,
+270,
+450,
+630,
+810,
+990,
+1170,
+1350
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:101185"
+},
+{
+"count": 15,
+"node_id": "item:97358"
+}
+]
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 00:00, 02:00, 04:00, 06:00...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Labyrinthine_Skiffs%3A_A_race_is_starting_soon%21"
+},
+"id": "evt:festival-lc:skiff_race",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Skiff Race",
+"starts_utc": [
+0,
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": []
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 00:15, 02:15, 04:15, 06:15...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Launch_kite_baskets_full_of_water_balloons"
+},
+"id": "evt:festival-lc:water_balloons",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Water Balloons",
+"starts_utc": [
+15,
+135,
+255,
+375,
+495,
+615,
+735,
+855,
+975,
+1095,
+1215,
+1335
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:66224"
+}
+]
+},
+{
+"est_minutes": 30,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 00:30, 02:30, 04:30, 06:30...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Participate_in_the_treasure_hunt%21"
+},
+"id": "evt:festival-lc:treasure_hunt",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Treasure Hunt",
+"starts_utc": [
+30,
+150,
+270,
+390,
+510,
+630,
+750,
+870,
+990,
+1110,
+1230,
+1350
+],
+"yields": []
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 01:15, 03:15, 05:15, 07:15...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Skimmer_Slalom%3A_Reach_the_finish_line%21"
+},
+"id": "evt:festival-lc:skimmer_race",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Skimmer Race",
+"starts_utc": [
+75,
+195,
+315,
+435,
+555,
+675,
+795,
+915,
+1035,
+1155,
+1275,
+1395
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:66224"
+}
+]
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Fishing_Tournament_Sign-Up"
+},
+"id": "evt:festival-lc:fishing",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Fishing",
+"starts_utc": [
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
+],
+"yields": []
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 01:45, 03:45, 05:45, 07:45...; wiki event timer)",
+"waypoint_chat_code": "[&BBwHAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Flying_Dolyak%3A_Reach_the_finish_line%21"
+},
+"id": "evt:festival-lc:dolyak_race",
+"mode": "pve",
+"name": "Labyrinthine Cliffs: Dolyak Race",
+"starts_utc": [
+105,
+225,
+345,
+465,
+585,
+705,
+825,
+945,
+1065,
+1185,
+1305,
+1425
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:66224"
+}
+]
+},
+{
+"est_minutes": 5,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 60 min (UTC 00:00, 01:00, 02:00, 03:00...; wiki event timer)",
+"waypoint_chat_code": "[&BH0BAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Hologram_Stampede%21"
+},
+"id": "evt:festival-db:wayfarer_foothills",
+"mode": "pve",
+"name": "Dragon Bash: Wayfarer Foothills",
+"starts_utc": [
+0,
+60,
+120,
+180,
+240,
+300,
+360,
+420,
+480,
+540,
+600,
+660,
+720,
+780,
+840,
+900,
+960,
+1020,
+1080,
+1140,
+1200,
+1260,
+1320,
+1380
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:43357"
+}
+]
+},
+{
+"est_minutes": 5,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 60 min (UTC 00:15, 01:15, 02:15, 03:15...; wiki event timer)",
+"waypoint_chat_code": "[&BGMCAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Hologram_Stampede%21"
+},
+"id": "evt:festival-db:dredgehaunt_cliffs",
+"mode": "pve",
+"name": "Dragon Bash: Dredgehaunt Cliffs",
+"starts_utc": [
+15,
+75,
+135,
+195,
+255,
+315,
+375,
+435,
+495,
+555,
+615,
+675,
+735,
+795,
+855,
+915,
+975,
+1035,
+1095,
+1155,
+1215,
+1275,
+1335,
+1395
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:43357"
+}
+]
+},
+{
+"est_minutes": 5,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 60 min (UTC 00:30, 01:30, 02:30, 03:30...; wiki event timer)",
+"waypoint_chat_code": "[&BJkBAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Hologram_Stampede%21"
+},
+"id": "evt:festival-db:lornar_s_pass",
+"mode": "pve",
+"name": "Dragon Bash: Lornar's Pass",
+"starts_utc": [
+30,
+90,
+150,
+210,
+270,
+330,
+390,
+450,
+510,
+570,
+630,
+690,
+750,
+810,
+870,
+930,
+990,
+1050,
+1110,
+1170,
+1230,
+1290,
+1350,
+1410
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:43357"
+}
+]
+},
+{
+"est_minutes": 5,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 60 min (UTC 00:45, 01:45, 02:45, 03:45...; wiki event timer)",
+"waypoint_chat_code": "[&BL4AAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Hologram_Stampede%21"
+},
+"id": "evt:festival-db:snowden_drifts",
+"mode": "pve",
+"name": "Dragon Bash: Snowden Drifts",
+"starts_utc": [
+45,
+105,
+165,
+225,
+285,
+345,
+405,
+465,
+525,
+585,
+645,
+705,
+765,
+825,
+885,
+945,
+1005,
+1065,
+1125,
+1185,
+1245,
+1305,
+1365,
+1425
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:43357"
+}
+]
+},
+{
+"est_minutes": 10,
+"expansion": "core",
+"guidance": {
+"text": "Special Events: every 120 min (UTC 00:00, 02:00, 04:00, 06:00...; wiki event timer)",
+"waypoint_chat_code": "[&BBAEAAA=]",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Your_Mad_King_says..."
+},
+"id": "evt:festival-ha:mad_king_says",
+"mode": "pve",
+"name": "Halloween: Mad King Says",
+"starts_utc": [
+0,
+120,
+240,
+360,
+480,
+600,
+720,
+840,
+960,
+1080,
+1200,
+1320
+],
+"yields": [
+{
+"count": 1,
+"node_id": "item:44738"
+},
+{
+"count": 1,
+"node_id": "item:64741"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Aetherblade_Fractal"
+},
+"id": "loc:aetherblade_fractal",
+"mode": "pve",
+"name": "Aetherblade Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Seitung Province (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Aetherblade_Hideout"
+},
+"id": "loc:aetherblade_hideout",
+"mode": "pve",
+"name": "Aetherblade Hideout",
+"yields": [
+{
+"count": 9,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:95638"
+},
+{
+"count": 1,
+"node_id": "item:96957"
+},
+{
+"count": 1,
+"node_id": "item:96978"
+},
+{
+"count": 1,
+"node_id": "item:97269"
+},
+{
+"count": 1,
+"node_id": "item:97331"
+},
+{
+"count": 1,
+"node_id": "item:97517"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Aquatic_Ruins_Fractal"
+},
+"id": "loc:aquatic_ruins_fractal",
+"mode": "pve",
+"name": "Aquatic Ruins Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ascalonian_Catacombs"
+},
+"id": "loc:ascalonian_catacombs",
+"mode": "pve",
+"name": "Ascalonian Catacombs",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ascalonian_Catacombs_%28explorable%29"
+},
+"id": "loc:ascalonian_catacombs_explorable",
+"mode": "pve",
+"name": "Ascalonian Catacombs (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ascalonian_Catacombs_%28story%29"
+},
+"id": "loc:ascalonian_catacombs_story",
+"mode": "pve",
+"name": "Ascalonian Catacombs (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Mad King's Realm (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ascent_to_Madness"
+},
+"id": "loc:ascent_to_madness",
+"mode": "pve",
+"name": "Ascent to Madness",
+"yields": [
+{
+"count": 1,
+"node_id": "item:36039"
+},
+{
+"count": 1,
+"node_id": "item:36040"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Aspect_Arena"
+},
+"id": "loc:aspect_arena",
+"mode": "pve",
+"name": "Aspect Arena",
+"yields": [
+{
+"count": 2,
+"node_id": "item:66224"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Beggar's Burrow (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Bad_Neighborhood"
+},
+"id": "loc:bad_neighborhood",
+"mode": "pve",
+"name": "Bad Neighborhood",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Heart of Maguuma (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Bastion_of_the_Penitent"
+},
+"id": "loc:bastion_of_the_penitent",
+"mode": "pve",
+"name": "Bastion of the Penitent",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Bell_Choir_Ensemble"
+},
+"id": "loc:bell_choir_ensemble",
+"mode": "pve",
+"name": "Bell Choir Ensemble",
+"yields": [
+{
+"count": 1,
+"node_id": "item:77604"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Bjora Marches (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Boneskinner"
+},
+"id": "loc:boneskinner",
+"mode": "pve",
+"name": "Boneskinner",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 11,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 1,
+"node_id": "item:92316"
+},
+{
+"count": 1,
+"node_id": "item:92330"
+},
+{
+"count": 1,
+"node_id": "item:92697"
+},
+{
+"count": 1,
+"node_id": "item:93210"
+},
+{
+"count": 1,
+"node_id": "item:93245"
+},
+{
+"count": 9,
+"node_id": "item:93781"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Twisting Hollows (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/%27Booter%27s_Path"
+},
+"id": "loc:booter_s_path",
+"mode": "pve",
+"name": "'Booter's Path",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Captain_Mai_Trin_Boss_Fractal"
+},
+"id": "loc:captain_mai_trin_boss_fractal",
+"mode": "pve",
+"name": "Captain Mai Trin Boss Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Kryta (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Caudecus%27s_Manor"
+},
+"id": "loc:caudecus_s_manor",
+"mode": "pve",
+"name": "Caudecus's Manor",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Kryta (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Caudecus%27s_Manor_%28explorable%29"
+},
+"id": "loc:caudecus_s_manor_explorable",
+"mode": "pve",
+"name": "Caudecus's Manor (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Kryta (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Caudecus%27s_Manor_%28story%29"
+},
+"id": "loc:caudecus_s_manor_story",
+"mode": "pve",
+"name": "Caudecus's Manor (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Temple of Abnegation (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Chamber_of_Regret"
+},
+"id": "loc:chamber_of_regret",
+"mode": "pve",
+"name": "Chamber of Regret",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Chaos_Fractal"
+},
+"id": "loc:chaos_fractal",
+"mode": "pve",
+"name": "Chaos Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Citadel_of_Flame"
+},
+"id": "loc:citadel_of_flame",
+"mode": "pve",
+"name": "Citadel of Flame",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Citadel_of_Flame_%28explorable%29"
+},
+"id": "loc:citadel_of_flame_explorable",
+"mode": "pve",
+"name": "Citadel of Flame (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ascalon (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Citadel_of_Flame_%28story%29"
+},
+"id": "loc:citadel_of_flame_story",
+"mode": "pve",
+"name": "Citadel of Flame (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Cliffside_Fractal"
+},
+"id": "loc:cliffside_fractal",
+"mode": "pve",
+"name": "Cliffside Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Drizzlewood Coast (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Cold_War"
+},
+"id": "loc:cold_war",
+"mode": "pve",
+"name": "Cold War",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 1,
+"node_id": "item:77378"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 1,
+"node_id": "item:93210"
+},
+{
+"count": 1,
+"node_id": "item:93455"
+},
+{
+"count": 1,
+"node_id": "item:93468"
+},
+{
+"count": 50,
+"node_id": "item:93627"
+},
+{
+"count": 1,
+"node_id": "item:93649"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Skywatch Archipelago (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Cosmic_Observatory"
+},
+"id": "loc:cosmic_observatory",
+"mode": "pve",
+"name": "Cosmic Observatory",
+"yields": [
+{
+"count": 1,
+"node_id": "item:100068"
+},
+{
+"count": 1,
+"node_id": "item:100170"
+},
+{
+"count": 1,
+"node_id": "item:101172"
+},
+{
+"count": 11,
+"node_id": "item:77378"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Southsun Cove (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crab_Toss"
+},
+"id": "loc:crab_toss",
+"mode": "pve",
+"name": "Crab Toss",
+"yields": [
+{
+"count": 1,
+"node_id": "item:44066"
+},
+{
+"count": 1,
+"node_id": "item:44067"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crucible_of_Eternity"
+},
+"id": "loc:crucible_of_eternity",
+"mode": "pve",
+"name": "Crucible of Eternity",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crucible_of_Eternity_%28explorable%29"
+},
+"id": "loc:crucible_of_eternity_explorable",
+"mode": "pve",
+"name": "Crucible of Eternity (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Crucible_of_Eternity_%28story%29"
+},
+"id": "loc:crucible_of_eternity_story",
+"mode": "pve",
+"name": "Crucible of Eternity (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Deepstone_Fractal"
+},
+"id": "loc:deepstone_fractal",
+"mode": "pve",
+"name": "Deepstone Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Dzasha Uplands (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dispersed_Energy"
+},
+"id": "loc:dispersed_energy",
+"mode": "pve",
+"name": "Dispersed Energy",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Ruins of the Unseen (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Don%27t_Touch_the_Shiny"
+},
+"id": "loc:don_t_touch_the_shiny",
+"mode": "pve",
+"name": "Don't Touch the Shiny",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Kryta (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Ball_Arena"
+},
+"id": "loc:dragon_ball_arena",
+"mode": "pve",
+"name": "Dragon Ball Arena",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Bloodtide Coast (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Bloodtide_Coast"
+},
+"id": "loc:dragon_response_mission_bloodtide_coast",
+"mode": "pve",
+"name": "Dragon Response Mission: Bloodtide Coast",
+"yields": [
+{
+"count": 2,
+"node_id": "item:92288"
+},
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Brisban Wildlands (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Brisban_Wildlands"
+},
+"id": "loc:dragon_response_mission_brisban_wildlands",
+"mode": "pve",
+"name": "Dragon Response Mission: Brisban Wildlands",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Caledon Forest (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Caledon_Forest"
+},
+"id": "loc:dragon_response_mission_caledon_forest",
+"mode": "pve",
+"name": "Dragon Response Mission: Caledon Forest",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Fields of Ruin (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Fields_of_Ruin"
+},
+"id": "loc:dragon_response_mission_fields_of_ruin",
+"mode": "pve",
+"name": "Dragon Response Mission: Fields of Ruin",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Fireheart Rise (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Fireheart_Rise"
+},
+"id": "loc:dragon_response_mission_fireheart_rise",
+"mode": "pve",
+"name": "Dragon Response Mission: Fireheart Rise",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Gendarran Fields (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Gendarran_Fields"
+},
+"id": "loc:dragon_response_mission_gendarran_fields",
+"mode": "pve",
+"name": "Dragon Response Mission: Gendarran Fields",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Lake Doric (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Lake_Doric"
+},
+"id": "loc:dragon_response_mission_lake_doric",
+"mode": "pve",
+"name": "Dragon Response Mission: Lake Doric",
+"yields": [
+{
+"count": 1,
+"node_id": "item:92288"
+},
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Metrica Province (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Metrica_Province"
+},
+"id": "loc:dragon_response_mission_metrica_province",
+"mode": "pve",
+"name": "Dragon Response Mission: Metrica Province",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Snowden Drifts (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Snowden_Drifts"
+},
+"id": "loc:dragon_response_mission_snowden_drifts",
+"mode": "pve",
+"name": "Dragon Response Mission: Snowden Drifts",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dragon Response Mission in Thunderhead Peaks (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Response_Mission%3A_Thunderhead_Peaks"
+},
+"id": "loc:dragon_response_mission_thunderhead_peaks",
+"mode": "pve",
+"name": "Dragon Response Mission: Thunderhead Peaks",
+"yields": [
+{
+"count": 10,
+"node_id": "item:94353"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Flame Temple Tombs (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Font_of_Rhand"
+},
+"id": "loc:font_of_rhand",
+"mode": "pve",
+"name": "Font of Rhand",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forging_Steel"
+},
+"id": "loc:forging_steel",
+"mode": "pve",
+"name": "Forging Steel",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 14,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:84731"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Penitent Path (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forgotten_Stream"
+},
+"id": "loc:forgotten_stream",
+"mode": "pve",
+"name": "Forgotten Stream",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Forsaken Halls (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forsaken_Fortune"
+},
+"id": "loc:forsaken_fortune",
+"mode": "pve",
+"name": "Forsaken Fortune",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Heart of Maguuma (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Forsaken_Thicket"
+},
+"id": "loc:forsaken_thicket",
+"mode": "pve",
+"name": "Forsaken Thicket",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Fractals of the Mists (region) (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists"
+},
+"id": "loc:fractals_of_the_mists",
+"mode": "pve",
+"name": "Fractals of the Mists",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Bjora Marches (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Fraenir_of_Jormag"
+},
+"id": "loc:fraenir_of_jormag",
+"mode": "pve",
+"name": "Fraenir of Jormag",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 8,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 1,
+"node_id": "item:92236"
+},
+{
+"count": 1,
+"node_id": "item:92242"
+},
+{
+"count": 1,
+"node_id": "item:92772"
+},
+{
+"count": 1,
+"node_id": "item:93245"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Navarium Core (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/From_Ruins_to_Riches"
+},
+"id": "loc:from_ruins_to_riches",
+"mode": "pve",
+"name": "From Ruins to Riches",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Earthlord's Gap (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Goff%27s_Loot"
+},
+"id": "loc:goff_s_loot",
+"mode": "pve",
+"name": "Goff's Loot",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Desmina's Hallows (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Grounded_%28mini-dungeon%29"
+},
+"id": "loc:grounded_mini_dungeon",
+"mode": "pve",
+"name": "Grounded",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Shipwreck Strand (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Guardian%27s_Glade"
+},
+"id": "loc:guardian_s_glade",
+"mode": "pve",
+"name": "Guardian's Glade",
+"yields": [
+{
+"count": 12,
+"node_id": "item:104026"
+},
+{
+"count": 1,
+"node_id": "item:106994"
+},
+{
+"count": 1,
+"node_id": "item:107608"
+},
+{
+"count": 1,
+"node_id": "item:77330"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in The Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Hall_of_Chains"
+},
+"id": "loc:hall_of_chains",
+"mode": "pve",
+"name": "Hall of Chains",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Dragon's End (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Harvest_Temple"
+},
+"id": "loc:harvest_temple",
+"mode": "pve",
+"name": "Harvest Temple",
+"yields": [
+{
+"count": 16,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:95986"
+},
+{
+"count": 1,
+"node_id": "item:96978"
+},
+{
+"count": 1,
+"node_id": "item:97132"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Honor_of_the_Waves"
+},
+"id": "loc:honor_of_the_waves",
+"mode": "pve",
+"name": "Honor of the Waves",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Honor_of_the_Waves_%28explorable%29"
+},
+"id": "loc:honor_of_the_waves_explorable",
+"mode": "pve",
+"name": "Honor of the Waves (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Honor_of_the_Waves_%28story%29"
+},
+"id": "loc:honor_of_the_waves_story",
+"mode": "pve",
+"name": "Honor of the Waves (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in New Kaineng City (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kaineng_Overlook"
+},
+"id": "loc:kaineng_overlook",
+"mode": "pve",
+"name": "Kaineng Overlook",
+"yields": [
+{
+"count": 1,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:95939"
+},
+{
+"count": 1,
+"node_id": "item:96333"
+},
+{
+"count": 1,
+"node_id": "item:96419"
+},
+{
+"count": 1,
+"node_id": "item:96978"
+},
+{
+"count": 1,
+"node_id": "item:97063"
+},
+{
+"count": 1,
+"node_id": "item:97306"
+},
+{
+"count": 1,
+"node_id": "item:97451"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Lake Mourn (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Keg_Brawl"
+},
+"id": "loc:keg_brawl",
+"mode": "pve",
+"name": "Keg Brawl",
+"yields": [
+{
+"count": 1,
+"node_id": "item:44059"
+},
+{
+"count": 1,
+"node_id": "item:44060"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Kinfall_Fractal"
+},
+"id": "loc:kinfall_fractal",
+"mode": "pve",
+"name": "Kinfall Fractal",
+"yields": [
+{
+"count": 100,
+"node_id": "item:38022"
+},
+{
+"count": 2,
+"node_id": "item:69862"
+},
+{
+"count": 1,
+"node_id": "item:73834"
+},
+{
+"count": 1,
+"node_id": "item:79230"
+},
+{
+"count": 40,
+"node_id": "item:94020"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Lonely_Tower_Fractal"
+},
+"id": "loc:lonely_tower_fractal",
+"mode": "pve",
+"name": "Lonely Tower Fractal",
+"yields": [
+{
+"count": 80,
+"node_id": "item:38022"
+},
+{
+"count": 2,
+"node_id": "item:69862"
+},
+{
+"count": 1,
+"node_id": "item:73834"
+},
+{
+"count": 1,
+"node_id": "item:79230"
+},
+{
+"count": 40,
+"node_id": "item:94020"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Lunatic_Inquisition"
+},
+"id": "loc:lunatic_inquisition",
+"mode": "pve",
+"name": "Lunatic Inquisition",
+"yields": [
+{
+"count": 40,
+"node_id": "item:36038"
+},
+{
+"count": 1,
+"node_id": "item:48832"
+},
+{
+"count": 1,
+"node_id": "item:48833"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mad_King%27s_Clock_Tower"
+},
+"id": "loc:mad_king_s_clock_tower",
+"mode": "pve",
+"name": "Mad King's Clock Tower",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Arundon Vale (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Magellan%27s_Memento"
+},
+"id": "loc:magellan_s_memento",
+"mode": "pve",
+"name": "Magellan's Memento",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mistlock_Observatory"
+},
+"id": "loc:mistlock_observatory",
+"mode": "pve",
+"name": "Mistlock Observatory",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Molten_Boss_Fractal"
+},
+"id": "loc:molten_boss_fractal",
+"mode": "pve",
+"name": "Molten Boss Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Molten_Furnace_Fractal"
+},
+"id": "loc:molten_furnace_fractal",
+"mode": "pve",
+"name": "Molten Furnace Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Mount Balrior (zone) (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mount_Balrior"
+},
+"id": "loc:mount_balrior",
+"mode": "pve",
+"name": "Mount Balrior",
+"yields": [
+{
+"count": 1,
+"node_id": "item:102283"
+},
+{
+"count": 1,
+"node_id": "item:77378"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Crystal Desert (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Mythwright_Gambit"
+},
+"id": "loc:mythwright_gambit",
+"mode": "pve",
+"name": "Mythwright Gambit",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Castora (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Nexus_of_Eternity"
+},
+"id": "loc:nexus_of_eternity",
+"mode": "pve",
+"name": "Nexus of Eternity",
+"yields": [
+{
+"count": 14,
+"node_id": "item:104026"
+},
+{
+"count": 1,
+"node_id": "item:110231"
+},
+{
+"count": 1,
+"node_id": "item:110245"
+},
+{
+"count": 1,
+"node_id": "item:77330"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Nightmare_Fractal"
+},
+"id": "loc:nightmare_fractal",
+"mode": "pve",
+"name": "Nightmare Fractal",
+"yields": [
+{
+"count": 100,
+"node_id": "item:38022"
+},
+{
+"count": 1,
+"node_id": "item:48884"
+},
+{
+"count": 2,
+"node_id": "item:69862"
+},
+{
+"count": 1,
+"node_id": "item:73834"
+},
+{
+"count": 1,
+"node_id": "item:75284"
+},
+{
+"count": 1,
+"node_id": "item:79230"
+},
+{
+"count": 40,
+"node_id": "item:94020"
+},
+{
+"count": 1,
+"node_id": "item:99734"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Harvest Cascades (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Noran%27s_Safe_Room"
+},
+"id": "loc:noran_s_safe_room",
+"mode": "pve",
+"name": "Noran's Safe Room",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Melandru's Refuge (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Not_All_Who_Wander_Are_Lost"
+},
+"id": "loc:not_all_who_wander_are_lost",
+"mode": "pve",
+"name": "Melandru's Refuge",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Lion's Arch (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Old_Lion%27s_Court"
+},
+"id": "loc:old_lion_s_court",
+"mode": "pve",
+"name": "Old Lion's Court",
+"yields": [
+{
+"count": 1,
+"node_id": "item:77349"
+},
+{
+"count": 15,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:96978"
+},
+{
+"count": 1,
+"node_id": "item:99165"
+},
+{
+"count": 1,
+"node_id": "item:99204"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Reaper%27s_Rumble"
+},
+"id": "loc:reaper_s_rumble",
+"mode": "pve",
+"name": "Reaper's Rumble",
+"yields": [
+{
+"count": 5,
+"node_id": "item:36038"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Rebel's Seclusion (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Rebel%27s_Seclusion_%28mini-dungeon%29"
+},
+"id": "loc:rebel_s_seclusion_mini_dungeon",
+"mode": "pve",
+"name": "Rebel's Seclusion",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Salvation_Pass"
+},
+"id": "loc:salvation_pass",
+"mode": "pve",
+"name": "Salvation Pass",
+"yields": [
+{
+"count": 2,
+"node_id": "item:67516"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Kusini Crossing (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sanctum_of_Nabkha_%28mini-dungeon%29"
+},
+"id": "loc:sanctum_of_nabkha_mini_dungeon",
+"mode": "pve",
+"name": "Sanctum of Nabkha",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sanctum_Sprint"
+},
+"id": "loc:sanctum_sprint",
+"mode": "pve",
+"name": "Sanctum Sprint",
+"yields": [
+{
+"count": 1,
+"node_id": "item:66224"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Secret_Lair_of_the_Snowmen"
+},
+"id": "loc:secret_lair_of_the_snowmen",
+"mode": "pve",
+"name": "Secret Lair of the Snowmen",
+"yields": [
+{
+"count": 30,
+"node_id": "item:77604"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Shattered_Observatory_Fractal"
+},
+"id": "loc:shattered_observatory_fractal",
+"mode": "pve",
+"name": "Shattered Observatory Fractal",
+"yields": [
+{
+"count": 20,
+"node_id": "item:38022"
+},
+{
+"count": 2,
+"node_id": "item:69862"
+},
+{
+"count": 1,
+"node_id": "item:73834"
+},
+{
+"count": 1,
+"node_id": "item:79230"
+},
+{
+"count": 40,
+"node_id": "item:94020"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Strait of Malediction (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Ship_of_Sorrows"
+},
+"id": "loc:ship_of_sorrows",
+"mode": "pve",
+"name": "Ship of Sorrows",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Grothmar Valley (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Shiverpeaks_Pass"
+},
+"id": "loc:shiverpeaks_pass",
+"mode": "pve",
+"name": "Shiverpeaks Pass",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 8,
+"node_id": "item:77378"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 9,
+"node_id": "item:92072"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Silent_Surf_Fractal"
+},
+"id": "loc:silent_surf_fractal",
+"mode": "pve",
+"name": "Silent Surf Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Siren%27s_Reef_Fractal"
+},
+"id": "loc:siren_s_reef_fractal",
+"mode": "pve",
+"name": "Siren's Reef Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Snowball_Mayhem"
+},
+"id": "loc:snowball_mayhem",
+"mode": "pve",
+"name": "Snowball Mayhem",
+"yields": [
+{
+"count": 6,
+"node_id": "item:77604"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Snowblind_Fractal"
+},
+"id": "loc:snowblind_fractal",
+"mode": "pve",
+"name": "Snowblind Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Solid_Ocean_Fractal"
+},
+"id": "loc:solid_ocean_fractal",
+"mode": "pve",
+"name": "Solid Ocean Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Solitary_Throne_Fractal"
+},
+"id": "loc:solitary_throne_fractal",
+"mode": "pve",
+"name": "Solitary Throne Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sorrow%27s_Embrace"
+},
+"id": "loc:sorrow_s_embrace",
+"mode": "pve",
+"name": "Sorrow's Embrace",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sorrow%27s_Embrace_%28explorable%29"
+},
+"id": "loc:sorrow_s_embrace_explorable",
+"mode": "pve",
+"name": "Sorrow's Embrace (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Shiverpeak Mountains (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sorrow%27s_Embrace_%28story%29"
+},
+"id": "loc:sorrow_s_embrace_story",
+"mode": "pve",
+"name": "Sorrow's Embrace (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Southsun Cove (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Southsun_Survival"
+},
+"id": "loc:southsun_survival",
+"mode": "pve",
+"name": "Southsun Survival",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Spirit_Vale"
+},
+"id": "loc:spirit_vale",
+"mode": "pve",
+"name": "Spirit Vale",
+"yields": [
+{
+"count": 2,
+"node_id": "item:67516"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Mad King's Realm (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Stopped_Clock_Tower"
+},
+"id": "loc:stopped_clock_tower",
+"mode": "pve",
+"name": "Stopped Clock Tower",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Forsaken Thicket (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Stronghold_of_the_Faithful"
+},
+"id": "loc:stronghold_of_the_faithful",
+"mode": "pve",
+"name": "Stronghold of the Faithful",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Sunqua_Peak_Fractal"
+},
+"id": "loc:sunqua_peak_fractal",
+"mode": "pve",
+"name": "Sunqua Peak Fractal",
+"yields": [
+{
+"count": 80,
+"node_id": "item:38022"
+},
+{
+"count": 2,
+"node_id": "item:69862"
+},
+{
+"count": 1,
+"node_id": "item:73834"
+},
+{
+"count": 1,
+"node_id": "item:79230"
+},
+{
+"count": 40,
+"node_id": "item:94020"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Rata Sum (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Super_Adventure_Box"
+},
+"id": "loc:super_adventure_box",
+"mode": "pve",
+"name": "Super Adventure Box",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Swampland_Fractal"
+},
+"id": "loc:swampland_fractal",
+"mode": "pve",
+"name": "Swampland Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Wychmire Swamp (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Tears_of_Itlaocol"
+},
+"id": "loc:tears_of_itlaocol",
+"mode": "pve",
+"name": "Tears of Itlaocol",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Nayos (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Temple_of_Febe"
+},
+"id": "loc:temple_of_febe",
+"mode": "pve",
+"name": "Temple of Febe",
+"yields": [
+{
+"count": 1,
+"node_id": "item:100634"
+},
+{
+"count": 1,
+"node_id": "item:100858"
+},
+{
+"count": 1,
+"node_id": "item:101495"
+},
+{
+"count": 1,
+"node_id": "item:101542"
+},
+{
+"count": 13,
+"node_id": "item:77378"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Thaumanova_Reactor_Fractal"
+},
+"id": "loc:thaumanova_reactor_fractal",
+"mode": "pve",
+"name": "Thaumanova Reactor Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Crystal Desert (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Key_of_Ahdashim"
+},
+"id": "loc:the_key_of_ahdashim",
+"mode": "pve",
+"name": "The Key of Ahdashim",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Terzetto Bay (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Long_Way_Around"
+},
+"id": "loc:the_long_way_around",
+"mode": "pve",
+"name": "The Long Way Around",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Ruins of Orr (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Ruined_City_of_Arah"
+},
+"id": "loc:the_ruined_city_of_arah",
+"mode": "pve",
+"name": "The Ruined City of Arah",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in THE BIG TRASH (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/The_Ruined_City_of_Arah_%28explorable%29"
+},
+"id": "loc:the_ruined_city_of_arah_explorable",
+"mode": "pve",
+"name": "The Ruined City of Arah (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Wintersday Celebration (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Tixx%27s_Infinirarium"
+},
+"id": "loc:tixx_s_infinirarium",
+"mode": "pve",
+"name": "Tixx's Infinirarium",
+"yields": [
+{
+"count": 50,
+"node_id": "item:77604"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Toypocalypse"
+},
+"id": "loc:toypocalypse",
+"mode": "pve",
+"name": "Toypocalypse",
+"yields": [
+{
+"count": 1,
+"node_id": "item:77604"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Silent Surf (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Trial_of_the_Elders"
+},
+"id": "loc:trial_of_the_elders",
+"mode": "pve",
+"name": "Trial of the Elders",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Twilight_Arbor"
+},
+"id": "loc:twilight_arbor",
+"mode": "pve",
+"name": "Twilight Arbor",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Twilight_Arbor_%28explorable%29"
+},
+"id": "loc:twilight_arbor_explorable",
+"mode": "pve",
+"name": "Twilight Arbor (explorable)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Dungeon in Maguuma Jungle (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Twilight_Arbor_%28story%29"
+},
+"id": "loc:twilight_arbor_story",
+"mode": "pve",
+"name": "Twilight Arbor (story)",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Twilight_Oasis_Fractal"
+},
+"id": "loc:twilight_oasis_fractal",
+"mode": "pve",
+"name": "Twilight Oasis Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Uncategorized_Fractal"
+},
+"id": "loc:uncategorized_fractal",
+"mode": "pve",
+"name": "Uncategorized Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Underground_Facility_Fractal"
+},
+"id": "loc:underground_facility_fractal",
+"mode": "pve",
+"name": "Underground Facility Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Urban_Battleground_Fractal"
+},
+"id": "loc:urban_battleground_fractal",
+"mode": "pve",
+"name": "Urban Battleground Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (region) (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/User%3ASeikilos/sandbox"
+},
+"id": "loc:user_seikilos_sandbox",
+"mode": "pve",
+"name": "Seikilos/sandbox",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Quarry Forelands (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Valdhertz_Crypts_%28mini-dungeon%29"
+},
+"id": "loc:valdhertz_crypts_mini_dungeon",
+"mode": "pve",
+"name": "Valdhertz Crypts",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Melandru's Hope (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Vasburg_Armory_%28mini-dungeon%29"
+},
+"id": "loc:vasburg_armory_mini_dungeon",
+"mode": "pve",
+"name": "Vasburg Armory",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Bjora Marches (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Voice_of_the_Fallen_and_Claw_of_the_Fallen"
+},
+"id": "loc:voice_of_the_fallen_and_claw_of_the_fallen",
+"mode": "pve",
+"name": "Voice of the Fallen and Claw of the Fallen",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 8,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 2,
+"node_id": "item:85016"
+},
+{
+"count": 1,
+"node_id": "item:92257"
+},
+{
+"count": 1,
+"node_id": "item:92369"
+},
+{
+"count": 1,
+"node_id": "item:92775"
+},
+{
+"count": 1,
+"node_id": "item:93210"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Fractal in Fractals of the Mists (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Volcanic_Fractal"
+},
+"id": "loc:volcanic_fractal",
+"mode": "pve",
+"name": "Volcanic Fractal",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in Bjora Marches (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Whisper_of_Jormag"
+},
+"id": "loc:whisper_of_jormag",
+"mode": "pve",
+"name": "Whisper of Jormag",
+"yields": [
+{
+"count": 1,
+"node_id": "item:106909"
+},
+{
+"count": 11,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:83008"
+},
+{
+"count": 2,
+"node_id": "item:84731"
+},
+{
+"count": 1,
+"node_id": "item:92236"
+},
+{
+"count": 1,
+"node_id": "item:92242"
+},
+{
+"count": 1,
+"node_id": "item:92257"
+},
+{
+"count": 1,
+"node_id": "item:92316"
+},
+{
+"count": 1,
+"node_id": "item:92330"
+},
+{
+"count": 1,
+"node_id": "item:92369"
+},
+{
+"count": 1,
+"node_id": "item:92697"
+},
+{
+"count": 1,
+"node_id": "item:92772"
+},
+{
+"count": 1,
+"node_id": "item:92775"
+},
+{
+"count": 1,
+"node_id": "item:93245"
+}
+]
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Mini-dungeon in Mistriven Gorge (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Windy_Cave_Treasure"
+},
+"id": "loc:windy_cave_treasure",
+"mode": "pve",
+"name": "Windy Cave Treasure",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Activity in Wintersday Celebration (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Winter_Wonderland"
+},
+"id": "loc:winter_wonderland",
+"mode": "pve",
+"name": "Winter Wonderland",
+"yields": []
+},
+{
+"expansion": "core",
+"guidance": {
+"text": "Raid in The Echovald Wilds (no run length on the wiki: DRF times it)",
+"wiki_url": "https://wiki.guildwars2.com/wiki/Xunlai_Jade_Junkyard"
+},
+"id": "loc:xunlai_jade_junkyard",
+"mode": "pve",
+"name": "Xunlai Jade Junkyard",
+"yields": [
+{
+"count": 13,
+"node_id": "item:77378"
+},
+{
+"count": 1,
+"node_id": "item:95599"
+},
+{
+"count": 1,
+"node_id": "item:95982"
+},
+{
+"count": 1,
+"node_id": "item:96377"
+},
+{
+"count": 1,
+"node_id": "item:96580"
+},
+{
+"count": 1,
+"node_id": "item:96638"
+},
+{
+"count": 1,
+"node_id": "item:96978"
+}
+]
+}
+]

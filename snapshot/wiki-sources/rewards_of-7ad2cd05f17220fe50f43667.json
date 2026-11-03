@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Slay the Shatterer",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Slay the Shatterer"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Slay the Shatterer#reward1"
+},
+{
+"Has game id": [
+87901
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Slay the Shatterer"
+],
+"Rewards item": [
+"Blazeridge Steppes Service Cross"
+],
+"_subject": "Slay the Shatterer#reward2"
+}
+]
+}

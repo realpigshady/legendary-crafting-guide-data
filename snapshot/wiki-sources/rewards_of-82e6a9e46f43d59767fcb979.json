@@ -1,0 +1,99 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Harvest Temple",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"16"
+],
+"Rewarded by": [
+"Harvest Temple"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Harvest Temple#reward1"
+},
+{
+"Has game id": [
+97132,
+106956
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Harvest Temple"
+],
+"Rewards item": [
+"Void's Coffer"
+],
+"_subject": "Harvest Temple#reward2"
+},
+{
+"Has game id": [
+95986,
+106910
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Harvest Temple"
+],
+"Rewards item": [
+"Void's Magnificent Coffer"
+],
+"_subject": "Harvest Temple#reward3"
+},
+{
+"Has game id": [
+96978
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Harvest Temple"
+],
+"Rewards item": [
+"Antique Summoning Stone"
+],
+"_subject": "Harvest Temple#reward4"
+},
+{
+"Has game id": [
+98092
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Harvest Temple"
+],
+"Rewards item": [
+"Imperial Everbloom Sprout"
+],
+"_subject": "Harvest Temple#reward5"
+}
+]
+}

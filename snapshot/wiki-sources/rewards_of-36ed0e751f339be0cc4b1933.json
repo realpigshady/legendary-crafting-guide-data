@@ -1,0 +1,939 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Depths of Cruelty",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Depths of Cruelty#reward1"
+},
+{
+"Has game id": [
+36461
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Keg of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward10"
+},
+{
+"Has game id": [
+110156
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward11"
+},
+{
+"Has game id": [
+110153
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Tenebral Ward Token: Gloves"
+],
+"_subject": "Depths of Cruelty#reward12"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Depths of Cruelty#reward13"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"13"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward14"
+},
+{
+"Has game id": [
+24289
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Armored Scale"
+],
+"_subject": "Depths of Cruelty#reward15"
+},
+{
+"Has game id": [
+24300
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Elaborate Totem"
+],
+"_subject": "Depths of Cruelty#reward16"
+},
+{
+"Has game id": [
+24283
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Powerful Venom Sac"
+],
+"_subject": "Depths of Cruelty#reward17"
+},
+{
+"Has game id": [
+24351
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Claw"
+],
+"_subject": "Depths of Cruelty#reward18"
+},
+{
+"Has game id": [
+24357
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3, 5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Fang"
+],
+"_subject": "Depths of Cruelty#reward19"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward2"
+},
+{
+"Has game id": [
+24360
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Slab of Poultry Meat"
+],
+"_subject": "Depths of Cruelty#reward20"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Keg of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward21"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward22"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Tenebral Ward Token: Gloves"
+],
+"_subject": "Depths of Cruelty#reward23"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Depths of Cruelty#reward24"
+},
+{
+"Has game id": [
+24358
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Ancient Bone"
+],
+"_subject": "Depths of Cruelty#reward25"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Armored Scale"
+],
+"_subject": "Depths of Cruelty#reward26"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Elaborate Totem"
+],
+"_subject": "Depths of Cruelty#reward27"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Claw"
+],
+"_subject": "Depths of Cruelty#reward28"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Fang"
+],
+"_subject": "Depths of Cruelty#reward29"
+},
+{
+"Has game id": [
+24358
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Ancient Bone"
+],
+"_subject": "Depths of Cruelty#reward3"
+},
+{
+"Has game id": [
+24295
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3, 5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vial of Powerful Blood"
+],
+"_subject": "Depths of Cruelty#reward30"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2, 5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Slab of Poultry Meat"
+],
+"_subject": "Depths of Cruelty#reward31"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Keg of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward32"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward33"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"3-4"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Powerful Venom Sac"
+],
+"_subject": "Depths of Cruelty#reward34"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2, 5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Claw"
+],
+"_subject": "Depths of Cruelty#reward35"
+},
+{
+"Has game id": [
+24295
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"4-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vial of Powerful Blood"
+],
+"_subject": "Depths of Cruelty#reward36"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"4-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Slab of Poultry Meat"
+],
+"_subject": "Depths of Cruelty#reward37"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Keg of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward38"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward39"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Armored Scale"
+],
+"_subject": "Depths of Cruelty#reward4"
+},
+{
+"Has game id": [
+110205
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Leyspring Hollows: Hero's Choice Chest"
+],
+"_subject": "Depths of Cruelty#reward40"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Depths of Cruelty#reward41"
+},
+{
+"Has game id": [
+106732
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Chromatic Resin Box"
+],
+"_subject": "Depths of Cruelty#reward42"
+},
+{
+"Has game id": [
+109929
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Explorer's Kukri"
+],
+"_subject": "Depths of Cruelty#reward43"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Bag of Coins"
+],
+"_subject": "Depths of Cruelty#reward44"
+},
+{
+"Has game id": [
+38030
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Drip of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward45"
+},
+{
+"Has game id": [
+86181
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Bead of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward46"
+},
+{
+"Has game id": [
+36449
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Thimble of Liquid Karma"
+],
+"_subject": "Depths of Cruelty#reward47"
+},
+{
+"Has game id": [
+106689
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shred of Castora Mastery"
+],
+"_subject": "Depths of Cruelty#reward48"
+},
+{
+"Has game id": [
+105431
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Scrap of Castora Mastery"
+],
+"_subject": "Depths of Cruelty#reward49"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Elaborate Totem"
+],
+"_subject": "Depths of Cruelty#reward5"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10-15"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Shadowstone Research Data"
+],
+"_subject": "Depths of Cruelty#reward50"
+},
+{
+"Has game id": [
+110223
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Leyspring Hollows Renown Token"
+],
+"_subject": "Depths of Cruelty#reward51"
+},
+{
+"Has game id": [
+109927
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Kuda's Cache"
+],
+"_subject": "Depths of Cruelty#reward52"
+},
+{
+"Has game id": [
+110218
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Mini Subject Gamma"
+],
+"_subject": "Depths of Cruelty#reward53"
+},
+{
+"Has game id": [
+109239
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Mote of Seer Transcendence"
+],
+"_subject": "Depths of Cruelty#reward54"
+},
+{
+"Has game id": [
+110206
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Torrs Calare Greatsword"
+],
+"_subject": "Depths of Cruelty#reward55"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"4-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Powerful Venom Sac"
+],
+"_subject": "Depths of Cruelty#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Claw"
+],
+"_subject": "Depths of Cruelty#reward7"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Vicious Fang"
+],
+"_subject": "Depths of Cruelty#reward8"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"2, 4-5"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Slab of Poultry Meat"
+],
+"_subject": "Depths of Cruelty#reward9"
+}
+]
+}

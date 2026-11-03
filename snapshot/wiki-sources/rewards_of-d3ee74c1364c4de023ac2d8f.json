@@ -1,0 +1,41 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Defeat the shadow behemoth",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the shadow behemoth"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Defeat the shadow behemoth#reward1"
+},
+{
+"Has game id": [
+44361
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Defeat the shadow behemoth"
+],
+"Rewards item": [
+"Fallen Adventurer's Backpack#item135"
+],
+"_subject": "Defeat the shadow behemoth#reward2"
+}
+]
+}

@@ -1,0 +1,187 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kaineng Overlook",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"7, 14"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Kaineng Overlook#reward1"
+},
+{
+"Has game id": [
+98092
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Imperial Everbloom Sprout"
+],
+"_subject": "Kaineng Overlook#reward10"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"14"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Kaineng Overlook#reward2"
+},
+{
+"Has game id": [
+97451,
+107026
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Minister Li's Coffer"
+],
+"_subject": "Kaineng Overlook#reward3"
+},
+{
+"Has game id": [
+97063
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Thruster Control Unit"
+],
+"_subject": "Kaineng Overlook#reward4"
+},
+{
+"Has game id": [
+96333
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Notes on Blight"
+],
+"_subject": "Kaineng Overlook#reward5"
+},
+{
+"Has game id": [
+97306
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Notes on Building Flow"
+],
+"_subject": "Kaineng Overlook#reward6"
+},
+{
+"Has game id": [
+95939
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Notes on Martial Prowess"
+],
+"_subject": "Kaineng Overlook#reward7"
+},
+{
+"Has game id": [
+96419,
+107028
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Minister Li's Magnificent Coffer"
+],
+"_subject": "Kaineng Overlook#reward8"
+},
+{
+"Has game id": [
+96978
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Overlook"
+],
+"Rewards item": [
+"Antique Summoning Stone"
+],
+"_subject": "Kaineng Overlook#reward9"
+}
+]
+}

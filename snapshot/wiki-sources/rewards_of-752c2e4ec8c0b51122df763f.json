@@ -1,0 +1,115 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Wizard's Tower: Fly by Night",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+100037,
+100943
+],
+"Has rewarded item chance": [
+"Gold first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Gold"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward1"
+},
+{
+"Has game id": [
+100296,
+100464
+],
+"Has rewarded item chance": [
+"Silver first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Silver"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward2"
+},
+{
+"Has game id": [
+100670,
+100690
+],
+"Has rewarded item chance": [
+"Bronze first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Bronze"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward3"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Gold daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Gold"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward4"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Silver daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Silver"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward5"
+},
+{
+"Has game id": [
+100670,
+100690
+],
+"Has rewarded item chance": [
+"Bronze daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Wizard's Tower: Fly by Night"
+],
+"Rewards item": [
+"Fly-by-Night: Bronze"
+],
+"_subject": "Wizard's Tower: Fly by Night#reward6"
+}
+]
+}

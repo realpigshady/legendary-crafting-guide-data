@@ -1,0 +1,171 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Xunlai Jade Junkyard",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6, 12"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Xunlai Jade Junkyard#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"12"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Xunlai Jade Junkyard#reward2"
+},
+{
+"Has game id": [
+95982,
+106954
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Ankka's Coffer"
+],
+"_subject": "Xunlai Jade Junkyard#reward3"
+},
+{
+"Has game id": [
+95599
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Notes on Jade Tech"
+],
+"_subject": "Xunlai Jade Junkyard#reward4"
+},
+{
+"Has game id": [
+96377
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Notes on Shadow Magic"
+],
+"_subject": "Xunlai Jade Junkyard#reward5"
+},
+{
+"Has game id": [
+96580
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Notes on Wildlife Corruption"
+],
+"_subject": "Xunlai Jade Junkyard#reward6"
+},
+{
+"Has game id": [
+96638,
+106999
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Ankka's Magnificent Coffer"
+],
+"_subject": "Xunlai Jade Junkyard#reward7"
+},
+{
+"Has game id": [
+96978
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Antique Summoning Stone"
+],
+"_subject": "Xunlai Jade Junkyard#reward8"
+},
+{
+"Has game id": [
+98092
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Xunlai Jade Junkyard"
+],
+"Rewards item": [
+"Imperial Everbloom Sprout"
+],
+"_subject": "Xunlai Jade Junkyard#reward9"
+}
+]
+}

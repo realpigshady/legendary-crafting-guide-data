@@ -1,0 +1,135 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Old Lion's Court",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"7, 14"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Old Lion's Court#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"14"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Old Lion's Court#reward2"
+},
+{
+"Has game id": [
+99165,
+106951
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Assault Knights' Coffer"
+],
+"_subject": "Old Lion's Court#reward3"
+},
+{
+"Has game id": [
+99204,
+107132
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Assault Knights' Magnificent Coffer"
+],
+"_subject": "Old Lion's Court#reward4"
+},
+{
+"Has game id": [
+96978
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Antique Summoning Stone"
+],
+"_subject": "Old Lion's Court#reward5"
+},
+{
+"Has game id": [
+77349
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"The Lost Art of Armor Crafting"
+],
+"_subject": "Old Lion's Court#reward6"
+},
+{
+"Has game id": [
+99250
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Old Lion's Court"
+],
+"Rewards item": [
+"Ever-Spinning Clockwork"
+],
+"_subject": "Old Lion's Court#reward7"
+}
+]
+}

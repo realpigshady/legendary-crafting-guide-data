@@ -1,0 +1,167 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Forged with Fire",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+83035
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Domain of Vabbi: Hero's Choice Chest"
+],
+"_subject": "Forged with Fire#reward1"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6-10, 16-20"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Elegy Mosaic"
+],
+"_subject": "Forged with Fire#reward2"
+},
+{
+"Has game id": [
+85544
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Book of the Twins' Armor Recipes"
+],
+"_subject": "Forged with Fire#reward3"
+},
+{
+"Has game id": [
+84917
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Recipe: The Twins' Grieving Insignia"
+],
+"_subject": "Forged with Fire#reward4"
+},
+{
+"Has game id": [
+85205
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Recipe: The Twins' Grieving Inscription"
+],
+"_subject": "Forged with Fire#reward5"
+},
+{
+"Has game id": [
+84730
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Chest of the Desert Specialist"
+],
+"_subject": "Forged with Fire#reward6"
+},
+{
+"Has game id": [
+85039
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Intact Mosaic"
+],
+"_subject": "Forged with Fire#reward7"
+},
+{
+"Has game id": [
+85537
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Tales of the Great Zehtuka"
+],
+"_subject": "Forged with Fire#reward8"
+},
+{
+"Has game id": [
+85585
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forged with Fire"
+],
+"Rewards item": [
+"Stories of the Great Zehtuka"
+],
+"_subject": "Forged with Fire#reward9"
+}
+]
+}

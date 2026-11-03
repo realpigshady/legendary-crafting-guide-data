@@ -1,0 +1,41 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kill the megadestroyer before it blows everyone up",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the megadestroyer before it blows everyone up"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Kill the megadestroyer before it blows everyone up#reward1"
+},
+{
+"Has game id": [
+99242
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the megadestroyer before it blows everyone up"
+],
+"Rewards item": [
+"Purified Scale Fragment of Primordus"
+],
+"_subject": "Kill the megadestroyer before it blows everyone up#reward2"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Snowball Mayhem",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77604
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Snowball Mayhem"
+],
+"Rewards item": [
+"Wintersday Gift"
+],
+"_subject": "Snowball Mayhem#reward1"
+},
+{
+"Has game id": [
+77604
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Snowball Mayhem"
+],
+"Rewards item": [
+"Wintersday Gift"
+],
+"_subject": "Snowball Mayhem#reward2"
+}
+]
+}

@@ -1,0 +1,203 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Cold War",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Cold War#reward1"
+},
+{
+"Has game id": [
+93468
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Cache Key"
+],
+"_subject": "Cold War#reward10"
+},
+{
+"Has game id": [
+93210
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5-11"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Blue Prophet Shard"
+],
+"_subject": "Cold War#reward11"
+},
+{
+"Has game id": [
+93649
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Charr Salvage"
+],
+"_subject": "Cold War#reward2"
+},
+{
+"Has game id": [
+93455
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Rare Charr Salvage"
+],
+"_subject": "Cold War#reward3"
+},
+{
+"Has game id": [
+84731
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Piece of Unidentified Gear"
+],
+"_subject": "Cold War#reward4"
+},
+{
+"Has game id": [
+106909
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Icebrood Saga Raid Encounter Coffer"
+],
+"_subject": "Cold War#reward5"
+},
+{
+"Has game id": [
+93627
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"50"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Charr Commendation"
+],
+"_subject": "Cold War#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Cache Key"
+],
+"_subject": "Cold War#reward7"
+},
+{
+"Has game id": [
+93458
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Gilded Reliquary of the Bear"
+],
+"_subject": "Cold War#reward8"
+},
+{
+"Has game id": [
+93569
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cold War"
+],
+"Rewards item": [
+"Reliquary of the Bear Ceremonial Hood"
+],
+"_subject": "Cold War#reward9"
+}
+]
+}

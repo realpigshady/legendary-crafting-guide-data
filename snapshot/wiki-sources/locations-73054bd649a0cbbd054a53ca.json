@@ -1,0 +1,517 @@
+{
+"fetched": 1793669040.7742407,
+"item": "Dungeon",
+"kind": "locations",
+"rows": [
+{
+"Has canonical name": [
+"Aetherblade Retreat"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Kryta"
+],
+"_subject": "Aetherblade Retreat"
+},
+{
+"Has canonical name": [
+"Ascalonian Catacombs"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Ascalonian Catacombs"
+},
+{
+"Has canonical name": [
+"Ascalonian Catacombs (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Ascalonian Catacombs (explorable)"
+},
+{
+"Has canonical name": [
+"Ascalonian Catacombs (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Ascalonian Catacombs (story)"
+},
+{
+"Has canonical name": [
+"Ascent to Madness"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mad King's Realm"
+],
+"_subject": "Ascent to Madness"
+},
+{
+"Has canonical name": [
+"Canach's Lair"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Canach's Lair (dungeon)"
+},
+{
+"Has canonical name": [
+"Canach's Lair (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Canach's Lair (explorable)"
+},
+{
+"Has canonical name": [
+"Canach's Lair"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Southsun Cove"
+],
+"_subject": "Canach's Lair (story)"
+},
+{
+"Has canonical name": [
+"Caudecus's Manor"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kryta"
+],
+"_subject": "Caudecus's Manor"
+},
+{
+"Has canonical name": [
+"Caudecus's Manor (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kryta"
+],
+"_subject": "Caudecus's Manor (explorable)"
+},
+{
+"Has canonical name": [
+"Caudecus's Manor (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kryta"
+],
+"_subject": "Caudecus's Manor (story)"
+},
+{
+"Has canonical name": [
+"Citadel of Flame"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Citadel of Flame"
+},
+{
+"Has canonical name": [
+"Citadel of Flame (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Citadel of Flame (explorable)"
+},
+{
+"Has canonical name": [
+"Citadel of Flame (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ascalon"
+],
+"_subject": "Citadel of Flame (story)"
+},
+{
+"Has canonical name": [
+"Crucible of Eternity"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Crucible of Eternity"
+},
+{
+"Has canonical name": [
+"Crucible of Eternity (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Crucible of Eternity (explorable)"
+},
+{
+"Has canonical name": [
+"Crucible of Eternity (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Crucible of Eternity (story)"
+},
+{
+"Has canonical name": [
+"Fractals of the Mists"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fractals of the Mists (region)"
+],
+"_subject": "Fractals of the Mists"
+},
+{
+"Has canonical name": [
+"Honor of the Waves"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Honor of the Waves"
+},
+{
+"Has canonical name": [
+"Honor of the Waves (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Honor of the Waves (explorable)"
+},
+{
+"Has canonical name": [
+"Honor of the Waves (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Honor of the Waves (story)"
+},
+{
+"Has canonical name": [
+"Molten Facility"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Molten Facility"
+},
+{
+"Has canonical name": [
+"Scarlet's Playhouse"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"The Crown Pavilion (zone)"
+],
+"_subject": "Scarlet's Playhouse/historical"
+},
+{
+"Has canonical name": [
+"Sorrow's Embrace"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Sorrow's Embrace"
+},
+{
+"Has canonical name": [
+"Sorrow's Embrace (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Sorrow's Embrace (explorable)"
+},
+{
+"Has canonical name": [
+"Sorrow's Embrace (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shiverpeak Mountains"
+],
+"_subject": "Sorrow's Embrace (story)"
+},
+{
+"Has canonical name": [
+"Super Adventure Box"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Rata Sum"
+],
+"_subject": "Super Adventure Box"
+},
+{
+"Has canonical name": [
+"The Ruined City of Arah"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ruins of Orr"
+],
+"_subject": "The Ruined City of Arah"
+},
+{
+"Has canonical name": [
+"The Ruined City of Arah (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"THE BIG TRASH"
+],
+"_subject": "The Ruined City of Arah (explorable)"
+},
+{
+"Has canonical name": [
+"The Ruined City of Arah"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"t"
+],
+"Located in": [
+"THE BIG TRASH"
+],
+"_subject": "The Ruined City of Arah (story)"
+},
+{
+"Has canonical name": [
+"Tixx's Infinirarium"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wintersday Celebration"
+],
+"_subject": "Tixx's Infinirarium"
+},
+{
+"Has canonical name": [
+"Twilight Arbor"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Twilight Arbor"
+},
+{
+"Has canonical name": [
+"Twilight Arbor (explorable)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Twilight Arbor (explorable)"
+},
+{
+"Has canonical name": [
+"Twilight Arbor (story)"
+],
+"Has location type": [
+"Dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Maguuma Jungle"
+],
+"_subject": "Twilight Arbor (story)"
+}
+]
+}

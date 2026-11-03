@@ -1,0 +1,117 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Night and the Enemy",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+67261,
+68045,
+68522,
+71510
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Bag of Rare Gear"
+],
+"_subject": "Night and the Enemy#reward1"
+},
+{
+"Has game id": [
+75055
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Bladed Armor Box"
+],
+"_subject": "Night and the Enemy#reward2"
+},
+{
+"Has game id": [
+76010
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Airship Cargo Strap"
+],
+"_subject": "Night and the Enemy#reward3"
+},
+{
+"Has game id": [
+70827,
+86216
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"3-15"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Pact Crowbar"
+],
+"_subject": "Night and the Enemy#reward4"
+},
+{
+"Has game id": [
+67516
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "Night and the Enemy#reward5"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Night and the Enemy"
+],
+"Rewards item": [
+"Noxious Seed Pod"
+],
+"_subject": "Night and the Enemy#reward6"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Crab Toss",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+44067
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Crab Toss"
+],
+"Rewards item": [
+"Splendid Chest (Crab Toss)"
+],
+"_subject": "Crab Toss#reward1"
+},
+{
+"Has game id": [
+44066
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Crab Toss"
+],
+"Rewards item": [
+"Chest (Crab Toss)"
+],
+"_subject": "Crab Toss#reward2"
+}
+]
+}

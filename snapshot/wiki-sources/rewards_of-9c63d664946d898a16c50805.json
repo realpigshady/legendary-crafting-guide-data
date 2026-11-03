@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kaineng Blackout",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+97901
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Blackout"
+],
+"Rewards item": [
+"New Kaineng City: Hero's Choice Chest"
+],
+"_subject": "Kaineng Blackout#reward1"
+},
+{
+"Has game id": [
+97384
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kaineng Blackout"
+],
+"Rewards item": [
+"Jade Gate Statuette"
+],
+"_subject": "Kaineng Blackout#reward2"
+}
+]
+}

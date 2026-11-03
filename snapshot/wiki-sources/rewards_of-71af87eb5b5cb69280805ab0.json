@@ -1,0 +1,295 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Boneskinner",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+92316
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Raid Encounter: Lost Small Chest of Valor"
+],
+"_subject": "Boneskinner#reward1"
+},
+{
+"Has game id": [
+106909
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Icebrood Saga Raid Encounter Coffer"
+],
+"_subject": "Boneskinner#reward10"
+},
+{
+"Has game id": [
+93100
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Blessed Raven Statuette"
+],
+"_subject": "Boneskinner#reward11"
+},
+{
+"Has game id": [
+92745
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Boneskinner's Totem"
+],
+"_subject": "Boneskinner#reward12"
+},
+{
+"Has game id": [
+93244
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Essential Oil of Shadows"
+],
+"_subject": "Boneskinner#reward13"
+},
+{
+"Has game id": [
+92785
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Ice Golem's Maw Box"
+],
+"_subject": "Boneskinner#reward14"
+},
+{
+"Has game id": [
+92742
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Gilded Reliquary of the Raven"
+],
+"_subject": "Boneskinner#reward15"
+},
+{
+"Has game id": [
+93210
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-3"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Blue Prophet Shard"
+],
+"_subject": "Boneskinner#reward16"
+},
+{
+"Has game id": [
+92330
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Raid Encounter: Lost Medium Chest of Valor"
+],
+"_subject": "Boneskinner#reward2"
+},
+{
+"Has game id": [
+92697
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Raid Encounter: Lost Large Chest of Valor"
+],
+"_subject": "Boneskinner#reward3"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5, 10"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Boneskinner#reward4"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Boneskinner#reward5"
+},
+{
+"Has game id": [
+93245
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Misty Cape Scrap"
+],
+"_subject": "Boneskinner#reward6"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Boneskinner#reward7"
+},
+{
+"Has game id": [
+84731
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Piece of Unidentified Gear"
+],
+"_subject": "Boneskinner#reward8"
+},
+{
+"Has game id": [
+93781
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"9"
+],
+"Rewarded by": [
+"Boneskinner"
+],
+"Rewards item": [
+"Boneskinner Ritual Vial"
+],
+"_subject": "Boneskinner#reward9"
+}
+]
+}

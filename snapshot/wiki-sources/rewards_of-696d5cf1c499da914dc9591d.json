@@ -1,0 +1,95 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Nexus of Eternity",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+104026
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"14"
+],
+"Rewarded by": [
+"Nexus of Eternity"
+],
+"Rewards item": [
+"Gaeting Crystal"
+],
+"_subject": "Nexus of Eternity#reward1"
+},
+{
+"Has game id": [
+77330
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nexus of Eternity"
+],
+"Rewards item": [
+"Compendium of Knowledge"
+],
+"_subject": "Nexus of Eternity#reward2"
+},
+{
+"Has game id": [
+110231
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nexus of Eternity"
+],
+"Rewards item": [
+"Vloxx's Coffer"
+],
+"_subject": "Nexus of Eternity#reward3"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nexus of Eternity"
+],
+"Rewards item": [
+"Compendium of Knowledge"
+],
+"_subject": "Nexus of Eternity#reward4"
+},
+{
+"Has game id": [
+110245
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nexus of Eternity"
+],
+"Rewards item": [
+"Vloxx's Magnificent Coffer"
+],
+"_subject": "Nexus of Eternity#reward5"
+}
+]
+}

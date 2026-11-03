@@ -1,0 +1,113 @@
+{
+"fetched": 1793669049.3899643,
+"item": "The Twisted Marionette",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+49657
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Hoard of the Marionette Warden I"
+],
+"_subject": "The Twisted Marionette#reward1"
+},
+{
+"Has game id": [
+49656
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Hoard of the Marionette Warden II"
+],
+"_subject": "The Twisted Marionette#reward2"
+},
+{
+"Has game id": [
+49655
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Hoard of the Marionette Warden III"
+],
+"_subject": "The Twisted Marionette#reward3"
+},
+{
+"Has game id": [
+49654
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Hoard of the Marionette Warden IV"
+],
+"_subject": "The Twisted Marionette#reward4"
+},
+{
+"Has game id": [
+49658
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Hoard of the Marionette Warden V"
+],
+"_subject": "The Twisted Marionette#reward5"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"The Twisted Marionette"
+],
+"Rewards item": [
+"Resplendent Watchwork Box"
+],
+"_subject": "The Twisted Marionette#reward6"
+}
+]
+}

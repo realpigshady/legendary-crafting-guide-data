@@ -1,0 +1,46 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Dragon Response Mission: Lake Doric",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+92288,
+92356
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragon Response Mission: Lake Doric"
+],
+"Rewards item": [
+"Scrap of Icebrood Saga Mastery"
+],
+"_subject": "Dragon Response Mission: Lake Doric#reward1"
+},
+{
+"Has game id": [
+94353,
+94960,
+94228
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Dragon Response Mission: Lake Doric"
+],
+"Rewards item": [
+"Tyrian Defense Seal"
+],
+"_subject": "Dragon Response Mission: Lake Doric#reward2"
+}
+]
+}

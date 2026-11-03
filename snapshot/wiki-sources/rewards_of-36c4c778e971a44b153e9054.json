@@ -1,0 +1,129 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Forging Steel",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"14"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Forging Steel#reward1"
+},
+{
+"Has game id": [
+84731
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-3"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Piece of Unidentified Gear"
+],
+"_subject": "Forging Steel#reward2"
+},
+{
+"Has game id": [
+106909
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Icebrood Saga Raid Encounter Coffer"
+],
+"_subject": "Forging Steel#reward3"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Gilded Strongbox"
+],
+"_subject": "Forging Steel#reward4"
+},
+{
+"Has game id": [
+93202
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Stone Summit Glove Box"
+],
+"_subject": "Forging Steel#reward5"
+},
+{
+"Has game id": [
+93080
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Stone Summit Helm Box"
+],
+"_subject": "Forging Steel#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Forging Steel"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Forging Steel#reward7"
+}
+]
+}

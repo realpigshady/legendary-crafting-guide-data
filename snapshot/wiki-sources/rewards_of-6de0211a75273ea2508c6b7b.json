@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Dragon Response Mission: Caledon Forest",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Dragon Response Mission: Caledon Forest"
+],
+"Rewards item": [
+"Scrap of Icebrood Saga Mastery"
+],
+"_subject": "Dragon Response Mission: Caledon Forest#reward1"
+},
+{
+"Has game id": [
+94353,
+94960,
+94228
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Dragon Response Mission: Caledon Forest"
+],
+"Rewards item": [
+"Tyrian Defense Seal"
+],
+"_subject": "Dragon Response Mission: Caledon Forest#reward2"
+}
+]
+}

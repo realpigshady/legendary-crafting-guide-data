@@ -1,0 +1,132 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kinfall Fractal",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Frost Legion Infusion"
+],
+"_subject": "Kinfall Fractal#reward1"
+},
+{
+"Has game id": [
+102553
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Shocking Prod Spear"
+],
+"_subject": "Kinfall Fractal#reward2"
+},
+{
+"Has game id": [
+69862,
+39078
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Pristine Fractal Relic"
+],
+"_subject": "Kinfall Fractal#reward3"
+},
+{
+"Has game id": [
+38022
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"100"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Fractal Relic"
+],
+"_subject": "Kinfall Fractal#reward4"
+},
+{
+"Has game id": [
+94020
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"40"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Unstable Fractal Essence"
+],
+"_subject": "Kinfall Fractal#reward5"
+},
+{
+"Has game id": [
+79230
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Kinfall Fractal#reward6"
+},
+{
+"Has game id": [
+73834
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kinfall Fractal"
+],
+"Rewards item": [
+"Fractal Research Page"
+],
+"_subject": "Kinfall Fractal#reward7"
+}
+]
+}

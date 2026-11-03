@@ -1,0 +1,463 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Nightmare Fractal",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+99734
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Threat Containment"
+],
+"_subject": "Nightmare Fractal#reward1"
+},
+{
+"Has game id": [
+38023
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Glob of Coagulated Mists Essence"
+],
+"_subject": "Nightmare Fractal#reward10"
+},
+{
+"Has game id": [
+38024
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Shard of Crystallized Mists Essence"
+],
+"_subject": "Nightmare Fractal#reward11"
+},
+{
+"Has game id": [
+50057
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Static Assault Knight Power Core"
+],
+"_subject": "Nightmare Fractal#reward12"
+},
+{
+"Has game id": [
+50059
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Dynamic Assault Knight Power Core"
+],
+"_subject": "Nightmare Fractal#reward13"
+},
+{
+"Has game id": [
+50058
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Synergetic Assault Knight Power Core"
+],
+"_subject": "Nightmare Fractal#reward14"
+},
+{
+"Has game id": [
+50025
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"57-150"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Blade Shard"
+],
+"_subject": "Nightmare Fractal#reward15"
+},
+{
+"Has game id": [
+19721
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Glob of Ectoplasm"
+],
+"_subject": "Nightmare Fractal#reward16"
+},
+{
+"Has game id": [
+44941
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Watchwork Sprocket"
+],
+"_subject": "Nightmare Fractal#reward17"
+},
+{
+"Has game id": [
+79747
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Nightmare Skin Chest"
+],
+"_subject": "Nightmare Fractal#reward18"
+},
+{
+"Has game id": [
+69862,
+39078
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Pristine Fractal Relic"
+],
+"_subject": "Nightmare Fractal#reward19"
+},
+{
+"Has game id": [
+38022
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"20"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Fractal Relic"
+],
+"_subject": "Nightmare Fractal#reward2"
+},
+{
+"Has game id": [
+38022
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"80"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Fractal Relic"
+],
+"_subject": "Nightmare Fractal#reward20"
+},
+{
+"Has game id": [
+94020
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"40"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Unstable Fractal Essence"
+],
+"_subject": "Nightmare Fractal#reward21"
+},
+{
+"Has game id": [
+79230
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Integrated Fractal Matrix"
+],
+"_subject": "Nightmare Fractal#reward22"
+},
+{
+"Has game id": [
+48884
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5-10,100"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Pristine Toxic Spore Sample"
+],
+"_subject": "Nightmare Fractal#reward23"
+},
+{
+"Has game id": [
+75284
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Ascended Salvage Tool"
+],
+"_subject": "Nightmare Fractal#reward24"
+},
+{
+"Has game id": [
+73834
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Fractal Research Page"
+],
+"_subject": "Nightmare Fractal#reward25"
+},
+{
+"Has game id": [
+79489
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Fragments of the Solid Ocean"
+],
+"_subject": "Nightmare Fractal#reward3"
+},
+{
+"Has game id": [
+79430,
+79909
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Chunk of the Solid Ocean"
+],
+"_subject": "Nightmare Fractal#reward4"
+},
+{
+"Has game id": [
+79851,
+79524
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Block of the Solid Ocean"
+],
+"_subject": "Nightmare Fractal#reward5"
+},
+{
+"Has game id": [
+79543,
+79740
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Crystal Block of the Solid Ocean"
+],
+"_subject": "Nightmare Fractal#reward6"
+},
+{
+"Has game id": [
+79571,
+79788
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Female Norn Holo-Dancer"
+],
+"_subject": "Nightmare Fractal#reward7"
+},
+{
+"Has game id": [
+79535,
+79867
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Male Norn Holo-Dancer"
+],
+"_subject": "Nightmare Fractal#reward8"
+},
+{
+"Has game id": [
+38014
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Nightmare Fractal"
+],
+"Rewards item": [
+"Vial of Condensed Mists Essence"
+],
+"_subject": "Nightmare Fractal#reward9"
+}
+]
+}

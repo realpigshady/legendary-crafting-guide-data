@@ -1,0 +1,117 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Cosmic Observatory",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5, 10"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Cosmic Observatory#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Cosmic Observatory#reward2"
+},
+{
+"Has game id": [
+100068,
+107087
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Dagda's Coffer"
+],
+"_subject": "Cosmic Observatory#reward3"
+},
+{
+"Has game id": [
+100170
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Sample of Kryptis Possession"
+],
+"_subject": "Cosmic Observatory#reward4"
+},
+{
+"Has game id": [
+101172,
+106940
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Dagda's Magnificent Coffer"
+],
+"_subject": "Cosmic Observatory#reward5"
+},
+{
+"Has game id": [
+101144
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Cosmic Observatory"
+],
+"Rewards item": [
+"Vial of Cosmic Energies"
+],
+"_subject": "Cosmic Observatory#reward6"
+}
+]
+}

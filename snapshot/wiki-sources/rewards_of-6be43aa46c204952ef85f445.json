@@ -1,0 +1,136 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Battle in Tarir",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+78650,
+78748
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Auric Basin: Hero's Choice Chest"
+],
+"_subject": "Battle in Tarir#reward1"
+},
+{
+"Has game id": [
+67261,
+68045,
+68522,
+71510
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Bag of Rare Gear"
+],
+"_subject": "Battle in Tarir#reward2"
+},
+{
+"Has game id": [
+72293
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Auric Crown"
+],
+"_subject": "Battle in Tarir#reward3"
+},
+{
+"Has game id": [
+75012
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15-75"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Lump of Aurillium"
+],
+"_subject": "Battle in Tarir#reward4"
+},
+{
+"Has game id": [
+71416,
+85943
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-7"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Exalted Key"
+],
+"_subject": "Battle in Tarir#reward5"
+},
+{
+"Has game id": [
+67516
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Bag of Gear"
+],
+"_subject": "Battle in Tarir#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-5"
+],
+"Rewarded by": [
+"Battle in Tarir"
+],
+"Rewards item": [
+"Noxious Seed Pod"
+],
+"_subject": "Battle in Tarir#reward7"
+}
+]
+}

@@ -1,0 +1,352 @@
+{
+"fetched": 1793669040.7742407,
+"item": "Mini-dungeon",
+"kind": "locations",
+"rows": [
+{
+"Has canonical name": [
+"'Booter's Path"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Twisting Hollows"
+],
+"_subject": "'Booter's Path"
+},
+{
+"Has canonical name": [
+"Bad Neighborhood"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Beggar's Burrow"
+],
+"_subject": "Bad Neighborhood"
+},
+{
+"Has canonical name": [
+"Chamber of Regret"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Temple of Abnegation"
+],
+"_subject": "Chamber of Regret"
+},
+{
+"Has canonical name": [
+"Dispersed Energy"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dzasha Uplands"
+],
+"_subject": "Dispersed Energy"
+},
+{
+"Has canonical name": [
+"Don't Touch the Shiny"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ruins of the Unseen"
+],
+"_subject": "Don't Touch the Shiny"
+},
+{
+"Has canonical name": [
+"Font of Rhand"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Flame Temple Tombs"
+],
+"_subject": "Font of Rhand"
+},
+{
+"Has canonical name": [
+"Forgotten Stream"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Penitent Path"
+],
+"_subject": "Forgotten Stream"
+},
+{
+"Has canonical name": [
+"Forsaken Fortune"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Forsaken Halls"
+],
+"_subject": "Forsaken Fortune"
+},
+{
+"Has canonical name": [
+"From Ruins to Riches"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Navarium Core"
+],
+"_subject": "From Ruins to Riches"
+},
+{
+"Has canonical name": [
+"Goff's Loot"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Earthlord's Gap"
+],
+"_subject": "Goff's Loot"
+},
+{
+"Has canonical name": [
+"Grounded"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Desmina's Hallows"
+],
+"_subject": "Grounded (mini-dungeon)"
+},
+{
+"Has canonical name": [
+"Magellan's Memento"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Arundon Vale"
+],
+"_subject": "Magellan's Memento"
+},
+{
+"Has canonical name": [
+"Noran's Safe Room"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Harvest Cascades"
+],
+"_subject": "Noran's Safe Room"
+},
+{
+"Has canonical name": [
+"Melandru's Refuge"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Melandru's Refuge"
+],
+"_subject": "Not All Who Wander Are Lost"
+},
+{
+"Has canonical name": [
+"Rebel's Seclusion"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Rebel's Seclusion"
+],
+"_subject": "Rebel's Seclusion (mini-dungeon)"
+},
+{
+"Has canonical name": [
+"Sanctum of Nabkha"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Kusini Crossing"
+],
+"_subject": "Sanctum of Nabkha (mini-dungeon)"
+},
+{
+"Has canonical name": [
+"Ship of Sorrows"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Strait of Malediction"
+],
+"_subject": "Ship of Sorrows"
+},
+{
+"Has canonical name": [
+"Tears of Itlaocol"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Wychmire Swamp"
+],
+"_subject": "Tears of Itlaocol"
+},
+{
+"Has canonical name": [
+"The Long Way Around"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Terzetto Bay"
+],
+"_subject": "The Long Way Around"
+},
+{
+"Has canonical name": [
+"Trial of the Elders"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Silent Surf"
+],
+"_subject": "Trial of the Elders"
+},
+{
+"Has canonical name": [
+"Valdhertz Crypts"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Quarry Forelands"
+],
+"_subject": "Valdhertz Crypts (mini-dungeon)"
+},
+{
+"Has canonical name": [
+"Vasburg Armory"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Melandru's Hope"
+],
+"_subject": "Vasburg Armory (mini-dungeon)"
+},
+{
+"Has canonical name": [
+"Windy Cave Treasure"
+],
+"Has location type": [
+"Mini-dungeon"
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Mistriven Gorge"
+],
+"_subject": "Windy Cave Treasure"
+}
+]
+}

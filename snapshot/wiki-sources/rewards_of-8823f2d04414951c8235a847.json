@@ -1,0 +1,365 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Shiverpeaks Pass",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"8"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Shiverpeaks Pass#reward1"
+},
+{
+"Has game id": [
+24773
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Platinum Doubloon"
+],
+"_subject": "Shiverpeaks Pass#reward10"
+},
+{
+"Has game id": [
+24508
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Ruby Orb"
+],
+"_subject": "Shiverpeaks Pass#reward11"
+},
+{
+"Has game id": [
+24516
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Sapphire Orb"
+],
+"_subject": "Shiverpeaks Pass#reward12"
+},
+{
+"Has game id": [
+106909
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Icebrood Saga Raid Encounter Coffer"
+],
+"_subject": "Shiverpeaks Pass#reward13"
+},
+{
+"Has game id": [
+92072
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"9"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Hatched Chili"
+],
+"_subject": "Shiverpeaks Pass#reward14"
+},
+{
+"Has game id": [
+84731
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Piece of Unidentified Gear"
+],
+"_subject": "Shiverpeaks Pass#reward15"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"300"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Volatile Magic"
+],
+"_subject": "Shiverpeaks Pass#reward16"
+},
+{
+"Has game id": [
+93239
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Frozen Spark of Life"
+],
+"_subject": "Shiverpeaks Pass#reward17"
+},
+{
+"Has game id": [
+91945
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Shoulders of the Ebon Vanguard Choice Chest"
+],
+"_subject": "Shiverpeaks Pass#reward18"
+},
+{
+"Has game id": [
+91910
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Seal of the Chilly Chaise"
+],
+"_subject": "Shiverpeaks Pass#reward19"
+},
+{
+"Has game id": [
+72436
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Agate Orb"
+],
+"_subject": "Shiverpeaks Pass#reward2"
+},
+{
+"Has game id": [
+92054
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Hatched Chili Pepper Home Instance Node"
+],
+"_subject": "Shiverpeaks Pass#reward20"
+},
+{
+"Has game id": [
+24520
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Beryl Orb"
+],
+"_subject": "Shiverpeaks Pass#reward3"
+},
+{
+"Has game id": [
+24512
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Chrysocola Orb"
+],
+"_subject": "Shiverpeaks Pass#reward4"
+},
+{
+"Has game id": [
+24510
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Coral Orb"
+],
+"_subject": "Shiverpeaks Pass#reward5"
+},
+{
+"Has game id": [
+75654
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Ebony Orb"
+],
+"_subject": "Shiverpeaks Pass#reward6"
+},
+{
+"Has game id": [
+72504
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Moonstone Orb"
+],
+"_subject": "Shiverpeaks Pass#reward7"
+},
+{
+"Has game id": [
+24522
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Opal Orb"
+],
+"_subject": "Shiverpeaks Pass#reward8"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Shiverpeaks Pass"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Shiverpeaks Pass#reward9"
+}
+]
+}

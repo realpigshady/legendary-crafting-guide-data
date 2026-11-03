@@ -1,0 +1,115 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Skyscale Target Practice in the Wizard's Tower",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+100324,
+100022
+],
+"Has rewarded item chance": [
+"Gold first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Gold"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward1"
+},
+{
+"Has game id": [
+100902,
+100853
+],
+"Has rewarded item chance": [
+"Silver first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Silver"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward2"
+},
+{
+"Has game id": [
+100195,
+100826
+],
+"Has rewarded item chance": [
+"Bronze first-time"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Bronze"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward3"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Gold daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Gold"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward4"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Silver daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Silver"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward5"
+},
+{
+"Has game id": [
+100195,
+100826
+],
+"Has rewarded item chance": [
+"Bronze daily"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Skyscale Target Practice in the Wizard's Tower"
+],
+"Rewards item": [
+"Skyscale Target Practice: Bronze"
+],
+"_subject": "Skyscale Target Practice in the Wizard's Tower#reward6"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Bell Choir Ensemble",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77604
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2, 5, 7-8"
+],
+"Rewarded by": [
+"Bell Choir Ensemble"
+],
+"Rewards item": [
+"Wintersday Gift"
+],
+"_subject": "Bell Choir Ensemble#reward1"
+},
+{
+"Has game id": [
+99956
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Bell Choir Ensemble"
+],
+"Rewards item": [
+"Enchanted Music Box"
+],
+"_subject": "Bell Choir Ensemble#reward2"
+}
+]
+}

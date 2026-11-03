@@ -1,0 +1,219 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Secrets of the Weald",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+105822
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Castora: Hero's Choice Chest"
+],
+"_subject": "Secrets of the Weald#reward1"
+},
+{
+"Has game id": [
+106748
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Castoran Cache of Riches"
+],
+"_subject": "Secrets of the Weald#reward10"
+},
+{
+"Has game id": [
+106445
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Starlit Weald Renown Token"
+],
+"_subject": "Secrets of the Weald#reward11"
+},
+{
+"Has game id": [
+105988
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Concealed Microthruster"
+],
+"_subject": "Secrets of the Weald#reward12"
+},
+{
+"Has game id": [
+106379
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Extremis Token: Coat"
+],
+"_subject": "Secrets of the Weald#reward2"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2-4"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Secrets of the Weald#reward3"
+},
+{
+"Has game id": [
+38030
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Drip of Liquid Karma"
+],
+"_subject": "Secrets of the Weald#reward4"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Bag of Coins"
+],
+"_subject": "Secrets of the Weald#reward5"
+},
+{
+"Has game id": [
+106689
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Shred of Castora Mastery"
+],
+"_subject": "Secrets of the Weald#reward6"
+},
+{
+"Has game id": [
+105686
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Raw Enchanting Stone"
+],
+"_subject": "Secrets of the Weald#reward7"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Starlit Weald Renown Token"
+],
+"_subject": "Secrets of the Weald#reward8"
+},
+{
+"Has game id": [
+105997
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Secrets of the Weald"
+],
+"Rewards item": [
+"Castora Cache"
+],
+"_subject": "Secrets of the Weald#reward9"
+}
+]
+}

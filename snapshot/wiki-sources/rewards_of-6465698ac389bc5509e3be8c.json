@@ -1,0 +1,489 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Dragonstorm",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"2"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Dragonstorm#reward1"
+},
+{
+"Has game id": [
+94982
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Pristine Dragon's Right Eye"
+],
+"_subject": "Dragonstorm#reward10"
+},
+{
+"Has game id": [
+94298
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Volcanic Stormcaller Weapon Box"
+],
+"_subject": "Dragonstorm#reward11"
+},
+{
+"Has game id": [
+94317
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Berserker's Volcanic Stormcaller Axe"
+],
+"_subject": "Dragonstorm#reward12"
+},
+{
+"Has game id": [
+94312
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Assassin's Volcanic Stormcaller Dagger"
+],
+"_subject": "Dragonstorm#reward13"
+},
+{
+"Has game id": [
+94274
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Cleric's Volcanic Stormcaller Focus"
+],
+"_subject": "Dragonstorm#reward14"
+},
+{
+"Has game id": [
+94329
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Berserker's Volcanic Stormcaller Greatsword"
+],
+"_subject": "Dragonstorm#reward15"
+},
+{
+"Has game id": [
+94321
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Knight's Volcanic Stormcaller Hammer"
+],
+"_subject": "Dragonstorm#reward16"
+},
+{
+"Has game id": [
+94170
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Berserker's Volcanic Stormcaller Longbow"
+],
+"_subject": "Dragonstorm#reward17"
+},
+{
+"Has game id": [
+94225
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Knight's Volcanic Stormcaller Mace"
+],
+"_subject": "Dragonstorm#reward18"
+},
+{
+"Has game id": [
+94234
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Assassin's Volcanic Stormcaller Pistol"
+],
+"_subject": "Dragonstorm#reward19"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Scrap of Icebrood Saga Mastery"
+],
+"_subject": "Dragonstorm#reward2"
+},
+{
+"Has game id": [
+94328
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Knight's Volcanic Stormcaller Rifle"
+],
+"_subject": "Dragonstorm#reward20"
+},
+{
+"Has game id": [
+94266
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Cleric's Volcanic Stormcaller Scepter"
+],
+"_subject": "Dragonstorm#reward21"
+},
+{
+"Has game id": [
+94242
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Knight's Volcanic Stormcaller Shield"
+],
+"_subject": "Dragonstorm#reward22"
+},
+{
+"Has game id": [
+94255
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Assassin's Volcanic Stormcaller Short Bow"
+],
+"_subject": "Dragonstorm#reward23"
+},
+{
+"Has game id": [
+94326
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Cleric's Volcanic Stormcaller Staff"
+],
+"_subject": "Dragonstorm#reward24"
+},
+{
+"Has game id": [
+94290
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Assassin's Volcanic Stormcaller Sword"
+],
+"_subject": "Dragonstorm#reward25"
+},
+{
+"Has game id": [
+94345
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Cleric's Volcanic Stormcaller Torch"
+],
+"_subject": "Dragonstorm#reward26"
+},
+{
+"Has game id": [
+94237
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Berserker's Volcanic Stormcaller Warhorn"
+],
+"_subject": "Dragonstorm#reward27"
+},
+{
+"Has game id": [
+94163
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Prismaticite Crystal"
+],
+"_subject": "Dragonstorm#reward3"
+},
+{
+"Has game id": [
+96088
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Memory of Aurene"
+],
+"_subject": "Dragonstorm#reward4"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Tyrian Defense Seal"
+],
+"_subject": "Dragonstorm#reward5"
+},
+{
+"Has game id": [
+46733
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"20-30"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Dragonite Ore"
+],
+"_subject": "Dragonstorm#reward6"
+},
+{
+"Has game id": [
+94933
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Frostsaw"
+],
+"_subject": "Dragonstorm#reward7"
+},
+{
+"Has game id": [
+90519
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Gift of Aurene (container)"
+],
+"_subject": "Dragonstorm#reward8"
+},
+{
+"Has game id": [
+94945
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragonstorm"
+],
+"Rewards item": [
+"Pristine Dragon's Left Eye"
+],
+"_subject": "Dragonstorm#reward9"
+}
+]
+}

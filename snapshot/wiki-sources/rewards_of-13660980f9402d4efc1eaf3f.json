@@ -1,0 +1,171 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Aetherblade Hideout",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4, 8"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Aetherblade Hideout#reward1"
+},
+{
+"Has game id": [
+77378
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"8"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Magnetite Shard"
+],
+"_subject": "Aetherblade Hideout#reward2"
+},
+{
+"Has game id": [
+95638,
+107067
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Mai Trin's Coffer"
+],
+"_subject": "Aetherblade Hideout#reward3"
+},
+{
+"Has game id": [
+97331
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Notes on Celestial Spheres"
+],
+"_subject": "Aetherblade Hideout#reward4"
+},
+{
+"Has game id": [
+96957
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Notes on Dual Identities"
+],
+"_subject": "Aetherblade Hideout#reward5"
+},
+{
+"Has game id": [
+97517
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Notes on Legend Channeling"
+],
+"_subject": "Aetherblade Hideout#reward6"
+},
+{
+"Has game id": [
+97269,
+106935
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Mai Trin's Magnificent Coffer"
+],
+"_subject": "Aetherblade Hideout#reward7"
+},
+{
+"Has game id": [
+96978
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Antique Summoning Stone"
+],
+"_subject": "Aetherblade Hideout#reward8"
+},
+{
+"Has game id": [
+98092
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Aetherblade Hideout"
+],
+"Rewards item": [
+"Imperial Everbloom Sprout"
+],
+"_subject": "Aetherblade Hideout#reward9"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Keg Brawl",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+44060
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Keg Brawl"
+],
+"Rewards item": [
+"Splendid Chest (Keg Brawl)"
+],
+"_subject": "Keg Brawl#reward1"
+},
+{
+"Has game id": [
+44059
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Keg Brawl"
+],
+"Rewards item": [
+"Chest (Keg Brawl)"
+],
+"_subject": "Keg Brawl#reward2"
+}
+]
+}

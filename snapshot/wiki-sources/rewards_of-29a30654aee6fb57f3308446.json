@@ -1,0 +1,59 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kill the Svanir shaman chief to break his control over the ice elemental",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+71950
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the Svanir shaman chief to break his control over the ice elemental"
+],
+"Rewards item": [
+"Assassinate the Svanir Shaman Chief"
+],
+"_subject": "Kill the Svanir shaman chief to break his control over the ice elemental#reward1"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill the Svanir shaman chief to break his control over the ice elemental"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Kill the Svanir shaman chief to break his control over the ice elemental#reward2"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"4"
+],
+"Rewarded by": [
+"Kill the Svanir shaman chief to break his control over the ice elemental"
+],
+"Rewards item": [
+"Icy Strongbox"
+],
+"_subject": "Kill the Svanir shaman chief to break his control over the ice elemental#reward3"
+}
+]
+}

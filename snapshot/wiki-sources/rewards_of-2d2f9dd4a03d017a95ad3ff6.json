@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Kill Admiral Taidha Covington",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+75485
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill Admiral Taidha Covington"
+],
+"Rewards item": [
+"Assassinate Taidha Covington"
+],
+"_subject": "Kill Admiral Taidha Covington#reward1"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Kill Admiral Taidha Covington"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Kill Admiral Taidha Covington#reward2"
+}
+]
+}

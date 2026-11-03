@@ -1,0 +1,163 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Ascent to Madness",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+36040
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"10 Slot Trick-or-Treat Bag"
+],
+"_subject": "Ascent to Madness#reward1"
+},
+{
+"Has game id": [
+36061
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Nougat Center"
+],
+"_subject": "Ascent to Madness#reward2"
+},
+{
+"Has game id": [
+36060
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Chattering Skull"
+],
+"_subject": "Ascent to Madness#reward3"
+},
+{
+"Has game id": [
+36059
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Plastic Fangs"
+],
+"_subject": "Ascent to Madness#reward4"
+},
+{
+"Has game id": [
+36039
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Personalized Trick-or-Treat Bag"
+],
+"_subject": "Ascent to Madness#reward5"
+},
+{
+"Has game id": [
+36039
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Personalized Trick-or-Treat Bag"
+],
+"_subject": "Ascent to Madness#reward6"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Nougat Center"
+],
+"_subject": "Ascent to Madness#reward7"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Chattering Skull"
+],
+"_subject": "Ascent to Madness#reward8"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Ascent to Madness"
+],
+"Rewards item": [
+"Plastic Fangs"
+],
+"_subject": "Ascent to Madness#reward9"
+}
+]
+}

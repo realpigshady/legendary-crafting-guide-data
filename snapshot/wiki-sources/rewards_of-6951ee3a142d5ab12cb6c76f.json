@@ -1,0 +1,167 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Maws of Torment",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+84360
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"The Desolation: Hero's Choice Chest"
+],
+"_subject": "Maws of Torment#reward1"
+},
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"6-10, 16-20"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Elegy Mosaic"
+],
+"_subject": "Maws of Torment#reward2"
+},
+{
+"Has game id": [
+85039
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Intact Mosaic"
+],
+"_subject": "Maws of Torment#reward3"
+},
+{
+"Has game id": [
+84730
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Chest of the Desert Specialist"
+],
+"_subject": "Maws of Torment#reward4"
+},
+{
+"Has game id": [
+84917
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Recipe: The Twins' Grieving Insignia"
+],
+"_subject": "Maws of Torment#reward5"
+},
+{
+"Has game id": [
+85205
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Recipe: The Twins' Grieving Inscription"
+],
+"_subject": "Maws of Torment#reward6"
+},
+{
+"Has game id": [
+85537
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Tales of the Great Zehtuka"
+],
+"_subject": "Maws of Torment#reward7"
+},
+{
+"Has game id": [
+85585
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Stories of the Great Zehtuka"
+],
+"_subject": "Maws of Torment#reward8"
+},
+{
+"Has game id": [
+87148
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Maws of Torment"
+],
+"Rewards item": [
+"Ghiwane's Music Box (Tradable)"
+],
+"_subject": "Maws of Torment#reward9"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Defeat Ulgoth the Modniir and his minions",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+73659
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat Ulgoth the Modniir and his minions"
+],
+"Rewards item": [
+"Assassinate Modniir Ulgoth"
+],
+"_subject": "Defeat Ulgoth the Modniir and his minions#reward1"
+},
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat Ulgoth the Modniir and his minions"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Defeat Ulgoth the Modniir and his minions#reward2"
+}
+]
+}

@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Solitary Throne Fractal",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [
+109975
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Solitary Throne Fractal"
+],
+"Rewards item": [
+"The Tyrant's Absolute Oppression"
+],
+"_subject": "Solitary Throne Fractal#reward1"
+},
+{
+"Has game id": [
+110157
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Solitary Throne Fractal"
+],
+"Rewards item": [
+"The Tyrant's Justification"
+],
+"_subject": "Solitary Throne Fractal#reward2"
+}
+]
+}

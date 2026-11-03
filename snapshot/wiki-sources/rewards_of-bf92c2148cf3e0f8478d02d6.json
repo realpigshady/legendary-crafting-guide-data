@@ -1,0 +1,43 @@
+{
+"fetched": 1793669049.3899643,
+"item": "Dragon Response Mission: Brisban Wildlands",
+"kind": "rewards_of",
+"rows": [
+{
+"Has game id": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Dragon Response Mission: Brisban Wildlands"
+],
+"Rewards item": [
+"Scrap of Icebrood Saga Mastery"
+],
+"_subject": "Dragon Response Mission: Brisban Wildlands#reward1"
+},
+{
+"Has game id": [
+94353,
+94960,
+94228
+],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Dragon Response Mission: Brisban Wildlands"
+],
+"Rewards item": [
+"Tyrian Defense Seal"
+],
+"_subject": "Dragon Response Mission: Brisban Wildlands#reward2"
+}
+]
+}
