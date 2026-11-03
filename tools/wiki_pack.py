@@ -142,7 +142,8 @@ def parse_recipe(params: dict[str, str]) -> dict | None:
         inputs.append({"name": clean_name(name), "count": count})
     if not inputs:
         return None
-    kind = "mystic_forge" if "mystic forge" in source else "craft" if source in ("automatic", "discovery", "recipe sheet") else "other"
+    # wiki spellings: "mystic forge" / "mystic"; "recipe sheet" / "sheet", "automatic", "discovery"
+    kind = "mystic_forge" if source.startswith("mystic") else "craft" if source in ("automatic", "discovery", "recipe sheet", "sheet") else "other"
     try:
         out_count = max(1, int(params.get("quantity", "1") or 1))
     except ValueError:

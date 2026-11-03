@@ -165,3 +165,9 @@ def test_clean_name_drops_stuck_counts():
     assert wp.clean_name("1 Essence of Llamatic Elegance") == "Essence of Llamatic Elegance"
     assert wp.clean_name("[[Mystic Coin]]") == "Mystic Coin"
     assert wp.clean_name("1st Birthday Gift") == "1st Birthday Gift"
+
+
+def test_recipe_source_spellings():
+    r = wp.parse_recipe({"source": "mystic", "ingredient1": "1 Gift of Energy"})
+    assert r["kind"] == "mystic_forge"
+    assert wp.parse_recipe({"source": "sheet", "ingredient1": "1 Mithril Ingot"})["kind"] == "craft"
