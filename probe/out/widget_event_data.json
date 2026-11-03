@@ -1,0 +1,12 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Widget:Event timer/data.json"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}
