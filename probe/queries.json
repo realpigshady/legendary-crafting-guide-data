@@ -1,22 +1,12 @@
 {
- "cat_strikes": {
-  "action": "ask",
-  "query": "[[Category:Strike missions]]|?Has location type|limit=100"
- },
- "cat_convergences": {
-  "action": "ask",
-  "query": "[[Category:Convergences]]|?Has location type|limit=50"
- },
- "cat_search": {
+ "strike_cats": {
   "action": "query",
-  "list": "allcategories",
-  "acprefix": "Strike",
-  "aclimit": "20"
+  "prop": "categories",
+  "cllimit": "50",
+  "titles": "Old Lion's Court|Shiverpeaks Pass|Harvest Temple|Cosmic Observatory"
  },
- "cat_search2": {
-  "action": "query",
-  "list": "allcategories",
-  "acprefix": "Convergence",
-  "aclimit": "20"
+ "strike_browse": {
+  "action": "browsebysubject",
+  "subject": "Harvest Temple"
  }
 }
