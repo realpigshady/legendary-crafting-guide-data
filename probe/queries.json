@@ -1,48 +1,15 @@
 {
- "tpl_achievement_list": {
+ "page_event_timers": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
-  "titles": "Template:Achievement list"
+  "titles": "Event timers"
  },
- "tpl_rewards_item": {
+ "tpl_list": {
   "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "titles": "Template:Rewards item"
- },
- "ask_vendor_multi": {
-  "action": "ask",
-  "query": "[[Sells item::Mystic Runestone||Gift of Glory||Funerary Incense||Philosopher's Stone||Gift of the Raven Spirit]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|?Has vendor anchor|limit=200"
- },
- "ask_rewards_tarir": {
-  "action": "ask",
-  "query": "[[Rewards item::Gift of Tarir||Gift of Battle||Essence of Time and Space||Spirit of the Ravenswood Staff]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=200"
- },
- "ask_ach_raven": {
-  "action": "ask",
-  "query": "[[Has achievement reward::Gift of the Raven Spirit]]|?Has game id|?Has achievement reward|limit=20"
- },
- "ask_rt_battle": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Gift of Battle;?;?;?]]|?Contains item in reward track|limit=20"
- },
- "ask_salvage_spirit": {
-  "action": "ask",
-  "query": "[[Salvages into::Spirit of the Ravenswood Staff]]|?Has game id|limit=20"
- },
- "ask_recipe_spirit": {
-  "action": "ask",
-  "query": "[[Has context::Recipe]][[Has recipe output::Spirit of the Ravenswood Staff]]|?Has recipe output|?Has ingredient|?Has discipline|limit=20"
- },
- "browse_ach_nevermore3": {
-  "action": "browsebysubject",
-  "subject": "Nevermore III: The Raven Staff"
- },
- "browse_ravenswood_staff": {
-  "action": "browsebysubject",
-  "subject": "Ravenswood Staff"
+  "prop": "templates",
+  "tllimit": "100",
+  "titles": "Event timers"
  }
 }
