@@ -186,8 +186,10 @@ class Http:
             time.sleep(wait)
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         try:
-            for attempt in range(4):
+            for attempt in range(6):
                 try:
+                    if attempt:
+                        self._last = time.monotonic()
                     with urllib.request.urlopen(req, timeout=30) as r:
                         raw = r.read().decode("utf-8", errors="replace")
                         try:
@@ -197,10 +199,12 @@ class Http:
                             snippet = " ".join(raw[:200].split())
                             raise ValueError(f"HTTP {r.status} {r.headers.get('Content-Type', '?')}, not JSON: {snippet!r}") from None
                 except Exception as e:  # noqa: BLE001 - retry any transport error
-                    if attempt == 3:
+                    if attempt == 5:
                         raise
-                    print(f"  retry {attempt + 1} for {url}: {e}", file=sys.stderr)
-                    time.sleep(2 ** attempt * 2)
+                    limited = isinstance(e, urllib.error.HTTPError) and e.code in (403, 429, 502, 503, 504)
+                    pause = min(300, 15 * 2 ** attempt) if limited else 2 ** attempt * 2   # rate limit: long backoff
+                    print(f"  retry {attempt + 1} for {url} in {pause}s: {e}", file=sys.stderr)
+                    time.sleep(pause)
         finally:
             self._last = time.monotonic()
 
