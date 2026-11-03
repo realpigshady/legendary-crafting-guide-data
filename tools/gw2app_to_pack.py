@@ -100,7 +100,8 @@ def main() -> None:
             elif h.startswith("/currencies?"):
                 cname = urllib.parse.parse_qs(urllib.parse.urlparse(h).query).get("filter", [""])[0]
                 if cname in cur_ids and count:
-                    cur.append({"node_id": currency_node(cur_ids[cname], cname), "count": count})
+                    # gw2.app writes coin costs in gold ("1" = 1g); the pack counts coin in copper
+                    cur.append({"node_id": currency_node(cur_ids[cname], cname), "count": count * 10000 if cname == "Coin" else count})
                 elif cname:
                     unknown_currencies.add(cname)
                     bad.add(id(cur))   # a cost we can't name: drop the whole offer, never under-price it

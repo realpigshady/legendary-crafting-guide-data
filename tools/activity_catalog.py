@@ -89,6 +89,7 @@ def timed(events: dict) -> list[dict]:
                         "mode": "pvp" if key in ("core-ateu", "core-atna") else "pve",
                         "expansion": EXPANSION.get(key.split("-")[0], "core"),
                         "est_minutes": int(statistics.median(d for _, d in bl)),
+                        "max_runs_per_day": 1,   # guaranteed event rewards are once a day
                         "starts_utc": starts, "yields": [], "guidance": g, "_page": page})
     return out
 
