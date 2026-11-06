@@ -55,6 +55,9 @@ def test_tag():
         {"id": "loc:fractal", "name": "Fractal", "_cats": ["Category:Fractals"]},
         {"id": "rt:halloween_reward_track:pvp", "name": "Halloween Reward Track (PvP)"},
         {"id": "wiki:queensdale", "name": "Queensdale"},
+        {"id": "rt:super_adventure_reward_track:wvw", "name": "Super Adventure Reward Track (WvW)"},
+        {"id": "rt:ascalon_reward_track:pvp", "name": "Ascalon Reward Track (PvP)"},
+        {"id": "wiki:wintersday_gifts", "name": "Wintersday Gifts"},
     ]
     v = lambda npc, locs, req=(): {"npc": npc, "locations": list(locs), "requires": list(req)}
     nodes = [{"id": "item:1", "sources": [
@@ -74,7 +77,8 @@ def test_tag():
 
     st = fe.tag(acts, nodes, cats_of)
     assert "Toypocalypse" not in asked                       # places carry their categories
-    assert [a.get("festival") for a in acts] == ["Festival of the Four Winds", "Dragon Bash", "Wintersday", None, "Halloween", None]
+    assert [a.get("festival") for a in acts] == ["Festival of the Four Winds", "Dragon Bash", "Wintersday", None, "Halloween", None,
+                                                 "Super Adventure Festival", None, None]
     s = nodes[0]["sources"]
     assert s[0]["festival"] == "Festival of the Four Winds"   # every location is festival content
     assert "festival" not in s[1]                             # a year-round vendor sells it too

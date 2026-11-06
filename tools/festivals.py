@@ -11,7 +11,9 @@ Festival of the Four Winds, Halloween, Wintersday).
               activities  the activity's own page (places: the categories stored with the
                           location query; event timer phases: the phase's page, else the
                           timer map, which for Dragon Bash and Halloween is the festival
-                          itself; reward tracks and 'rewarded by' pages: their page)
+                          itself; 'rewarded by' pages: their page). Festival reward tracks
+                          have no such category: a track whose title starts with a prefix
+                          in config/festivals.json (reward_track_prefixes) is tagged.
               vendors     an explicit wiki requirement "the festival X", else every listed
                           location being festival content of the same festival, else (no
                           location listed) the NPC page's festival category
@@ -34,6 +36,7 @@ FESTIVALS: list[str] = CONFIG["festivals"]
 TEMPORARY = "Temporary content"
 WIKI = "https://wiki.guildwars2.com/wiki/"
 _CANON = {f.lower(): f for f in FESTIVALS}
+TRACK_PREFIXES: dict[str, list[str]] = CONFIG.get("reward_track_prefixes", {})
 
 _RELEASE = re.compile(
     r"^\*\s*\[\[([^\]|]+)(?:\|[^\]]*)?\]\][^\n]*?<small>\(\s*(\d{4}-\d{2}-\d{2})\s*[—–-]+\s*(\d{4}-\d{2}-\d{2})?\s*\)</small>",
@@ -86,6 +89,16 @@ def festival_of(cats, *, need_temporary: bool = True) -> str | None:
     return hits[0]
 
 
+def track_festival(a: dict) -> str | None:
+    """A reward track (rt:) named after a festival: festival tracks have no festival category on the wiki."""
+    if not a["id"].startswith("rt:"):
+        return None
+    for f, prefixes in TRACK_PREFIXES.items():
+        if any(a["name"].lower().startswith(x.lower() + " ") for x in prefixes):
+            return f
+    return None
+
+
 def _page_of(a: dict) -> str:
     if a.get("_page"):
         return a["_page"]
@@ -126,7 +139,8 @@ def tag(activities: list[dict], nodes: list[dict], cats_of) -> dict:
         if "_cats" in a:
             f = festival_of(a["_cats"])
         else:
-            f = page_fest(_page_of(a)) or (page_fest(a["_map"]) if a.get("_map") else None)
+            f = (page_fest(_page_of(a)) or (page_fest(a["_map"]) if a.get("_map") else None)
+                 or track_festival(a))
         if f:
             a["festival"] = f
             stats[f]["activities"] += 1

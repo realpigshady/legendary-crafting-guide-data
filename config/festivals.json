@@ -1,5 +1,5 @@
 {
-  "_doc": "Recurring GW2 festivals, by their wiki page title. Each page's '== Releases ==' list gives the windows; pages in the category of the same name (plus Category:Temporary content) are festival content. See tools/festivals.py.",
+  "_doc": "Recurring GW2 festivals, by their wiki page title. Each page's '== Releases ==' list gives the windows; pages in the category of the same name (plus Category:Temporary content) are festival content. Festival reward tracks carry no festival category on the wiki, so they are matched by the title prefixes below (reward track pages only). See tools/festivals.py.",
   "festivals": [
     "Lunar New Year",
     "Super Adventure Festival",
@@ -7,5 +7,13 @@
     "Festival of the Four Winds",
     "Halloween",
     "Wintersday"
-  ]
+  ],
+  "reward_track_prefixes": {
+    "Lunar New Year": ["Lunar New Year"],
+    "Super Adventure Festival": ["Super Adventure"],
+    "Dragon Bash": ["Dragon Bash"],
+    "Festival of the Four Winds": ["Festival of the Four Winds"],
+    "Halloween": ["Halloween"],
+    "Wintersday": ["Wintersday"]
+  }
 }
