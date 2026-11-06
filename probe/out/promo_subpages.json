@@ -1,0 +1,15 @@
+{
+ "params": {
+  "action": "query",
+  "list": "allpages",
+  "apprefix": "Material promotion",
+  "apnamespace": "0",
+  "aplimit": "50"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "allpages": []
+  }
+ }
+}

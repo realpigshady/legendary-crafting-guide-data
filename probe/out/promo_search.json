@@ -1,0 +1,19 @@
+{
+ "params": {
+  "action": "query",
+  "list": "search",
+  "srsearch": "promotion intitle:\"Drop rate\"",
+  "srnamespace": "0",
+  "srlimit": "100",
+  "srprop": ""
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "searchinfo": {
+    "totalhits": 0
+   },
+   "search": []
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "params": {
+  "action": "query",
+  "list": "search",
+  "srsearch": "\"material promotion\" average",
+  "srnamespace": "0",
+  "srlimit": "50",
+  "srprop": ""
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "searchinfo": {
+    "totalhits": 3
+   },
+   "search": [
+    {
+     "ns": 0,
+     "title": "Mystic Forge",
+     "pageid": 35591
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Forge/Material Promotion",
+     "pageid": 108199
+    },
+    {
+     "ns": 0,
+     "title": "Tips",
+     "pageid": 60284
+    }
+   ]
+  }
+ }
+}

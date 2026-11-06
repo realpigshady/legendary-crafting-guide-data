@@ -1,0 +1,87 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "info",
+  "redirects": "1",
+  "titles": "Vicious Claw/Drop rate|Orichalcum Ingot/Drop rate|Ancient Wood Plank/Drop rate|Pile of Crystalline Dust/Drop rate|Ancient Bone/Drop rate|Mithril Ingot/Drop rate|Obsidian Shard/Drop rate|Material promotion/Drop rate"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "ns": 0,
+     "title": "Material promotion/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Obsidian Shard/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Mithril Ingot/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Ancient Bone/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Pile of Crystalline Dust/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Ancient Wood Plank/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Orichalcum Ingot/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    },
+    {
+     "ns": 0,
+     "title": "Vicious Claw/Drop rate",
+     "missing": true,
+     "contentmodel": "wikitext",
+     "pagelanguage": "en",
+     "pagelanguagehtmlcode": "en",
+     "pagelanguagedir": "ltr"
+    }
+   ]
+  }
+ }
+}
