@@ -1,0 +1,14 @@
+{
+  "_note": "Random Mystic Forge recipes with wiki drop research (tools/forge_outcomes.py). research: the <item>/Drop rate page. pool_tables: pool every research table on the page (the clover page has one for each recipe; the wiki says both have the same odds). split: a research column naming a group, spread evenly over these items. self_columns: research columns that are the item itself -> quantity (when no column links to the item).",
+  "items": {
+    "Mystic Clover": {
+      "research": "Mystic Clover/Drop rate",
+      "pool_tables": true,
+      "split": {"Lodestone": ["Corrupted Lodestone", "Crystal Lodestone", "Destroyer Lodestone"]}
+    },
+    "Mystic Facet": {
+      "research": "Mystic Facet/Drop rate",
+      "self_columns": {"one": 1, "five": 5}
+    }
+  }
+}

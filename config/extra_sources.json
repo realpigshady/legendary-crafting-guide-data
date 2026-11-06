@@ -1,0 +1,18 @@
+{
+  "_note": "Sources the general walk rules miss (they only look for boxes, tracks and places on bound items nothing crafts). Per item: containers = boxes (wiki 'Contains item') to add as open_container sources, walked like other boxes; reward_track_table = read the item page's '=== Reward tracks ===' table into reward-track activities (untimed: track times are parked). repeatable_achievements: achievement names (regex) whose reward can be earned again; the source gets repeatable: true.",
+  "items": {
+    "Mystic Clover": {
+      "containers": [
+        "Chest of Legendary Crafting Materials",
+        "Ash Legion Reward Box",
+        "Blood Legion Reward Box",
+        "Flame Legion Reward Box",
+        "Iron Legion Reward Box",
+        "Dominion Spoils Box",
+        "Frost Legion Spoils Box"
+      ],
+      "reward_track_table": true
+    }
+  },
+  "repeatable_achievements": ["^Glory to the ", "^Death to the "]
+}

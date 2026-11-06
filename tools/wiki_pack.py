@@ -29,6 +29,13 @@ TEMPLATES = {
     "id_param": "id",
 }
 
+# Sources the general rules don't reach for a few items (config/extra_sources.json):
+# chosen boxes it comes in, the item page's reward-track table, repeatable achievements.
+_CONFIG = Path(__file__).resolve().parent.parent / "config"
+_EXTRA_CFG = json.loads((_CONFIG / "extra_sources.json").read_text(encoding="utf-8")) if (_CONFIG / "extra_sources.json").exists() else {}
+EXTRA: dict[str, dict] = _EXTRA_CFG.get("items", {})
+REPEATABLE_ACH = [re.compile(x) for x in _EXTRA_CFG.get("repeatable_achievements", [])]
+
 _LINK = re.compile(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]")
 _ING = re.compile(r"^\s*(\d[\d,]*)\s+(.+?)\s*$")
 
@@ -144,10 +151,22 @@ def parse_recipe(params: dict[str, str]) -> dict | None:
         return None
     # wiki spellings: "mystic forge" / "mystic"; "recipe sheet" / "sheet", "automatic", "discovery"
     kind = "mystic_forge" if source.startswith("mystic") else "craft" if source in ("automatic", "discovery", "recipe sheet", "sheet") else "other"
+    raw_q = (params.get("quantity", "1") or "1").strip()
+    if params.get("base ingredients calculation", "").strip().lower() == "y":
+        # the wiki's hidden "average" recipe (Mystic Clover: quantity 0.31): not a recipe of its
+        # own, the average output of the visible random recipe with these ingredients
+        try:
+            return {"kind": "average", "avg": float(raw_q), "inputs": inputs}
+        except ValueError:
+            return None
     try:
-        out_count = max(1, int(params.get("quantity", "1") or 1))
+        out_count = max(1, int(raw_q))
     except ValueError:
         out_count = 1
+    upper = params.get("upper quantity", "").strip()
+    random_out = kind == "mystic_forge" and (upper.isdigit() or "(random)" in params.get("name", "").lower())
+    extra = {"_random": {"quantity": out_count, "upper": int(upper) if upper.isdigit() else None,
+                         "type": params.get("type", "").strip()}} if random_out else {}
     return {
         "kind": kind,
         "inputs": inputs,
@@ -156,7 +175,47 @@ def parse_recipe(params: dict[str, str]) -> dict | None:
         "recipe_id": params.get("id") or None,
         "_output_id": int(params["output item id"]) if (params.get("output item id") or "").strip().isdigit() else None,
         "_output_name": clean_name(params.get("name", "")) if params.get("name") else None,
+        **extra,
     }
+
+
+def reward_track_table(wikitext: str) -> list[dict]:
+    """Rows of an item page's '=== Reward tracks ===' table (Mystic Clover): track, modes, the
+    count per completion, repeatable, first-time count when the first completion gives more
+    ("7, 2" / "no, yes"), retiring when the row is marked (†)."""
+    i = wikitext.find("=== Reward tracks ===")
+    if i < 0:
+        return []
+    j = wikitext.find("\n|}", i)
+    out = []
+    for chunk in wikitext[i:j if j > 0 else None].split("\n|-")[1:]:
+        cells = []
+        for line in chunk.strip().split("\n"):
+            if not line.startswith("|") or line.startswith("|}"):
+                continue
+            c = line[1:].strip()
+            if "style=" in c and "|" in c:
+                c = c.rsplit("|", 1)[1].strip()
+            cells.append(c)
+        if len(cells) < 5:
+            continue
+        m = re.search(r"\[\[([^|\]]+)", cells[0])
+        if not m:
+            continue
+        qty = [int(x) for x in re.findall(r"\d+", cells[2])]
+        rep = [x == "yes" for x in re.findall(r"\{\{\s*(yes|no)\s*\}\}", cells[3], re.I)]
+        if not qty:
+            continue
+        rep = (rep + [rep[-1] if rep else False] * len(qty))[:len(qty)]
+        again = [q for q, r in zip(qty, rep) if r]
+        once = [q for q, r in zip(qty, rep) if not r]
+        modes = [x for x, k in (("pvp", "pvp"), ("wvw", "wvw")) if k in cells[4].lower()]
+        row = {"track": m.group(1).strip(), "modes": modes or ["pvp", "wvw"], "retiring": "†" in cells[0],
+               "repeatable": bool(again), "count": again[0] if again else once[0]}
+        if again and once:
+            row["first_time_count"] = once[0]
+        out.append(row)
+    return out
 
 
 # --------------------------------------------------------------------------- page store
@@ -290,6 +349,9 @@ def _add_sources(w: "Walk", store, level_nodes, currencies: dict[str, int], seen
     got = {k: store.get(k, names) for k in ("vendor", "achievement")}
     for k in ("rewarded", "track", "salvage", "contained"):
         got[k] = store.get(k, bound) if bound else {}
+    extra = [n for n in names if n in EXTRA and EXTRA[n].get("containers") and n not in got["contained"]]
+    if extra:
+        got["contained"] = {**got["contained"], **store.get("contained", extra)}
     nxt: list[str] = []
     for node, locked, crafted in level_nodes:
         nm = node["name"]
@@ -307,7 +369,42 @@ def _add_sources(w: "Walk", store, level_nodes, currencies: dict[str, int], seen
         for c in cost_items:
             if c not in seen:
                 nxt.append(c)
-        new += ws.achievement_sources(nm, got["achievement"].get(nm, []))
+        for a in ws.achievement_sources(nm, got["achievement"].get(nm, [])):
+            if any(rx.search(a["achievement_name"]) for rx in REPEATABLE_ACH):
+                a["repeatable"] = True   # e.g. Glory to the Legions: completes again like a reward track
+            new.append(a)
+        cfg = EXTRA.get(nm)
+        page_text = node.pop("_page_text", "")
+        if cfg:
+            allow = set(cfg.get("containers", []))
+            picked = [r for r in got["contained"].get(nm, []) if (r.get("Contained in") or [""])[0] in allow]
+            boxes, cn = ws.container_sources(nm, picked)
+            new += boxes
+            for b in cn:
+                w.opened.add(b)
+                if b not in seen:
+                    nxt.append(b)
+            if cfg.get("reward_track_table"):
+                for t in reward_track_table(page_text):
+                    for m in t["modes"]:
+                        aid = f"rt:{ws.slug(t['track'])}:{m}"
+                        act = w.activities.setdefault(aid, {"id": aid, "name": f"{t['track']} ({'WvW' if m == 'wvw' else 'PvP'})",
+                                                            "mode": m, "expansion": "core", "yields": [],
+                                                            "guidance": {"text": "", "wiki_url": WIKI + urllib.parse.quote(t["track"].replace(" ", "_"))}})
+                        act["reward_track"] = True
+                        act["repeatable"] = t["repeatable"]
+                        if t["retiring"]:
+                            act["retiring"] = True
+                        y = next((y for y in act["yields"] if y["node_id"] == node["id"]), None)
+                        if y is None:
+                            y = {"node_id": node["id"], "count": t["count"]}
+                            act["yields"].append(y)
+                        else:
+                            y["count"] = t["count"]   # the item page's table beats a per-reward SMW record
+                        if t.get("first_time_count"):
+                            y["first_time_count"] = t["first_time_count"]
+                        if not any(s.get("activity_id") == aid for s in new):
+                            new.append({"kind": "activity", "inputs": [], "activity_id": aid})
         notes = []
         for a in ws.activity_rows(nm, got["rewarded"].get(nm, []), got["track"].get(nm, [])):
             notes.append(a["note"])
@@ -347,6 +444,7 @@ class Walk:
     opened: set = field(default_factory=set)   # boxes reached as "contained in" sources: walked, not stopped
     warnings: list[str] = field(default_factory=list)
     pages_by_depth: dict[int, int] = field(default_factory=dict)
+    random_seen: dict[str, list] = field(default_factory=dict)   # random-output forge recipes met on the walk
 
 
 def node_id_for(name: str, item_id: int | None) -> str:
@@ -396,9 +494,18 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
                 continue
             container = item_type(page.text) in ("container", "gizmo") and name not in w.opened and page.title not in w.opened   # chests as prices: stop
             srcs = [] if container else recipes(page.text)   # a container (chest) only appears as a price: stop there
+            avgs = [r for r in srcs if r["kind"] == "average"]
+            srcs = [r for r in srcs if r["kind"] != "average"]
+            for r in srcs:
+                if r.get("_random"):
+                    w.random_seen.setdefault(page.title, []).append(dict(r["_random"]))
             node = {"id": nid, "type": "drop", "name": page.title, "item_id": iid, "sources": [],
                     "guidance": {"wiki_url": "https://wiki.guildwars2.com/wiki/" + urllib.parse.quote(page.title.replace(" ", "_")),
                                  "text": "", "waypoint_chat_code": None}}
+            if avgs:
+                node["_avg_output"] = avgs[0]["avg"]   # per unit of the random recipe (forge_outcomes.apply)
+            if page.title in EXTRA:
+                node["_page_text"] = page.text   # reward-track table (extra sources)
             for s in srcs:
                 for inp in s["inputs"]:
                     cid = cur_by_name.get(inp["name"].lower())

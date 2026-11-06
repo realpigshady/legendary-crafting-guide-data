@@ -1,0 +1,9 @@
+{
+  "_note": "Exceptions to 'vendors with identical costs share one weekly limit' (wiki Mystic Clover > Sold by; owner 2026-11-06). own_cap: these vendors keep their own limit and become a source of their own. shared_cap: offers of these vendors share one limit even with different prices; each gets cap_group with the same value (the addon does not read cap_group yet).",
+  "own_cap": {
+    "Mystic Clover": ["Mystic Forge Keeper"]
+  },
+  "shared_cap": {
+    "Mystic Clover": [["League Vendor"]]
+  }
+}

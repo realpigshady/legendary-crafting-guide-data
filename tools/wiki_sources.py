@@ -310,6 +310,12 @@ def _items_of(kind: str, row: dict) -> list[str]:
 
 COIN_PER_GOLD = 10000
 
+# Vendors with identical costs share a weekly limit (the wiki's rule, and our grouping);
+# config/vendor_caps.json lists the exceptions: a vendor with its own limit ("own_cap"), and
+# offers of one vendor that share a limit despite different prices ("shared_cap" -> cap_group).
+_CAPS_PATH = Path(__file__).resolve().parent.parent / "config" / "vendor_caps.json"
+VENDOR_CAPS = json.loads(_CAPS_PATH.read_text(encoding="utf-8")) if _CAPS_PATH.exists() else {}
+
 
 def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tuple[list[dict], list[str]]:
     """One source per distinct (cost, quantity, caps); the vendors that sell it that way are listed.
@@ -345,14 +351,21 @@ def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tu
             cap = _int(r.get(prop))
             if cap:
                 src[key] = cap
+        npc = (r.get("Has vendor") or [r["_subject"].split("#")[0]])[0]
         k = json.dumps(src, sort_keys=True)
+        if npc in VENDOR_CAPS.get("own_cap", {}).get(item, []):
+            k += "|own:" + npc   # its own limit: not shared with the vendors that charge the same
         g = groups.setdefault(k, {**src, "vendors": []})
         reqs = [re.sub(r"\[\[(?:[^]|]*\|)?([^]]*)\]\]", r"\1", x) for x in (r.get("Has requirement") or [])]
-        g["vendors"].append({"npc": (r.get("Has vendor") or [r["_subject"].split("#")[0]])[0],
-                             "locations": r.get("Located in") or [], "requires": reqs})
+        g["vendors"].append({"npc": npc, "locations": r.get("Located in") or [], "requires": reqs})
     out = []
+    shared = VENDOR_CAPS.get("shared_cap", {}).get(item, [])
     for g in groups.values():
         g["vendors"].sort(key=lambda v: (bool(v["requires"]), v["npc"]))   # no requirement first
+        npcs = {v["npc"] for v in g["vendors"]}
+        for grp in shared:
+            if npcs <= set(grp) and (g.get("weekly_cap") or g.get("daily_cap")):
+                g["cap_group"] = item + ": " + " + ".join(grp)   # one limit across these offers
         out.append(g)
     out.sort(key=lambda s: json.dumps(s["inputs"]))
     return out, cost_items
