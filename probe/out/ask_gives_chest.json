@@ -1,0 +1,303 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Gives item::Chest of Legendary Crafting Materials]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Gives item",
+     "key": "Gives_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Gives item quantity",
+     "key": "Gives_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement page",
+     "key": "Has_achievement_page",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Return to Bound by Blood#achievement5872": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       5872
+      ],
+      "Has canonical name": [
+       "(Bonus) Strike Back: Shiverpeaks Pass"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Shiverpeaks Pass",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shiverpeaks_Pass",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Return to Bound by Blood#achievement5872",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_Bound_by_Blood#achievement5872",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return to No Quarter#achievement5925": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       5925
+      ],
+      "Has canonical name": [
+       "(Bonus) Strike Back: Cold War"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Cold War",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Cold_War",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Return to No Quarter#achievement5925",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_No_Quarter#achievement5925",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return to Shadow in the Ice#achievement5879": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       5879
+      ],
+      "Has canonical name": [
+       "(Bonus) Strike Back: Whisper of Jormag"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Whisper of Jormag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Whisper_of_Jormag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Return to Shadow in the Ice#achievement5879",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_Shadow_in_the_Ice#achievement5879",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return to Steel and Fire#achievement5957": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       5957
+      ],
+      "Has canonical name": [
+       "(Bonus) Strike Back: Rally at the Eye"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Strike Mission",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Strike_Mission",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Return to Steel and Fire#achievement5957",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_Steel_and_Fire#achievement5957",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return to Whisper in the Dark#achievement5942": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       5942
+      ],
+      "Has canonical name": [
+       "(Bonus) Strike Back: Raven Sanctum"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Return to Whisper in the Dark",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_Whisper_in_the_Dark",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Return to Whisper in the Dark#achievement5942",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_Whisper_in_the_Dark#achievement5942",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return to the Icebrood Saga (achievements)#achievement8518": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [
+       1
+      ],
+      "Has game id": [
+       8518
+      ],
+      "Has canonical name": [
+       "Strike Back: Rally at the Eye (Weekly)"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Return to the Icebrood Saga (achievements)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_the_Icebrood_Saga_(achievements)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Return to the Icebrood Saga (achievements)#achievement8518",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_to_the_Icebrood_Saga_(achievements)#achievement8518",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "0abdf7b7b4abbe5d59c4ab58778cb0a8",
+    "count": 6,
+    "offset": 0,
+    "source": "",
+    "time": "0.190175"
+   }
+  }
+ }
+}

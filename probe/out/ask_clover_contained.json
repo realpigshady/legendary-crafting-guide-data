@@ -1,0 +1,2988 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Mystic Clover]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Amnytas Gear Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Amnytas Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Amnytas_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Amnytas Gear Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Amnytas_Gear_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Amnytas Gear Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Amnytas Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Amnytas_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Amnytas Gear Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Amnytas_Gear_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ascalon Weapon Skins Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ascalon Weapon Skins Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ascalon_Weapon_Skins_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ascalon Weapon Skins Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ascalon_Weapon_Skins_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ash Legion Reward Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ash Legion Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ash_Legion_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ash Legion Reward Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ash_Legion_Reward_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Auric Weapon Crate#contains20": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Auric Weapon Crate",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Auric_Weapon_Crate",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Auric Weapon Crate#contains20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Auric_Weapon_Crate#contains20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Balthazar Backpack Box#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Balthazar Backpack Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Balthazar_Backpack_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Balthazar Backpack Box#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Balthazar_Backpack_Box#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bitterfrost Frontier Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bitterfrost Frontier Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bitterfrost_Frontier_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bitterfrost Frontier Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bitterfrost_Frontier_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bladed Glove Box (reward track)#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bladed Glove Box (reward track)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bladed_Glove_Box_(reward_track)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bladed Glove Box (reward track)#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bladed_Glove_Box_(reward_track)#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Blood Legion Reward Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Blood Legion Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Legion_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Blood Legion Reward Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Legion_Reward_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bloodstone Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bloodstone Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bloodstone Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bloodstone_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Box of Purified Rift Essence Components#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Box of Purified Rift Essence Components",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Box_of_Purified_Rift_Essence_Components",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Box of Purified Rift Essence Components#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Box_of_Purified_Rift_Essence_Components#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canthan Armor Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Canthan Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Canthan Armor Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Armor_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canthan Armor Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Canthan Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Canthan Armor Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Armor_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Carapace Armor Box#contains22": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Carapace Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Carapace_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Carapace Armor Box#contains22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Carapace_Armor_Box#contains22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Carapace Glove Box (PvP)#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Carapace Glove Box (PvP)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Carapace_Glove_Box_(PvP)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Carapace Glove Box (PvP)#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Carapace_Glove_Box_(PvP)#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castoran Gear Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Castoran Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Castoran Gear Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castoran Gear Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Castoran Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Castoran Gear Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chak Gerent Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chak Gerent Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chak_Gerent_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chak Gerent Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chak_Gerent_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Charr Legions Backpack Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Charr Legions Backpack Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charr_Legions_Backpack_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Charr Legions Backpack Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Charr_Legions_Backpack_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of Legendary Crafting Materials#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of Legendary Crafting Materials",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of Legendary Crafting Materials#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Legendary_Crafting_Materials#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Desert Armor Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Desert Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Desert_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Desert Armor Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Desert_Armor_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Desert Armor Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Desert Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Desert_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Desert Armor Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Desert_Armor_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dominion Spoils Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dominion Spoils Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dominion_Spoils_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dominion Spoils Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dominion_Spoils_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Draconis Mons Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Draconis Mons Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Draconis_Mons_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Draconis Mons Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Draconis_Mons_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragonfall Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dragonfall Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragonfall_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dragonfall Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragonfall_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragonjade-Tier Reward Package#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dragonjade-Tier Reward Package",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragonjade-Tier_Reward_Package",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dragonjade-Tier Reward Package#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragonjade-Tier_Reward_Package#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragonjade-Tier Reward Package#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dragonjade-Tier Reward Package",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragonjade-Tier_Reward_Package",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dragonjade-Tier Reward Package#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragonjade-Tier_Reward_Package#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Drizzlewood Coast Supply Drop#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Drizzlewood Coast Supply Drop",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Drizzlewood_Coast_Supply_Drop",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Drizzlewood Coast Supply Drop#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Drizzlewood_Coast_Supply_Drop#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dungeon Armor Container#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dungeon Armor Container",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dungeon_Armor_Container",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dungeon Armor Container#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dungeon_Armor_Container#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ember Bay Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ember Bay Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ember_Bay_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ember Bay Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ember_Bay_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Flame Legion Reward Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Flame Legion Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Flame_Legion_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Flame Legion Reward Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Flame_Legion_Reward_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Frost Legion Spoils Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Frost Legion Spoils Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Frost_Legion_Spoils_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Frost Legion Spoils Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Frost_Legion_Spoils_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Glorious Armor Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Glorious Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glorious_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Glorious Armor Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Glorious_Armor_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grand Icebrood Saga Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grand Icebrood Saga Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grand_Icebrood_Saga_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grand Icebrood Saga Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grand_Icebrood_Saga_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grothmar Legionnaire Banner Cache#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grothmar Legionnaire Banner Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grothmar_Legionnaire_Banner_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grothmar Legionnaire Banner Cache#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grothmar_Legionnaire_Banner_Cache#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grothmar Legionnaire Weapons Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grothmar Legionnaire Weapons Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grothmar_Legionnaire_Weapons_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grothmar Legionnaire Weapons Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grothmar_Legionnaire_Weapons_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grymm Mini Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grymm Mini Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grymm_Mini_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grymm Mini Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grymm_Mini_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grymm Svaard Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grymm Svaard Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grymm_Svaard_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grymm Svaard Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grymm_Svaard_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hero Weapon Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hero Weapon Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hero_Weapon_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hero Weapon Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hero_Weapon_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Iron Legion Reward Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Iron Legion Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Iron_Legion_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Iron Legion Reward Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Iron_Legion_Reward_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Istan Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Istan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Istan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Istan Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Istan_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jahai Bluffs Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jahai Bluffs Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jahai_Bluffs_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jahai Bluffs Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jahai_Bluffs_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Wilds Gear Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Wilds Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Wilds Gear Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Gear_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Wilds Gear Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Wilds Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Wilds Gear Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Gear_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jora's Weapons Cache#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jora's Weapons Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jora%27s_Weapons_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jora's Weapons Cache#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jora%27s_Weapons_Cache#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Bear Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Bear Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Bear_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Bear Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Bear_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Deer Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Deer Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Deer_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Deer Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Deer_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Dolyak Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Dolyak Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Dolyak_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Dolyak Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Dolyak_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Dragon Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Dragon Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Dragon_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Dragon Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Dragon_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Phoenix Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Phoenix Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Phoenix_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Phoenix Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Phoenix_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Rabbit Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Rabbit Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Rabbit_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Rabbit Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Rabbit_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Shark Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Shark Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Shark_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Shark Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Shark_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Tiger Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Tiger Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Tiger_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Tiger Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Tiger_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jungle Wolf Finisher Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jungle Wolf Finisher Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Wolf_Finisher_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jungle Wolf Finisher Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jungle_Wolf_Finisher_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Kournan Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Kournan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kournan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Kournan Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Kournan_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Kryta Weapon Skins Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Kryta Weapon Skins Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kryta_Weapon_Skins_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Kryta Weapon Skins Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Kryta_Weapon_Skins_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lake Doric Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lake Doric Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lake_Doric_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lake Doric Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lake_Doric_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Legacy Armor Box#contains40": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Legacy Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Legacy_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Legacy Armor Box#contains40",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legacy_Armor_Box#contains40",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Long-Lost Tahkayun's Weapon Bag#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Long-Lost Tahkayun's Weapon Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Long-Lost_Tahkayun%27s_Weapon_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Long-Lost Tahkayun's Weapon Bag#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Long-Lost_Tahkayun%27s_Weapon_Bag#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Long-Lost Tahkayun's Weapon Bag#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Long-Lost Tahkayun's Weapon Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Long-Lost_Tahkayun%27s_Weapon_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Long-Lost Tahkayun's Weapon Bag#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Long-Lost_Tahkayun%27s_Weapon_Bag#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Magic-Warped Bundle#contains26": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Magic-Warped Bundle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magic-Warped_Bundle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Magic-Warped Bundle#contains26",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Magic-Warped_Bundle#contains26",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mini Tybalt Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mini Tybalt Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Tybalt_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mini Tybalt Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Tybalt_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mist-Warped Bundle#contains20": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mist-Warped Bundle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mist-Warped_Bundle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mist-Warped Bundle#contains20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mist-Warped_Bundle#contains20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mordremoth Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mordremoth Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mordremoth_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mordremoth Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mordremoth_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nika Mini Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Nika Mini Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nika_Mini_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Nika Mini Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nika_Mini_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nika Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Nika Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nika_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Nika Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nika_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Northern Drizzlewood Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Northern Drizzlewood Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Northern_Drizzlewood_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Northern Drizzlewood Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Northern_Drizzlewood_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Pristine Sand-Carved Cache#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Pristine Sand-Carved Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pristine_Sand-Carved_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Pristine Sand-Carved Cache#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Pristine_Sand-Carved_Cache#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raven's Gift#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raven's Gift",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raven%27s_Gift",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raven's Gift#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raven%27s_Gift#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ruins of Orr Weapon Skins Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ruins of Orr Weapon Skins Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ruins_of_Orr_Weapon_Skins_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ruins of Orr Weapon Skins Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ruins_of_Orr_Weapon_Skins_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sandswept Isles Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Sandswept Isles Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Sandswept_Isles_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Sandswept Isles Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sandswept_Isles_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Shiverpeak Mountains Weapon Skins Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Shiverpeak Mountains Weapon Skins Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shiverpeak_Mountains_Weapon_Skins_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Shiverpeak Mountains Weapon Skins Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Shiverpeak_Mountains_Weapon_Skins_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Siren's Landing Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Siren's Landing Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Siren%27s_Landing_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Siren's Landing Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Siren%27s_Landing_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tarnished Coast Weapon Skins Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tarnished Coast Weapon Skins Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tarnished_Coast_Weapon_Skins_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tarnished Coast Weapon Skins Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tarnished_Coast_Weapon_Skins_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Thunderhead Peaks Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Thunderhead Peaks Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Thunderhead_Peaks_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Thunderhead Peaks Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Thunderhead_Peaks_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tournament of Legends: Fourth Place#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tournament of Legends: Fourth Place",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tournament_of_Legends:_Fourth_Place",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "77"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tournament of Legends: Fourth Place#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tournament_of_Legends:_Fourth_Place#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tournament of Legends: Third Place#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tournament of Legends: Third Place",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tournament_of_Legends:_Third_Place",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "77"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tournament of Legends: Third Place#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tournament_of_Legends:_Third_Place#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Triumphant Armor Box#contains22": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Triumphant Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Triumphant Armor Box#contains22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Triumphant_Armor_Box#contains22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Turai Ossa Mini Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Turai Ossa Mini Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Turai_Ossa_Mini_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Turai Ossa Mini Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Turai_Ossa_Mini_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tybalt Reward Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tybalt Reward Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tybalt_Reward_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tybalt Reward Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tybalt_Reward_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Warclaw Armor Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Mystic Clover",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystic_Clover",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Warclaw Armor Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Warclaw_Armor_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Warclaw Armor Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Warclaw_Armor_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "32ae3a1859e957252ffebb762c239f5c",
+    "count": 81,
+    "offset": 0,
+    "source": "",
+    "time": "2.494306"
+   }
+  }
+ }
+}

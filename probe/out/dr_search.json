@@ -1,0 +1,2525 @@
+{
+ "params": {
+  "action": "query",
+  "list": "search",
+  "srsearch": "intitle:\"Drop rate\"",
+  "srnamespace": "0",
+  "srlimit": "500",
+  "srprop": "",
+  "srwhat": "text"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "continue": {
+   "sroffset": 500,
+   "continue": "-||"
+  },
+  "query": {
+   "searchinfo": {
+    "totalhits": 1092
+   },
+   "search": [
+    {
+     "ns": 0,
+     "title": "Trick-or-Treat Bag/research",
+     "pageid": 387609
+    },
+    {
+     "ns": 0,
+     "title": "Daily/Drop Rate",
+     "pageid": 125186
+    },
+    {
+     "ns": 0,
+     "title": "Dragon Coffer/drop rate",
+     "pageid": 93067
+    },
+    {
+     "ns": 0,
+     "title": "Unsealed Mist-Hardened Lockbox/Drop rate",
+     "pageid": 418512
+    },
+    {
+     "ns": 0,
+     "title": "Glob of Destabilized Ectoplasm/Drop Rate",
+     "pageid": 152734
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive",
+     "pageid": 72587
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Destroyer Loot Box (Maguuma Jungle Reward Track)/Drop rate",
+     "pageid": 257332
+    },
+    {
+     "ns": 0,
+     "title": "Personalized Trick-or-Treat Bag/research",
+     "pageid": 135238
+    },
+    {
+     "ns": 0,
+     "title": "Drop rate",
+     "pageid": 32818
+    },
+    {
+     "ns": 0,
+     "title": "Dragon Coffer/drop rate/Data entry",
+     "pageid": 259894
+    },
+    {
+     "ns": 0,
+     "title": "Bonus Box of Goods/Drop rate",
+     "pageid": 258361
+    },
+    {
+     "ns": 0,
+     "title": "Bonus Box of Goods (historical)/Drop rate",
+     "pageid": 255508
+    },
+    {
+     "ns": 0,
+     "title": "Djinn Energy Cluster/Drop rate",
+     "pageid": 259125
+    },
+    {
+     "ns": 0,
+     "title": "Bat Loot Box/Drop rate",
+     "pageid": 303041
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate",
+     "pageid": 246350
+    },
+    {
+     "ns": 0,
+     "title": "Karmic Retribution/Drop Rate",
+     "pageid": 190308
+    },
+    {
+     "ns": 0,
+     "title": "Dragon Bash Prize Coffer/drop rate",
+     "pageid": 348642
+    },
+    {
+     "ns": 0,
+     "title": "\"Recovered\" Charr Artifact/Drop rate",
+     "pageid": 265021
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Destroyer Loot Box/Drop rate",
+     "pageid": 257331
+    },
+    {
+     "ns": 0,
+     "title": "Clump of Destabilized Ectoplasm/Drop Rate",
+     "pageid": 152722
+    },
+    {
+     "ns": 0,
+     "title": "Piece of Rare Unidentified Gear/Drop Rate",
+     "pageid": 254709
+    },
+    {
+     "ns": 0,
+     "title": "Piece of Common Unidentified Gear/Drop Rate",
+     "pageid": 254707
+    },
+    {
+     "ns": 0,
+     "title": "Piece of Unidentified Gear/Drop Rate",
+     "pageid": 254708
+    },
+    {
+     "ns": 0,
+     "title": "Halloween Upgrade Recipe Crafting/Drop rate",
+     "pageid": 135265
+    },
+    {
+     "ns": 0,
+     "title": "Champion Destroyer Loot Box/Drop rate",
+     "pageid": 255000
+    },
+    {
+     "ns": 0,
+     "title": "Aquatic Loot Box/Drop rate",
+     "pageid": 268863
+    },
+    {
+     "ns": 0,
+     "title": "Sandstorm Trump Hand/Drop rate",
+     "pageid": 211728
+    },
+    {
+     "ns": 0,
+     "title": "Bird Loot Box/Drop rate",
+     "pageid": 257418
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Loot Bag/Drop rate",
+     "pageid": 356874
+    },
+    {
+     "ns": 0,
+     "title": "Box of Lab Equipment/Drop rate (basic)",
+     "pageid": 262768
+    },
+    {
+     "ns": 0,
+     "title": "Undead Shark Loot Box/Drop rate",
+     "pageid": 259154
+    },
+    {
+     "ns": 0,
+     "title": "Sandstorm Flush Hand/Drop rate",
+     "pageid": 211741
+    },
+    {
+     "ns": 0,
+     "title": "Exquisite Ingredients Pouch/Drop rate",
+     "pageid": 252812
+    },
+    {
+     "ns": 0,
+     "title": "Crystalline Ore/Drop rate",
+     "pageid": 281860
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Pinched Goods/Drop rate",
+     "pageid": 85179
+    },
+    {
+     "ns": 0,
+     "title": "Continue Coin/drop rate",
+     "pageid": 85745
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Krait Loot Box/Drop rate",
+     "pageid": 255514
+    },
+    {
+     "ns": 0,
+     "title": "Champion Risen Shark Loot Box/Drop rate",
+     "pageid": 255379
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Inquest Loot Box/Drop rate",
+     "pageid": 255017
+    },
+    {
+     "ns": 0,
+     "title": "Flame Dye Kit/Drop rate",
+     "pageid": 87330
+    },
+    {
+     "ns": 0,
+     "title": "Divine Lucky Envelope/Drop rate",
+     "pageid": 293623
+    },
+    {
+     "ns": 0,
+     "title": "Champion Nightmare Court Loot Box/Drop rate",
+     "pageid": 255543
+    },
+    {
+     "ns": 0,
+     "title": "Asura Loot Box/Drop rate",
+     "pageid": 256029
+    },
+    {
+     "ns": 0,
+     "title": "Box of WvW Supplies/Drop rate",
+     "pageid": 213834
+    },
+    {
+     "ns": 0,
+     "title": "Harpy Loot Box/Drop rate",
+     "pageid": 255447
+    },
+    {
+     "ns": 0,
+     "title": "Dredge Loot Box/Drop rate",
+     "pageid": 257468
+    },
+    {
+     "ns": 0,
+     "title": "Champion Dredge Loot Box/Drop rate",
+     "pageid": 257786
+    },
+    {
+     "ns": 0,
+     "title": "Box of Lab Equipment (personal story reward 10)/Drop rate",
+     "pageid": 262767
+    },
+    {
+     "ns": 0,
+     "title": "Dragon Coffer/drop rate/2013",
+     "pageid": 92784
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Moldy Bag/Drop rate",
+     "pageid": 75544
+    },
+    {
+     "ns": 0,
+     "title": "Sandstorm Meld Hand/Drop rate",
+     "pageid": 211740
+    },
+    {
+     "ns": 0,
+     "title": "Cache of the Traveler/Drop rate",
+     "pageid": 218284
+    },
+    {
+     "ns": 0,
+     "title": "Undead Krait Loot Box/Drop rate",
+     "pageid": 255056
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Filched Goods/Drop rate",
+     "pageid": 78213
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Purloined Goods/drop rate",
+     "pageid": 128318
+    },
+    {
+     "ns": 0,
+     "title": "Lost Orrian Jewelry Box/Drop rate",
+     "pageid": 79305
+    },
+    {
+     "ns": 0,
+     "title": "Grub Loot Box/Drop rate",
+     "pageid": 253650
+    },
+    {
+     "ns": 0,
+     "title": "Branded Chest/Drop rate",
+     "pageid": 243391
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Largos Loot Box/Drop rate",
+     "pageid": 254999
+    },
+    {
+     "ns": 0,
+     "title": "Zephyrite Supply Box/Drop rate",
+     "pageid": 283857
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Kodan Loot Box/Drop rate",
+     "pageid": 254541
+    },
+    {
+     "ns": 0,
+     "title": "Bear Loot Box/Drop rate",
+     "pageid": 257105
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Grab Bag/Drop rate",
+     "pageid": 259243
+    },
+    {
+     "ns": 0,
+     "title": "Fluctuating Mass/Drop rate",
+     "pageid": 246095
+    },
+    {
+     "ns": 0,
+     "title": "Griffon Loot Box/Drop rate",
+     "pageid": 253651
+    },
+    {
+     "ns": 0,
+     "title": "Undead Humanoid Loot Box/Drop rate",
+     "pageid": 253658
+    },
+    {
+     "ns": 0,
+     "title": "Champion Air Elemental Loot Box/Drop rate",
+     "pageid": 255483
+    },
+    {
+     "ns": 0,
+     "title": "Champion Wraith Loot Box/Drop rate",
+     "pageid": 255354
+    },
+    {
+     "ns": 0,
+     "title": "Siege Blueprint Case (historical)/Drop rate",
+     "pageid": 388218
+    },
+    {
+     "ns": 0,
+     "title": "Bonus Box of Goods/Drop rate/Data entry",
+     "pageid": 258362
+    },
+    {
+     "ns": 0,
+     "title": "Advanced Ingredients Pouch/Drop Rate",
+     "pageid": 242236
+    },
+    {
+     "ns": 0,
+     "title": "Candy Corn Gobbler/Drop rate (WvW)",
+     "pageid": 231241
+    },
+    {
+     "ns": 0,
+     "title": "Candy Corn Gobbler/Drop rate (PvE)",
+     "pageid": 231243
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Grab Bag/Drop rate/Data entry",
+     "pageid": 259402
+    },
+    {
+     "ns": 0,
+     "title": "Unlocked Rift Essence Coffer/Drop rate",
+     "pageid": 371646
+    },
+    {
+     "ns": 0,
+     "title": "Grand Raid Chest/Drop rate",
+     "pageid": 314848
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Plains of Golghein\"/Drop rate",
+     "pageid": 277839
+    },
+    {
+     "ns": 0,
+     "title": "Nightmare Court Loot Box/Drop rate",
+     "pageid": 255440
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Booty/Drop rate",
+     "pageid": 78576
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Bag of Coins/Drop Rate",
+     "pageid": 78779
+    },
+    {
+     "ns": 0,
+     "title": "Pile of Silky Sand/Drop rate",
+     "pageid": 126036
+    },
+    {
+     "ns": 0,
+     "title": "Amnytas Strongbox/Drop rate",
+     "pageid": 364281
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Testing Materials/Drop rate",
+     "pageid": 78712
+    },
+    {
+     "ns": 0,
+     "title": "Medium Wintersday Gift/drop rate",
+     "pageid": 74242
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Delivery Box (Trophies)/Drop rate",
+     "pageid": 206723
+    },
+    {
+     "ns": 0,
+     "title": "Map completion/Drop Rate",
+     "pageid": 154759
+    },
+    {
+     "ns": 0,
+     "title": "Gnashblade Dragon Coffer/Drop rate",
+     "pageid": 283106
+    },
+    {
+     "ns": 0,
+     "title": "Enchanted Treasure Chest/Drop rate",
+     "pageid": 132333
+    },
+    {
+     "ns": 0,
+     "title": "Buried Treasure/Drop rate",
+     "pageid": 217205
+    },
+    {
+     "ns": 0,
+     "title": "Awakened Cache/Drop rate",
+     "pageid": 255537
+    },
+    {
+     "ns": 0,
+     "title": "Skritt Loot Box/Drop rate",
+     "pageid": 351612
+    },
+    {
+     "ns": 0,
+     "title": "Branded Chest (meta)/Drop rate",
+     "pageid": 260471
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Vasburg Riches/Drop rate",
+     "pageid": 348359
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Crafting Materials/Drop rate",
+     "pageid": 301549
+    },
+    {
+     "ns": 0,
+     "title": "Small Wintersday Gift (historical)/drop rate",
+     "pageid": 74233
+    },
+    {
+     "ns": 0,
+     "title": "Chest of the Final Room/Drop rate",
+     "pageid": 220168
+    },
+    {
+     "ns": 0,
+     "title": "Salvaged Debris/Drop rate",
+     "pageid": 190453
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Ooze Loot Box/Drop rate",
+     "pageid": 255217
+    },
+    {
+     "ns": 0,
+     "title": "Frost Dye Kit/Drop rate",
+     "pageid": 87333
+    },
+    {
+     "ns": 0,
+     "title": "Match Win Reward Chest/drop rate",
+     "pageid": 96880
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Bag of Skritt Shinies/Drop rate",
+     "pageid": 80978
+    },
+    {
+     "ns": 0,
+     "title": "Ettin Loot Box/Drop rate",
+     "pageid": 253648
+    },
+    {
+     "ns": 0,
+     "title": "Awakened Chest/Drop rate",
+     "pageid": 232303
+    },
+    {
+     "ns": 0,
+     "title": "Elonian Visitor's Gift/Drop rate",
+     "pageid": 232304
+    },
+    {
+     "ns": 0,
+     "title": "Bat Mother Cache/Drop rate",
+     "pageid": 255456
+    },
+    {
+     "ns": 0,
+     "title": "Arrowhead Cache/Drop rate",
+     "pageid": 254823
+    },
+    {
+     "ns": 0,
+     "title": "Flamestruck Pyxis/Drop rate",
+     "pageid": 258175
+    },
+    {
+     "ns": 0,
+     "title": "Feather-Lined Pouch/Drop rate (masterwork)",
+     "pageid": 352269
+    },
+    {
+     "ns": 0,
+     "title": "Champion Arid Inquest Cache/Drop rate",
+     "pageid": 284920
+    },
+    {
+     "ns": 0,
+     "title": "Blood Legion Charged Materials Box/Drop rate",
+     "pageid": 281182
+    },
+    {
+     "ns": 0,
+     "title": "Branded Strongbox/Drop rate (fine)",
+     "pageid": 346087
+    },
+    {
+     "ns": 0,
+     "title": "Branded Strongbox/Drop rate (basic)",
+     "pageid": 346920
+    },
+    {
+     "ns": 0,
+     "title": "Elaborate Fur Pouch/Drop rate (fine)",
+     "pageid": 302124
+    },
+    {
+     "ns": 0,
+     "title": "Elaborate Fur Pouch/Drop rate (masterwork)",
+     "pageid": 302125
+    },
+    {
+     "ns": 0,
+     "title": "Gilded Coffer/Drop rate (fine)",
+     "pageid": 265978
+    },
+    {
+     "ns": 0,
+     "title": "Gilded Coffer/Drop rate (basic)",
+     "pageid": 296567
+    },
+    {
+     "ns": 0,
+     "title": "Half-Eaten Backpack/Drop rate (masterwork)",
+     "pageid": 352302
+    },
+    {
+     "ns": 0,
+     "title": "Half-Eaten Backpack/Drop rate (rare)",
+     "pageid": 352303
+    },
+    {
+     "ns": 0,
+     "title": "Half-Eaten Backpack/Drop rate (fine)",
+     "pageid": 351870
+    },
+    {
+     "ns": 0,
+     "title": "Half-Eaten Backpack/Drop rate (basic)",
+     "pageid": 353545
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Alchemical Materials/Drop rate",
+     "pageid": 78577
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Guard Cache (Verdant Brink Reward Track)/Drop rate",
+     "pageid": 254491
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Guard Cache (Auric Basin Reward Track)/Drop rate",
+     "pageid": 255228
+    },
+    {
+     "ns": 0,
+     "title": "Glorious Chest (Zho'qafa Catacombs)/Drop rate",
+     "pageid": 297986
+    },
+    {
+     "ns": 0,
+     "title": "Gilded Coffer/Drop rate (masterwork)",
+     "pageid": 265979
+    },
+    {
+     "ns": 0,
+     "title": "Thorny Seed Pouch/Drop rate (basic)",
+     "pageid": 266625
+    },
+    {
+     "ns": 0,
+     "title": "Branded Strongbox/Drop rate (rare)",
+     "pageid": 297306
+    },
+    {
+     "ns": 0,
+     "title": "Branded Strongbox/Drop rate (masterwork)",
+     "pageid": 297310
+    },
+    {
+     "ns": 0,
+     "title": "Acolyte of Balthazar Loot Box/Drop rate",
+     "pageid": 254161
+    },
+    {
+     "ns": 0,
+     "title": "Fort Defiance Container/Drop rate (rare)",
+     "pageid": 286783
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Crafting Bag/Drop rate",
+     "pageid": 79430
+    },
+    {
+     "ns": 0,
+     "title": "Dab of Destabilized Ectoplasm/Drop Rate",
+     "pageid": 152492
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Nightmare Court Loot Box/Drop rate",
+     "pageid": 255002
+    },
+    {
+     "ns": 0,
+     "title": "Chewed-Up Caravan Chest/Drop rate",
+     "pageid": 265294
+    },
+    {
+     "ns": 0,
+     "title": "Box of Lab Equipment/Drop rate (rare)",
+     "pageid": 262771
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Stolen Goods/Drop rate",
+     "pageid": 193711
+    },
+    {
+     "ns": 0,
+     "title": "Chak Crown Cache/Drop rate",
+     "pageid": 253203
+    },
+    {
+     "ns": 0,
+     "title": "Breezeborne Pyxis/Drop rate",
+     "pageid": 253357
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Wurm Loot Box/Drop rate",
+     "pageid": 254998
+    },
+    {
+     "ns": 0,
+     "title": "Skale Loot Box/Drop rate",
+     "pageid": 409447
+    },
+    {
+     "ns": 0,
+     "title": "Icy Strongbox (personal story reward 10)/Drop rate",
+     "pageid": 262765
+    },
+    {
+     "ns": 0,
+     "title": "Arid Devourer Cache/Drop rate",
+     "pageid": 253359
+    },
+    {
+     "ns": 0,
+     "title": "Arid Skritt Cache/Drop rate",
+     "pageid": 253361
+    },
+    {
+     "ns": 0,
+     "title": "Arid Inquest Cache/Drop rate",
+     "pageid": 254283
+    },
+    {
+     "ns": 0,
+     "title": "Arid Vined Cache/Drop rate",
+     "pageid": 254286
+    },
+    {
+     "ns": 0,
+     "title": "Castoran Crab Treasure Box/Drop rate",
+     "pageid": 413326
+    },
+    {
+     "ns": 0,
+     "title": "Icy Strongbox/Drop rate (basic)",
+     "pageid": 262760
+    },
+    {
+     "ns": 0,
+     "title": "Bjora Marches Chest/Drop rate",
+     "pageid": 267862
+    },
+    {
+     "ns": 0,
+     "title": "Dust Mite Cache/Drop rate",
+     "pageid": 253363
+    },
+    {
+     "ns": 0,
+     "title": "Champion Hound of Balthazar Loot Box/Drop rate",
+     "pageid": 254276
+    },
+    {
+     "ns": 0,
+     "title": "Feather-Lined Pouch/Drop rate (exotic)",
+     "pageid": 262982
+    },
+    {
+     "ns": 0,
+     "title": "Beaded Pouch/Drop rate (exotic)",
+     "pageid": 270028
+    },
+    {
+     "ns": 0,
+     "title": "Air Elemental Loot Box/Drop rate",
+     "pageid": 269896
+    },
+    {
+     "ns": 0,
+     "title": "Box of Lab Equipment/Drop rate (fine)",
+     "pageid": 262769
+    },
+    {
+     "ns": 0,
+     "title": "Branded Strongbox/Drop rate (exotic)",
+     "pageid": 297305
+    },
+    {
+     "ns": 0,
+     "title": "Gilded Coffer/Drop rate (rare)",
+     "pageid": 296568
+    },
+    {
+     "ns": 0,
+     "title": "Priest of Balthazar Loot Box/Drop rate",
+     "pageid": 254247
+    },
+    {
+     "ns": 0,
+     "title": "Insect Loot Box/Drop rate",
+     "pageid": 254077
+    },
+    {
+     "ns": 0,
+     "title": "Fort Defiance Container (exotic)/Drop rate",
+     "pageid": 291943
+    },
+    {
+     "ns": 0,
+     "title": "Satchel of Loot/Drop rate",
+     "pageid": 261260
+    },
+    {
+     "ns": 0,
+     "title": "Ignaxious's Hoard/Drop rate",
+     "pageid": 371789
+    },
+    {
+     "ns": 0,
+     "title": "Chak Cache (basic)/Drop rate",
+     "pageid": 254405
+    },
+    {
+     "ns": 0,
+     "title": "Castora Cache/drop rate",
+     "pageid": 411257
+    },
+    {
+     "ns": 0,
+     "title": "Forgotten Chest/Drop rate",
+     "pageid": 243356
+    },
+    {
+     "ns": 0,
+     "title": "Norn Loot Box/Drop rate",
+     "pageid": 255536
+    },
+    {
+     "ns": 0,
+     "title": "Branded Cache/Drop rate",
+     "pageid": 254509
+    },
+    {
+     "ns": 0,
+     "title": "Half-Eaten Backpack/Drop rate (exotic)",
+     "pageid": 254124
+    },
+    {
+     "ns": 0,
+     "title": "Undead Hylek Loot Box/Drop rate",
+     "pageid": 259394
+    },
+    {
+     "ns": 0,
+     "title": "Dagda's Coffer/Drop rate",
+     "pageid": 368233
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Coin Purse (personal story reward 10)/Drop rate",
+     "pageid": 269152
+    },
+    {
+     "ns": 0,
+     "title": "Box of Lab Equipment/Drop rate (masterwork)",
+     "pageid": 262770
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Earth Elemental Loot Box/Drop rate",
+     "pageid": 345746
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Coin Purse/Drop rate (masterwork)",
+     "pageid": 299405
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Coin Purse/Drop rate (rare)",
+     "pageid": 299406
+    },
+    {
+     "ns": 0,
+     "title": "Astral Fluctuating Mass/Drop rate",
+     "pageid": 377824
+    },
+    {
+     "ns": 0,
+     "title": "Goop-Covered Satchel/Drop rate (exotic)",
+     "pageid": 255544
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Fire Elemental Loot Box/Drop rate",
+     "pageid": 254275
+    },
+    {
+     "ns": 0,
+     "title": "Desolation Strongbox/Drop rate",
+     "pageid": 252957
+    },
+    {
+     "ns": 0,
+     "title": "Elaborate Fur Pouch/Drop rate (exotic)",
+     "pageid": 255352
+    },
+    {
+     "ns": 0,
+     "title": "Disciple of Balthazar Loot Box/Drop rate",
+     "pageid": 254277
+    },
+    {
+     "ns": 0,
+     "title": "Raptor Loot Box/Drop rate",
+     "pageid": 297218
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Coin Purse/Drop rate (basic)",
+     "pageid": 297465
+    },
+    {
+     "ns": 0,
+     "title": "Siege Blueprint Case (historical)/Drop rate/archive",
+     "pageid": 296942
+    },
+    {
+     "ns": 0,
+     "title": "Grenth's Coffer/Drop rate",
+     "pageid": 227688
+    },
+    {
+     "ns": 0,
+     "title": "Balthazar's Sealed Cask/Drop rate",
+     "pageid": 228163
+    },
+    {
+     "ns": 0,
+     "title": "Foxfire Cluster/drop rate",
+     "pageid": 129039
+    },
+    {
+     "ns": 0,
+     "title": "Chest of the Warbeast Conqueror/Drop rate",
+     "pageid": 228162
+    },
+    {
+     "ns": 0,
+     "title": "Snowflake Gobbler/Drop rate",
+     "pageid": 361432
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Swiped Goods/Drop rate",
+     "pageid": 284958
+    },
+    {
+     "ns": 0,
+     "title": "Battered Forged Components/Drop rate",
+     "pageid": 255028
+    },
+    {
+     "ns": 0,
+     "title": "Forged Cache/Drop rate",
+     "pageid": 254089
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Fish (daily)/Drop rate/archive",
+     "pageid": 344216
+    },
+    {
+     "ns": 0,
+     "title": "Quaggan Loot Box/Drop rate",
+     "pageid": 268877
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Coin Purse/Drop rate (fine)",
+     "pageid": 297478
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/3 December 2012",
+     "pageid": 108544
+    },
+    {
+     "ns": 0,
+     "title": "Hamaseen Cloth Crate/Drop rate",
+     "pageid": 212251
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Experimental Materials/Drop rate",
+     "pageid": 285462
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Supplies/Drop Rate",
+     "pageid": 265830
+    },
+    {
+     "ns": 0,
+     "title": "Tiny Ritual Bag/Drop rate",
+     "pageid": 78090
+    },
+    {
+     "ns": 0,
+     "title": "Hamaseen Wood Crate/Drop rate",
+     "pageid": 212255
+    },
+    {
+     "ns": 0,
+     "title": "Hamaseen Ingot Crate/Drop rate",
+     "pageid": 212257
+    },
+    {
+     "ns": 0,
+     "title": "Hamaseen Leather Crate/Drop rate",
+     "pageid": 212259
+    },
+    {
+     "ns": 0,
+     "title": "Cowrie League Metal Crate/Drop rate",
+     "pageid": 212264
+    },
+    {
+     "ns": 0,
+     "title": "Common Ingredients Pouch/Drop Rate",
+     "pageid": 241098
+    },
+    {
+     "ns": 0,
+     "title": "Exceptional Ingredients Pouch/Drop Rate",
+     "pageid": 241231
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Masterwork Gear/Drop rate",
+     "pageid": 372583
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Educational Supplies/Drop rate",
+     "pageid": 418574
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Gear (WvW)/Drop rate",
+     "pageid": 414326
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Industry Contract/Drop rate",
+     "pageid": 278097
+    },
+    {
+     "ns": 0,
+     "title": "Siege Blueprint Case/Drop rate/archive",
+     "pageid": 368667
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Trinkets/Drop rate",
+     "pageid": 78999
+    },
+    {
+     "ns": 0,
+     "title": "Kite Fortune/drop rate",
+     "pageid": 95762
+    },
+    {
+     "ns": 0,
+     "title": "Cowrie League Wood Crate/Drop rate",
+     "pageid": 212269
+    },
+    {
+     "ns": 0,
+     "title": "Cowrie League Leather Crate/Drop rate",
+     "pageid": 211774
+    },
+    {
+     "ns": 0,
+     "title": "Forgotten Debris/Drop rate",
+     "pageid": 259580
+    },
+    {
+     "ns": 0,
+     "title": "Bleached Bones/Drop rate",
+     "pageid": 260642
+    },
+    {
+     "ns": 0,
+     "title": "Box of Cooking Supplies/Drop rate",
+     "pageid": 345715
+    },
+    {
+     "ns": 0,
+     "title": "Bonus Box of Goods (historical)/Drop rate/Data entry",
+     "pageid": 255524
+    },
+    {
+     "ns": 0,
+     "title": "Djinn Energy Cluster/Drop rate/Data entry",
+     "pageid": 259124
+    },
+    {
+     "ns": 0,
+     "title": "\"Recovered\" Charr Artifact/Drop rate/Data entry",
+     "pageid": 265020
+    },
+    {
+     "ns": 0,
+     "title": "Dragon Bash Prize Coffer/drop rate/Data entry",
+     "pageid": 348691
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Cryptonym\"/Drop rate",
+     "pageid": 260273
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox of the \"Dragonrender\"/Drop rate",
+     "pageid": 282356
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Endurance\"/Drop rate",
+     "pageid": 282278
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Thunderbreaker\"/Drop rate",
+     "pageid": 282276
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Laboratory Materials/drop rate",
+     "pageid": 149535
+    },
+    {
+     "ns": 0,
+     "title": "Cowrie League Cloth Crate/Drop rate",
+     "pageid": 212271
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Plants/Drop rate",
+     "pageid": 379336
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Facet/Drop rate",
+     "pageid": 417802
+    },
+    {
+     "ns": 0,
+     "title": "Siege Blueprint Case/Drop rate",
+     "pageid": 389726
+    },
+    {
+     "ns": 0,
+     "title": "Faint Echo of Forging Steel/Drop rate",
+     "pageid": 279280
+    },
+    {
+     "ns": 0,
+     "title": "Mythical Kodan Cache/Drop rate",
+     "pageid": 396940
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Unsolved Conundrum\"/Drop rate",
+     "pageid": 255471
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Obsidian Triumph\"/Drop rate",
+     "pageid": 275569
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from \"Faren's Flyer\"/Drop rate",
+     "pageid": 278638
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from \"Whitebear's Pride II\"/Drop rate",
+     "pageid": 282354
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Vengeance Rising\"/Drop rate",
+     "pageid": 282279
+    },
+    {
+     "ns": 0,
+     "title": "Zephyrite Supply Box/Drop rate/Data entry",
+     "pageid": 261254
+    },
+    {
+     "ns": 0,
+     "title": "Satchel of Loot/Drop rate/Data entry",
+     "pageid": 261259
+    },
+    {
+     "ns": 0,
+     "title": "Divine Lucky Envelope/Drop rate (2021)",
+     "pageid": 356565
+    },
+    {
+     "ns": 0,
+     "title": "Divine Lucky Envelope/Drop rate (2022)",
+     "pageid": 356566
+    },
+    {
+     "ns": 0,
+     "title": "Fall Adventure Pouch/Drop rate",
+     "pageid": 90094
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Goods/Drop rate",
+     "pageid": 78582
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Bag of Trinkets/Drop rate",
+     "pageid": 84608
+    },
+    {
+     "ns": 0,
+     "title": "Dwarven Chest/Drop rate",
+     "pageid": 251777
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Gear/Drop rate",
+     "pageid": 292573
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Living World Supply Bag/Drop rate",
+     "pageid": 290383
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Scorchrazor II\"/Drop rate",
+     "pageid": 255472
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Legacy of Owl\"/Drop rate",
+     "pageid": 255473
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Sword of Smodur\"/Drop rate",
+     "pageid": 260272
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Glory of Tyria\"/Drop rate",
+     "pageid": 278020
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Lethal Vantage\"/Drop rate",
+     "pageid": 278021
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Slice of Sky\"/Drop rate",
+     "pageid": 278022
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Shard of Brilliance\"/Drop rate",
+     "pageid": 278639
+    },
+    {
+     "ns": 0,
+     "title": "Cowrie League Trophy Crate/Drop rate",
+     "pageid": 230968
+    },
+    {
+     "ns": 0,
+     "title": "Jungle Plants/Drop rate",
+     "pageid": 168861
+    },
+    {
+     "ns": 0,
+     "title": "Light Crafting Bag/Drop rate",
+     "pageid": 348175
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Pride of Lion's Arch\"/Drop rate",
+     "pageid": 267662
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from \"Mellaggan's Valor\"/Drop rate",
+     "pageid": 263322
+    },
+    {
+     "ns": 0,
+     "title": "Strongbox from the \"Straight and Narrow\"/Drop rate",
+     "pageid": 263323
+    },
+    {
+     "ns": 0,
+     "title": "Icy Bag/Drop rate",
+     "pageid": 79657
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Theoretical Materials/Drop rate",
+     "pageid": 79117
+    },
+    {
+     "ns": 0,
+     "title": "Hamaseen Trophy Crate/Drop rate",
+     "pageid": 211879
+    },
+    {
+     "ns": 0,
+     "title": "Djinn Cache/Drop rate",
+     "pageid": 255535
+    },
+    {
+     "ns": 0,
+     "title": "Small Supply Bag/Drop rate",
+     "pageid": 98759
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/22 October 2012",
+     "pageid": 108542
+    },
+    {
+     "ns": 0,
+     "title": "Enormous Mistwrought Chest (Obsidian Sanctum)/Drop rate",
+     "pageid": 82727
+    },
+    {
+     "ns": 0,
+     "title": "Light Supply Bag/Drop rate",
+     "pageid": 125681
+    },
+    {
+     "ns": 0,
+     "title": "Zephyr Sanctum Supply Box/drop rate",
+     "pageid": 189474
+    },
+    {
+     "ns": 0,
+     "title": "Small Thorned Bag/Drop Rate",
+     "pageid": 150768
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Material Bag/Drop rate",
+     "pageid": 207225
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Material Bag: Janthir Wilds/Drop rate",
+     "pageid": 387578
+    },
+    {
+     "ns": 0,
+     "title": "Crafter's Supply Bag/Drop rate",
+     "pageid": 298841
+    },
+    {
+     "ns": 0,
+     "title": "Cloth Shipment/Drop rate",
+     "pageid": 226169
+    },
+    {
+     "ns": 0,
+     "title": "Leadfoot Village Container (exotic)/Drop rate",
+     "pageid": 303140
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Exploratory Materials/Drop rate",
+     "pageid": 78581
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Pilfered Goods/Drop rate",
+     "pageid": 78584
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Ritual Bag/Drop rate",
+     "pageid": 79959
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/1 November 2012",
+     "pageid": 108543
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Header",
+     "pageid": 246349
+    },
+    {
+     "ns": 0,
+     "title": "Bandit Thug Loot Box/Drop rate",
+     "pageid": 253356
+    },
+    {
+     "ns": 0,
+     "title": "WvW Siege Decoration Case/Drop rate",
+     "pageid": 208130
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Icy Bag/Drop Rate",
+     "pageid": 269150
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Bag of Supplies/Drop Rate",
+     "pageid": 265833
+    },
+    {
+     "ns": 0,
+     "title": "Dominion Crystal Materials Box/Drop rate",
+     "pageid": 294713
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Goo-Covered Bag/Drop rate",
+     "pageid": 296254
+    },
+    {
+     "ns": 0,
+     "title": "Enormous Mistwrought Chest (Mistwrought Vault)/Drop rate",
+     "pageid": 54210
+    },
+    {
+     "ns": 0,
+     "title": "Mad King Chest (historical)/Drop rate",
+     "pageid": 64721
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Developmental Materials/Drop rate",
+     "pageid": 78578
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Provisional Materials/Drop rate",
+     "pageid": 78620
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Skritt Shinies/Drop rate",
+     "pageid": 78701
+    },
+    {
+     "ns": 0,
+     "title": "Medium Miner's Bag/Drop rate",
+     "pageid": 111291
+    },
+    {
+     "ns": 0,
+     "title": "Gold Rabbit Loot Box/Drop rate",
+     "pageid": 248912
+    },
+    {
+     "ns": 0,
+     "title": "Chest of the Third Room/Drop rate",
+     "pageid": 220174
+    },
+    {
+     "ns": 0,
+     "title": "Chest of the Second Room/Drop rate",
+     "pageid": 220176
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Lifted Goods/Drop rate",
+     "pageid": 284959
+    },
+    {
+     "ns": 0,
+     "title": "Memory of Otter/Drop Rate",
+     "pageid": 285074
+    },
+    {
+     "ns": 0,
+     "title": "Bronze Rank Chest/Drop rate",
+     "pageid": 290771
+    },
+    {
+     "ns": 0,
+     "title": "Elaborate Watchwork Box/drop rate",
+     "pageid": 100812
+    },
+    {
+     "ns": 0,
+     "title": "Elegant Watchwork Box/drop rate",
+     "pageid": 100679
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/23 July 2013",
+     "pageid": 108536
+    },
+    {
+     "ns": 0,
+     "title": "Supply Bag/Drop rate",
+     "pageid": 85148
+    },
+    {
+     "ns": 0,
+     "title": "Black Rabbit Loot Box/Drop rate",
+     "pageid": 248567
+    },
+    {
+     "ns": 0,
+     "title": "Brown Rabbit Loot Box/Drop rate",
+     "pageid": 248670
+    },
+    {
+     "ns": 0,
+     "title": "Champion Snuffles the White Rabbit Loot Box/Drop rate",
+     "pageid": 248914
+    },
+    {
+     "ns": 0,
+     "title": "Champion Destroyer of Worlds Black Rabbit Loot Box/Drop rate",
+     "pageid": 248916
+    },
+    {
+     "ns": 0,
+     "title": "Chest of the First Room/Drop rate",
+     "pageid": 220177
+    },
+    {
+     "ns": 0,
+     "title": "Crystal Oasis Strongbox/Drop rate",
+     "pageid": 254083
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Snatched Goods/Drop rate",
+     "pageid": 78396
+    },
+    {
+     "ns": 0,
+     "title": "Geode Cache/Drop rate",
+     "pageid": 254538
+    },
+    {
+     "ns": 0,
+     "title": "Achievement Chest/Drop rate",
+     "pageid": 414329
+    },
+    {
+     "ns": 0,
+     "title": "Forged Chest/Drop rate",
+     "pageid": 277665
+    },
+    {
+     "ns": 0,
+     "title": "Echo of Whispers/Drop rate",
+     "pageid": 282551
+    },
+    {
+     "ns": 0,
+     "title": "Faint Echo of Whispers/Drop rate",
+     "pageid": 281276
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Defeat Mayatl the Fierce)/Drop rate",
+     "pageid": 296276
+    },
+    {
+     "ns": 0,
+     "title": "Lighthouse Point Container (exotic)/Drop rate",
+     "pageid": 303138
+    },
+    {
+     "ns": 0,
+     "title": "Gold Rank Chest/Drop rate",
+     "pageid": 290773
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/14 December 2012",
+     "pageid": 108545
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Husk Cache/Drop rate",
+     "pageid": 253365
+    },
+    {
+     "ns": 0,
+     "title": "Festive Bag of Materials/Drop rate",
+     "pageid": 171377
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Inquest Technician)/drop rate",
+     "pageid": 386168
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Uncategorized Fractal holding area)/drop rate",
+     "pageid": 386206
+    },
+    {
+     "ns": 0,
+     "title": "Bounty Chest/drop rate",
+     "pageid": 386439
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Siegemaster Dulfy)/drop rate",
+     "pageid": 386604
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Achievement Chest/Drop rate",
+     "pageid": 409516
+    },
+    {
+     "ns": 0,
+     "title": "Echo of the Shiverpeaks/Drop rate",
+     "pageid": 282550
+    },
+    {
+     "ns": 0,
+     "title": "Echo of Drizzlewood Coast/Drop rate",
+     "pageid": 282552
+    },
+    {
+     "ns": 0,
+     "title": "Faint Echo of Raven Sanctum/Drop rate",
+     "pageid": 281275
+    },
+    {
+     "ns": 0,
+     "title": "Faint Echo of Drizzlewood Coast/Drop rate",
+     "pageid": 281277
+    },
+    {
+     "ns": 0,
+     "title": "Faint Echo of the Shiverpeaks/Drop rate",
+     "pageid": 281272
+    },
+    {
+     "ns": 0,
+     "title": "Forgotten Cache (Thunderhead Peaks)/Drop rate",
+     "pageid": 275232
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Sorrow's Embrace)/Drop rate",
+     "pageid": 356739
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Chaos Anomaly)/drop rate",
+     "pageid": 356656
+    },
+    {
+     "ns": 0,
+     "title": "Port Cascadia Container (exotic)/Drop rate",
+     "pageid": 303137
+    },
+    {
+     "ns": 0,
+     "title": "Vloxen Mine Container (exotic)/Drop rate",
+     "pageid": 303134
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Miner's Bag/Drop rate",
+     "pageid": 76434
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Teragriff Cache/Drop rate",
+     "pageid": 253345
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Troll Cache/Drop rate",
+     "pageid": 253916
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mordrem Thrasher Cache/Drop rate",
+     "pageid": 254288
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Molten Effigy)/drop rate",
+     "pageid": 386239
+    },
+    {
+     "ns": 0,
+     "title": "Magnificent Chest (Not So Secret)/drop rate",
+     "pageid": 356183
+    },
+    {
+     "ns": 0,
+     "title": "Grand Chest (Sorrow's Embrace)/Drop rate",
+     "pageid": 356614
+    },
+    {
+     "ns": 0,
+     "title": "Gilded Coffer/Drop rate (exotic)",
+     "pageid": 254997
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/21 January 2014",
+     "pageid": 115100
+    },
+    {
+     "ns": 0,
+     "title": "Harem Stores/Drop rate",
+     "pageid": 246945
+    },
+    {
+     "ns": 0,
+     "title": "Grand Temple Chest/Drop rate",
+     "pageid": 230614
+    },
+    {
+     "ns": 0,
+     "title": "Stolen Chest/Drop rate",
+     "pageid": 229070
+    },
+    {
+     "ns": 0,
+     "title": "Champion Nente Loot Box/Drop rate",
+     "pageid": 374220
+    },
+    {
+     "ns": 0,
+     "title": "Ascalonian Elementalist Loot Box/Drop rate",
+     "pageid": 380857
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Material Bag: End of Dragons/Drop rate",
+     "pageid": 347918
+    },
+    {
+     "ns": 0,
+     "title": "Grand Chest (Crucible of Eternity)/Drop rate",
+     "pageid": 386241
+    },
+    {
+     "ns": 0,
+     "title": "Ambrite Cache/Drop rate",
+     "pageid": 413010
+    },
+    {
+     "ns": 0,
+     "title": "Geode Hoard/Drop rate",
+     "pageid": 413012
+    },
+    {
+     "ns": 0,
+     "title": "Champion Vassar Loot Box/Drop rate",
+     "pageid": 386890
+    },
+    {
+     "ns": 0,
+     "title": "Risen Devastator Loot Box/Drop rate",
+     "pageid": 277698
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Revenant's Exotic Equipment/Drop rate",
+     "pageid": 302899
+    },
+    {
+     "ns": 0,
+     "title": "Ash Legion Glacial Materials Box/Drop rate",
+     "pageid": 294714
+    },
+    {
+     "ns": 0,
+     "title": "Ambrite Stash/Drop rate",
+     "pageid": 299389
+    },
+    {
+     "ns": 0,
+     "title": "Grand Frost Legion Chest/Drop rate",
+     "pageid": 295964
+    },
+    {
+     "ns": 0,
+     "title": "\"Recovered\" Norn Weapons/Drop rate",
+     "pageid": 276467
+    },
+    {
+     "ns": 0,
+     "title": "Stone Summit Chest (Darkrime Delves)/Drop rate",
+     "pageid": 277974
+    },
+    {
+     "ns": 0,
+     "title": "Lighthouse Point Container/Drop rate (rare)",
+     "pageid": 302935
+    },
+    {
+     "ns": 0,
+     "title": "Petraj Overlook Container (exotic)/Drop rate",
+     "pageid": 303136
+    },
+    {
+     "ns": 0,
+     "title": "Crafting Material Coffer/Drop rate",
+     "pageid": 298868
+    },
+    {
+     "ns": 0,
+     "title": "Petraj Overlook Container/Drop rate (rare)",
+     "pageid": 302937
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/1 October 2013",
+     "pageid": 112263
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Chest/Drop rate",
+     "pageid": 228016
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Saurian Cache (Tangled Depths Reward Track)/Drop rate",
+     "pageid": 255458
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Mordrem Guard Cache/Drop rate",
+     "pageid": 254486
+    },
+    {
+     "ns": 0,
+     "title": "Stonehead Cache/Drop rate",
+     "pageid": 254130
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Quetzal Cache/Drop rate",
+     "pageid": 254587
+    },
+    {
+     "ns": 0,
+     "title": "Skelk Regurgitant Cache/Drop rate",
+     "pageid": 255396
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Zintl Cache/Drop rate",
+     "pageid": 255295
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Chak Cache/Drop rate",
+     "pageid": 255418
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Saurian Cache (Verdant Brink Reward Track)/Drop rate",
+     "pageid": 254251
+    },
+    {
+     "ns": 0,
+     "title": "Mushroom King Cache/Drop rate",
+     "pageid": 254256
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Mark III Golem Loot Box/Drop rate",
+     "pageid": 254058
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Mushroom Cache/Drop rate",
+     "pageid": 254051
+    },
+    {
+     "ns": 0,
+     "title": "Chak Cache (fine)/Drop rate",
+     "pageid": 255250
+    },
+    {
+     "ns": 0,
+     "title": "Grand Chest (Caudecus's Manor)/Drop rate",
+     "pageid": 360378
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Material Bag: Secrets of the Obscure/Drop rate",
+     "pageid": 373686
+    },
+    {
+     "ns": 0,
+     "title": "Chak Cache (Secrets of the Obscure)/Drop rate",
+     "pageid": 379337
+    },
+    {
+     "ns": 0,
+     "title": "Bandit Archer Loot Box/Drop rate",
+     "pageid": 370448
+    },
+    {
+     "ns": 0,
+     "title": "Ascalonian Warrior Loot Box/Drop rate",
+     "pageid": 374219
+    },
+    {
+     "ns": 0,
+     "title": "Ascalonian Monk Loot Box/Drop rate",
+     "pageid": 380858
+    },
+    {
+     "ns": 0,
+     "title": "Heirloom Seed Pod/Drop rate (fine)",
+     "pageid": 351546
+    },
+    {
+     "ns": 0,
+     "title": "Heirloom Seed Pod/Drop rate (masterwork)",
+     "pageid": 349240
+    },
+    {
+     "ns": 0,
+     "title": "Flame Legion Stalker Loot Box/Drop rate",
+     "pageid": 342606
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Mesmer's Exotic Equipment/Drop rate",
+     "pageid": 343004
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Molten Boss Fractal)/drop rate",
+     "pageid": 386166
+    },
+    {
+     "ns": 0,
+     "title": "Frost Legion Corrupt Materials Box/Drop rate",
+     "pageid": 296164
+    },
+    {
+     "ns": 0,
+     "title": "Champion Avatar of Balthazar Loot Box/Drop rate",
+     "pageid": 418641
+    },
+    {
+     "ns": 0,
+     "title": "Glorious Chest (Temple of Melandru)/Drop rate",
+     "pageid": 423375
+    },
+    {
+     "ns": 0,
+     "title": "Champion Sariel Loot Box/Drop rate",
+     "pageid": 414272
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mutated Fish Loot Box/Drop rate",
+     "pageid": 414275
+    },
+    {
+     "ns": 0,
+     "title": "Champion Brangoire Loot Box/Drop rate",
+     "pageid": 414278
+    },
+    {
+     "ns": 0,
+     "title": "Champion Undergrowth Spider Queen Loot Box/Drop rate",
+     "pageid": 413863
+    },
+    {
+     "ns": 0,
+     "title": "Champion Ralena Loot Box/Drop rate",
+     "pageid": 386892
+    },
+    {
+     "ns": 0,
+     "title": "Champion Kasha Loot Box/Drop rate",
+     "pageid": 386891
+    },
+    {
+     "ns": 0,
+     "title": "Forgotten Nourys Reward Box/Drop rate",
+     "pageid": 387225
+    },
+    {
+     "ns": 0,
+     "title": "Tribal Satchel/Drop rate (basic)",
+     "pageid": 352272
+    },
+    {
+     "ns": 0,
+     "title": "Heirloom Seed Pod/Drop rate (basic)",
+     "pageid": 352938
+    },
+    {
+     "ns": 0,
+     "title": "Champion Kulag the Fallen Loot Box/Drop rate",
+     "pageid": 352940
+    },
+    {
+     "ns": 0,
+     "title": "Patchwork Knapsack/Drop rate (fine)",
+     "pageid": 354080
+    },
+    {
+     "ns": 0,
+     "title": "Patchwork Knapsack/Drop rate (masterwork)",
+     "pageid": 354081
+    },
+    {
+     "ns": 0,
+     "title": "Patchwork Knapsack/Drop rate (rare)",
+     "pageid": 354082
+    },
+    {
+     "ns": 0,
+     "title": "Echo of Forging Steel/Drop rate",
+     "pageid": 277657
+    },
+    {
+     "ns": 0,
+     "title": "Echo of Raven Sanctum/Drop rate",
+     "pageid": 277659
+    },
+    {
+     "ns": 0,
+     "title": "Risen Elementalist Loot Box/Drop rate",
+     "pageid": 277701
+    },
+    {
+     "ns": 0,
+     "title": "Champion Lamar the Black Tiger Loot Box/Drop rate",
+     "pageid": 288019
+    },
+    {
+     "ns": 0,
+     "title": "Champion Beam the White Phoenix Loot Box/Drop rate",
+     "pageid": 288762
+    },
+    {
+     "ns": 0,
+     "title": "Champion Ark the White Tiger Loot Box/Drop rate",
+     "pageid": 288764
+    },
+    {
+     "ns": 0,
+     "title": "Champion Waffle the White Bear Loot Box/Drop rate",
+     "pageid": 288765
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Material Bag: Dragonfall/Drop rate",
+     "pageid": 284917
+    },
+    {
+     "ns": 0,
+     "title": "Champion Kudu Loot Box (Crucible of Eternity)/Drop rate",
+     "pageid": 284918
+    },
+    {
+     "ns": 0,
+     "title": "Champion Kudu Power Suit Loot Box/Drop rate",
+     "pageid": 284919
+    },
+    {
+     "ns": 0,
+     "title": "Champion Separatist Sergeant Loot Box/Drop rate",
+     "pageid": 287393
+    },
+    {
+     "ns": 0,
+     "title": "Slime-Covered Strongbox/Drop rate (fine)",
+     "pageid": 285987
+    },
+    {
+     "ns": 0,
+     "title": "Slime-Covered Strongbox/Drop rate (masterwork)",
+     "pageid": 269068
+    },
+    {
+     "ns": 0,
+     "title": "Inquest Assassin Loot Box/Drop rate",
+     "pageid": 276456
+    },
+    {
+     "ns": 0,
+     "title": "Champion Mac the Black Deer Loot Box/Drop rate",
+     "pageid": 278148
+    },
+    {
+     "ns": 0,
+     "title": "Gold Deer Loot Box/Drop rate",
+     "pageid": 278152
+    },
+    {
+     "ns": 0,
+     "title": "Brown Deer Loot Box/Drop rate",
+     "pageid": 278154
+    },
+    {
+     "ns": 0,
+     "title": "Black Deer Loot Box/Drop rate",
+     "pageid": 278155
+    },
+    {
+     "ns": 0,
+     "title": "Champion Dawn the White Tailed Deer Loot Box/Drop rate",
+     "pageid": 278146
+    },
+    {
+     "ns": 0,
+     "title": "Cavalier Squire's Kit/Drop rate",
+     "pageid": 281226
+    },
+    {
+     "ns": 0,
+     "title": "Champion Bloated Creeper Loot Box/Drop rate",
+     "pageid": 281231
+    },
+    {
+     "ns": 0,
+     "title": "Champion Risen Wraith Loot Box/Drop rate",
+     "pageid": 281232
+    },
+    {
+     "ns": 0,
+     "title": "Risen Mage Loot Box/Drop rate",
+     "pageid": 281239
+    },
+    {
+     "ns": 0,
+     "title": "Undead Animal Loot Box/Drop rate",
+     "pageid": 275562
+    },
+    {
+     "ns": 0,
+     "title": "Tribal Satchel/Drop rate (rare)",
+     "pageid": 346350
+    },
+    {
+     "ns": 0,
+     "title": "Tribal Satchel/Drop rate (fine)",
+     "pageid": 346724
+    },
+    {
+     "ns": 0,
+     "title": "Tribal Satchel/Drop rate (masterwork)",
+     "pageid": 345744
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Necromancer's Exotic Equipment/Drop rate",
+     "pageid": 302947
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Engineer's Exotic Equipment/Drop rate",
+     "pageid": 309566
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Warrior's Exotic Equipment/Drop rate",
+     "pageid": 302579
+    },
+    {
+     "ns": 0,
+     "title": "Gold Tiger Loot Box/Drop rate",
+     "pageid": 293595
+    },
+    {
+     "ns": 0,
+     "title": "Gold Bear Loot Box/Drop rate",
+     "pageid": 293596
+    },
+    {
+     "ns": 0,
+     "title": "Gold Shark Loot Box/Drop rate",
+     "pageid": 293597
+    },
+    {
+     "ns": 0,
+     "title": "Gold Phoenix Loot Box/Drop rate",
+     "pageid": 293598
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Frozen Loot/Drop rate",
+     "pageid": 296928
+    },
+    {
+     "ns": 0,
+     "title": "Brown Phoenix Loot Box/Drop rate",
+     "pageid": 294793
+    },
+    {
+     "ns": 0,
+     "title": "Black Phoenix Loot Box/Drop rate",
+     "pageid": 294795
+    },
+    {
+     "ns": 0,
+     "title": "Flame Legion Molten Materials Box/Drop rate",
+     "pageid": 294716
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pouch/Drop rate (fine)",
+     "pageid": 298012
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pod/Drop rate (fine)",
+     "pageid": 298013
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pod/Drop rate (basic)",
+     "pageid": 298015
+    },
+    {
+     "ns": 0,
+     "title": "Sentient Root/Drop rate",
+     "pageid": 299403
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pod/Drop rate (masterwork)",
+     "pageid": 299477
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pod/Drop rate (rare)",
+     "pageid": 299478
+    },
+    {
+     "ns": 0,
+     "title": "Noxious Seed Pouch/Drop rate (masterwork)",
+     "pageid": 266619
+    },
+    {
+     "ns": 0,
+     "title": "Thorny Seed Pouch/Drop rate (rare)",
+     "pageid": 266631
+    },
+    {
+     "ns": 0,
+     "title": "Brown Tiger Loot Box/Drop rate",
+     "pageid": 292789
+    },
+    {
+     "ns": 0,
+     "title": "Brown Bear Loot Box/Drop rate",
+     "pageid": 292790
+    },
+    {
+     "ns": 0,
+     "title": "Black Tiger Loot Box/Drop rate",
+     "pageid": 292787
+    },
+    {
+     "ns": 0,
+     "title": "Black Bear Loot Box/Drop rate",
+     "pageid": 292788
+    },
+    {
+     "ns": 0,
+     "title": "Champion Sleepy the Black Bear Loot Box/Drop rate",
+     "pageid": 292810
+    },
+    {
+     "ns": 0,
+     "title": "Singed Ritualist Bag/Drop rate (rare)",
+     "pageid": 297456
+    },
+    {
+     "ns": 0,
+     "title": "Singed Ritualist Bag/Drop rate (fine)",
+     "pageid": 297457
+    },
+    {
+     "ns": 0,
+     "title": "Champion Separatist Lieutenant Loot Box/Drop rate",
+     "pageid": 276315
+    },
+    {
+     "ns": 0,
+     "title": "Wraith Loot Box/Drop rate",
+     "pageid": 276297
+    },
+    {
+     "ns": 0,
+     "title": "Singed Ritualist Bag/Drop rate (basic)",
+     "pageid": 277886
+    },
+    {
+     "ns": 0,
+     "title": "Inquest Technician Loot Box/Drop rate",
+     "pageid": 276510
+    },
+    {
+     "ns": 0,
+     "title": "Gold Wolf Loot Box/Drop rate",
+     "pageid": 283466
+    },
+    {
+     "ns": 0,
+     "title": "Gold Dolyak Loot Box/Drop rate",
+     "pageid": 283470
+    },
+    {
+     "ns": 0,
+     "title": "Glint's Crystalline Chest/Drop rate",
+     "pageid": 354880
+    },
+    {
+     "ns": 0,
+     "title": "Dredge Bomber Loot Box/Drop rate",
+     "pageid": 356576
+    },
+    {
+     "ns": 0,
+     "title": "Patchwork Knapsack/Drop rate (basic)",
+     "pageid": 356312
+    },
+    {
+     "ns": 0,
+     "title": "Heavy Loot Bag/Drop rate/Archive",
+     "pageid": 86527
+    },
+    {
+     "ns": 0,
+     "title": "Box of WvW Supplies/Drop rate/2024-10",
+     "pageid": 389672
+    },
+    {
+     "ns": 0,
+     "title": "Leadfoot Village Container/Drop rate (rare)",
+     "pageid": 302936
+    },
+    {
+     "ns": 0,
+     "title": "Port Cascadia Container/Drop rate (rare)",
+     "pageid": 302938
+    },
+    {
+     "ns": 0,
+     "title": "Black Lion Chest/Drop rate/Archive/18 February 2014",
+     "pageid": 123814
+    },
+    {
+     "ns": 0,
+     "title": "Champion Zhaitan the Corrupted Dragon Loot Box/Drop rate",
+     "pageid": 252835
+    },
+    {
+     "ns": 0,
+     "title": "Skelk Loot Box/Drop rate",
+     "pageid": 253516
+    },
+    {
+     "ns": 0,
+     "title": "Timeworn Bust of Palawa Joko/Drop rate",
+     "pageid": 232302
+    },
+    {
+     "ns": 0,
+     "title": "Grand Forgotten Chest/Drop rate",
+     "pageid": 243355
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Vined Cache (Auric Basin Reward Track)/Drop rate",
+     "pageid": 255065
+    },
+    {
+     "ns": 0,
+     "title": "V.O.X.'s Battle Box/Drop rate",
+     "pageid": 255459
+    },
+    {
+     "ns": 0,
+     "title": "Veteran Mushroom Cache (Auric Basin Reward Track)/Drop rate",
+     "pageid": 254983
+    },
+    {
+     "ns": 0,
+     "title": "Seaswept Pyxis/Drop rate",
+     "pageid": 258190
+    },
+    {
+     "ns": 0,
+     "title": "Aetherlocation Treasure/Drop rate",
+     "pageid": 406994
+    },
+    {
+     "ns": 0,
+     "title": "Glorious Chest (Risen High Wizard)/Drop rate",
+     "pageid": 421797
+    },
+    {
+     "ns": 0,
+     "title": "Embroidered Saddlebag/Drop rate (masterwork)",
+     "pageid": 412237
+    },
+    {
+     "ns": 0,
+     "title": "Box of Eparch's Prized Possessions/Drop rate",
+     "pageid": 389617
+    },
+    {
+     "ns": 0,
+     "title": "Chest (Citadel of Flame)/drop rate",
+     "pageid": 389667
+    },
+    {
+     "ns": 0,
+     "title": "Forgotten Convergence Reward Box/Drop rate",
+     "pageid": 395326
+    },
+    {
+     "ns": 0,
+     "title": "Champion Blade the White Shark Loot Box/Drop rate",
+     "pageid": 288761
+    },
+    {
+     "ns": 0,
+     "title": "Bag of Dragon's Stand Supplies/Drop rate",
+     "pageid": 283104
+    },
+    {
+     "ns": 0,
+     "title": "Tribal Satchel/Drop rate (exotic)",
+     "pageid": 285986
+    },
+    {
+     "ns": 0,
+     "title": "Champion Asta the Black Dolyak Loot Box/Drop rate",
+     "pageid": 286336
+    },
+    {
+     "ns": 0,
+     "title": "Champion Asmund the White Dolyak Loot Box/Drop rate",
+     "pageid": 286332
+    },
+    {
+     "ns": 0,
+     "title": "Undead Spider Loot Box/Drop rate",
+     "pageid": 275561
+    },
+    {
+     "ns": 0,
+     "title": "Champion Branded Minion Loot Box/Drop rate",
+     "pageid": 345720
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Thief's Exotic Equipment/Drop rate",
+     "pageid": 304686
+    },
+    {
+     "ns": 0,
+     "title": "Chest of Elementalist's Exotic Equipment/Drop rate",
+     "pageid": 308793
+    },
+    {
+     "ns": 0,
+     "title": "Ghostly Bag of Loot/Drop rate",
+     "pageid": 296927
+    },
+    {
+     "ns": 0,
+     "title": "Brown Shark Loot Box/Drop rate",
+     "pageid": 294792
+    },
+    {
+     "ns": 0,
+     "title": "Black Shark Loot Box/Drop rate",
+     "pageid": 294794
+    },
+    {
+     "ns": 0,
+     "title": "Champion Ash the Black Phoenix Loot Box/Drop rate",
+     "pageid": 299391
+    }
+   ]
+  }
+ }
+}
