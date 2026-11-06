@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Halloween Reward Track|Wintersday Reward Track|Dragon Bash Reward Track|Super Adventure Reward Track|Festival of the Four Winds Reward Track|Lunar New Year Reward Track"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

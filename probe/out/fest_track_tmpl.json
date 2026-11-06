@@ -1,0 +1,11 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "templates",
+  "tllimit": "100",
+  "titles": "Halloween Reward Track|Ascalon Reward Track"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}
