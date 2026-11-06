@@ -253,6 +253,10 @@
                       "waypoint_chat_code": {
                         "type": "string",
                         "description": "nearest waypoint to the vendor's area (official API), for Crafting > Vendor"
+                      },
+                      "festival": {
+                        "type": "string",
+                        "description": "this vendor is only there during the festival"
                       }
                     }
                   }
@@ -264,6 +268,10 @@
                 "wiki_page": {
                   "type": "string",
                   "description": "reward: wiki page of the achievement / collection"
+                },
+                "festival": {
+                  "type": "string",
+                  "description": "every vendor selling it this way is festival-only: available only inside that festival's windows"
                 }
               }
             }
@@ -370,6 +378,57 @@
               }
             },
             "description": "mastery tracks (/v2/masteries) and levels needed"
+          },
+          "festival": {
+            "type": "string",
+            "description": "festival name (pack festivals[].name): only available inside that festival's windows"
+          }
+        }
+      }
+    },
+    "festivals": {
+      "type": "array",
+      "description": "Recurring festivals and every release window from the festival's wiki page. A source or activity with \"festival\" is available only inside one of its windows; a festival with no window is off.",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "windows"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "wiki page title; [fast] 'Requires' names match it ignoring case"
+          },
+          "wiki_url": {
+            "type": "string"
+          },
+          "windows": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "start"
+              ],
+              "properties": {
+                "release": {
+                  "type": "string"
+                },
+                "start": {
+                  "type": "string",
+                  "format": "date",
+                  "description": "first day (UTC date the festival opens)"
+                },
+                "end": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "format": "date",
+                  "description": "day it closes (the release's end date on the wiki); null = not announced yet"
+                }
+              }
+            }
           }
         }
       }

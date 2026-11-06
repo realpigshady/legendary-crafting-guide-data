@@ -33,6 +33,7 @@ import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
+import festivals as fest  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -395,7 +396,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         raise SourceDown(str(e)) from e
     # full catalog for other packs (test pack): every activity, every guaranteed yield
     (http.dir / "activity-catalog.json").write_text(
-        json.dumps([{k: v for k, v in a.items() if k != "_page"} for a in catalog], ensure_ascii=False, sort_keys=True, indent=0) + "\n",
+        json.dumps([{k: v for k, v in a.items() if not k.startswith("_")} for a in catalog], ensure_ascii=False, sort_keys=True, indent=0) + "\n",
         encoding="utf-8")
     # one activity per wiki page: places found from item rewards fold into the catalog's entry
     by_page = {a["_page"].lower(): a for a in catalog}
@@ -409,7 +410,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                     c["yields"].append(y)
     final = {a["id"]: a for a in acts.values() if a["id"] not in rename}
     for a in catalog:
-        a = {k: v for k, v in a.items() if k != "_page"}
+        a = {k: v for k, v in a.items() if not k.startswith("_")}
         a["yields"] = [y for y in a["yields"] if y["node_id"] in nodes]   # only what this pack's trees use
         final[a["id"]] = a
     for n in nodes.values():
@@ -434,6 +435,31 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     print(f"vendor waypoints: {vw['with_waypoint']}/{vw['vendors']} vendors ({vw['maps_indexed']} maps indexed)")
     if not maps:
         warnings.append("vendor waypoints: no map index (API down and nothing stored)")
+    # festivals: windows from each festival page, tags on activities and vendor sources.
+    # Catalog entries keep their _page/_cats/_map until here (stripped below).
+    festivals, fwarn = fest.windows(store)
+    warnings += fwarn
+    by_cat = {a["id"]: a for a in catalog}
+    tag_acts = [by_cat.get(a["id"], a) for a in final.values()]
+
+    def page_cats(pages: list[str]) -> dict[str, list[dict]]:
+        try:
+            return smw.get("pagecats", pages)
+        except wsrc.WikiSourcesDown as e:   # never asked before and the wiki is down: untagged this run
+            warnings.append(f"festivals: page categories unavailable ({e}); festival tags incomplete")
+            return {}
+    stats["festivals"] = fest.tag(tag_acts, list(nodes.values()), page_cats)
+    for a in tag_acts:
+        if a.get("festival") and a["id"] in final:
+            final[a["id"]]["festival"] = a["festival"]
+    for a in final.values():
+        for k in [k for k in a if k.startswith("_")]:
+            del a[k]
+    nwin = {w["name"]: len(w["windows"]) for w in festivals}
+    for f, v in stats["festivals"]["by_festival"].items():
+        print(f"festival {f}: {v['activities']} activities, {v['vendor_sources']} vendor sources, {nwin.get(f, 0)} windows")
+    for f, n in stats["festivals"]["unknown_festivals"].items():
+        warnings.append(f"festivals: vendor requirement names unknown festival '{f}' ({n}x): add it to config/festivals.json")
     act_list = sorted(final.values(), key=lambda a: a["id"])
     timed_n = sum(1 for a in act_list if a.get("est_minutes"))
     print(f"activities: {len(act_list)} ({timed_n} timed, {sum(1 for a in act_list if a['yields'])} with yields for these trees)")
@@ -444,6 +470,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         "nodes": list(nodes.values()),
         "activities": act_list,   # wiki places/tracks; metas timed from the wiki event timer, the rest by DRF
         "all_legendary_item_ids": sorted(i["id"] for i in items),
+        "festivals": festivals,   # windows per festival; sources with "festival" are planned only inside one
         # Hosts that were down this run and served from snapshot instead.
         # The addon shows "wiki data from snapshot" when non-empty.
         "stale_sources": sorted(set(http.stale) | ({"wiki.guildwars2.com"} if store.stale or smw.down else set())),

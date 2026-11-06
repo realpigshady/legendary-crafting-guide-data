@@ -1,0 +1,11 @@
+{
+  "_doc": "Recurring GW2 festivals, by their wiki page title. Each page's '== Releases ==' list gives the windows; pages in the category of the same name (plus Category:Temporary content) are festival content. See tools/festivals.py.",
+  "festivals": [
+    "Lunar New Year",
+    "Super Adventure Festival",
+    "Dragon Bash",
+    "Festival of the Four Winds",
+    "Halloween",
+    "Wintersday"
+  ]
+}

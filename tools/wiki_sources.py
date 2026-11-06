@@ -79,12 +79,18 @@ def _q_place(names: list[str]) -> str:          # a location page's parent area 
     return "[[" + "||".join(names) + "]]|?Located in|?Has map id"
 
 
+def _q_pagecats(names: list[str]) -> str:     # the categories of these pages (festival tags)
+    return "[[" + "||".join(names) + "]]|?Category"
+
+
 def _q_category(cats: list[str]) -> str:       # every page in one category (asked one at a time)
     return f"[[{cats[0]}]]|?Has location type|?Has canonical name|?Located in|?Is historical"
 
 
 QUERIES = {"category": _q_category, "vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
-           "rewards_of": _q_rewards_of, "locations": _q_locations, "contained": _q_contained, "place": _q_place}
+           "rewards_of": _q_rewards_of, "locations": _q_locations, "contained": _q_contained, "place": _q_place,
+           "pagecats": _q_pagecats}
+CHUNK_BY = {"pagecats": 40}   # page lists, no property join: bigger OR'ed batches are cheap
 # which printout names the item a row is about
 ROW_ITEM = {"vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
             "rewards_of": "Rewarded by", "locations": "Has location type", "contained": "Contains item"}
@@ -203,8 +209,9 @@ class SourceStore:
             for n in todo:
                 out[n] = self._live_or_stored(kind, [n], lambda ns: self._ask(_q_category(ns)), now, whole=True).get(n, [])
             return out
-        for i in range(0, len(todo), CHUNK):
-            part = todo[i:i + CHUNK]
+        step = CHUNK_BY.get(kind, CHUNK)
+        for i in range(0, len(todo), step):
+            part = todo[i:i + step]
             out.update(self._live_or_stored(kind, part, lambda ns: self._ask(QUERIES[kind](ns)), now))
         return out
 
@@ -252,7 +259,7 @@ class SmwError(Exception):
 
 
 def _items_of(kind: str, row: dict) -> list[str]:
-    if kind == "place":   # the row is the page itself
+    if kind in ("place", "pagecats"):   # the row is the page itself
         return [row["_subject"].split("#")[0]]
     if kind == "track":
         recs = row.get("Contains item in reward track") or []

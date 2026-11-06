@@ -90,7 +90,7 @@ def timed(events: dict) -> list[dict]:
                         "expansion": EXPANSION.get(key.split("-")[0], "core"),
                         "est_minutes": int(statistics.median(d for _, d in bl)),
                         "max_runs_per_day": 1,   # guaranteed event rewards are once a day
-                        "starts_utc": starts, "yields": [], "guidance": g, "_page": page})
+                        "starts_utc": starts, "yields": [], "guidance": g, "_page": page, "_map": name})
     return out
 
 
@@ -118,7 +118,8 @@ def places(store: "ws.SourceStore") -> list[dict]:
         out.append({"id": f"loc:{ws.slug(page)}", "name": (r.get("Has canonical name") or [page])[0], "mode": "pvp" if pvp else "pve",
                     "expansion": exp, "yields": [], **({"map_ids": maps} if maps else {}),
                     "guidance": {"text": kind + (f" in {where}" if where else "") + " (no run length on the wiki: DRF times it)",
-                                 "wiki_url": _url(page)}, "_page": page})
+                                 "wiki_url": _url(page)}, "_page": page,
+                    "_cats": sorted(cats)})   # festival tags (tools/festivals.py)
     import collections
     import sys
     counts = collections.Counter(a["guidance"]["text"].split(" (")[0].split(" in ")[0] for a in out)
