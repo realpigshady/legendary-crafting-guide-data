@@ -1,12 +1,48 @@
 {
- "strike_cats": {
+ "fest_pages": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Lunar New Year|Super Adventure Festival|Dragon Bash|Festival of the Four Winds|Halloween|Wintersday"
+ },
+ "fest_index": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Festival|Main Page|Release"
+ },
+ "fest_mainpage_templates": {
+  "action": "query",
+  "prop": "templates",
+  "tllimit": "100",
+  "titles": "Main Page|Wintersday|Halloween"
+ },
+ "fest_cats": {
   "action": "query",
   "prop": "categories",
   "cllimit": "50",
-  "titles": "Old Lion's Court|Shiverpeaks Pass|Harvest Temple|Cosmic Observatory"
+  "titles": "Toypocalypse|Mad King's Clock Tower|Bell Choir Ensemble|Halloween Vendor|Zalman|Super Adventure Box Trader|Labyrinthine Cliffs|Mad King's Labyrinth|Celestial Challenge|Dragon Bash Arena|Boss Blitz|Winter Wonderland|Hooligan's Route|Candy Corn Vendor"
  },
- "strike_browse": {
+ "fest_browse_wintersday": {
   "action": "browsebysubject",
-  "subject": "Harvest Temple"
+  "subject": "Wintersday"
+ },
+ "fest_browse_halloween_vendor": {
+  "action": "browsebysubject",
+  "subject": "Halloween Vendor"
+ },
+ "fest_ask_festivals": {
+  "action": "ask",
+  "query": "[[Category:Festivals]]|?Has release date|?Has canonical name|?Category|limit=50"
+ },
+ "fest_catmembers": {
+  "action": "query",
+  "list": "categorymembers",
+  "cmtitle": "Category:Festivals",
+  "cmlimit": "100"
  }
 }
