@@ -80,7 +80,9 @@ def _q_place(names: list[str]) -> str:          # a location page's parent area 
 
 
 def _q_pagecats(names: list[str]) -> str:     # the categories of these pages (festival tags)
-    return "[[" + "||".join(names) + "]]|?Category"
+    # not an SMW ask (its query-size limit allows ~a dozen ORs): action=query prop=categories,
+    # 50 titles a request; this string only names the query shape for the snapshot signature
+    return "prop=categories|clshow=|redirects=1|titles=" + "|".join(names)
 
 
 def _q_category(cats: list[str]) -> str:       # every page in one category (asked one at a time)
@@ -90,7 +92,7 @@ def _q_category(cats: list[str]) -> str:       # every page in one category (ask
 QUERIES = {"category": _q_category, "vendor": _q_vendor, "achievement": _q_achievement, "rewarded": _q_rewarded, "salvage": _q_salvage,
            "rewards_of": _q_rewards_of, "locations": _q_locations, "contained": _q_contained, "place": _q_place,
            "pagecats": _q_pagecats}
-CHUNK_BY = {"pagecats": 40}   # page lists, no property join: bigger OR'ed batches are cheap
+CHUNK_BY = {"pagecats": 50}   # MediaWiki's titles limit per query
 # which printout names the item a row is about
 ROW_ITEM = {"vendor": "Sells item", "achievement": "Gives item", "rewarded": "Rewards item", "salvage": "Salvages into",
             "rewards_of": "Rewarded by", "locations": "Has location type", "contained": "Contains item"}
@@ -189,6 +191,35 @@ class SourceStore:
                 return out
             offset = nxt
 
+    def _categories(self, names: list[str]) -> list[dict]:
+        """[{_subject: requested title, Category: [...]}] via action=query prop=categories (redirects followed)."""
+        titles = [n.split("#")[0] for n in names]
+        cats: dict[str, list[str]] = {}
+        params = {"action": "query", "format": "json", "formatversion": "2", "prop": "categories",
+                  "cllimit": "max", "redirects": "1", "titles": "|".join(dict.fromkeys(titles))}
+        alias: dict[str, str] = {}
+        while True:
+            self.requests += 1
+            reply = self.post(params)
+            if "error" in reply:
+                raise SmwError(f"categories: {reply['error'].get('info', reply['error'])}")
+            q = reply.get("query", {})
+            for m in q.get("normalized", []) + q.get("redirects", []):
+                alias[m["from"]] = m["to"]
+            for pg in q.get("pages", []):
+                cats.setdefault(pg["title"], []).extend(c["title"] for c in pg.get("categories", []))
+            if "continue" not in reply:
+                break
+            params = {**params, **reply["continue"]}
+        out = []
+        for n, t in zip(names, titles):
+            final = t
+            for _ in range(3):   # normalized, then redirect
+                final = alias.get(final, final)
+            if final in cats:
+                out.append({"_subject": n, "Category": sorted(set(cats[final]))})
+        return out
+
     def get(self, kind: str, names: list[str]) -> dict[str, list[dict]]:
         """kind -> rows per item name (every name gets an entry, possibly empty)."""
         now = time.time()
@@ -208,6 +239,11 @@ class SourceStore:
         if kind == "category":   # rows don't name their category: one query each, every row is its
             for n in todo:
                 out[n] = self._live_or_stored(kind, [n], lambda ns: self._ask(_q_category(ns)), now, whole=True).get(n, [])
+            return out
+        if kind == "pagecats":
+            for i in range(0, len(todo), CHUNK_BY[kind]):
+                part = todo[i:i + CHUNK_BY[kind]]
+                out.update(self._live_or_stored(kind, part, self._categories, now))
             return out
         step = CHUNK_BY.get(kind, CHUNK)
         for i in range(0, len(todo), step):
@@ -259,7 +295,9 @@ class SmwError(Exception):
 
 
 def _items_of(kind: str, row: dict) -> list[str]:
-    if kind in ("place", "pagecats"):   # the row is the page itself
+    if kind == "pagecats":              # the row names the title as it was asked
+        return [row["_subject"]]
+    if kind == "place":   # the row is the page itself
         return [row["_subject"].split("#")[0]]
     if kind == "track":
         recs = row.get("Contains item in reward track") or []

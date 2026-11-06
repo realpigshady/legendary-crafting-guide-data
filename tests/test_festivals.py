@@ -84,3 +84,28 @@ def test_tag():
     assert s[4]["festival"] == "Moon Fest" and st["unknown_festivals"] == {"Moon Fest": 1}
     assert "festival" not in s[5]
     assert st["by_festival"]["Halloween"] == {"activities": 1, "vendor_sources": 0, "vendors": 1}
+
+
+def test_pagecats_fetch(tmp_path):
+    import wiki_sources as ws
+    calls = []
+
+    def post(params):
+        calls.append(params)
+        if "clcontinue" not in params:
+            return {"continue": {"clcontinue": "x", "continue": "||"},
+                    "query": {"normalized": [{"from": "zalman", "to": "Zalman"}],
+                              "redirects": [{"from": "Halloween Vendor", "to": "Halloween Vendor (Lion's Arch)"}],
+                              "pages": [{"title": "Zalman", "categories": [{"title": "Category:Merchants"}]},
+                                        {"title": "Halloween Vendor (Lion's Arch)", "categories": []},
+                                        {"title": "Nope", "missing": True}]}}
+        return {"query": {"pages": [{"title": "Zalman", "categories": [{"title": "Category:Festival of the Four Winds"}]}]}}
+
+    st = ws.SourceStore(tmp_path, post)
+    got = st.get("pagecats", ["zalman", "Halloween Vendor", "Adventure#Section"])
+    assert got["zalman"][0]["Category"] == ["Category:Festival of the Four Winds", "Category:Merchants"]
+    assert got["Halloween Vendor"][0]["Category"] == []
+    assert got["Adventure#Section"] == []
+    assert len(calls) == 2 and "Adventure" in calls[0]["titles"]
+    st2 = ws.SourceStore(tmp_path, lambda p: (_ for _ in ()).throw(OSError("down")))
+    assert st2.get("pagecats", ["zalman"]) == {"zalman": got["zalman"]}   # stored per title
