@@ -280,7 +280,7 @@
                     "type": "object",
                     "required": [
                       "node_id",
-                      "avg"
+                      "count"
                     ],
                     "properties": {
                       "node_id": {
@@ -289,9 +289,10 @@
                       "name": {
                         "type": "string"
                       },
-                      "avg": {
+                      "count": {
                         "type": "number",
-                        "minimum": 0
+                        "exclusiveMinimum": 0,
+                        "description": "average per attempt (a fraction)"
                       }
                     }
                   }

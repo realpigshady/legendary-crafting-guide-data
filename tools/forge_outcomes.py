@@ -170,7 +170,7 @@ def apply(nodes: dict[str, dict], store, random_seen: dict[str, list]) -> tuple[
                 continue
             k = s.get("output_count", 1)
             s["expected_output"] = round(out["p_unit"] * k, 4)
-            s["byproducts"] = [{"node_id": ids[nm], "name": nm, "avg": round(v * k, 4)}
+            s["byproducts"] = [{"node_id": ids[nm], "name": nm, "count": round(v * k, 4)}
                                for nm, v in sorted(out["items"].items(), key=lambda kv: -kv[1]) if v * k >= 0.0005]
             s["research"] = {"page": WIKI + urllib.parse.quote(cfg["research"].replace(" ", "_")),
                              "attempts": out["attempts"], "expected_from": out["from"]}
