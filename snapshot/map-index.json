@@ -1,0 +1,16099 @@
+{
+"fetched_at": 1793930506,
+"maps": [
+{
+"centre": [
+44416,
+29248
+],
+"id": 15,
+"name": "Queensdale",
+"sectors": [
+[
+"Altar Brook Vale",
+43343,
+29576
+],
+[
+"Altar's Windings",
+42843,
+29735
+],
+[
+"Bandithaunt Caverns",
+43020,
+29174
+],
+[
+"Beetletun Farms",
+45976,
+28845
+],
+[
+"Beggar's Burrow",
+44426,
+28206
+],
+[
+"Clayent Falls",
+43013,
+30212
+],
+[
+"Demongrub Pits",
+46072,
+30174
+],
+[
+"Eastern Divinity Dam",
+45068,
+28158
+],
+[
+"Godslost Swamp",
+45061,
+30002
+],
+[
+"Krytan Freeholds",
+45394,
+29167
+],
+[
+"Lake Delavan",
+44466,
+28524
+],
+[
+"Orlaf Escarpments",
+45608,
+29671
+],
+[
+"Phinney Ridge",
+44533,
+29784
+],
+[
+"Pinion Trail",
+42710,
+29223
+],
+[
+"Queen's Forest",
+44888,
+28804
+],
+[
+"Salma's Heath",
+45912,
+29417
+],
+[
+"Scaver Plateau",
+44327,
+29115
+],
+[
+"Shaemoor Fields",
+43196,
+28761
+],
+[
+"Shaemoor Garrison",
+44104,
+28797
+],
+[
+"Shire of Beetletun",
+45901,
+28224
+],
+[
+"Taminn Foothills",
+45777,
+30154
+],
+[
+"The Heartwoods",
+44089,
+29946
+],
+[
+"Township of Claypool",
+43436,
+30258
+],
+[
+"Village of Shaemoor",
+43851,
+28584
+],
+[
+"Western Divinity Dam",
+43055,
+28210
+],
+[
+"Windloss Delves",
+44543,
+28947
+]
+],
+"waypoints": [
+[
+"Beetletun Waypoint",
+45968,
+28420,
+"[&BPoAAAA=]"
+],
+[
+"Claypool Waypoint",
+43482,
+29972,
+"[&BPYAAAA=]"
+],
+[
+"Crossing Waypoint",
+43584,
+29519,
+"[&BPIAAAA=]"
+],
+[
+"Fields Waypoint",
+43357,
+28721,
+"[&BPAAAAA=]"
+],
+[
+"Garrison Waypoint",
+44095,
+28804,
+"[&BPEAAAA=]"
+],
+[
+"Godslost Waypoint",
+45275,
+29755,
+"[&BPwAAAA=]"
+],
+[
+"Heartwood Pass Camp Waypoint",
+44239,
+30073,
+"[&BPUAAAA=]"
+],
+[
+"Krytan Waypoint",
+45150,
+29080,
+"[&BPgAAAA=]"
+],
+[
+"Ojon's Lumbermill Waypoint",
+44715,
+28617,
+"[&BPkAAAA=]"
+],
+[
+"Orchard Waypoint",
+42864,
+28510,
+"[&BEQDAAA=]"
+],
+[
+"Phinney Waypoint",
+44549,
+29806,
+"[&BPMAAAA=]"
+],
+[
+"Scaver Waypoint",
+44145,
+29194,
+"[&BEUDAAA=]"
+],
+[
+"Shaemoor Waypoint",
+43728,
+28590,
+"[&BO8AAAA=]"
+],
+[
+"Swamplost Haven Waypoint",
+44959,
+30336,
+"[&BPcAAAA=]"
+],
+[
+"Tunwatch Redoubt Waypoint",
+45691,
+29146,
+"[&BPsAAAA=]"
+],
+[
+"Vale Waypoint",
+42996,
+29696,
+"[&BPQAAAA=]"
+]
+]
+},
+{
+"centre": [
+47808,
+27264
+],
+"id": 17,
+"name": "Harathi Hinterlands",
+"sectors": [
+[
+"Arca Lake",
+46635,
+26362
+],
+[
+"Arcallion Digs",
+47696,
+26077
+],
+[
+"Bonerattler Caverns",
+46535,
+28465
+],
+[
+"Cloven Hoof Pass",
+48129,
+26487
+],
+[
+"Diremane Woods",
+48907,
+27049
+],
+[
+"Faun's Gap",
+47303,
+28132
+],
+[
+"Greenflin Plateau",
+47449,
+26389
+],
+[
+"Greystone Rise",
+46768,
+26979
+],
+[
+"Guardian Lake",
+48250,
+28296
+],
+[
+"Hangman's Saddle",
+48555,
+27391
+],
+[
+"Hidden Ourobon",
+49157,
+26805
+],
+[
+"High Timber Claim",
+48582,
+26508
+],
+[
+"Modniir Gorge",
+48966,
+26313
+],
+[
+"Nightguard Beach",
+47441,
+28439
+],
+[
+"Ourobore Caves",
+49156,
+27460
+],
+[
+"Ruins of Holy Demetra",
+46364,
+27786
+],
+[
+"Shieldbluff Point",
+48465,
+28479
+],
+[
+"Splintered Teeth",
+47588,
+27629
+],
+[
+"Stoneman's Notch",
+48169,
+27110
+],
+[
+"The Feral Dens",
+46414,
+26044
+],
+[
+"Thunder Rock",
+48131,
+27638
+],
+[
+"Trebuchet Bend",
+47633,
+27054
+],
+[
+"Wildspine Hills",
+49133,
+28134
+],
+[
+"Wynchona Woods",
+46982,
+27674
+]
+],
+"waypoints": [
+[
+"Arca Waypoint",
+46499,
+26141,
+"[&BLIAAAA=]"
+],
+[
+"Arcallion Waypoint",
+47559,
+26139,
+"[&BMMAAAA=]"
+],
+[
+"Barricade Camp Waypoint",
+48544,
+27299,
+"[&BK0AAAA=]"
+],
+[
+"Bridgewatch Camp Waypoint",
+47384,
+26627,
+"[&BK8AAAA=]"
+],
+[
+"Cloven Hoof Waypoint",
+48809,
+26175,
+"[&BLEAAAA=]"
+],
+[
+"Demetra Waypoint",
+46506,
+27639,
+"[&BKsAAAA=]"
+],
+[
+"Faun's Waypoint",
+47174,
+28234,
+"[&BKUAAAA=]"
+],
+[
+"Grey Gritta's Waypoint",
+49048,
+27957,
+"[&BKkAAAA=]"
+],
+[
+"Junction Camp Waypoint",
+48032,
+26414,
+"[&BLAAAAA=]"
+],
+[
+"Nightguard Waypoint",
+47627,
+28497,
+"[&BKoAAAA=]"
+],
+[
+"Recovery Camp Waypoint",
+47863,
+27455,
+"[&BKwAAAA=]"
+],
+[
+"Seraph's Landing Waypoint",
+46570,
+26596,
+"[&BKcAAAA=]"
+],
+[
+"Shieldbluff Waypoint",
+48489,
+28515,
+"[&BKYAAAA=]"
+],
+[
+"Trebusha's Overlook Waypoint",
+47779,
+26802,
+"[&BK4AAAA=]"
+],
+[
+"Wynchona Rally Point Waypoint",
+46898,
+27367,
+"[&BKgAAAA=]"
+]
+]
+},
+{
+"centre": [
+43968,
+27136
+],
+"id": 18,
+"name": "Divinity's Reach",
+"sectors": [
+[
+"Balthazar Low Road",
+43599,
+26996
+],
+[
+"District Promenade",
+44016,
+27259
+],
+[
+"Dwayna Low Road",
+44013,
+27640
+],
+[
+"Eastern Commons",
+44277,
+27723
+],
+[
+"Grenth Low Road",
+44014,
+26742
+],
+[
+"Kormir Low Road",
+44424,
+27473
+],
+[
+"Lyssa Low Road",
+44427,
+26989
+],
+[
+"Melandru Low Road",
+43606,
+27466
+],
+[
+"Ossan Quarter",
+43739,
+26731
+],
+[
+"Plaza of Balthazar",
+43430,
+26898
+],
+[
+"Plaza of Dwayna",
+43946,
+27867
+],
+[
+"Plaza of Grenth",
+44019,
+26558
+],
+[
+"Plaza of Kormir",
+44602,
+27569
+],
+[
+"Plaza of Lyssa",
+44597,
+26890
+],
+[
+"Plaza of Melandru",
+43436,
+27566
+],
+[
+"Rurikton",
+44587,
+27247
+],
+[
+"Salma District (Home)",
+44309,
+26738
+],
+[
+"The Crown Pavilion",
+43451,
+27235
+],
+[
+"Western Commons",
+43761,
+27706
+]
+],
+"waypoints": [
+[
+"Balthazar Waypoint",
+43390,
+26850,
+"[&BCgDAAA=]"
+],
+[
+"Commons Waypoint",
+43917,
+27584,
+"[&BCoDAAA=]"
+],
+[
+"Crown Pavilion Waypoint",
+43628,
+27230,
+"[&BCwDAAA=]"
+],
+[
+"Dwayna Waypoint",
+43996,
+27954,
+"[&BCMDAAA=]"
+],
+[
+"Grenth Waypoint",
+44044,
+26499,
+"[&BCQDAAA=]"
+],
+[
+"Kormir Waypoint",
+44638,
+27625,
+"[&BCUDAAA=]"
+],
+[
+"Lyssa Waypoint",
+44660,
+26885,
+"[&BCYDAAA=]"
+],
+[
+"Melandru Waypoint",
+43376,
+27571,
+"[&BCcDAAA=]"
+],
+[
+"Ministers Waypoint",
+44048,
+27570,
+"[&BP4EAAA=]"
+],
+[
+"Ossan Waypoint",
+43819,
+26866,
+"[&BC0DAAA=]"
+],
+[
+"Palace Waypoint",
+44036,
+27193,
+"[&BCkDAAA=]"
+],
+[
+"Rurikton Waypoint",
+44410,
+27239,
+"[&BCsDAAA=]"
+],
+[
+"Salma Waypoint",
+44266,
+26928,
+"[&BC4DAAA=]"
+]
+]
+},
+{
+"centre": [
+59904,
+30976
+],
+"id": 19,
+"name": "Plains of Ashford",
+"sectors": [
+[
+"Abbey Ruins",
+59808,
+31064
+],
+[
+"Agnos Gorge",
+60060,
+30492
+],
+[
+"Ascalon Basin",
+61216,
+31532
+],
+[
+"Ascalon City Ruins",
+61035,
+30254
+],
+[
+"Ashford Forum",
+59746,
+31407
+],
+[
+"Cadem Forest",
+61650,
+30878
+],
+[
+"Charr's Triumph",
+59352,
+31141
+],
+[
+"Decimus Stones",
+58312,
+31606
+],
+[
+"Devast District",
+60088,
+30958
+],
+[
+"Devourer's Mouth",
+58268,
+30086
+],
+[
+"Facula Castrum",
+59122,
+30024
+],
+[
+"Gunbreach Hills",
+58277,
+30394
+],
+[
+"Human's Lament",
+61730,
+30125
+],
+[
+"Lake Adorea",
+59593,
+31706
+],
+[
+"Lake Feritas",
+58714,
+30124
+],
+[
+"Lamia Mire",
+61090,
+30886
+],
+[
+"Langmar Estate",
+58220,
+31646
+],
+[
+"Loreclaw Expanse",
+61134,
+31833
+],
+[
+"Martyr's Woods",
+59590,
+30474
+],
+[
+"Old Duke's Estate",
+58786,
+30722
+],
+[
+"Phasmatis Corridor",
+60439,
+30570
+],
+[
+"Tela Range",
+57986,
+30119
+],
+[
+"The Toppled Wall",
+60143,
+30218
+],
+[
+"Victor's Presidium",
+58620,
+31355
+],
+[
+"Village of Smokestead",
+58156,
+30834
+],
+[
+"Windrock Maze",
+60392,
+31581
+]
+],
+"waypoints": [
+[
+"Adorea Waypoint",
+59367,
+31492,
+"[&BIUBAAA=]"
+],
+[
+"Ascalon City Waypoint",
+60987,
+30152,
+"[&BIcBAAA=]"
+],
+[
+"Ascalonian Catacombs Waypoint",
+60433,
+30433,
+"[&BIYBAAA=]"
+],
+[
+"Ashford Waypoint",
+59821,
+31407,
+"[&BIQBAAA=]"
+],
+[
+"Duskrend Overlook Waypoint",
+61694,
+31267,
+"[&BIkBAAA=]"
+],
+[
+"Feritas Waypoint",
+58845,
+30602,
+"[&BJcDAAA=]"
+],
+[
+"Greysteel Armory Waypoint",
+58122,
+30173,
+"[&BIEBAAA=]"
+],
+[
+"Guardpoint Decimus Waypoint",
+58483,
+31546,
+"[&BJgDAAA=]"
+],
+[
+"Irondock Shipyard Waypoint",
+60860,
+31342,
+"[&BIoBAAA=]"
+],
+[
+"Langmar Estate Waypoint",
+58552,
+31814,
+"[&BPgGAAA=]"
+],
+[
+"Loreclaw Waypoint",
+61162,
+31718,
+"[&BMcDAAA=]"
+],
+[
+"Martyr's Waypoint",
+59561,
+30218,
+"[&BIIBAAA=]"
+],
+[
+"Phasmatis Waypoint",
+60923,
+30688,
+"[&BMgDAAA=]"
+],
+[
+"Smokestead Waypoint",
+58138,
+30590,
+"[&BIABAAA=]"
+],
+[
+"Spirit Hunter Camp Waypoint",
+59896,
+30719,
+"[&BJkDAAA=]"
+],
+[
+"Temperus Point Waypoint",
+59160,
+30930,
+"[&BIMBAAA=]"
+],
+[
+"Vir's Gate Waypoint",
+58482,
+31032,
+"[&BH8BAAA=]"
+],
+[
+"Watchcrag Tower Waypoint",
+61513,
+30819,
+"[&BIgBAAA=]"
+]
+]
+},
+{
+"centre": [
+62976,
+30592
+],
+"id": 20,
+"name": "Blazeridge Steppes",
+"sectors": [
+[
+"Agrak Kraal",
+63888,
+30702
+],
+[
+"Behem Gauntlet",
+63694,
+31527
+],
+[
+"Blightwater Basin",
+62087,
+32283
+],
+[
+"Crater Rim",
+62869,
+31246
+],
+[
+"Degun Shun",
+63693,
+30247
+],
+[
+"Deserter Flats",
+62614,
+30722
+],
+[
+"Dragonwatch",
+62071,
+31428
+],
+[
+"Foulblain Expanse",
+62558,
+31302
+],
+[
+"Gastor Gullet",
+63716,
+31093
+],
+[
+"Hazmagic Aggregate",
+62738,
+30061
+],
+[
+"Heretic Plain",
+63436,
+29829
+],
+[
+"InGenium Research Facility",
+62585,
+30155
+],
+[
+"Kindling Bridge",
+62107,
+29094
+],
+[
+"Lowland Burns",
+62333,
+28731
+],
+[
+"Monument Grounds",
+62338,
+29448
+],
+[
+"Pockmark Roughs",
+63228,
+31011
+],
+[
+"Ratcatcher Knoll",
+62202,
+30748
+],
+[
+"Relliatus Canyon",
+62217,
+30139
+],
+[
+"Shattered Palisades",
+63288,
+29508
+],
+[
+"Soot Road",
+63066,
+31805
+],
+[
+"Splinter Hills",
+63437,
+32370
+],
+[
+"Steeleye Span",
+62529,
+31630
+],
+[
+"Tawny Ridge",
+63787,
+29318
+],
+[
+"Terra Carorunda",
+63647,
+29034
+],
+[
+"Terra Combusta",
+62967,
+28960
+],
+[
+"Tongue Rock",
+62007,
+30518
+],
+[
+"Tumok's Last Stand",
+62708,
+32442
+],
+[
+"Twin Sisters Crossing",
+63863,
+32402
+],
+[
+"Unbroken Expanse",
+63212,
+30390
+]
+],
+"waypoints": [
+[
+"Behem Waypoint",
+63393,
+31557,
+"[&BP0BAAA=]"
+],
+[
+"Brandview Waypoint",
+62222,
+29920,
+"[&BAQCAAA=]"
+],
+[
+"Brokentooth Maw Waypoint",
+62776,
+29006,
+"[&BAICAAA=]"
+],
+[
+"Expanse Waypoint",
+63518,
+30177,
+"[&BP4BAAA=]"
+],
+[
+"Gastor Gullet Waypoint",
+63533,
+30773,
+"[&BE8DAAA=]"
+],
+[
+"Guardian Stone Waypoint",
+62906,
+29836,
+"[&BP8BAAA=]"
+],
+[
+"Kinar Fort Waypoint",
+62378,
+30661,
+"[&BFADAAA=]"
+],
+[
+"Kindling Waypoint",
+62128,
+28961,
+"[&BAMCAAA=]"
+],
+[
+"Lowland Burns Waypoint",
+62591,
+29268,
+"[&BE4DAAA=]"
+],
+[
+"Lunk Kraal Waypoint",
+63698,
+29769,
+"[&BAACAAA=]"
+],
+[
+"Refuge Sanctum Waypoint",
+62795,
+30752,
+"[&BAUCAAA=]"
+],
+[
+"Soot Road Waypoint",
+62873,
+31804,
+"[&BFIDAAA=]"
+],
+[
+"Splintercrest Fort Waypoint",
+63345,
+32097,
+"[&BFEDAAA=]"
+],
+[
+"Steeleye Waypoint",
+62510,
+31609,
+"[&BPoBAAA=]"
+],
+[
+"Terra Carorunda Waypoint",
+63481,
+29115,
+"[&BAECAAA=]"
+],
+[
+"The Last Whiskey Bar Waypoint",
+62150,
+31333,
+"[&BPkBAAA=]"
+],
+[
+"Tumok's Waypoint",
+62506,
+32210,
+"[&BPsBAAA=]"
+],
+[
+"Twin Sisters Waypoint",
+63630,
+32492,
+"[&BPwBAAA=]"
+]
+]
+},
+{
+"centre": [
+62976,
+34176
+],
+"id": 21,
+"name": "Fields of Ruin",
+"sectors": [
+[
+"Axedrag Cut",
+63991,
+33566
+],
+[
+"Belag Crossroads",
+63663,
+34062
+],
+[
+"Bento Canyon",
+61654,
+34398
+],
+[
+"Blackwing Excavation",
+62641,
+35404
+],
+[
+"Dragonrot Domains",
+61711,
+33852
+],
+[
+"Flameroot Caverns",
+64190,
+33999
+],
+[
+"Gillfarn Plains",
+63459,
+33253
+],
+[
+"Grimm Hills",
+62914,
+34678
+],
+[
+"Halkor Meadows",
+63746,
+32858
+],
+[
+"Hautclaire Vale",
+63240,
+35319
+],
+[
+"Highden Caves",
+64321,
+33582
+],
+[
+"Hunter's Gorge",
+63342,
+34640
+],
+[
+"Last Stand Shelter",
+61658,
+35015
+],
+[
+"Mithric Cliffs",
+64141,
+34560
+],
+[
+"Secluded Glen",
+61571,
+32796
+],
+[
+"Sniper's Woods",
+62135,
+34190
+],
+[
+"Stronghold of Ebonhawke",
+62009,
+35138
+],
+[
+"Tanglerot Hills",
+64171,
+32763
+],
+[
+"Tenaebron Lake",
+62214,
+33182
+],
+[
+"The Ogre Road",
+63775,
+34960
+],
+[
+"The Siege Plains",
+62661,
+34431
+],
+[
+"Thunderbreak Hills",
+62925,
+32850
+],
+[
+"Varim's Run",
+61676,
+33049
+],
+[
+"Vulture's Sweep",
+62545,
+33687
+],
+[
+"Warrior's Crown",
+63287,
+33885
+],
+[
+"Wildlin Narrows",
+64114,
+35332
+]
+],
+"waypoints": [
+[
+"Deathblade's Watch Waypoint",
+64080,
+34497,
+"[&BNQAAAA=]"
+],
+[
+"Fallen Angels Garrison Waypoint",
+61783,
+35262,
+"[&BFEBAAA=]"
+],
+[
+"Fangfury Watch Waypoint",
+63866,
+33374,
+"[&BEwBAAA=]"
+],
+[
+"Forlorn Gate Waypoint",
+62943,
+35338,
+"[&BFABAAA=]"
+],
+[
+"Hawkgates Waypoint",
+62124,
+34784,
+"[&BNMAAAA=]"
+],
+[
+"Helliot Mine Waypoint",
+61745,
+33678,
+"[&BEsBAAA=]"
+],
+[
+"Kestrel Waypoint",
+62364,
+35184,
+"[&BD0EAAA=]"
+],
+[
+"Ogre Road Waypoint",
+63654,
+34934,
+"[&BE8BAAA=]"
+],
+[
+"Rosko's Campsite Waypoint",
+63571,
+32957,
+"[&BNgAAAA=]"
+],
+[
+"Skoll's Bivouac Waypoint",
+62634,
+33391,
+"[&BEoBAAA=]"
+],
+[
+"Spotter's Waypoint",
+62782,
+34729,
+"[&BDwEAAA=]"
+],
+[
+"Summit Waypoint",
+63104,
+33728,
+"[&BNUAAAA=]"
+],
+[
+"Tenaebron Waypoint",
+62073,
+32995,
+"[&BNcAAAA=]"
+],
+[
+"Thunderbreak Waypoint",
+62592,
+32994,
+"[&BD4EAAA=]"
+],
+[
+"Tyler's Bivouac Waypoint",
+61792,
+34406,
+"[&BNYAAAA=]"
+],
+[
+"Vulture's Waypoint",
+62564,
+33973,
+"[&BE0BAAA=]"
+],
+[
+"Wreckage of Bloodgorge Watch Waypoint",
+63113,
+34430,
+"[&BE4BAAA=]"
+]
+]
+},
+{
+"centre": [
+58240,
+26240
+],
+"id": 22,
+"name": "Fireheart Rise",
+"sectors": [
+[
+"Amduat Point",
+59096,
+25412
+],
+[
+"Apostate Wastes",
+57023,
+27266
+],
+[
+"Buloh Crossing",
+58089,
+27302
+],
+[
+"Burnt Hollow",
+57822,
+26516
+],
+[
+"Cozen Desolation",
+58874,
+26560
+],
+[
+"Forge Plains",
+58241,
+26770
+],
+[
+"Fuller Cistern",
+59498,
+26749
+],
+[
+"Havoc Steppes",
+57618,
+26809
+],
+[
+"Highland Thaw",
+56990,
+25685
+],
+[
+"Icespear's Shelf",
+57416,
+25175
+],
+[
+"Keeper's Sanctum",
+58459,
+26008
+],
+[
+"Liberation Dell",
+58516,
+25023
+],
+[
+"Mangonel Cavern",
+56958,
+25089
+],
+[
+"Onager Bivouac",
+57428,
+25854
+],
+[
+"Pig Iron Mine",
+58816,
+27205
+],
+[
+"Rebel's Seclusion",
+59770,
+26318
+],
+[
+"Rustbowl",
+56884,
+26323
+],
+[
+"Sati Passage",
+59550,
+27353
+],
+[
+"Simurgh Timberland",
+58577,
+25467
+],
+[
+"Sloven Pitch",
+59246,
+26210
+],
+[
+"Sweltering Canyons",
+57845,
+25609
+],
+[
+"Switchback Canyons",
+57786,
+26196
+],
+[
+"The Baelfire",
+59606,
+25324
+],
+[
+"The Toughstone",
+57917,
+25107
+],
+[
+"Vexa's Lab",
+57649,
+27563
+]
+],
+"waypoints": [
+[
+"Apostate Waypoint",
+57161,
+26999,
+"[&BB0CAAA=]"
+],
+[
+"Breaktooth's Waypoint",
+59569,
+26192,
+"[&BBoCAAA=]"
+],
+[
+"Forlorn Waypoint",
+58498,
+25048,
+"[&BCMCAAA=]"
+],
+[
+"Havoc Waypoint",
+57896,
+26719,
+"[&BBsCAAA=]"
+],
+[
+"Icespear's Waypoint",
+57121,
+25166,
+"[&BCACAAA=]"
+],
+[
+"Keeper's Waypoint",
+58276,
+25871,
+"[&BCYCAAA=]"
+],
+[
+"Pig Iron Waypoint",
+58968,
+26939,
+"[&BBcCAAA=]"
+],
+[
+"Rustbowl Waypoint",
+56822,
+26177,
+"[&BB4CAAA=]"
+],
+[
+"Sati Waypoint",
+59745,
+27162,
+"[&BBYCAAA=]"
+],
+[
+"Senecus Castrum Waypoint",
+58584,
+25384,
+"[&BCQCAAA=]"
+],
+[
+"Severed Breach Waypoint",
+58630,
+27336,
+"[&BBkCAAA=]"
+],
+[
+"Simurgh Waypoint",
+58958,
+25674,
+"[&BCUCAAA=]"
+],
+[
+"Snow Ridge Camp Waypoint",
+57538,
+24911,
+"[&BCECAAA=]"
+],
+[
+"Switchback Waypoint",
+57652,
+26176,
+"[&BB8CAAA=]"
+],
+[
+"The Citadel of Flame Waypoint",
+59682,
+25151,
+"[&BEAFAAA=]"
+],
+[
+"Tuyere Command Post Waypoint",
+59385,
+27360,
+"[&BBgCAAA=]"
+],
+[
+"Vidius Castrum Waypoint",
+58055,
+27217,
+"[&BBwCAAA=]"
+],
+[
+"Vorgas Garrison Waypoint",
+57974,
+25299,
+"[&BCICAAA=]"
+]
+]
+},
+{
+"centre": [
+44160,
+31488
+],
+"id": 23,
+"name": "Kessex Hills",
+"sectors": [
+[
+"Alakess Ledge",
+44239,
+32351
+],
+[
+"Blackroot Cut",
+45894,
+30717
+],
+[
+"Cereboth Canyon",
+45557,
+31979
+],
+[
+"Darkwound Defile",
+46050,
+31542
+],
+[
+"Delanian Foothills",
+45800,
+31004
+],
+[
+"Dominion Killing Zone",
+45099,
+32221
+],
+[
+"Draithor's Demesnes",
+46063,
+30982
+],
+[
+"Earthlord's Gap",
+44253,
+30735
+],
+[
+"Earthworks Bluff",
+45152,
+31153
+],
+[
+"Eukaryan Caves",
+43842,
+31995
+],
+[
+"Fort Salma",
+42864,
+30543
+],
+[
+"Giant's Passage",
+44832,
+31740
+],
+[
+"Greyhoof Meadows",
+43498,
+30726
+],
+[
+"Halacon Cataracts",
+42557,
+30866
+],
+[
+"Lychcroft Mere",
+42655,
+32221
+],
+[
+"Manefire Hills",
+44040,
+31133
+],
+[
+"Meremoot Hill",
+42527,
+31960
+],
+[
+"Overlord's Greatcamp",
+42470,
+31560
+],
+[
+"Sojourner's Way",
+45174,
+30638
+],
+[
+"Thunder Ridge",
+42571,
+31159
+],
+[
+"Triskellion Vale",
+44555,
+31356
+],
+[
+"Viath Shore",
+43042,
+31642
+],
+[
+"Viathan Lake",
+43467,
+31794
+],
+[
+"Viathan's Arm",
+44322,
+31901
+],
+[
+"Wizard's Fief",
+46058,
+32277
+]
+],
+"waypoints": [
+[
+"Cavernhold Camp Waypoint",
+44559,
+30634,
+"[&BBUAAAA=]"
+],
+[
+"Cereboth Waypoint",
+45528,
+31951,
+"[&BBIAAAA=]"
+],
+[
+"Darkwound Waypoint",
+45999,
+31580,
+"[&BBEAAAA=]"
+],
+[
+"Delanian Waypoint",
+45767,
+30800,
+"[&BAgAAAA=]"
+],
+[
+"Earthworks Camp Waypoint",
+45433,
+31161,
+"[&BLkDAAA=]"
+],
+[
+"Fort Salma Waypoint",
+42695,
+30680,
+"[&BAMAAAA=]"
+],
+[
+"Gap Waypoint",
+44258,
+30860,
+"[&BLoDAAA=]"
+],
+[
+"Greyhoof Camp Waypoint",
+43589,
+30656,
+"[&BBYAAAA=]"
+],
+[
+"Halacon Waypoint",
+42300,
+31028,
+"[&BAYAAAA=]"
+],
+[
+"Ireko Tradecamp Waypoint",
+43538,
+32164,
+"[&BAoAAAA=]"
+],
+[
+"Kessex Haven Waypoint",
+44843,
+31381,
+"[&BBQAAAA=]"
+],
+[
+"Overlake Haven Waypoint",
+44743,
+32052,
+"[&BBMAAAA=]"
+],
+[
+"Overlord's Waypoint",
+42760,
+31679,
+"[&BAQAAAA=]"
+],
+[
+"Shadowheart Site Waypoint",
+42841,
+32330,
+"[&BAwAAAA=]"
+],
+[
+"Sojourner's Waypoint",
+45163,
+30664,
+"[&BAcAAAA=]"
+],
+[
+"Viathan Waypoint",
+43834,
+31419,
+"[&BBAAAAA=]"
+]
+]
+},
+{
+"centre": [
+48320,
+29696
+],
+"id": 24,
+"name": "Gendarran Fields",
+"sectors": [
+[
+"Almuten Estates",
+49606,
+29955
+],
+[
+"Ascalon Settlement",
+47646,
+29768
+],
+[
+"Bitterfrost Peaks",
+50168,
+29000
+],
+[
+"Blood Hill Camps",
+47381,
+28950
+],
+[
+"Brigantine Isles",
+48621,
+29445
+],
+[
+"Broadhollow Bluffs",
+47923,
+30320
+],
+[
+"Cornucopian Fields",
+48796,
+30295
+],
+[
+"Guardian's Pass",
+46454,
+29264
+],
+[
+"Hezran Outcrops",
+46506,
+28825
+],
+[
+"Icegate Gorge",
+50148,
+30459
+],
+[
+"Lake Bounty",
+49344,
+30353
+],
+[
+"Lake Gendarr",
+48617,
+29472
+],
+[
+"Lionbridge Expanse",
+47455,
+30117
+],
+[
+"Nebo Terrace",
+46957,
+29676
+],
+[
+"Newbeach Bluffs",
+49212,
+29472
+],
+[
+"Northfields",
+47965,
+29170
+],
+[
+"Overlook Caverns",
+49867,
+30274
+],
+[
+"Provern Shore",
+48556,
+28887
+],
+[
+"Provernic Crypt",
+48252,
+28736
+],
+[
+"Shiverspur Front",
+50151,
+29804
+],
+[
+"Snowblind Peaks",
+49741,
+29105
+],
+[
+"Stonebore Vaults",
+46306,
+29856
+],
+[
+"Talajian Piedmont",
+46802,
+29948
+],
+[
+"The Bloodfields",
+47168,
+29468
+],
+[
+"The Lawen Ponds",
+46865,
+30474
+],
+[
+"Traveler's Dale",
+46454,
+30349
+],
+[
+"Vigil Keep",
+49264,
+28645
+],
+[
+"Vigilant Hills",
+49240,
+29137
+],
+[
+"Witherflank River",
+47720,
+29086
+]
+],
+"waypoints": [
+[
+"Almuten Waypoint",
+49352,
+29826,
+"[&BJQBAAA=]"
+],
+[
+"Applenook Hamlet Waypoint",
+48876,
+29957,
+"[&BJEBAAA=]"
+],
+[
+"Ascalon Settlement Waypoint",
+47695,
+29692,
+"[&BI8BAAA=]"
+],
+[
+"Blood Hill Waypoint",
+47156,
+28762,
+"[&BI0BAAA=]"
+],
+[
+"Bloodfields Waypoint",
+47359,
+29501,
+"[&BAIEAAA=]"
+],
+[
+"Brigantine Waypoint",
+48632,
+29278,
+"[&BM0DAAA=]"
+],
+[
+"Broadhollow Waypoint",
+48027,
+30390,
+"[&BOEAAAA=]"
+],
+[
+"Cornucopian Fields Waypoint",
+48668,
+30456,
+"[&BOMAAAA=]"
+],
+[
+"First Haven Waypoint",
+46694,
+30206,
+"[&BIsBAAA=]"
+],
+[
+"Icegate Waypoint",
+49982,
+30510,
+"[&BJMBAAA=]"
+],
+[
+"Junction Haven Waypoint",
+50046,
+29938,
+"[&BO0AAAA=]"
+],
+[
+"Lionbridge Waypoint",
+47325,
+30117,
+"[&BJsDAAA=]"
+],
+[
+"Nebo Terrace Waypoint",
+47005,
+29559,
+"[&BI4BAAA=]"
+],
+[
+"Northfields Waypoint",
+48225,
+29350,
+"[&BJABAAA=]"
+],
+[
+"Oogooth Waypoint",
+48089,
+29884,
+"[&BOIAAAA=]"
+],
+[
+"Provern Shore Waypoint",
+48552,
+28867,
+"[&BOQAAAA=]"
+],
+[
+"Snowblind Waypoint",
+49698,
+29287,
+"[&BMwDAAA=]"
+],
+[
+"Stoneguard Gate Waypoint",
+46364,
+29131,
+"[&BOAAAAA=]"
+],
+[
+"Talajian Waypoint",
+46734,
+29728,
+"[&BIwBAAA=]"
+],
+[
+"Traveler's Dale Waypoint",
+46450,
+30417,
+"[&BN8AAAA=]"
+],
+[
+"Vigil Keep Waypoint",
+49507,
+28946,
+"[&BJIBAAA=]"
+],
+[
+"Winter Haven Waypoint",
+50143,
+29190,
+"[&BO4AAAA=]"
+]
+]
+},
+{
+"centre": [
+60928,
+27904
+],
+"id": 25,
+"name": "Iron Marches",
+"sectors": [
+[
+"Bloodfin Lake",
+61404,
+29650
+],
+[
+"Champion's Shield",
+60465,
+29078
+],
+[
+"Crystalwept Groves",
+61545,
+26844
+],
+[
+"Ebbing Heart Run",
+61762,
+26194
+],
+[
+"Echoslab Arches",
+60135,
+29756
+],
+[
+"Gladefall Run",
+60602,
+26324
+],
+[
+"Glory's Steps",
+60620,
+27537
+],
+[
+"Harvester's Glade",
+61130,
+28854
+],
+[
+"Hellion Forest",
+61649,
+28968
+],
+[
+"Ironhead Lake",
+60996,
+29461
+],
+[
+"Lake Carnifex",
+60375,
+27120
+],
+[
+"Lake Desolann",
+61677,
+27860
+],
+[
+"Lamprey Grottoes",
+61115,
+28503
+],
+[
+"Monger's Sink",
+60561,
+28563
+],
+[
+"Obsidian Run",
+61230,
+26473
+],
+[
+"Scorchlands",
+60042,
+25977
+],
+[
+"Scourgejaw's Vault",
+60036,
+28558
+],
+[
+"Soldier Mesa",
+60336,
+27972
+],
+[
+"Southshore Wastes",
+61648,
+28463
+],
+[
+"Stonesheath Overlook",
+60717,
+29832
+],
+[
+"Sunken Halls of Clarent",
+61278,
+29213
+],
+[
+"The Granite Front",
+61004,
+27049
+],
+[
+"The Infestation",
+61307,
+26062
+],
+[
+"Victium Moors",
+60174,
+26726
+],
+[
+"Viper's Run",
+61058,
+27951
+],
+[
+"Western Bulwark",
+60014,
+27382
+]
+],
+"waypoints": [
+[
+"Bloodfin Lake Waypoint",
+61524,
+29598,
+"[&BOMBAAA=]"
+],
+[
+"Brandwatch Encampment Waypoint",
+61229,
+28081,
+"[&BOkBAAA=]"
+],
+[
+"Bulwark Waypoint",
+60046,
+27208,
+"[&BOwBAAA=]"
+],
+[
+"Dewclaw Waypoint",
+60941,
+29823,
+"[&BOIBAAA=]"
+],
+[
+"Firewatch Encampment Waypoint",
+60750,
+26950,
+"[&BO0BAAA=]"
+],
+[
+"Gladefall Waypoint",
+60676,
+26282,
+"[&BO4BAAA=]"
+],
+[
+"Grostogg's Kraal Waypoint",
+61638,
+26438,
+"[&BO8BAAA=]"
+],
+[
+"Hellion Waypoint",
+61816,
+28807,
+"[&BOYBAAA=]"
+],
+[
+"Old Piken Ruins Waypoint",
+60281,
+29394,
+"[&BOQBAAA=]"
+],
+[
+"Sleekfur Encampment Waypoint",
+60205,
+28157,
+"[&BOgBAAA=]"
+],
+[
+"Town of Cowlfang's Star Waypoint",
+60642,
+27418,
+"[&BOsBAAA=]"
+],
+[
+"Village of Scalecatch Waypoint",
+60586,
+28537,
+"[&BOcBAAA=]"
+],
+[
+"Viper's Run Waypoint",
+61168,
+26997,
+"[&BOoBAAA=]"
+],
+[
+"Warhound Village Waypoint",
+61118,
+28789,
+"[&BOUBAAA=]"
+]
+]
+},
+{
+"centre": [
+53376,
+32960
+],
+"id": 26,
+"name": "Dredgehaunt Cliffs",
+"sectors": [
+[
+"Betrayal Grounds",
+54285,
+33986
+],
+[
+"Black Earth Coalmine",
+54187,
+34396
+],
+[
+"De Molish Post",
+53016,
+34454
+],
+[
+"Dissun's Mine",
+52397,
+33667
+],
+[
+"Dociu Excavation",
+54077,
+34186
+],
+[
+"Dostoev Sky Peak",
+53333,
+33110
+],
+[
+"Forsaken Halls",
+54243,
+31494
+],
+[
+"Frostland Melt",
+53478,
+34306
+],
+[
+"Graupel Kohn",
+53520,
+31684
+],
+[
+"Heimdahl's Last Stand",
+52803,
+33923
+],
+[
+"Kapellenburg",
+52929,
+33705
+],
+[
+"Kolkorensburg",
+52811,
+32210
+],
+[
+"Mountain's Tail",
+54014,
+31979
+],
+[
+"Nakrojos Pass",
+54193,
+33274
+],
+[
+"Rat's Run",
+52988,
+33496
+],
+[
+"Ratatosk",
+54446,
+32103
+],
+[
+"Snowslide Ravine",
+53001,
+31575
+],
+[
+"Spearhead Bane",
+54229,
+33660
+],
+[
+"Steelbrachen",
+52585,
+33227
+],
+[
+"The Grey Road",
+53707,
+33615
+],
+[
+"The Wide Expanse",
+54143,
+32787
+],
+[
+"Theign Spiritwalk",
+53483,
+32435
+],
+[
+"Toran Hollow",
+52395,
+32615
+],
+[
+"Tribulation Caverns",
+52371,
+34264
+],
+[
+"Tribulation Rift",
+52584,
+34299
+],
+[
+"Troll's Teeth",
+52926,
+32485
+],
+[
+"Ulukk's Hunger",
+54346,
+31726
+],
+[
+"Wyrmblood Lake",
+52429,
+31718
+]
+],
+"waypoints": [
+[
+"Dociu Waypoint",
+54008,
+34035,
+"[&BFgCAAA=]"
+],
+[
+"Frostland Waypoint",
+53427,
+34291,
+"[&BFcCAAA=]"
+],
+[
+"Granite Citadel Waypoint",
+54213,
+33708,
+"[&BO4EAAA=]"
+],
+[
+"Graupel Waypoint",
+53574,
+31650,
+"[&BGICAAA=]"
+],
+[
+"Grey Road Waypoint",
+53453,
+33489,
+"[&BFoCAAA=]"
+],
+[
+"Havfrue Basin Waypoint",
+53272,
+31898,
+"[&BGMCAAA=]"
+],
+[
+"Hessdallen Kenning Waypoint",
+53076,
+32429,
+"[&BF0CAAA=]"
+],
+[
+"Kenning Testing Ground Waypoint",
+53575,
+32721,
+"[&BF4CAAA=]"
+],
+[
+"Mountain's Tail Waypoint",
+53933,
+32128,
+"[&BGECAAA=]"
+],
+[
+"Nottowr Fault Waypoint",
+54326,
+32034,
+"[&BGACAAA=]"
+],
+[
+"Seven Pines Waypoint",
+53816,
+33263,
+"[&BFkCAAA=]"
+],
+[
+"Sorrow's Embrace Waypoint",
+52536,
+34076,
+"[&BD8FAAA=]"
+],
+[
+"Steelbrachen Waypoint",
+52705,
+33489,
+"[&BFsCAAA=]"
+],
+[
+"Toran Hollow Waypoint",
+52451,
+32695,
+"[&BFwCAAA=]"
+],
+[
+"Travelen's Waypoint",
+52909,
+31809,
+"[&BGQCAAA=]"
+],
+[
+"Tribulation Waypoint",
+52890,
+34117,
+"[&BFYCAAA=]"
+],
+[
+"Wide Expanse Waypoint",
+54151,
+32612,
+"[&BF8CAAA=]"
+],
+[
+"Wyrmblood Waypoint",
+52690,
+32156,
+"[&BGUCAAA=]"
+]
+]
+},
+{
+"centre": [
+51328,
+32128
+],
+"id": 27,
+"name": "Lornar's Pass",
+"sectors": [
+[
+"Bouldermouth Vale",
+50651,
+31917
+],
+[
+"Chillwing Perch",
+52075,
+30411
+],
+[
+"Demon's Maw",
+50789,
+34284
+],
+[
+"Durmand Priory",
+50601,
+31003
+],
+[
+"False Lake",
+50766,
+33442
+],
+[
+"False River Valley",
+51868,
+32642
+],
+[
+"Frostgate Falls",
+52100,
+30918
+],
+[
+"Griffonrook Run",
+50626,
+33241
+],
+[
+"Highfirn Passage",
+51142,
+32333
+],
+[
+"Icedevil's Needle",
+50881,
+29889
+],
+[
+"Jotun's Shoulders",
+51980,
+33563
+],
+[
+"Lake of Lamentation",
+51825,
+31661
+],
+[
+"Lost Delver's Ridge",
+51441,
+33662
+],
+[
+"Mistriven Gorge",
+51098,
+30809
+],
+[
+"Molent Summit",
+52160,
+31385
+],
+[
+"Nentor Valley",
+50733,
+30341
+],
+[
+"Reaper's Gate",
+52112,
+32128
+],
+[
+"Refuge Peak",
+51068,
+31533
+],
+[
+"Stonescatter Wash",
+50542,
+32587
+],
+[
+"The Godspurs",
+51577,
+30812
+],
+[
+"The Thunderhorns",
+51640,
+30024
+],
+[
+"Underburg",
+52104,
+29908
+],
+[
+"Venison Pass",
+51875,
+34344
+],
+[
+"Winterthaw Snowfield",
+51785,
+32925
+]
+],
+"waypoints": [
+[
+"Afgar's Waypoint",
+51276,
+31884,
+"[&BFMGAAA=]"
+],
+[
+"Cascade Bridge Waypoint",
+51135,
+32777,
+"[&BFQGAAA=]"
+],
+[
+"Demon's Maw Waypoint",
+50668,
+34082,
+"[&BOYAAAA=]"
+],
+[
+"Durmand Priory Waypoint",
+50640,
+31315,
+"[&BOkAAAA=]"
+],
+[
+"False Lake Waypoint",
+50785,
+33228,
+"[&BOgAAAA=]"
+],
+[
+"False River Waypoint",
+51596,
+32519,
+"[&BDEHAAA=]"
+],
+[
+"Guutra's Homestead Waypoint",
+51206,
+33631,
+"[&BJYBAAA=]"
+],
+[
+"Icedevil's Waypoint",
+51057,
+30098,
+"[&BFEGAAA=]"
+],
+[
+"Lamentation Waypoint",
+52056,
+31607,
+"[&BOoAAAA=]"
+],
+[
+"Mistriven Waypoint",
+51209,
+30480,
+"[&BJkBAAA=]"
+],
+[
+"Nentor Waypoint",
+50626,
+30079,
+"[&BOwAAAA=]"
+],
+[
+"Pinnacle Enclave Waypoint",
+51646,
+30942,
+"[&BJgBAAA=]"
+],
+[
+"Refuge Peak Waypoint",
+51039,
+31474,
+"[&BFIGAAA=]"
+],
+[
+"Stonescatter Waypoint",
+50628,
+32378,
+"[&BJcBAAA=]"
+],
+[
+"Thunderhorns Waypoint",
+51805,
+29890,
+"[&BOsAAAA=]"
+],
+[
+"Vanjir's Stead Waypoint",
+51846,
+34059,
+"[&BOUAAAA=]"
+],
+[
+"Winterthaw Waypoint",
+52021,
+33007,
+"[&BOcAAAA=]"
+]
+]
+},
+{
+"centre": [
+55424,
+29952
+],
+"id": 28,
+"name": "Wayfarer Foothills",
+"sectors": [
+[
+"Borealis Forest",
+55458,
+31312
+],
+[
+"Breakneck Pass",
+55082,
+30536
+],
+[
+"Cragstead",
+56190,
+27979
+],
+[
+"Darkriven Bluffs",
+55956,
+30352
+],
+[
+"Dawnrise Pass",
+54774,
+27947
+],
+[
+"Doldenvan Passage",
+55793,
+30826
+],
+[
+"Dolyak Pass",
+55977,
+28490
+],
+[
+"Frusenfell Creek",
+56072,
+29581
+],
+[
+"Grawlenfjord",
+55900,
+31298
+],
+[
+"Halvaunt Snowfield",
+55022,
+28814
+],
+[
+"Hangrammr Climb",
+55421,
+30764
+],
+[
+"Hunter's Lake",
+56027,
+28968
+],
+[
+"Icevine Dale",
+55248,
+29920
+],
+[
+"Kresdor Kenning",
+56191,
+31094
+],
+[
+"Moleberia",
+54754,
+29330
+],
+[
+"Molensk",
+54855,
+31843
+],
+[
+"Outcast's Cleft",
+55456,
+31954
+],
+[
+"Shaman's Rookery",
+54632,
+29976
+],
+[
+"Snowlord's Gate",
+55058,
+31036
+],
+[
+"Solitude Vale",
+55772,
+27877
+],
+[
+"Svanir's Dome",
+55288,
+27908
+],
+[
+"Taigan Groves",
+55579,
+30296
+],
+[
+"The Grekvelnn Burrows",
+56120,
+31710
+],
+[
+"The Icesteppes",
+55481,
+29640
+],
+[
+"The Osenfold Shear",
+54845,
+30297
+],
+[
+"The Shadowhorns",
+54789,
+29777
+],
+[
+"Wurmhowl Spikes",
+55400,
+28957
+]
+],
+"waypoints": [
+[
+"Crossroads Haven Waypoint",
+55215,
+28608,
+"[&BHkBAAA=]"
+],
+[
+"Darkriven Waypoint",
+55963,
+30569,
+"[&BHUBAAA=]"
+],
+[
+"Dawnrise Waypoint",
+54887,
+28256,
+"[&BHoBAAA=]"
+],
+[
+"Dolyak Pass Waypoint",
+56027,
+28351,
+"[&BHsBAAA=]"
+],
+[
+"Grawlenfjord Waypoint",
+55877,
+31454,
+"[&BMMDAAA=]"
+],
+[
+"Halvaunt Waypoint",
+55116,
+29005,
+"[&BHgBAAA=]"
+],
+[
+"Hero's Moot Waypoint",
+55449,
+31217,
+"[&BHMBAAA=]"
+],
+[
+"Horncall Waypoint",
+55047,
+30965,
+"[&BHQBAAA=]"
+],
+[
+"Krennak's Homestead Waypoint",
+55804,
+29098,
+"[&BMIDAAA=]"
+],
+[
+"Lostvyrm Cave Waypoint",
+55654,
+28714,
+"[&BMEDAAA=]"
+],
+[
+"Osenfold Waypoint",
+54937,
+30512,
+"[&BAEEAAA=]"
+],
+[
+"Outcast's Waypoint",
+55360,
+31737,
+"[&BHIBAAA=]"
+],
+[
+"Solitude Waypoint",
+55858,
+27924,
+"[&BHwBAAA=]"
+],
+[
+"Taigan Waypoint",
+55498,
+30285,
+"[&BHYBAAA=]"
+],
+[
+"Twinspur Haven Waypoint",
+55448,
+29751,
+"[&BH0BAAA=]"
+],
+[
+"Vendrake's Homestead Waypoint",
+55920,
+29598,
+"[&BH4BAAA=]"
+],
+[
+"Zelechor Hot Springs Waypoint",
+54895,
+29732,
+"[&BHcBAAA=]"
+]
+]
+},
+{
+"centre": [
+52864,
+36160
+],
+"id": 29,
+"name": "Timberline Falls",
+"sectors": [
+[
+"Bynebrachen",
+53111,
+36027
+],
+[
+"Candle Chimney",
+51917,
+36553
+],
+[
+"Fionnghuala Scratch",
+52699,
+35750
+],
+[
+"Fisher's Eye Bridges",
+52128,
+35958
+],
+[
+"Gentle River",
+52314,
+35147
+],
+[
+"Guilty Tears",
+53584,
+35826
+],
+[
+"Gyre Rapids",
+52299,
+36493
+],
+[
+"Hunting Banks",
+53212,
+36586
+],
+[
+"Krongar Pass",
+51982,
+34883
+],
+[
+"Lair of the Coil",
+53859,
+37394
+],
+[
+"Malorean Wilds",
+52450,
+37608
+],
+[
+"Mellaggan's Grotto",
+53329,
+37571
+],
+[
+"Molodets Excavation",
+53548,
+35205
+],
+[
+"Naui Waters",
+53676,
+36305
+],
+[
+"Nonmoa Lake",
+53363,
+36957
+],
+[
+"Pythian Point",
+52544,
+37100
+],
+[
+"Scale Strand",
+53786,
+36935
+],
+[
+"Sector Zuhl",
+53896,
+34837
+],
+[
+"Serpent Stones",
+52759,
+37437
+],
+[
+"Stromkarl Heights",
+52701,
+36484
+],
+[
+"Tail of the Serpent",
+53957,
+37018
+],
+[
+"Talus Waterslide",
+52019,
+37614
+],
+[
+"The Foundation Stones",
+53877,
+35470
+],
+[
+"The Iron Veil",
+53237,
+34876
+],
+[
+"Tyrant's Mount",
+52083,
+37109
+],
+[
+"Ural's Delve",
+51917,
+36995
+],
+[
+"White Paper Hill",
+53107,
+35302
+]
+],
+"waypoints": [
+[
+"Coil Waypoint",
+53745,
+37076,
+"[&BEcCAAA=]"
+],
+[
+"Concordia Waypoint",
+52216,
+36528,
+"[&BFUCAAA=]"
+],
+[
+"Eztlitl Grounds Waypoint",
+53209,
+36484,
+"[&BEoCAAA=]"
+],
+[
+"Foundation 86 Waypoint",
+53845,
+35324,
+"[&BE4CAAA=]"
+],
+[
+"Gentle River Waypoint",
+52594,
+35193,
+"[&BFACAAA=]"
+],
+[
+"Gyre Rapids Waypoint",
+52444,
+36754,
+"[&BEsCAAA=]"
+],
+[
+"Iron Veil Waypoint",
+53185,
+34786,
+"[&BFMCAAA=]"
+],
+[
+"Krongar Waypoint",
+51954,
+34728,
+"[&BFICAAA=]"
+],
+[
+"Nonmoa Waypoint",
+52965,
+36940,
+"[&BEkCAAA=]"
+],
+[
+"Ogduk Waypoint",
+53439,
+35899,
+"[&BE0CAAA=]"
+],
+[
+"Okarinoo Waypoint",
+53427,
+37497,
+"[&BEYCAAA=]"
+],
+[
+"Rankor Ruins Waypoint",
+52238,
+37073,
+"[&BFQCAAA=]"
+],
+[
+"Scale Strand Waypoint",
+53744,
+36599,
+"[&BEgCAAA=]"
+],
+[
+"Serpent Waypoint",
+52703,
+37372,
+"[&BEUCAAA=]"
+],
+[
+"Stromkarl Waypoint",
+52878,
+36203,
+"[&BEYEAAA=]"
+],
+[
+"Talus Waypoint",
+52275,
+37557,
+"[&BEQCAAA=]"
+],
+[
+"Thistlereed Waypoint",
+52242,
+35598,
+"[&BFECAAA=]"
+],
+[
+"Valance Tutory Waypoint",
+52162,
+35949,
+"[&BEwCAAA=]"
+],
+[
+"White Paper Waypoint",
+53082,
+35437,
+"[&BE8CAAA=]"
+]
+]
+},
+{
+"centre": [
+55040,
+26112
+],
+"id": 30,
+"name": "Frostgorge Sound",
+"sectors": [
+[
+"Arundon Vale",
+56196,
+27310
+],
+[
+"Bore Lynch",
+53688,
+27301
+],
+[
+"Despond Precipice",
+55395,
+26044
+],
+[
+"Dimotiki Waters",
+53845,
+25765
+],
+[
+"Drakkar Spurs",
+53835,
+24813
+],
+[
+"Earthshake Basin",
+56386,
+25831
+],
+[
+"Frostwalk Tundra",
+55465,
+25538
+],
+[
+"Glacial Collapse",
+55608,
+26804
+],
+[
+"Grimstone Mol",
+54951,
+25885
+],
+[
+"Groznev Delve",
+54317,
+27418
+],
+[
+"Highpeaks",
+55239,
+27251
+],
+[
+"Leopard's Tail Valley",
+54781,
+26853
+],
+[
+"Maladar's Inlet",
+54504,
+25969
+],
+[
+"Refuge Shore",
+54331,
+26831
+],
+[
+"Rime Moraine",
+55485,
+26557
+],
+[
+"Shattered Ice Floe",
+54683,
+25432
+],
+[
+"Snow Climb",
+56354,
+25070
+],
+[
+"Stonesledge Draft",
+53754,
+26617
+],
+[
+"Talabaroop Waves",
+54116,
+26538
+],
+[
+"The Sea of Lamentation",
+54297,
+25038
+],
+[
+"Trionic Lattice",
+56202,
+26204
+],
+[
+"Watchful Fjord",
+55190,
+25088
+],
+[
+"Wayward Climb",
+55154,
+26570
+],
+[
+"Yakkington's Toil",
+56038,
+26641
+]
+],
+"waypoints": [
+[
+"Arundon Waypoint",
+55832,
+27489,
+"[&BHgCAAA=]"
+],
+[
+"Blue Ice Shining Waypoint",
+54079,
+26667,
+"[&BIUCAAA=]"
+],
+[
+"Dimotiki Waypoint",
+54001,
+25497,
+"[&BH8CAAA=]"
+],
+[
+"Drakkar Waypoint",
+53572,
+24662,
+"[&BIYCAAA=]"
+],
+[
+"Earthshake Waypoint",
+56298,
+25884,
+"[&BHoCAAA=]"
+],
+[
+"Groznev Waypoint",
+53880,
+27566,
+"[&BHkCAAA=]"
+],
+[
+"Highpeaks Waypoint",
+55396,
+27076,
+"[&BIICAAA=]"
+],
+[
+"Honor of the Waves Waypoint",
+55228,
+25187,
+"[&BEMFAAA=]"
+],
+[
+"Ice Floe Waypoint",
+54545,
+25299,
+"[&BH4CAAA=]"
+],
+[
+"Path of Starry Skies Waypoint",
+56257,
+24846,
+"[&BHsCAAA=]"
+],
+[
+"Ridgerock Camp Waypoint",
+55253,
+26550,
+"[&BIMCAAA=]"
+],
+[
+"Skyheight Steading Waypoint",
+54678,
+26989,
+"[&BIECAAA=]"
+],
+[
+"Slough of Despond Waypoint",
+55232,
+25530,
+"[&BHwCAAA=]"
+],
+[
+"Twoloop Waypoint",
+54300,
+26254,
+"[&BIACAAA=]"
+],
+[
+"Watchful Waypoint",
+55565,
+24987,
+"[&BH0CAAA=]"
+],
+[
+"Yak's Bend Waypoint",
+56004,
+26623,
+"[&BIQCAAA=]"
+]
+]
+},
+{
+"centre": [
+52480,
+28672
+],
+"id": 31,
+"name": "Snowden Drifts",
+"sectors": [
+[
+"Angvar's Trove",
+50750,
+27947
+],
+[
+"Darkhoof Heights",
+51176,
+27940
+],
+[
+"Dragon's Rising",
+53362,
+27751
+],
+[
+"Glisterice Caves",
+50659,
+29484
+],
+[
+"Griffonfall",
+53564,
+29460
+],
+[
+"Hrothgar's Pass",
+52276,
+28794
+],
+[
+"Hunter's Pitfalls",
+54407,
+28027
+],
+[
+"Isenfall Gullies",
+51274,
+28320
+],
+[
+"Isenfall Lake",
+51866,
+28185
+],
+[
+"Jormabakke Stead",
+51305,
+28552
+],
+[
+"Jotun's Vista",
+53169,
+28722
+],
+[
+"King Jalis's Refuge",
+54442,
+28496
+],
+[
+"Lornar's Gate",
+51796,
+29351
+],
+[
+"Molengrad",
+51212,
+29528
+],
+[
+"Oros Spurs",
+52334,
+28116
+],
+[
+"Ossencrest Climb",
+50616,
+28310
+],
+[
+"Owl's Abattoir",
+54161,
+29314
+],
+[
+"Reaver's Dale",
+53703,
+29006
+],
+[
+"Skradden Slopes",
+50795,
+29007
+],
+[
+"Song of Final Exile",
+53054,
+29467
+],
+[
+"The Frozen Sweeps",
+51360,
+28989
+],
+[
+"The Loneholme Range",
+52968,
+27819
+],
+[
+"Trapper's Labyrinth",
+53848,
+27821
+],
+[
+"Tromigar Valley",
+53857,
+28355
+],
+[
+"Valslake",
+52628,
+29296
+],
+[
+"Villmark Foothills",
+54043,
+28764
+],
+[
+"Vitpeln Hills",
+52872,
+28413
+]
+],
+"waypoints": [
+[
+"Angvar's Trove Waypoint",
+50592,
+28282,
+"[&BP8GAAA=]"
+],
+[
+"Exile Waypoint",
+53033,
+29370,
+"[&BLwAAAA=]"
+],
+[
+"Frozen Sweeps Waypoint",
+51256,
+28736,
+"[&BL8DAAA=]"
+],
+[
+"Highpass Haven Waypoint",
+54345,
+28046,
+"[&BLUAAAA=]"
+],
+[
+"Isenfall Waypoint",
+51750,
+28038,
+"[&BLgAAAA=]"
+],
+[
+"Lornar's Waypoint",
+51814,
+29366,
+"[&BLQAAAA=]"
+],
+[
+"Lost Child's Sorrow Waypoint",
+53547,
+27818,
+"[&BLYAAAA=]"
+],
+[
+"Njordstead Waypoint",
+53043,
+27821,
+"[&BL0AAAA=]"
+],
+[
+"Owl Waypoint",
+54247,
+29308,
+"[&BMEAAAA=]"
+],
+[
+"Podaga Steading Waypoint",
+50880,
+29309,
+"[&BMIAAAA=]"
+],
+[
+"Reaver's Waypoint",
+53976,
+29098,
+"[&BMAAAAA=]"
+],
+[
+"Scholar's Cleft Waypoint",
+50672,
+28145,
+"[&BLcAAAA=]"
+],
+[
+"Seraph Outriders' Waypoint",
+50685,
+28500,
+"[&BLoAAAA=]"
+],
+[
+"Skradden Waypoint",
+50594,
+29087,
+"[&BLMAAAA=]"
+],
+[
+"Snowdrift Haven Waypoint",
+51949,
+28780,
+"[&BLkAAAA=]"
+],
+[
+"Snowhawk Landing Waypoint",
+53674,
+28569,
+"[&BL8AAAA=]"
+],
+[
+"Soderhem Steading Waypoint",
+53004,
+28147,
+"[&BL4AAAA=]"
+],
+[
+"Torstvedt Homestead Waypoint",
+52847,
+28439,
+"[&BLsAAAA=]"
+],
+[
+"Valslake Waypoint",
+52374,
+29245,
+"[&BMADAAA=]"
+]
+]
+},
+{
+"centre": [
+58112,
+28800
+],
+"id": 32,
+"name": "Diessa Plateau",
+"sectors": [
+[
+"Arcovian Foothills",
+56515,
+29273
+],
+[
+"Blackblade Lake",
+58696,
+28099
+],
+[
+"Bloodcliff Quarry",
+57656,
+27874
+],
+[
+"Breachwater Lake",
+59630,
+29763
+],
+[
+"Bulliyak Arsenal",
+58768,
+28668
+],
+[
+"Burrows of Moledavia",
+56617,
+27877
+],
+[
+"Flame Temple Tombs",
+58587,
+27848
+],
+[
+"Freewain Pastures",
+57523,
+28802
+],
+[
+"Gram Hills",
+57196,
+28074
+],
+[
+"Halrunting Plains",
+56651,
+28512
+],
+[
+"Holystone Caves",
+59782,
+28802
+],
+[
+"Incendio Templum",
+59600,
+27934
+],
+[
+"Manbane's Outcrop",
+58012,
+28280
+],
+[
+"Nemus Groves",
+59288,
+29035
+],
+[
+"Noxin Dells",
+57913,
+29778
+],
+[
+"Oldgate Clearing",
+57174,
+29674
+],
+[
+"Rancher's Wash",
+58335,
+29042
+],
+[
+"Reaper's Corridor",
+58832,
+29009
+],
+[
+"Ruins of Oldgate",
+56780,
+29282
+],
+[
+"Sanctum Way",
+59139,
+28416
+],
+[
+"Spider Nest Cavern",
+58191,
+27834
+],
+[
+"The Blasted Moors",
+57864,
+28720
+],
+[
+"The Breached Wall",
+58700,
+29730
+],
+[
+"The Wurm's Gullet",
+56502,
+28758
+],
+[
+"Town of Nageling",
+57729,
+29424
+],
+[
+"Town of Nolan",
+56624,
+29861
+],
+[
+"Village of Butcher's Block",
+57011,
+28497
+],
+[
+"Wodron Glens",
+57179,
+29141
+]
+],
+"waypoints": [
+[
+"Blackblade Waypoint",
+58744,
+28272,
+"[&BEIEAAA=]"
+],
+[
+"Blasted Moors Waypoint",
+57831,
+28790,
+"[&BNoAAAA=]"
+],
+[
+"Bloodcliff Waypoint",
+57433,
+28086,
+"[&BMQDAAA=]"
+],
+[
+"Bloodsaw Mill Waypoint",
+58955,
+28564,
+"[&BNsAAAA=]"
+],
+[
+"Breached Wall Waypoint",
+58484,
+29676,
+"[&BGEBAAA=]"
+],
+[
+"Breachwater Waypoint",
+59470,
+29828,
+"[&BGQBAAA=]"
+],
+[
+"Butcher's Block Waypoint",
+57093,
+28347,
+"[&BF8BAAA=]"
+],
+[
+"Charradis Estate Waypoint",
+57506,
+29097,
+"[&BGABAAA=]"
+],
+[
+"Charrgate Haven Waypoint",
+56554,
+28445,
+"[&BNkAAAA=]"
+],
+[
+"Dawnright Estate Waypoint",
+58480,
+28980,
+"[&BJoDAAA=]"
+],
+[
+"Font of Rhand Waypoint",
+58763,
+27860,
+"[&BNwAAAA=]"
+],
+[
+"Incendio Waypoint",
+59358,
+28078,
+"[&BGIBAAA=]"
+],
+[
+"Manbane's Waypoint",
+58194,
+28258,
+"[&BMkDAAA=]"
+],
+[
+"Nageling Waypoint",
+57748,
+29573,
+"[&BN0AAAA=]"
+],
+[
+"Nemus Grove Waypoint",
+59654,
+29084,
+"[&BGMBAAA=]"
+],
+[
+"Nolan Waypoint",
+56935,
+29686,
+"[&BN4AAAA=]"
+],
+[
+"Oldgate Waypoint",
+56908,
+29191,
+"[&BF4BAAA=]"
+],
+[
+"Redreave Mill Waypoint",
+58937,
+29193,
+"[&BMYDAAA=]"
+],
+[
+"Sanctum Waypoint",
+59490,
+28565,
+"[&BMUDAAA=]"
+]
+]
+},
+{
+"centre": [
+61056,
+29952
+],
+"id": 33,
+"name": "Ascalonian Catacombs",
+"sectors": [
+[
+"Archive of the Resting",
+61138,
+30320
+],
+[
+"Catacomb Entrance",
+60557,
+30359
+],
+[
+"Durmand Priory Camp",
+60838,
+30365
+],
+[
+"Eastern Chambers",
+61398,
+29984
+],
+[
+"Flooded Temple",
+61476,
+30242
+],
+[
+"Foefire's Heart",
+61204,
+30021
+],
+[
+"Graveling Tunnels",
+60860,
+29764
+],
+[
+"Hall of Champions",
+61202,
+29704
+],
+[
+"Hall of Murals",
+60987,
+30098
+],
+[
+"Hall of Stairs",
+61219,
+29848
+],
+[
+"Lair of the Patriarch",
+60598,
+29629
+],
+[
+"Ossuary Crypts",
+60849,
+30219
+],
+[
+"Rockfall Chamber",
+60964,
+29812
+],
+[
+"The Lovers' Crypt",
+61606,
+30031
+],
+[
+"Votive Cathedral",
+61569,
+29844
+],
+[
+"Western Chambers",
+61070,
+29927
+]
+],
+"waypoints": [
+[
+"Cathedral Waypoint",
+61528,
+29828,
+"[&BLYDAAA=]"
+],
+[
+"Entrance Waypoint",
+60604,
+30322,
+"[&BJEDAAA=]"
+],
+[
+"Murals Waypoint",
+61061,
+30039,
+"[&BJIDAAA=]"
+]
+]
+},
+{
+"centre": [
+43072,
+34496
+],
+"id": 34,
+"name": "Caledon Forest",
+"sectors": [
+[
+"Dominion of Winds",
+43898,
+33935
+],
+[
+"Dreamdark Enclave",
+43546,
+35494
+],
+[
+"Glencarn Sperrins",
+43413,
+35130
+],
+[
+"Grenbrack Delves",
+43354,
+35651
+],
+[
+"Mabon Market",
+42979,
+34534
+],
+[
+"Morgan's Spiral",
+43843,
+35604
+],
+[
+"Ogham Wilds",
+42559,
+36066
+],
+[
+"Quetzal Bay",
+43649,
+33348
+],
+[
+"Ruins of the Unseen",
+42788,
+34121
+],
+[
+"Sandycove Beach",
+42648,
+35243
+],
+[
+"Sleive's Inlet",
+43707,
+36268
+],
+[
+"The Rootangles",
+42898,
+34310
+],
+[
+"The Rowanwoods",
+43279,
+32704
+],
+[
+"The Verdence",
+43034,
+35957
+],
+[
+"Titan's Staircase",
+43420,
+34074
+],
+[
+"Trader's Green",
+42589,
+33923
+],
+[
+"Treemarch Estuary",
+43290,
+32843
+],
+[
+"Ventry Bay",
+42938,
+34616
+],
+[
+"Village of Astorea",
+42726,
+36166
+],
+[
+"Willowalk Groves",
+43125,
+33323
+],
+[
+"Wychmire Swamp",
+42487,
+33168
+]
+],
+"waypoints": [
+[
+"Astorea Waypoint",
+42724,
+36217,
+"[&BDQBAAA=]"
+],
+[
+"Brigid's Overlook Waypoint",
+43061,
+35068,
+"[&BDgBAAA=]"
+],
+[
+"Caer Astorea Waypoint",
+42620,
+35735,
+"[&BDYBAAA=]"
+],
+[
+"Caledon Haven Waypoint",
+42660,
+33826,
+"[&BDwBAAA=]"
+],
+[
+"Falias Thorp Waypoint",
+42446,
+33409,
+"[&BD4BAAA=]"
+],
+[
+"Gleaner's Cove Waypoint",
+42535,
+35460,
+"[&BDcBAAA=]"
+],
+[
+"Hamlet of Annwen Waypoint",
+43346,
+33198,
+"[&BD8BAAA=]"
+],
+[
+"Kraitbane Haven Waypoint",
+43488,
+32858,
+"[&BEABAAA=]"
+],
+[
+"Lionguard Waystation Waypoint",
+42884,
+33154,
+"[&BEwDAAA=]"
+],
+[
+"Mabon Waypoint",
+42869,
+34533,
+"[&BDoBAAA=]"
+],
+[
+"Sleive's Waypoint",
+43516,
+35981,
+"[&BP4FAAA=]"
+],
+[
+"Sperrins Waypoint",
+43760,
+34975,
+"[&BDkBAAA=]"
+],
+[
+"Spiral Waypoint",
+43730,
+35620,
+"[&BDUBAAA=]"
+],
+[
+"Titan's Staircase Waypoint",
+43594,
+34163,
+"[&BD0BAAA=]"
+],
+[
+"Town of Cathal Waypoint",
+42302,
+33994,
+"[&BDsBAAA=]"
+],
+[
+"Twilight Arbor Waypoint",
+42351,
+32965,
+"[&BEEFAAA=]"
+],
+[
+"Wardenhurst Waypoint",
+43019,
+35643,
+"[&BEIBAAA=]"
+],
+[
+"Wychmire Waypoint",
+42253,
+32680,
+"[&BEEBAAA=]"
+]
+]
+},
+{
+"centre": [
+41024,
+35200
+],
+"id": 35,
+"name": "Metrica Province",
+"sectors": [
+[
+"Akk Wilds",
+41779,
+35731
+],
+[
+"Artergon Woods",
+41199,
+34665
+],
+[
+"Calx's Hideout",
+42020,
+36621
+],
+[
+"Cuatl Morass",
+41773,
+35054
+],
+[
+"Desider Atum",
+41380,
+35256
+],
+[
+"Fisher's Beach Bend",
+40187,
+35260
+],
+[
+"Golemagical Institute",
+40488,
+36782
+],
+[
+"Greyfern Expanses",
+40519,
+34509
+],
+[
+"Hexane Regrade",
+41673,
+33970
+],
+[
+"Inquest Outer Complex",
+41861,
+33722
+],
+[
+"Jeztar Falls",
+41454,
+36518
+],
+[
+"Loch Jezt",
+41037,
+36100
+],
+[
+"Luminates Plant",
+41917,
+34582
+],
+[
+"Michoan Marsh",
+40910,
+35145
+],
+[
+"Muridian Uplands",
+40828,
+33795
+],
+[
+"Obscura Incline",
+40365,
+35966
+],
+[
+"Soren Draa",
+40148,
+36424
+],
+[
+"Sunshade Caves",
+41802,
+36244
+],
+[
+"Thaumanova Reactor",
+40206,
+33802
+],
+[
+"The Anthill",
+40245,
+34687
+],
+[
+"The Funhouse",
+40156,
+35871
+],
+[
+"The Hinterlabs",
+40679,
+36523
+],
+[
+"The Serpentwind",
+41324,
+35943
+],
+[
+"Voloxian Passage",
+40926,
+35549
+],
+[
+"Wildflame Caverns",
+40276,
+36696
+]
+],
+"waypoints": [
+[
+"Akk Wilds Waypoint",
+41739,
+36013,
+"[&BEIAAAA=]"
+],
+[
+"Anthill Waypoint",
+40095,
+34617,
+"[&BLAEAAA=]"
+],
+[
+"Artergon Waypoint",
+41016,
+34338,
+"[&BLMEAAA=]"
+],
+[
+"Arterium Haven Waypoint",
+41282,
+34770,
+"[&BEQAAAA=]"
+],
+[
+"Cuatl Waypoint",
+41907,
+35126,
+"[&BLIEAAA=]"
+],
+[
+"Desider Atum Waypoint",
+41308,
+35437,
+"[&BEgAAAA=]"
+],
+[
+"Hexane Regrade Waypoint",
+41822,
+34088,
+"[&BEUAAAA=]"
+],
+[
+"Hydrone Unit Waypoint",
+40632,
+36217,
+"[&BPcEAAA=]"
+],
+[
+"Jeztar Falls Waypoint",
+41202,
+36636,
+"[&BEEAAAA=]"
+],
+[
+"Loch Waypoint",
+41036,
+36064,
+"[&BK8EAAA=]"
+],
+[
+"Michotl Grounds Waypoint",
+40694,
+35000,
+"[&BLEEAAA=]"
+],
+[
+"Muridian Waypoint",
+40841,
+33722,
+"[&BEcAAAA=]"
+],
+[
+"Old Golem Factory Waypoint",
+40388,
+35749,
+"[&BK4EAAA=]"
+],
+[
+"Rana Landing Complex Waypoint",
+40758,
+35413,
+"[&BEMAAAA=]"
+],
+[
+"Soren Draa Waypoint",
+40172,
+36402,
+"[&BEAAAAA=]"
+],
+[
+"Survivor's Encampment Waypoint",
+40578,
+34466,
+"[&BEYAAAA=]"
+]
+]
+},
+{
+"centre": [
+61056,
+29952
+],
+"id": 36,
+"name": "Ascalonian Catacombs",
+"sectors": [
+[
+"Archive of the Resting",
+61138,
+30320
+],
+[
+"Catacomb Entrance",
+60557,
+30359
+],
+[
+"Durmand Priory Camp",
+60838,
+30365
+],
+[
+"Eastern Chambers",
+61398,
+29984
+],
+[
+"Flooded Temple",
+61476,
+30242
+],
+[
+"Foefire's Heart",
+61204,
+30021
+],
+[
+"Graveling Tunnels",
+60860,
+29764
+],
+[
+"Hall of Champions",
+61202,
+29704
+],
+[
+"Hall of Murals",
+60987,
+30098
+],
+[
+"Hall of Stairs",
+61219,
+29848
+],
+[
+"Lair of the Patriarch",
+60598,
+29629
+],
+[
+"Ossuary Crypts",
+60849,
+30219
+],
+[
+"Rockfall Chamber",
+60964,
+29812
+],
+[
+"The Lovers' Crypt",
+61606,
+30031
+],
+[
+"Votive Cathedral",
+61569,
+29844
+],
+[
+"Western Chambers",
+61070,
+29927
+]
+],
+"waypoints": [
+[
+"Archive Waypoint",
+61219,
+30367,
+"[&BGwDAAA=]"
+],
+[
+"Entrance Waypoint",
+60566,
+30425,
+"[&BGsDAAA=]"
+],
+[
+"Flooded Temple Waypoint",
+61450,
+30256,
+"[&BEcEAAA=]"
+],
+[
+"Foefire's Heart Waypoint",
+61218,
+30050,
+"[&BP8EAAA=]"
+],
+[
+"Kasha's Tomb Waypoint",
+61527,
+29821,
+"[&BK4DAAA=]"
+],
+[
+"Lovers' Waypoint",
+61619,
+30029,
+"[&BEMEAAA=]"
+],
+[
+"Priory Camp Waypoint",
+60830,
+30366,
+"[&BN0DAAA=]"
+],
+[
+"Reliquary Waypoint",
+60966,
+29808,
+"[&BK8DAAA=]"
+]
+]
+},
+{
+"centre": [
+10494,
+14334
+],
+"id": 38,
+"name": "Eternal Battlegrounds",
+"sectors": [
+[
+" Hill",
+9259,
+15498
+],
+[
+" Hill",
+10530,
+13228
+],
+[
+" Hill",
+11758,
+15520
+],
+[
+" Lowlands",
+9846,
+15015
+],
+[
+" Overlook",
+10716,
+13793
+],
+[
+" Valley",
+11309,
+15111
+],
+[
+"Aldon's Ledge",
+9428,
+14906
+],
+[
+"Anzalias Pass",
+10223,
+13942
+],
+[
+"Bravost Escarpment",
+11766,
+14865
+],
+[
+"Danelon Passage",
+11044,
+15548
+],
+[
+"Darkrait Inlet",
+10620,
+15476
+],
+[
+"Durios Gulch",
+11232,
+14584
+],
+[
+"Golanta Clearing",
+10161,
+15508
+],
+[
+"Jerrifer's Slough",
+9756,
+15514
+],
+[
+"Klovan Gully",
+10229,
+15070
+],
+[
+"Langor Gulch",
+11311,
+15472
+],
+[
+"Mendon's Gap",
+10167,
+13403
+],
+[
+"Molevekian Delve",
+9834,
+14246
+],
+[
+"Ogrewatch Cut",
+11010,
+13978
+],
+[
+"Orgath Uplands",
+11280,
+14161
+],
+[
+"Pangloss Rise",
+11250,
+13773
+],
+[
+"Quentin Lake",
+10946,
+15145
+],
+[
+"Rogue's Quarry",
+9608,
+14502
+],
+[
+"Speldan Clearcut",
+9730,
+13640
+],
+[
+"Stonemist Castle",
+10644,
+14564
+],
+[
+"Umberglade Woods",
+11681,
+14354
+],
+[
+"Veloka Slope",
+10983,
+13552
+],
+[
+"Wildcreek Run",
+9965,
+14612
+],
+[
+"Zraith's Beacon",
+11511,
+13437
+]
+],
+"waypoints": [
+[
+" Hill Waypoint",
+9082,
+15652,
+"[&BPwDAAA=]"
+],
+[
+" Hill Waypoint",
+10562,
+13020,
+"[&BPsDAAA=]"
+],
+[
+" Hill Waypoint",
+11890,
+15720,
+"[&BPoDAAA=]"
+],
+[
+"Aldon's Ledge Emergency Waypoint",
+9387,
+14900,
+"[&BD0IAAA=]"
+],
+[
+"Anzalias Pass Emergency Waypoint",
+10182,
+14047,
+"[&BFYIAAA=]"
+],
+[
+"Bravost Escarpment Emergency Waypoint",
+11710,
+14826,
+"[&BGoIAAA=]"
+],
+[
+"Durios Gulch Emergency Waypoint",
+11258,
+14523,
+"[&BNsIAAA=]"
+],
+[
+"Jerrifer's Slough Emergency Waypoint",
+9816,
+15380,
+"[&BNcIAAA=]"
+],
+[
+"Klovan Gully Emergency Waypoint",
+10274,
+15074,
+"[&BGEIAAA=]"
+],
+[
+"Langor Gulch Emergency Waypoint",
+11368,
+15485,
+"[&BDcIAAA=]"
+],
+[
+"Lowlands Emergency Waypoint A",
+9620,
+15205,
+"[&BMwIAAA=]"
+],
+[
+"Lowlands Emergency Waypoint B",
+9478,
+15175,
+"[&BJ8OAAA=]"
+],
+[
+"Lowlands Emergency Waypoint C",
+9698,
+15162,
+"[&BKQOAAA=]"
+],
+[
+"Lowlands Waypoint",
+9648,
+15185,
+"[&BMAEAAA=]"
+],
+[
+"Mendon's Gap Emergency Waypoint",
+10235,
+13387,
+"[&BOMIAAA=]"
+],
+[
+"Ogrewatch Cut Emergency Waypoint",
+11016,
+14073,
+"[&BGQIAAA=]"
+],
+[
+"Overlook Emergency Waypoint A",
+10836,
+13696,
+"[&BMMIAAA=]"
+],
+[
+"Overlook Emergency Waypoint B",
+10676,
+13701,
+"[&BKsOAAA=]"
+],
+[
+"Overlook Emergency Waypoint C",
+10814,
+13570,
+"[&BJQOAAA=]"
+],
+[
+"Overlook Waypoint",
+10836,
+13669,
+"[&BL4EAAA=]"
+],
+[
+"Quentin Lake Emergency Waypoint",
+10907,
+15179,
+"[&BM0IAAA=]"
+],
+[
+"Stonemist Castle Emergency Waypoint A",
+10615,
+14534,
+"[&BLQIAAA=]"
+],
+[
+"Stonemist Castle Emergency Waypoint B",
+10552,
+14704,
+"[&BJsOAAA=]"
+],
+[
+"Stonemist Castle Emergency Waypoint C",
+10594,
+14655,
+"[&BJgOAAA=]"
+],
+[
+"Stonemist Waypoint",
+10622,
+14619,
+"[&BL0EAAA=]"
+],
+[
+"Valley Emergency Waypoint A",
+11587,
+15146,
+"[&BPUIAAA=]"
+],
+[
+"Valley Emergency Waypoint B",
+11458,
+15171,
+"[&BJ4OAAA=]"
+],
+[
+"Valley Emergency Waypoint C",
+11540,
+15074,
+"[&BJkOAAA=]"
+],
+[
+"Valley Waypoint",
+11555,
+15224,
+"[&BL8EAAA=]"
+],
+[
+"Veloka Slope Emergency Waypoint",
+11063,
+13506,
+"[&BKkIAAA=]"
+],
+[
+"Wildcreek Run Emergency Waypoint",
+9985,
+14584,
+"[&BOgIAAA=]"
+]
+]
+},
+{
+"centre": [
+49216,
+31488
+],
+"id": 50,
+"name": "Lion's Arch",
+"sectors": [
+[
+"Bloodcoast Ward",
+49625,
+31934
+],
+[
+"Commodore's Quarter",
+48568,
+30932
+],
+[
+"Eastern Ward",
+49460,
+31050
+],
+[
+"Farshore Ward",
+50166,
+31736
+],
+[
+"Fort Marriner",
+49322,
+31884
+],
+[
+"Grand Piazza",
+49084,
+31268
+],
+[
+"Hooligan's Route",
+48196,
+30938
+],
+[
+"Inner Harbor",
+49712,
+31318
+],
+[
+"Postern Ward",
+49965,
+31156
+],
+[
+"Sanctum Harbor",
+48786,
+31774
+],
+[
+"Sharkmaw Caverns",
+50216,
+32046
+],
+[
+"Trader's Forum",
+49005,
+31022
+],
+[
+"Western Ward",
+48576,
+31217
+],
+[
+"White Crane Terrace",
+48199,
+31442
+]
+],
+"waypoints": [
+[
+"Bloodcoast Ward Waypoint",
+49620,
+32044,
+"[&BA4EAAA=]"
+],
+[
+"Cavern Waypoint",
+50162,
+31436,
+"[&BDIEAAA=]"
+],
+[
+"Claw Island Portage Waypoint",
+48997,
+31853,
+"[&BA8EAAA=]"
+],
+[
+"Commodore's Quarter Waypoint",
+48571,
+30868,
+"[&BAwEAAA=]"
+],
+[
+"Diverse Ledges Waypoint",
+48230,
+31688,
+"[&BC0EAAA=]"
+],
+[
+"Eastern Ward Waypoint",
+49750,
+30961,
+"[&BDEEAAA=]"
+],
+[
+"Farshore Waypoint",
+49957,
+31690,
+"[&BDMEAAA=]"
+],
+[
+"Fort Marriner Waypoint",
+49457,
+31700,
+"[&BDAEAAA=]"
+],
+[
+"Gate Hub Plaza Waypoint",
+49309,
+31223,
+"[&BBEEAAA=]"
+],
+[
+"Guild Bluff Waypoint",
+49927,
+31138,
+"[&BA0EAAA=]"
+],
+[
+"Sanctum Harbor Waypoint",
+48664,
+31395,
+"[&BC8EAAA=]"
+],
+[
+"Trader's Forum Waypoint",
+49064,
+30911,
+"[&BBAEAAA=]"
+],
+[
+"Western Ward Waypoint",
+48402,
+31156,
+"[&BC4EAAA=]"
+]
+]
+},
+{
+"centre": [
+48896,
+40192
+],
+"id": 51,
+"name": "Straits of Devastation",
+"sectors": [
+[
+"Blighted Battleground",
+48924,
+41169
+],
+[
+"Bramble Pass",
+50033,
+38928
+],
+[
+"Cathedral of Glorious Victory",
+47772,
+41048
+],
+[
+"Crippled Bridges",
+48061,
+39901
+],
+[
+"Elysium Beach",
+47520,
+39806
+],
+[
+"Fort Trinity",
+50040,
+39934
+],
+[
+"Half Circle Cove",
+49613,
+39265
+],
+[
+"Hunter's Table",
+48422,
+40300
+],
+[
+"Lightfoot Passage",
+50326,
+40540
+],
+[
+"Plinth Timberland",
+50145,
+39410
+],
+[
+"Sea of Elon",
+49860,
+41153
+],
+[
+"Sentry Steppes",
+47368,
+41059
+],
+[
+"Shark's Teeth Archipelago",
+49389,
+40871
+],
+[
+"Signal Peak",
+49218,
+39026
+],
+[
+"Squall Cusps",
+50083,
+40420
+],
+[
+"Strait of Malediction",
+48131,
+39270
+],
+[
+"Strait of Sacrilege",
+48747,
+40042
+],
+[
+"Terzetto Bay",
+49446,
+39650
+],
+[
+"The Bloodtrough",
+47529,
+40260
+],
+[
+"Thorn Pass",
+50336,
+39930
+],
+[
+"Triumph Plaza",
+47819,
+40631
+],
+[
+"Waywarde Way",
+48571,
+41288
+],
+[
+"Xenarius Bayt",
+48423,
+40949
+],
+[
+"Zho'qafa Catacombs",
+47891,
+41342
+]
+],
+"waypoints": [
+[
+"Antheneum Waypoint",
+47602,
+40252,
+"[&BPUCAAA=]"
+],
+[
+"Bramble Pass Waypoint",
+49731,
+38999,
+"[&BOwCAAA=]"
+],
+[
+"Brassclaw Waypoint",
+48349,
+39852,
+"[&BPQCAAA=]"
+],
+[
+"Broken Spit Waypoint",
+49380,
+40962,
+"[&BPECAAA=]"
+],
+[
+"Conquest Marina Waypoint",
+48532,
+40342,
+"[&BPYCAAA=]"
+],
+[
+"Dire Shoal Waypoint",
+47707,
+39502,
+"[&BOUGAAA=]"
+],
+[
+"Fort Trinity Waypoint",
+50061,
+40004,
+"[&BO4CAAA=]"
+],
+[
+"Glorious Victory Waypoint",
+47819,
+40960,
+"[&BPoCAAA=]"
+],
+[
+"Lone Post Waypoint",
+48936,
+40697,
+"[&BPcCAAA=]"
+],
+[
+"Plinth Timberland Waypoint",
+50065,
+39285,
+"[&BFgGAAA=]"
+],
+[
+"Rally Waypoint",
+48072,
+40387,
+"[&BNIEAAA=]"
+],
+[
+"Royal Forum Waypoint",
+48538,
+39525,
+"[&BPMCAAA=]"
+],
+[
+"Sentry Waypoint",
+47420,
+40812,
+"[&BPsCAAA=]"
+],
+[
+"Signal Peak Waypoint",
+49122,
+39052,
+"[&BO0CAAA=]"
+],
+[
+"Thorn Pass Waypoint",
+50385,
+39950,
+"[&BO8CAAA=]"
+],
+[
+"Thunderhead Waypoint",
+49929,
+40404,
+"[&BPACAAA=]"
+],
+[
+"Underbelly Waypoint",
+49737,
+39268,
+"[&BFkGAAA=]"
+],
+[
+"Vesper Bell Waypoint",
+49072,
+40069,
+"[&BPICAAA=]"
+],
+[
+"Waywarde Waypoint",
+48532,
+41316,
+"[&BPgCAAA=]"
+],
+[
+"Xenarius Waypoint",
+48250,
+40846,
+"[&BPkCAAA=]"
+]
+]
+},
+{
+"centre": [
+40384,
+32192
+],
+"id": 54,
+"name": "Brisban Wildlands",
+"sectors": [
+[
+"Aurora's Remains",
+38882,
+32865
+],
+[
+"Brilitine Swath",
+40173,
+31913
+],
+[
+"Duskstruck Moors",
+39544,
+32640
+],
+[
+"Gnashar's Hills",
+40937,
+31376
+],
+[
+"Gotala Cascade",
+40476,
+32401
+],
+[
+"Hidden Lake",
+40166,
+31207
+],
+[
+"Highwayman's Vale",
+39560,
+32117
+],
+[
+"Karston Chambers",
+41884,
+33224
+],
+[
+"Koga Ruins",
+40224,
+33097
+],
+[
+"Lionshead Outcrops",
+39679,
+31258
+],
+[
+"Nemeton Grove",
+41798,
+32118
+],
+[
+"Proxemics Lab",
+38833,
+31232
+],
+[
+"Skrittsburgh Center",
+40859,
+32018
+],
+[
+"Skrittsburgh East End",
+41199,
+31749
+],
+[
+"Skrittsburgh Hillstead",
+41379,
+32444
+],
+[
+"Skrittsburgh Tunnels",
+40990,
+32530
+],
+[
+"Tangle Root",
+38863,
+33354
+],
+[
+"The Gallowfields",
+39136,
+31440
+],
+[
+"The Shattered Henge",
+39604,
+33211
+],
+[
+"The Wendon Steps",
+41781,
+31269
+],
+[
+"Toxal Bog",
+39135,
+33101
+],
+[
+"Vandal's Claim",
+38958,
+32142
+],
+[
+"Venlin Vale",
+40883,
+33162
+],
+[
+"Zinder Slope",
+41789,
+32736
+]
+],
+"waypoints": [
+[
+"Brilitine Waypoint",
+40166,
+31857,
+"[&BGEAAAA=]"
+],
+[
+"East End Waypoint",
+41275,
+31984,
+"[&BGAAAAA=]"
+],
+[
+"Gallowfields Waypoint",
+39175,
+31346,
+"[&BGMAAAA=]"
+],
+[
+"Hillstead Waypoint",
+41311,
+32307,
+"[&BF8AAAA=]"
+],
+[
+"Mirkrise Waypoint",
+39870,
+33051,
+"[&BHYAAAA=]"
+],
+[
+"Mrot Boru Waypoint",
+40734,
+33299,
+"[&BHUAAAA=]"
+],
+[
+"Proxemics Lab Waypoint",
+38937,
+31509,
+"[&BPkGAAA=]"
+],
+[
+"Seraph Observers Waypoint",
+40191,
+31060,
+"[&BGIAAAA=]"
+],
+[
+"Triforge Point Waypoint",
+38992,
+32509,
+"[&BGQAAAA=]"
+],
+[
+"Tunnels Waypoint",
+40860,
+32460,
+"[&BF4AAAA=]"
+],
+[
+"Ulta Metamagicals Waypoint",
+40016,
+32543,
+"[&BGUAAAA=]"
+],
+[
+"Watchful Source Waypoint",
+41834,
+32676,
+"[&BFwAAAA=]"
+],
+[
+"Wendon Waypoint",
+41907,
+31192,
+"[&BF0AAAA=]"
+]
+]
+},
+{
+"centre": [
+43904,
+43648
+],
+"id": 62,
+"name": "Cursed Shore",
+"sectors": [
+[
+"Azabe Qabar, the Royal Tombs",
+44450,
+43664
+],
+[
+"Cathedral of Silence",
+43517,
+45142
+],
+[
+"Cathedral of Verdance",
+44061,
+43085
+],
+[
+"Compass Plaza",
+43926,
+44122
+],
+[
+"Craven Blight",
+43892,
+43434
+],
+[
+"Desmina's Hallows",
+44453,
+44936
+],
+[
+"Fields of Gold",
+43910,
+42076
+],
+[
+"Graven Cay",
+43240,
+44406
+],
+[
+"Harrowed Sea",
+43317,
+43485
+],
+[
+"Mausollus Sea",
+44352,
+45348
+],
+[
+"Noose Road",
+44560,
+43118
+],
+[
+"Penitent Path",
+44289,
+42852
+],
+[
+"Promenade of the Gods",
+44273,
+44294
+],
+[
+"Pursuit Pass",
+44478,
+41847
+],
+[
+"The Artesian Waters",
+44630,
+42660
+],
+[
+"The Narthex",
+44696,
+44206
+],
+[
+"The Shipyard",
+43714,
+44405
+],
+[
+"Winterknell Isle",
+43809,
+42791
+],
+[
+"Winterknell Shore",
+43317,
+42420
+]
+],
+"waypoints": [
+[
+"Anchorage Waypoint",
+43741,
+44277,
+"[&BB8DAAA=]"
+],
+[
+"Arah Waypoint",
+44755,
+44115,
+"[&BCADAAA=]"
+],
+[
+"Caer Shadowfain Waypoint",
+44087,
+42139,
+"[&BCEDAAA=]"
+],
+[
+"Gavbeorn's Waypoint",
+43266,
+42876,
+"[&BBoDAAA=]"
+],
+[
+"Jofast's Waypoint",
+44339,
+43404,
+"[&BB0DAAA=]"
+],
+[
+"Meddler's Waypoint",
+43854,
+43752,
+"[&BB4DAAA=]"
+],
+[
+"Murdered Dreams Waypoint",
+43290,
+45057,
+"[&BCIDAAA=]"
+],
+[
+"Penitent Waypoint",
+44208,
+42598,
+"[&BBkDAAA=]"
+],
+[
+"Pursuit Pass Waypoint",
+44524,
+41786,
+"[&BBcDAAA=]"
+],
+[
+"R&D Waypoint",
+43632,
+42392,
+"[&BBgDAAA=]"
+],
+[
+"Shelter's Gate Waypoint",
+44476,
+42974,
+"[&BBwDAAA=]"
+],
+[
+"Shipwreck Rock Waypoint",
+44616,
+45441,
+"[&BOQGAAA=]"
+],
+[
+"Verdance Waypoint",
+43954,
+43173,
+"[&BBsDAAA=]"
+]
+]
+},
+{
+"centre": [
+52864,
+34560
+],
+"id": 63,
+"name": "Sorrow's Embrace",
+"sectors": [
+[
+"Citadel of Vostol",
+52480,
+34742
+],
+[
+"Citizen's Co-operative",
+52674,
+34299
+],
+[
+"Dredge Square",
+53114,
+34518
+],
+[
+"Forgeman Chamber",
+53102,
+35013
+],
+[
+"Geothermal Access",
+52662,
+34714
+],
+[
+"Inquest Base KD-4",
+53379,
+34663
+],
+[
+"Mechanism Depot",
+52749,
+34494
+],
+[
+"Mechanisms of Production",
+52449,
+34374
+],
+[
+"Old Summit Quarry",
+52444,
+35018
+],
+[
+"Redflicker Fissure",
+52886,
+34750
+],
+[
+"Sorrow's Gate",
+52419,
+34193
+],
+[
+"The Irongorge",
+52395,
+34564
+],
+[
+"Utility Passage",
+52532,
+34888
+],
+[
+"Volcanium Pit",
+53237,
+34818
+],
+[
+"Zalten Mines",
+53022,
+34158
+]
+],
+"waypoints": [
+[
+"Depot Waypoint",
+52855,
+34529,
+"[&BAQEAAA=]"
+],
+[
+"Dredge Square Waypoint",
+53313,
+34503,
+"[&BAUEAAA=]"
+],
+[
+"KD-4 Waypoint",
+53305,
+34694,
+"[&BAcEAAA=]"
+],
+[
+"Mechanisms Waypoint",
+52600,
+34455,
+"[&BAMEAAA=]"
+],
+[
+"Sorrow's Embrace Waypoint",
+52322,
+34188,
+"[&BEoAAAA=]"
+],
+[
+"Volcanium Waypoint",
+53257,
+34927,
+"[&BAYEAAA=]"
+]
+]
+},
+{
+"centre": [
+52864,
+34560
+],
+"id": 64,
+"name": "Sorrow's Embrace",
+"sectors": [
+[
+"Citadel of Vostol",
+52480,
+34742
+],
+[
+"Citizen's Co-operative",
+52674,
+34299
+],
+[
+"Dredge Square",
+53114,
+34518
+],
+[
+"Forgeman Chamber",
+53102,
+35013
+],
+[
+"Geothermal Access",
+52662,
+34714
+],
+[
+"Inquest Base KD-4",
+53379,
+34663
+],
+[
+"Mechanism Depot",
+52749,
+34494
+],
+[
+"Mechanisms of Production",
+52449,
+34374
+],
+[
+"Old Summit Quarry",
+52444,
+35018
+],
+[
+"Redflicker Fissure",
+52886,
+34750
+],
+[
+"Sorrow's Gate",
+52419,
+34193
+],
+[
+"The Irongorge",
+52395,
+34564
+],
+[
+"Utility Passage",
+52532,
+34888
+],
+[
+"Volcanium Pit",
+53237,
+34818
+],
+[
+"Zalten Mines",
+53022,
+34158
+]
+],
+"waypoints": [
+[
+"Citadel Waypoint",
+52442,
+34781,
+"[&BOsGAAA=]"
+],
+[
+"Co-operative Waypoint",
+52711,
+34207,
+"[&BOgGAAA=]"
+],
+[
+"End of the Road Waypoint",
+53094,
+34714,
+"[&BOYGAAA=]"
+],
+[
+"Inquest Base Waypoint",
+53380,
+34668,
+"[&BOcGAAA=]"
+],
+[
+"Quarry Waypoint",
+52417,
+34880,
+"[&BOoGAAA=]"
+],
+[
+"Sorrow's Embrace Waypoint",
+52322,
+34188,
+"[&BBoEAAA=]"
+],
+[
+"The Long Road Waypoint",
+52646,
+34652,
+"[&BEQFAAA=]"
+],
+[
+"Zalten Mines Waypoint",
+53072,
+34268,
+"[&BOkGAAA=]"
+]
+]
+},
+{
+"centre": [
+45184,
+40576
+],
+"id": 65,
+"name": "Malchor's Leap",
+"sectors": [
+[
+"Blighted Arch",
+45288,
+40132
+],
+[
+"Cathedral of Eternal Radiance",
+45843,
+40327
+],
+[
+"Cathedral of Zephyrs",
+44764,
+40665
+],
+[
+"Crusted Sholes",
+46426,
+40526
+],
+[
+"Drowned Brine",
+43958,
+40965
+],
+[
+"Garden of Ilya",
+45441,
+40838
+],
+[
+"Jinx Isle",
+44072,
+40065
+],
+[
+"Karst Plains",
+44756,
+41196
+],
+[
+"Malchor's Fingers",
+45224,
+39644
+],
+[
+"Midwater Hollows",
+47017,
+40095
+],
+[
+"Mirror Bay",
+46288,
+40002
+],
+[
+"Pyrite Peninsula",
+46654,
+40233
+],
+[
+"Snaketail Inlet",
+44253,
+41465
+],
+[
+"Theater of Delight",
+46684,
+41062
+],
+[
+"Valley of Lyss",
+46051,
+41021
+],
+[
+"Waste Hollows",
+47080,
+40710
+],
+[
+"Whisper Bay",
+44853,
+40042
+]
+],
+"waypoints": [
+[
+"Blighted Arch Waypoint",
+45132,
+40523,
+"[&BK4CAAA=]"
+],
+[
+"Colonnade Waypoint",
+46388,
+40822,
+"[&BKkCAAA=]"
+],
+[
+"Doric's Waypoint",
+44641,
+41268,
+"[&BKcCAAA=]"
+],
+[
+"Lights Waypoint",
+44489,
+40825,
+"[&BLICAAA=]"
+],
+[
+"Lyssa Waypoint",
+45970,
+40323,
+"[&BK0CAAA=]"
+],
+[
+"Murmur Waypoint",
+44641,
+40123,
+"[&BK8CAAA=]"
+],
+[
+"Pagga's Waypoint",
+46866,
+41177,
+"[&BKYCAAA=]"
+],
+[
+"Tempest Waypoint",
+44889,
+40703,
+"[&BLACAAA=]"
+],
+[
+"Union Waypoint",
+46014,
+39947,
+"[&BKsCAAA=]"
+],
+[
+"Valley of Lyss Waypoint",
+46179,
+41238,
+"[&BKoCAAA=]"
+],
+[
+"Versoconjouring Waypoint",
+43931,
+39953,
+"[&BLECAAA=]"
+],
+[
+"Waste Hollows Waypoint",
+46875,
+40461,
+"[&BKgCAAA=]"
+],
+[
+"Wren Waypoint",
+45495,
+40742,
+"[&BKwCAAA=]"
+]
+]
+},
+{
+"centre": [
+60032,
+24704
+],
+"id": 66,
+"name": "Citadel of Flame",
+"sectors": [
+[
+"Altar of Baelfire",
+60275,
+24439
+],
+[
+"Ashen Chamber",
+60455,
+24542
+],
+[
+"Chamber of Might",
+59736,
+25057
+],
+[
+"Daemon's Undercroft",
+59978,
+24664
+],
+[
+"Devourian Stables",
+60063,
+25169
+],
+[
+"Eastern Transept",
+60215,
+24842
+],
+[
+"Ferric Chamber",
+60025,
+24382
+],
+[
+"Gaheron's Triumph",
+60504,
+25187
+],
+[
+"Gallery of Rage",
+59916,
+24813
+],
+[
+"Illuminated Nave",
+60191,
+24575
+],
+[
+"Mausoleum of the Khan-Ur",
+60488,
+24754
+],
+[
+"Molten Foundry",
+59639,
+24670
+],
+[
+"Neotheon Chamber",
+60412,
+24301
+],
+[
+"Sanguine Vault",
+60085,
+24233
+],
+[
+"Shrine of Sacrifice",
+60286,
+25060
+],
+[
+"Templum Praesidium",
+60506,
+24990
+],
+[
+"Viscous Caves",
+59540,
+24314
+],
+[
+"Western Transept",
+59792,
+24307
+]
+],
+"waypoints": [
+[
+"Chamber of Might Waypoint",
+59638,
+25146,
+"[&BGkCAAA=]"
+],
+[
+"Ferric Chamber Waypoint",
+60002,
+24327,
+"[&BBkEAAA=]"
+],
+[
+"Gallery of Rage Waypoint",
+59845,
+24904,
+"[&BBcEAAA=]"
+],
+[
+"Illuminated Nave Waypoint",
+60120,
+24802,
+"[&BBgEAAA=]"
+]
+]
+},
+{
+"centre": [
+42112,
+32896
+],
+"id": 67,
+"name": "Twilight Arbor",
+"sectors": [
+[
+"Antechamber",
+42466,
+33340
+],
+[
+"Chamber of Envy",
+42060,
+33068
+],
+[
+"Depth of Despair",
+41625,
+32578
+],
+[
+"Faolain's Lair",
+42228,
+32924
+],
+[
+"Ferndog Backwoods",
+41628,
+33217
+],
+[
+"Hall of Heart's Remorse",
+42174,
+32588
+],
+[
+"Lake of Fear",
+41882,
+32916
+],
+[
+"Outlook of Woe",
+41535,
+32932
+],
+[
+"Phloem Meander",
+41936,
+33318
+],
+[
+"Reception Hall",
+42394,
+33128
+],
+[
+"The Arboretum",
+42014,
+32710
+],
+[
+"The Nursery",
+42414,
+32747
+]
+],
+"waypoints": [
+[
+"Aetherblade Shipyard Waypoint",
+41566,
+32581,
+"[&BCcHAAA=]"
+],
+[
+"Chamber of Envy Waypoint",
+41958,
+33087,
+"[&BGcGAAA=]"
+],
+[
+"Chamber of Envy Waypoint",
+42124,
+33123,
+"[&BGkGAAA=]"
+],
+[
+"Faolain's Lair Waypoint",
+42586,
+32809,
+"[&BOwGAAA=]"
+],
+[
+"Ferndog Backwoods Waypoint",
+41598,
+33151,
+"[&BCYHAAA=]"
+],
+[
+"Nursery Waypoint",
+42405,
+32790,
+"[&BO0GAAA=]"
+],
+[
+"Ooze Font Waypoint",
+41708,
+33353,
+"[&BCgHAAA=]"
+],
+[
+"Pedipalp Waypoint",
+42320,
+32530,
+"[&BO4GAAA=]"
+],
+[
+"The Arboretum Waypoint",
+41912,
+32850,
+"[&BGgGAAA=]"
+],
+[
+"Twilight Arbor Waypoint",
+42330,
+33360,
+"[&BNMBAAA=]"
+]
+]
+},
+{
+"centre": [
+42112,
+32896
+],
+"id": 68,
+"name": "Twilight Arbor",
+"sectors": [
+[
+"Antechamber",
+42466,
+33340
+],
+[
+"Chamber of Envy",
+42060,
+33068
+],
+[
+"Depth of Despair",
+41625,
+32576
+],
+[
+"Faolain's Lair",
+42228,
+32924
+],
+[
+"Hall of Heart's Remorse",
+42174,
+32588
+],
+[
+"Lake of Fear",
+41882,
+32916
+],
+[
+"Reception Hall",
+42394,
+33128
+],
+[
+"The Arboretum",
+42014,
+32710
+],
+[
+"The Nursery",
+42414,
+32747
+]
+],
+"waypoints": [
+[
+"Hall of Heart's Remorse Waypoint",
+42166,
+32594,
+"[&BEgDAAA=]"
+],
+[
+"Lake of Fear Waypoint",
+41889,
+32833,
+"[&BEcDAAA=]"
+],
+[
+"Peatrot Gallery Waypoint",
+41968,
+33123,
+"[&BEYDAAA=]"
+],
+[
+"Twilight Arbor Waypoint",
+42518,
+33358,
+"[&BNIBAAA=]"
+]
+]
+},
+{
+"centre": [
+60032,
+24704
+],
+"id": 69,
+"name": "Citadel of Flame",
+"sectors": [
+[
+"Altar of Baelfire",
+60275,
+24439
+],
+[
+"Ashen Chamber",
+60455,
+24542
+],
+[
+"Chamber of Might",
+59736,
+25057
+],
+[
+"Daemon's Undercroft",
+59978,
+24664
+],
+[
+"Devourian Stables",
+60063,
+25169
+],
+[
+"Eastern Transept",
+60215,
+24842
+],
+[
+"Ferric Chamber",
+60025,
+24382
+],
+[
+"Gaheron's Triumph",
+60504,
+25187
+],
+[
+"Gallery of Rage",
+59916,
+24813
+],
+[
+"Illuminated Nave",
+60191,
+24575
+],
+[
+"Mausoleum of the Khan-Ur",
+60488,
+24754
+],
+[
+"Molten Foundry",
+59639,
+24670
+],
+[
+"Neotheon Chamber",
+60412,
+24301
+],
+[
+"Sanguine Vault",
+60085,
+24233
+],
+[
+"Shrine of Sacrifice",
+60286,
+25060
+],
+[
+"Templum Praesidium",
+60506,
+24990
+],
+[
+"Viscous Caves",
+59540,
+24314
+],
+[
+"Western Transept",
+59792,
+24307
+]
+],
+"waypoints": [
+[
+"Ashen Chamber Waypoint",
+60504,
+24524,
+"[&BGgEAAA=]"
+],
+[
+"Devourian Waypoint",
+60095,
+25144,
+"[&BGkEAAA=]"
+],
+[
+"Eastern Transept Waypoint",
+60209,
+24879,
+"[&BGYEAAA=]"
+],
+[
+"Gallery of Rage Waypoint",
+59830,
+24927,
+"[&BFAEAAA=]"
+],
+[
+"Illuminated Nave Waypoint",
+60354,
+24756,
+"[&BGcEAAA=]"
+],
+[
+"Khan-Ur Waypoint",
+60528,
+24789,
+"[&BGwEAAA=]"
+],
+[
+"Molten Foundry Waypoint",
+59569,
+24628,
+"[&BFEEAAA=]"
+],
+[
+"Praesidium Waypoint",
+60567,
+24988,
+"[&BGsEAAA=]"
+],
+[
+"Sanguine Vault Waypoint",
+60085,
+24234,
+"[&BFMEAAA=]"
+],
+[
+"Shrine of Sacrifice Waypoint",
+60280,
+25083,
+"[&BGoEAAA=]"
+],
+[
+"Undercroft Waypoint",
+60034,
+24525,
+"[&BG0EAAA=]"
+],
+[
+"Western Transept Waypoint",
+59827,
+24338,
+"[&BFIEAAA=]"
+]
+]
+},
+{
+"centre": [
+55168,
+25024
+],
+"id": 70,
+"name": "Honor of the Waves",
+"sectors": [
+[
+"Blessed Path",
+55151,
+24952
+],
+[
+"Chamber of Honor's Voice",
+55059,
+24951
+],
+[
+"Court of Measures",
+55231,
+25093
+],
+[
+"Court of Welcoming",
+55137,
+25159
+],
+[
+"Gallery of Peace",
+54977,
+24863
+],
+[
+"Hall of Balance",
+54894,
+24742
+],
+[
+"Halls of Everlasting Thought",
+54913,
+24985
+],
+[
+"Palace of Gathering",
+55131,
+24806
+],
+[
+"Pavilions of Meditation",
+54940,
+25104
+],
+[
+"Sanctuary Prow",
+55509,
+25023
+]
+],
+"waypoints": [
+[
+"Contemplation Waypoint",
+54912,
+24726,
+"[&BFYEAAA=]"
+],
+[
+"Honor's Waypoint",
+55066,
+25157,
+"[&BDUDAAA=]"
+]
+]
+},
+{
+"centre": [
+55168,
+25024
+],
+"id": 71,
+"name": "Honor of the Waves",
+"sectors": [
+[
+"Blessed Path",
+55151,
+24952
+],
+[
+"Chamber of Honor's Voice",
+55059,
+24951
+],
+[
+"Court of Measures",
+55231,
+25093
+],
+[
+"Court of Welcoming",
+55137,
+25159
+],
+[
+"Gallery of Peace",
+54977,
+24863
+],
+[
+"Hall of Balance",
+54894,
+24742
+],
+[
+"Halls of Everlasting Thought",
+54913,
+24985
+],
+[
+"Palace of Gathering",
+55131,
+24806
+],
+[
+"Pavilions of Meditation",
+54940,
+25104
+],
+[
+"Sanctuary Prow",
+55509,
+25023
+]
+],
+"waypoints": [
+[
+"Geoffrey's Tube Waypoint",
+55092,
+24889,
+"[&BPQGAAA=]"
+],
+[
+"Hall of Balance Waypoint",
+54900,
+24675,
+"[&BPEGAAA=]"
+],
+[
+"Honor's Waypoint",
+55065,
+25160,
+"[&BDQDAAA=]"
+],
+[
+"Midship Waypoint",
+55037,
+24879,
+"[&BPAGAAA=]"
+],
+[
+"Palace of Gathering Waypoint",
+55128,
+24801,
+"[&BO8GAAA=]"
+],
+[
+"Prow Waypoint",
+55378,
+24894,
+"[&BPMGAAA=]"
+],
+[
+"Sternquarters Waypoint",
+54947,
+25070,
+"[&BPIGAAA=]"
+]
+]
+},
+{
+"centre": [
+49216,
+33856
+],
+"id": 73,
+"name": "Bloodtide Coast",
+"sectors": [
+[
+"Archen Foreland",
+49335,
+32456
+],
+[
+"Captain's Cut",
+48993,
+33195
+],
+[
+"Challdar Gorges",
+49631,
+34457
+],
+[
+"Dredgehat Isle",
+48368,
+34564
+],
+[
+"Firth of Revanion",
+49741,
+33998
+],
+[
+"Flooded Castavall",
+48841,
+34925
+],
+[
+"Grand Barrier Isle",
+48266,
+34093
+],
+[
+"Jelako Cliffrise",
+48365,
+35131
+],
+[
+"Laughing Gull Island",
+48707,
+33524
+],
+[
+"Mentecki Pass",
+50242,
+34152
+],
+[
+"Merchantman's Strait",
+49416,
+33498
+],
+[
+"Mistarion Beach",
+49766,
+34915
+],
+[
+"Mole's Head",
+49153,
+34369
+],
+[
+"Momoztli Grounds",
+48616,
+32336
+],
+[
+"Moriarity's Hold",
+50322,
+33004
+],
+[
+"Mournful Depths",
+48936,
+34978
+],
+[
+"Portage Hills",
+50155,
+32428
+],
+[
+"Remanda Saltmarsh",
+50008,
+33359
+],
+[
+"Risewild Hills",
+50086,
+33732
+],
+[
+"Sanguine Bay",
+48560,
+33949
+],
+[
+"Sorrowful Sound",
+48459,
+32840
+],
+[
+"Stormbluff Isle",
+49212,
+32967
+],
+[
+"Vindar's Lagoon",
+49917,
+32837
+],
+[
+"Whisperwill Bogs",
+50077,
+35099
+],
+[
+"Wraithwalker Woods",
+49956,
+34586
+]
+],
+"waypoints": [
+[
+"Archen Foreland Waypoint",
+49516,
+32338,
+"[&BKMBAAA=]"
+],
+[
+"Barrier Camp Waypoint",
+48358,
+34155,
+"[&BKkBAAA=]"
+],
+[
+"Bogside Camp Waypoint",
+50184,
+34696,
+"[&BKwBAAA=]"
+],
+[
+"Castavall Waypoint",
+48999,
+34955,
+"[&BK4BAAA=]"
+],
+[
+"Deadend Waypoint",
+49550,
+32792,
+"[&BAsEAAA=]"
+],
+[
+"Firthside Vigil Waypoint",
+49401,
+34072,
+"[&BKoBAAA=]"
+],
+[
+"Jelako Waypoint",
+48315,
+35172,
+"[&BK8BAAA=]"
+],
+[
+"Laughing Gull Waypoint",
+48916,
+33772,
+"[&BKgBAAA=]"
+],
+[
+"Lostwreck Waypoint",
+50197,
+34085,
+"[&BKsBAAA=]"
+],
+[
+"Marshwatch Haven Waypoint",
+50113,
+32532,
+"[&BKYBAAA=]"
+],
+[
+"Mournful Waypoint",
+48993,
+34736,
+"[&BK0BAAA=]"
+],
+[
+"Remanda Waypoint",
+49986,
+33405,
+"[&BKcBAAA=]"
+],
+[
+"Sorrowful Waypoint",
+48753,
+32780,
+"[&BKQBAAA=]"
+],
+[
+"Stormbluff Waypoint",
+49245,
+33072,
+"[&BKUBAAA=]"
+],
+[
+"Whisperwill Waypoint",
+50033,
+35244,
+"[&BLABAAA=]"
+]
+]
+},
+{
+"centre": [
+45696,
+28288
+],
+"id": 75,
+"name": "Caudecus's Manor",
+"sectors": [
+[
+"Bandit's Supply Room",
+45490,
+27864
+],
+[
+"Eastern Tunnel",
+45900,
+27939
+],
+[
+"Formal Garden",
+45834,
+28257
+],
+[
+"Hidden Falls Dock",
+45387,
+27952
+],
+[
+"Hidden Trail",
+46075,
+27962
+],
+[
+"Hidden Workshop",
+45701,
+27872
+],
+[
+"Mansion (Ground Floor)",
+45892,
+28162
+],
+[
+"Reception Court",
+46070,
+28197
+],
+[
+"Vista Lawn",
+45705,
+28161
+],
+[
+"Western Tunnel",
+45689,
+27986
+]
+],
+"waypoints": [
+[
+"Caudecus's Manor Waypoint",
+46059,
+28311,
+"[&BDkDAAA=]"
+],
+[
+"Eastern Tunnel Waypoint",
+45919,
+27918,
+"[&BPUGAAA=]"
+],
+[
+"Formal Garden Waypoint",
+45860,
+28169,
+"[&BGoGAAA=]"
+]
+]
+},
+{
+"centre": [
+45696,
+28288
+],
+"id": 76,
+"name": "Caudecus's Manor",
+"sectors": [
+[
+"Bandit's Supply Room",
+45490,
+27864
+],
+[
+"Eastern Tunnel",
+45900,
+27939
+],
+[
+"Formal Garden",
+45834,
+28257
+],
+[
+"Hidden Falls Dock",
+45387,
+27952
+],
+[
+"Hidden Trail",
+46075,
+27962
+],
+[
+"Hidden Workshop",
+45701,
+27872
+],
+[
+"Mansion (Ground Floor)",
+45892,
+28162
+],
+[
+"Reception Court",
+46070,
+28197
+],
+[
+"Vista Lawn",
+45705,
+28161
+],
+[
+"Western Tunnel",
+45689,
+27986
+]
+],
+"waypoints": [
+[
+"Caudecus's Manor Waypoint",
+45963,
+28287,
+"[&BDoDAAA=]"
+],
+[
+"Formal Garden Waypoint",
+45858,
+28171,
+"[&BGsGAAA=]"
+],
+[
+"Reception Court Waypoint",
+46106,
+28091,
+"[&BG0GAAA=]"
+],
+[
+"Vista Lawn Waypoint",
+45610,
+28092,
+"[&BGwGAAA=]"
+]
+]
+},
+{
+"centre": [
+43200,
+37504
+],
+"id": 91,
+"name": "The Grove",
+"sectors": [
+[
+"Caledon Path",
+42921,
+36915
+],
+[
+"Constellation Shelter",
+43220,
+37648
+],
+[
+"Envoy's Terrace",
+43025,
+37490
+],
+[
+"Great Helix",
+43080,
+37411
+],
+[
+"Marshaling Field",
+43144,
+37294
+],
+[
+"Necrolith Bay",
+43312,
+36942
+],
+[
+"Privet Gardens",
+42734,
+37143
+],
+[
+"Seawatcher's Ledge",
+43306,
+37732
+],
+[
+"The Quester's Terrace",
+43375,
+37622
+],
+[
+"The Sea Rider's Gate",
+43563,
+37313
+],
+[
+"The Song Bower",
+43202,
+37612
+],
+[
+"Upper Commons",
+43165,
+37442
+]
+],
+"waypoints": [
+[
+"Caledon Waypoint",
+43051,
+37064,
+"[&BBIEAAA=]"
+],
+[
+"Reckoner's Waypoint",
+43172,
+37446,
+"[&BLsEAAA=]"
+],
+[
+"Ronan's Waypoint",
+43214,
+37449,
+"[&BLwEAAA=]"
+],
+[
+"Upper Commons Waypoint",
+43162,
+37494,
+"[&BLoEAAA=]"
+]
+]
+},
+{
+"centre": [
+6910,
+13310
+],
+"id": 95,
+"name": " Alpine Borderlands",
+"sectors": [
+[
+" Border",
+6215,
+14666
+],
+[
+" Border",
+7662,
+14682
+],
+[
+" Citadel",
+6934,
+12316
+],
+[
+" Garrison",
+6871,
+12970
+],
+[
+"Bluebriar",
+6509,
+14097
+],
+[
+"Bluevale Refuge",
+6032,
+14115
+],
+[
+"Cohen's Overlook",
+7064,
+13430
+],
+[
+"Cragtop",
+7413,
+12711
+],
+[
+"Dreadfall Bay",
+5986,
+13582
+],
+[
+"Faithleap",
+6066,
+12882
+],
+[
+"Foghaven",
+7925,
+12910
+],
+[
+"Gertzz's Estate",
+6695,
+13411
+],
+[
+"Hero's Lodge",
+6909,
+14458
+],
+[
+"Norfolk's Hollow",
+6571,
+13699
+],
+[
+"Patrick's Ascent",
+7121,
+13743
+],
+[
+"Redlake",
+7301,
+14070
+],
+[
+"Redwater Lowlands",
+7858,
+14053
+],
+[
+"Shadaran Hills",
+7723,
+13536
+],
+[
+"Sunnyhill",
+6168,
+12560
+],
+[
+"Temple of the Fallen",
+6818,
+13895
+],
+[
+"The Titanpaw",
+6991,
+11993
+]
+],
+"waypoints": [
+[
+"Border Waypoint",
+5982,
+14787,
+"[&BNoEAAA=]"
+],
+[
+"Border Waypoint",
+7810,
+14729,
+"[&BN4EAAA=]"
+],
+[
+"Citadel Waypoint",
+6919,
+12519,
+"[&BNwEAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint A",
+5943,
+13516,
+"[&BC4JAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint B",
+5908,
+13720,
+"[&BJoOAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint C",
+5840,
+13490,
+"[&BKkOAAA=]"
+],
+[
+"Dreadfall Bay Waypoint",
+5915,
+13561,
+"[&BNkEAAA=]"
+],
+[
+"Emergency Waypoint",
+6359,
+12701,
+"[&BCcJAAA=]"
+],
+[
+"Emergency Waypoint",
+6598,
+14018,
+"[&BCkJAAA=]"
+],
+[
+"Emergency Waypoint",
+7358,
+14032,
+"[&BCIJAAA=]"
+],
+[
+"Emergency Waypoint",
+7436,
+12754,
+"[&BBUJAAA=]"
+],
+[
+"Garrison Emergency Waypoint A",
+6857,
+12986,
+"[&BCsJAAA=]"
+],
+[
+"Garrison Emergency Waypoint B",
+6936,
+12931,
+"[&BKAOAAA=]"
+],
+[
+"Garrison Emergency Waypoint C",
+6781,
+13111,
+"[&BKgOAAA=]"
+],
+[
+"Garrison Waypoint",
+6846,
+13106,
+"[&BNsEAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint A",
+7884,
+13488,
+"[&BCEJAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint B",
+8043,
+13569,
+"[&BKYOAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint C",
+7841,
+13573,
+"[&BK0OAAA=]"
+],
+[
+"Shadaran Hills Waypoint",
+8006,
+13510,
+"[&BN0EAAA=]"
+]
+]
+},
+{
+"centre": [
+14078,
+12670
+],
+"id": 96,
+"name": " Alpine Borderlands",
+"sectors": [
+[
+" Border",
+13383,
+14026
+],
+[
+" Border",
+14830,
+14042
+],
+[
+" Citadel",
+14102,
+11676
+],
+[
+" Garrison",
+14039,
+12330
+],
+[
+"Ascension Bay",
+13154,
+12942
+],
+[
+"Askalion Hills",
+14891,
+12896
+],
+[
+"Battle's Hollow",
+13739,
+13059
+],
+[
+"Bauer's Estate",
+13863,
+12771
+],
+[
+"Carver's Ascent",
+14289,
+13103
+],
+[
+"Champion's Demesne",
+14077,
+13818
+],
+[
+"Dawn's Eyrie",
+14581,
+12071
+],
+[
+"Godslore",
+13234,
+12242
+],
+[
+"Greenlake",
+14469,
+13430
+],
+[
+"Greenwater Lowlands",
+15026,
+13413
+],
+[
+"Orchard Overlook",
+14232,
+12790
+],
+[
+"Redbriar",
+13677,
+13457
+],
+[
+"Redvale Refuge",
+13200,
+13475
+],
+[
+"Stargrove",
+15093,
+12270
+],
+[
+"Temple of Lost Prayers",
+13986,
+13255
+],
+[
+"The Spiritholme",
+14159,
+11353
+],
+[
+"Woodhaven",
+13336,
+11920
+]
+],
+"waypoints": [
+[
+"Ascension Bay Emergency Waypoint A",
+13111,
+12876,
+"[&BC8JAAA=]"
+],
+[
+"Ascension Bay Emergency Waypoint B",
+13076,
+13080,
+"[&BKEOAAA=]"
+],
+[
+"Ascension Bay Emergency Waypoint C",
+13008,
+12850,
+"[&BKoOAAA=]"
+],
+[
+"Ascension Bay Waypoint",
+13083,
+12921,
+"[&BNMEAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint A",
+15052,
+12848,
+"[&BBgJAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint B",
+15211,
+12929,
+"[&BJ0OAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint C",
+15009,
+12933,
+"[&BKMOAAA=]"
+],
+[
+"Askalion Hills Waypoint",
+15174,
+12870,
+"[&BNcEAAA=]"
+],
+[
+"Border Waypoint",
+13150,
+14147,
+"[&BNQEAAA=]"
+],
+[
+"Border Waypoint",
+14978,
+14089,
+"[&BNgEAAA=]"
+],
+[
+"Citadel Waypoint",
+14087,
+11879,
+"[&BNYEAAA=]"
+],
+[
+"Emergency Waypoint",
+13527,
+12061,
+"[&BCMJAAA=]"
+],
+[
+"Emergency Waypoint",
+13766,
+13378,
+"[&BCUJAAA=]"
+],
+[
+"Emergency Waypoint",
+14526,
+13392,
+"[&BCwJAAA=]"
+],
+[
+"Emergency Waypoint",
+14604,
+12114,
+"[&BBQJAAA=]"
+],
+[
+"Garrison Emergency Waypoint A",
+14025,
+12346,
+"[&BBIJAAA=]"
+],
+[
+"Garrison Emergency Waypoint B",
+14104,
+12291,
+"[&BJUOAAA=]"
+],
+[
+"Garrison Emergency Waypoint C",
+13949,
+12471,
+"[&BKcOAAA=]"
+],
+[
+"Garrison Waypoint",
+14014,
+12466,
+"[&BNUEAAA=]"
+]
+]
+},
+{
+"centre": [
+46592,
+44928
+],
+"id": 111,
+"name": "Victory or Death",
+"sectors": [
+[
+"Nave of Arah",
+45815,
+44874
+],
+[
+"The Vaults of Holiness",
+46236,
+44858
+]
+],
+"waypoints": [
+[
+"Pact Camp Waypoint",
+45102,
+43864,
+"[&BFsDAAA=]"
+],
+[
+"The Glory of Tyria's Waypoint",
+45976,
+44838,
+"[&BGAGAAA=]"
+],
+[
+"The Humble Waypoint",
+45341,
+43821,
+"[&BF8GAAA=]"
+]
+]
+},
+{
+"centre": [
+45952,
+43904
+],
+"id": 112,
+"name": "The Ruined City of Arah",
+"sectors": [
+[
+"Arsenal of the Blessed",
+45616,
+44734
+],
+[
+"Ascendant's Bounty",
+45208,
+44307
+],
+[
+"Corrupted Canals",
+45427,
+43049
+],
+[
+"Courts of the Highborn Kings",
+45199,
+43401
+],
+[
+"Crypts of the Dreaming Dead",
+46613,
+44183
+],
+[
+"Estates of the Favored",
+45730,
+44283
+],
+[
+"Inquest Base Brawn Zeleph",
+46067,
+43174
+],
+[
+"Nave of Arah",
+45175,
+43850
+],
+[
+"Reza's Passage",
+45825,
+43504
+],
+[
+"The Divine Piazza",
+45759,
+43199
+],
+[
+"The Ghostlamp Way",
+46196,
+43422
+],
+[
+"The Godpath Gardens",
+46411,
+43765
+],
+[
+"The Grand Basilica",
+45471,
+43363
+],
+[
+"The Grand Temple of the Pantheon",
+45988,
+43848
+],
+[
+"The Heavencrystal Palace",
+45995,
+44657
+],
+[
+"The Rotten Armada",
+46704,
+43265
+],
+[
+"The Shattered Cleft",
+46290,
+44431
+],
+[
+"The Shipfall",
+46350,
+43006
+],
+[
+"The Vaults of Holiness",
+45596,
+43834
+],
+[
+"The Vaults of the Hidden",
+45262,
+44704
+]
+],
+"waypoints": [
+[
+"Ascendant's Bounty Waypoint",
+45457,
+44042,
+"[&BHUGAAA=]"
+],
+[
+"Ascendant's Bounty Waypoint",
+45458,
+44042,
+"[&BG4GAAA=]"
+],
+[
+"Cleft Waypoint",
+46502,
+44710,
+"[&BIYGAAA=]"
+],
+[
+"Demon's Shoal Waypoint",
+46623,
+43132,
+"[&BLAFAAA=]"
+],
+[
+"Divine Piazza Waypoint",
+45729,
+42968,
+"[&BP0FAAA=]"
+],
+[
+"Dreaming Dead Waypoint",
+46672,
+44123,
+"[&BIUGAAA=]"
+],
+[
+"Estates Waypoint",
+45709,
+44240,
+"[&BG8GAAA=]"
+],
+[
+"Heavencrystal Waypoint",
+45935,
+44259,
+"[&BIcGAAA=]"
+],
+[
+"Hidden Waypoint",
+45162,
+44844,
+"[&BHIGAAA=]"
+],
+[
+"Highborn Kings Waypoint",
+45513,
+43627,
+"[&BK8FAAA=]"
+],
+[
+"Highborn Kings Waypoint",
+45545,
+44446,
+"[&BHMGAAA=]"
+],
+[
+"Pact Encampment Waypoint",
+45147,
+43838,
+"[&BAwFAAA=]"
+],
+[
+"Pantheon Waypoint",
+45958,
+43854,
+"[&BLEFAAA=]"
+],
+[
+"Passage Waypoint",
+45813,
+43506,
+"[&BHQGAAA=]"
+],
+[
+"Reza's Waypoint",
+45757,
+43380,
+"[&BK4FAAA=]"
+],
+[
+"Rotten Armada Waypoint",
+46829,
+43003,
+"[&BMMGAAA=]"
+],
+[
+"Vaults of Holiness Waypoint",
+45457,
+44042,
+"[&BHEGAAA=]"
+],
+[
+"Vaults of Holiness Waypoint",
+45505,
+43632,
+"[&BHYGAAA=]"
+],
+[
+"Vaults of Holiness Waypoint",
+45518,
+43634,
+"[&BIQGAAA=]"
+],
+[
+"White Bears Pride Waypoint",
+45036,
+43577,
+"[&BHAGAAA=]"
+]
+]
+},
+{
+"centre": [
+38656,
+37374
+],
+"id": 139,
+"name": "Rata Sum",
+"sectors": [
+[
+"Advanced Metamystics Lab",
+38699,
+36297
+],
+[
+"Applied Development Lab (Home)",
+37820,
+36302
+],
+[
+"Arkentia Valley",
+38793,
+36540
+],
+[
+"College of Dynamics",
+38570,
+36978
+],
+[
+"College of Statics",
+38917,
+37035
+],
+[
+"College of Synergetics",
+38689,
+37306
+],
+[
+"Creator's Commons",
+38726,
+37106
+],
+[
+"Idea Incubation lab",
+38797,
+38173
+],
+[
+"Magus Valley",
+38176,
+37203
+],
+[
+"Polymock Arenas",
+39777,
+36659
+],
+[
+"Rata Sum Port Authority",
+38059,
+38100
+],
+[
+"Riven Valley",
+39283,
+37463
+],
+[
+"Snaff Memorial Lab",
+38015,
+37409
+]
+],
+"waypoints": [
+[
+"Accountancy Waypoint",
+38743,
+37098,
+"[&BLYEAAA=]"
+],
+[
+"Apprentice Waypoint",
+38854,
+37110,
+"[&BLcEAAA=]"
+],
+[
+"Auxiliary Waypoint",
+38746,
+37236,
+"[&BLkEAAA=]"
+],
+[
+"Incubation Waypoint",
+38702,
+37961,
+"[&BLUEAAA=]"
+],
+[
+"Magicat Court Waypoint",
+38582,
+37130,
+"[&BLQEAAA=]"
+],
+[
+"Magustan Court Waypoint",
+38775,
+36970,
+"[&BBQEAAA=]"
+],
+[
+"Metrical Court Waypoint",
+38852,
+37178,
+"[&BBMEAAA=]"
+],
+[
+"Port Waypoint",
+38102,
+38251,
+"[&BAcFAAA=]"
+],
+[
+"Research Waypoint",
+38599,
+37065,
+"[&BLgEAAA=]"
+]
+]
+},
+{
+"centre": [
+57088,
+30976
+],
+"id": 218,
+"name": "Black Citadel",
+"sectors": [
+[
+"Canton Factorium",
+57323,
+30121
+],
+[
+"Gladium Canton",
+57068,
+31033
+],
+[
+"Great Imperial Smelter",
+57583,
+31251
+],
+[
+"Haunted Nolani",
+56743,
+30151
+],
+[
+"Hero's Canton (Home)",
+57571,
+30335
+],
+[
+"Imperator's Core",
+57150,
+30627
+],
+[
+"Iron Legion Arsenal",
+57390,
+30760
+],
+[
+"Junker's Scrapyard",
+57340,
+30907
+],
+[
+"Ligacus Aquilo",
+56787,
+30428
+],
+[
+"Ligacus Notos",
+56677,
+30846
+],
+[
+"Memorial Quadrant",
+57004,
+30096
+],
+[
+"Mustering Ground",
+57622,
+30649
+],
+[
+"Nolani Academy Ruins",
+56558,
+30047
+],
+[
+"Perimeter Loop",
+57188,
+30629
+],
+[
+"Praetor's Canton",
+57762,
+30853
+],
+[
+"Ruins of Rin",
+56656,
+31442
+],
+[
+"The Bane",
+56926,
+30597
+],
+[
+"War Wagon Prep Deck",
+57573,
+30801
+]
+],
+"waypoints": [
+[
+"Bane Waypoint",
+57039,
+30536,
+"[&BKoDAAA=]"
+],
+[
+"Diessa Gate Waypoint",
+57030,
+30147,
+"[&BKgDAAA=]"
+],
+[
+"Factorium Waypoint",
+57379,
+30255,
+"[&BKcDAAA=]"
+],
+[
+"Gladium Waypoint",
+57120,
+31106,
+"[&BKQDAAA=]"
+],
+[
+"Haunted Nolani Waypoint",
+56605,
+30513,
+"[&BCkHAAA=]"
+],
+[
+"Hero's Waypoint",
+57367,
+30553,
+"[&BKsDAAA=]"
+],
+[
+"Imperator's Waypoint",
+57089,
+30642,
+"[&BK0DAAA=]"
+],
+[
+"Junker's Waypoint",
+57222,
+30898,
+"[&BDcEAAA=]"
+],
+[
+"Ligacus Aquilo Waypoint",
+56831,
+30474,
+"[&BKkDAAA=]"
+],
+[
+"Memorial Waypoint",
+57138,
+30368,
+"[&BKYDAAA=]"
+],
+[
+"Mustering Ground Waypoint",
+57733,
+30623,
+"[&BKUDAAA=]"
+],
+[
+"Ruins of Rin Waypoint",
+56880,
+31208,
+"[&BKwDAAA=]"
+]
+]
+},
+{
+"centre": [
+53376,
+30528
+],
+"id": 326,
+"name": "Hoelbrak",
+"sectors": [
+[
+"Bear Lodge",
+54195,
+30266
+],
+[
+"Biergarten",
+52885,
+29973
+],
+[
+"Eastern Watchpost",
+54220,
+30823
+],
+[
+"Frost Basin",
+54221,
+31207
+],
+[
+"Hall of Legends",
+54255,
+30548
+],
+[
+"Hero's Compass",
+53118,
+30439
+],
+[
+"Lake Mourn",
+52747,
+30557
+],
+[
+"Might and Main",
+53821,
+30398
+],
+[
+"Mourn's Tears",
+53121,
+30238
+],
+[
+"Peeta's Gate",
+53304,
+30605
+],
+[
+"Raven Lodge",
+53760,
+30016
+],
+[
+"Shelter Rock",
+54182,
+30097
+],
+[
+"Snow Leopard Lodge",
+53336,
+30352
+],
+[
+"Southern Watchpost",
+53864,
+31109
+],
+[
+"The Great Lodge",
+53466,
+31104
+],
+[
+"Trade Commons",
+53545,
+30860
+],
+[
+"Veins of the Dragon",
+53332,
+30070
+],
+[
+"Wolf Lodge",
+54072,
+30756
+]
+],
+"waypoints": [
+[
+"Bear Waypoint",
+54090,
+30287,
+"[&BIkDAAA=]"
+],
+[
+"Eastern Watchpost Waypoint",
+54174,
+30922,
+"[&BI0DAAA=]"
+],
+[
+"Great Lodge Waypoint",
+53493,
+30989,
+"[&BNUDAAA=]"
+],
+[
+"Hero's Compass Waypoint",
+53049,
+30340,
+"[&BJADAAA=]"
+],
+[
+"Legends Waypoint",
+54263,
+30542,
+"[&BIwDAAA=]"
+],
+[
+"Might and Main Waypoint",
+53776,
+30500,
+"[&BIUDAAA=]"
+],
+[
+"Peeta's Waypoint",
+53314,
+30661,
+"[&BI8DAAA=]"
+],
+[
+"Raven Waypoint",
+53794,
+30173,
+"[&BIgDAAA=]"
+],
+[
+"Shelter Rock Waypoint",
+54271,
+30010,
+"[&BIsDAAA=]"
+],
+[
+"Snow Leopard Waypoint",
+53456,
+30396,
+"[&BIcDAAA=]"
+],
+[
+"Southern Watchpost Waypoint",
+53840,
+31018,
+"[&BI4DAAA=]"
+],
+[
+"Trade Commons Waypoint",
+53677,
+30665,
+"[&BIYDAAA=]"
+],
+[
+"Upper Balcony Waypoint",
+53656,
+30805,
+"[&BAgFAAA=]"
+],
+[
+"Wolf Waypoint",
+54036,
+30693,
+"[&BIoDAAA=]"
+]
+]
+},
+{
+"centre": [
+5505,
+7038
+],
+"id": 350,
+"name": "Heart of the Mists",
+"sectors": [
+[
+"Hall of Memories",
+5407,
+7063
+]
+],
+"waypoints": [
+[
+"Arena Waypoint",
+5098,
+7181,
+"[&BNoJAAA=]"
+],
+[
+"Combat Training Waypoint",
+5757,
+6738,
+"[&BEoFAAA=]"
+],
+[
+"Market Waypoint",
+5540,
+6743,
+"[&BNgJAAA=]"
+],
+[
+"Portal to Lion's Arch",
+5563,
+7107,
+"[&BEkFAAA=]"
+],
+[
+"PvP Lobby Waypoint",
+5351,
+6925,
+"[&BBYEAAA=]"
+],
+[
+"Siege Training Waypoint",
+5786,
+7215,
+"[&BNkJAAA=]"
+]
+]
+},
+{
+"centre": [
+3710,
+5758
+],
+"id": 549,
+"name": "Battle of Kyhlo",
+"sectors": [
+[
+"Battle of Kyhlo",
+3718,
+5789
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+3907,
+5933,
+"[&BEwEAAA=]"
+],
+[
+"Red Team Rally Point",
+3509,
+5615,
+"[&BE0EAAA=]"
+]
+]
+},
+{
+"centre": [
+7550,
+5180
+],
+"id": 554,
+"name": "Forest of Niflhel",
+"sectors": [
+[
+"Conquest Forest",
+7525,
+5167
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+7446,
+5307,
+"[&BE4EAAA=]"
+],
+[
+"Red Team Rally Point",
+7624,
+5310,
+"[&BE8EAAA=]"
+]
+]
+},
+{
+"centre": [
+3006,
+8766
+],
+"id": 795,
+"name": "Legacy of the Foefire",
+"sectors": [
+[
+"Conquest Guild",
+3037,
+8792
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+3286,
+8587,
+"[&BPAEAAA=]"
+],
+[
+"Red Team Rally Point",
+2838,
+8932,
+"[&BPEEAAA=]"
+]
+]
+},
+{
+"centre": [
+3328,
+13824
+],
+"id": 862,
+"name": "Reaper's Rumble",
+"sectors": [
+[
+"Reaper's Rumble",
+3352,
+13856
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+3332,
+14091,
+"[&BM4GAAA=]"
+],
+[
+"Red Team Rally Point",
+3331,
+13524,
+"[&BM8GAAA=]"
+]
+]
+},
+{
+"centre": [
+3072,
+14592
+],
+"id": 863,
+"name": "Ascent to Madness",
+"sectors": [
+[
+"Ascent to Madness",
+3140,
+14640
+]
+],
+"waypoints": [
+[
+"Ascent to Madness Waypoint",
+3085,
+14626,
+"[&BMwGAAA=]"
+]
+]
+},
+{
+"centre": [
+2176,
+14080
+],
+"id": 866,
+"name": "Mad King's Labyrinth",
+"sectors": [
+[
+"Mad King's Labyrinth",
+2197,
+14054
+]
+],
+"waypoints": [
+[
+"Mad King's Labyrinth Waypoint",
+1898,
+13822,
+"[&BCoHAAA=]"
+],
+[
+"Mad King's Labyrinth Waypoint",
+2464,
+13832,
+"[&BM0GAAA=]"
+]
+]
+},
+{
+"centre": [
+45632,
+36224
+],
+"id": 873,
+"name": "Southsun Cove",
+"sectors": [
+[
+"Bakestone Cavern",
+45222,
+36055
+],
+[
+"Captain's Retreat",
+45557,
+36786
+],
+[
+"Dappled Shores",
+46400,
+36456
+],
+[
+"Driftglass Springs",
+45653,
+36393
+],
+[
+"Owain's Refuge",
+44640,
+36767
+],
+[
+"Pearl Islet",
+46666,
+36796
+],
+[
+"Sawtooth Bay",
+46103,
+36814
+],
+[
+"Scoured Plains",
+45028,
+36678
+],
+[
+"Seashell Hills",
+44834,
+36143
+],
+[
+"Southsun Shoals",
+45925,
+35840
+],
+[
+"Southsun Strait",
+44619,
+35822
+]
+],
+"waypoints": [
+[
+"Camp Karka Waypoint",
+45606,
+36766,
+"[&BNcGAAA=]"
+],
+[
+"Kiel's Outpost Waypoint",
+46364,
+36070,
+"[&BNwGAAA=]"
+],
+[
+"Lion Point Waypoint",
+45546,
+35647,
+"[&BNAGAAA=]"
+],
+[
+"Owain's Refuge Waypoint",
+44684,
+36898,
+"[&BNgGAAA=]"
+],
+[
+"Pearl Islet Waypoint",
+46589,
+36792,
+"[&BNUGAAA=]"
+],
+[
+"Pride Point Waypoint",
+46638,
+35612,
+"[&BNIGAAA=]"
+]
+]
+},
+{
+"centre": [
+4608,
+9664
+],
+"id": 875,
+"name": "Temple of the Silent Storm",
+"sectors": [
+[
+"Temple of the Silent Storm",
+4530,
+9690
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+4334,
+9745,
+"[&BNEGAAA=]"
+],
+[
+"Red Team Rally Point",
+4699,
+9778,
+"[&BNMGAAA=]"
+]
+]
+},
+{
+"centre": [
+2432,
+5760
+],
+"id": 894,
+"name": "Spirit Watch",
+"sectors": [],
+"waypoints": [
+[
+"Blue Team Rally Point",
+2523,
+5938,
+"[&BPYGAAA=]"
+],
+[
+"Red Team Rally Point",
+2414,
+5930,
+"[&BPcGAAA=]"
+]
+]
+},
+{
+"centre": [
+10494,
+14334
+],
+"id": 899,
+"name": "Obsidian Sanctum",
+"sectors": [],
+"waypoints": [
+[
+"Obsidian Sanctum Waypoint",
+11517,
+13508,
+"[&BAQHAAA=]"
+],
+[
+"Obsidian Sanctum Waypoint",
+11721,
+13986,
+"[&BAMHAAA=]"
+],
+[
+"Obsidian Sanctum Waypoint",
+11748,
+13776,
+"[&BAIHAAA=]"
+]
+]
+},
+{
+"centre": [
+7680,
+7742
+],
+"id": 900,
+"name": "Skyhammer",
+"sectors": [],
+"waypoints": [
+[
+"Blue Team Rally Point",
+7595,
+7882,
+"[&BAUHAAA=]"
+],
+[
+"Red Team Rally Point",
+7596,
+7586,
+"[&BAYHAAA=]"
+]
+]
+},
+{
+"centre": [
+49024,
+31104
+],
+"id": 911,
+"name": "Dragon Ball Arena",
+"sectors": [
+[
+"Dragon Ball Arena",
+49024,
+31042
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+48906,
+31043,
+"[&BAsHAAA=]"
+],
+[
+"Red Team Rally Point",
+49136,
+31042,
+"[&BAwHAAA=]"
+]
+]
+},
+{
+"centre": [
+48128,
+32000
+],
+"id": 915,
+"name": "Aetherblade Retreat",
+"sectors": [
+[
+"Deceit's Climb",
+48073,
+32184
+],
+[
+"Scoundrel's Hovel",
+48188,
+31848
+],
+[
+"The Wretched Walk",
+47946,
+31852
+]
+],
+"waypoints": [
+[
+"Kleptotronic Advanced Designs Waypoint",
+48016,
+31803,
+"[&BA8HAAA=]"
+],
+[
+"Roughneck Crook Waypoint",
+47972,
+31952,
+"[&BA4HAAA=]"
+],
+[
+"Scoundrel's Hovel Waypoint",
+48186,
+31834,
+"[&BBAHAAA=]"
+]
+]
+},
+{
+"centre": [
+43418,
+27264
+],
+"id": 929,
+"name": "The Crown Pavilion",
+"sectors": [
+[
+"The Crown Pavilion",
+43420,
+27280
+]
+],
+"waypoints": [
+[
+"Crown Pavilion Waypoint",
+43419,
+27271,
+"[&BB8HAAA=]"
+]
+]
+},
+{
+"centre": [
+43418,
+27264
+],
+"id": 930,
+"name": "Opening Ceremony",
+"sectors": [
+[
+"The Crown Pavilion",
+43420,
+27280
+]
+],
+"waypoints": [
+[
+"Crown Pavilion Waypoint",
+43419,
+27271,
+"[&BB8HAAA=]"
+]
+]
+},
+{
+"centre": [
+43418,
+27264
+],
+"id": 931,
+"name": "Scarlet's Playhouse",
+"sectors": [
+[
+"The Crown Pavilion",
+43420,
+27280
+]
+],
+"waypoints": [
+[
+"Crown Pavilion Waypoint",
+43419,
+27271,
+"[&BB8HAAA=]"
+]
+]
+},
+{
+"centre": [
+43968,
+27136
+],
+"id": 932,
+"name": "Closing Ceremony",
+"sectors": [],
+"waypoints": [
+[
+"Crown Pavilion Waypoint",
+43628,
+27230,
+"[&BCwDAAA=]"
+]
+]
+},
+{
+"centre": [
+43392,
+31360
+],
+"id": 943,
+"name": "The Tower of Nightmares (Public)",
+"sectors": [
+[
+"Central Chamber",
+43388,
+31624
+],
+[
+"First Level",
+43582,
+31383
+],
+[
+"Second Level",
+43610,
+31888
+],
+[
+"Third Level",
+43179,
+31704
+],
+[
+"Unending Nightmares",
+43189,
+30549
+]
+],
+"waypoints": [
+[
+"Tower of Nightmares Waypoint",
+43566,
+31223,
+"[&BC8HAAA=]"
+],
+[
+"Tower of Nightmares Waypoint",
+43566,
+31223,
+"[&BIENAAA=]"
+]
+]
+},
+{
+"centre": [
+12188,
+4798
+],
+"id": 957,
+"name": "Fractals of the Mists",
+"sectors": [
+[
+"Thaumanova Reactor",
+12206,
+4770
+]
+],
+"waypoints": [
+[
+"Thaumanova Reactor",
+12319,
+4922,
+"[&BDAHAAA=]"
+]
+]
+},
+{
+"centre": [
+7530,
+9982
+],
+"id": 968,
+"name": "Edge of the Mists",
+"sectors": [
+[
+"Airport",
+7132,
+10335
+],
+[
+"Altar",
+7279,
+9180
+],
+[
+"Arid Fortress",
+6436,
+10653
+],
+[
+"Arid Fortress Reactor",
+6835,
+10484
+],
+[
+"Badlands Docks",
+6445,
+11245
+],
+[
+"Bell Tower",
+8102,
+10324
+],
+[
+"Forge",
+8162,
+10834
+],
+[
+"Frostreach Docks",
+8462,
+11126
+],
+[
+"Inferno's Needle",
+7481,
+10756
+],
+[
+"Inferno's Needle Reactor",
+7600,
+10370
+],
+[
+"Mists Arena",
+6636,
+8848
+],
+[
+"Observatory",
+7942,
+9186
+],
+[
+"Overgrown Docks",
+7869,
+8598
+],
+[
+"Overgrown Fane",
+7485,
+8763
+],
+[
+"Overgrown Fane Reactor",
+7589,
+9067
+],
+[
+"Shrine",
+8610,
+10227
+],
+[
+"Statuary",
+7511,
+9422
+],
+[
+"Stonegaze Spire",
+6915,
+9570
+],
+[
+"Stonegaze Spire Reactor",
+7244,
+9787
+],
+[
+"The Juncture",
+7576,
+9913
+],
+[
+"Thunder Hollow",
+8644,
+10703
+],
+[
+"Thunder Hollow Reactor",
+8315,
+10433
+],
+[
+"Tytone Perch",
+8153,
+9772
+],
+[
+"Tytone Perch Reactor",
+7808,
+9876
+],
+[
+"Workshop",
+6900,
+10850
+],
+[
+"Wurm Tunnel",
+6795,
+10211
+]
+],
+"waypoints": [
+[
+"Arid Fortress Waypoint",
+6365,
+10663,
+"[&BEsHAAA=]"
+],
+[
+"Badlands Safe Zone Waypoint",
+6464,
+11290,
+"[&BEoHAAA=]"
+],
+[
+"Frostreach Safe Zone Waypoint",
+8467,
+11178,
+"[&BEkHAAA=]"
+],
+[
+"Mists Arena Blue Team Rally Point",
+6941,
+8743,
+"[&BIYMAAA=]"
+],
+[
+"Mists Arena Red Team Rally Point",
+6431,
+9067,
+"[&BIUMAAA=]"
+],
+[
+"Mists Arena Spectator Rally Point",
+6224,
+8496,
+"[&BIQMAAA=]"
+],
+[
+"Overgrown Fane Waypoint",
+7513,
+8672,
+"[&BE0HAAA=]"
+],
+[
+"Overgrowth Safe Zone Waypoint",
+7930,
+8550,
+"[&BEMHAAA=]"
+],
+[
+"Thunder Hollow Waypoint",
+8675,
+10669,
+"[&BEwHAAA=]"
+]
+]
+},
+{
+"centre": [
+2560,
+7552
+],
+"id": 984,
+"name": "Courtyard",
+"sectors": [
+[
+"Deathmatch Courtyard",
+2617,
+7641
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+2470,
+7677,
+"[&BGYHAAA=]"
+],
+[
+"Red Team Rally Point",
+2729,
+7676,
+"[&BGcHAAA=]"
+]
+]
+},
+{
+"centre": [
+37632,
+32256
+],
+"id": 988,
+"name": "Dry Top",
+"sectors": [
+[
+"Cavern of the Shining Lights",
+37218,
+33353
+],
+[
+"Challenger Cliffs",
+36920,
+33048
+],
+[
+"Prospect Valley",
+37928,
+32843
+],
+[
+"Treadrock Uplands",
+37591,
+32581
+],
+[
+"Unswept Uplands",
+37222,
+32916
+],
+[
+"Uplands Oasis",
+36955,
+32438
+]
+],
+"waypoints": [
+[
+"Dry Top Entry Waypoint",
+38299,
+33089,
+"[&BIAHAAA=]"
+],
+[
+"Prosperity Waypoint",
+37988,
+32718,
+"[&BHoHAAA=]"
+],
+[
+"Repair Station Waypoint",
+36713,
+32755,
+"[&BJcHAAA=]"
+],
+[
+"Restoration Refuge Waypoint",
+37731,
+32727,
+"[&BIgHAAA=]"
+],
+[
+"Vine Bridge Waypoint",
+36895,
+32688,
+"[&BIYHAAA=]"
+]
+]
+},
+{
+"centre": [
+8960,
+8000
+],
+"id": 1011,
+"name": "Battle of Champion's Dusk",
+"sectors": [
+[
+"Battle of Champion's Dusk",
+8971,
+7992
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+8703,
+7857,
+"[&BJ0HAAA=]"
+],
+[
+"Red Team Rally Point",
+9200,
+8156,
+"[&BJsHAAA=]"
+]
+]
+},
+{
+"centre": [
+37632,
+31360
+],
+"id": 1015,
+"name": "The Silverwastes",
+"sectors": [
+[
+"Camp Resolve",
+38398,
+31773
+],
+[
+"Central Silverwastes",
+37617,
+31656
+],
+[
+"Desperate Passage",
+37181,
+31004
+],
+[
+"Far Silverwastes",
+37861,
+30864
+],
+[
+"Northeastern Silverwastes",
+38195,
+31330
+],
+[
+"Northern Silverwastes",
+37777,
+31156
+],
+[
+"Northwestern Silverwastes",
+37267,
+31197
+],
+[
+"Quarrel Gully",
+36794,
+31792
+],
+[
+"Sharp Valley",
+37569,
+32031
+],
+[
+"Southeastern Silverwastes",
+38022,
+31747
+],
+[
+"Southwestern Silverwastes",
+37126,
+31701
+],
+[
+"Tangled Labyrinth",
+37013,
+31878
+],
+[
+"The Sealed Cavern",
+37170,
+30898
+],
+[
+"Vinewrath Tangle",
+36890,
+31416
+]
+],
+"waypoints": [
+[
+"Camp Resolve Waypoint",
+38451,
+31736,
+"[&BH8HAAA=]"
+],
+[
+"Drydock Grotto Waypoint",
+38234,
+31108,
+"[&BLoHAAA=]"
+],
+[
+"Hidden Depths Waypoint",
+37669,
+32071,
+"[&BKwHAAA=]"
+]
+]
+},
+{
+"centre": [
+35584,
+37440
+],
+"id": 1041,
+"name": "Dragon's Stand",
+"sectors": [
+[
+"Bitter Harvest",
+36251,
+38283
+],
+[
+"Broken Altar",
+35596,
+36432
+],
+[
+"Central Barbed Gate",
+35926,
+37461
+],
+[
+"Central Blighting Tower",
+35660,
+37871
+],
+[
+"Chak Nest",
+36866,
+37750
+],
+[
+"Dragon's Domain",
+35010,
+37986
+],
+[
+"Exhumed Delve",
+36796,
+37230
+],
+[
+"Northern Barbed Gate",
+35271,
+37166
+],
+[
+"Northern Blighting Tower",
+34966,
+37303
+],
+[
+"Pact Base Camp",
+36840,
+36288
+],
+[
+"Prismatic Postpile",
+36809,
+36788
+],
+[
+"Rooted Copse",
+35050,
+36735
+],
+[
+"Southern Barbed Gate",
+36384,
+37900
+],
+[
+"Southern Blighting Tower",
+36020,
+38121
+],
+[
+"Toadstool Mire",
+36422,
+36610
+],
+[
+"Vigilant Precipice",
+36370,
+36279
+],
+[
+"Wyvern Scar",
+36311,
+37088
+]
+],
+"waypoints": [
+[
+"Central Advance Camp Waypoint",
+36118,
+37357,
+"[&BFMIAAA=]"
+],
+[
+"Central Forward Camp Waypoint",
+36205,
+36974,
+"[&BC4IAAA=]"
+],
+[
+"Dragon's Domain Central Waypoint",
+35436,
+37715,
+"[&BJcIAAA=]"
+],
+[
+"Dragon's Domain Northern Waypoint",
+34756,
+37367,
+"[&BK4IAAA=]"
+],
+[
+"Dragon's Domain Southern Waypoint",
+35649,
+38077,
+"[&BFcIAAA=]"
+],
+[
+"Northern Advance Camp Waypoint",
+35532,
+36790,
+"[&BAAJAAA=]"
+],
+[
+"Northern Forward Camp Waypoint",
+35730,
+36556,
+"[&BFIIAAA=]"
+],
+[
+"Pact Base Camp Southern Waypoint",
+36811,
+36525,
+"[&BHoIAAA=]"
+],
+[
+"Pact Base Camp Waypoint",
+36649,
+36232,
+"[&BBAIAAA=]"
+],
+[
+"Southern Advance Camp Waypoint",
+36654,
+37491,
+"[&BGUIAAA=]"
+],
+[
+"Southern Forward Camp Waypoint",
+36987,
+37143,
+"[&BE8IAAA=]"
+]
+]
+},
+{
+"centre": [
+35744,
+32194
+],
+"id": 1042,
+"name": "Verdant Brink",
+"sectors": [
+[
+"Verdant Brink",
+35200,
+31786
+]
+],
+"waypoints": [
+[
+"Shipwreck Peak Waypoint",
+35130,
+31741,
+"[&BMAHAAA=]"
+]
+]
+},
+{
+"centre": [
+34304,
+33920
+],
+"id": 1043,
+"name": "Auric Basin",
+"sectors": [
+[
+"Arrowhead Vale",
+34197,
+33265
+],
+[
+"Balthazar's Rest",
+33879,
+35100
+],
+[
+"Bristleback Chasm",
+35031,
+33824
+],
+[
+"Burnisher Quarry",
+34947,
+32797
+],
+[
+"Chak Hollow",
+34913,
+35054
+],
+[
+"Eastwatch Bluff",
+35193,
+34030
+],
+[
+"Griffonfall",
+33744,
+34795
+],
+[
+"Lastgear Standing",
+33548,
+34171
+],
+[
+"Maguuma Shallows",
+34744,
+33234
+],
+[
+"Morwood Wilds",
+34324,
+35092
+],
+[
+"Mossheart Walk",
+34881,
+34672
+],
+[
+"Northwatch Descent",
+34475,
+32887
+],
+[
+"Southwatch Creep",
+34352,
+34716
+],
+[
+"Tarir, the Forgotten City",
+34257,
+33881
+],
+[
+"Tarnished Treetop",
+33695,
+32853
+],
+[
+"The Falls",
+33850,
+34371
+],
+[
+"Westwatch Patch",
+33655,
+33521
+]
+],
+"waypoints": [
+[
+"Chak Hollow Waypoint",
+34864,
+35025,
+"[&BEkIAAA=]"
+],
+[
+"Eastwatch Waypoint",
+35048,
+33803,
+"[&BGwIAAA=]"
+],
+[
+"Forgotten City Waypoint",
+34318,
+33966,
+"[&BMYHAAA=]"
+],
+[
+"Northwatch Waypoint",
+34402,
+33144,
+"[&BN0HAAA=]"
+],
+[
+"Southwatch Waypoint",
+34228,
+34591,
+"[&BAIIAAA=]"
+],
+[
+"Wanderer's Waypoint",
+33672,
+32820,
+"[&BNYHAAA=]"
+],
+[
+"Westwatch Waypoint",
+33704,
+33522,
+"[&BAYIAAA=]"
+]
+]
+},
+{
+"centre": [
+36992,
+34944
+],
+"id": 1045,
+"name": "Tangled Depths",
+"sectors": [
+[
+"Chak Stronghold",
+36170,
+34353
+],
+[
+"Decayed Hive",
+37609,
+34205
+],
+[
+"Deeproot Sink",
+36021,
+35459
+],
+[
+"Dragon's Passage",
+35621,
+35807
+],
+[
+"Eastern Confluence Tunnel",
+37700,
+35650
+],
+[
+"Ley-Line Confluence",
+37292,
+35486
+],
+[
+"Northern Confluence Tunnel",
+37074,
+34948
+],
+[
+"Nuhoch Lane",
+36656,
+34960
+],
+[
+"Ogre Camp",
+36572,
+35288
+],
+[
+"Ogre Lane",
+36551,
+35736
+],
+[
+"Rata Novus",
+37780,
+34918
+],
+[
+"Rata Novus Lane",
+37386,
+34883
+],
+[
+"SCAR Bivouac",
+38188,
+35572
+],
+[
+"SCAR Lane",
+37904,
+35271
+],
+[
+"Tangled Descent",
+35790,
+34923
+],
+[
+"Teku Nuhoch",
+37060,
+34393
+],
+[
+"The Great Tree",
+36374,
+35093
+],
+[
+"Undergrowth Connector",
+36603,
+34355
+]
+],
+"waypoints": [
+[
+"Dragon's Passage Waypoint",
+35652,
+35859,
+"[&BIgIAAA=]"
+],
+[
+"Ley-Line Confluence Waypoint",
+37246,
+35516,
+"[&BPUHAAA=]"
+],
+[
+"Ogre Camp Waypoint",
+36674,
+35238,
+"[&BMwHAAA=]"
+],
+[
+"Order of Whispers Camp Waypoint",
+35826,
+34606,
+"[&BA4IAAA=]"
+],
+[
+"Rata Novus Waypoint",
+37717,
+34710,
+"[&BAMIAAA=]"
+],
+[
+"SCAR Camp Waypoint",
+37975,
+35495,
+"[&BAAIAAA=]"
+],
+[
+"Teku Nuhoch Waypoint",
+37039,
+34324,
+"[&BAwIAAA=]"
+]
+]
+},
+{
+"centre": [
+35008,
+31744
+],
+"id": 1052,
+"name": "Verdant Brink",
+"sectors": [
+[
+"Blighted Depths",
+34442,
+31257
+],
+[
+"Broken Bluffs",
+34205,
+31607
+],
+[
+"Coztic Grounds",
+34520,
+31911
+],
+[
+"Creeping Crevasse",
+35942,
+31804
+],
+[
+"Dry Step Mesas",
+36289,
+31845
+],
+[
+"Heartless Pass",
+36206,
+31529
+],
+[
+"Hidden Copse",
+34924,
+32288
+],
+[
+"Jaka Itzel",
+36251,
+31282
+],
+[
+"Maguuma's Breach",
+36431,
+31664
+],
+[
+"Noble Ledges",
+34221,
+32284
+],
+[
+"Shrouded Ruins",
+35778,
+32228
+],
+[
+"Skyclaw Peaks",
+35238,
+31357
+],
+[
+"Snarled Frontier",
+36464,
+32148
+],
+[
+"Stonetwist Paths",
+35244,
+31688
+],
+[
+"The Doomteeth",
+33830,
+31296
+],
+[
+"Thistlevine Ravine",
+35221,
+32042
+],
+[
+"Treacherous Paths",
+33964,
+31978
+],
+[
+"Wyvern Cliffs",
+35654,
+31333
+]
+],
+"waypoints": [
+[
+"Faren's Flyer Waypoint",
+34083,
+32201,
+"[&BO8HAAA=]"
+],
+[
+"Jaka Itzel Waypoint",
+36033,
+31136,
+"[&BOAHAAA=]"
+],
+[
+"Mellaggan's Valor Waypoint",
+34502,
+31504,
+"[&BNUHAAA=]"
+],
+[
+"Pact Encampment Waypoint",
+35166,
+31785,
+"[&BAgIAAA=]"
+],
+[
+"Shipwreck Peak Waypoint",
+36480,
+31661,
+"[&BN4HAAA=]"
+],
+[
+"Shrouded Ruins Waypoint",
+35555,
+32384,
+"[&BAEIAAA=]"
+],
+[
+"Treacherous Path Waypoint",
+33681,
+32397,
+"[&BBwIAAA=]"
+]
+]
+},
+{
+"centre": [
+35968,
+33152
+],
+"id": 1068,
+"name": "Gilded Hollow",
+"sectors": [],
+"waypoints": [
+[
+"Arena Tower Waypoint",
+35727,
+33286,
+"[&BNQIAAA=]"
+],
+[
+"Cavern Mine Waypoint",
+36293,
+33455,
+"[&BHIIAAA=]"
+],
+[
+"Central Hollow Waypoint",
+35973,
+33210,
+"[&BP8IAAA=]"
+],
+[
+"Surface Tunnel Waypoint",
+35393,
+33662,
+"[&BAEJAAA=]"
+],
+[
+"Waterfall Plaza Waypoint",
+35910,
+32706,
+"[&BOEIAAA=]"
+]
+]
+},
+{
+"centre": [
+34176,
+30336
+],
+"id": 1069,
+"name": "Lost Precipice",
+"sectors": [],
+"waypoints": [
+[
+"Canyon Dig Waypoint",
+33685,
+29911,
+"[&BDsIAAA=]"
+],
+[
+"Central Precipice Waypoint",
+34234,
+30348,
+"[&BMIIAAA=]"
+],
+[
+"Riverside Overlook Waypoint",
+33952,
+30649,
+"[&BFEIAAA=]"
+],
+[
+"Sandstone Coliseum Waypoint",
+34786,
+30849,
+"[&BPQIAAA=]"
+],
+[
+"Shrine Tunnel Waypoint",
+34613,
+30938,
+"[&BL4IAAA=]"
+],
+[
+"Upper Plaza Waypoint",
+34211,
+29897,
+"[&BHcIAAA=]"
+]
+]
+},
+{
+"centre": [
+34176,
+30336
+],
+"id": 1071,
+"name": "Lost Precipice",
+"sectors": [],
+"waypoints": [
+[
+"Canyon Dig Waypoint",
+33685,
+29911,
+"[&BDsIAAA=]"
+],
+[
+"Central Precipice Waypoint",
+34234,
+30348,
+"[&BMIIAAA=]"
+],
+[
+"Riverside Overlook Waypoint",
+33952,
+30649,
+"[&BFEIAAA=]"
+],
+[
+"Sandstone Coliseum Waypoint",
+34786,
+30849,
+"[&BPQIAAA=]"
+],
+[
+"Shrine Tunnel Waypoint",
+34613,
+30938,
+"[&BL4IAAA=]"
+],
+[
+"Upper Plaza Waypoint",
+34211,
+29897,
+"[&BHcIAAA=]"
+]
+]
+},
+{
+"centre": [
+34176,
+30336
+],
+"id": 1076,
+"name": "Lost Precipice",
+"sectors": [],
+"waypoints": [
+[
+"Canyon Dig Waypoint",
+33685,
+29911,
+"[&BDsIAAA=]"
+],
+[
+"Central Precipice Waypoint",
+34234,
+30348,
+"[&BMIIAAA=]"
+],
+[
+"Riverside Overlook Waypoint",
+33952,
+30649,
+"[&BFEIAAA=]"
+],
+[
+"Sandstone Coliseum Waypoint",
+34786,
+30849,
+"[&BPQIAAA=]"
+],
+[
+"Shrine Tunnel Waypoint",
+34613,
+30938,
+"[&BL4IAAA=]"
+],
+[
+"Upper Plaza Waypoint",
+34211,
+29897,
+"[&BHcIAAA=]"
+]
+]
+},
+{
+"centre": [
+10750,
+10494
+],
+"id": 1099,
+"name": " Desert Borderlands",
+"sectors": [
+[
+" Border",
+9640,
+11765
+],
+[
+" Border",
+12009,
+11771
+],
+[
+" Citadel",
+10817,
+9157
+],
+[
+"Bauer Farmstead",
+11746,
+11304
+],
+[
+"Bearce's Dwelling",
+10429,
+10651
+],
+[
+"Blistering Undercroft",
+9858,
+10565
+],
+[
+"Boettiger's Hideaway",
+9467,
+9996
+],
+[
+"Crankshaft Depot",
+11263,
+11695
+],
+[
+"Darra's Maze",
+10479,
+11186
+],
+[
+"Dustwhisper Well",
+10803,
+11731
+],
+[
+"Eternal Necropolis",
+11845,
+9567
+],
+[
+"Hamm's Lab",
+10840,
+9550
+],
+[
+"Higgins's Ascent",
+10950,
+11208
+],
+[
+"McLain's Encampment",
+9774,
+11228
+],
+[
+"O'del Academy",
+9792,
+9450
+],
+[
+"Osprey's Palace",
+11769,
+10800
+],
+[
+"Parched Outpost",
+10126,
+11540
+],
+[
+"Roy's Refuge",
+11949,
+10053
+],
+[
+"Stoic Rampart",
+10746,
+10051
+],
+[
+"Tilly's Encampment",
+10799,
+10510
+],
+[
+"Zak's Overlook",
+11115,
+10773
+]
+],
+"waypoints": [
+[
+"Blistering Undercroft Emergency Waypoint A",
+9504,
+10695,
+"[&BMgIAAA=]"
+],
+[
+"Blistering Undercroft Emergency Waypoint B",
+9447,
+10520,
+"[&BJYOAAA=]"
+],
+[
+"Blistering Undercroft Emergency Waypoint C",
+9280,
+10790,
+"[&BKwOAAA=]"
+],
+[
+"Blistering Undercroft Waypoint",
+9493,
+10632,
+"[&BK0IAAA=]"
+],
+[
+"Border Waypoint",
+9518,
+11814,
+"[&BMcIAAA=]"
+],
+[
+"Border Waypoint",
+12111,
+11894,
+"[&BIsIAAA=]"
+],
+[
+"Citadel Waypoint",
+10757,
+9181,
+"[&BOQIAAA=]"
+],
+[
+"Crankshaft Depot Emergency Waypoint",
+11388,
+11564,
+"[&BMQIAAA=]"
+],
+[
+"Eternal Necropolis Emergency Waypoint",
+11891,
+9634,
+"[&BKEIAAA=]"
+],
+[
+"O'del Academy Emergency Waypoint",
+9844,
+9617,
+"[&BJ8IAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint A",
+12003,
+10707,
+"[&BJMIAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint B",
+12161,
+10822,
+"[&BKUOAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint C",
+12067,
+10568,
+"[&BJwOAAA=]"
+],
+[
+"Osprey's Palace Waypoint",
+12032,
+10705,
+"[&BGYIAAA=]"
+],
+[
+"Parched Outpost Emergency Waypoint",
+10340,
+11434,
+"[&BDQIAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint A",
+10782,
+10036,
+"[&BCsIAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint B",
+10910,
+10124,
+"[&BKIOAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint C",
+10638,
+10131,
+"[&BJcOAAA=]"
+],
+[
+"Stoic Rampart Waypoint",
+10775,
+10071,
+"[&BP0IAAA=]"
+]
+]
+},
+{
+"centre": [
+35968,
+33152
+],
+"id": 1101,
+"name": "Gilded Hollow",
+"sectors": [],
+"waypoints": [
+[
+"Arena Tower Waypoint",
+35727,
+33286,
+"[&BNQIAAA=]"
+],
+[
+"Cavern Mine Waypoint",
+36293,
+33455,
+"[&BHIIAAA=]"
+],
+[
+"Central Hollow Waypoint",
+35973,
+33210,
+"[&BP8IAAA=]"
+],
+[
+"Surface Tunnel Waypoint",
+35393,
+33662,
+"[&BAEJAAA=]"
+],
+[
+"Waterfall Plaza Waypoint",
+35910,
+32706,
+"[&BOEIAAA=]"
+]
+]
+},
+{
+"centre": [
+34176,
+30336
+],
+"id": 1104,
+"name": "Lost Precipice",
+"sectors": [],
+"waypoints": [
+[
+"Canyon Dig Waypoint",
+33685,
+29911,
+"[&BDsIAAA=]"
+],
+[
+"Central Precipice Waypoint",
+34234,
+30348,
+"[&BMIIAAA=]"
+],
+[
+"Riverside Overlook Waypoint",
+33952,
+30649,
+"[&BFEIAAA=]"
+],
+[
+"Sandstone Coliseum Waypoint",
+34786,
+30849,
+"[&BPQIAAA=]"
+],
+[
+"Shrine Tunnel Waypoint",
+34613,
+30938,
+"[&BL4IAAA=]"
+],
+[
+"Upper Plaza Waypoint",
+34211,
+29897,
+"[&BHcIAAA=]"
+]
+]
+},
+{
+"centre": [
+35968,
+33152
+],
+"id": 1107,
+"name": "Gilded Hollow",
+"sectors": [],
+"waypoints": [
+[
+"Arena Tower Waypoint",
+35727,
+33286,
+"[&BNQIAAA=]"
+],
+[
+"Cavern Mine Waypoint",
+36293,
+33455,
+"[&BHIIAAA=]"
+],
+[
+"Central Hollow Waypoint",
+35973,
+33210,
+"[&BP8IAAA=]"
+],
+[
+"Surface Tunnel Waypoint",
+35393,
+33662,
+"[&BAEJAAA=]"
+],
+[
+"Waterfall Plaza Waypoint",
+35910,
+32706,
+"[&BOEIAAA=]"
+]
+]
+},
+{
+"centre": [
+35968,
+33152
+],
+"id": 1108,
+"name": "Gilded Hollow",
+"sectors": [],
+"waypoints": [
+[
+"Arena Tower Waypoint",
+35727,
+33286,
+"[&BNQIAAA=]"
+],
+[
+"Cavern Mine Waypoint",
+36293,
+33455,
+"[&BHIIAAA=]"
+],
+[
+"Central Hollow Waypoint",
+35973,
+33210,
+"[&BP8IAAA=]"
+],
+[
+"Surface Tunnel Waypoint",
+35393,
+33662,
+"[&BAEJAAA=]"
+],
+[
+"Waterfall Plaza Waypoint",
+35910,
+32706,
+"[&BOEIAAA=]"
+]
+]
+},
+{
+"centre": [
+35968,
+33152
+],
+"id": 1121,
+"name": "Gilded Hollow",
+"sectors": [],
+"waypoints": [
+[
+"Arena Tower Waypoint",
+35727,
+33286,
+"[&BNQIAAA=]"
+],
+[
+"Cavern Mine Waypoint",
+36293,
+33455,
+"[&BHIIAAA=]"
+],
+[
+"Central Hollow Waypoint",
+35973,
+33210,
+"[&BP8IAAA=]"
+],
+[
+"Surface Tunnel Waypoint",
+35393,
+33662,
+"[&BAEJAAA=]"
+],
+[
+"Waterfall Plaza Waypoint",
+35910,
+32706,
+"[&BOEIAAA=]"
+]
+]
+},
+{
+"centre": [
+34176,
+30336
+],
+"id": 1124,
+"name": "Lost Precipice",
+"sectors": [],
+"waypoints": [
+[
+"Canyon Dig Waypoint",
+33685,
+29911,
+"[&BDsIAAA=]"
+],
+[
+"Central Precipice Waypoint",
+34234,
+30348,
+"[&BMIIAAA=]"
+],
+[
+"Riverside Overlook Waypoint",
+33952,
+30649,
+"[&BFEIAAA=]"
+],
+[
+"Sandstone Coliseum Waypoint",
+34786,
+30849,
+"[&BPQIAAA=]"
+],
+[
+"Shrine Tunnel Waypoint",
+34613,
+30938,
+"[&BL4IAAA=]"
+],
+[
+"Upper Plaza Waypoint",
+34211,
+29897,
+"[&BHcIAAA=]"
+]
+]
+},
+{
+"centre": [
+49180,
+31574
+],
+"id": 1155,
+"name": "Lion's Arch Aerodrome",
+"sectors": [],
+"waypoints": [
+[
+"Aerodrome Waypoint",
+49331,
+32137,
+"[&BCAJAAA=]"
+]
+]
+},
+{
+"centre": [
+8334,
+6929
+],
+"id": 1163,
+"name": "Revenge of the Capricorn",
+"sectors": [
+[
+"Revenge of the Capricorn",
+8312,
+6967
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+8575,
+7106,
+"[&BEMJAAA=]"
+],
+[
+"Red Team Rally Point",
+8110,
+7113,
+"[&BEcJAAA=]"
+]
+]
+},
+{
+"centre": [
+35584,
+30658
+],
+"id": 1165,
+"name": "Bloodstone Fen",
+"sectors": [
+[
+"Fragmented Wastes",
+35400,
+30628
+],
+[
+"Pride of the Pact",
+35214,
+30582
+]
+],
+"waypoints": [
+[
+"Depths of the Maw Waypoint",
+35511,
+30577,
+"[&BD8JAAA=]"
+],
+[
+"Ground Zero Waypoint",
+35828,
+30738,
+"[&BEEJAAA=]"
+],
+[
+"Soulkeeper's Airship Waypoint",
+35212,
+30584,
+"[&BEsJAAA=]"
+],
+[
+"Zealot's Overlook Waypoint",
+35482,
+30692,
+"[&BE4JAAA=]"
+]
+]
+},
+{
+"centre": [
+10780,
+7196
+],
+"id": 1171,
+"name": "Eternal Coliseum",
+"sectors": [
+[
+"Eternal Coliseum",
+10754,
+7207
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+10543,
+7061,
+"[&BFoJAAA=]"
+],
+[
+"Red Team Rally Point",
+11009,
+7333,
+"[&BGcJAAA=]"
+]
+]
+},
+{
+"centre": [
+55040,
+23808
+],
+"id": 1178,
+"name": "Bitterfrost Frontier",
+"sectors": [
+[
+"Black Ice Pass",
+54174,
+24379
+],
+[
+"Blizzard Basin",
+54586,
+24013
+],
+[
+"Brakbrak Ice Snarl",
+55208,
+23352
+],
+[
+"Dragon's Teeth Hot Springs",
+56188,
+24117
+],
+[
+"Griffon Old Growth",
+54089,
+23455
+],
+[
+"Hailstone Floe",
+55401,
+23885
+],
+[
+"Sorrow's Eclipse Sanctuary",
+55088,
+23962
+],
+[
+"The Bitter Cold",
+56298,
+23415
+],
+[
+"The Svanir Hive",
+53780,
+24215
+],
+[
+"Wayward Cave",
+54482,
+24314
+]
+],
+"waypoints": [
+[
+"Koda's Welcome Waypoint",
+54152,
+24386,
+"[&BIEJAAA=]"
+],
+[
+"Sorrow's Eclipse Waypoint",
+54984,
+23970,
+"[&BH0JAAA=]"
+]
+]
+},
+{
+"centre": [
+45568,
+26752
+],
+"id": 1185,
+"name": "Lake Doric",
+"sectors": [
+[
+"Doric Lumberyard",
+45433,
+26208
+],
+[
+"Doric's Landing",
+45050,
+27172
+],
+[
+"Eastern Divinity Reservoir",
+44839,
+28048
+],
+[
+"Eastern Hunting Grounds",
+46069,
+26876
+],
+[
+"Fort Evennia",
+45947,
+26423
+],
+[
+"Harvest Cascades",
+45314,
+25772
+],
+[
+"Lakeside Bazaar",
+46072,
+27352
+],
+[
+"Mantle's Breach",
+44923,
+26465
+],
+[
+"Melandru's Refuge",
+45992,
+27829
+],
+[
+"New Loamhurst",
+45590,
+27699
+],
+[
+"Saidra's Haven",
+45512,
+26813
+],
+[
+"Watcher's Hollow",
+45648,
+25650
+],
+[
+"Watchtower Cliffs",
+46000,
+25849
+]
+],
+"waypoints": [
+[
+"Doric's Landing Waypoint",
+45005,
+27002,
+"[&BK0JAAA=]"
+],
+[
+"Lakeside Bazaar Waypoint",
+46062,
+27238,
+"[&BLQJAAA=]"
+],
+[
+"Red Leaf Retreat Waypoint",
+45006,
+25823,
+"[&BK8JAAA=]"
+]
+]
+},
+{
+"centre": [
+36638,
+41204
+],
+"id": 1195,
+"name": "Draconis Mons",
+"sectors": [
+[
+"Ancient Hollow",
+36788,
+41139
+],
+[
+"Savage Rise",
+36860,
+42108
+],
+[
+"Titan's Throat",
+36667,
+41773
+],
+[
+"Wind Rider Ledge",
+36025,
+41746
+]
+],
+"waypoints": [
+[
+"Ancient Hollow Waypoint",
+36589,
+41019,
+"[&BNUJAAA=]"
+],
+[
+"Heathen's Hold Waypoint",
+37310,
+41714,
+"[&BM0JAAA=]"
+],
+[
+"Mariner Landing Waypoint",
+36016,
+41919,
+"[&BL0JAAA=]"
+]
+]
+},
+{
+"centre": [
+48666,
+42240
+],
+"id": 1203,
+"name": "Siren's Landing",
+"sectors": [
+[
+"Abaddon's Reliquary",
+47785,
+42070
+],
+[
+"Balthazar's Reliquary",
+47589,
+41793
+],
+[
+"Bloated Beach",
+49528,
+42380
+],
+[
+"Choking Depths",
+49539,
+41885
+],
+[
+"Dwayna's Reliquary",
+47243,
+42446
+],
+[
+"Grenth's Reliquary",
+47705,
+42669
+],
+[
+"Lyssa's Reliquary",
+48504,
+41832
+],
+[
+"Melandru's Reliquary",
+48443,
+42732
+],
+[
+"Merciless Shore",
+48560,
+42305
+],
+[
+"Pilaster Rock",
+49663,
+41967
+],
+[
+"Risen Lowlands",
+49210,
+42622
+]
+],
+"waypoints": [
+[
+"Camp Reclamation Waypoint",
+49392,
+42605,
+"[&BO8JAAA=]"
+]
+]
+},
+{
+"centre": [
+57238,
+61836
+],
+"id": 1263,
+"name": "Domain of Istan",
+"sectors": [
+[
+"Chalon Docks",
+57869,
+61063
+],
+[
+"Champion's Dawn",
+56395,
+62511
+],
+[
+"Churrhir Cliffs",
+57206,
+62296
+],
+[
+"Corsair Flotilla",
+56452,
+60570
+],
+[
+"Heretic's Arena",
+58240,
+61411
+],
+[
+"Issnur Bay",
+56754,
+62474
+],
+[
+"Modri Caverns",
+57463,
+60833
+],
+[
+"Mordant Crescent<br>Great Hall",
+57041,
+61332
+],
+[
+"Palawadan, Jewel of Istan",
+57826,
+61852
+],
+[
+"Plains of Jarin",
+57005,
+61354
+],
+[
+"Sea of Istan",
+58252,
+61308
+],
+[
+"The Astralarium",
+56016,
+60830
+],
+[
+"Zehlon Breach",
+55987,
+61793
+]
+],
+"waypoints": [
+[
+"Astralarium Waypoint",
+55830,
+60839,
+"[&BPoKAAA=]"
+],
+[
+"Chalon Docks Waypoint",
+57793,
+61028,
+"[&BAkLAAA=]"
+],
+[
+"Champion's Dawn Waypoint",
+56265,
+62043,
+"[&BBoLAAA=]"
+]
+]
+},
+{
+"centre": [
+2560,
+7552
+],
+"id": 1275,
+"name": "Courtyard",
+"sectors": [
+[
+"Deathmatch Courtyard",
+2617,
+7641
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+2470,
+7677,
+"[&BGYHAAA=]"
+],
+[
+"Red Team Rally Point",
+2729,
+7676,
+"[&BGcHAAA=]"
+]
+]
+},
+{
+"centre": [
+3328,
+13824
+],
+"id": 1304,
+"name": "Mad King's Raceway",
+"sectors": [
+[
+"Mad King's Raceway",
+3325,
+13820
+]
+],
+"waypoints": [
+[
+"Mad King's Raceway Waypoint",
+3283,
+13797,
+"[&BJsLAAA=]"
+]
+]
+},
+{
+"centre": [
+12836,
+6000
+],
+"id": 1305,
+"name": "Djinn's Dominion",
+"sectors": [
+[
+"Djinn's Dominion",
+12769,
+6048
+]
+],
+"waypoints": [
+[
+"Blue Team Rally Point",
+12693,
+6159,
+"[&BJ0LAAA=]"
+],
+[
+"Red Team Rally Point",
+12846,
+6159,
+"[&BJwLAAA=]"
+]
+]
+},
+{
+"centre": [
+57484,
+36792
+],
+"id": 1310,
+"name": "Thunderhead Peaks",
+"sectors": [
+[
+"Deldrimor Ruins",
+58090,
+36094
+],
+[
+"Dredgeways",
+57152,
+37518
+],
+[
+"Dwarven Catacombs",
+58849,
+36320
+],
+[
+"Hundar Pike",
+57526,
+36881
+],
+[
+"Ice Floe",
+57332,
+38152
+],
+[
+"Symphony's Haven",
+58177,
+37333
+],
+[
+"The Auditorium",
+56576,
+35886
+],
+[
+"The Forge",
+56491,
+35095
+],
+[
+"The Grotto",
+57700,
+35279
+],
+[
+"The Howling Cliffs",
+56239,
+37189
+],
+[
+"The Weeping Crest",
+57322,
+36177
+],
+[
+"Thunderhead Keep",
+58661,
+35367
+]
+],
+"waypoints": [
+[
+"History's End Waypoint",
+58328,
+35778,
+"[&BLsLAAA=]"
+],
+[
+"Moorage Waypoint",
+58150,
+36960,
+"[&BLoLAAA=]"
+],
+[
+"Observation Deck Waypoint",
+56678,
+35196,
+"[&BLkLAAA=]"
+],
+[
+"Revolution's Heart Waypoint",
+56733,
+37408,
+"[&BKYLAAA=]"
+]
+]
+},
+{
+"centre": [
+14694,
+9542
+],
+"id": 1315,
+"name": "Armistice Bastion",
+"sectors": [
+[
+"Armistice Bastion",
+14677,
+9378
+]
+],
+"waypoints": [
+[
+"Gladiator Pits Waypoint",
+14857,
+9265,
+"[&BMYLAAA=]"
+],
+[
+"Lounge Atrium Waypoint",
+14732,
+9477,
+"[&BMcLAAA=]"
+],
+[
+"Mist Portals Waypoint",
+14599,
+9458,
+"[&BMULAAA=]"
+]
+]
+},
+{
+"centre": [
+3264,
+13760
+],
+"id": 1316,
+"name": "Mists Rift",
+"sectors": [
+[
+"Mists Rift",
+3233,
+13740
+]
+],
+"waypoints": [
+[
+"Mists Rift Waypoint",
+3282,
+13822,
+"[&BMgLAAA=]"
+]
+]
+},
+{
+"centre": [
+60992,
+18784
+],
+"id": 1330,
+"name": "Grothmar Valley",
+"sectors": [
+[
+"Bitter Horn",
+59651,
+19042
+],
+[
+"Burning Effigy",
+61155,
+18232
+],
+[
+"Cavern of the Khan-Ur",
+61804,
+18001
+],
+[
+"Dalada Forest",
+61872,
+18351
+],
+[
+"Devourer's Ridge",
+61334,
+18578
+],
+[
+"Doomlore Ruins",
+62211,
+17975
+],
+[
+"Festival Promenade",
+60851,
+18646
+],
+[
+"Flame Legion Camp",
+60856,
+18398
+],
+[
+"Iron Legion Camp",
+60967,
+18905
+],
+[
+"Khan-Ur's Gauntlet",
+61184,
+17740
+],
+[
+"Kralkatorrik's Emergence Zone",
+62036,
+19520
+],
+[
+"Longeye's Landslide",
+59984,
+18547
+],
+[
+"Lower Blood Keep",
+60344,
+19021
+],
+[
+"Rusty Meadows",
+60483,
+18145
+],
+[
+"Sacnoth Stream",
+61613,
+19315
+],
+[
+"Shattered Steppes",
+61979,
+19017
+],
+[
+"Shiverpeaks Pass",
+59772,
+19583
+],
+[
+"The Brig",
+60433,
+18635
+],
+[
+"The Crag",
+61836,
+19442
+],
+[
+"The Ooze Pit",
+61134,
+19808
+],
+[
+"The Overlook",
+62368,
+18903
+],
+[
+"The Wardowns",
+61143,
+19168
+],
+[
+"Training Grounds",
+60346,
+19735
+],
+[
+"Tribunes' Trench",
+60643,
+19404
+],
+[
+"Upper Blood Keep",
+60155,
+19085
+]
+],
+"waypoints": [
+[
+"Blood Keep Waypoint",
+60427,
+18848,
+"[&BBsMAAA=]"
+],
+[
+"Dalada Forest Waypoint",
+61726,
+18513,
+"[&BA4MAAA=]"
+],
+[
+"Wardowns Waypoint",
+61288,
+19612,
+"[&BPgLAAA=]"
+]
+]
+},
+{
+"centre": [
+57151,
+18060
+],
+"id": 1343,
+"name": "Bjora Marches",
+"sectors": [
+[
+"Aberrant Forest",
+57761,
+18590
+],
+[
+"Asgeir's Legacy",
+57604,
+17366
+],
+[
+"Boreal Pass",
+56693,
+18014
+],
+[
+"Cerulean Hollows",
+55583,
+18020
+],
+[
+"Darkrime Delves",
+58391,
+17321
+],
+[
+"Eaglewatch Rise",
+56722,
+18694
+],
+[
+"Fallen Mountains",
+59050,
+17549
+],
+[
+"Fallen Ruins",
+57565,
+18335
+],
+[
+"Forest of a Thousand Voices",
+56453,
+17441
+],
+[
+"Fractured Lake",
+56157,
+17881
+],
+[
+"Frigid Dunes",
+56061,
+18494
+],
+[
+"Frostborn Cascades",
+56817,
+17459
+],
+[
+"Frozen Pass",
+58448,
+18098
+],
+[
+"Ice Spire Peaks",
+56012,
+17584
+],
+[
+"Jora's Keep",
+58928,
+18315
+],
+[
+"Raven Ruins",
+55866,
+17314
+],
+[
+"Raven Sanctum",
+57419,
+17873
+],
+[
+"Ravenfrost Caverns",
+58344,
+18703
+],
+[
+"Rime Glen",
+56220,
+18790
+],
+[
+"Southern Mountains",
+58970,
+18750
+],
+[
+"Spirits' Refuge",
+56565,
+17786
+],
+[
+"Svanir Plateau",
+58330,
+17740
+],
+[
+"Whispering Depths",
+55495,
+18685
+]
+],
+"waypoints": [
+[
+"Jora's Keep Waypoint",
+58937,
+18319,
+"[&BCcMAAA=]"
+],
+[
+"Still Waters Speaking Waypoint",
+56616,
+17815,
+"[&BDkMAAA=]"
+]
+]
+},
+{
+"centre": [
+57984,
+21888
+],
+"id": 1370,
+"name": "Eye of the North",
+"sectors": [
+[
+"Hall of Monuments",
+57780,
+21761
+]
+],
+"waypoints": [
+[
+"Eye of the North Waypoint",
+57865,
+21795,
+"[&BAkMAAA=]"
+]
+]
+},
+{
+"centre": [
+51216,
+20049
+],
+"id": 1371,
+"name": "Drizzlewood Coast",
+"sectors": [
+[
+"Archstone Coast",
+51685,
+19733
+],
+[
+"Breakroot Basin",
+51168,
+21084
+],
+[
+"Canopy Crag",
+51251,
+19603
+],
+[
+"Cavern of Guiding Spirits",
+50522,
+18818
+],
+[
+"Claw's Roost",
+51716,
+18223
+],
+[
+"Dominion's Breach",
+51241,
+20079
+],
+[
+"Drizzlewood Peak",
+50993,
+19039
+],
+[
+"Fort Defiance",
+50700,
+21164
+],
+[
+"Frost Citadel",
+50790,
+18185
+],
+[
+"Frostvein Watch",
+51591,
+19127
+],
+[
+"Leadfoot Village",
+50627,
+20418
+],
+[
+"Legions' Alcove",
+50337,
+19589
+],
+[
+"Lighthouse Point",
+51843,
+20642
+],
+[
+"Petraj Overlook",
+51697,
+21625
+],
+[
+"Port Cascadia",
+51791,
+21264
+],
+[
+"Sentinel Bay",
+50869,
+19728
+],
+[
+"The Bloodfield",
+51398,
+18684
+],
+[
+"Umbral Grotto",
+50984,
+21556
+],
+[
+"Vloxen Mine",
+50402,
+21944
+],
+[
+"Wolf's Crossing",
+51348,
+20684
+]
+],
+"waypoints": [
+[
+"Base Camp Waypoint",
+50992,
+21878,
+"[&BGQMAAA=]"
+],
+[
+"Forward Camp Waypoint",
+50444,
+19441,
+"[&BHIMAAA=]"
+]
+]
+},
+{
+"centre": [
+43072,
+34496
+],
+"id": 1385,
+"name": "Caledon Forest (Private)",
+"sectors": [
+[
+"Dominion of Winds",
+43898,
+33935
+],
+[
+"Mabon Market",
+42979,
+34534
+],
+[
+"Quetzal Bay",
+43649,
+33348
+],
+[
+"Ruins of the Unseen",
+42788,
+34121
+],
+[
+"The Rootangles",
+42898,
+34310
+],
+[
+"Titan's Staircase",
+43420,
+34074
+],
+[
+"Trader's Green",
+42589,
+33923
+],
+[
+"Ventry Bay",
+42938,
+34616
+],
+[
+"Willowalk Groves",
+43125,
+33323
+],
+[
+"Wychmire Swamp",
+42487,
+33168
+]
+],
+"waypoints": [
+[
+"Caledon Haven Waypoint",
+42660,
+33826,
+"[&BDwBAAA=]"
+],
+[
+"Titan's Staircase Waypoint",
+43594,
+34163,
+"[&BD0BAAA=]"
+],
+[
+"Town of Cathal Waypoint",
+42302,
+33994,
+"[&BDsBAAA=]"
+]
+]
+},
+{
+"centre": [
+57484,
+36792
+],
+"id": 1386,
+"name": "Thunderhead Peaks (Private)",
+"sectors": [
+[
+"The Forge",
+56491,
+35095
+],
+[
+"The Grotto",
+57700,
+35279
+]
+],
+"waypoints": [
+[
+"Observation Deck Waypoint",
+56678,
+35196,
+"[&BLkLAAA=]"
+]
+]
+},
+{
+"centre": [
+49216,
+33856
+],
+"id": 1387,
+"name": "Bloodtide Coast (Public)",
+"sectors": [
+[
+"Archen Foreland",
+49335,
+32456
+],
+[
+"Captain's Cut",
+48993,
+33195
+],
+[
+"Laughing Gull Island",
+48707,
+33524
+],
+[
+"Merchantman's Strait",
+49416,
+33498
+],
+[
+"Momoztli Grounds",
+48616,
+32336
+],
+[
+"Sorrowful Sound",
+48459,
+32840
+],
+[
+"Stormbluff Isle",
+49212,
+32967
+],
+[
+"Vindar's Lagoon",
+49917,
+32837
+]
+],
+"waypoints": [
+[
+"Archen Foreland Waypoint",
+49516,
+32338,
+"[&BKMBAAA=]"
+],
+[
+"Stormbluff Waypoint",
+49245,
+33072,
+"[&BKUBAAA=]"
+]
+]
+},
+{
+"centre": [
+52480,
+28672
+],
+"id": 1388,
+"name": "Snowden Drifts (Private)",
+"sectors": [
+[
+"Griffonfall",
+53564,
+29460
+],
+[
+"Jotun's Vista",
+53169,
+28722
+],
+[
+"Owl's Abattoir",
+54161,
+29314
+],
+[
+"Reaver's Dale",
+53703,
+29006
+],
+[
+"Song of Final Exile",
+53054,
+29467
+],
+[
+"Valslake",
+52628,
+29296
+],
+[
+"Villmark Foothills",
+54043,
+28764
+]
+],
+"waypoints": [
+[
+"Exile Waypoint",
+53033,
+29370,
+"[&BLwAAAA=]"
+],
+[
+"Owl Waypoint",
+54247,
+29308,
+"[&BMEAAAA=]"
+],
+[
+"Reaver's Waypoint",
+53976,
+29098,
+"[&BMAAAAA=]"
+]
+]
+},
+{
+"centre": [
+52480,
+28672
+],
+"id": 1389,
+"name": "Snowden Drifts (Public)",
+"sectors": [
+[
+"Griffonfall",
+53564,
+29460
+],
+[
+"Jotun's Vista",
+53169,
+28722
+],
+[
+"Owl's Abattoir",
+54161,
+29314
+],
+[
+"Reaver's Dale",
+53703,
+29006
+],
+[
+"Song of Final Exile",
+53054,
+29467
+],
+[
+"Valslake",
+52628,
+29296
+],
+[
+"Villmark Foothills",
+54043,
+28764
+]
+],
+"waypoints": [
+[
+"Exile Waypoint",
+53033,
+29370,
+"[&BLwAAAA=]"
+],
+[
+"Owl Waypoint",
+54247,
+29308,
+"[&BMEAAAA=]"
+],
+[
+"Reaver's Waypoint",
+53976,
+29098,
+"[&BMAAAAA=]"
+]
+]
+},
+{
+"centre": [
+58240,
+26240
+],
+"id": 1390,
+"name": "Fireheart Rise (Public)",
+"sectors": [
+[
+"Amduat Point",
+59096,
+25412
+],
+[
+"Liberation Dell",
+58516,
+25023
+],
+[
+"Simurgh Timberland",
+58577,
+25467
+],
+[
+"The Baelfire",
+59606,
+25324
+]
+],
+"waypoints": [
+[
+"Forlorn Waypoint",
+58498,
+25048,
+"[&BCMCAAA=]"
+],
+[
+"Senecus Castrum Waypoint",
+58584,
+25384,
+"[&BCQCAAA=]"
+],
+[
+"Simurgh Waypoint",
+58958,
+25674,
+"[&BCUCAAA=]"
+],
+[
+"The Citadel of Flame Waypoint",
+59682,
+25151,
+"[&BEAFAAA=]"
+]
+]
+},
+{
+"centre": [
+40384,
+32192
+],
+"id": 1391,
+"name": "Brisban Wildlands (Private)",
+"sectors": [
+[
+"Gnashar's Hills",
+40937,
+31376
+],
+[
+"Karston Chambers",
+41884,
+33224
+],
+[
+"Nemeton Grove",
+41798,
+32118
+],
+[
+"Skrittsburgh Center",
+40859,
+32018
+],
+[
+"Skrittsburgh East End",
+41199,
+31749
+],
+[
+"Skrittsburgh Hillstead",
+41379,
+32444
+],
+[
+"Skrittsburgh Tunnels",
+40990,
+32530
+],
+[
+"The Wendon Steps",
+41781,
+31269
+],
+[
+"Zinder Slope",
+41789,
+32736
+]
+],
+"waypoints": [
+[
+"East End Waypoint",
+41275,
+31984,
+"[&BGAAAAA=]"
+],
+[
+"Hillstead Waypoint",
+41311,
+32307,
+"[&BF8AAAA=]"
+],
+[
+"Watchful Source Waypoint",
+41834,
+32676,
+"[&BFwAAAA=]"
+]
+]
+},
+{
+"centre": [
+45568,
+26752
+],
+"id": 1393,
+"name": "Lake Doric (Public)",
+"sectors": [
+[
+"Doric Lumberyard",
+45433,
+26208
+],
+[
+"Doric's Landing",
+45050,
+27172
+],
+[
+"Eastern Divinity Reservoir",
+44839,
+28048
+],
+[
+"Eastern Hunting Grounds",
+46069,
+26876
+],
+[
+"Fort Evennia",
+45947,
+26423
+],
+[
+"Harvest Cascades",
+45314,
+25772
+],
+[
+"Lakeside Bazaar",
+46072,
+27352
+],
+[
+"Mantle's Breach",
+44923,
+26465
+],
+[
+"Melandru's Refuge",
+45992,
+27829
+],
+[
+"New Loamhurst",
+45590,
+27699
+],
+[
+"Saidra's Haven",
+45512,
+26813
+],
+[
+"Watcher's Hollow",
+45648,
+25650
+],
+[
+"Watchtower Cliffs",
+46000,
+25849
+]
+],
+"waypoints": [
+[
+"Doric's Landing Waypoint",
+45005,
+27002,
+"[&BK0JAAA=]"
+],
+[
+"Lakeside Bazaar Waypoint",
+46062,
+27238,
+"[&BLQJAAA=]"
+]
+]
+},
+{
+"centre": [
+49216,
+33856
+],
+"id": 1394,
+"name": "Bloodtide Coast (Private)",
+"sectors": [
+[
+"Archen Foreland",
+49335,
+32456
+],
+[
+"Captain's Cut",
+48993,
+33195
+],
+[
+"Laughing Gull Island",
+48707,
+33524
+],
+[
+"Merchantman's Strait",
+49416,
+33498
+],
+[
+"Momoztli Grounds",
+48616,
+32336
+],
+[
+"Sorrowful Sound",
+48459,
+32840
+],
+[
+"Stormbluff Isle",
+49212,
+32967
+],
+[
+"Vindar's Lagoon",
+49917,
+32837
+]
+],
+"waypoints": [
+[
+"Archen Foreland Waypoint",
+49516,
+32338,
+"[&BKMBAAA=]"
+],
+[
+"Stormbluff Waypoint",
+49245,
+33072,
+"[&BKUBAAA=]"
+]
+]
+},
+{
+"centre": [
+57484,
+36792
+],
+"id": 1395,
+"name": "Thunderhead Peaks (Public)",
+"sectors": [
+[
+"The Forge",
+56491,
+35095
+],
+[
+"The Grotto",
+57700,
+35279
+]
+],
+"waypoints": [
+[
+"Observation Deck Waypoint",
+56678,
+35196,
+"[&BLkLAAA=]"
+]
+]
+},
+{
+"centre": [
+48320,
+29696
+],
+"id": 1396,
+"name": "Gendarran Fields (Public)",
+"sectors": [
+[
+"Ascalon Settlement",
+47646,
+29768
+],
+[
+"Brigantine Isles",
+48621,
+29445
+],
+[
+"Broadhollow Bluffs",
+47923,
+30320
+],
+[
+"Cornucopian Fields",
+48796,
+30295
+],
+[
+"Lake Bounty",
+49344,
+30353
+],
+[
+"Lake Gendarr",
+48617,
+29472
+],
+[
+"Lionbridge Expanse",
+47455,
+30117
+],
+[
+"Northfields",
+47965,
+29170
+],
+[
+"Shiverspur Front",
+50151,
+29804
+],
+[
+"The Bloodfields",
+47168,
+29468
+],
+[
+"Witherflank River",
+47720,
+29086
+]
+],
+"waypoints": [
+[
+"Ascalon Settlement Waypoint",
+47695,
+29692,
+"[&BI8BAAA=]"
+],
+[
+"Broadhollow Waypoint",
+48027,
+30390,
+"[&BOEAAAA=]"
+],
+[
+"Cornucopian Fields Waypoint",
+48668,
+30456,
+"[&BOMAAAA=]"
+]
+]
+},
+{
+"centre": [
+41024,
+35200
+],
+"id": 1397,
+"name": "Metrica Province (Public)",
+"sectors": [
+[
+"Golemagical Institute",
+40488,
+36782
+],
+[
+"Jeztar Falls",
+41454,
+36518
+],
+[
+"Loch Jezt",
+41037,
+36100
+],
+[
+"Obscura Incline",
+40365,
+35966
+],
+[
+"Soren Draa",
+40148,
+36424
+],
+[
+"The Funhouse",
+40156,
+35871
+],
+[
+"The Hinterlabs",
+40679,
+36523
+],
+[
+"Wildflame Caverns",
+40276,
+36696
+]
+],
+"waypoints": [
+[
+"Hydrone Unit Waypoint",
+40632,
+36217,
+"[&BPcEAAA=]"
+],
+[
+"Soren Draa Waypoint",
+40172,
+36402,
+"[&BEAAAAA=]"
+]
+]
+},
+{
+"centre": [
+62976,
+34176
+],
+"id": 1398,
+"name": "Fields of Ruin (Public)",
+"sectors": [
+[
+"Bento Canyon",
+61654,
+34398
+],
+[
+"Blackwing Excavation",
+62641,
+35404
+],
+[
+"Grimm Hills",
+62914,
+34678
+],
+[
+"Hautclaire Vale",
+63240,
+35319
+],
+[
+"Last Stand Shelter",
+61658,
+35015
+],
+[
+"Sniper's Woods",
+62135,
+34190
+],
+[
+"Stronghold of Ebonhawke",
+62009,
+35138
+],
+[
+"The Siege Plains",
+62661,
+34431
+]
+],
+"waypoints": [
+[
+"Fallen Angels Garrison Waypoint",
+61783,
+35262,
+"[&BFEBAAA=]"
+],
+[
+"Hawkgates Waypoint",
+62124,
+34784,
+"[&BNMAAAA=]"
+],
+[
+"Kestrel Waypoint",
+62364,
+35184,
+"[&BD0EAAA=]"
+]
+]
+},
+{
+"centre": [
+40384,
+32192
+],
+"id": 1399,
+"name": "Brisban Wildlands (Public)",
+"sectors": [
+[
+"Gnashar's Hills",
+40937,
+31376
+],
+[
+"Karston Chambers",
+41884,
+33224
+],
+[
+"Nemeton Grove",
+41798,
+32118
+],
+[
+"Skrittsburgh Center",
+40859,
+32018
+],
+[
+"Skrittsburgh East End",
+41199,
+31749
+],
+[
+"Skrittsburgh Hillstead",
+41379,
+32444
+],
+[
+"Skrittsburgh Tunnels",
+40990,
+32530
+],
+[
+"The Wendon Steps",
+41781,
+31269
+],
+[
+"Zinder Slope",
+41789,
+32736
+]
+],
+"waypoints": [
+[
+"East End Waypoint",
+41275,
+31984,
+"[&BGAAAAA=]"
+],
+[
+"Hillstead Waypoint",
+41311,
+32307,
+"[&BF8AAAA=]"
+],
+[
+"Watchful Source Waypoint",
+41834,
+32676,
+"[&BFwAAAA=]"
+]
+]
+},
+{
+"centre": [
+62976,
+34176
+],
+"id": 1400,
+"name": "Fields of Ruin (Private)",
+"sectors": [
+[
+"Bento Canyon",
+61654,
+34398
+],
+[
+"Blackwing Excavation",
+62641,
+35404
+],
+[
+"Grimm Hills",
+62914,
+34678
+],
+[
+"Hautclaire Vale",
+63240,
+35319
+],
+[
+"Last Stand Shelter",
+61658,
+35015
+],
+[
+"Sniper's Woods",
+62135,
+34190
+],
+[
+"Stronghold of Ebonhawke",
+62009,
+35138
+],
+[
+"The Siege Plains",
+62661,
+34431
+]
+],
+"waypoints": [
+[
+"Fallen Angels Garrison Waypoint",
+61783,
+35262,
+"[&BFEBAAA=]"
+],
+[
+"Hawkgates Waypoint",
+62124,
+34784,
+"[&BNMAAAA=]"
+],
+[
+"Kestrel Waypoint",
+62364,
+35184,
+"[&BD0EAAA=]"
+]
+]
+},
+{
+"centre": [
+41024,
+35200
+],
+"id": 1401,
+"name": "Metrica Province (Private)",
+"sectors": [
+[
+"Golemagical Institute",
+40488,
+36782
+],
+[
+"Jeztar Falls",
+41454,
+36518
+],
+[
+"Loch Jezt",
+41037,
+36100
+],
+[
+"Obscura Incline",
+40365,
+35966
+],
+[
+"Soren Draa",
+40148,
+36424
+],
+[
+"The Funhouse",
+40156,
+35871
+],
+[
+"The Hinterlabs",
+40679,
+36523
+],
+[
+"Wildflame Caverns",
+40276,
+36696
+]
+],
+"waypoints": [
+[
+"Hydrone Unit Waypoint",
+40632,
+36217,
+"[&BPcEAAA=]"
+],
+[
+"Soren Draa Waypoint",
+40172,
+36402,
+"[&BEAAAAA=]"
+]
+]
+},
+{
+"centre": [
+45568,
+26752
+],
+"id": 1402,
+"name": "Lake Doric (Private)",
+"sectors": [
+[
+"Doric Lumberyard",
+45433,
+26208
+],
+[
+"Doric's Landing",
+45050,
+27172
+],
+[
+"Eastern Divinity Reservoir",
+44839,
+28048
+],
+[
+"Eastern Hunting Grounds",
+46069,
+26876
+],
+[
+"Fort Evennia",
+45947,
+26423
+],
+[
+"Harvest Cascades",
+45314,
+25772
+],
+[
+"Lakeside Bazaar",
+46072,
+27352
+],
+[
+"Mantle's Breach",
+44923,
+26465
+],
+[
+"Melandru's Refuge",
+45992,
+27829
+],
+[
+"New Loamhurst",
+45590,
+27699
+],
+[
+"Saidra's Haven",
+45512,
+26813
+],
+[
+"Watcher's Hollow",
+45648,
+25650
+],
+[
+"Watchtower Cliffs",
+46000,
+25849
+]
+],
+"waypoints": [
+[
+"Doric's Landing Waypoint",
+45005,
+27002,
+"[&BK0JAAA=]"
+],
+[
+"Lakeside Bazaar Waypoint",
+46062,
+27238,
+"[&BLQJAAA=]"
+]
+]
+},
+{
+"centre": [
+43072,
+34496
+],
+"id": 1403,
+"name": "Caledon Forest (Public)",
+"sectors": [
+[
+"Dominion of Winds",
+43898,
+33935
+],
+[
+"Mabon Market",
+42979,
+34534
+],
+[
+"Quetzal Bay",
+43649,
+33348
+],
+[
+"Ruins of the Unseen",
+42788,
+34121
+],
+[
+"The Rootangles",
+42898,
+34310
+],
+[
+"Titan's Staircase",
+43420,
+34074
+],
+[
+"Trader's Green",
+42589,
+33923
+],
+[
+"Ventry Bay",
+42938,
+34616
+],
+[
+"Willowalk Groves",
+43125,
+33323
+],
+[
+"Wychmire Swamp",
+42487,
+33168
+]
+],
+"waypoints": [
+[
+"Caledon Haven Waypoint",
+42660,
+33826,
+"[&BDwBAAA=]"
+],
+[
+"Titan's Staircase Waypoint",
+43594,
+34163,
+"[&BD0BAAA=]"
+],
+[
+"Town of Cathal Waypoint",
+42302,
+33994,
+"[&BDsBAAA=]"
+]
+]
+},
+{
+"centre": [
+58240,
+26240
+],
+"id": 1404,
+"name": "Fireheart Rise (Private)",
+"sectors": [
+[
+"Amduat Point",
+59096,
+25412
+],
+[
+"Liberation Dell",
+58516,
+25023
+],
+[
+"Simurgh Timberland",
+58577,
+25467
+],
+[
+"The Baelfire",
+59606,
+25324
+]
+],
+"waypoints": [
+[
+"Forlorn Waypoint",
+58498,
+25048,
+"[&BCMCAAA=]"
+],
+[
+"Senecus Castrum Waypoint",
+58584,
+25384,
+"[&BCQCAAA=]"
+],
+[
+"Simurgh Waypoint",
+58958,
+25674,
+"[&BCUCAAA=]"
+],
+[
+"The Citadel of Flame Waypoint",
+59682,
+25151,
+"[&BEAFAAA=]"
+]
+]
+},
+{
+"centre": [
+48320,
+29696
+],
+"id": 1405,
+"name": "Gendarran Fields (Private)",
+"sectors": [
+[
+"Ascalon Settlement",
+47646,
+29768
+],
+[
+"Brigantine Isles",
+48621,
+29445
+],
+[
+"Broadhollow Bluffs",
+47923,
+30320
+],
+[
+"Cornucopian Fields",
+48796,
+30295
+],
+[
+"Lake Bounty",
+49344,
+30353
+],
+[
+"Lake Gendarr",
+48617,
+29472
+],
+[
+"Lionbridge Expanse",
+47455,
+30117
+],
+[
+"Northfields",
+47965,
+29170
+],
+[
+"The Bloodfields",
+47168,
+29468
+],
+[
+"Witherflank River",
+47720,
+29086
+]
+],
+"waypoints": [
+[
+"Ascalon Settlement Waypoint",
+47695,
+29692,
+"[&BI8BAAA=]"
+],
+[
+"Broadhollow Waypoint",
+48027,
+30390,
+"[&BOEAAAA=]"
+],
+[
+"Cornucopian Fields Waypoint",
+48668,
+30456,
+"[&BOMAAAA=]"
+]
+]
+},
+{
+"centre": [
+52736,
+26880
+],
+"id": 1409,
+"name": "Dragonstorm (Private Squad)",
+"sectors": [
+[
+"Dragonstorm Arena",
+52657,
+26816
+]
+],
+"waypoints": [
+[
+"Dragonstorm Waypoint",
+52808,
+26548,
+"[&BIMMAAA=]"
+]
+]
+},
+{
+"centre": [
+52736,
+26880
+],
+"id": 1411,
+"name": "Dragonstorm (Public)",
+"sectors": [
+[
+"Dragonstorm Arena",
+52657,
+26816
+]
+],
+"waypoints": [
+[
+"Dragonstorm Waypoint",
+52808,
+26548,
+"[&BIMMAAA=]"
+]
+]
+},
+{
+"centre": [
+52736,
+26880
+],
+"id": 1412,
+"name": "Dragonstorm",
+"sectors": [
+[
+"Dragonstorm Arena",
+52657,
+26816
+]
+],
+"waypoints": [
+[
+"Dragonstorm Waypoint",
+52808,
+26548,
+"[&BIMMAAA=]"
+]
+]
+},
+{
+"centre": [
+51328,
+32128
+],
+"id": 1413,
+"name": "The Twisted Marionette (Public)",
+"sectors": [
+[
+"False River Valley",
+51868,
+32642
+],
+[
+"Highfirn Passage",
+51142,
+32333
+],
+[
+"Winterthaw Snowfield",
+51785,
+32925
+]
+],
+"waypoints": [
+[
+"Pact Emergency Waypoint",
+51596,
+32519,
+"[&BIgMAAA=]"
+],
+[
+"Pact Emergency Waypoint",
+51680,
+32876,
+"[&BIkMAAA=]"
+],
+[
+"Pact Emergency Waypoint",
+52021,
+33007,
+"[&BIcMAAA=]"
+]
+]
+},
+{
+"centre": [
+51328,
+32128
+],
+"id": 1414,
+"name": "The Twisted Marionette (Private Squad)",
+"sectors": [
+[
+"False River Valley",
+51868,
+32642
+],
+[
+"Highfirn Passage",
+51142,
+32333
+],
+[
+"Winterthaw Snowfield",
+51785,
+32925
+]
+],
+"waypoints": [
+[
+"Pact Emergency Waypoint",
+51596,
+32519,
+"[&BIgMAAA=]"
+],
+[
+"Pact Emergency Waypoint",
+51680,
+32876,
+"[&BIkMAAA=]"
+],
+[
+"Pact Emergency Waypoint",
+52021,
+33007,
+"[&BIcMAAA=]"
+]
+]
+},
+{
+"centre": [
+22279,
+104425
+],
+"id": 1419,
+"name": "Isle of Reflection",
+"sectors": [],
+"waypoints": [
+[
+"Reflection Arena Waypoint",
+22232,
+105006,
+"[&BN4MAAA=]"
+],
+[
+"Reflection Crystal Waypoint",
+22019,
+105151,
+"[&BA4NAAA=]"
+],
+[
+"Reflection Docks Waypoint",
+21852,
+104468,
+"[&BPMMAAA=]"
+]
+]
+},
+{
+"centre": [
+34214,
+103694
+],
+"id": 1422,
+"name": "Dragon's End",
+"sectors": [
+[
+"Archipelagos Rim",
+34770,
+102167
+],
+[
+"Echovald Fringe",
+33582,
+104830
+],
+[
+"Flooded Basin",
+34354,
+102945
+],
+[
+"Harvest Complex",
+34232,
+104194
+],
+[
+"Jade Promenade",
+34280,
+103671
+],
+[
+"Mother's Lament",
+33542,
+105335
+],
+[
+"Outer Terrace",
+33992,
+102779
+],
+[
+"Reaver's Ridge",
+34998,
+102747
+],
+[
+"Seafarer's Enclave",
+34920,
+103825
+],
+[
+"Silent Surf",
+34926,
+104874
+],
+[
+"Southern Bluff",
+34114,
+105285
+],
+[
+"The Jade Whirl",
+34177,
+104554
+],
+[
+"Unwaking Waters",
+34218,
+104798
+],
+[
+"Western Vale",
+33516,
+103628
+],
+[
+"Xunlai Jade Quarry",
+33603,
+102238
+]
+],
+"waypoints": [
+[
+"Brotherhood Waypoint",
+33392,
+104381,
+"[&BBENAAA=]"
+],
+[
+"Frozen Sea Waypoint",
+34126,
+105319,
+"[&BPEMAAA=]"
+],
+[
+"Harvest Complex Waypoint",
+34181,
+103953,
+"[&BKAMAAA=]"
+],
+[
+"Jade Quarry Waypoint",
+33826,
+102383,
+"[&BKIMAAA=]"
+],
+[
+"Speakers Waypoint",
+34979,
+104479,
+"[&BDsNAAA=]"
+]
+]
+},
+{
+"centre": [
+22279,
+104425
+],
+"id": 1426,
+"name": "Isle of Reflection",
+"sectors": [],
+"waypoints": [
+[
+"Reflection Arena Waypoint",
+22232,
+105006,
+"[&BN4MAAA=]"
+],
+[
+"Reflection Crystal Waypoint",
+22019,
+105151,
+"[&BA4NAAA=]"
+],
+[
+"Reflection Docks Waypoint",
+21852,
+104468,
+"[&BPMMAAA=]"
+]
+]
+},
+{
+"centre": [
+31105,
+102170
+],
+"id": 1428,
+"name": "Arborstone",
+"sectors": [
+[
+"Arborstone",
+29753,
+101304
+],
+[
+"Zu Heltzer Historical Site",
+29872,
+101484
+]
+],
+"waypoints": [
+[
+"Arborstone Waypoint",
+29845,
+101425,
+"[&BGMNAAA=]"
+],
+[
+"Club Canach Waypoint",
+29852,
+100973,
+"[&BHoNAAA=]"
+]
+]
+},
+{
+"centre": [
+22279,
+104425
+],
+"id": 1435,
+"name": "Isle of Reflection",
+"sectors": [],
+"waypoints": [
+[
+"Reflection Arena Waypoint",
+22232,
+105006,
+"[&BN4MAAA=]"
+],
+[
+"Reflection Crystal Waypoint",
+22019,
+105151,
+"[&BA4NAAA=]"
+],
+[
+"Reflection Docks Waypoint",
+21852,
+104468,
+"[&BPMMAAA=]"
+]
+]
+},
+{
+"centre": [
+26920,
+99380
+],
+"id": 1438,
+"name": "New Kaineng City",
+"sectors": [
+[
+"Baedal Hill",
+26468,
+98688
+],
+[
+"Bori Ward",
+27019,
+98598
+],
+[
+"Cobble Ward",
+27278,
+100244
+],
+[
+"Garden Heights",
+26112,
+98728
+],
+[
+"Grub Lane",
+28325,
+99440
+],
+[
+"Gwangsan Hill",
+26354,
+99969
+],
+[
+"Kaineng Docks",
+25523,
+99555
+],
+[
+"Lutgardis Plaza",
+27793,
+99424
+],
+[
+"Ministry Ward",
+26603,
+99348
+],
+[
+"Naksi Bay",
+25623,
+98442
+],
+[
+"North Lab",
+27829,
+98572
+],
+[
+"Old Kaineng",
+28414,
+98538
+],
+[
+"Petrified Woods",
+28471,
+100236
+],
+[
+"Power Plant",
+25934,
+99342
+],
+[
+"Soojung Heights",
+26140,
+100092
+],
+[
+"Sotdae Landing",
+25665,
+100458
+]
+],
+"waypoints": [
+[
+"Garden Heights Waypoint",
+25946,
+98633,
+"[&BBYNAAA=]"
+],
+[
+"Lutgardis Plaza Waypoint",
+27870,
+99381,
+"[&BCANAAA=]"
+],
+[
+"Ministry Ward Waypoint",
+26674,
+99438,
+"[&BBkNAAA=]"
+],
+[
+"Promenade Waypoint",
+25473,
+99592,
+"[&BMYMAAA=]"
+]
+]
+},
+{
+"centre": [
+23079,
+101801
+],
+"id": 1442,
+"name": "Seitung Province",
+"sectors": [
+[
+"Crystal Cave",
+22315,
+102848
+],
+[
+"Daigo Ward",
+23315,
+101641
+],
+[
+"Eastern Wilds",
+24410,
+102377
+],
+[
+"Haiju Lagoon",
+23989,
+101245
+],
+[
+"Haiju Plains",
+23328,
+101059
+],
+[
+"Jaya Bluffs",
+21817,
+101215
+],
+[
+"Monastery Bay",
+21581,
+102724
+],
+[
+"North Peninsula",
+24604,
+101120
+],
+[
+"Seitung Harbor",
+22813,
+102378
+],
+[
+"Shing Jea Monastery",
+21799,
+102129
+],
+[
+"Shinota Shore",
+22485,
+101273
+],
+[
+"Training Grounds",
+21988,
+102594
+],
+[
+"Zen Daijun",
+23506,
+102219
+]
+],
+"waypoints": [
+[
+"Daigo Ward Waypoint",
+23191,
+101452,
+"[&BGUNAAA=]"
+],
+[
+"Haiju Docks Waypoint",
+23638,
+100727,
+"[&BGQNAAA=]"
+],
+[
+"Monastery Waypoint",
+21673,
+102058,
+"[&BL8MAAA=]"
+],
+[
+"Village Waypoint",
+22949,
+102166,
+"[&BJ4MAAA=]"
+]
+]
+},
+{
+"centre": [
+22279,
+104425
+],
+"id": 1444,
+"name": "Isle of Reflection",
+"sectors": [],
+"waypoints": [
+[
+"Reflection Arena Waypoint",
+22232,
+105006,
+"[&BN4MAAA=]"
+],
+[
+"Reflection Crystal Waypoint",
+22019,
+105151,
+"[&BA4NAAA=]"
+],
+[
+"Reflection Docks Waypoint",
+21852,
+104468,
+"[&BPMMAAA=]"
+]
+]
+},
+{
+"centre": [
+31105,
+102170
+],
+"id": 1452,
+"name": "The Echovald Wilds",
+"sectors": [
+[
+"Aspenwood Gulch",
+32144,
+101604
+],
+[
+"Brotherhood Woodlands",
+31526,
+101105
+],
+[
+"Ferndale",
+30973,
+103140
+],
+[
+"Lake Lutgardis",
+31899,
+103255
+],
+[
+"Melandru's Hope",
+31949,
+102503
+],
+[
+"Mori Village",
+32845,
+103152
+],
+[
+"Qinkaishi Basin",
+32685,
+101302
+],
+[
+"Quarry Forelands",
+32862,
+102294
+],
+[
+"Saint's Vale",
+29867,
+102452
+],
+[
+"Warden's Folly",
+29802,
+103178
+],
+[
+"Xunlai Jade Junkyard",
+31158,
+101979
+],
+[
+"Zu Heltzer Historical Site",
+29872,
+101484
+]
+],
+"waypoints": [
+[
+"Jade Gate Waypoint",
+32768,
+102107,
+"[&BPkMAAA=]"
+],
+[
+"Junkyard Waypoint",
+30896,
+101005,
+"[&BIsMAAA=]"
+],
+[
+"Kropa Waypoint",
+30312,
+102714,
+"[&BMwMAAA=]"
+],
+[
+"Mori Village Waypoint",
+32842,
+103030,
+"[&BMcMAAA=]"
+],
+[
+"Qinkai Waypoint",
+32676,
+101324,
+"[&BNQMAAA=]"
+],
+[
+"Waypoint zu Heltzer",
+30021,
+102042,
+"[&BMoMAAA=]"
+]
+]
+},
+{
+"centre": [
+22279,
+104425
+],
+"id": 1462,
+"name": "Isle of Reflection",
+"sectors": [],
+"waypoints": [
+[
+"Reflection Arena Waypoint",
+22232,
+105006,
+"[&BN4MAAA=]"
+],
+[
+"Reflection Crystal Waypoint",
+22019,
+105151,
+"[&BA4NAAA=]"
+],
+[
+"Reflection Docks Waypoint",
+21852,
+104468,
+"[&BPMMAAA=]"
+]
+]
+},
+{
+"centre": [
+21540,
+98765
+],
+"id": 1465,
+"name": "Thousand Seas Pavilion",
+"sectors": [
+[
+"Thousand Seas Pavilion",
+21489,
+98897
+]
+],
+"waypoints": [
+[
+"Thousand Seas Pavilion Waypoint",
+21701,
+99110,
+"[&BHkNAAA=]"
+]
+]
+},
+{
+"centre": [
+43392,
+31360
+],
+"id": 1477,
+"name": "The Tower of Nightmares (Private Squad)",
+"sectors": [
+[
+"Central Chamber",
+43388,
+31624
+],
+[
+"First Level",
+43582,
+31383
+],
+[
+"Second Level",
+43610,
+31888
+],
+[
+"Third Level",
+43179,
+31704
+],
+[
+"Unending Nightmares",
+43189,
+30549
+]
+],
+"waypoints": [
+[
+"Tower of Nightmares Waypoint",
+43566,
+31223,
+"[&BC8HAAA=]"
+],
+[
+"Tower of Nightmares Waypoint",
+43566,
+31223,
+"[&BIENAAA=]"
+]
+]
+},
+{
+"centre": [
+16448,
+15104
+],
+"id": 1478,
+"name": "The Battle for Lion's Arch (Private Squad)",
+"sectors": [
+[
+"Bloodcoast Ward",
+16865,
+15567
+],
+[
+"Commodore's Quarter",
+16162,
+14567
+],
+[
+"Eastern Ward",
+16686,
+14619
+],
+[
+"Farshore Ward",
+17382,
+15348
+],
+[
+"Fort Marriner",
+16631,
+15491
+],
+[
+"Grand Piazza",
+16327,
+14968
+],
+[
+"Inner Harbor",
+16944,
+14934
+],
+[
+"Lion's Gate",
+16262,
+15607
+],
+[
+"Postern Ward",
+17165,
+14558
+],
+[
+"Priory Foothold",
+17266,
+14902
+],
+[
+"Sanctum Harbor",
+15938,
+15451
+],
+[
+"Sharkmaw Caverns",
+17407,
+15660
+],
+[
+"Western Ward",
+15710,
+14716
+],
+[
+"White Crane Terrace",
+15439,
+15092
+]
+],
+"waypoints": [
+[
+"Bloodcoast Ward Waypoint",
+16845,
+15661,
+"[&BIkNAAA=]"
+],
+[
+"Canal Ward Waypoint",
+16146,
+14426,
+"[&BIoNAAA=]"
+],
+[
+"Cavern Waypoint",
+17263,
+14935,
+"[&BIYNAAA=]"
+]
+]
+},
+{
+"centre": [
+16448,
+15104
+],
+"id": 1482,
+"name": "The Battle For Lion's Arch (Public)",
+"sectors": [
+[
+"Bloodcoast Ward",
+16865,
+15567
+],
+[
+"Commodore's Quarter",
+16162,
+14567
+],
+[
+"Eastern Ward",
+16686,
+14619
+],
+[
+"Farshore Ward",
+17382,
+15348
+],
+[
+"Fort Marriner",
+16631,
+15491
+],
+[
+"Grand Piazza",
+16327,
+14968
+],
+[
+"Inner Harbor",
+16944,
+14934
+],
+[
+"Lion's Gate",
+16262,
+15607
+],
+[
+"Postern Ward",
+17165,
+14558
+],
+[
+"Priory Foothold",
+17266,
+14902
+],
+[
+"Sanctum Harbor",
+15938,
+15451
+],
+[
+"Sharkmaw Caverns",
+17407,
+15660
+],
+[
+"Western Ward",
+15710,
+14716
+],
+[
+"White Crane Terrace",
+15439,
+15092
+]
+],
+"waypoints": [
+[
+"Bloodcoast Ward Waypoint",
+16845,
+15661,
+"[&BIkNAAA=]"
+],
+[
+"Canal Ward Waypoint",
+16146,
+14426,
+"[&BIoNAAA=]"
+],
+[
+"Cavern Waypoint",
+17263,
+14935,
+"[&BIYNAAA=]"
+]
+]
+},
+{
+"centre": [
+16448,
+15104
+],
+"id": 1483,
+"name": "Memory of Old Lion's Arch",
+"sectors": [
+[
+"Bloodcoast Ward",
+16857,
+15550
+],
+[
+"Commodore's Quarter",
+15800,
+14548
+],
+[
+"Eastern Ward",
+16692,
+14666
+],
+[
+"Farshore Ward",
+17398,
+15352
+],
+[
+"Fort Marriner",
+16554,
+15500
+],
+[
+"Grand Piazza",
+16316,
+14884
+],
+[
+"Hooligan's Route",
+15428,
+14554
+],
+[
+"Inner Harbor",
+16944,
+14934
+],
+[
+"Postern Ward",
+17197,
+14772
+],
+[
+"Sanctum Harbor",
+16018,
+15390
+],
+[
+"Sharkmaw Caverns",
+17448,
+15662
+],
+[
+"Trader's Forum",
+16237,
+14638
+],
+[
+"Western Ward",
+15808,
+14833
+],
+[
+"White Crane Terrace",
+15431,
+15058
+]
+],
+"waypoints": [
+[
+"Bloodcoast Ward Waypoint",
+16845,
+15661,
+"[&BIQNAAA=]"
+],
+[
+"Cavern Waypoint",
+17218,
+14831,
+"[&BIgNAAA=]"
+],
+[
+"Claw Island Portage Waypoint",
+16229,
+15469,
+"[&BJENAAA=]"
+],
+[
+"Commodore's Quarter Waypoint",
+16146,
+14426,
+"[&BI0NAAA=]"
+],
+[
+"Diverse Ledges Waypoint",
+15612,
+15324,
+"[&BIMNAAA=]"
+],
+[
+"Eastern Ward Waypoint",
+16800,
+14850,
+"[&BIcNAAA=]"
+],
+[
+"Farshore Waypoint",
+17189,
+15306,
+"[&BIUNAAA=]"
+],
+[
+"Fort Marriner Waypoint",
+16616,
+15300,
+"[&BI4NAAA=]"
+],
+[
+"Gate Hub Plaza Waypoint",
+16306,
+15079,
+"[&BJANAAA=]"
+],
+[
+"Guild Bluff Waypoint",
+16999,
+14566,
+"[&BIwNAAA=]"
+],
+[
+"Sanctum Harbor Waypoint",
+16006,
+15096,
+"[&BIsNAAA=]"
+],
+[
+"Trader's Forum Waypoint",
+16308,
+14648,
+"[&BIINAAA=]"
+],
+[
+"Western Ward Waypoint",
+15631,
+14757,
+"[&BI8NAAA=]"
+]
+]
+},
+{
+"centre": [
+37765,
+102335
+],
+"id": 1490,
+"name": "Gyala Delve",
+"sectors": [
+[
+"Candescent Corridor",
+37078,
+103207
+],
+[
+"Emerald Seiche",
+37029,
+101513
+],
+[
+"Excavation Yard",
+37588,
+100908
+],
+[
+"Howling Caves",
+37880,
+102403
+],
+[
+"Jade Pools",
+37889,
+103060
+],
+[
+"Talus Passage",
+37126,
+102327
+],
+[
+"The Deep",
+37932,
+103599
+],
+[
+"The Hollow",
+37810,
+101676
+]
+],
+"waypoints": [
+[
+"Behemoth's Gap Waypoint",
+37424,
+102153,
+"[&BJINAAA=]"
+],
+[
+"Jadepillar Point Waypoint",
+38285,
+101596,
+"[&BKQNAAA=]"
+],
+[
+"Luxon Terminus Waypoint",
+37815,
+103075,
+"[&BJkNAAA=]"
+],
+[
+"Park Mining Ops Waypoint",
+37631,
+100871,
+"[&BKoNAAA=]"
+]
+]
+},
+{
+"centre": [
+24103,
+22266
+],
+"id": 1509,
+"name": "The Wizard's Tower",
+"sectors": [
+[
+"Inner Sanctorium",
+24100,
+22600
+],
+[
+"Open Sky",
+24098,
+22210
+],
+[
+"Outer Ring",
+24102,
+22480
+],
+[
+"Outer Sanctorium",
+24101,
+22559
+]
+],
+"waypoints": [
+[
+"Tower Courtyard Waypoint",
+24103,
+22231,
+"[&BB8OAAA=]"
+]
+]
+},
+{
+"centre": [
+25446,
+23738
+],
+"id": 1510,
+"name": "Skywatch Archipelago",
+"sectors": [
+[
+"Devastated Garenhoff",
+26642,
+23972
+],
+[
+"Droknar's Light",
+24286,
+23402
+],
+[
+"Jade Mech Habitation Zone 03",
+25192,
+23778
+],
+[
+"Primal Maguuma",
+25196,
+23126
+],
+[
+"Rata Novus Promenade",
+26522,
+23091
+],
+[
+"Shattered Atoll",
+24086,
+24209
+],
+[
+"Skyward Marches",
+25445,
+24266
+],
+[
+"Southern Wizard's Tower",
+24147,
+22906
+],
+[
+"Stargaze Ridge",
+27011,
+23612
+],
+[
+"The Soaring Aerie",
+25676,
+23594
+],
+[
+"Wizard's Ascent",
+26595,
+24331
+]
+],
+"waypoints": [
+[
+"Astral Ward Encampment Waypoint",
+25830,
+24166,
+"[&BA4OAAA=]"
+],
+[
+"Beacon of Ages Waypoint",
+26836,
+24387,
+"[&BCsOAAA=]"
+],
+[
+"Droknar's Light Waypoint",
+24327,
+23533,
+"[&BL4NAAA=]"
+],
+[
+"Garenhoff Refugee Camp Waypoint",
+26977,
+23979,
+"[&BBUOAAA=]"
+],
+[
+"Kestrel's Vow Waypoint",
+25402,
+23928,
+"[&BD8OAAA=]"
+],
+[
+"Observation Camp Waypoint",
+25559,
+22867,
+"[&BEYOAAA=]"
+],
+[
+"Rata Novus Promenade Waypoint",
+26331,
+23074,
+"[&BOANAAA=]"
+]
+]
+},
+{
+"centre": [
+24086,
+20410
+],
+"id": 1517,
+"name": "Amnytas",
+"sectors": [
+[
+"Bastion of Balance",
+23647,
+19626
+],
+[
+"Bastion of Knowledge",
+24825,
+20922
+],
+[
+"Bastion of Strength",
+24666,
+19786
+],
+[
+"Bastion of the Celestial",
+24071,
+20393
+],
+[
+"Bastion of the Natural",
+23779,
+21111
+],
+[
+"Bastion of the Obscure",
+23437,
+20281
+],
+[
+"The World Spire",
+24087,
+20408
+]
+],
+"waypoints": [
+[
+"Bastion of Balance Waypoint",
+23751,
+19530,
+"[&BD0OAAA=]"
+],
+[
+"Bastion of Knowledge Waypoint",
+25159,
+21076,
+"[&BEIOAAA=]"
+],
+[
+"Bastion of Strength Waypoint",
+25172,
+20160,
+"[&BNMNAAA=]"
+],
+[
+"Bastion of the Celestial Waypoint",
+24086,
+19984,
+"[&BAoOAAA=]"
+],
+[
+"Bastion of the Natural Waypoint",
+23898,
+21159,
+"[&BDQOAAA=]"
+],
+[
+"Bastion of the Obscure Waypoint",
+23135,
+20587,
+"[&BEcOAAA=]"
+]
+]
+},
+{
+"centre": [
+21291,
+22988
+],
+"id": 1526,
+"name": "Inner Nayos",
+"sectors": [
+[
+"Defiled Cradle",
+21177,
+22525
+],
+[
+"Heitor's Dominion",
+22487,
+22865
+],
+[
+"Memory's Hollow",
+22340,
+23790
+],
+[
+"Mourning's Shade",
+21973,
+22298
+],
+[
+"Nyedra, Dreamer's Sanctum",
+20936,
+22970
+],
+[
+"Spire of Creation",
+19908,
+23200
+],
+[
+"Spire of Dreams",
+19763,
+22984
+],
+[
+"Spire of Redemption",
+19896,
+22682
+],
+[
+"Stormcarved Hollows",
+21757,
+23231
+],
+[
+"The Bleeding Wastes",
+22638,
+22484
+],
+[
+"The Commons",
+21526,
+22640
+],
+[
+"The Forgotten Path",
+21639,
+23802
+],
+[
+"The Midnight Abyss",
+20105,
+23010
+],
+[
+"The Old Settlement",
+21198,
+23503
+]
+],
+"waypoints": [
+[
+"Astral Ward Camp Waypoint",
+22367,
+23761,
+"[&BGYOAAA=]"
+],
+[
+"Forward Bivouac Waypoint",
+21734,
+22801,
+"[&BHYOAAA=]"
+]
+]
+},
+{
+"centre": [
+42039,
+22798
+],
+"id": 1550,
+"name": "Lowland Shore",
+"sectors": [
+[
+"Autumn's Vale",
+41606,
+22486
+],
+[
+"Bjorn Thicket",
+43305,
+23324
+],
+[
+"Coursing Upland",
+40823,
+23250
+],
+[
+"Cragged Upland",
+41813,
+23469
+],
+[
+"Exorheic Falls",
+42031,
+23252
+],
+[
+"Haar Mire",
+40978,
+22514
+],
+[
+"Harvest Den",
+42783,
+22700
+],
+[
+"Harvest Shore",
+42923,
+22077
+],
+[
+"Lupine Fields",
+43439,
+22558
+],
+[
+"Moon Camp Covert",
+42800,
+23461
+],
+[
+"Tideland Outlet",
+41792,
+22137
+]
+],
+"waypoints": [
+[
+"Astral Ward Moon Camp Waypoint",
+42952,
+23723,
+"[&BCcPAAA=]"
+],
+[
+"Autumn's Vale Waypoint",
+41864,
+22648,
+"[&BC4PAAA=]"
+],
+[
+"Harvest Den Waypoint",
+42924,
+22730,
+"[&BK4OAAA=]"
+],
+[
+"Harvest Shore Waypoint",
+43186,
+21873,
+"[&BN8OAAA=]"
+],
+[
+"Hot Springs Waypoint",
+41475,
+23594,
+"[&BMkOAAA=]"
+],
+[
+"Journeykin Outpost Waypoint",
+40860,
+22901,
+"[&BPsOAAA=]"
+]
+]
+},
+{
+"centre": [
+39894,
+15618
+],
+"id": 1554,
+"name": "Janthir Syntri",
+"sectors": [
+[
+"Blood Hill",
+39660,
+15947
+],
+[
+"Dead Lab",
+39594,
+15621
+],
+[
+"Echoing Hills",
+40428,
+15755
+],
+[
+"Festering Basin",
+39361,
+16562
+],
+[
+"Landfall",
+40877,
+14991
+],
+[
+"Moldering Greenwood",
+38787,
+16216
+],
+[
+"Old Hutment Site",
+41028,
+16453
+],
+[
+"River's Maw",
+40400,
+16607
+],
+[
+"Sanguine Crater",
+39533,
+15879
+],
+[
+"Slithering Outskirts",
+40064,
+16432
+],
+[
+"Storm's Border",
+40799,
+16050
+],
+[
+"Stricken Plains",
+40530,
+15014
+],
+[
+"Sulfurous Springs",
+39099,
+14942
+],
+[
+"Tumultuous Sea",
+40986,
+15313
+]
+],
+"waypoints": [
+[
+"Festering Basin Waypoint",
+39306,
+16383,
+"[&BLgOAAA=]"
+],
+[
+"Forager's Hunt Waypoint",
+40825,
+16638,
+"[&BLcOAAA=]"
+],
+[
+"Sanguine Crater Waypoint",
+39237,
+15525,
+"[&BCwPAAA=]"
+],
+[
+"Stricken Plains Waypoint",
+40128,
+14659,
+"[&BCoPAAA=]"
+]
+]
+},
+{
+"centre": [
+34264,
+20711
+],
+"id": 1558,
+"name": "Hearth's Glow",
+"sectors": [],
+"waypoints": [
+[
+"Homestead Waypoint",
+34393,
+20856,
+"[&BMUOAAA=]"
+]
+]
+},
+{
+"centre": [
+3392,
+13888
+],
+"id": 1570,
+"name": "Mists Vault",
+"sectors": [
+[
+"Sky Vault",
+3397,
+14035
+]
+],
+"waypoints": [
+[
+"Mists Vault Waypoint",
+3397,
+14211,
+"[&BD0PAAA=]"
+]
+]
+},
+{
+"centre": [
+37000,
+11624
+],
+"id": 1574,
+"name": "Bava Nisos",
+"sectors": [
+[
+"Central Gullet",
+37140,
+11612
+],
+[
+"Hidden Nodule",
+37982,
+12511
+],
+[
+"Mantle's Arrival",
+36083,
+11620
+],
+[
+"Northern Bronchial Well",
+37407,
+10794
+],
+[
+"Northern Hollow",
+36691,
+11035
+],
+[
+"Pericardial Nexus",
+37777,
+11592
+],
+[
+"Southern Bronchial Well",
+37568,
+12377
+],
+[
+"Southern Hollow",
+36696,
+12143
+],
+[
+"Titan's Vestibule",
+36585,
+11615
+]
+],
+"waypoints": [
+[
+"Hidden Nodule Waypoint",
+37988,
+12289,
+"[&BG0PAAA=]"
+],
+[
+"Mantle's Arrival Waypoint",
+36051,
+11654,
+"[&BGEPAAA=]"
+]
+]
+},
+{
+"centre": [
+35983,
+11641
+],
+"id": 1575,
+"name": "Mistburned Barrens",
+"sectors": [
+[
+"Alliance Staging Ground",
+34430,
+11655
+],
+[
+"Garden of the Unseen",
+35473,
+12555
+],
+[
+"Grand Athenaeum",
+35372,
+11584
+],
+[
+"Hidden Sacrarium",
+34575,
+10727
+],
+[
+"Nexus of Moonlight",
+34800,
+11469
+],
+[
+"Presenting Grounds",
+34993,
+12130
+],
+[
+"Seer's March",
+35237,
+11035
+],
+[
+"South Barrens",
+34558,
+12152
+],
+[
+"The Golden Lake",
+34591,
+12572
+],
+[
+"The Laboratory",
+35387,
+12222
+],
+[
+"Valley of Agony",
+34618,
+11111
+],
+[
+"Whispering Caverns",
+35034,
+12524
+]
+],
+"waypoints": [
+[
+"Alliance Staging Ground",
+34312,
+11578,
+"[&BFAPAAA=]"
+]
+]
+},
+{
+"centre": [
+7930,
+58665
+],
+"id": 1593,
+"name": "Starlit Weald",
+"sectors": [
+[
+"Cloister of Stars",
+6941,
+58674
+],
+[
+"Command Complex",
+8897,
+58166
+],
+[
+"Crumbling Precipice",
+7834,
+58712
+],
+[
+"Enchanting Grottoes",
+9149,
+58714
+],
+[
+"Lost Basilica",
+7057,
+58219
+],
+[
+"Overgrown Thicket",
+7009,
+59433
+],
+[
+"Shimmering Basin",
+8635,
+59428
+],
+[
+"Skyshroud Canopy",
+7807,
+59410
+],
+[
+"The Winding Passage",
+9168,
+59364
+],
+[
+"Tranquil Glen",
+8603,
+58832
+],
+[
+"Untamed Crags",
+7701,
+58245
+]
+],
+"waypoints": [
+[
+"Foothold Bivouac Waypoint",
+8698,
+59533,
+"[&BMAPAAA=]"
+],
+[
+"Hunter's Camp Waypoint",
+7748,
+58054,
+"[&BIoPAAA=]"
+],
+[
+"Priory Expedition Waypoint",
+7618,
+58836,
+"[&BJ4PAAA=]"
+]
+]
+},
+{
+"centre": [
+10810,
+58985
+],
+"id": 1595,
+"name": "Shipwreck Strand",
+"sectors": [
+[
+"Breezy Cay",
+11264,
+59659
+],
+[
+"Glimmering Arches",
+10658,
+58205
+],
+[
+"Guarded Glades",
+10201,
+58589
+],
+[
+"Hullgarden",
+11195,
+58896
+],
+[
+"Jetsam Point",
+11487,
+59951
+],
+[
+"Riddled Cove",
+10352,
+60144
+],
+[
+"Shoalstone",
+9893,
+57738
+],
+[
+"Soaring Sands",
+11546,
+58115
+],
+[
+"Twisting Hollows",
+10280,
+59541
+]
+],
+"waypoints": [
+[
+"Dark Leviathan Waypoint",
+11740,
+57967,
+"[&BJwPAAA=]"
+],
+[
+"Hullgarden Pier Waypoint",
+11661,
+59029,
+"[&BMwPAAA=]"
+],
+[
+"Pub Canach Waypoint",
+11173,
+59803,
+"[&BJEPAAA=]"
+]
+]
+},
+{
+"centre": [
+10932,
+56204
+],
+"id": 1596,
+"name": "Comosus Isle",
+"sectors": [],
+"waypoints": [
+[
+"Homestead Waypoint",
+11466,
+55938,
+"[&BI8PAAA=]"
+]
+]
+},
+{
+"centre": [
+4410,
+61545
+],
+"id": 1622,
+"name": "Eternity's Garden",
+"sectors": [
+[
+"Artificer's Islet",
+4357,
+61662
+],
+[
+"Ley-Drowned Quarry",
+5226,
+61612
+],
+[
+"Pilgrim's Rest",
+4963,
+62371
+],
+[
+"Sanctum of the Divine",
+5287,
+60627
+],
+[
+"Temple of Abnegation",
+3673,
+61798
+],
+[
+"Temple of the Blessed Mantle",
+4354,
+60764
+],
+[
+"The Deepwood",
+3634,
+60701
+],
+[
+"The Mothmarsh",
+4195,
+62526
+],
+[
+"Venomgrove Observatory",
+3583,
+62584
+]
+],
+"waypoints": [
+[
+"Deepwood Outpost Waypoint",
+3804,
+60931,
+"[&BOQPAAA=]"
+],
+[
+"Pilgrim's Rest Waypoint",
+5162,
+62438,
+"[&BPwPAAA=]"
+],
+[
+"Sanctum Exterior Waypoint",
+4867,
+61003,
+"[&BPAPAAA=]"
+],
+[
+"Temple of Abnegation Waypoint",
+3723,
+61851,
+"[&BPoPAAA=]"
+]
+]
+},
+{
+"centre": [
+4730,
+58665
+],
+"id": 1633,
+"name": "Leyspring Hollows",
+"sectors": [
+[
+"Doyen's Adytum",
+3801,
+58362
+],
+[
+"Hall of Assemblage",
+4775,
+59379
+],
+[
+"Infested Sluiceways",
+5690,
+58433
+],
+[
+"Ley Distributary",
+5374,
+58800
+],
+[
+"Navarium Core",
+4662,
+58443
+],
+[
+"Ordnance Depot",
+3725,
+59348
+],
+[
+"Rooted Sanctuary",
+4327,
+57924
+],
+[
+"Sealed Vestibule",
+5787,
+59321
+],
+[
+"The Auguratorium",
+4291,
+59070
+]
+],
+"waypoints": [
+[
+"Doyen's Adytum Waypoint",
+3658,
+58081,
+"[&BB8QAAA=]"
+],
+[
+"Hall of Assemblage Waypoint",
+4953,
+59330,
+"[&BDYQAAA=]"
+],
+[
+"Sealed Vestibule Waypoint",
+5820,
+59557,
+"[&BBYQAAA=]"
+]
+]
+}
+]
+}
