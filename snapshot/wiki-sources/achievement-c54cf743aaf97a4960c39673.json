@@ -1,0 +1,64 @@
+{
+"fetched": 1793983747.1517653,
+"item": "Blood Legion Reward Box",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Champion Grawl Loot Box",
+"Champion Branded Minion Loot Box",
+"Blood Legion Wood Box",
+"Blood Legion Special Mission Document",
+"Special Mission Document",
+"Blood Legion Crafting Box",
+"Blood Legion Blood Box",
+"Blood Legion Charged Materials Box",
+"Blood Legion Reward Box",
+"Rare Charr Salvage"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Glory to the Legions"
+],
+"Has canonical name": [
+"Glory to the Blood Legion"
+],
+"Has game id": [
+5278
+],
+"Is historical": [
+"f"
+],
+"_subject": "No Quarter (achievements)#achievement5278"
+},
+{
+"Gives item": [
+"Champion Grawl Loot Box",
+"Champion Branded Minion Loot Box",
+"Blood Legion Wood Box",
+"Blood Legion Special Mission Document",
+"Special Mission Document",
+"Blood Legion Crafting Box",
+"Blood Legion Blood Box",
+"Blood Legion Charged Materials Box",
+"Blood Legion Reward Box",
+"Rare Charr Salvage"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Glory to the Legions"
+],
+"Has canonical name": [
+"Glory to the Blood Legion"
+],
+"Has game id": [
+5312
+],
+"Is historical": [
+"f"
+],
+"_subject": "No Quarter (achievements)#achievement5312"
+}
+]
+}

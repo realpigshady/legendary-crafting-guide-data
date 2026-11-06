@@ -1,6 +1,196 @@
 {
 "body": [
 {
+"chat_link": "[&AgFnbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Flame legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CC2F0530E1EF7C61C412556DE2925B509C8C39C/2292714.png",
+"id": 93543,
+"level": 0,
+"name": "Flame Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Ash Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5876F65ED2984937CE4CF70406F5E3C780221A64/2292709.png",
+"id": 93574,
+"level": 0,
+"name": "Ash Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFibgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Frost Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/259EB10F057B00B39F93E022F7D02E36250B9134/2314069.png",
+"id": 93794,
+"level": 0,
+"name": "Frost Legion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGubgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Dominion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF0C260A383410AB6B3969200E2CBCCDAD1354CA/2314068.png",
+"id": 93870,
+"level": 0,
+"name": "Dominion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGFdQEA]",
+"description": "In the Mystic Forge, combine a Gift of Seitung Province, a Gift of New Kaineng City, a Gift of the Echovald Forest, and a Gift of Dragon's End to create a Gift of Cantha, used in crafting legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C6B72D0531FAA1AB090E79C6C8D769F931FB789C/2595110.png",
+"id": 95621,
+"level": 0,
+"name": "Gift of New Kaineng City",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
+"chat_link": "[&AgFFdgEA]",
+"description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF0EDBF868E8E5D53BDD9F4CC00DAAD5B6ABAD78/2597019.png",
+"id": 95813,
+"level": 0,
+"name": "Hydrocatalytic Reagent",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgFTdwEA]",
+"description": "In the Mystic Forge, combine a Gift of Seitung Province, a Gift of New Kaineng City, a Gift of the Echovald Forest, and a Gift of Dragon's End to create a Gift of Cantha, used in crafting legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6728CBCB301BFD3669D849D03EC25E7FD02920A3/2595109.png",
+"id": 96083,
+"level": 0,
+"name": "Gift of Dragon's End",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
 "chat_link": "[&AgGXdwEA]",
 "description": "Used for crafting and purchasing items. Earn daily from each story journal chapter.",
 "flags": [
@@ -1041,5 +1231,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=96151,96347,96471,96722,96993,97102,97232,97790,97829,100930,102205,102306,102467,102494,102569,102814,102929,102958,103038,103049,103103,103236,103351,103587,103766,103793,103833,104888,105686,105848,105933,106275,106370,106385,106467,106627,106672,109459"
+"url": "https://api.guildwars2.com/v2/items?ids=93543,93574,93794,93870,95621,95813,96083,96151,96347,96471,96722,96993,97102,97232,97790,97829,100930,102205,102306,102467,102494,102569,102814,102929,102958,103038,103049,103103,103236,103351,103587,103766,103793,103833,104888,105686,105848,105933,106275,106370,106385,106467,106627,106672,109459"
 }

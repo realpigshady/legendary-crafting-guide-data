@@ -1,0 +1,124 @@
+{
+"fetched": 1793983747.1517653,
+"item": "Chest of Legendary Crafting Materials",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Shiverpeaks Pass"
+],
+"Has canonical name": [
+"(Bonus) Strike Back: Shiverpeaks Pass"
+],
+"Has game id": [
+5872
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Bound by Blood#achievement5872"
+},
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Cold War"
+],
+"Has canonical name": [
+"(Bonus) Strike Back: Cold War"
+],
+"Has game id": [
+5925
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to No Quarter#achievement5925"
+},
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Whisper of Jormag"
+],
+"Has canonical name": [
+"(Bonus) Strike Back: Whisper of Jormag"
+],
+"Has game id": [
+5879
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Shadow in the Ice#achievement5879"
+},
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Strike Mission"
+],
+"Has canonical name": [
+"(Bonus) Strike Back: Rally at the Eye"
+],
+"Has game id": [
+5957
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Steel and Fire#achievement5957"
+},
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Return to Whisper in the Dark"
+],
+"Has canonical name": [
+"(Bonus) Strike Back: Raven Sanctum"
+],
+"Has game id": [
+5942
+],
+"Is historical": [
+"f"
+],
+"_subject": "Return to Whisper in the Dark#achievement5942"
+},
+{
+"Gives item": [
+"Chest of Legendary Crafting Materials"
+],
+"Gives item quantity": [
+1
+],
+"Has achievement page": [
+"Return to the Icebrood Saga (achievements)"
+],
+"Has canonical name": [
+"Strike Back: Rally at the Eye (Weekly)"
+],
+"Has game id": [
+8518
+],
+"Is historical": [
+"t"
+],
+"_subject": "Return to the Icebrood Saga (achievements)#achievement8518"
+}
+]
+}

@@ -210,7 +210,7 @@
                 "expected_output": {
                   "type": "number",
                   "exclusiveMinimum": 0,
-                  "description": "random output: average made per run (used instead of output_count)"
+                  "description": "random output: average made per attempt of this source (used instead of output_count); 10x recipes carry ten times the 1x average"
                 },
                 "max_units": {
                   "type": [
@@ -272,6 +272,58 @@
                 "festival": {
                   "type": "string",
                   "description": "every vendor selling it this way is festival-only: available only inside that festival's windows"
+                },
+                "byproducts": {
+                  "type": "array",
+                  "description": "random forge: average extra items per attempt besides the output (wiki drop research); informational, the addon does not plan with them yet",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "node_id",
+                      "count"
+                    ],
+                    "properties": {
+                      "node_id": {
+                        "type": "string"
+                      },
+                      "name": {
+                        "type": "string"
+                      },
+                      "count": {
+                        "type": "number",
+                        "exclusiveMinimum": 0,
+                        "description": "average per attempt (a fraction)"
+                      }
+                    }
+                  }
+                },
+                "research": {
+                  "type": "object",
+                  "description": "random forge: where expected_output/byproducts come from",
+                  "properties": {
+                    "page": {
+                      "type": "string"
+                    },
+                    "attempts": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "expected_from": {
+                      "type": "string",
+                      "enum": [
+                        "wiki average recipe",
+                        "drop research"
+                      ]
+                    }
+                  }
+                },
+                "cap_group": {
+                  "type": "string",
+                  "description": "vendor: sources with the same cap_group share one purchase limit (weekly_cap/daily_cap) even at different prices"
+                },
+                "repeatable": {
+                  "type": "boolean",
+                  "description": "reward: the achievement can be completed again for the same reward (Glory to the Legions)"
                 }
               }
             }
@@ -382,6 +434,18 @@
           "festival": {
             "type": "string",
             "description": "festival name (pack festivals[].name): only available inside that festival's windows"
+          },
+          "reward_track": {
+            "type": "boolean",
+            "description": "a PvP/WvW reward track (untimed until track times are known)"
+          },
+          "repeatable": {
+            "type": "boolean",
+            "description": "reward track: can be repeated (false = once per account)"
+          },
+          "retiring": {
+            "type": "boolean",
+            "description": "the wiki marks the track as to be removed at a later date"
           }
         }
       }

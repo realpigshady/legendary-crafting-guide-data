@@ -34,6 +34,7 @@ import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
+import forge_outcomes as fo  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -327,6 +328,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     expand = set(CONFIG.get("always_expand", []))
 
     legendaries, nodes, warnings, acts = [], {}, [], {}
+    random_seen: dict[str, list] = {}
     stats: dict[str, dict] = {}
     for fam_id, fam in CONFIG["families"].items():
         if not fam.get("enabled", False):
@@ -366,6 +368,8 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
             nodes.setdefault(n["id"], n)
         for a in tree.activities.values():
             acts.setdefault(a["id"], a)
+        for k, v in tree.random_seen.items():
+            random_seen.setdefault(k, v)
         warnings += [f"{fam_id}: {w}" for w in tree.warnings]
         stats[fam_id] = {"legendaries": len(members), "nodes": len(tree.nodes), "activities": len(tree.activities),
                          "smw_requests": smw.requests, "requests": store.requests - before[0],
@@ -383,6 +387,20 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                     "root_node_id": f"item:{item['id']}" if f"item:{item['id']}" in tree.nodes else root_of.get(title, f"item:{item['id']}"),
                     "weapon_type": item.get("details", {}).get("type"),
                 })
+
+    # random forge recipes: expected output and byproducts from the wiki's drop research
+    try:
+        stats["forge_outcomes"], fwarn = fo.apply(nodes, store, random_seen)
+    except wp.WikiDown as e:
+        raise SourceDown(str(e)) from e
+    warnings += fwarn
+    fs = stats["forge_outcomes"]
+    for nm, v in fs["items"].items():
+        print(f"forge outcomes {nm}: {v['sources']} sources, {v['expected_per_unit']}/unit ({v['expected_from']}; "
+              f"research {v['research_expected_per_unit']} over {v['attempts']} attempts), {v['byproducts']} byproducts")
+    print(f"forge outcomes: no research {fs['no_research']}; random recipes not in the pack (cut as cycles or unreached): {len(fs['not_in_pack'])}")
+    for n in nodes.values():
+        n.pop("_page_text", None)
 
     try:
         events = etm.load(store)

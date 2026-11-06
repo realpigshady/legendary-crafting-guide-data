@@ -1229,6 +1229,36 @@
 "vendor_value": 200
 },
 {
+"chat_link": "[&AgEACwEA]",
+"description": "Double-click to open. Contains 8 Obsidian Shards and 7 Mystic Clovers.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BFD2CB5A0604A4425DF9CD22DF0F40C4E0AE9AAA/602790.png",
+"id": 68352,
+"level": 0,
+"name": "Chest of Legendary Crafting Materials",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgGAEwEA]",
 "description": "Combine with the Gift of War, Gift of Battle, and a Cube of Stabilized Dark Energy in the Mystic Forge to create the Gift of the Mists.",
 "flags": [
@@ -2471,6 +2501,180 @@
 "vendor_value": 0
 },
 {
+"chat_link": "[&AgEtbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Blood Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3172EBBB98687244F06F0BF85DA4D10790E5EC74/2292710.png",
+"id": 93485,
+"level": 0,
+"name": "Blood Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFEbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Iron Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9970DF075906DAEDD3DC2773521D189DFC39FEBF/2292715.png",
+"id": 93508,
+"level": 0,
+"name": "Iron Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFnbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Flame legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CC2F0530E1EF7C61C412556DE2925B509C8C39C/2292714.png",
+"id": 93543,
+"level": 0,
+"name": "Flame Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Ash Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5876F65ED2984937CE4CF70406F5E3C780221A64/2292709.png",
+"id": 93574,
+"level": 0,
+"name": "Ash Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFibgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Frost Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/259EB10F057B00B39F93E022F7D02E36250B9134/2314069.png",
+"id": 93794,
+"level": 0,
+"name": "Frost Legion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGubgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Dominion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF0C260A383410AB6B3969200E2CBCCDAD1354CA/2314068.png",
+"id": 93870,
+"level": 0,
+"name": "Dominion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgFFdgEA]",
 "description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
 "flags": [
@@ -2598,5 +2802,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19632,19663,19684,19709,19717,19721,19735,19747,19925,20799,21259,24274,24275,24276,24277,24508,24510,24512,24515,24516,24520,24522,39715,39717,41886,42003,42004,43766,45178,46682,46730,46732,46734,46747,46752,48805,48806,48807,68063,70528,70801,71008,71123,71641,71655,71787,73137,73196,73236,73248,74677,75299,75744,76483,76933,77482,79280,79418,79469,79899,80332,81127,81346,81478,81706,82471,82926,83082,83284,83620,83872,84099,84438,85631,86069,86330,86977,87645,88955,89537,90783,93022,93034,93147,93151,93248,95813,100400,100930,105686,106385"
+"url": "https://api.guildwars2.com/v2/items?ids=19632,19663,19684,19709,19717,19721,19735,19747,19925,20799,21259,24274,24275,24276,24277,24508,24510,24512,24515,24516,24520,24522,39715,39717,41886,42003,42004,43766,45178,46682,46730,46732,46734,46747,46752,48805,48806,48807,68063,68352,70528,70801,71008,71123,71641,71655,71787,73137,73196,73236,73248,74677,75299,75744,76483,76933,77482,79280,79418,79469,79899,80332,81127,81346,81478,81706,82471,82926,83082,83284,83620,83872,84099,84438,85631,86069,86330,86977,87645,88955,89537,90783,93022,93034,93147,93151,93248,93485,93508,93543,93574,93794,93870,95813,100400,100930,105686,106385"
 }
