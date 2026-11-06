@@ -1,45 +1,40 @@
 {
- "dr_pages": {
+ "promo_pages": {
   "action": "query",
-  "prop": "revisions|categories|templates",
+  "prop": "revisions|categories",
   "rvprop": "content|ids",
   "rvslots": "main",
-  "tllimit": "100",
   "cllimit": "max",
   "redirects": "1",
-  "titles": "Mystic Clover/Drop rate|Mystic Facet/Drop rate"
+  "titles": "Material promotion|Mystic Forge/Material promotion|Promotion|Mystic Forge recipes/Material promotion|Fine crafting material|Common crafting material"
  },
- "dr_search": {
+ "promo_search": {
   "action": "query",
   "list": "search",
-  "srsearch": "intitle:\"Drop rate\"",
+  "srsearch": "promotion intitle:\"Drop rate\"",
   "srnamespace": "0",
-  "srlimit": "500",
-  "srprop": "",
-  "srwhat": "text"
+  "srlimit": "100",
+  "srprop": ""
  },
- "ask_clover_contained": {
-  "action": "ask",
-  "query": "[[Contains item::Mystic Clover]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500"
- },
- "ask_clover_track": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Mystic Clover;?;?;?]]|?Contains item in reward track|limit=500"
- },
- "ask_clover_rewarded": {
-  "action": "ask",
-  "query": "[[Rewards item::Mystic Clover]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500"
- },
- "gttl_pages": {
+ "promo_search2": {
   "action": "query",
-  "prop": "revisions",
-  "rvprop": "content|ids",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Glory to the Legions|Chest of Legendary Crafting Materials"
+  "list": "search",
+  "srsearch": "\"material promotion\" average",
+  "srnamespace": "0",
+  "srlimit": "50",
+  "srprop": ""
  },
- "ask_gives_chest": {
-  "action": "ask",
-  "query": "[[Gives item::Chest of Legendary Crafting Materials]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=50"
+ "promo_subpages": {
+  "action": "query",
+  "list": "allpages",
+  "apprefix": "Material promotion",
+  "apnamespace": "0",
+  "aplimit": "50"
+ },
+ "dr_promo_items": {
+  "action": "query",
+  "prop": "info",
+  "redirects": "1",
+  "titles": "Vicious Claw/Drop rate|Orichalcum Ingot/Drop rate|Ancient Wood Plank/Drop rate|Pile of Crystalline Dust/Drop rate|Ancient Bone/Drop rate|Mithril Ingot/Drop rate|Obsidian Shard/Drop rate|Material promotion/Drop rate"
  }
 }
