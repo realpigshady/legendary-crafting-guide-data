@@ -16,7 +16,7 @@ def sec(i, name, x, y):
 
 # shapes as /v2/maps?ids=all and /v2/continents/{c}/floors/{f} return them
 MAPS_ALL = [
-    {"id": 50, "name": "Lion's Arch", "continent_id": 1, "default_floor": 1, "region_id": 8},
+    {"id": 50, "name": "Lion's Arch", "type": "Public", "continent_id": 1, "default_floor": 1, "region_id": 8},
     {"id": 51, "name": "Frostgorge Sound", "continent_id": 1, "default_floor": 1, "region_id": 2},
     {"id": 52, "name": "Memory of Old Lion's Arch", "continent_id": 1, "default_floor": 2, "region_id": 8},
     {"id": 53, "name": "Empty Map", "continent_id": 1, "default_floor": 1, "region_id": 2},
@@ -120,3 +120,22 @@ def test_sub_area_climbs_wiki_parents():
     assert got["Lost Hut"]["map_id"] == 51                                    # no parent: the wiki's map, by its centre
     assert got["Nowhere"] is None
     assert vw.resolve_all(["Statue Row"], vw.Finder(maps()), None) == {"Statue Row": None}   # wiki unknown: no guess
+
+
+def test_map_found_on_another_floor_and_skips_logged():
+    moved = [dict(MAPS_ALL[2], default_floor=1)]               # says floor 1, but only floor 2 has it
+    assert [m["id"] for m in vw.extract(moved, FLOORS)] == [52]
+    sk = []
+    vw.extract([{"id": 99, "name": "Ghost", "type": "Public", "continent_id": 1, "default_floor": 1, "region_id": 2}], FLOORS, sk)
+    assert sk == ["99 Ghost (1/1)"]
+
+
+def test_old_extract_version_is_refetched(tmp_path):
+    (tmp_path / vw.INDEX).write_text(json.dumps({"fetched_at": 9e12, "maps": []}))   # no "v": older extract
+    calls = []
+
+    def live(url):
+        calls.append(url)
+        return MAPS_ALL if "/v2/maps" in url else FLOORS[tuple(int(x) for x in url.split("/continents/")[1].split("/floors/"))]
+    maps_, fresh = vw.load(tmp_path, live, offline=False)
+    assert fresh and calls and json.loads((tmp_path / vw.INDEX).read_text())["v"] == vw.VERSION

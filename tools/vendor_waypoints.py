@@ -35,22 +35,33 @@ def _values(d):
     return list(d.values()) if isinstance(d, dict) else list(d or [])
 
 
-def extract(maps_all: list[dict], floors: dict[tuple[int, int], dict]) -> list[dict]:
+VERSION = 2   # bump when extract() changes: a stored extract of another version is fetched again
+
+
+def extract(maps_all: list[dict], floors: dict[tuple[int, int], dict], skipped: list[str] | None = None) -> list[dict]:
     """Compact table from /v2/maps?ids=all and the floors each map defaults to:
     [{id, name, centre: [x, y], sectors: [[name, x, y]], waypoints: [[name, x, y, chat_link]]}]"""
     out: dict[int, dict] = {}
+    skipped.clear() if skipped is not None else None
     for m in maps_all:
-        fl = floors.get((m.get("continent_id"), m.get("default_floor")))
-        if not fl:
-            continue
-        reg = fl.get("regions", {}).get(str(m.get("region_id"))) or fl.get("regions", {}).get(m.get("region_id"))
-        fm = (reg or {}).get("maps", {}).get(str(m["id"])) if reg else None
+        c = m.get("continent_id")
+        order = [(c, m.get("default_floor"))] + sorted(k for k in floors if k[0] == c and k != (c, m.get("default_floor")))
+        fm, wps = None, []
+        for k in order:   # default floor first; a map missing there may sit on another floor
+            for reg in _values((floors.get(k) or {}).get("regions")):
+                cand = (reg.get("maps") or {}).get(str(m["id"]))
+                if cand:
+                    w = sorted([p.get("name") or "", round(p["coord"][0]), round(p["coord"][1]), p["chat_link"]]
+                               for p in _values(cand.get("points_of_interest"))
+                               if p.get("type") == "waypoint" and p.get("chat_link") and p.get("coord"))
+                    if w:
+                        fm, wps = cand, w
+                        break
+            if fm:
+                break
         if not fm:
-            continue
-        wps = sorted([p.get("name") or "", round(p["coord"][0]), round(p["coord"][1]), p["chat_link"]]
-                     for p in _values(fm.get("points_of_interest"))
-                     if p.get("type") == "waypoint" and p.get("chat_link") and p.get("coord"))
-        if not wps:
+            if skipped is not None and m.get("type") in ("Public", "Instance", "Unknown", "PublicMini"):
+                skipped.append(f"{m['id']} {m.get('name')} ({c}/{m.get('default_floor')})")
             continue
         secs = sorted([s.get("name") or "", round(s["coord"][0]), round(s["coord"][1])]
                       for s in _values(fm.get("sectors")) if s.get("name") and s.get("coord"))
@@ -65,7 +76,7 @@ def load(snapshot: Path, get_live: Callable[[str], object] | None, offline: bool
     """(map index, fresh). Fetches when the stored extract is over a week old and the API is up."""
     path = snapshot / INDEX
     have = json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
-    if have and (offline or time.time() - have.get("fetched_at", 0) < MAX_AGE_S):
+    if have and (offline or (time.time() - have.get("fetched_at", 0) < MAX_AGE_S and have.get("v") == VERSION)):
         return have["maps"], False
     if not offline and get_live:
         try:
@@ -78,9 +89,12 @@ def load(snapshot: Path, get_live: Callable[[str], object] | None, offline: bool
                     floors[k] = get_live(f"{API}/v2/continents/{k[0]}/floors/{k[1]}")
                 except Exception as e:  # noqa: BLE001
                     print(f"  map index: floor {k} skipped ({e})")
-            maps = extract(maps_all, floors)
+            skipped: list[str] = []
+            maps = extract(maps_all, floors, skipped)
+            print(f"  map index: {len(maps)} maps from {len(floors)} floors; {len(skipped)} public/instance maps without waypoints: "
+                  + "; ".join(skipped[:60]))
             if maps:
-                text = json.dumps({"fetched_at": round(time.time()), "maps": maps}, ensure_ascii=False, sort_keys=True, indent=0)
+                text = json.dumps({"fetched_at": round(time.time()), "v": VERSION, "maps": maps}, ensure_ascii=False, sort_keys=True, indent=0)
                 path.write_text(text + "\n", encoding="utf-8")
                 return maps, True
         except Exception as e:  # noqa: BLE001
