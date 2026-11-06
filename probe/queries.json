@@ -1,40 +1,18 @@
 {
- "promo_pages": {
+ "promo_mf": {
   "action": "query",
-  "prop": "revisions|categories",
+  "prop": "revisions|templates",
   "rvprop": "content|ids",
   "rvslots": "main",
-  "cllimit": "max",
+  "tllimit": "100",
   "redirects": "1",
-  "titles": "Material promotion|Mystic Forge/Material promotion|Promotion|Mystic Forge recipes/Material promotion|Fine crafting material|Common crafting material"
+  "titles": "Mystic Forge/Material Promotion|Mystic Forge/Material Promotion/Drop rate|Talk:Mystic Forge/Material Promotion"
  },
- "promo_search": {
-  "action": "query",
-  "list": "search",
-  "srsearch": "promotion intitle:\"Drop rate\"",
-  "srnamespace": "0",
-  "srlimit": "100",
-  "srprop": ""
- },
- "promo_search2": {
-  "action": "query",
-  "list": "search",
-  "srsearch": "\"material promotion\" average",
-  "srnamespace": "0",
-  "srlimit": "50",
-  "srprop": ""
- },
- "promo_subpages": {
+ "promo_mf_sub": {
   "action": "query",
   "list": "allpages",
-  "apprefix": "Material promotion",
+  "apprefix": "Mystic Forge/",
   "apnamespace": "0",
-  "aplimit": "50"
- },
- "dr_promo_items": {
-  "action": "query",
-  "prop": "info",
-  "redirects": "1",
-  "titles": "Vicious Claw/Drop rate|Orichalcum Ingot/Drop rate|Ancient Wood Plank/Drop rate|Pile of Crystalline Dust/Drop rate|Ancient Bone/Drop rate|Mithril Ingot/Drop rate|Obsidian Shard/Drop rate|Material promotion/Drop rate"
+  "aplimit": "100"
  }
 }
