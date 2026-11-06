@@ -239,6 +239,20 @@
                         "items": {
                           "type": "string"
                         }
+                      },
+                      "map_id": {
+                        "type": "integer",
+                        "description": "API map of the first location that resolved"
+                      },
+                      "map": {
+                        "type": "string"
+                      },
+                      "waypoint_name": {
+                        "type": "string"
+                      },
+                      "waypoint_chat_code": {
+                        "type": "string",
+                        "description": "nearest waypoint to the vendor's area (official API), for Crafting > Vendor"
                       }
                     }
                   }

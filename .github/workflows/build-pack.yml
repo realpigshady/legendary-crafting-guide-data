@@ -110,6 +110,11 @@ jobs:
           git add snapshot
           git diff --cached --quiet || { git commit -m "snapshot: $(date -u +%F)" && git push; }
 
+      # Warn (never fail) once snapshot/ passes 200 MB; the table goes to the run summary.
+      - name: Snapshot size check
+        if: always() && steps.gate.outputs.run == 'true'
+        run: python tools/snapshot_size.py --warnings dist/warnings.txt
+
       - name: Upload pack for review
         if: always() && steps.gate.outputs.run == 'true'
         uses: actions/upload-artifact@v4

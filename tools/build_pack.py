@@ -32,6 +32,7 @@ import wiki_pack as wp  # noqa: E402
 import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
+import vendor_waypoints as vwp  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -125,7 +126,7 @@ class Http:
             return 0
         removed = 0
         for p in self.dir.rglob("*.json"):
-            if p == self._index_path or p.name in ("item-flags.json", "activity-catalog.json") or p.relative_to(self.dir).parts[0] in ("wiki-pages", "wiki-sources"):
+            if p == self._index_path or p.name in ("item-flags.json", "activity-catalog.json", "map-index.json") or p.relative_to(self.dir).parts[0] in ("wiki-pages", "wiki-sources"):
                 continue   # wiki-pages/ belongs to the PageStore (revision-checked, not URL-keyed)
             key = self._key(p)
             if key not in self._used:
@@ -421,6 +422,13 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
             srcs = nodes[y["node_id"]]["sources"]
             if not any(x.get("activity_id") == a["id"] for x in srcs):
                 srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
+    # nearest waypoint per vendor (Crafting > Vendor button): wiki area -> API sector -> waypoint
+    maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
+    stats["vendor_waypoints"] = vwp.annotate(list(nodes.values()), maps)
+    vw = stats["vendor_waypoints"]
+    print(f"vendor waypoints: {vw['with_waypoint']}/{vw['vendors']} vendors ({vw['maps_indexed']} maps indexed)")
+    if not maps:
+        warnings.append("vendor waypoints: no map index (API down and nothing stored)")
     act_list = sorted(final.values(), key=lambda a: a["id"])
     timed_n = sum(1 for a in act_list if a.get("est_minutes"))
     print(f"activities: {len(act_list)} ({timed_n} timed, {sum(1 for a in act_list if a['yields'])} with yields for these trees)")
@@ -452,6 +460,8 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     (out / "warnings.txt").write_text("\n".join(warnings) + "\n", encoding="utf-8")
     (out / "stats.json").write_text(json.dumps(stats, indent=1) + "\n", encoding="utf-8")   # per-family size log
     for fam_id, st in stats.items():
+        if "nodes" not in st:
+            continue
         print(f"{fam_id}: {st['nodes']} nodes, {st['requests']} wiki requests, {st['pages_downloaded']} pages, {st['bytes'] // 1024} KB")
     return pack
 
