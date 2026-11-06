@@ -499,6 +499,36 @@
 "vendor_value": 6
 },
 {
+"chat_link": "[&AgEACwEA]",
+"description": "Double-click to open. Contains 8 Obsidian Shards and 7 Mystic Clovers.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BFD2CB5A0604A4425DF9CD22DF0F40C4E0AE9AAA/602790.png",
+"id": 68352,
+"level": 0,
+"name": "Chest of Legendary Crafting Materials",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgFQDQEA]",
 "flags": [
 "NoSalvage"
@@ -846,6 +876,180 @@
 "vendor_value": 0
 },
 {
+"chat_link": "[&AgEtbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Blood Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3172EBBB98687244F06F0BF85DA4D10790E5EC74/2292710.png",
+"id": 93485,
+"level": 0,
+"name": "Blood Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFEbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Iron Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9970DF075906DAEDD3DC2773521D189DFC39FEBF/2292715.png",
+"id": 93508,
+"level": 0,
+"name": "Iron Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFnbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Flame legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2CC2F0530E1EF7C61C412556DE2925B509C8C39C/2292714.png",
+"id": 93543,
+"level": 0,
+"name": "Flame Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGbQEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Ash Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5876F65ED2984937CE4CF70406F5E3C780221A64/2292709.png",
+"id": 93574,
+"level": 0,
+"name": "Ash Legion Reward Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFibgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Frost Legion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/259EB10F057B00B39F93E022F7D02E36250B9134/2314069.png",
+"id": 93794,
+"level": 0,
+"name": "Frost Legion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGubgEA]",
+"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Dominion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF0C260A383410AB6B3969200E2CBCCDAD1354CA/2314068.png",
+"id": 93870,
+"level": 0,
+"name": "Dominion Spoils Box",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgFFdgEA]",
 "description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
 "flags": [
@@ -1136,5 +1340,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,84438,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
+"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68352,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,84438,93012,93485,93508,93543,93574,93794,93870,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
 }

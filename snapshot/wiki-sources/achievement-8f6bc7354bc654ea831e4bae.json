@@ -1,0 +1,64 @@
+{
+"fetched": 1793983747.1517653,
+"item": "Dominion Spoils Box",
+"kind": "achievement",
+"q": "079d586901b9",
+"rows": [
+{
+"Gives item": [
+"Champion Grawl Loot Box",
+"Champion Jotun Loot Box",
+"Special Mission Document",
+"Rare Charr Salvage",
+"Dominion Material Box",
+"Dominion Spoils Box",
+"Dominion Crystal Materials Box",
+"Dominion Trophy Box",
+"Dominion Intel Document",
+"Dominion Crafting Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Glory to the Legions"
+],
+"Has canonical name": [
+"Death to the Dominion"
+],
+"Has game id": [
+5391
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jormag Rising (achievements)#achievement5391"
+},
+{
+"Gives item": [
+"Champion Grawl Loot Box",
+"Champion Jotun Loot Box",
+"Special Mission Document",
+"Rare Charr Salvage",
+"Dominion Material Box",
+"Dominion Spoils Box",
+"Dominion Crystal Materials Box",
+"Dominion Trophy Box",
+"Dominion Intel Document",
+"Dominion Crafting Box"
+],
+"Gives item quantity": [],
+"Has achievement page": [
+"Glory to the Legions"
+],
+"Has canonical name": [
+"Death to the Dominion"
+],
+"Has game id": [
+5403
+],
+"Is historical": [
+"f"
+],
+"_subject": "Jormag Rising (achievements)#achievement5403"
+}
+]
+}

@@ -1,0 +1,26 @@
+{
+"fetched": 1793983781.2851245,
+"item": "Chest of Legendary Crafting Materials",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Loyalty"
+],
+"Contains item": [
+"Chest of Legendary Crafting Materials"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Loyalty#contains3"
+}
+]
+}
