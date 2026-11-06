@@ -101,3 +101,22 @@ def test_load_uses_fresh_extract_offline_and_fetches_when_old(tmp_path):
     def down(url):
         raise OSError("down")
     assert vw.load(tmp_path, down, offline=False) == (got, False)                 # outage: stored extract
+
+
+def test_sub_area_climbs_wiki_parents():
+    wiki = {"Maker's Terrace": {"Located in": ["Lions Inner Court"], "Has map id": []},
+            "Lions Inner Court": {"Located in": ["Lion's Arch"], "Has map id": [50]},
+            "Statue Row": {"Located in": ["Grand Piazza"], "Has map id": [51]},
+            "Lost Hut": {"Located in": [], "Has map id": [51]}}
+    asked = []
+
+    def places(names):
+        asked.append(sorted(names))
+        return {n: [{"_subject": n, **wiki[n]}] if n in wiki else [] for n in names}
+    got = vw.resolve_all(["Maker's Terrace", "Statue Row", "Lost Hut", "Jora's Keep", "Nowhere"], vw.Finder(maps()), places)
+    assert got["Jora's Keep"]["waypoint_chat_code"] == "[&WP20]" and asked[0] == ["Lost Hut", "Maker's Terrace", "Nowhere", "Statue Row"]
+    assert got["Maker's Terrace"]["map"] == "Lion's Arch"                     # two levels up: the map itself
+    assert got["Statue Row"]["waypoint_chat_code"] == "[&WP21]"               # Grand Piazza is on 2 maps: wiki map id picks Frostgorge
+    assert got["Lost Hut"]["map_id"] == 51                                    # no parent: the wiki's map, by its centre
+    assert got["Nowhere"] is None
+    assert vw.resolve_all(["Statue Row"], vw.Finder(maps()), None) == {"Statue Row": None}   # wiki unknown: no guess

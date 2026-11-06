@@ -424,7 +424,12 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
     # nearest waypoint per vendor (Crafting > Vendor button): wiki area -> API sector -> waypoint
     maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
-    stats["vendor_waypoints"] = vwp.annotate(list(nodes.values()), maps)
+    def places(names: list[str]) -> dict[str, list[dict]]:
+        try:
+            return smw.get("place", names)
+        except wsrc.WikiSourcesDown:   # never asked before and the wiki is down: those vendors stay without
+            return {}
+    stats["vendor_waypoints"] = vwp.annotate(list(nodes.values()), maps, places)
     vw = stats["vendor_waypoints"]
     print(f"vendor waypoints: {vw['with_waypoint']}/{vw['vendors']} vendors ({vw['maps_indexed']} maps indexed)")
     if not maps:

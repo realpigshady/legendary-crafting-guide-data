@@ -103,7 +103,8 @@ class Finder:
         name, _, _, code = min(m["waypoints"], key=lambda w: ((w[1] - x) ** 2 + (w[2] - y) ** 2, w[3]))
         return {"map_id": mid, "map": m["name"], "waypoint_name": name, "waypoint_chat_code": code}
 
-    def find(self, location: str) -> dict | None:
+    def find(self, location: str, on_maps: set[int] | None = None) -> dict | None:
+        """``on_maps``: map ids the wiki gives for this place; narrows a name found on several maps."""
         base, hint = location, None
         mt = re.match(r"^(.*?)\s*\((.+)\)\s*$", location)
         if mt:
@@ -112,6 +113,8 @@ class Finder:
         if hint and len(cands) > 1:
             on = set(self.by_map.get(_norm(hint), []))
             cands = [c for c in cands if c[0] in on] or cands
+        if on_maps and len(cands) > 1:
+            cands = [c for c in cands if c[0] in on_maps] or cands
         if not cands:   # the location is a whole map
             ids = self.by_map.get(_norm(location)) or self.by_map.get(_norm(base)) or []
             cands = [(i, *self.maps[i]["centre"]) for i in ids]
@@ -123,11 +126,70 @@ class Finder:
         return hits[0]
 
 
-def annotate(nodes: list[dict], maps: list[dict]) -> dict:
+DEPTH = 4   # sub-area -> area -> zone -> region at most
+
+
+def _ids(v) -> set[int]:
+    out = set()
+    for x in v if isinstance(v, list) else [v]:
+        try:
+            out.add(int(float(str(x))))
+        except (TypeError, ValueError):
+            pass
+    return out
+
+
+def resolve_all(locations: list[str], f: Finder, places: Callable[[list[str]], dict[str, list[dict]]] | None) -> dict[str, dict | None]:
+    """Waypoint per wiki location. A sub-area the API doesn't know as a sector ("Maker's
+    Terrace") climbs the wiki's Located in chain (SMW, ``places``) until a sector or map
+    matches; the wiki's map id narrows names found on several maps, or gives the map
+    centre as a last resort."""
+    out: dict[str, dict | None] = {}
+    info: dict[str, tuple[list[str], set[int]]] = {}
+    for loc in locations:
+        out[loc] = f.find(loc)
+    level = [l for l in locations if out[l] is None]
+    chains = {l: [l] for l in level}            # loc -> names asked so far, nearest first
+    for _ in range(DEPTH):
+        ask = sorted({c[-1] for l, c in chains.items() if out[l] is None and c[-1] not in info})
+        if ask and places:
+            for name, rws in places(ask).items():
+                r = rws[0] if rws else {}
+                info[name] = ([x for x in (r.get("Located in") or []) if isinstance(x, str)], _ids(r.get("Has map id")))
+        moved = False
+        for l, c in chains.items():
+            if out[l] is not None:
+                continue
+            parents, ids = info.get(c[-1], ([], set()))
+            wanted = set().union(*(info.get(x, ([], set()))[1] for x in c))
+            for par in parents:
+                hit = f.find(par, wanted or None)
+                if hit:
+                    out[l] = hit
+                    break
+            if out[l] is None and parents and parents[0] not in c:
+                c.append(parents[0])
+                moved = True
+        if not moved:
+            break
+    for l, c in chains.items():                 # last resort: a map the wiki names, by its centre
+        if out[l] is None:
+            for x in c:
+                for mid in sorted(info.get(x, ([], set()))[1]):
+                    if mid in f.maps:
+                        out[l] = f._nearest(mid, *f.maps[mid]["centre"])
+                        break
+                if out[l]:
+                    break
+    return out
+
+
+def annotate(nodes: list[dict], maps: list[dict], places: Callable[[list[str]], dict[str, list[dict]]] | None = None) -> dict:
     """Adds map_id, map, waypoint_name, waypoint_chat_code to each vendor (first location
     that resolves). Returns coverage counts for stats.json."""
     f = Finder(maps)
-    cache: dict[str, dict | None] = {}
+    locs = sorted({l for n in nodes for s in n.get("sources", []) for v in s.get("vendors") or [] for l in v.get("locations") or []})
+    cache = resolve_all(locs, f, places) if maps else {l: None for l in locs}
     seen, hit = set(), set()
     unresolved: dict[str, int] = {}
     for n in nodes:
@@ -138,8 +200,6 @@ def annotate(nodes: list[dict], maps: list[dict]) -> dict:
                 key = v["npc"] + "|" + "|".join(v.get("locations") or [])
                 seen.add(key)
                 for loc in v.get("locations") or []:
-                    if loc not in cache:
-                        cache[loc] = f.find(loc)
                     if cache[loc]:
                         v.update(cache[loc])
                         hit.add(key)
