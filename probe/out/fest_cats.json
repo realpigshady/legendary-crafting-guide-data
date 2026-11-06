@@ -1,0 +1,304 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "categories",
+  "cllimit": "50",
+  "titles": "Toypocalypse|Mad King's Clock Tower|Bell Choir Ensemble|Halloween Vendor|Zalman|Super Adventure Box Trader|Labyrinthine Cliffs|Mad King's Labyrinth|Celestial Challenge|Dragon Bash Arena|Boss Blitz|Winter Wonderland|Hooligan's Route|Candy Corn Vendor"
+ },
+ "reply": {
+  "continue": {
+   "clcontinue": "97854|Temporary_content",
+   "continue": "||"
+  },
+  "query": {
+   "pages": [
+    {
+     "pageid": 29190,
+     "ns": 0,
+     "title": "Hooligan's Route",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Lion's Arch"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Skritt culture"
+      }
+     ]
+    },
+    {
+     "pageid": 64969,
+     "ns": 0,
+     "title": "Mad King's Labyrinth",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Anomalies"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Blood and Madness"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Halloween"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Mad King's Realm"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Shadow of the Mad King"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      }
+     ]
+    },
+    {
+     "pageid": 65951,
+     "ns": 0,
+     "title": "Mad King's Clock Tower",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Activities"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Bugs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Halloween"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Jumping puzzles"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Spoilers"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      }
+     ]
+    },
+    {
+     "pageid": 73217,
+     "ns": 0,
+     "title": "Winter Wonderland",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Activities"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Anomalies"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Bugs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Jumping puzzles"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Spoilers"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Wintersday"
+      }
+     ]
+    },
+    {
+     "pageid": 73226,
+     "ns": 0,
+     "title": "Bell Choir Ensemble",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Activities"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Uses API key for achievements"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Wintersday"
+      }
+     ]
+    },
+    {
+     "pageid": 74724,
+     "ns": 0,
+     "title": "Toypocalypse",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Activities"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with verification requests"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Wintersday"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Wintersday: The Wondrous Workshop of Toymaker Tixx"
+      }
+     ]
+    },
+    {
+     "pageid": 95764,
+     "ns": 0,
+     "title": "Labyrinthine Cliffs",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Bazaar of the Four Winds"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Festival of the Four Winds"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Labyrinthine Cliffs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Maguuma Jungle"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Temporary content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Zones"
+      }
+     ]
+    },
+    {
+     "pageid": 97854,
+     "ns": 0,
+     "title": "Zalman",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Bazaar of the Four Winds"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Festival of the Four Winds"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Merchants"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 123549,
+     "ns": 0,
+     "title": "Boss Blitz"
+    },
+    {
+     "pageid": 159563,
+     "ns": 0,
+     "title": "Candy Corn Vendor"
+    },
+    {
+     "pageid": 232411,
+     "ns": 0,
+     "title": "Super Adventure Box Trader"
+    },
+    {
+     "pageid": 252796,
+     "ns": 0,
+     "title": "Halloween Vendor"
+    },
+    {
+     "pageid": 269331,
+     "ns": 0,
+     "title": "Celestial Challenge"
+    },
+    {
+     "pageid": 297190,
+     "ns": 0,
+     "title": "Dragon Bash Arena"
+    }
+   ]
+  }
+ }
+}

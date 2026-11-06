@@ -1,0 +1,14 @@
+{
+ "params": {
+  "action": "query",
+  "list": "categorymembers",
+  "cmtitle": "Category:Festivals",
+  "cmlimit": "100"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "categorymembers": []
+  }
+ }
+}

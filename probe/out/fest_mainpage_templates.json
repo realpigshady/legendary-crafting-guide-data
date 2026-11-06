@@ -1,0 +1,308 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "templates",
+  "tllimit": "100",
+  "titles": "Main Page|Wintersday|Halloween"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 1,
+     "ns": 0,
+     "title": "Main Page",
+     "templates": [
+      {
+       "ns": 10,
+       "title": "Template:EoD"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Gold"
+      },
+      {
+       "ns": 10,
+       "title": "Template:HoT"
+      },
+      {
+       "ns": 10,
+       "title": "Template:JW"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Main Page/featured"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Main Page/special event"
+      },
+      {
+       "ns": 10,
+       "title": "Template:News"
+      },
+      {
+       "ns": 10,
+       "title": "Template:PoF"
+      },
+      {
+       "ns": 10,
+       "title": "Template:SotO"
+      },
+      {
+       "ns": 10,
+       "title": "Template:VoE"
+      }
+     ]
+    },
+    {
+     "pageid": 63602,
+     "ns": 0,
+     "title": "Halloween",
+     "templates": [
+      {
+       "ns": 10,
+       "title": "Template:Achievement icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Bullet"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Clear"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Cname"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Coin"
+      },
+      {
+       "ns": 10,
+       "title": "Template:EoD"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Event timer"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Game link"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Gww"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Halloween nav"
+      },
+      {
+       "ns": 10,
+       "title": "Template:HoT"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Item icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:JW"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Mail"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Map icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Map link"
+      },
+      {
+       "ns": 10,
+       "title": "Template:No"
+      },
+      {
+       "ns": 10,
+       "title": "Template:PoF"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Quotation"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Releases nav"
+      },
+      {
+       "ns": 10,
+       "title": "Template:STDT"
+      },
+      {
+       "ns": 10,
+       "title": "Template:See"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Silver"
+      },
+      {
+       "ns": 10,
+       "title": "Template:SotO"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Special events nav"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Trim"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Vendor"
+      },
+      {
+       "ns": 10,
+       "title": "Template:VoE"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Waypoint"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Waypoint result format"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Yes"
+      }
+     ]
+    },
+    {
+     "pageid": 71532,
+     "ns": 0,
+     "title": "Wintersday",
+     "templates": [
+      {
+       "ns": 10,
+       "title": "Template:Achievement"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Achievement icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Achievement result format"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Ap"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Bullet"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Clear"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Cname"
+      },
+      {
+       "ns": 10,
+       "title": "Template:EoD"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Event"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Event icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Event result format"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Gww"
+      },
+      {
+       "ns": 10,
+       "title": "Template:HoT"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Item icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:JW"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Karma"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Map icon"
+      },
+      {
+       "ns": 10,
+       "title": "Template:PoF"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Releases nav"
+      },
+      {
+       "ns": 10,
+       "title": "Template:STDT"
+      },
+      {
+       "ns": 10,
+       "title": "Template:See"
+      },
+      {
+       "ns": 10,
+       "title": "Template:SotO"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Special events nav"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Trim"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Vendor"
+      },
+      {
+       "ns": 10,
+       "title": "Template:VoE"
+      },
+      {
+       "ns": 10,
+       "title": "Template:Wintersday nav"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

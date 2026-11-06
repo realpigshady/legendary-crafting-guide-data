@@ -1,0 +1,54 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Category:Festivals]]|?Has release date|?Has canonical name|?Category|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has release date",
+     "key": "Has_release_date",
+     "redi": "",
+     "typeid": "_dat",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Category",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 0,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "22d9675cfd37a0fb85be974495927225",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.094642"
+   }
+  }
+ }
+}
