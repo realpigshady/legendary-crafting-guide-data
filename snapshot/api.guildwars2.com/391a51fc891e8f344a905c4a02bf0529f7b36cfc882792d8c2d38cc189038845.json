@@ -20,30 +20,6 @@
 "vendor_value": 256
 },
 {
-"chat_link": "[&AgHVTQAA]",
-"flags": [
-"AccountBound",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse",
-"DeleteWarning"
-],
-"game_types": [
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/AE16FCC326D80A3906B17B6A75E8A91980BE4670/434362.png",
-"id": 19925,
-"level": 0,
-"name": "Obsidian Shard",
-"rarity": "Legendary",
-"restrictions": [],
-"type": "Trophy",
-"vendor_value": 300
-},
-{
 "chat_link": "[&AgEITgAA]",
 "description": "Coins are used to create high-level weapons at the Mystic Forge in Lion's Arch. \nPart of Zommoros's favorite trades.",
 "flags": [
@@ -494,6 +470,26 @@
 "vendor_value": 37
 },
 {
+"chat_link": "[&AgEPXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CBC82EA8093AE4F60F0752B179F7CD02DDF5CB33/223781.png",
+"id": 24335,
+"level": 0,
+"name": "Pile of Putrid Essence",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 63
+},
+{
 "chat_link": "[&AgEVXwAA]",
 "flags": [
 "NoSalvage"
@@ -754,6 +750,58 @@
 "vendor_value": 9
 },
 {
+"chat_link": "[&AgGymAAA]",
+"details": {
+"minipet_id": 129
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3F9A1CA7C192FAFFDEE13E28A09AD8DA0F165FE4/534184.png",
+"id": 39090,
+"level": 0,
+"name": "Mini Risen Priest of Balthazar",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGeowAA]",
+"description": "A bubble of compressed baubles from Super Adventure Box. Trade these with Super Adventure Festival merchants.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/231E351E042921F8BE94B2E3717D2DF734D4B9F4/561863.png",
+"id": 41886,
+"level": 0,
+"name": "Bauble Bubble",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgF6sAAA]",
 "description": "Double-click to gain 200 luck.",
 "details": {
@@ -780,27 +828,6 @@
 "restrictions": [],
 "type": "Consumable",
 "vendor_value": 0
-},
-{
-"chat_link": "[&AgGbtgAA]",
-"description": "Used in the crafting of ascended items. Can be purchased from master craftsmen.",
-"flags": [
-"NoSalvage"
-],
-"game_types": [
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/090DF0E7AFD6AD9A6C9FC31CCE510A05663D0A0E/631495.png",
-"id": 46747,
-"level": 0,
-"name": "Thermocatalytic Reagent",
-"rarity": "Ascended",
-"restrictions": [],
-"type": "CraftingMaterial",
-"vendor_value": 80
 },
 {
 "chat_link": "[&AgGlvgAA]",
@@ -869,6 +896,34 @@
 "vendor_value": 37
 },
 {
+"chat_link": "[&AgFuwwAA]",
+"description": "Can be consumed for karma or exchanged for goods from Heirloom Lost and Found merchants in the Battle for Lion's Arch or the Durmand Priory in Lornar's Pass.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9E730AACF1D51352E4660A2C924306695795104E/740222.png",
+"id": 50030,
+"level": 0,
+"name": "Found Belonging",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
 "chat_link": "[&AgEACwEA]",
 "description": "Double-click to open. Contains 8 Obsidian Shards and 7 Mystic Clovers.",
 "details": {
@@ -897,6 +952,153 @@
 "restrictions": [],
 "type": "Container",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgGdFwEA]",
+"description": "Found in World vs. World reward tracks.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4D0455D2EFDB0DFC008F4564B38D6545901A05B/1206833.png",
+"id": 71581,
+"level": 80,
+"name": "Memory of Battle",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgEKXAEA]",
+"description": "Used to craft sigils.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BF26E2BE4C6F3F0F24194A0B0209800DB9E8D118/2063469.png",
+"id": 89098,
+"level": 0,
+"name": "Symbol of Control",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEPXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4B016CDF70960156803FD04C425BF9A4C382D95/2063466.png",
+"id": 89103,
+"level": 0,
+"name": "Charm of Brilliance",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgE1XAEA]",
+"description": "Used to craft sigils.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2B7554FA80CC0279F807BB66DD15F1D66FDDB6D5/2063468.png",
+"id": 89141,
+"level": 0,
+"name": "Symbol of Enhancement",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgFeXAEA]",
+"description": "Used to craft sigils.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ED0DC52CEEB4A22263EB25EAFDCF570E177F161C/2063464.png",
+"id": 89182,
+"level": 0,
+"name": "Symbol of Pain",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgGAXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F99BAAD3C841D8AC4E5C621972454E400E3CD85D/2063467.png",
+"id": 89216,
+"level": 0,
+"name": "Charm of Skill",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgGqXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2949679FC79B6808EB437A0434B59D5642D86BCC/2063465.png",
+"id": 89258,
+"level": 0,
+"name": "Charm of Potence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
 },
 {
 "chat_link": "[&AgG3XAEA]",
@@ -943,205 +1145,7 @@
 "restrictions": [],
 "type": "Trophy",
 "vendor_value": 0
-},
-{
-"chat_link": "[&AgEtbQEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Blood Legion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/3172EBBB98687244F06F0BF85DA4D10790E5EC74/2292710.png",
-"id": 93485,
-"level": 0,
-"name": "Blood Legion Reward Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgFEbQEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Iron Legion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/9970DF075906DAEDD3DC2773521D189DFC39FEBF/2292715.png",
-"id": 93508,
-"level": 0,
-"name": "Iron Legion Reward Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgFnbQEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Flame legion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/2CC2F0530E1EF7C61C412556DE2925B509C8C39C/2292714.png",
-"id": 93543,
-"level": 0,
-"name": "Flame Legion Reward Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgGGbQEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Ash Legion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/5876F65ED2984937CE4CF70406F5E3C780221A64/2292709.png",
-"id": 93574,
-"level": 0,
-"name": "Ash Legion Reward Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgFibgEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Frost Legion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/259EB10F057B00B39F93E022F7D02E36250B9134/2314069.png",
-"id": 93794,
-"level": 0,
-"name": "Frost Legion Spoils Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgGubgEA]",
-"description": "Double-click to open.\nContains 50 Dragonite Ore, 50 Empyreal Fragments, 2 Mystic Clovers, 8 Obsidian Shards, and a choice of valuable items from the Dominion.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/CF0C260A383410AB6B3969200E2CBCCDAD1354CA/2314068.png",
-"id": 93870,
-"level": 0,
-"name": "Dominion Spoils Box",
-"rarity": "Basic",
-"restrictions": [],
-"type": "Container",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgFFdgEA]",
-"description": "Used in the crafting of special items. Can be purchased from master craftspeople.",
-"flags": [
-"AccountBound",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/FF0EDBF868E8E5D53BDD9F4CC00DAAD5B6ABAD78/2597019.png",
-"id": 95813,
-"level": 0,
-"name": "Hydrocatalytic Reagent",
-"rarity": "Ascended",
-"restrictions": [],
-"type": "CraftingMaterial",
-"vendor_value": 80
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19721,19925,19976,20796,20799,24274,24275,24276,24277,24280,24281,24282,24283,24286,24287,24288,24289,24292,24293,24294,24295,24298,24299,24300,24341,24344,24345,24348,24349,24350,24351,24354,24355,24356,24357,24358,24363,45178,46747,48805,48806,48807,68352,89271,93012,93485,93508,93543,93574,93794,93870,95813"
+"url": "https://api.guildwars2.com/v2/items?ids=19721,19976,20796,20799,24274,24275,24276,24277,24280,24281,24282,24283,24286,24287,24288,24289,24292,24293,24294,24295,24298,24299,24300,24335,24341,24344,24345,24348,24349,24350,24351,24354,24355,24356,24357,24358,24363,39090,41886,45178,48805,48806,48807,50030,68352,71581,89098,89103,89141,89182,89216,89258,89271,93012"
 }
