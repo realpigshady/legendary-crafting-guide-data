@@ -2886,7 +2886,7 @@
 "expansion": "core",
 "guidance": {
 "text": "Public Instances: every 180 min (UTC 01:00, 04:00, 07:00, 10:00...; wiki event timer)",
-"waypoint_chat_code": "[&BDYQAAA=]",
+"waypoint_chat_code": "[&BB8QAAA=]",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Convergence%3A_Nexus_of_Eternity"
 },
 "id": "evt:public-con:nexus_of_eternity",
