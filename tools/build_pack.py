@@ -32,6 +32,7 @@ import wiki_pack as wp  # noqa: E402
 import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
+import ls3_currencies as ls3  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
@@ -443,6 +444,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
     # nearest waypoint per vendor (Crafting > Vendor button): wiki area -> API sector -> waypoint
     maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
+    stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps)}   # owner's per-map LS3 runs (config/ls3_currencies.json)
     def places(names: list[str]) -> dict[str, list[dict]]:
         try:
             return smw.get("place", names)
