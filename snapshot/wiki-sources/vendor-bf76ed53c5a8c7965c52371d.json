@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Cube of Stabilized Dark Energy",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -40,6 +44,9 @@
 "_subject": "Lyhr#vendor17"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Exotic Essence of Luck",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -36,6 +40,9 @@
 "_subject": "Lyhr#vendor35"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

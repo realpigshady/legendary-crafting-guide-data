@@ -1,12 +1,11 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Fraenir of Jormag",
 "kind": "rewards_of",
+"q": "8393d1bbac55",
 "rows": [
 {
-"Has game id": [
-77378
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -184,9 +183,7 @@
 "_subject": "Fraenir of Jormag#reward6"
 },
 {
-"Has game id": [
-106909
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -202,9 +199,7 @@
 "_subject": "Fraenir of Jormag#reward7"
 },
 {
-"Has game id": [
-84731
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],

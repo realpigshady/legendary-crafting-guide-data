@@ -1,9 +1,13 @@
 {
-"fetched": 1793659380.0302005,
+"fetched": 1794220049.4793684,
 "item": "Mystic Runestone",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -32,6 +36,9 @@
 "_subject": "Acolyte of Balance Dexx#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -62,6 +69,9 @@
 "_subject": "Astral Ward Agent Snarlcrow#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -92,6 +102,9 @@
 "_subject": "Historian Meliza#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -123,6 +136,9 @@
 "_subject": "Miyani#vendor13"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -154,6 +170,9 @@
 "_subject": "Miyani#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -198,6 +217,9 @@
 "_subject": "Mystic Forge Attendant#vendor13"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -242,6 +264,9 @@
 "_subject": "Mystic Forge Attendant#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -272,6 +297,9 @@
 "_subject": "Mystic Forge Keeper#vendor13"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -302,6 +330,9 @@
 "_subject": "Mystic Forge Keeper#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

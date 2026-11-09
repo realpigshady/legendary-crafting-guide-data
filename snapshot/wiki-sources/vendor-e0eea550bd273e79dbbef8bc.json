@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Crystalline Ore",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -36,6 +40,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor135"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -68,6 +75,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor136"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -100,6 +110,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor137"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -132,6 +145,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor138"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -164,6 +180,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor139"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -196,6 +215,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor140"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -228,6 +250,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor141"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -260,6 +285,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor142"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -290,6 +318,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor135"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -320,6 +351,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor136"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -350,6 +384,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor137"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -380,6 +417,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor138"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -410,6 +450,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor139"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -440,6 +483,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor140"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -470,6 +516,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor141"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -500,6 +549,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor142"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -530,6 +582,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor19"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -560,6 +615,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor20"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -590,6 +648,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor21"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -620,6 +681,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor22"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -650,6 +714,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor23"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -680,6 +747,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor24"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -710,6 +780,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor25"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -740,6 +813,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -771,6 +847,9 @@
 "_subject": "Sigurlina Jonsdottir#vendor20"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -801,6 +880,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor19"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -831,6 +913,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor20"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -861,6 +946,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor21"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -891,6 +979,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor22"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -921,6 +1012,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor23"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -951,6 +1045,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor24"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -981,6 +1078,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor25"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1011,6 +1111,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor26"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1041,6 +1144,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor135"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1071,6 +1177,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor136"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1101,6 +1210,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor137"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1131,6 +1243,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor138"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1161,6 +1276,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor139"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1191,6 +1309,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor140"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1221,6 +1342,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor141"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

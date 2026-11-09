@@ -62,10 +62,6 @@
 {
 "count": 1,
 "node_id": "item:71950"
-},
-{
-"count": 1,
-"node_id": "item:83008"
 }
 ]
 },
@@ -125,10 +121,6 @@
 1365
 ],
 "yields": [
-{
-"count": 1,
-"node_id": "item:83008"
-},
 {
 "count": 1,
 "node_id": "item:88046"
@@ -2671,6 +2663,10 @@
 {
 "count": 1,
 "node_id": "item:36461"
+},
+{
+"count": 1,
+"node_id": "item:83008"
 }
 ]
 },
@@ -2922,23 +2918,11 @@
 },
 {
 "count": 1,
-"node_id": "item:101213"
-},
-{
-"count": 1,
 "node_id": "item:110137"
 },
 {
 "count": 1,
 "node_id": "item:110220"
-},
-{
-"count": 2,
-"node_id": "item:36449"
-},
-{
-"count": 6,
-"node_id": "item:83008"
 }
 ]
 },
@@ -2984,6 +2968,18 @@
 {
 "count": 1,
 "node_id": "item:101185"
+},
+{
+"count": 1,
+"node_id": "item:101213"
+},
+{
+"count": 2,
+"node_id": "item:83008"
+},
+{
+"count": 1,
+"node_id": "item:84731"
 },
 {
 "count": 15,
@@ -4310,6 +4306,10 @@
 {
 "count": 10,
 "node_id": "currency:60"
+},
+{
+"count": 2,
+"node_id": "item:92288"
 }
 ]
 },
@@ -4390,10 +4390,6 @@
 {
 "count": 10,
 "node_id": "currency:60"
-},
-{
-"count": 1,
-"node_id": "item:92288"
 }
 ]
 },
@@ -4434,6 +4430,10 @@
 {
 "count": 10,
 "node_id": "currency:60"
+},
+{
+"count": 1,
+"node_id": "item:92288"
 }
 ]
 },
@@ -4621,15 +4621,7 @@
 },
 {
 "count": 1,
-"node_id": "item:106909"
-},
-{
-"count": 1,
 "node_id": "item:83008"
-},
-{
-"count": 2,
-"node_id": "item:84731"
 },
 {
 "count": 1,

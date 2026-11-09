@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Black Diamond",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -32,6 +36,9 @@
 "_subject": "Agent Dajan#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -60,6 +67,9 @@
 "_subject": "Agent Dajan#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -88,6 +98,9 @@
 "_subject": "Agent Dajan#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -116,6 +129,9 @@
 "_subject": "Agent Dajan#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -144,6 +160,9 @@
 "_subject": "Dalal#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -172,6 +191,9 @@
 "_subject": "Dalal#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -200,6 +222,9 @@
 "_subject": "Dalal#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -228,6 +253,9 @@
 "_subject": "Dalal#vendor28"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -254,6 +282,9 @@
 "_subject": "Dragon's Stand: Commander's Choice Chest#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -282,6 +313,9 @@
 "_subject": "Emeka#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -310,6 +344,9 @@
 "_subject": "Emeka#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -338,6 +375,9 @@
 "_subject": "Emeka#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -366,6 +406,9 @@
 "_subject": "Emeka#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -394,6 +437,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor183"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -422,6 +468,9 @@
 "_subject": "Halima#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -450,6 +499,9 @@
 "_subject": "Halima#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -478,6 +530,9 @@
 "_subject": "Halima#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -506,6 +561,9 @@
 "_subject": "Halima#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -534,6 +592,9 @@
 "_subject": "Imad#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -562,6 +623,9 @@
 "_subject": "Imad#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -590,6 +654,9 @@
 "_subject": "Imad#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -618,6 +685,9 @@
 "_subject": "Imad#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -646,6 +716,9 @@
 "_subject": "Kazi#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -674,6 +747,9 @@
 "_subject": "Kazi#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -702,6 +778,9 @@
 "_subject": "Kazi#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -730,6 +809,9 @@
 "_subject": "Kazi#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -758,6 +840,9 @@
 "_subject": "Kerrah#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -786,6 +871,9 @@
 "_subject": "Kerrah#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -814,6 +902,9 @@
 "_subject": "Kerrah#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -842,6 +933,9 @@
 "_subject": "Kerrah#vendor28"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -868,6 +962,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor183"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -894,6 +991,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor67"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -922,6 +1022,9 @@
 "_subject": "Priory Explorer Hozza#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -950,6 +1053,9 @@
 "_subject": "Priory Explorer Hozza#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -978,6 +1084,9 @@
 "_subject": "Priory Explorer Hozza#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1006,6 +1115,9 @@
 "_subject": "Priory Explorer Hozza#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1034,6 +1146,9 @@
 "_subject": "Tumelo#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1062,6 +1177,9 @@
 "_subject": "Tumelo#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1090,6 +1208,9 @@
 "_subject": "Tumelo#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1118,6 +1239,9 @@
 "_subject": "Tumelo#vendor28"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1146,6 +1270,9 @@
 "_subject": "Villager (merchant)#vendor37"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1174,6 +1301,9 @@
 "_subject": "Villager (merchant)#vendor38"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1202,6 +1332,9 @@
 "_subject": "Villager (merchant)#vendor39"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1230,6 +1363,9 @@
 "_subject": "Villager (merchant)#vendor40"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1256,6 +1392,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor67"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1282,6 +1421,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor183"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1310,6 +1452,9 @@
 "_subject": "Yonca#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1338,6 +1483,9 @@
 "_subject": "Yonca#vendor26"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1366,6 +1514,9 @@
 "_subject": "Yonca#vendor27"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

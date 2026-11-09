@@ -4241,37 +4241,6 @@
 "vendor_value": 0
 },
 {
-"chat_link": "[&AgHWSQEA]",
-"description": "Double-click to exchange for Living World Season 1 items.",
-"details": {
-"type": "Default",
-"vendor_ids": [
-549
-]
-},
-"flags": [
-"AccountBound",
-"NoSalvage",
-"NoSell",
-"DeleteWarning",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/AB7D723231106C11A173ECF1CC2D947EEEA1796C/1767458.png",
-"id": 84438,
-"level": 0,
-"name": "Black Lion Commemorative Sprocket",
-"rarity": "Rare",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
 "chat_link": "[&AgFlSgEA]",
 "description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
 "details": {
@@ -4691,36 +4660,6 @@
 "vendor_value": 8
 },
 {
-"chat_link": "[&AgGilQEA]",
-"description": "Double-click to pick your choice of rewards.\n\n<c=@flavor>\"Can we skip to the good part?\"</c>",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Pvp",
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/00AABCE916B695E81295E92D2A42ECC37E9039D5/3374827.png",
-"id": 103842,
-"level": 0,
-"name": "Convergence: Mount Balrior Commander's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
 "chat_link": "[&AgGLlwEA]",
 "description": "Can be spent at vendors in Mistburned Barrens or consumed to add 5 ursus obliges to your wallet.",
 "details": {
@@ -4772,36 +4711,6 @@
 "id": 104677,
 "level": 0,
 "name": "Crystal Oasis: Commander's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgEKmQEA]",
-"description": "Double-click to pick your choice of rewards.\n\n<c=@flavor>\"We have a titan to knock down a peg or two.\"</c>",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Pvp",
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/00AABCE916B695E81295E92D2A42ECC37E9039D5/3374827.png",
-"id": 104714,
-"level": 0,
-"name": "Bava Nisos: Commander's Choice Chest",
 "rarity": "Exotic",
 "restrictions": [],
 "type": "Gizmo",
@@ -4922,7 +4831,93 @@
 "restrictions": [],
 "type": "Gizmo",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgF9mQEA]",
+"description": "Can be spent at vendors in Bava Nisos or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/96EF0A1708920D059FAFAAF05AFE18FD1CF39504/3630025.png",
+"id": 104829,
+"level": 0,
+"name": "Curious Mursaat Remnants",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF/mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE1D62A95F57470D61E15D47D20159D8E2BB18FB/3122157.png",
+"id": 104831,
+"level": 0,
+"name": "Skywatch Archipelago: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DC26975002D02B68BEF2A46EF2A89E7243FD63/1424065.png",
+"id": 104838,
+"level": 0,
+"name": "Verdant Brink: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=12134,12135,12142,12144,12147,12161,12162,12163,12234,12236,12238,12241,12243,12244,12246,12247,12248,12253,12254,12255,12329,12330,12331,12332,12333,12334,12335,12336,12341,12342,12504,12505,12506,12507,12508,12509,12510,12511,12512,12532,12533,12534,12535,12536,12537,12538,12546,12547,12834,19663,19679,19697,19698,19699,19700,19701,19702,19703,19713,19722,19723,19724,19725,19726,19727,19729,19731,19733,19734,19745,19747,19750,19919,19923,19924,23043,24273,24280,24281,24282,24286,24287,24292,24293,24294,24298,24299,24304,24309,24314,24319,24324,24329,24334,24339,24341,24344,24345,24348,24349,24350,24354,24355,24356,24363,24473,24474,24500,24511,24519,24521,24874,36059,36060,36061,36731,37907,38023,38134,41824,42006,43773,45177,45832,46506,46507,46508,46509,46510,46511,46644,46645,46646,46731,46732,46734,46742,46744,46745,46752,50071,50073,66522,66524,66637,67222,69392,69432,69434,70718,70820,71201,71692,71952,71994,72205,72421,72579,73096,73113,73248,73504,73537,73596,74090,74202,74328,74356,74681,75542,75694,76076,76254,82495,82866,84438,84581,84765,86601,89103,89140,89216,89258,95673,102255,102503,102558,102655,102818,102881,103279,103427,103842,104331,104677,104714,104728,104740,104751,104756"
+"url": "https://api.guildwars2.com/v2/items?ids=12134,12135,12142,12144,12147,12161,12162,12163,12234,12236,12238,12241,12243,12244,12246,12247,12248,12253,12254,12255,12329,12330,12331,12332,12333,12334,12335,12336,12341,12342,12504,12505,12506,12507,12508,12509,12510,12511,12512,12532,12533,12534,12535,12536,12537,12538,12546,12547,12834,19663,19679,19697,19698,19699,19700,19701,19702,19703,19713,19722,19723,19724,19725,19726,19727,19729,19731,19733,19734,19745,19747,19750,19919,19923,19924,23043,24273,24280,24281,24282,24286,24287,24292,24293,24294,24298,24299,24304,24309,24314,24319,24324,24329,24334,24339,24341,24344,24345,24348,24349,24350,24354,24355,24356,24363,24473,24474,24500,24511,24519,24521,24874,36059,36060,36061,36731,37907,38023,38134,41824,42006,43773,45177,45832,46506,46507,46508,46509,46510,46511,46644,46645,46646,46731,46732,46734,46742,46744,46745,46752,50071,50073,66522,66524,66637,67222,69392,69432,69434,70718,70820,71201,71692,71952,71994,72205,72421,72579,73096,73113,73248,73504,73537,73596,74090,74202,74328,74356,74681,75542,75694,76076,76254,82495,82866,84581,84765,86601,89103,89140,89216,89258,95673,102255,102503,102558,102655,102818,102881,103279,103427,104331,104677,104728,104740,104751,104756,104829,104831,104838"
 }

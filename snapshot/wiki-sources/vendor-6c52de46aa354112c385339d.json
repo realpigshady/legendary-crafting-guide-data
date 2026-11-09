@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220049.4793684,
 "item": "Glob of Ectoplasm",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -39,6 +43,9 @@
 "_subject": "Candy Corn Vendor (Weekly)#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -74,6 +81,9 @@
 "_subject": "Candy Corn Vendor (Weekly)#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

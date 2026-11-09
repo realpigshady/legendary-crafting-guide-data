@@ -1,5 +1,5 @@
 {
-"fetched": 1793698553.9948075,
+"fetched": 1794220789.137561,
 "item": "Shadowstone Fragment",
 "kind": "rewarded",
 "q": "958df4846024",
@@ -339,6 +339,25 @@
 "Shadowstone Fragment"
 ],
 "_subject": "Release souls from the feretory#reward13"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Return the residual magic to the plants and coral in the area"
+],
+"Rewards item": [
+"Shadowstone Fragment"
+],
+"_subject": "Return the residual magic to the plants and coral in the area#reward3"
 },
 {
 "Has context": [

@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Vision Crystal",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -30,6 +34,9 @@
 "_subject": "Black Lion Commemorative Sprocket#vendor20"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

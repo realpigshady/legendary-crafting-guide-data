@@ -1,9 +1,13 @@
 {
-"fetched": 1793659380.0302005,
+"fetched": 1794220049.4793684,
 "item": "Funerary Incense",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -46,6 +50,9 @@
 "_subject": "Amusement Adjunct Cagri#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -88,6 +95,9 @@
 "_subject": "Awakened Servant Tooraj#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -130,6 +140,9 @@
 "_subject": "Director Abioye Bayu#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -172,6 +185,9 @@
 "_subject": "Distinguished Professor Nazimi#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -214,6 +230,9 @@
 "_subject": "Embalmer Boran#vendor4"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -256,6 +275,9 @@
 "_subject": "Fallen Awakened Soldier#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -296,6 +318,9 @@
 "_subject": "Primeval Steward#vendor23"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -336,6 +361,9 @@
 "_subject": "Primeval Steward#vendor24"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 5
 ],
@@ -366,6 +394,9 @@
 "_subject": "Primeval Steward#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],
@@ -408,6 +439,9 @@
 "_subject": "Prince Bakkal#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [
 1
 ],

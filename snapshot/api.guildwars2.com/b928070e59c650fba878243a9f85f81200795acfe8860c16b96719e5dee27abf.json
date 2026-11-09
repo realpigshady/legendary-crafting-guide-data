@@ -820,37 +820,6 @@
 "vendor_value": 66
 },
 {
-"chat_link": "[&AgHWSQEA]",
-"description": "Double-click to exchange for Living World Season 1 items.",
-"details": {
-"type": "Default",
-"vendor_ids": [
-549
-]
-},
-"flags": [
-"AccountBound",
-"NoSalvage",
-"NoSell",
-"DeleteWarning",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/AB7D723231106C11A173ECF1CC2D947EEEA1796C/1767458.png",
-"id": 84438,
-"level": 0,
-"name": "Black Lion Commemorative Sprocket",
-"rarity": "Rare",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
 "chat_link": "[&AgFUawEA]",
 "description": "In the Mystic Forge, combine Slumbering Transcendence, 250 Unidentified Dyes, an Emblem of Tournament Victory, and an Essence of Llamatic Elegance to create Transcendence.",
 "flags": [
@@ -1166,5 +1135,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68352,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,84438,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
+"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68352,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
 }

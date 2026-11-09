@@ -1,7 +1,8 @@
 {
-"fetched": 1793661133.6594296,
+"fetched": 1794221970.428201,
 "item": "Basic Salvage Kit",
 "kind": "rewarded",
+"q": "958df4846024",
 "rows": [
 {
 "Has context": [
@@ -306,6 +307,23 @@
 "Basic Salvage Kit"
 ],
 "_subject": "No Negotiations#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Personal story rewards"
+],
+"Rewards item": [
+"Basic Salvage Kit"
+],
+"_subject": "Personal story rewards#reward12"
 },
 {
 "Has context": [

@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Tribute to the Man o' War",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -32,6 +36,9 @@
 "_subject": "Alaleh#vendor23"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -60,6 +67,9 @@
 "_subject": "Ethall#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -89,6 +99,9 @@
 "_subject": "Exalted Mastery Vendor#vendor65"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -117,6 +130,9 @@
 "_subject": "Follower Xunn#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -147,6 +163,9 @@
 "_subject": "Itzel Mastery Vendor#vendor61"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -175,6 +194,9 @@
 "_subject": "Karnn Fallenskull#vendor32"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -203,6 +225,9 @@
 "_subject": "Kisha Odili#vendor40"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -231,6 +256,9 @@
 "_subject": "Kynon#vendor33"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -259,6 +287,9 @@
 "_subject": "Melilla#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -287,6 +318,9 @@
 "_subject": "Nalar#vendor33"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -318,6 +352,9 @@
 "_subject": "Natto#vendor20"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -349,6 +386,9 @@
 "_subject": "Nuhoch Mastery Vendor#vendor62"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -377,6 +417,9 @@
 "_subject": "Nuhoch Stomper (Ley-Line Crystal Collector)#vendor62"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -405,6 +448,9 @@
 "_subject": "Priestess Karima#vendor56"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -433,6 +479,9 @@
 "_subject": "Provisioner Anlana#vendor16"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -461,6 +510,9 @@
 "_subject": "Quartermaster Hitchens#vendor20"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -490,6 +542,9 @@
 "_subject": "Rally Provisioner#vendor32"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -518,6 +573,9 @@
 "_subject": "Scholar Surra#vendor14"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -546,6 +604,9 @@
 "_subject": "Slooshoo#vendor25"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -574,6 +635,9 @@
 "_subject": "Supplymaster Hanjo#vendor24"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -602,6 +666,9 @@
 "_subject": "Tendaji#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -630,6 +697,9 @@
 "_subject": "Tenoch#vendor62"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -658,6 +728,9 @@
 "_subject": "Trader Hyacinth#vendor40"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -686,6 +759,9 @@
 "_subject": "Traveling Elonian Trader#vendor33"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

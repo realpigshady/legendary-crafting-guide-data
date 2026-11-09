@@ -1,10 +1,14 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Dragon Response Mission: Caledon Forest",
 "kind": "rewards_of",
+"q": "8393d1bbac55",
 "rows": [
 {
-"Has game id": [],
+"Has game id": [
+92288,
+92356
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],

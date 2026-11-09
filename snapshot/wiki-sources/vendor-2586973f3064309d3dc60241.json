@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220049.4793684,
 "item": "Bauble Bubble",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"Object"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -30,6 +34,9 @@
 "_subject": "Coin Machine#vendor2"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -58,6 +65,9 @@
 "_subject": "Moto#vendor2"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -88,6 +98,9 @@
 "_subject": "Super Adventure Box Trader#vendor52"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

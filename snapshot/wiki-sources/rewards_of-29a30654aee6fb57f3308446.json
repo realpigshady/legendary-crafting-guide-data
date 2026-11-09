@@ -1,7 +1,8 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Kill the Svanir shaman chief to break his control over the ice elemental",
 "kind": "rewards_of",
+"q": "8393d1bbac55",
 "rows": [
 {
 "Has game id": [
@@ -22,9 +23,7 @@
 "_subject": "Kill the Svanir shaman chief to break his control over the ice elemental#reward1"
 },
 {
-"Has game id": [
-83008
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],

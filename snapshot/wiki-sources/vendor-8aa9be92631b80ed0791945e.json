@@ -1,9 +1,13 @@
 {
-"fetched": 1793659673.7308118,
+"fetched": 1794221266.2884018,
 "item": "Chak Egg",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -32,6 +36,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor175"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -58,6 +65,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor175"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -84,6 +94,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor59"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -110,6 +123,9 @@
 "_subject": "Tangled Depths: Commander's Choice Chest#vendor4"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -136,6 +152,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor59"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

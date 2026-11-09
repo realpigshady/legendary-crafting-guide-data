@@ -1,7 +1,8 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Convergence: Outer Nayos",
 "kind": "rewards_of",
+"q": "8393d1bbac55",
 "rows": [
 {
 "Has game id": [
@@ -22,7 +23,9 @@
 "_subject": "Convergence: Outer Nayos#reward1"
 },
 {
-"Has game id": [],
+"Has game id": [
+100363
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -38,7 +41,9 @@
 "_subject": "Convergence: Outer Nayos#reward10"
 },
 {
-"Has game id": [],
+"Has game id": [
+100649
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -54,7 +59,9 @@
 "_subject": "Convergence: Outer Nayos#reward11"
 },
 {
-"Has game id": [],
+"Has game id": [
+100289
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -70,7 +77,9 @@
 "_subject": "Convergence: Outer Nayos#reward12"
 },
 {
-"Has game id": [],
+"Has game id": [
+100251
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -86,7 +95,9 @@
 "_subject": "Convergence: Outer Nayos#reward13"
 },
 {
-"Has game id": [],
+"Has game id": [
+100424
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -102,7 +113,9 @@
 "_subject": "Convergence: Outer Nayos#reward14"
 },
 {
-"Has game id": [],
+"Has game id": [
+100539
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -118,7 +131,9 @@
 "_subject": "Convergence: Outer Nayos#reward15"
 },
 {
-"Has game id": [],
+"Has game id": [
+100006
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -134,7 +149,9 @@
 "_subject": "Convergence: Outer Nayos#reward16"
 },
 {
-"Has game id": [],
+"Has game id": [
+100124
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -150,7 +167,9 @@
 "_subject": "Convergence: Outer Nayos#reward17"
 },
 {
-"Has game id": [],
+"Has game id": [
+100630
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -166,7 +185,9 @@
 "_subject": "Convergence: Outer Nayos#reward18"
 },
 {
-"Has game id": [],
+"Has game id": [
+100229
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -182,7 +203,9 @@
 "_subject": "Convergence: Outer Nayos#reward19"
 },
 {
-"Has game id": [],
+"Has game id": [
+69910
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -198,7 +221,9 @@
 "_subject": "Convergence: Outer Nayos#reward2"
 },
 {
-"Has game id": [],
+"Has game id": [
+100084
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -214,7 +239,9 @@
 "_subject": "Convergence: Outer Nayos#reward20"
 },
 {
-"Has game id": [],
+"Has game id": [
+100929
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -230,7 +257,9 @@
 "_subject": "Convergence: Outer Nayos#reward21"
 },
 {
-"Has game id": [],
+"Has game id": [
+100218
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -372,7 +401,9 @@
 "_subject": "Convergence: Outer Nayos#reward29"
 },
 {
-"Has game id": [],
+"Has game id": [
+84731
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -568,7 +599,9 @@
 "_subject": "Convergence: Outer Nayos#reward39"
 },
 {
-"Has game id": [],
+"Has game id": [
+83410
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -764,7 +797,9 @@
 "_subject": "Convergence: Outer Nayos#reward49"
 },
 {
-"Has game id": [],
+"Has game id": [
+68063
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -960,7 +995,10 @@
 "_subject": "Convergence: Outer Nayos#reward59"
 },
 {
-"Has game id": [],
+"Has game id": [
+99967,
+101170
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -1028,7 +1066,11 @@
 "_subject": "Convergence: Outer Nayos#reward62"
 },
 {
-"Has game id": [],
+"Has game id": [
+101844,
+104818,
+110060
+],
 "Has rewarded item chance": [
 "Silver daily"
 ],
@@ -1044,7 +1086,11 @@
 "_subject": "Convergence: Outer Nayos#reward63"
 },
 {
-"Has game id": [],
+"Has game id": [
+101922,
+104984,
+110073
+],
 "Has rewarded item chance": [
 "Bronze daily"
 ],
@@ -1060,7 +1106,9 @@
 "_subject": "Convergence: Outer Nayos#reward64"
 },
 {
-"Has game id": [],
+"Has game id": [
+101213
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -1076,7 +1124,9 @@
 "_subject": "Convergence: Outer Nayos#reward65"
 },
 {
-"Has game id": [],
+"Has game id": [
+83008
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -1120,7 +1170,10 @@
 "_subject": "Convergence: Outer Nayos#reward67"
 },
 {
-"Has game id": [],
+"Has game id": [
+100078,
+104747
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -1136,7 +1189,10 @@
 "_subject": "Convergence: Outer Nayos#reward68"
 },
 {
-"Has game id": [],
+"Has game id": [
+100414,
+104773
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -1152,7 +1208,9 @@
 "_subject": "Convergence: Outer Nayos#reward69"
 },
 {
-"Has game id": [],
+"Has game id": [
+100652
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -1168,7 +1226,10 @@
 "_subject": "Convergence: Outer Nayos#reward7"
 },
 {
-"Has game id": [],
+"Has game id": [
+100055,
+105009
+],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -1330,7 +1391,9 @@
 "_subject": "Convergence: Outer Nayos#reward79"
 },
 {
-"Has game id": [],
+"Has game id": [
+100963
+],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -1346,7 +1409,9 @@
 "_subject": "Convergence: Outer Nayos#reward8"
 },
 {
-"Has game id": [],
+"Has game id": [
+100762
+],
 "Has rewarded item chance": [
 "Chance"
 ],

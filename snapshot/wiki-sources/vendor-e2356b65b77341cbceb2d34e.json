@@ -1,7 +1,8 @@
 {
-"fetched": 1793661175.6355114,
+"fetched": 1794222013.9743438,
 "item": "Mystic Forge Stone",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
 "Has context": [],
@@ -28,7 +29,7 @@
 "Sells item": [
 "Mystic Forge Stone"
 ],
-"_subject": "Gem Store/data#gemstore460"
+"_subject": "Gem Store/data#gemstore462"
 },
 {
 "Has context": [],
@@ -55,7 +56,7 @@
 "Sells item": [
 "Mystic Forge Stone"
 ],
-"_subject": "Gem Store/data#gemstore461"
+"_subject": "Gem Store/data#gemstore463"
 }
 ]
 }

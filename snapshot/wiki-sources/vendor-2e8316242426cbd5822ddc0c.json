@@ -1,9 +1,13 @@
 {
-"fetched": 1793659673.7308118,
+"fetched": 1794221266.2884018,
 "item": "Bottle of Airship Oil",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -30,6 +34,9 @@
 "_subject": "Dragon's Stand: Commander's Choice Chest#vendor3"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -58,6 +65,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor161"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -86,6 +96,9 @@
 "_subject": "Gharr Leadclaw/Bulk Exchanges#vendor180"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -112,6 +125,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor161"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -138,6 +154,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Bulk Exchanges#vendor180"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -164,6 +183,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor45"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -190,6 +212,9 @@
 "_subject": "Portable Wizard's Tower Exchange/Heart of Maguuma Exchanges#vendor64"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -216,6 +241,9 @@
 "_subject": "Verdant Brink: Commander's Choice Chest#vendor2"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -242,6 +270,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor45"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -268,6 +299,9 @@
 "_subject": "Wizard's Gobbler/Heart of Maguuma#vendor64"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -294,6 +328,9 @@
 "_subject": "Wizard's Gobbler/Horn of Maguuma/Bulk Exchanges#vendor161"
 },
 {
+"Has context": [
+"Item"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

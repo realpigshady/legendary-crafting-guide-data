@@ -2214,36 +2214,6 @@
 "vendor_value": 8
 },
 {
-"chat_link": "[&AgGilQEA]",
-"description": "Double-click to pick your choice of rewards.\n\n<c=@flavor>\"Can we skip to the good part?\"</c>",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Pvp",
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/00AABCE916B695E81295E92D2A42ECC37E9039D5/3374827.png",
-"id": 103842,
-"level": 0,
-"name": "Convergence: Mount Balrior Commander's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
 "chat_link": "[&AgGzlwEA]",
 "description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
 "details": {
@@ -2323,36 +2293,6 @@
 "id": 104677,
 "level": 0,
 "name": "Crystal Oasis: Commander's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgEKmQEA]",
-"description": "Double-click to pick your choice of rewards.\n\n<c=@flavor>\"We have a titan to knock down a peg or two.\"</c>",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Pvp",
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/00AABCE916B695E81295E92D2A42ECC37E9039D5/3374827.png",
-"id": 104714,
-"level": 0,
-"name": "Bava Nisos: Commander's Choice Chest",
 "rarity": "Exotic",
 "restrictions": [],
 "type": "Gizmo",
@@ -2850,66 +2790,7 @@
 "restrictions": [],
 "type": "Gizmo",
 "vendor_value": 0
-},
-{
-"chat_link": "[&AgE5rgEA]",
-"description": "Double-click to pick your choice of rewards.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"Pvp",
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/00AABCE916B695E81295E92D2A42ECC37E9039D5/3374827.png",
-"id": 110137,
-"level": 0,
-"name": "Convergence: Nexus of Eternity Commander's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
-},
-{
-"chat_link": "[&AgF9rgEA]",
-"description": "Double-click to open.\nContains materials from Castora.",
-"details": {
-"type": "Default"
-},
-"flags": [
-"AccountBound",
-"NoMysticForge",
-"NoSalvage",
-"NoSell",
-"AccountBindOnUse"
-],
-"game_types": [
-"PvpLobby",
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/2098DC55D139B2A209D3E50FA14BA09BC20DB6EB/3708799.png",
-"id": 110205,
-"level": 0,
-"name": "Leyspring Hollows: Hero's Choice Chest",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Gizmo",
-"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=8576,12138,12144,12156,12158,12166,12181,12196,12236,12271,12279,12283,12339,12340,12472,12504,12505,12528,12542,12544,12545,19663,19681,19683,19684,19688,19701,19711,19712,19713,19714,19732,19733,19734,19735,19736,19740,19742,19744,24274,24275,24276,24282,24285,24293,24299,24309,24318,24325,24330,24335,24340,24345,24349,24356,24359,24360,36059,36060,36061,36782,38023,38216,39090,39125,41572,41886,45175,45176,46731,46740,46742,46744,46745,50030,66522,66524,67222,70801,70842,71123,71655,71787,73196,73236,73248,75744,76840,82866,87289,102467,102487,102494,102655,102818,102881,103038,103103,103427,103842,104371,104411,104677,104714,104728,104740,104751,104756,104831,104838,104856,104879,104883,104888,104897,104906,104911,104945,104961,104993,105001,110137,110205"
+"url": "https://api.guildwars2.com/v2/items?ids=8576,12138,12144,12156,12158,12166,12181,12196,12236,12271,12279,12283,12339,12340,12472,12504,12505,12528,12542,12544,12545,19663,19681,19683,19684,19688,19701,19711,19712,19713,19714,19732,19733,19734,19735,19736,19740,19742,19744,24274,24275,24276,24282,24285,24293,24299,24309,24318,24325,24330,24335,24340,24345,24349,24356,24359,24360,36059,36060,36061,36782,38023,38216,39090,39125,41572,41886,45175,45176,46731,46740,46742,46744,46745,50030,66522,66524,67222,70801,70842,71123,71655,71787,73196,73236,73248,75744,76840,82866,87289,102467,102487,102494,102655,102818,102881,103038,103103,103427,104371,104411,104677,104728,104740,104751,104756,104831,104838,104856,104879,104883,104888,104897,104906,104911,104945,104961,104993,105001"
 }

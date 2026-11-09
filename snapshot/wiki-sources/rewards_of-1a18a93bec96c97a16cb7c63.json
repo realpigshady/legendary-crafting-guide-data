@@ -1,6 +1,26 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Defeat the enemy spawned by the fractal incursion",
 "kind": "rewards_of",
-"rows": []
+"q": "8393d1bbac55",
+"rows": [
+{
+"Has game id": [
+83008
+],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Defeat the enemy spawned by the fractal incursion"
+],
+"Rewards item": [
+"Piece of Rare Unidentified Gear"
+],
+"_subject": "Defeat the enemy spawned by the fractal incursion#reward1"
+}
+]
 }

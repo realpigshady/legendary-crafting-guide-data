@@ -1,9 +1,13 @@
 {
-"fetched": 1793659673.7308118,
+"fetched": 1794221266.2884018,
 "item": "Shard of Glory",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

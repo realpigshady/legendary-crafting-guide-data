@@ -1,9 +1,13 @@
 {
-"fetched": 1793659380.0302005,
+"fetched": 1794220049.4793684,
 "item": "Mystic Clover",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -47,6 +51,9 @@
 "_subject": "BUY-4373#vendor11"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -89,6 +96,9 @@
 "_subject": "Basic Magnetite Exchange Operative#vendor188"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -131,6 +141,9 @@
 "_subject": "Dugan#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -174,6 +187,9 @@
 "_subject": "League Vendor#vendor53"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -217,6 +233,9 @@
 "_subject": "League Vendor#vendor55"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -257,6 +276,9 @@
 "_subject": "Lyhr#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -299,6 +321,9 @@
 "_subject": "Manfred Njallson#vendor10"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -342,6 +367,9 @@
 "_subject": "Miyani#vendor16"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -398,6 +426,9 @@
 "_subject": "Mystic Forge Attendant#vendor16"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -440,6 +471,9 @@
 "_subject": "Mystic Forge Keeper#vendor16"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -472,6 +506,9 @@
 "_subject": "New Year Rewards#vendor5"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

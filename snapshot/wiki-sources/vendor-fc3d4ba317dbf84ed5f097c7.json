@@ -1,9 +1,54 @@
 {
-"fetched": 1793659673.7308118,
+"fetched": 1794220527.8829741,
 "item": "Gibbering Skull",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chattering Skull",
+"Has item value": "1000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the festival [[Halloween]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Candy Corn Vendor"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Village of Shaemoor",
+"Snowlord's Gate",
+"Village of Smokestead",
+"Grand Piazza",
+"Fort Marriner",
+"Trader's Forum",
+"Inner Harbor",
+"Village of Astorea",
+"Soren Draa"
+],
+"Sells item": [
+"Gibbering Skull"
+],
+"_subject": "Candy Corn Vendor#vendor44"
+},
+{
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

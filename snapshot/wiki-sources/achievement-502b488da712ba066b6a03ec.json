@@ -1,13 +1,14 @@
 {
-"fetched": 1793659576.0212657,
+"fetched": 1794220649.1099315,
 "item": "Amalgamated Gemstone",
 "kind": "achievement",
+"q": "079d586901b9",
 "rows": [
 {
 "Gives item": [
-"Amalgamated Gemstone",
+"Recipe: Prismatium Ingot",
 "Prismaticite Crystal",
-"Recipe: Prismatium Ingot"
+"Amalgamated Gemstone"
 ],
 "Gives item quantity": [],
 "Has achievement page": [

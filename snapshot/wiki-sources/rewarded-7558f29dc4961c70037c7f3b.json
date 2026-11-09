@@ -1,5 +1,5 @@
 {
-"fetched": 1793698840.0996466,
+"fetched": 1794221441.580342,
 "item": "Curious Mursaat Remnants",
 "kind": "rewarded",
 "q": "958df4846024",
@@ -210,6 +210,25 @@
 "Curious Mursaat Remnants"
 ],
 "_subject": "Use debris in the environment to help destroy the titan organ sacs#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1-2"
+],
+"Rewarded by": [
+"Use medicine to reduce the titan's inflammation and open the pathway"
+],
+"Rewards item": [
+"Curious Mursaat Remnants"
+],
+"_subject": "Use medicine to reduce the titan's inflammation and open the pathway#reward1"
 }
 ]
 }

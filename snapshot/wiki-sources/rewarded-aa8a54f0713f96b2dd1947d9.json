@@ -1,5 +1,5 @@
 {
-"fetched": 1793698840.0996466,
+"fetched": 1794221441.580342,
 "item": "Lowland Shore Renown Token",
 "kind": "rewarded",
 "q": "958df4846024",
@@ -421,6 +421,25 @@
 "Lowland Shore Renown Token"
 ],
 "_subject": "Lowland Shore Fishing Tournament#reward8"
+},
+{
+"Has context": [
+"Adventure"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Lowland Shore: Warclaw Run"
+],
+"Rewards item": [
+"Lowland Shore Renown Token"
+],
+"_subject": "Lowland Shore: Warclaw Run#reward7"
 },
 {
 "Has context": [

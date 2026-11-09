@@ -1,9 +1,13 @@
 {
-"fetched": 1793659673.7308118,
+"fetched": 1794220527.8829741,
 "item": "Bauble",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -34,6 +38,9 @@
 "_subject": "Super Adventure Box Trader#vendor56"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -64,6 +71,9 @@
 "_subject": "Super Adventure Box Trader#vendor57"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -94,6 +104,9 @@
 "_subject": "Super Adventure Box Trader#vendor58"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -124,6 +137,9 @@
 "_subject": "Super Adventure Box Trader#vendor59"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -154,6 +170,9 @@
 "_subject": "Super Adventure Box Trader#vendor60"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -184,6 +203,9 @@
 "_subject": "Super Adventure Box Trader#vendor61"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -214,6 +236,9 @@
 "_subject": "Super Adventure Box Trader#vendor62"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -244,6 +269,9 @@
 "_subject": "Super Adventure Box Trader#vendor63"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -274,6 +302,9 @@
 "_subject": "Super Adventure Box Trader#vendor64"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -304,6 +335,9 @@
 "_subject": "Super Adventure Box Trader#vendor65"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

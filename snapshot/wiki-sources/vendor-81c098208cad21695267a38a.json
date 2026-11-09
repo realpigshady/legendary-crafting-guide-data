@@ -1,9 +1,13 @@
 {
-"fetched": 1793659380.0302005,
+"fetched": 1794220049.4793684,
 "item": "Icy Runestone",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -32,6 +36,9 @@
 "_subject": "Rojan the Penitent#vendor1"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

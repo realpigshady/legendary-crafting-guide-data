@@ -1,9 +1,13 @@
 {
-"fetched": 1793659380.0302005,
+"fetched": 1794220049.4793684,
 "item": "Gift of the Raven Spirit",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

@@ -1,9 +1,13 @@
 {
-"fetched": 1793659486.1372185,
+"fetched": 1794220527.8829741,
 "item": "Thermocatalytic Reagent",
 "kind": "vendor",
+"q": "d02facdde0bc",
 "rows": [
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -33,6 +37,9 @@
 "_subject": "Abram#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -61,6 +68,9 @@
 "_subject": "Aggo#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -89,6 +99,9 @@
 "_subject": "Alisa#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -117,6 +130,9 @@
 "_subject": "Aluta#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -145,6 +161,9 @@
 "_subject": "Annil Hidestrike#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -173,6 +192,9 @@
 "_subject": "Apprentice (armorsmithing)#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -201,6 +223,9 @@
 "_subject": "Apprentice (artificing)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -229,6 +254,9 @@
 "_subject": "Apprentice (huntsman)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -257,6 +285,9 @@
 "_subject": "Apprentice (leatherworking)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -285,6 +316,9 @@
 "_subject": "Apprentice (tailoring)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -313,6 +347,9 @@
 "_subject": "Apprentice (weaponsmithing)#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -341,6 +378,9 @@
 "_subject": "Armorer Pearl#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -369,6 +409,9 @@
 "_subject": "Armorer Vaxxa#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -397,6 +440,9 @@
 "_subject": "Armorsmith (Aerodrome)#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -425,6 +471,9 @@
 "_subject": "Armorsmith Lykaios#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -453,6 +502,9 @@
 "_subject": "Arone#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -481,6 +533,9 @@
 "_subject": "Arriske#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -509,6 +564,9 @@
 "_subject": "Artificer (Aerodrome)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -537,6 +595,9 @@
 "_subject": "Artificer Gisela#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -565,6 +626,9 @@
 "_subject": "Arturis#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -593,6 +657,9 @@
 "_subject": "Ashlynn#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -621,6 +688,9 @@
 "_subject": "Atalia Steelshaper#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -649,6 +719,9 @@
 "_subject": "Ater#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -677,6 +750,9 @@
 "_subject": "Ballistics Genius Virkk#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -705,6 +781,9 @@
 "_subject": "Bela#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -733,6 +812,9 @@
 "_subject": "Bert#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -761,6 +843,9 @@
 "_subject": "Braugh Steelfoot#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -790,6 +875,9 @@
 "_subject": "Brencis#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -818,6 +906,9 @@
 "_subject": "Briain#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -846,6 +937,9 @@
 "_subject": "Briar#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -874,6 +968,9 @@
 "_subject": "Bronden#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -902,6 +999,9 @@
 "_subject": "Caala#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -930,6 +1030,9 @@
 "_subject": "Carsonn#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -958,6 +1061,9 @@
 "_subject": "Cathilla#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -986,6 +1092,9 @@
 "_subject": "Cedar#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1014,6 +1123,9 @@
 "_subject": "Ceridwen#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1042,6 +1154,9 @@
 "_subject": "Costumer Marla#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1070,6 +1185,9 @@
 "_subject": "Craftmage Cerr#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1098,6 +1216,9 @@
 "_subject": "Crusader Armtree#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1126,6 +1247,9 @@
 "_subject": "Crusader Barrett#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1154,6 +1278,9 @@
 "_subject": "Crusader Cheronne#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1182,6 +1309,9 @@
 "_subject": "Crusader Jerrick#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1210,6 +1340,9 @@
 "_subject": "Crut#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1241,6 +1374,9 @@
 "_subject": "Cullen#vendor18"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1269,6 +1405,9 @@
 "_subject": "Danala#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1297,6 +1436,9 @@
 "_subject": "Dinaden#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1325,6 +1467,9 @@
 "_subject": "Dolyak Specialist Kovik#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1353,6 +1498,9 @@
 "_subject": "Dordrag#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1381,6 +1529,9 @@
 "_subject": "Draiocht#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1409,6 +1560,9 @@
 "_subject": "Drogan Delwan#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1437,6 +1591,9 @@
 "_subject": "Duman#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1465,6 +1622,9 @@
 "_subject": "Dunn#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1493,6 +1653,9 @@
 "_subject": "Edrar#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1521,6 +1684,9 @@
 "_subject": "Ella#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1549,6 +1715,9 @@
 "_subject": "Eren#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1577,6 +1746,9 @@
 "_subject": "Eridwen#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1605,6 +1777,9 @@
 "_subject": "Evarra#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1633,6 +1808,9 @@
 "_subject": "Explosives Visionary Pirakk#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1661,6 +1839,9 @@
 "_subject": "Flinj#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1689,6 +1870,9 @@
 "_subject": "Forgemaster Jak#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1717,6 +1901,9 @@
 "_subject": "Forgemaster Volrundson#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1746,6 +1933,9 @@
 "_subject": "Frayja#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1774,6 +1964,9 @@
 "_subject": "Frink#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1803,6 +1996,9 @@
 "_subject": "Gambil#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1831,6 +2027,9 @@
 "_subject": "Gareth the Skelk Tamer#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1859,6 +2058,9 @@
 "_subject": "Gelfa#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1888,6 +2090,9 @@
 "_subject": "Giita#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1916,6 +2121,9 @@
 "_subject": "Gottlieb the Gunslinger#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1944,6 +2152,9 @@
 "_subject": "Grant#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -1972,6 +2183,9 @@
 "_subject": "Gudrid#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2000,6 +2214,9 @@
 "_subject": "Gweithwyr#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2028,6 +2245,9 @@
 "_subject": "Gyra#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2056,6 +2276,9 @@
 "_subject": "Hagna#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2084,6 +2307,9 @@
 "_subject": "Hakki#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2113,6 +2339,9 @@
 "_subject": "Hamil#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2141,6 +2370,9 @@
 "_subject": "Harl Hotspur#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2169,6 +2401,9 @@
 "_subject": "Hejj#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2197,6 +2432,9 @@
 "_subject": "Hide Synthesist Teekzi#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2225,6 +2463,9 @@
 "_subject": "Houndkeeper Owens#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2253,6 +2494,9 @@
 "_subject": "Hunter Palladia Gravegaze#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2281,6 +2525,9 @@
 "_subject": "Huntsman (Aerodrome)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2310,6 +2557,9 @@
 "_subject": "Hyasinth#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2338,6 +2588,9 @@
 "_subject": "Imer#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2366,6 +2619,9 @@
 "_subject": "Inigo#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2394,6 +2650,9 @@
 "_subject": "Iris the Invincible#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2422,6 +2681,9 @@
 "_subject": "Iriun#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2450,6 +2712,9 @@
 "_subject": "Jamie#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2478,6 +2743,9 @@
 "_subject": "Jasper#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2506,6 +2774,9 @@
 "_subject": "Jraogh#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2534,6 +2805,9 @@
 "_subject": "Kalak#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2562,6 +2836,9 @@
 "_subject": "Karsti#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2590,6 +2867,9 @@
 "_subject": "Katlin Verndjes#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2618,6 +2898,9 @@
 "_subject": "Keysal#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2646,6 +2929,9 @@
 "_subject": "Kira#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2675,6 +2961,9 @@
 "_subject": "Klunn#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2703,6 +2992,9 @@
 "_subject": "Kozz#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2731,6 +3023,9 @@
 "_subject": "Kunk#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2759,6 +3054,9 @@
 "_subject": "Leatherworker (Aerodrome)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2787,6 +3085,9 @@
 "_subject": "Leatherworker Hideo Deftclaw#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2815,6 +3116,9 @@
 "_subject": "Linna Hideslicer#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2843,6 +3147,9 @@
 "_subject": "Lokett#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2871,6 +3178,9 @@
 "_subject": "Mada#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2900,6 +3210,9 @@
 "_subject": "Mathael#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2928,6 +3241,9 @@
 "_subject": "Maya#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2956,6 +3272,9 @@
 "_subject": "Medicha#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -2984,6 +3303,9 @@
 "_subject": "Mekko#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3012,6 +3334,9 @@
 "_subject": "Millo#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3040,6 +3365,9 @@
 "_subject": "Morgaah Bloodseeker#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3069,6 +3397,9 @@
 "_subject": "Muireall#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3097,6 +3428,9 @@
 "_subject": "Naava#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3125,6 +3459,9 @@
 "_subject": "Nigel Lawden#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3153,6 +3490,9 @@
 "_subject": "Oline#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3181,6 +3521,9 @@
 "_subject": "Oolema#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3209,6 +3552,9 @@
 "_subject": "Palm-Reader Arla#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3237,6 +3583,9 @@
 "_subject": "Pavilion Disciple (Master Armorsmith)#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3265,6 +3614,9 @@
 "_subject": "Pavilion Disciple (Master Artificer)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3293,6 +3645,9 @@
 "_subject": "Pavilion Disciple (Master Huntsman)#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3321,6 +3676,9 @@
 "_subject": "Pavilion Disciple (Master Leatherworker)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3349,6 +3707,9 @@
 "_subject": "Pavilion Disciple (Master Tailor)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3377,6 +3738,9 @@
 "_subject": "Pavilion Disciple (Master Weaponsmith)#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3405,6 +3769,9 @@
 "_subject": "Poola#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3433,6 +3800,9 @@
 "_subject": "Raketa#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3461,6 +3831,9 @@
 "_subject": "Rallen#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3489,6 +3862,9 @@
 "_subject": "Rauf#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3517,6 +3893,9 @@
 "_subject": "Rayge#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3545,6 +3924,9 @@
 "_subject": "Reimar (master tailor)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3573,6 +3955,9 @@
 "_subject": "Rikkta#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3601,6 +3986,9 @@
 "_subject": "Ruuga Blackear#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3629,6 +4017,9 @@
 "_subject": "STITCH-3487#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3658,6 +4049,9 @@
 "_subject": "Salim#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3686,6 +4080,9 @@
 "_subject": "Satlo#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3714,6 +4111,9 @@
 "_subject": "Seamstress Ingrid#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3742,6 +4142,9 @@
 "_subject": "Seilg#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3770,6 +4173,9 @@
 "_subject": "Semyon#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3798,6 +4204,9 @@
 "_subject": "Serica#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3826,6 +4235,9 @@
 "_subject": "Siege-Golemancer Varxx#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3854,6 +4266,9 @@
 "_subject": "Siobhan#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3882,6 +4297,9 @@
 "_subject": "Siovhan#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3910,6 +4328,9 @@
 "_subject": "Skuda Ironshaper#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3938,6 +4359,9 @@
 "_subject": "Skya#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3966,6 +4390,9 @@
 "_subject": "Snaarl Stainedclaw#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -3994,6 +4421,9 @@
 "_subject": "Statics Expert Korbit#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4022,6 +4452,9 @@
 "_subject": "Stav Darkchaser#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4050,6 +4483,9 @@
 "_subject": "Taask Steamcaller#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4078,6 +4514,9 @@
 "_subject": "Tactician Wylld#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4106,6 +4545,9 @@
 "_subject": "Tahiya#vendor12"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4134,6 +4576,9 @@
 "_subject": "Tailor (Aerodrome)#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4162,6 +4607,9 @@
 "_subject": "Tailor Valtur#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4190,6 +4638,9 @@
 "_subject": "Teine#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4218,6 +4669,9 @@
 "_subject": "Textile Synergist Vizza#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4246,6 +4700,9 @@
 "_subject": "Theoretician Straff#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4274,6 +4731,9 @@
 "_subject": "Turlisson#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4302,6 +4762,9 @@
 "_subject": "Ulyn#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4330,6 +4793,9 @@
 "_subject": "Vash#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4358,6 +4824,9 @@
 "_subject": "Vauldis Grawlbutcher#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4386,6 +4855,9 @@
 "_subject": "Vena#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4414,6 +4886,9 @@
 "_subject": "Weaponsmith (Aerodrome)#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4442,6 +4917,9 @@
 "_subject": "Weaponsmith Chie Edgetalon#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4470,6 +4948,9 @@
 "_subject": "Wurli#vendor7"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4498,6 +4979,9 @@
 "_subject": "Yaladen#vendor9"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {
@@ -4526,6 +5010,9 @@
 "_subject": "Yulia#vendor6"
 },
 {
+"Has context": [
+"NPC"
+],
 "Has daily purchase cap": [],
 "Has item cost": [
 {

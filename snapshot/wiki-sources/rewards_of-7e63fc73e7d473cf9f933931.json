@@ -1,7 +1,8 @@
 {
-"fetched": 1793669049.3899643,
+"fetched": 1794223227.06538,
 "item": "Convergence: Nexus of Eternity",
 "kind": "rewards_of",
+"q": "8393d1bbac55",
 "rows": [
 {
 "Has game id": [
@@ -22,9 +23,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward1"
 },
 {
-"Has game id": [
-100652
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -40,9 +39,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward10"
 },
 {
-"Has game id": [
-100963
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -58,9 +55,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward11"
 },
 {
-"Has game id": [
-100762
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -76,9 +71,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward12"
 },
 {
-"Has game id": [
-100363
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -94,9 +87,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward13"
 },
 {
-"Has game id": [
-100649
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -112,9 +103,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward14"
 },
 {
-"Has game id": [
-100289
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -130,9 +119,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward15"
 },
 {
-"Has game id": [
-100251
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -148,9 +135,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward16"
 },
 {
-"Has game id": [
-100424
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -166,9 +151,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward17"
 },
 {
-"Has game id": [
-100539
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -184,9 +167,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward18"
 },
 {
-"Has game id": [
-100006
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -202,9 +183,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward19"
 },
 {
-"Has game id": [
-69910
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -220,9 +199,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward2"
 },
 {
-"Has game id": [
-100124
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -238,9 +215,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward20"
 },
 {
-"Has game id": [
-100630
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -256,9 +231,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward21"
 },
 {
-"Has game id": [
-100229
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -274,9 +247,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward22"
 },
 {
-"Has game id": [
-100084
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -292,9 +263,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward23"
 },
 {
-"Has game id": [
-100929
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -310,9 +279,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward24"
 },
 {
-"Has game id": [
-100218
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -344,11 +311,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward26"
 },
 {
-"Has game id": [
-101844,
-104818,
-110060
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Silver daily"
 ],
@@ -364,11 +327,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward27"
 },
 {
-"Has game id": [
-101922,
-104984,
-110073
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Bronze daily"
 ],
@@ -384,9 +343,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward28"
 },
 {
-"Has game id": [
-101213
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -402,9 +359,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward29"
 },
 {
-"Has game id": [
-83008
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -420,9 +375,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward3"
 },
 {
-"Has game id": [
-83008
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -438,9 +391,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward30"
 },
 {
-"Has game id": [
-83008
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -456,10 +407,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward31"
 },
 {
-"Has game id": [
-100078,
-104747
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -475,10 +423,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward32"
 },
 {
-"Has game id": [
-100414,
-104773
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -494,10 +439,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward33"
 },
 {
-"Has game id": [
-100055,
-105009
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -599,9 +541,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward39"
 },
 {
-"Has game id": [
-36449
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Guaranteed"
 ],
@@ -633,9 +573,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward40"
 },
 {
-"Has game id": [
-84731
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -667,9 +605,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward6"
 },
 {
-"Has game id": [
-83410
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -685,9 +621,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward7"
 },
 {
-"Has game id": [
-68063
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
@@ -703,10 +637,7 @@
 "_subject": "Convergence: Nexus of Eternity#reward8"
 },
 {
-"Has game id": [
-99967,
-101170
-],
+"Has game id": [],
 "Has rewarded item chance": [
 "Chance"
 ],
