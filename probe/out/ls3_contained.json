@@ -1,0 +1,9 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::+]][[Contains item::Blood Ruby||Petrified Wood||Fresh Winterberry||Jade Shard||Fire Orchid Blossom||Orrian Pearl]]|?Contains item|?Has contained item quantity|?Has contained item chance|limit=50"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

@@ -7,35 +7,6 @@
   "aplimit": "100"
  },
  "reply": {
-  "batchcomplete": true,
-  "query": {
-   "allpages": [
-    {
-     "pageid": 91996,
-     "ns": 0,
-     "title": "Mystic Forge/Equipment"
-    },
-    {
-     "pageid": 108199,
-     "ns": 0,
-     "title": "Mystic Forge/Material Promotion"
-    },
-    {
-     "pageid": 53459,
-     "ns": 0,
-     "title": "Mystic Forge/Miscellaneous"
-    },
-    {
-     "pageid": 86739,
-     "ns": 0,
-     "title": "Mystic Forge/Sigil drop rate"
-    },
-    {
-     "pageid": 245792,
-     "ns": 0,
-     "title": "Mystic Forge/Sigils and Runes"
-    }
-   ]
-  }
+  "_error": "HTTP Error 403: Forbidden"
  }
 }

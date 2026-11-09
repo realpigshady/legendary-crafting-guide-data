@@ -1,0 +1,9 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Legendary Insight]]|?Has vendor|?Has item cost|?Located in|limit=20"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

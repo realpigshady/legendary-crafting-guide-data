@@ -1,0 +1,9 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has vendor::Manfred Njallson]]|?Sells item|?Has item cost|?Has item quantity|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

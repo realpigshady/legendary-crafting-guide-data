@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Winterberry Strongbox|Orrian Pearl Strongbox|Jade Shard Strongbox|Blood Ruby Strongbox|Fire Orchid Strongbox|Sack of Petrified Wood|Season 4 Material Chest (Raid)"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

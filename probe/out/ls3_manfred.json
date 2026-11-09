@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Manfred Njallson"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

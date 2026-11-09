@@ -1,0 +1,9 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Blood Ruby]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}
