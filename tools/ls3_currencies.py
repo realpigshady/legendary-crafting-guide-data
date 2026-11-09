@@ -8,6 +8,10 @@ yield). Each becomes an activity ``ls3:gather:<map>`` with the map id, the neare
 map centre (official API map index) and a wiki link; its yield is attached only when the
 item is a node of this pack's trees, like every catalog activity.
 
+Manfred Njallson's weekly strongboxes (50 Magnetite Shard + 4 Legendary Insight, 6 a week) are
+vendor sources written straight onto the content item (``manfred_sources``); the Season 4 chest
+is pick-one, so its six offers share one weekly limit through ``cap_group``.
+
 Heart vendors ("other daily sources") need the vendor's cost; they are added as vendor
 sources by ``vendor_sources`` once the probe replies are in (see config ``heart_vendors``),
 not as activities, because a vendor purchase has no run time.
@@ -59,3 +63,24 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], maps: list[dict]) -> i
             srcs[:] = [x for x in srcs if x["kind"] != "other"]
             srcs.append({"kind": "activity", "inputs": [], "activity_id": a["id"]})
     return len(added)
+
+
+def manfred_sources(nodes: dict[str, dict]) -> int:
+    """Vendor sources for Manfred's boxes on the item nodes this pack has; returns how many were added."""
+    m = CONFIG["manfred"]
+    by_name = {n["name"]: n for n in nodes.values() if n["id"].startswith("item:")}
+    added = 0
+    for o in m["offers"]:
+        for name in o.get("items") or [o["item"]]:
+            node = by_name.get(name)
+            if not node:
+                continue
+            src = {"kind": "vendor", "inputs": sorted(m["cost"], key=lambda i: i["node_id"]),
+                   "output_count": o["count"], "weekly_cap": m["weekly_cap"]}
+            if o.get("pick_one"):
+                src["cap_group"] = f"{m['npc']}: {o['box']}"   # one box, one pick: the six offers share the limit
+            src["vendors"] = [{"npc": m["npc"], "locations": m["locations"], "requires": []}]
+            if src not in node["sources"]:
+                node["sources"].append(src)
+                added += 1
+    return added

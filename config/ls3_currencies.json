@@ -2,11 +2,113 @@
   "_note": "Living World Season 3 map currencies. Gathering runs are owner-supplied numbers (2026-11-09): one map run takes 15 min (10-15 in practice; DRF refines it), once per character per day, the LOW end of the average yield per character. Counted as 1 character until Planner/Account decide on alts. 'other_daily' (heart vendors, events, chests) only where the owner gave a number; the rest is left to DRF. Items are API item ids. The data repo carries no [fast] data: these numbers are the owner's own.",
   "run_minutes": 15,
   "maps": {
-    "Bloodstone Fen":      {"place": "Bloodstone Fen",      "map_id": 1165, "item": 79280, "item_name": "Blood Ruby",          "gather": 10},
-    "Ember Bay":           {"place": "Ember Bay",           "map_id": 1175, "item": 79469, "item_name": "Petrified Wood",      "gather": 15},
-    "Bitterfrost Frontier": {"place": "Bitterfrost Frontier", "map_id": 1178, "item": 79899, "item_name": "Fresh Winterberry",   "gather": 35, "heart_vendors": 20},
-    "Lake Doric":          {"place": "Lake Doric",          "map_id": 1185, "item": 80332, "item_name": "Jade Shard",          "gather": 15},
-    "Draconis Mons":       {"place": "Draconis Mons",       "map_id": 1195, "item": 81127, "item_name": "Fire Orchid Blossom", "gather": 35, "heart_vendors": 12},
-    "Siren's Landing":     {"place": "Siren's Landing",     "map_id": 1203, "item": 81706, "item_name": "Orrian Pearl",        "gather": 15, "heart_vendors": 15}
+    "Bloodstone Fen": {
+      "place": "Bloodstone Fen",
+      "map_id": 1165,
+      "item": 79280,
+      "item_name": "Blood Ruby",
+      "gather": 10
+    },
+    "Ember Bay": {
+      "place": "Ember Bay",
+      "map_id": 1175,
+      "item": 79469,
+      "item_name": "Petrified Wood",
+      "gather": 15
+    },
+    "Bitterfrost Frontier": {
+      "place": "Bitterfrost Frontier",
+      "map_id": 1178,
+      "item": 79899,
+      "item_name": "Fresh Winterberry",
+      "gather": 35,
+      "heart_vendors": 20
+    },
+    "Lake Doric": {
+      "place": "Lake Doric",
+      "map_id": 1185,
+      "item": 80332,
+      "item_name": "Jade Shard",
+      "gather": 15
+    },
+    "Draconis Mons": {
+      "place": "Draconis Mons",
+      "map_id": 1195,
+      "item": 81127,
+      "item_name": "Fire Orchid Blossom",
+      "gather": 35,
+      "heart_vendors": 12
+    },
+    "Siren's Landing": {
+      "place": "Siren's Landing",
+      "map_id": 1203,
+      "item": 81706,
+      "item_name": "Orrian Pearl",
+      "gather": 15,
+      "heart_vendors": 15
+    }
+  },
+  "manfred": {
+    "_note": "Manfred Njallson (Lion's Arch Aerodrome), weekly Materials section; owner 2026-11-09. Every box: 50 Magnetite Shard (currency 28) + 4 Legendary Insight (currency 70), 6 a week. Contents are the owner's counts; the Season 4 chest is pick-one, so its six offers share one weekly limit (cap_group). Modelled as the vendor selling the content directly, like the container exchange rows.",
+    "npc": "Manfred Njallson",
+    "locations": [
+      "Lion's Arch Aerodrome"
+    ],
+    "cost": [
+      {
+        "node_id": "currency:28",
+        "count": 50
+      },
+      {
+        "node_id": "currency:70",
+        "count": 4
+      }
+    ],
+    "weekly_cap": 6,
+    "offers": [
+      {
+        "box": "Winterberry Strongbox",
+        "item": "Fresh Winterberry",
+        "count": 100
+      },
+      {
+        "box": "Orrian Pearl Strongbox",
+        "item": "Orrian Pearl",
+        "count": 50
+      },
+      {
+        "box": "Jade Shard Strongbox",
+        "item": "Jade Shard",
+        "count": 100
+      },
+      {
+        "box": "Blood Ruby Strongbox",
+        "item": "Blood Ruby",
+        "count": 50
+      },
+      {
+        "box": "Fire Orchid Strongbox",
+        "item": "Fire Orchid Blossom",
+        "count": 50
+      },
+      {
+        "box": "Sack of Petrified Wood",
+        "item": "Petrified Wood",
+        "count": 50
+      },
+      {
+        "box": "Season 4 Material Chest (Raid)",
+        "pick_one": true,
+        "count": 50,
+        "items": [
+          "Kralkatite Ore",
+          "Difluorite Crystal",
+          "Inscribed Shard",
+          "Lump of Mistonium",
+          "Branded Mass",
+          "Mistborn Mote"
+        ]
+      }
+    ]
   }
 }

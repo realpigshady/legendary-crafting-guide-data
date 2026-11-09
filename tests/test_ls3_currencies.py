@@ -30,3 +30,15 @@ def test_all_six_maps_configured_with_owner_numbers():
     got = {c["item_name"]: c["gather"] for c in ls3.CONFIG["maps"].values()}
     assert got == {"Blood Ruby": 10, "Petrified Wood": 15, "Fresh Winterberry": 35,
                    "Jade Shard": 15, "Fire Orchid Blossom": 35, "Orrian Pearl": 15}
+
+
+def test_manfred_offers():
+    names = ["Fresh Winterberry", "Kralkatite Ore", "Mistborn Mote"]
+    nodes = {f"item:{i}": {"id": f"item:{i}", "name": n, "sources": []} for i, n in enumerate(names, 1)}
+    assert ls3.manfred_sources(nodes) == 3
+    w = nodes["item:1"]["sources"][0]
+    assert w["inputs"] == [{"node_id": "currency:28", "count": 50}, {"node_id": "currency:70", "count": 4}]
+    assert w["output_count"] == 100 and w["weekly_cap"] == 6 and "cap_group" not in w
+    k, m = nodes["item:2"]["sources"][0], nodes["item:3"]["sources"][0]
+    assert k["output_count"] == 50 and k["cap_group"] == m["cap_group"] == "Manfred Njallson: Season 4 Material Chest (Raid)"
+    assert ls3.manfred_sources(nodes) == 0   # idempotent
