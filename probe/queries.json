@@ -14,5 +14,57 @@
   "apprefix": "Mystic Forge/",
   "apnamespace": "0",
   "aplimit": "100"
+ },
+ "ls3_manfred": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Manfred Njallson"
+ },
+ "ls3_boxes": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Winterberry Strongbox|Orrian Pearl Strongbox|Jade Shard Strongbox|Blood Ruby Strongbox|Fire Orchid Strongbox|Sack of Petrified Wood|Season 4 Material Chest (Raid)"
+ },
+ "ls3_sold_winterberry": {
+  "action": "ask",
+  "query": "[[Sells item::Fresh Winterberry]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_blossom": {
+  "action": "ask",
+  "query": "[[Sells item::Fire Orchid Blossom]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_pearl": {
+  "action": "ask",
+  "query": "[[Sells item::Orrian Pearl]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_ruby": {
+  "action": "ask",
+  "query": "[[Sells item::Blood Ruby]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_wood": {
+  "action": "ask",
+  "query": "[[Sells item::Petrified Wood]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_shard": {
+  "action": "ask",
+  "query": "[[Sells item::Jade Shard]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "ls3_sold_insight": {
+  "action": "ask",
+  "query": "[[Sells item::Legendary Insight]]|?Has vendor|?Has item cost|?Located in|limit=20"
+ },
+ "ls3_contained": {
+  "action": "ask",
+  "query": "[[Contains item::+]][[Contains item::Blood Ruby||Petrified Wood||Fresh Winterberry||Jade Shard||Fire Orchid Blossom||Orrian Pearl]]|?Contains item|?Has contained item quantity|?Has contained item chance|limit=50"
+ },
+ "ls3_manfred_sells": {
+  "action": "ask",
+  "query": "[[Has vendor::Manfred Njallson]]|?Sells item|?Has item cost|?Has item quantity|?Has weekly purchase cap|?Located in|limit=50"
  }
 }
