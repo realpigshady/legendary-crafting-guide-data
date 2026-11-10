@@ -1,0 +1,6 @@
+{
+  "_note": "Vendor trades the owner rules out (item sold -> cost items that make the offer excluded). 2026-11-10: the Super Adventure Box costume trade-ins (Princess Miya's Wig / Dress / Tiara -> 5 Baubles) and Bauble Bubble -> Mystic Crystal / Philosopher's Stone are far too costly (a Mystic Crystal ~27.6g from Trading Post wigs); Spirit Shards come from XP-rich activities instead.",
+  "Bauble": ["Princess Miya's Wig", "Princess Miya's Dress", "Princess Miya's Tiara"],
+  "Mystic Crystal": ["Bauble Bubble"],
+  "Philosopher's Stone": ["Bauble Bubble"]
+}

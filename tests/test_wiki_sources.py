@@ -88,3 +88,13 @@ def test_store_splits_per_item_and_falls_back(tmp_path):
 def test_locations_query_asks_map_id_and_category():
     q = ws.QUERIES["locations"](["Raid"])
     assert "?Has map id" in q and "?Category" in q
+
+
+def test_excluded_trades_drop_owner_ruled_out_offers():
+    # owner 2026-11-10 (config/excluded_trades.json): costume trade-ins for Baubles are never sources
+    row = lambda cost: {"Has item cost": [{"Has item currency": cost, "Has item value": "1"}], "Has item quantity": [5],
+                        "Has vendor": ["Super Adventure Box Trader"], "Has context": ["NPC"], "_subject": "x#1"}
+    srcs, _ = ws.vendor_sources("Bauble", [row("Princess Miya's Wig"), row("Continue Coin")], CUR)
+    assert [s["inputs"][0]["name"] for s in srcs] == ["Continue Coin"]
+    srcs, _ = ws.vendor_sources("Mystic Crystal", [row("Bauble Bubble")], CUR)
+    assert srcs == []

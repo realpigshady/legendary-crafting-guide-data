@@ -315,6 +315,11 @@ COIN_PER_GOLD = 10000
 # offers of one vendor that share a limit despite different prices ("shared_cap" -> cap_group).
 _CAPS_PATH = Path(__file__).resolve().parent.parent / "config" / "vendor_caps.json"
 VENDOR_CAPS = json.loads(_CAPS_PATH.read_text(encoding="utf-8")) if _CAPS_PATH.exists() else {}
+# config/excluded_trades.json: offers the owner rules out, item -> cost items that exclude the offer.
+_EXCL_PATH = Path(__file__).resolve().parent.parent / "config" / "excluded_trades.json"
+EXCLUDED_TRADES = {k: {x.lower() for x in v} for k, v in
+                   (json.loads(_EXCL_PATH.read_text(encoding="utf-8")) if _EXCL_PATH.exists() else {}).items()
+                   if not k.startswith("_")}
 
 
 def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tuple[list[dict], list[str]]:
@@ -344,6 +349,10 @@ def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tu
                 cost_items.append(n)
         if not inputs:
             continue
+        banned = EXCLUDED_TRADES.get(item, set())
+        if banned and any((c.get("Has item currency") or "").lower() in banned
+                          for c in r.get("Has item cost") or [] if isinstance(c, dict)):
+            continue   # ruled out by the owner (config/excluded_trades.json)
         qty = _int(r.get("Has item quantity")) or 1
         src = {"kind": "vendor", "inputs": sorted(inputs, key=lambda i: i["node_id"]), "output_count": qty}
         for key, prop in (("daily_cap", "Has daily purchase cap"), ("weekly_cap", "Has weekly purchase cap"),
