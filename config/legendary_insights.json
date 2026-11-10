@@ -1,0 +1,133 @@
+{
+  "_note": "Legendary Insight (currency 70) per week, owner's sheet 2026-11-10. Raid wings: insights of one full wing clear, once a week. Unified strikes: 1 each, once a week. Added as yields on the catalog's loc: activities (untimed in the wiki pack; times come from [fast]/DRF). 'Visions of Eternity Boss' has no matching place in the catalog yet.",
+  "currency": "currency:70",
+  "wings": [
+    {
+      "activity": "loc:spirit_vale",
+      "name": "Spirit Vale",
+      "count": 4
+    },
+    {
+      "activity": "loc:salvation_pass",
+      "name": "Salvation Pass",
+      "count": 3
+    },
+    {
+      "activity": "loc:stronghold_of_the_faithful",
+      "name": "Stronghold of the Faithful",
+      "count": 4
+    },
+    {
+      "activity": "loc:bastion_of_the_penitent",
+      "name": "Bastion of the Penitent",
+      "count": 4
+    },
+    {
+      "activity": "loc:hall_of_chains",
+      "name": "Hall of Chains",
+      "count": 4
+    },
+    {
+      "activity": "loc:mythwright_gambit",
+      "name": "Mythwright Gambit",
+      "count": 3
+    },
+    {
+      "activity": "loc:the_key_of_ahdashim",
+      "name": "The Key of Ahdashim",
+      "count": 3
+    },
+    {
+      "activity": "loc:mount_balrior",
+      "name": "Mount Balrior",
+      "count": 3
+    }
+  ],
+  "strikes": [
+    {
+      "activity": "loc:old_lion_s_court",
+      "name": "Old Lion's Court",
+      "count": 1
+    },
+    {
+      "activity": "loc:shiverpeaks_pass",
+      "name": "Shiverpeaks Pass",
+      "count": 1
+    },
+    {
+      "activity": "loc:fraenir_of_jormag",
+      "name": "Fraenir of Jormag",
+      "count": 1
+    },
+    {
+      "activity": "loc:voice_of_the_fallen_and_claw_of_the_fallen",
+      "name": "Voice of the Fallen and Claw of the Fallen",
+      "count": 1
+    },
+    {
+      "activity": "loc:whisper_of_jormag",
+      "name": "Whisper of Jormag",
+      "count": 1
+    },
+    {
+      "activity": "loc:boneskinner",
+      "name": "Boneskinner",
+      "count": 1
+    },
+    {
+      "activity": "loc:cold_war",
+      "name": "Cold War",
+      "count": 1
+    },
+    {
+      "activity": "loc:forging_steel",
+      "name": "Forging Steel",
+      "count": 1
+    },
+    {
+      "activity": "loc:aetherblade_hideout",
+      "name": "Aetherblade Hideout",
+      "count": 1
+    },
+    {
+      "activity": "loc:xunlai_jade_junkyard",
+      "name": "Xunlai Jade Junkyard",
+      "count": 1
+    },
+    {
+      "activity": "loc:kaineng_overlook",
+      "name": "Kaineng Overlook",
+      "count": 1
+    },
+    {
+      "activity": "loc:harvest_temple",
+      "name": "Harvest Temple",
+      "count": 1
+    },
+    {
+      "activity": "loc:cosmic_observatory",
+      "name": "Cosmic Observatory",
+      "count": 1
+    },
+    {
+      "activity": "loc:temple_of_febe",
+      "name": "Temple of Febe",
+      "count": 1
+    }
+  ],
+  "unmatched": [
+    "Visions of Eternity Boss (Unified Strike, 1/week)"
+  ],
+  "weekly_extras": [
+    {
+      "id": "li:weekly_quickplay_raid_milestones",
+      "name": "Weekly Quickplay raid milestones (Tier 5 and Tier 10)",
+      "count": 6
+    },
+    {
+      "id": "li:daily_raid_bounties",
+      "name": "Daily raid bounties (all 4 dailies, week total)",
+      "count": 28
+    }
+  ]
+}

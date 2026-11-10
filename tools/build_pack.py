@@ -444,7 +444,8 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
     # nearest waypoint per vendor (Crafting > Vendor button): wiki area -> API sector -> waypoint
     maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
-    stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps), "manfred_sources": ls3.manfred_sources(nodes)}   # owner's per-map LS3 runs (config/ls3_currencies.json)
+    stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps), "manfred_sources": ls3.manfred_sources(nodes),
+                              "heart_vendor_sources": ls3.heart_vendor_sources(nodes), "insight_activities": ls3.insight_sources(final, nodes)}   # owner's per-map LS3 runs (config/ls3_currencies.json)
     def places(names: list[str]) -> dict[str, list[dict]]:
         try:
             return smw.get("place", names)

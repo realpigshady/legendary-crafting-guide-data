@@ -1,5 +1,5 @@
 {
-  "_note": "Living World Season 3 map currencies. Gathering runs are owner-supplied numbers (2026-11-09): one map run takes 15 min (10-15 in practice; DRF refines it), once per character per day, the LOW end of the average yield per character. Counted as 1 character until Planner/Account decide on alts. 'other_daily' (heart vendors, events, chests) only where the owner gave a number; the rest is left to DRF. Items are API item ids. The data repo carries no [fast] data: these numbers are the owner's own.",
+  "_note": "Living World Season 3 map currencies. Gathering runs are owner-supplied numbers (2026-11-09): one map run takes 15 min (10-15 in practice; DRF refines it), once per character per day, the LOW end of the average yield per character. Counted as 1 character (owner decided 2026-11-10: no guarantee a player has or wants to use more characters). 'other_daily' (heart vendors, events, chests) only where the owner gave a number; the rest is left to DRF. Items are API item ids. The data repo carries no [fast] data: these numbers are the owner's own.",
   "run_minutes": 15,
   "maps": {
     "Bloodstone Fen": {
@@ -108,6 +108,187 @@
           "Branded Mass",
           "Mistborn Mote"
         ]
+      }
+    ]
+  },
+  "heart_vendors": {
+    "_note": "Owner's sheet (gw2_granular_materials_and_insights.xlsx, 2026-11-10). Each vendor sells one pack of 5 for 2,688 Karma, limit 1 per character per day. Counted for ONE character only (owner: no guarantee a player has or wants to use more). One source per vendor, so each carries its own daily cap of 1.",
+    "cost": [
+      {
+        "node_id": "currency:2",
+        "count": 2688
+      }
+    ],
+    "output_count": 5,
+    "daily_cap": 1,
+    "vendors": [
+      {
+        "zone": "Bitterfrost Frontier",
+        "item": "Fresh Winterberry",
+        "npc": "Farmer Simooba",
+        "location": "Dragon's Teeth Hot Springs",
+        "offer": "Bundle of Winterberries (Contains 5)"
+      },
+      {
+        "zone": "Bitterfrost Frontier",
+        "item": "Fresh Winterberry",
+        "npc": "Sun Warming",
+        "location": "Brakbrak Ice Snarl",
+        "offer": "Bundle of Winterberries (Contains 5)"
+      },
+      {
+        "zone": "Bitterfrost Frontier",
+        "item": "Fresh Winterberry",
+        "npc": "Svanir Seer",
+        "location": "The Svanir Hive",
+        "offer": "Bundle of Winterberries (Contains 5)"
+      },
+      {
+        "zone": "Bitterfrost Frontier",
+        "item": "Fresh Winterberry",
+        "npc": "Woomulla",
+        "location": "Griffon Old Growth",
+        "offer": "Bundle of Winterberries (Contains 5)"
+      },
+      {
+        "zone": "Ember Bay",
+        "item": "Petrified Wood",
+        "npc": "Scientist Arca",
+        "location": "Asura Camp",
+        "offer": "Petrified Log (Contains 5)"
+      },
+      {
+        "zone": "Ember Bay",
+        "item": "Petrified Wood",
+        "npc": "Castaway Sennen",
+        "location": "Shipwreck Beach",
+        "offer": "Petrified Log (Contains 5)"
+      },
+      {
+        "zone": "Ember Bay",
+        "item": "Petrified Wood",
+        "npc": "Melandru's Watcher",
+        "location": "Melandru's Dome",
+        "offer": "Petrified Log (Contains 5)"
+      },
+      {
+        "zone": "Ember Bay",
+        "item": "Petrified Wood",
+        "npc": "Skritt Sentry",
+        "location": "Caldera",
+        "offer": "Petrified Log (Contains 5)"
+      },
+      {
+        "zone": "Ember Bay",
+        "item": "Petrified Wood",
+        "npc": "Circus Master Panderet",
+        "location": "Promontory Waypoint",
+        "offer": "Petrified Log (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Imani",
+        "location": "Redleaf Refuge",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Commander Samuel",
+        "location": "Fort Evennia",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Minister Alphonse",
+        "location": "Lakeside Bazaar",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Noran",
+        "location": "Harvest Homestead",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Baroness Nicole",
+        "location": "New Loamhurst",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Lake Doric",
+        "item": "Jade Shard",
+        "npc": "Captain Jack",
+        "location": "Saidra's Haven",
+        "offer": "Packet of Jade Shards (Contains 5)"
+      },
+      {
+        "zone": "Draconis Mons",
+        "item": "Fire Orchid Blossom",
+        "npc": "Supply Master Forgehart",
+        "location": "Heathen's Hold",
+        "offer": "Bundle of Fire Orchids (Contains 5)"
+      },
+      {
+        "zone": "Draconis Mons",
+        "item": "Fire Orchid Blossom",
+        "npc": "Scout Ebba",
+        "location": "Ancient Hollow",
+        "offer": "Bundle of Fire Orchids (Contains 5)"
+      },
+      {
+        "zone": "Draconis Mons",
+        "item": "Fire Orchid Blossom",
+        "npc": "Researcher Jebb",
+        "location": "Rata Arcanum",
+        "offer": "Bundle of Fire Orchids (Contains 5)"
+      },
+      {
+        "zone": "Draconis Mons",
+        "item": "Fire Orchid Blossom",
+        "npc": "Ancient Hollow Spirit",
+        "location": "Savage Ledge",
+        "offer": "Bundle of Fire Orchids (Contains 5)"
+      },
+      {
+        "zone": "Siren's Landing",
+        "item": "Orrian Pearl",
+        "npc": "Shrine Keeper (Balthazar)",
+        "location": "Shrine of Balthazar",
+        "offer": "Package of Orrian Pearls (Contains 5)"
+      },
+      {
+        "zone": "Siren's Landing",
+        "item": "Orrian Pearl",
+        "npc": "Shrine Keeper (Dwayna)",
+        "location": "Shrine of Dwayna",
+        "offer": "Package of Orrian Pearls (Contains 5)"
+      },
+      {
+        "zone": "Siren's Landing",
+        "item": "Orrian Pearl",
+        "npc": "Shrine Keeper (Grenth)",
+        "location": "Shrine of Grenth",
+        "offer": "Package of Orrian Pearls (Contains 5)"
+      },
+      {
+        "zone": "Siren's Landing",
+        "item": "Orrian Pearl",
+        "npc": "Shrine Keeper (Lyssa)",
+        "location": "Shrine of Lyssa",
+        "offer": "Package of Orrian Pearls (Contains 5)"
+      },
+      {
+        "zone": "Siren's Landing",
+        "item": "Orrian Pearl",
+        "npc": "Shrine Keeper (Melandru)",
+        "location": "Shrine of Melandru",
+        "offer": "Package of Orrian Pearls (Contains 5)"
       }
     ]
   }

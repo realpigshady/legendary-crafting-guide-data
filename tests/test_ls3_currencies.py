@@ -42,3 +42,22 @@ def test_manfred_offers():
     k, m = nodes["item:2"]["sources"][0], nodes["item:3"]["sources"][0]
     assert k["output_count"] == 50 and k["cap_group"] == m["cap_group"] == "Manfred Njallson: Season 4 Material Chest (Raid)"
     assert ls3.manfred_sources(nodes) == 0   # idempotent
+
+
+def test_heart_vendors_one_source_each():
+    nodes = {"item:1": {"id": "item:1", "name": "Fresh Winterberry", "sources": []}}
+    assert ls3.heart_vendor_sources(nodes) == 4          # four Bitterfrost vendors in the sheet
+    srcs = nodes["item:1"]["sources"]
+    assert all(s["daily_cap"] == 1 and s["output_count"] == 5 and s["inputs"] == [{"node_id": "currency:2", "count": 2688}] for s in srcs)
+    assert ls3.heart_vendor_sources(nodes) == 0
+
+
+def test_insights_on_existing_places():
+    final = {"loc:spirit_vale": {"id": "loc:spirit_vale", "yields": [{"node_id": "currency:28", "count": 1}]},
+             "loc:boneskinner": {"id": "loc:boneskinner", "yields": []}}
+    nodes = {"currency:70": {"sources": [{"kind": "other", "inputs": []}]}}
+    assert ls3.insight_sources(final, nodes) == 4        # 2 places + 2 weekly extras
+    assert {"node_id": "currency:70", "count": 4} in final["loc:spirit_vale"]["yields"]
+    assert final["loc:boneskinner"]["max_runs_per_week"] == 1
+    assert final["li:daily_raid_bounties"]["yields"][0]["count"] == 28
+    assert all(s["kind"] == "activity" for s in nodes["currency:70"]["sources"])

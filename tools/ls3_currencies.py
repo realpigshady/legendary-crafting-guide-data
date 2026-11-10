@@ -12,9 +12,11 @@ Manfred Njallson's weekly strongboxes (50 Magnetite Shard + 4 Legendary Insight,
 vendor sources written straight onto the content item (``manfred_sources``); the Season 4 chest
 is pick-one, so its six offers share one weekly limit through ``cap_group``.
 
-Heart vendors ("other daily sources") need the vendor's cost; they are added as vendor
-sources by ``vendor_sources`` once the probe replies are in (see config ``heart_vendors``),
-not as activities, because a vendor purchase has no run time.
+Heart vendors (5 packs of 5 for 2,688 Karma, once a day each; owner's sheet, one character) are
+vendor sources, one per vendor so each keeps its own daily limit of 1, not activities: a vendor
+purchase has no run time. ``config/legendary_insights.json`` adds Legendary Insight (currency 70)
+as a weekly yield on the raid wings and unified strikes the catalog already has, plus two weekly
+extras (matchmaking milestones, daily raid bounties).
 """
 from __future__ import annotations
 
@@ -84,3 +86,55 @@ def manfred_sources(nodes: dict[str, dict]) -> int:
                 node["sources"].append(src)
                 added += 1
     return added
+
+
+def heart_vendor_sources(nodes: dict[str, dict]) -> int:
+    """One vendor source per heart vendor (owner's sheet); returns how many were added."""
+    h = CONFIG["heart_vendors"]
+    by_name = {n["name"]: n for n in nodes.values() if n["id"].startswith("item:")}
+    added = 0
+    for v in h["vendors"]:
+        node = by_name.get(v["item"])
+        if not node:
+            continue
+        src = {"kind": "vendor", "inputs": list(h["cost"]), "output_count": h["output_count"],
+               "daily_cap": h["daily_cap"],
+               "vendors": [{"npc": v["npc"], "locations": [v["location"], v["zone"]], "requires": []}]}
+        if src not in node["sources"]:
+            node["sources"].append(src)
+            added += 1
+    return added
+
+
+INSIGHTS = json.loads((Path(__file__).resolve().parent.parent / "config" / "legendary_insights.json").read_text(encoding="utf-8"))
+
+
+def insight_sources(final: dict[str, dict], nodes: dict[str, dict]) -> int:
+    """Legendary Insight yields on raid wings / strikes (once a week) and two untimed weekly extras."""
+    cur = INSIGHTS["currency"]
+    if cur not in nodes:
+        return 0
+    n = 0
+
+    def link(act_id: str) -> None:
+        srcs = nodes[cur]["sources"]
+        srcs[:] = [x for x in srcs if x["kind"] != "other"]
+        s = {"kind": "activity", "inputs": [], "activity_id": act_id}
+        if s not in srcs:
+            srcs.append(s)
+
+    for e in INSIGHTS["wings"] + INSIGHTS["strikes"]:
+        a = final.get(e["activity"])
+        if not a:
+            continue
+        a["yields"] = [y for y in a.get("yields", []) if y["node_id"] != cur] + [{"node_id": cur, "count": e["count"]}]
+        a["max_runs_per_week"] = 1
+        link(a["id"])
+        n += 1
+    for e in INSIGHTS["weekly_extras"]:
+        final[e["id"]] = {"id": e["id"], "name": e["name"], "mode": "pve", "max_runs_per_week": 1,
+                          "yields": [{"node_id": cur, "count": e["count"]}],
+                          "guidance": {"text": e["name"] + ": " + str(e["count"]) + " Legendary Insight a week (owner's sheet)"}}
+        link(e["id"])
+        n += 1
+    return n
