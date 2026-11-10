@@ -15,6 +15,7 @@ def test_ley_line_anomalies_share_one_daily_reward():
     ids = ["evt:core-la:gendarran_fields", "evt:core-la:iron_marches", "evt:core-la:timberline_falls"]
     final = {i: _evt(i, "Ley-Line Anomaly: " + i.split(":")[-1]) for i in ids}
     n, warn = al.apply_caps(final)
+    warn = [w for w in warn if "ley-line-anomaly" in w]   # other groups' members aren't in this fixture
     assert n == 3 and warn == []
     for i in ids:
         assert final[i]["cap_groups"] == [{"id": "ley-line-anomaly", "name": al.CONFIG["groups"][0]["name"], "max_runs_per_day": 1}]
@@ -28,6 +29,7 @@ def test_ley_line_anomalies_share_one_daily_reward():
 def test_missing_member_warns_and_lone_member_gets_no_group():
     final = {"evt:core-la:iron_marches": _evt("evt:core-la:iron_marches", "LLA")}
     n, warn = al.apply_caps(final)
+    warn = [w for w in warn if "ley-line-anomaly" in w]
     assert n == 0 and len(warn) == 2 and "cap_groups" not in final["evt:core-la:iron_marches"]
 
 

@@ -5,8 +5,22 @@
       "id": "ley-line-anomaly",
       "name": "Ley-Line Anomaly (one reward a day across Gendarran Fields, Iron Marches and Timberline Falls)",
       "max_runs_per_day": 1,
-      "members": ["evt:core-la:gendarran_fields", "evt:core-la:iron_marches", "evt:core-la:timberline_falls"],
+      "members": [
+        "evt:core-la:gendarran_fields",
+        "evt:core-la:iron_marches",
+        "evt:core-la:timberline_falls"
+      ],
       "source": "owner 2026-11-10 (feedback F11): the three Ley-Line Anomalies give the reward once a day across all three"
+    },
+    {
+      "id": "thunderhead-peaks-daily-chest",
+      "name": "Thunderhead Peaks daily chest (one a day across The Oil Floes and Thunderhead Keep)",
+      "max_runs_per_day": 1,
+      "members": [
+        "evt:lws4-tp:the_oil_floes",
+        "evt:lws4-tp:thunderhead_keep"
+      ],
+      "source": "owner 2026-11-10 (Data 4g): the two metas share one daily chest; the addon's [fast] overlay gives its own copies the same group id"
     }
   ]
 }
