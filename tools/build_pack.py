@@ -36,6 +36,7 @@ import ls3_currencies as ls3  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
+import activity_links as alinks  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -476,6 +477,11 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     for a in final.values():
         for k in [k for k in a if k.startswith("_")]:
             del a[k]
+    # shared reward caps (config/shared_caps.json) and a short description per activity (F10/F11)
+    ncap, cwarn = alinks.apply_caps(final)
+    warnings += cwarn
+    stats["activity_links"] = {"cap_group_members": ncap, "descriptions": alinks.describe(final)}
+    print(f"activity links: {ncap} cap-group members, {stats['activity_links']['descriptions']} descriptions")
     nwin = {w["name"]: len(w["windows"]) for w in festivals}
     for f, v in stats["festivals"]["by_festival"].items():
         print(f"festival {f}: {v['activities']} activities, {v['vendor_sources']} vendor sources, {nwin.get(f, 0)} windows")

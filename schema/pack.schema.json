@@ -446,6 +446,32 @@
           "retiring": {
             "type": "boolean",
             "description": "the wiki marks the track as to be removed at a later date"
+          },
+          "group": {
+            "type": "string",
+            "description": "variants of one activity: the planner plans at most one activity of a group per play day (missing = its own group)"
+          },
+          "cap_groups": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id"],
+              "properties": {
+                "id": {"type": "string"},
+                "name": {"type": "string"},
+                "max_runs_per_day": {"type": "integer", "minimum": 1},
+                "max_runs_per_week": {"type": "integer", "minimum": 1}
+              }
+            },
+            "description": "rewards shared with other activities: the runs of every activity naming the same id count against one cap (config/shared_caps.json)"
+          },
+          "description": {
+            "type": "string",
+            "description": "1-2 lines for the expanded Overview row; the More info link is guidance.wiki_url"
+          },
+          "info_url": {
+            "type": "string",
+            "description": "More info link when it isn't guidance.wiki_url"
           }
         }
       }
