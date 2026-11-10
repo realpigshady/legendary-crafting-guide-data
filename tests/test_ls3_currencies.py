@@ -61,3 +61,11 @@ def test_insights_on_existing_places():
     assert final["loc:boneskinner"]["max_runs_per_week"] == 1
     assert final["li:daily_raid_bounties"]["yields"][0]["count"] == 28
     assert all(s["kind"] == "activity" for s in nodes["currency:70"]["sources"])
+    # the addon rejects the whole pack when an activity has no "expansion"
+    assert final["li:daily_raid_bounties"]["expansion"] == "hot"
+    assert final["li:weekly_quickplay_raid_milestones"]["expansion"] == "hot"
+
+
+def test_gather_activities_have_expansion():
+    acts = ls3.activities(MAPS, {"item:79280"})
+    assert all(a.get("expansion") for a in acts)

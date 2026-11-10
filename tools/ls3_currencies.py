@@ -132,7 +132,7 @@ def insight_sources(final: dict[str, dict], nodes: dict[str, dict]) -> int:
         link(a["id"])
         n += 1
     for e in INSIGHTS["weekly_extras"]:
-        final[e["id"]] = {"id": e["id"], "name": e["name"], "mode": "pve", "max_runs_per_week": 1,
+        final[e["id"]] = {"id": e["id"], "name": e["name"], "mode": "pve", "expansion": "hot", "max_runs_per_week": 1,
                           "yields": [{"node_id": cur, "count": e["count"]}],
                           "guidance": {"text": e["name"] + ": " + str(e["count"]) + " Legendary Insight a week (owner's sheet)"}}
         link(e["id"])
