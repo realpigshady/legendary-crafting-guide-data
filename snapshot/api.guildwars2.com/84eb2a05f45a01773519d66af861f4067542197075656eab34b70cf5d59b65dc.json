@@ -1,0 +1,503 @@
+{
+"body": [
+{
+"chat_link": "[&AgFUjAEA]",
+"default_skin": 12048,
+"description": "<c=@flavor>Imposing armor forged with the help of dwarven wizard Lyhr.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 191,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Boots",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0EB6787B05B90E21D7982A3B2E75460166C6520D/3256181.png",
+"id": 101460,
+"level": 80,
+"name": "Obsidian Heavy Greaves",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgFFVAEA]",
+"default_skin": 8051,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1030,
+"min_power": 970,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"suffix_item_id": 24562,
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F210EEC4136273F5224D21C28F50B48B4AA5756/1947147.png",
+"id": 87109,
+"level": 80,
+"name": "Claw of the Khan-Ur",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgFGQgEA]",
+"default_skin": 7270,
+"details": {
+"attribute_adjustment": 268.884,
+"defense": 203,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Leggings",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/042F109538659229627BD244BC290FADC00E0619/1701180.png",
+"id": 82502,
+"level": 80,
+"name": "Mistforged Triumphant Hero's Leggings",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgGpegEA]",
+"default_skin": 10745,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 1100,
+"min_power": 900,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE67A529B6960E955B8BCDE02343C704D01B7F8/2593577.png",
+"id": 96937,
+"level": 80,
+"name": "Aurene's Rending",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+},
+{
+"chat_link": "[&AgGrIQEA]",
+"default_skin": 6344,
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+},
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1145,
+1098,
+1134,
+1162,
+1115,
+1130,
+1139,
+1125,
+1220,
+1329,
+1345,
+1337,
+1486,
+1538,
+1697,
+1694,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/562A009CE8D66B63B975251BC97041BFBE0E07E1/1202351.png",
+"id": 74155,
+"level": 80,
+"name": "Ad Infinitum",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 100000
+},
+{
+"chat_link": "[&AgGNewEA]",
+"default_skin": 10464,
+"details": {
+"attribute_adjustment": 358.512,
+"damage_type": "Physical",
+"defense": 0,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"max_power": 927,
+"min_power": 873,
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3FFD5043BAB5710341A166C900BED8D47409600F/2594769.png",
+"id": 97165,
+"level": 80,
+"name": "Aurene's Gaze",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 660
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=101460,87109,82502,96937,74155,97165"
+}
