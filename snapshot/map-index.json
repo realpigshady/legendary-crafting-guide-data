@@ -1,5 +1,5 @@
 {
-"fetched_at": 1793931365,
+"fetched_at": 1794492764,
 "maps": [
 {
 "centre": [
@@ -8402,468 +8402,6 @@
 },
 {
 "centre": [
-6910,
-13310
-],
-"id": 95,
-"name": " Alpine Borderlands",
-"sectors": [
-[
-" Border",
-6215,
-14666
-],
-[
-" Border",
-7662,
-14682
-],
-[
-" Citadel",
-6934,
-12316
-],
-[
-" Garrison",
-6871,
-12970
-],
-[
-"Bluebriar",
-6509,
-14097
-],
-[
-"Bluevale Refuge",
-6032,
-14115
-],
-[
-"Cohen's Overlook",
-7064,
-13430
-],
-[
-"Cragtop",
-7413,
-12711
-],
-[
-"Dreadfall Bay",
-5986,
-13582
-],
-[
-"Faithleap",
-6066,
-12882
-],
-[
-"Foghaven",
-7925,
-12910
-],
-[
-"Gertzz's Estate",
-6695,
-13411
-],
-[
-"Hero's Lodge",
-6909,
-14458
-],
-[
-"Norfolk's Hollow",
-6571,
-13699
-],
-[
-"Patrick's Ascent",
-7121,
-13743
-],
-[
-"Redlake",
-7301,
-14070
-],
-[
-"Redwater Lowlands",
-7858,
-14053
-],
-[
-"Shadaran Hills",
-7723,
-13536
-],
-[
-"Sunnyhill",
-6168,
-12560
-],
-[
-"Temple of the Fallen",
-6818,
-13895
-],
-[
-"The Titanpaw",
-6991,
-11993
-]
-],
-"waypoints": [
-[
-"Border Waypoint",
-5982,
-14787,
-"[&BNoEAAA=]"
-],
-[
-"Border Waypoint",
-7810,
-14729,
-"[&BN4EAAA=]"
-],
-[
-"Citadel Waypoint",
-6919,
-12519,
-"[&BNwEAAA=]"
-],
-[
-"Dreadfall Bay Emergency Waypoint A",
-5943,
-13516,
-"[&BC4JAAA=]"
-],
-[
-"Dreadfall Bay Emergency Waypoint B",
-5908,
-13720,
-"[&BJoOAAA=]"
-],
-[
-"Dreadfall Bay Emergency Waypoint C",
-5840,
-13490,
-"[&BKkOAAA=]"
-],
-[
-"Dreadfall Bay Waypoint",
-5915,
-13561,
-"[&BNkEAAA=]"
-],
-[
-"Emergency Waypoint",
-6359,
-12701,
-"[&BCcJAAA=]"
-],
-[
-"Emergency Waypoint",
-6598,
-14018,
-"[&BCkJAAA=]"
-],
-[
-"Emergency Waypoint",
-7358,
-14032,
-"[&BCIJAAA=]"
-],
-[
-"Emergency Waypoint",
-7436,
-12754,
-"[&BBUJAAA=]"
-],
-[
-"Garrison Emergency Waypoint A",
-6857,
-12986,
-"[&BCsJAAA=]"
-],
-[
-"Garrison Emergency Waypoint B",
-6936,
-12931,
-"[&BKAOAAA=]"
-],
-[
-"Garrison Emergency Waypoint C",
-6781,
-13111,
-"[&BKgOAAA=]"
-],
-[
-"Garrison Waypoint",
-6846,
-13106,
-"[&BNsEAAA=]"
-],
-[
-"Shadaran Hills Emergency Waypoint A",
-7884,
-13488,
-"[&BCEJAAA=]"
-],
-[
-"Shadaran Hills Emergency Waypoint B",
-8043,
-13569,
-"[&BKYOAAA=]"
-],
-[
-"Shadaran Hills Emergency Waypoint C",
-7841,
-13573,
-"[&BK0OAAA=]"
-],
-[
-"Shadaran Hills Waypoint",
-8006,
-13510,
-"[&BN0EAAA=]"
-]
-]
-},
-{
-"centre": [
-14078,
-12670
-],
-"id": 96,
-"name": " Alpine Borderlands",
-"sectors": [
-[
-" Border",
-13383,
-14026
-],
-[
-" Border",
-14830,
-14042
-],
-[
-" Citadel",
-14102,
-11676
-],
-[
-" Garrison",
-14039,
-12330
-],
-[
-"Ascension Bay",
-13154,
-12942
-],
-[
-"Askalion Hills",
-14891,
-12896
-],
-[
-"Battle's Hollow",
-13739,
-13059
-],
-[
-"Bauer's Estate",
-13863,
-12771
-],
-[
-"Carver's Ascent",
-14289,
-13103
-],
-[
-"Champion's Demesne",
-14077,
-13818
-],
-[
-"Dawn's Eyrie",
-14581,
-12071
-],
-[
-"Godslore",
-13234,
-12242
-],
-[
-"Greenlake",
-14469,
-13430
-],
-[
-"Greenwater Lowlands",
-15026,
-13413
-],
-[
-"Orchard Overlook",
-14232,
-12790
-],
-[
-"Redbriar",
-13677,
-13457
-],
-[
-"Redvale Refuge",
-13200,
-13475
-],
-[
-"Stargrove",
-15093,
-12270
-],
-[
-"Temple of Lost Prayers",
-13986,
-13255
-],
-[
-"The Spiritholme",
-14159,
-11353
-],
-[
-"Woodhaven",
-13336,
-11920
-]
-],
-"waypoints": [
-[
-"Ascension Bay Emergency Waypoint A",
-13111,
-12876,
-"[&BC8JAAA=]"
-],
-[
-"Ascension Bay Emergency Waypoint B",
-13076,
-13080,
-"[&BKEOAAA=]"
-],
-[
-"Ascension Bay Emergency Waypoint C",
-13008,
-12850,
-"[&BKoOAAA=]"
-],
-[
-"Ascension Bay Waypoint",
-13083,
-12921,
-"[&BNMEAAA=]"
-],
-[
-"Askalion Hills Emergency Waypoint A",
-15052,
-12848,
-"[&BBgJAAA=]"
-],
-[
-"Askalion Hills Emergency Waypoint B",
-15211,
-12929,
-"[&BJ0OAAA=]"
-],
-[
-"Askalion Hills Emergency Waypoint C",
-15009,
-12933,
-"[&BKMOAAA=]"
-],
-[
-"Askalion Hills Waypoint",
-15174,
-12870,
-"[&BNcEAAA=]"
-],
-[
-"Border Waypoint",
-13150,
-14147,
-"[&BNQEAAA=]"
-],
-[
-"Border Waypoint",
-14978,
-14089,
-"[&BNgEAAA=]"
-],
-[
-"Citadel Waypoint",
-14087,
-11879,
-"[&BNYEAAA=]"
-],
-[
-"Emergency Waypoint",
-13527,
-12061,
-"[&BCMJAAA=]"
-],
-[
-"Emergency Waypoint",
-13766,
-13378,
-"[&BCUJAAA=]"
-],
-[
-"Emergency Waypoint",
-14526,
-13392,
-"[&BCwJAAA=]"
-],
-[
-"Emergency Waypoint",
-14604,
-12114,
-"[&BBQJAAA=]"
-],
-[
-"Garrison Emergency Waypoint A",
-14025,
-12346,
-"[&BBIJAAA=]"
-],
-[
-"Garrison Emergency Waypoint B",
-14104,
-12291,
-"[&BJUOAAA=]"
-],
-[
-"Garrison Emergency Waypoint C",
-13949,
-12471,
-"[&BKcOAAA=]"
-],
-[
-"Garrison Waypoint",
-14014,
-12466,
-"[&BNUEAAA=]"
-]
-]
-},
-{
-"centre": [
 46592,
 44928
 ],
@@ -11636,237 +11174,6 @@
 34211,
 29897,
 "[&BHcIAAA=]"
-]
-]
-},
-{
-"centre": [
-10750,
-10494
-],
-"id": 1099,
-"name": " Desert Borderlands",
-"sectors": [
-[
-" Border",
-9640,
-11765
-],
-[
-" Border",
-12009,
-11771
-],
-[
-" Citadel",
-10817,
-9157
-],
-[
-"Bauer Farmstead",
-11746,
-11304
-],
-[
-"Bearce's Dwelling",
-10429,
-10651
-],
-[
-"Blistering Undercroft",
-9858,
-10565
-],
-[
-"Boettiger's Hideaway",
-9467,
-9996
-],
-[
-"Crankshaft Depot",
-11263,
-11695
-],
-[
-"Darra's Maze",
-10479,
-11186
-],
-[
-"Dustwhisper Well",
-10803,
-11731
-],
-[
-"Eternal Necropolis",
-11845,
-9567
-],
-[
-"Hamm's Lab",
-10840,
-9550
-],
-[
-"Higgins's Ascent",
-10950,
-11208
-],
-[
-"McLain's Encampment",
-9774,
-11228
-],
-[
-"O'del Academy",
-9792,
-9450
-],
-[
-"Osprey's Palace",
-11769,
-10800
-],
-[
-"Parched Outpost",
-10126,
-11540
-],
-[
-"Roy's Refuge",
-11949,
-10053
-],
-[
-"Stoic Rampart",
-10746,
-10051
-],
-[
-"Tilly's Encampment",
-10799,
-10510
-],
-[
-"Zak's Overlook",
-11115,
-10773
-]
-],
-"waypoints": [
-[
-"Blistering Undercroft Emergency Waypoint A",
-9504,
-10695,
-"[&BMgIAAA=]"
-],
-[
-"Blistering Undercroft Emergency Waypoint B",
-9447,
-10520,
-"[&BJYOAAA=]"
-],
-[
-"Blistering Undercroft Emergency Waypoint C",
-9280,
-10790,
-"[&BKwOAAA=]"
-],
-[
-"Blistering Undercroft Waypoint",
-9493,
-10632,
-"[&BK0IAAA=]"
-],
-[
-"Border Waypoint",
-9518,
-11814,
-"[&BMcIAAA=]"
-],
-[
-"Border Waypoint",
-12111,
-11894,
-"[&BIsIAAA=]"
-],
-[
-"Citadel Waypoint",
-10757,
-9181,
-"[&BOQIAAA=]"
-],
-[
-"Crankshaft Depot Emergency Waypoint",
-11388,
-11564,
-"[&BMQIAAA=]"
-],
-[
-"Eternal Necropolis Emergency Waypoint",
-11891,
-9634,
-"[&BKEIAAA=]"
-],
-[
-"O'del Academy Emergency Waypoint",
-9844,
-9617,
-"[&BJ8IAAA=]"
-],
-[
-"Osprey's Palace Emergency Waypoint A",
-12003,
-10707,
-"[&BJMIAAA=]"
-],
-[
-"Osprey's Palace Emergency Waypoint B",
-12161,
-10822,
-"[&BKUOAAA=]"
-],
-[
-"Osprey's Palace Emergency Waypoint C",
-12067,
-10568,
-"[&BJwOAAA=]"
-],
-[
-"Osprey's Palace Waypoint",
-12032,
-10705,
-"[&BGYIAAA=]"
-],
-[
-"Parched Outpost Emergency Waypoint",
-10340,
-11434,
-"[&BDQIAAA=]"
-],
-[
-"Stoic Rampart Emergency Waypoint A",
-10782,
-10036,
-"[&BCsIAAA=]"
-],
-[
-"Stoic Rampart Emergency Waypoint B",
-10910,
-10124,
-"[&BKIOAAA=]"
-],
-[
-"Stoic Rampart Emergency Waypoint C",
-10638,
-10131,
-"[&BJcOAAA=]"
-],
-[
-"Stoic Rampart Waypoint",
-10775,
-10071,
-"[&BP0IAAA=]"
 ]
 ]
 },
@@ -18509,6 +17816,699 @@
 5820,
 59557,
 "[&BBYQAAA=]"
+]
+]
+},
+{
+"centre": [
+6910,
+13310
+],
+"id": 1651,
+"name": " Seared Borderlands",
+"sectors": [
+[
+" Border",
+6193,
+14620
+],
+[
+" Border",
+7686,
+14647
+],
+[
+" Citadel",
+6853,
+11938
+],
+[
+" Garrison",
+6868,
+12740
+],
+[
+"Bluebriar",
+6580,
+13950
+],
+[
+"Bluevale Refuge",
+6108,
+14033
+],
+[
+"Cohen's Overlook",
+7020,
+13356
+],
+[
+"Cragtop",
+7554,
+12320
+],
+[
+"Dreadfall Bay",
+6141,
+13373
+],
+[
+"Faithleap",
+6112,
+12765
+],
+[
+"Foghaven",
+7764,
+12778
+],
+[
+"Gertzz's Estate",
+6803,
+13348
+],
+[
+"Hero's Lodge",
+6876,
+14362
+],
+[
+"Norfolk's Hollow",
+6722,
+13532
+],
+[
+"Patrick's Ascent",
+7042,
+13587
+],
+[
+"Redlake",
+7227,
+14015
+],
+[
+"Redwater Lowlands",
+7794,
+14054
+],
+[
+"Shadaran Hills",
+7658,
+13489
+],
+[
+"Sunnyhill",
+6328,
+12466
+],
+[
+"Temple of the Fallen",
+6865,
+13683
+],
+[
+"The Titanpaw",
+6878,
+12120
+]
+],
+"waypoints": [
+[
+"Border Waypoint",
+5965,
+14727,
+"[&BNoEAAA=]"
+],
+[
+"Border Waypoint",
+7788,
+14733,
+"[&BN4EAAA=]"
+],
+[
+"Citadel Waypoint",
+6894,
+11773,
+"[&BNwEAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint A",
+5906,
+13312,
+"[&BC4JAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint B",
+6155,
+13403,
+"[&BJoOAAA=]"
+],
+[
+"Dreadfall Bay Emergency Waypoint C",
+6078,
+13193,
+"[&BKkOAAA=]"
+],
+[
+"Dreadfall Bay Waypoint",
+5906,
+13312,
+"[&BNkEAAA=]"
+],
+[
+"Emergency Waypoint",
+6308,
+12370,
+"[&BCcJAAA=]"
+],
+[
+"Emergency Waypoint",
+6530,
+14001,
+"[&BCkJAAA=]"
+],
+[
+"Emergency Waypoint",
+7192,
+14032,
+"[&BCIJAAA=]"
+],
+[
+"Emergency Waypoint",
+7502,
+12435,
+"[&BBUJAAA=]"
+],
+[
+"Garrison Emergency Waypoint A",
+6838,
+12669,
+"[&BCsJAAA=]"
+],
+[
+"Garrison Emergency Waypoint B",
+6846,
+12566,
+"[&BKAOAAA=]"
+],
+[
+"Garrison Emergency Waypoint C",
+7013,
+12739,
+"[&BKgOAAA=]"
+],
+[
+"Garrison Waypoint",
+6838,
+12669,
+"[&BNsEAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint A",
+7667,
+13457,
+"[&BCEJAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint B",
+7821,
+13512,
+"[&BKYOAAA=]"
+],
+[
+"Shadaran Hills Emergency Waypoint C",
+7548,
+13311,
+"[&BK0OAAA=]"
+],
+[
+"Shadaran Hills Waypoint",
+7667,
+13457,
+"[&BN0EAAA=]"
+]
+]
+},
+{
+"centre": [
+10494,
+10750
+],
+"id": 1652,
+"name": " Seared Borderlands",
+"sectors": [
+[
+" Border",
+9777,
+12060
+],
+[
+" Border",
+11270,
+12087
+],
+[
+" Citadel",
+10437,
+9378
+],
+[
+"Bauer Farmstead",
+11378,
+11494
+],
+[
+"Bearce's Dwelling",
+10387,
+10788
+],
+[
+"Blistering Undercroft",
+9725,
+10813
+],
+[
+"Boettiger's Hideaway",
+9696,
+10205
+],
+[
+"Crankshaft Depot",
+10811,
+11455
+],
+[
+"Darra's Maze",
+10306,
+10972
+],
+[
+"Dustwhisper Well",
+10460,
+11802
+],
+[
+"Eternal Necropolis",
+11138,
+9760
+],
+[
+"Hamm's Lab",
+10462,
+9560
+],
+[
+"Higgins's Ascent",
+10626,
+11027
+],
+[
+"McLain's Encampment",
+9692,
+11473
+],
+[
+"O'del Academy",
+9912,
+9906
+],
+[
+"Osprey's Palace",
+11242,
+10929
+],
+[
+"Parched Outpost",
+10164,
+11390
+],
+[
+"Roy's Refuge",
+11348,
+10218
+],
+[
+"Stoic Rampart",
+10452,
+10180
+],
+[
+"Tilly's Encampment",
+10449,
+11123
+],
+[
+"Zak's Overlook",
+10604,
+10796
+]
+],
+"waypoints": [
+[
+"Blistering Undercroft Emergency Waypoint A",
+9490,
+10752,
+"[&BDsQAAA=]"
+],
+[
+"Blistering Undercroft Emergency Waypoint B",
+9739,
+10843,
+"[&BF8QAAA=]"
+],
+[
+"Blistering Undercroft Emergency Waypoint C",
+9662,
+10633,
+"[&BI8QAAA=]"
+],
+[
+"Blistering Undercroft Waypoint",
+9490,
+10752,
+"[&BIwQAAA=]"
+],
+[
+"Border Waypoint",
+9549,
+12167,
+"[&BGIQAAA=]"
+],
+[
+"Border Waypoint",
+11372,
+12173,
+"[&BGQQAAA=]"
+],
+[
+"Citadel Waypoint",
+10478,
+9213,
+"[&BGYQAAA=]"
+],
+[
+"Crankshaft Depot Emergency Waypoint",
+10776,
+11472,
+"[&BGMQAAA=]"
+],
+[
+"Eternal Necropolis Emergency Waypoint",
+11086,
+9875,
+"[&BIMQAAA=]"
+],
+[
+"O'del Academy Emergency Waypoint",
+9892,
+9810,
+"[&BIcQAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint A",
+11251,
+10897,
+"[&BF0QAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint B",
+11405,
+10952,
+"[&BEkQAAA=]"
+],
+[
+"Osprey's Palace Emergency Waypoint C",
+11132,
+10751,
+"[&BEsQAAA=]"
+],
+[
+"Osprey's Palace Waypoint",
+11251,
+10897,
+"[&BE4QAAA=]"
+],
+[
+"Parched Outpost Emergency Waypoint",
+10114,
+11441,
+"[&BFIQAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint A",
+10422,
+10109,
+"[&BHgQAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint B",
+10430,
+10006,
+"[&BG8QAAA=]"
+],
+[
+"Stoic Rampart Emergency Waypoint C",
+10597,
+10179,
+"[&BGEQAAA=]"
+],
+[
+"Stoic Rampart Waypoint",
+10422,
+10109,
+"[&BFYQAAA=]"
+]
+]
+},
+{
+"centre": [
+14078,
+12670
+],
+"id": 1654,
+"name": " Seared Borderlands",
+"sectors": [
+[
+" Border",
+13361,
+13980
+],
+[
+" Border",
+14854,
+14007
+],
+[
+" Citadel",
+14021,
+11298
+],
+[
+" Garrison",
+14036,
+12100
+],
+[
+"Ascension Bay",
+13309,
+12733
+],
+[
+"Askalion Hills",
+14826,
+12849
+],
+[
+"Battle's Hollow",
+13890,
+12892
+],
+[
+"Bauer's Estate",
+13971,
+12708
+],
+[
+"Carver's Ascent",
+14210,
+12947
+],
+[
+"Champion's Demesne",
+14044,
+13722
+],
+[
+"Dawn's Eyrie",
+14722,
+11680
+],
+[
+"Godslore",
+13280,
+12125
+],
+[
+"Greenlake",
+14395,
+13375
+],
+[
+"Greenwater Lowlands",
+14962,
+13414
+],
+[
+"Orchard Overlook",
+14188,
+12716
+],
+[
+"Redbriar",
+13748,
+13310
+],
+[
+"Redvale Refuge",
+13276,
+13393
+],
+[
+"Stargrove",
+14932,
+12138
+],
+[
+"Temple of Lost Prayers",
+14033,
+13043
+],
+[
+"The Spiritholme",
+14046,
+11480
+],
+[
+"Woodhaven",
+13496,
+11826
+]
+],
+"waypoints": [
+[
+"Ascension Bay Emergency Waypoint A",
+13074,
+12672,
+"[&BIEQAAA=]"
+],
+[
+"Ascension Bay Emergency Waypoint B",
+13323,
+12763,
+"[&BGAQAAA=]"
+],
+[
+"Ascension Bay Emergency Waypoint C",
+13246,
+12553,
+"[&BFQQAAA=]"
+],
+[
+"Ascension Bay Waypoint",
+13074,
+12672,
+"[&BH0QAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint A",
+14835,
+12817,
+"[&BJMQAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint B",
+14989,
+12872,
+"[&BJIQAAA=]"
+],
+[
+"Askalion Hills Emergency Waypoint C",
+14716,
+12671,
+"[&BHIQAAA=]"
+],
+[
+"Askalion Hills Waypoint",
+14835,
+12817,
+"[&BGwQAAA=]"
+],
+[
+"Border Waypoint",
+13133,
+14087,
+"[&BHcQAAA=]"
+],
+[
+"Border Waypoint",
+14956,
+14093,
+"[&BHwQAAA=]"
+],
+[
+"Citadel Waypoint",
+14062,
+11133,
+"[&BG0QAAA=]"
+],
+[
+"Emergency Waypoint",
+13476,
+11730,
+"[&BIkQAAA=]"
+],
+[
+"Emergency Waypoint",
+13698,
+13361,
+"[&BH4QAAA=]"
+],
+[
+"Emergency Waypoint",
+14360,
+13392,
+"[&BHYQAAA=]"
+],
+[
+"Emergency Waypoint",
+14670,
+11795,
+"[&BEoQAAA=]"
+],
+[
+"Garrison Emergency Waypoint A",
+14006,
+12029,
+"[&BEMQAAA=]"
+],
+[
+"Garrison Emergency Waypoint B",
+14014,
+11926,
+"[&BJQQAAA=]"
+],
+[
+"Garrison Emergency Waypoint C",
+14181,
+12099,
+"[&BGoQAAA=]"
+],
+[
+"Garrison Waypoint",
+14006,
+12029,
+"[&BEEQAAA=]"
 ]
 ]
 }
