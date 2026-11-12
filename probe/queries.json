@@ -1,4 +1,8 @@
 {
+ "cg_ping": {
+  "action": "query",
+  "meta": "siteinfo"
+ },
  "cg_pages_a": {
   "action": "query",
   "prop": "revisions",
