@@ -1,0 +1,83 @@
+{
+ "_comment": "Data 4o (1), wiki-fact part (2026-11-12): Visions of Eternity (Castora) daily currency sources for Wages of Stars. tools/castora.py reads every number below from the wiki page named next to it (snapshot/wiki-pages, rewarded-by rows in snapshot/wiki-sources); 'expect' is what the page said when this was written and is used, with a warning, only when the page is unavailable. Guaranteed currency only, once a day per account (owner rule F1), mastery bonuses counted (owner: no mastery gating). Times: the wiki event timer for the timed metas; owner times (research note docs/research/WAGES_OF_STARS_SOURCES.md section 10, addon repo) for The Basilica Vaults and the renown hearts. Mirror routes (owner-measured) are not here: they wait for the owner's overlay-vs-config decision.",
+ "metas": {
+  "evt:voe-ss:hammerhart_rumble": {
+   "map": "Shipwreck Strand",
+   "facts": [{"page": "Hammerhart Rumble!", "item": "Chromatic Sap", "expect": 2}],
+   "group": "fast:open-world.meta:shipwreck-strand-hammerhart-rumble",
+   "heros_choice": "castora"
+  },
+  "evt:voe-sw:secrets_of_the_weald": {
+   "map": "Starlit Weald",
+   "facts": [{"page": "Secrets of the Weald", "item": "Raw Enchanting Stone", "expect": 1.5}],
+   "group": "fast:open-world.meta:starlit-weald-secrets-of-the-weald",
+   "heros_choice": "castora"
+  },
+  "evt:voe-eg:shackles_of_the_ancients": {
+   "map": "Eternity's Garden",
+   "facts": [{"page": "Shackles of the Ancients", "item": "Shadowstone Fragment", "expect": 20}],
+   "heros_choice": "castora"
+  },
+  "evt:voe-lh:depths_of_cruelty": {
+   "map": "Leyspring Hollows",
+   "facts": [{"page": "Depths of Cruelty", "item": "Shadowstone Research Data", "expect": 22.5}],
+   "heros_choice": "leyspring"
+  }
+ },
+ "heros_choice": {
+  "castora": {
+   "page": "Castora: Hero's Choice Chest",
+   "cap_group": "castora-heros-choice",
+   "cap_name": "Castora: Hero's Choice Chest (one a day across Hammerhart Rumble!, Secrets of the Weald and Shackles of the Ancients)",
+   "options": [{"item": "Chromatic Sap", "expect": 25}, {"item": "Raw Enchanting Stone", "expect": 25}]
+  },
+  "leyspring": {
+   "page": "Leyspring Hollows: Hero's Choice Chest",
+   "cap_group": "leyspring-hollows-heros-choice",
+   "cap_name": "Leyspring Hollows: Hero's Choice Chest (one a day, Depths of Cruelty)",
+   "options": [{"item": "Shadowstone Fragment", "expect": 20}, {"item": "Shadowstone Research Data", "expect": 10}]
+  }
+ },
+ "activities": [
+  {
+   "id": "voe:the_basilica_vaults",
+   "name": "Starlit Weald: The Basilica Vaults",
+   "map": "Starlit Weald",
+   "area": "Lost Basilica",
+   "page": "The Basilica Vaults",
+   "est_minutes": 15,
+   "time_source": "owner 2026-11-12: 2 pre-events + the 3 ducat events",
+   "facts": [
+    {"page": "Defeat the ancient defenses and gather their power for Isgarren", "item": "Antiquated Ducat", "expect": 25},
+    {"page": "Gather the loose magic for Isgarren", "item": "Antiquated Ducat", "expect": 25},
+    {"page": "Defeat the champion enchanted weapon", "item": "Antiquated Ducat", "expect": 25},
+    {"page": "Seer Artifact Chest", "item": "Raw Enchanting Stone", "expect": 3, "chests": 1},
+    {"page": "Seer Storage Chest", "item": "Raw Enchanting Stone", "expect": 4, "chests": 4}
+   ],
+   "text": "Starlit Weald, Lost Basilica: start the chain with Isgarren; its three events each give an Event Bouncy Chest of Antiquated Ducats, then open the Seer Artifact Chest and the four Seer Storage Chests in the Last Vault (each once a day per account)"
+  }
+ ],
+ "hearts": {
+  "est_minutes": 10,
+  "time_source": "owner 2026-11-12: about 10 min a heart with travel",
+  "list": [
+   {"event": "Assist the castaways around Hullgarden", "area": "Hullgarden", "map": "Shipwreck Strand", "item": "Aether-Rich Sap", "expect": 10},
+   {"event": "Help Pub Canach grow into a lucrative business", "area": "Breezy Cay", "map": "Shipwreck Strand", "item": "Aether-Rich Sap", "expect": 10},
+   {"event": "Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics", "area": "Glimmering Arches", "map": "Shipwreck Strand", "item": "Aether-Rich Sap", "expect": 10},
+   {"event": "Help out with research and expedition tasks around Pilgrim's Rest", "area": "Pilgrim's Rest", "map": "Eternity's Garden", "item": "Aether-Rich Sap", "expect": 10},
+   {"event": "Assist the Durmand Priory in establishing and protecting their expedition", "area": "Priory Expedition", "map": "Starlit Weald", "item": "Antiquated Ducat", "expect": 10},
+   {"event": "Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest", "area": "Untamed Crags", "map": "Starlit Weald", "item": "Antiquated Ducat", "expect": 10},
+   {"event": "Assist your allies in establishing camp and getting along", "area": "Foothold Bivouac", "map": "Starlit Weald", "item": "Antiquated Ducat", "expect": 10}
+  ]
+ },
+ "mastery_pages": ["Starlit Weald (achievements)", "Shipwreck Strand (achievements)", "Leyspring Hollows (achievements)", "Eternity's Garden (achievements)", "Renown Hearts (Visions of Eternity)"],
+ "exchanges": [
+  {"item": "Raw Enchanting Stone", "input": "Antiquated Ducat", "count": 5, "page": "Antiquated Ducat"},
+  {"item": "Chromatic Sap", "input": "Aether-Rich Sap", "count": 5, "page": "Aether-Rich Sap"}
+ ],
+ "not_counted": [
+  "Seer Storage Chest (Depths of Cruelty): the 7 chests after Depths of Cruelty list no Raw Enchanting Stone on the wiki (gear only; checked 2026-11-12), so they add none here. The owner's handover counts 1 stone each: owner to confirm in game.",
+  "Repeat runs of any meta and its repeatable bonus chest beyond the day's first (owner rule F1).",
+  "Map event blocks (Aether-Rich Sap / Antiquated Ducat events): no measured rate yet (owner assumption of 4 events an hour)."
+ ]
+}

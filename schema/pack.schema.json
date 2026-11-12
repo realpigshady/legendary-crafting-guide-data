@@ -41,6 +41,7 @@
           },
           "family": {
             "enum": [
+              "weapon",
               "gen1_weapon",
               "gen2_weapon",
               "gen3_weapon",
@@ -65,6 +66,18 @@
               "string",
               "null"
             ]
+          },
+          "armor_set": {
+            "type": "string",
+            "description": "armor: the 6-slot set this piece belongs to (Perfected Envoy, Triumphant Hero's, Mistforged Triumphant Hero's, Glorious Hero's, Mistforged Glorious Hero's, Ardent Glorious, Obsidian)"
+          },
+          "weight_class": {
+            "enum": [
+              "Light",
+              "Medium",
+              "Heavy"
+            ],
+            "description": "armor: /v2/items details.weight_class (set together with armor_set)"
           }
         }
       }

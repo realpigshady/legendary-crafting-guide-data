@@ -33,6 +33,7 @@ import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
 import ls3_currencies as ls3  # noqa: E402
+import castora  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
@@ -50,6 +51,18 @@ ASK_INTERVAL_S = 2.0        # SMW ask queries are heavier: half the pace
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config" / "families.json").read_text(encoding="utf-8"))
+ARMOR_SETS = json.loads((ROOT / "config" / "armor_sets.json").read_text(encoding="utf-8"))
+
+
+def armor_set_fields(name: str, item: dict) -> dict:
+    """armor_set + weight_class for a piece of a 6-slot legendary armor set (Data 4l); {} otherwise."""
+    d = item.get("details", {})
+    if item.get("type") != "Armor" or d.get("type") not in ARMOR_SETS["slots"] or d.get("weight_class") not in ("Light", "Medium", "Heavy"):
+        return {}
+    for prefix, set_name in ARMOR_SETS["prefixes"]:
+        if name.startswith(prefix):
+            return {"armor_set": set_name, "weight_class": d["weight_class"]}
+    return {}
 
 
 # --------------------------------------------------------------------------- http
@@ -388,6 +401,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                     "item_id": item["id"],
                     "root_node_id": f"item:{item['id']}" if f"item:{item['id']}" in tree.nodes else root_of.get(title, f"item:{item['id']}"),
                     "weapon_type": item.get("details", {}).get("type"),
+                    **(armor_set_fields(title, item) if fam_id == "armor" else {}),
                 })
 
     # random forge recipes: expected output and byproducts from the wiki's drop research
@@ -447,6 +461,13 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
     stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps), "manfred_sources": ls3.manfred_sources(nodes),
                               "heart_vendor_sources": ls3.heart_vendor_sources(nodes), "insight_activities": ls3.insight_sources(final, nodes)}   # owner's per-map LS3 runs (config/ls3_currencies.json)
+    # Visions of Eternity daily currency sources, read from the wiki pages config/castora.json names (Data 4o)
+    try:
+        stats["castora"], cwarn = castora.apply(final, nodes, store, smw, maps)
+    except wp.WikiDown as e:
+        raise SourceDown(str(e)) from e
+    warnings += cwarn
+    print(f"castora: {stats['castora']}")
     def places(names: list[str]) -> dict[str, list[dict]]:
         try:
             return smw.get("place", names)

@@ -1,0 +1,365 @@
+{
+"fetched": 1794503333.748405,
+"item": "Antiquated Ducat",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Assist the Durmand Priory in establishing and protecting their expedition"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Assist the Durmand Priory in establishing and protecting their expedition#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Assist your allies in establishing camp and getting along"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Assist your allies in establishing camp and getting along#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Bonus chest/Rewards#reward86"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Bonus chest/Rewards#reward97"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Dance with the choya"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Dance with the choya#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Defeat the Eternal Sentinel"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Defeat the Eternal Sentinel#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Defeat the ancient defenses and gather their power for Isgarren"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Defeat the ancient defenses and gather their power for Isgarren#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Defeat the champion enchanted weapon"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Defeat the champion enchanted weapon#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Defend the priory camp from the Inquest raid"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Defend the priory camp from the Inquest raid#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Disrupt the Illusions"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Disrupt the Illusions#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Find and Rescue the Missing Skimmers"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Find and Rescue the Missing Skimmers#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Find and rescue the missing skimmers"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Find and rescue the missing skimmers#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Gather the loose magic for Isgarren"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Gather the loose magic for Isgarren#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Help Klorrk subdue the Inquest-enhanced creatures"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Help Klorrk subdue the Inquest-enhanced creatures#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Help repair and defend the bird nest"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Help repair and defend the bird nest#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Help the Durmand Priory rebuild the camp"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Help the Durmand Priory rebuild the camp#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Kill the large saurian in the forest"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Kill the large saurian in the forest#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Reach the finish line in the Enchanting Grottoes"
+],
+"Rewards item": [
+"Antiquated Ducat"
+],
+"_subject": "Reach the finish line in the Enchanting Grottoes#reward1"
+}
+]
+}

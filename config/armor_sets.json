@@ -1,0 +1,14 @@
+{
+ "_comment": "Data 4l (Planner 2026-11-11, SPEC §12): armor legendaries get armor_set (by name prefix, longest first) and weight_class (/v2/items details.weight_class) so the addon can build 6-piece set goals. Sets with no 6 slots (aquatic helms, Eikasia) get neither.",
+ "prefixes": [
+  ["Sublime Mistforged Triumphant Hero's ", "Mistforged Triumphant Hero's"],
+  ["Mistforged Triumphant Hero's ", "Mistforged Triumphant Hero's"],
+  ["Mistforged Glorious Hero's ", "Mistforged Glorious Hero's"],
+  ["Triumphant Hero's ", "Triumphant Hero's"],
+  ["Glorious Hero's ", "Glorious Hero's"],
+  ["Ardent Glorious ", "Ardent Glorious"],
+  ["Perfected Envoy ", "Perfected Envoy"],
+  ["Obsidian ", "Obsidian"]
+ ],
+ "slots": ["Helm", "Shoulders", "Coat", "Gloves", "Leggings", "Boots"]
+}

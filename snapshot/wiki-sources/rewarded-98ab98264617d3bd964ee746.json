@@ -1,0 +1,403 @@
+{
+"fetched": 1794503333.748405,
+"item": "Aether-Rich Sap",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Assist the castaways around Hullgarden"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Assist the castaways around Hullgarden#reward1"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Bonus chest/Rewards#reward85"
+},
+{
+"Has context": [],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Bonus chest/Rewards"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Bonus chest/Rewards#reward96"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Defeat Creation 23"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Defeat Creation 23#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Defeat Operative Neel"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Defeat Operative Neel#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Defeat the rat king"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Defeat the rat king#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Help Acolyte Alex return the beached whale to the shelter of the sea"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help Acolyte Alex return the beached whale to the shelter of the sea#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Help Astral Ward Operative Chesh Steelmind hack Inquest datapads and analyze the intel"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help Astral Ward Operative Chesh Steelmind hack Inquest datapads and analyze the intel#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"15"
+],
+"Rewarded by": [
+"Help Fisher Sorcha pull the beached whale back into the water"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help Fisher Sorcha pull the beached whale back into the water#reward2"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Help Pub Canach grow into a lucrative business"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help Pub Canach grow into a lucrative business#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Help out with research and expedition tasks around Pilgrim's Rest"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help out with research and expedition tasks around Pilgrim's Rest#reward1"
+},
+{
+"Has context": [
+"Renown heart"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"10"
+],
+"Rewarded by": [
+"Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Investigate the tide pools to help the Hullgardeners find resources"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Investigate the tide pools to help the Hullgardeners find resources#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Keep the Hullgardeners comfortable while they work on their tans"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Keep the Hullgardeners comfortable while they work on their tans#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Return the castaways' stolen supplies to Corin"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Return the castaways' stolen supplies to Corin#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Stop the creature from summoning and consuming the welcome-party attendees"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Stop the creature from summoning and consuming the welcome-party attendees#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Use turtle bait to help Audine guide the baby turtles to the safety of deep water"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Use turtle bait to help Audine guide the baby turtles to the safety of deep water#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Use turtle bait to help Nara guide the baby turtles to the safety of deep water"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Use turtle bait to help Nara guide the baby turtles to the safety of deep water#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Use your skimmer to help gather fresh food for the castaways in Breezy Cay"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Use your skimmer to help gather fresh food for the castaways in Breezy Cay#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Use your skimmer to help gather fresh food for the castaways in Glimmering Arches"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Use your skimmer to help gather fresh food for the castaways in Glimmering Arches#reward1"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"5"
+],
+"Rewarded by": [
+"Use your skimmer to help gather fresh food for the castaways in Jetsam Point"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Use your skimmer to help gather fresh food for the castaways in Jetsam Point#reward2"
+}
+]
+}
