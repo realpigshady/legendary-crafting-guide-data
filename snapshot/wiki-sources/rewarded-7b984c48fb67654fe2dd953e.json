@@ -1,0 +1,46 @@
+{
+"fetched": 1794526409.452295,
+"item": "Tenebral Ward Token: Gloves",
+"kind": "rewarded",
+"q": "958df4846024",
+"rows": [
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Tenebral Ward Token: Gloves"
+],
+"_subject": "Depths of Cruelty#reward12"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Chance"
+],
+"Has rewarded item quantity": [
+"1"
+],
+"Rewarded by": [
+"Depths of Cruelty"
+],
+"Rewards item": [
+"Tenebral Ward Token: Gloves"
+],
+"_subject": "Depths of Cruelty#reward23"
+}
+]
+}

@@ -1,0 +1,98 @@
+{
+"fetched": 1794526409.5360534,
+"item": "Tenebral Ward Token: Leggings",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Aetherlocation Detective: Gold"
+],
+"Contains item": [
+"Tenebral Ward Token: Leggings"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Aetherlocation Detective: Gold#contains2"
+},
+{
+"Contained in": [
+"Aetherlocation Detective: Silver"
+],
+"Contains item": [
+"Tenebral Ward Token: Leggings"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Aetherlocation Detective: Silver#contains2"
+},
+{
+"Contained in": [
+"Marvelous Convergence Extraction"
+],
+"Contains item": [
+"Tenebral Ward Token: Leggings"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Marvelous Convergence Extraction#contains5"
+},
+{
+"Contained in": [
+"Serpent Simulator: Gold"
+],
+"Contains item": [
+"Tenebral Ward Token: Leggings"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Serpent Simulator: Gold#contains2"
+},
+{
+"Contained in": [
+"Serpent Simulator: Silver"
+],
+"Contains item": [
+"Tenebral Ward Token: Leggings"
+],
+"Has contained item chance": [
+"Chance"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Serpent Simulator: Silver#contains2"
+}
+]
+}
