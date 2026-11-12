@@ -8,6 +8,82 @@
   "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward Axe|Recipe: Shining Ward Axe"
  },
  "reply": {
-  "_error": "HTTP Error 403: Forbidden"
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 422269,
+     "ns": 0,
+     "title": "Tenebral Ward Armor Collection",
+     "revisions": [
+      {
+       "revid": 3196586,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "Unlocking the skin of one piece unlocks that skin for all weight classes.\n\n== Achievement ==\n{{achievement box}}\n\n=== Collection items ===\n{{collection table}}\n\n{{Visions of Eternity content}}\n\n[[Category:Achievements]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422365,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Axe",
+     "revisions": [
+      {
+       "revid": 3196989,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic axe.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110040\n| requires = voe\n}}\n[[Recipe: Shining Ward Axe]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Axe]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzende Astralwachen-Axt]]\n[[es:Receta: Hacha de resguardo brillante]]\n[[fr:Recette : hache de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422418,
+     "ns": 0,
+     "title": "Shining Ward Axe",
+     "revisions": [
+      {
+       "revid": 3199520,
+       "parentid": 3197144,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| prefix = Celestial\n| type = axe\n| skin = Shining Ward Axe (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110233\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Axe\n| disciplines = Weaponsmith\n| rating = 400\n| type = Axe\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Axe Blade\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15739\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzende Astralwachen-Axt]]\n[[es:Hacha de resguardo brillante]]\n[[fr:Hache de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422702,
+     "ns": 0,
+     "title": "Shining Ward Weapon Collector",
+     "revisions": [
+      {
+       "revid": 3215606,
+       "parentid": 3210954,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "[[Shining Ward Weapon Collector]] is a [[Rare Collections]] [[achievement]] that requires unlocking all of [[Shining Ward weapons]].\n\n== Achievement ==\n{{Achievement box}}\n\n== Collection items ==\n{{Collection table}}\n\n== External links ==\n* [https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-110233;1-109943;1-110219;1-110069;1-109982;1-110171;1-110168;1-109933;1-109966;1-110063;1-109992;1-110047;1-110183;1-109959;1-110225;1-110112;1-110062!e~0!f~1 gw2efficiency Crafting Calculator], gw2efficiency.com\n\n{{Visions of Eternity content}}\n[[Category:Rare Collections]]\n[[es:Coleccionista de armas de resguardo brillante]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
  }
 }

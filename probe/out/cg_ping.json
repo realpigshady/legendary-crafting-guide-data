@@ -1,0 +1,121 @@
+{
+ "params": {
+  "action": "query",
+  "meta": "siteinfo"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "general": {
+    "mainpage": "Main Page",
+    "base": "https://wiki.guildwars2.com/wiki/Main_Page",
+    "sitename": "Guild Wars 2 Wiki",
+    "mainpageisdomainroot": false,
+    "logo": "https://wiki.guildwars2.com/images/Logo.png",
+    "generator": "MediaWiki 1.44.6",
+    "phpversion": "8.3.36",
+    "phpsapi": "fpm-fcgi",
+    "dbtype": "mysql",
+    "dbversion": "8.0.42",
+    "imagewhitelistenabled": false,
+    "langconversion": true,
+    "linkconversion": true,
+    "titleconversion": true,
+    "linkprefixcharset": "",
+    "linkprefix": "",
+    "linktrail": "/^([a-z]+)(.*)$/sD",
+    "legaltitlechars": " %!\"$&'()*,\\-.\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+",
+    "invalidusernamechars": "@:>=",
+    "allunicodefixes": false,
+    "fixarabicunicode": true,
+    "fixmalayalamunicode": true,
+    "case": "first-letter",
+    "lang": "en",
+    "fallback": [],
+    "rtl": false,
+    "fallback8bitEncoding": "windows-1252",
+    "readonly": false,
+    "writeapi": true,
+    "maxarticlesize": 2097152,
+    "timezone": "UTC",
+    "timeoffset": 0,
+    "articlepath": "/wiki/$1",
+    "scriptpath": "",
+    "script": "/index.php",
+    "variantarticlepath": false,
+    "server": "https://wiki.guildwars2.com",
+    "servername": "wiki.guildwars2.com",
+    "wikiid": "en_wikidb_gw2",
+    "time": "2026-11-12T23:11:07Z",
+    "misermode": false,
+    "uploadsenabled": true,
+    "maxuploadsize": 15720640,
+    "minuploadchunksize": 1024,
+    "galleryoptions": {
+     "imagesPerRow": 0,
+     "imageWidth": 120,
+     "imageHeight": 120,
+     "captionLength": true,
+     "showBytes": true,
+     "showDimensions": true,
+     "mode": "traditional"
+    },
+    "thumblimits": {
+     "0": 120,
+     "1": 150,
+     "2": 180,
+     "3": 200,
+     "4": 250,
+     "5": 300
+    },
+    "imagelimits": {
+     "0": {
+      "width": 320,
+      "height": 240
+     },
+     "1": {
+      "width": 640,
+      "height": 480
+     },
+     "2": {
+      "width": 800,
+      "height": 600
+     },
+     "3": {
+      "width": 1024,
+      "height": 768
+     },
+     "4": {
+      "width": 1280,
+      "height": 1024
+     },
+     "5": {
+      "width": 2560,
+      "height": 2048
+     }
+    },
+    "favicon": "https://wiki.guildwars2.com/favicon.ico",
+    "centralidlookupprovider": "local",
+    "allcentralidlookupproviders": [
+     "local"
+    ],
+    "interwikimagic": true,
+    "magiclinks": {
+     "ISBN": false,
+     "PMID": false,
+     "RFC": false
+    },
+    "categorycollation": "uca-en-u-kn",
+    "nofollowlinks": true,
+    "nofollownsexceptions": [],
+    "nofollowdomainexceptions": [
+     "mediawiki.org"
+    ],
+    "externallinktarget": false,
+    "citeresponsivereferences": true,
+    "mobileserver": "https://wiki.guildwars2.com",
+    "max-page-id": 424754
+   }
+  }
+ }
+}
