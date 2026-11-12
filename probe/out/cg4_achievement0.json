@@ -1,0 +1,9 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Gives item::Oiled Ancient Focus Core||Oiled Ancient Longbow Stave||Oiled Ancient Scepter Core||Oiled Ancient Short-Bow Stave||Oiled Ancient Staff Head||Oiled Orichalcum Axe Blade]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

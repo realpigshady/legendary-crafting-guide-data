@@ -1,0 +1,35 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Vial of Linseed Oil"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 159708,
+     "ns": 0,
+     "title": "Vial of Linseed Oil",
+     "revisions": [
+      {
+       "revid": 2894112,
+       "parentid": 2331633,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Fish Oil.png\n| type = crafting material\n| material type = fine\n| material storage = Intermediate Crafting Materials\n| rarity = fine\n| value = 170\n| id = 73034\n}}\n[[Vial of Linseed Oil|Vials of Linseed Oil]] are predominantly used to craft equipment with four attribute prefixes.\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Recipe ===\n{{recipe\n| source = automatic\n| type = Refinement\n| disciplines = armorsmith, artificer, chef, huntsman, leatherworker, scribe, tailor, weaponsmith\n| rating = 0\n| quantity = 1\n| ingredient1 = 15 Pile of Flax Seeds\n| ingredient2 = 5 Milling Stone\n| ingredient3 = 1 Milling Basin\n| id = 10950\n}}\n\n=== Achievements ===\n{{achievement list|reward=Vial of Linseed Oil}}\n\n== Used in ==\n{{recipe list by discipline}}\n\n=== Guild upgrades ===\n{{guild upgrade list}}\n\n{{Fine crafting materials nav}}\n\n[[de:Phiole mit Leinsamen-Öl]]\n[[es:Frasco de aceite de linaza]]\n[[fr:Fiole d'huile de lin]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

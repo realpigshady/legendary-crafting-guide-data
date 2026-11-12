@@ -1,0 +1,78 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Gives item::Oiled Orichalcum Dagger Blade||Oiled Orichalcum Greatsword Blade||Oiled Orichalcum Hammer Head||Oiled Orichalcum Horn||Oiled Orichalcum Mace Head||Oiled Orichalcum Pistol Barrel]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Gives item",
+     "key": "Gives_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Gives item quantity",
+     "key": "Gives_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement page",
+     "key": "Has_achievement_page",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "c93fd4d5609efb3077850863de9faeb5",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.009170"
+   }
+  }
+ }
+}

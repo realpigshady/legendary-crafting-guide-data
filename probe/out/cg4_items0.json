@@ -1,0 +1,532 @@
+{
+ "params": {
+  "api": "/v2/items?ids=70522,71098,71331,71352,71574,72009,72428,72673,73874,73944,74825,75123,75321,75698,76164,76232,77064,109944,109976,110049,110052,110101,110153,110192"
+ },
+ "reply": [
+  {
+   "name": "Oiled Orichalcum Shield Boss",
+   "description": "Used to craft Shields.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 70522,
+   "chat_link": "[&AgF6EwEA]",
+   "icon": "https://render.guildwars2.com/file/59905C80D92E0357446EA2EC00C1EA0DCBD7590C/1202003.png"
+  },
+  {
+   "name": "Oiled Orichalcum Spear Head",
+   "description": "Used to craft Spears.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 71098,
+   "chat_link": "[&AgG6FQEA]",
+   "icon": "https://render.guildwars2.com/file/A35397BCEA37B9475C290B7438F2A604F05C4C2E/1202004.png"
+  },
+  {
+   "name": "Oiled Orichalcum Dagger Blade",
+   "description": "Used to craft Daggers.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 71331,
+   "chat_link": "[&AgGjFgEA]",
+   "icon": "https://render.guildwars2.com/file/93980AC863E85B78E5E5A8155CB0979F71434D9F/1201994.png"
+  },
+  {
+   "name": "Oiled Orichalcum Greatsword Blade",
+   "description": "Used to craft Greatswords.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 71352,
+   "chat_link": "[&AgG4FgEA]",
+   "icon": "https://render.guildwars2.com/file/DB92452250DA14D2BD05B10E21355CDA27B501B8/1201996.png"
+  },
+  {
+   "name": "Oiled Orichalcum Sword Blade",
+   "description": "Used to craft Swords.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 71574,
+   "chat_link": "[&AgGWFwEA]",
+   "icon": "https://render.guildwars2.com/file/C70E6EDA211C4AC598D960C19360B2270C12FE97/1202005.png"
+  },
+  {
+   "name": "Oiled Orichalcum Horn",
+   "description": "Used to craft Warhorns.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 72009,
+   "chat_link": "[&AgFJGQEA]",
+   "icon": "https://render.guildwars2.com/file/BE2CDA603E7264D93FCDAF039677222E29D6ADE6/1313118.png"
+  },
+  {
+   "name": "Oiled Orichalcum Pistol Barrel",
+   "description": "Used to craft Pistols.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 72428,
+   "chat_link": "[&AgHsGgEA]",
+   "icon": "https://render.guildwars2.com/file/2F10E33EE49824AFD400755754B102C2B4A51D45/1202000.png"
+  },
+  {
+   "name": "Oiled Ancient Longbow Stave",
+   "description": "Used to craft Longbows.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 72673,
+   "chat_link": "[&AgHhGwEA]",
+   "icon": "https://render.guildwars2.com/file/D39F1E7CDFA734B7FB36F33992051411DFB87EC9/1201984.png"
+  },
+  {
+   "name": "Oiled Orichalcum Rifle Barrel",
+   "description": "Used to craft Rifles.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 73874,
+   "chat_link": "[&AgGSIAEA]",
+   "icon": "https://render.guildwars2.com/file/9C16AF5B12A7A5DECAB7B6AC5634EAED1EC35714/1202001.png"
+  },
+  {
+   "name": "Oiled Orichalcum Axe Blade",
+   "description": "Used to craft Axes.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 73944,
+   "chat_link": "[&AgHYIAEA]",
+   "icon": "https://render.guildwars2.com/file/DFB7242BE33A64ED64807B5D1A9D0BDF74F65159/1201993.png"
+  },
+  {
+   "name": "Oiled Ancient Scepter Core",
+   "description": "Used to craft Scepters.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 74825,
+   "chat_link": "[&AgFJJAEA]",
+   "icon": "https://render.guildwars2.com/file/00AECD77570936ACB0693B663B34D90C2FDCF866/1201987.png"
+  },
+  {
+   "name": "Oiled Ancient Focus Core",
+   "description": "Used in Focus crafting.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 75123,
+   "chat_link": "[&AgFzJQEA]",
+   "icon": "https://render.guildwars2.com/file/9F7D475E520EB20619BC380A5D08C4C76810D3EC/1201982.png"
+  },
+  {
+   "name": "Oiled Orichalcum Torch Head",
+   "description": "Used to craft Torches.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 75321,
+   "chat_link": "[&AgE5JgEA]",
+   "icon": "https://render.guildwars2.com/file/D660E97E07130675172DCE5037475807A2F5647C/1202007.png"
+  },
+  {
+   "name": "Oiled Ancient Staff Head",
+   "description": "Used in Staff crafting.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 75698,
+   "chat_link": "[&AgGyJwEA]",
+   "icon": "https://render.guildwars2.com/file/C1E9B27FBC74A24F4938460AD1184A343065EFBB/1201991.png"
+  },
+  {
+   "name": "Oiled Orichalcum Hammer Head",
+   "description": "Used to craft Hammers.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 76164,
+   "chat_link": "[&AgGEKQEA]",
+   "icon": "https://render.guildwars2.com/file/1DBE02F1957D5FA27E68A62F5ACFDBE8F771410F/1201998.png"
+  },
+  {
+   "name": "Oiled Ancient Short-Bow Stave",
+   "description": "Used to craft short bows.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 76232,
+   "chat_link": "[&AgHIKQEA]",
+   "icon": "https://render.guildwars2.com/file/D66370C95F2A21C575A2157009B44353B6E49371/1201989.png"
+  },
+  {
+   "name": "Oiled Orichalcum Mace Head",
+   "description": "Used to craft Maces.",
+   "type": "CraftingMaterial",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 8,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 77064,
+   "chat_link": "[&AgEILQEA]",
+   "icon": "https://render.guildwars2.com/file/9CF30B560B14974596072A3E4059AF52C80D45E0/1201999.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Leggings",
+   "description": "Acquired occasionally by earning a silver medal or better in Leyspring Hollows adventures.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward leggings.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 20000,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 109944,
+   "chat_link": "[&AgF4rQEA]",
+   "icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Shoulders",
+   "description": "Acquired occasionally from magic mirrors in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for an Tenebral Ward mantle.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 10000,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 109976,
+   "chat_link": "[&AgGYrQEA]",
+   "icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Chest",
+   "description": "Acquired by completing the Leyspring Hollows Mastery achievement.\nTrade to alliance field quartermasters in Castora for a Tenebral Ward chestplate.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 0,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 110049,
+   "chat_link": "[&AgHhrQEA]",
+   "icon": "https://render.guildwars2.com/file/50E1B3FF7510CF6D313C1F68CC0CE2C2B93562F7/3805680.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Helmet",
+   "description": "Acquired by completing the story chapter Everything That We Are.\nTrade to alliance field quartermasters in Castora for a Tenebral Ward hood.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 0,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 110052,
+   "chat_link": "[&AgHkrQEA]",
+   "icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Boots",
+   "description": "Acquired occasionally from jumping puzzles in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward boots.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 5000,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 110101,
+   "chat_link": "[&AgEVrgEA]",
+   "icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png"
+  },
+  {
+   "name": "Tenebral Ward Token: Gloves",
+   "description": "Acquired occasionally from events in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward gloves.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 5000,
+   "game_types": [
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 110153,
+   "chat_link": "[&AgFJrgEA]",
+   "icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png"
+  },
+  {
+   "name": "Shining Ward Weapon Shard",
+   "description": "Used to craft Shining Ward weapons or to purchase them from completed renown heart vendors in Leyspring Hollows.\n\nCan be crafted via huntsman, artificing, and weaponsmithing disciplines or purchased from map vendors in Leyspring Hollows.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Exotic",
+   "vendor_value": 10,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 110192,
+   "chat_link": "[&AgFwrgEA]",
+   "icon": "https://render.guildwars2.com/file/393FA4EEDC67081C9FB4457834B1CFADE9D7A6FE/3805895.png"
+  }
+ ]
+}

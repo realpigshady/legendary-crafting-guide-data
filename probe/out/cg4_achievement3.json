@@ -1,0 +1,176 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Gives item::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Gives item",
+     "key": "Gives_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Gives item quantity",
+     "key": "Gives_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement page",
+     "key": "Has_achievement_page",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Code of Creation (achievements)#achievement9400": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Tenebral Ward Token: Helmet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Helmet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [
+       1
+      ],
+      "Has game id": [
+       9400
+      ],
+      "Has canonical name": [
+       "Everything That We Are"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Code of Creation (achievements)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Code_of_Creation_(achievements)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Code of Creation (achievements)#achievement9400",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Code_of_Creation_(achievements)#achievement9400",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Leyspring Hollows (achievements)#achievement9417": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Relic of the Eternal Alchemy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_the_Eternal_Alchemy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Shadowstone Research Data",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shadowstone_Research_Data",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Tenebral Ward Token: Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Mists Scrying Mirror",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mists_Scrying_Mirror",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       9417
+      ],
+      "Has canonical name": [
+       "Leyspring Hollows Mastery"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Leyspring Hollows (achievements)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows_(achievements)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Leyspring Hollows (achievements)#achievement9417",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows_(achievements)#achievement9417",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "b2804dc7d9c43fee6ed802de0ab4dddc",
+    "count": 2,
+    "offset": 0,
+    "source": "",
+    "time": "0.052989"
+   }
+  }
+ }
+}
