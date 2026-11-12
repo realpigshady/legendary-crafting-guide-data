@@ -1,0 +1,1132 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Tenebral Ward Medium Gloves||Tenebral Ward Medium Helmet||Tenebral Ward Medium Leggings||Tenebral Ward Medium Pauldrons]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Has vendor.Has context"
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Alliance Field Quartermaster#vendor159": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Helmet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Helmet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "70000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor159",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor159",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor160": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Pauldrons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Pauldrons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor160",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor160",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor162": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "70000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor162",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor162",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor163": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Gold"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor163",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor163",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor165": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Helmet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Helmet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "35000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Token: Helmet"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor165",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor165",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor166": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Pauldrons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Pauldrons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "52500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Token: Shoulders"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor166",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor166",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor168": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "35000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Token: Gloves"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor168",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor168",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor169": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "70000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Token: Leggings"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Leyspring Hollows",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Leyspring_Hollows",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor169",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor169",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tenebral Ward Armor Chest#vendor15": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Tenebral Ward Armor Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Item"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Armor Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Tenebral Ward Armor Chest#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tenebral Ward Armor Chest#vendor16": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Helmet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Helmet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Tenebral Ward Armor Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Item"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Armor Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Tenebral Ward Armor Chest#vendor16",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest#vendor16",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tenebral Ward Armor Chest#vendor17": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Tenebral Ward Armor Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Item"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Armor Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Tenebral Ward Armor Chest#vendor17",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest#vendor17",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tenebral Ward Armor Chest#vendor18": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Tenebral Ward Medium Pauldrons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Medium_Pauldrons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Tenebral Ward Armor Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Item"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Tenebral Ward Armor Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Tenebral Ward Armor Chest#vendor18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Armor_Chest#vendor18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "66286d9b9c47d1aa8d8cdca73077cd8c",
+    "count": 12,
+    "offset": 0,
+    "source": "",
+    "time": "0.190404"
+   }
+  }
+ }
+}

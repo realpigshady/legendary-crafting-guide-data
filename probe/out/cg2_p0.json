@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Oiled Ancient Focus Core|Oiled Ancient Longbow Stave|Oiled Ancient Scepter Core|Oiled Ancient Short-Bow Stave|Oiled Ancient Staff Head|Oiled Orichalcum Axe Blade|Oiled Orichalcum Dagger Blade|Oiled Orichalcum Greatsword Blade|Oiled Orichalcum Hammer Head|Oiled Orichalcum Horn|Oiled Orichalcum Mace Head|Oiled Orichalcum Pistol Barrel|Oiled Orichalcum Rifle Barrel|Oiled Orichalcum Shield Boss|Oiled Orichalcum Spear Head|Oiled Orichalcum Sword Blade|Oiled Orichalcum Torch Head|Shining Ward Weapon Shard"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

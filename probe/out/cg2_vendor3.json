@@ -1,0 +1,1608 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Shining Ward Dagger||Shining Ward Focus||Shining Ward Greatsword||Shining Ward Hammer||Shining Ward Longbow||Shining Ward Mace]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Has vendor.Has context"
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Acolyte of Balance Dexx#vendor41": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Longbow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Longbow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Ancient Longbow Stave"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor41",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor41",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor43": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Dagger",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Dagger",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Dagger Blade"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor43",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor43",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor44": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Focus",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Focus",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Ancient Focus Core"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor44",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor44",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor45": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Greatsword",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Greatsword",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Greatsword Blade"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor45",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor45",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor46": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Hammer",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Hammer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Hammer Head"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor46",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor46",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor47": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Mace",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Mace",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Mace Head"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor47",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor47",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor41": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Longbow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Longbow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Ancient Longbow Stave"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor41",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor41",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor43": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Dagger",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Dagger",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Dagger Blade"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor43",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor43",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor44": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Focus",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Focus",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Ancient Focus Core"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor44",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor44",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor45": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Greatsword",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Greatsword",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Greatsword Blade"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor45",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor45",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor46": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Hammer",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Hammer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Hammer Head"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor46",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor46",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor47": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Mace",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Mace",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Mace Head"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor47",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor47",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "460dd4d8c51be5e322ae9e52af3c6138",
+    "count": 12,
+    "offset": 0,
+    "source": "",
+    "time": "0.399072"
+   }
+  }
+ }
+}

@@ -1,0 +1,1068 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Shining Ward Axe]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Has vendor.Has context"
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Acolyte of Balance Dexx#vendor40": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Axe",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Axe",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Axe Blade"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor40",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor40",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor69": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Spear",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Spear",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor69",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor69",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor70": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Staff",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Staff",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor70",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor70",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor71": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Sword",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Sword",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor71",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor71",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor72": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Torch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Torch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor72",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor72",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor73": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Warhorn",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Warhorn",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor73",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor73",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor40": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Shining Ward Axe",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shining_Ward_Axe",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shining Ward Weapon Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "6"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Oiled Orichalcum Axe Blade"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "12"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Glob of Ectoplasm"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor40",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor40",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor69": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Spear",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Spear",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the recipe to not be unlocked and the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor69",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor69",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor70": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Staff",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Staff",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the recipe to not be unlocked and the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor70",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor70",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor71": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Sword",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Sword",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the recipe to not be unlocked and the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor71",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor71",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor72": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Torch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Torch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the recipe to not be unlocked and the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor72",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor72",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor73": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Shining Ward Warhorn",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Shining_Ward_Warhorn",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Shadowstone Research Data"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the recipe to not be unlocked and the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor73",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor73",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "5c60e78dd3b62e21b15b839fd430accd",
+    "count": 12,
+    "offset": 0,
+    "source": "",
+    "time": "0.151518"
+   }
+  }
+ }
+}
