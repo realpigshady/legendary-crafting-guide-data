@@ -1,0 +1,196 @@
+{
+ "params": {
+  "action": "query",
+  "list": "allimages",
+  "aiprefix": "Waypoint",
+  "ailimit": "30",
+  "aiprop": "url|size|mime"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "allimages": [
+    {
+     "name": "Waypoint.jpg",
+     "size": 253194,
+     "width": 283,
+     "height": 732,
+     "url": "https://wiki.guildwars2.com/images/0/0f/Waypoint.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint.jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=40982",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint.jpg"
+    },
+    {
+     "name": "Waypoint_(The_Battle_of_Dragonfall).jpg",
+     "size": 68040,
+     "width": 489,
+     "height": 870,
+     "url": "https://wiki.guildwars2.com/images/5/5d/Waypoint_%28The_Battle_of_Dragonfall%29.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(The_Battle_of_Dragonfall).jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=401669",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint (The Battle of Dragonfall).jpg"
+    },
+    {
+     "name": "Waypoint_(The_Pact).jpg",
+     "size": 153144,
+     "width": 784,
+     "height": 1395,
+     "url": "https://wiki.guildwars2.com/images/5/55/Waypoint_%28The_Pact%29.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(The_Pact).jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=400760",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint (The Pact).jpg"
+    },
+    {
+     "name": "Waypoint_(The_Pact_contested).jpg",
+     "size": 272482,
+     "width": 715,
+     "height": 1431,
+     "url": "https://wiki.guildwars2.com/images/d/d6/Waypoint_%28The_Pact_contested%29.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(The_Pact_contested).jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=411924",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint (The Pact contested).jpg"
+    },
+    {
+     "name": "Waypoint_(destroyed).jpg",
+     "size": 434499,
+     "width": 1542,
+     "height": 1157,
+     "url": "https://wiki.guildwars2.com/images/6/66/Waypoint_%28destroyed%29.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(destroyed).jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=411923",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint (destroyed).jpg"
+    },
+    {
+     "name": "Waypoint_(map_icon).png",
+     "size": 5275,
+     "width": 64,
+     "height": 64,
+     "url": "https://wiki.guildwars2.com/images/d/d2/Waypoint_%28map_icon%29.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(map_icon).png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=20033",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint (map icon).png"
+    },
+    {
+     "name": "Waypoint_(tango_icon).png",
+     "size": 3347,
+     "width": 20,
+     "height": 20,
+     "url": "https://wiki.guildwars2.com/images/3/3a/Waypoint_%28tango_icon%29.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_(tango_icon).png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=201408",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint (tango icon).png"
+    },
+    {
+     "name": "Waypoint_1.png",
+     "size": 15015,
+     "width": 812,
+     "height": 615,
+     "url": "https://wiki.guildwars2.com/images/d/d8/Waypoint_1.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_1.png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=64428",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint 1.png"
+    },
+    {
+     "name": "Waypoint_2.png",
+     "size": 25844,
+     "width": 812,
+     "height": 615,
+     "url": "https://wiki.guildwars2.com/images/6/6e/Waypoint_2.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_2.png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=64431",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint 2.png"
+    },
+    {
+     "name": "Waypoint_3.png",
+     "size": 26673,
+     "width": 812,
+     "height": 615,
+     "url": "https://wiki.guildwars2.com/images/5/52/Waypoint_3.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_3.png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=64432",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint 3.png"
+    },
+    {
+     "name": "Waypoint_Recalibration_Device.jpg",
+     "size": 355869,
+     "width": 719,
+     "height": 977,
+     "url": "https://wiki.guildwars2.com/images/2/22/Waypoint_Recalibration_Device.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_Recalibration_Device.jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=179388",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint Recalibration Device.jpg"
+    },
+    {
+     "name": "Waypoint_Research_Material.jpg",
+     "size": 256321,
+     "width": 1045,
+     "height": 996,
+     "url": "https://wiki.guildwars2.com/images/a/a6/Waypoint_Research_Material.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_Research_Material.jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=198761",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint Research Material.jpg"
+    },
+    {
+     "name": "Waypoint_Research_Material_location.jpg",
+     "size": 63475,
+     "width": 345,
+     "height": 306,
+     "url": "https://wiki.guildwars2.com/images/c/c1/Waypoint_Research_Material_location.jpg",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_Research_Material_location.jpg",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=128612",
+     "mime": "image/jpeg",
+     "ns": 6,
+     "title": "File:Waypoint Research Material location.jpg"
+    },
+    {
+     "name": "Waypoint_Unlock_Box.png",
+     "size": 7214,
+     "width": 64,
+     "height": 64,
+     "url": "https://wiki.guildwars2.com/images/6/61/Waypoint_Unlock_Box.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_Unlock_Box.png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=215063",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint Unlock Box.png"
+    },
+    {
+     "name": "Waypoint_cost_versus_level_example.png",
+     "size": 20424,
+     "width": 944,
+     "height": 675,
+     "url": "https://wiki.guildwars2.com/images/0/0c/Waypoint_cost_versus_level_example.png",
+     "descriptionurl": "https://wiki.guildwars2.com/wiki/File:Waypoint_cost_versus_level_example.png",
+     "descriptionshorturl": "https://wiki.guildwars2.com/index.php?curid=202836",
+     "mime": "image/png",
+     "ns": 6,
+     "title": "File:Waypoint cost versus level example.png"
+    }
+   ]
+  }
+ }
+}
