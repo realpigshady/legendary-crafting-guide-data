@@ -1,0 +1,5 @@
+{
+"revid": 2370871,
+"text": "{{Item infobox\n| description = Used to craft [[Rifle]]s.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 73874\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10610\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Gewehrlauf]]\n[[es:Cañón para rifle de oricalco engrasado]]\n[[fr:Canon de fusil en orichalque huilé]]",
+"title": "Oiled Orichalcum Rifle Barrel"
+}

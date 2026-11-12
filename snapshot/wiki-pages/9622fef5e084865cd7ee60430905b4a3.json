@@ -1,0 +1,5 @@
+{
+"revid": 2673458,
+"text": "{{Item infobox\n| description = Used to craft [[Shield]]s.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 70522\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 2 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 11042\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Schildboss]]\n[[es:Umbo para escudo de oricalco engrasado]]\n[[fr:Ombon en orichalque huilé]]",
+"title": "Oiled Orichalcum Shield Boss"
+}

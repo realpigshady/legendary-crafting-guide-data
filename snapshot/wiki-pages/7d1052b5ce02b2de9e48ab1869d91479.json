@@ -1,0 +1,5 @@
+{
+"revid": 2370874,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[Spear]]s.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 71098\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10778\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Speerspitze]]\n[[es:Punta para lanza de oricalco engrasada]]\n[[fr:Tête de lance en orichalque huilée]]",
+"title": "Oiled Orichalcum Spear Head"
+}

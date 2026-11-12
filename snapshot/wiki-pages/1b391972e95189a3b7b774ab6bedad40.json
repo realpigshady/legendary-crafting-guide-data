@@ -1,0 +1,5 @@
+{
+"revid": 2370814,
+"text": "{{Item infobox\n| description = Used to craft [[Longbow]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 72673\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 4 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10587\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Langbogenstab]]\n[[es:Duela para arco largo antiguo engrasada]]\n[[fr:Hampe d'arc long en bois ancien huilé]]",
+"title": "Oiled Ancient Longbow Stave"
+}

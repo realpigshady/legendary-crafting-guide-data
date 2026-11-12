@@ -1,0 +1,5 @@
+{
+"revid": 2370812,
+"text": "{{Item infobox\n| description = Used in [[Focus]] crafting.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 75123\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 2 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10914\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Fokuskern]]\n[[es:Núcleo para foco antiguo engrasado]]\n[[fr:Noyau de focus en bois ancien huilé]]",
+"title": "Oiled Ancient Focus Core"
+}

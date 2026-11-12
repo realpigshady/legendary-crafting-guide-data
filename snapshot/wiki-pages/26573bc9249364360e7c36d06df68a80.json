@@ -1,0 +1,5 @@
+{
+"revid": 2673451,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Axes.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 73944\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10463\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Axtschneide]]\n[[es:Filo para hacha de oricalco engrasado]]\n[[fr:Lame de hache en orichalque huilée]]",
+"title": "Oiled Orichalcum Axe Blade"
+}

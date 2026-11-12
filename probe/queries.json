@@ -1,158 +1,45 @@
 {
- "cg3_p0": {
+ "cg4_p0": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "ids|content",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Oiled Ancient Focus Core|Oiled Ancient Longbow Stave|Oiled Ancient Scepter Core|Oiled Ancient Short-Bow Stave|Oiled Ancient Staff Head|Oiled Orichalcum Axe Blade|Oiled Orichalcum Dagger Blade|Oiled Orichalcum Greatsword Blade|Oiled Orichalcum Hammer Head|Oiled Orichalcum Horn|Oiled Orichalcum Mace Head|Oiled Orichalcum Pistol Barrel"
+  "titles": "Vial of Linseed Oil"
  },
- "cg3_p1": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "ids|content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Oiled Orichalcum Rifle Barrel|Oiled Orichalcum Shield Boss|Oiled Orichalcum Spear Head|Oiled Orichalcum Sword Blade|Oiled Orichalcum Torch Head|Shining Ward Weapon Shard|Tenebral Ward Token: Boots|Tenebral Ward Token: Chest|Tenebral Ward Token: Gloves|Tenebral Ward Token: Helmet|Tenebral Ward Token: Leggings|Tenebral Ward Token: Shoulders"
- },
- "cg3_rewarded0": {
+ "cg4_vendor0": {
   "action": "ask",
-  "query": "[[Rewards item::Recipe: Shining Ward Axe||Recipe: Shining Ward Dagger||Recipe: Shining Ward Focus||Recipe: Shining Ward Greatsword||Recipe: Shining Ward Hammer||Recipe: Shining Ward Longbow]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+  "query": "[[Sells item::Oiled Ancient Focus Core||Oiled Ancient Longbow Stave||Oiled Ancient Scepter Core||Oiled Ancient Short-Bow Stave||Oiled Ancient Staff Head||Oiled Orichalcum Axe Blade]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "cg3_rewarded1": {
+ "cg4_vendor1": {
   "action": "ask",
-  "query": "[[Rewards item::Recipe: Shining Ward Mace||Recipe: Shining Ward Pistol||Recipe: Shining Ward Rifle||Recipe: Shining Ward Scepter||Recipe: Shining Ward Shield||Recipe: Shining Ward Short Bow]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+  "query": "[[Sells item::Oiled Orichalcum Dagger Blade||Oiled Orichalcum Greatsword Blade||Oiled Orichalcum Hammer Head||Oiled Orichalcum Horn||Oiled Orichalcum Mace Head||Oiled Orichalcum Pistol Barrel]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "cg3_rewarded2": {
+ "cg4_vendor2": {
   "action": "ask",
-  "query": "[[Rewards item::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Tenebral Ward Medium Boots]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+  "query": "[[Sells item::Oiled Orichalcum Rifle Barrel||Oiled Orichalcum Shield Boss||Oiled Orichalcum Spear Head||Oiled Orichalcum Sword Blade||Oiled Orichalcum Torch Head||Shining Ward Weapon Shard]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "cg3_rewarded3": {
+ "cg4_vendor3": {
   "action": "ask",
-  "query": "[[Rewards item::Tenebral Ward Medium Chestplate||Tenebral Ward Medium Gloves||Tenebral Ward Medium Helmet||Tenebral Ward Medium Leggings||Tenebral Ward Medium Pauldrons]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+  "query": "[[Sells item::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "cg3_track0": {
+ "cg4_achievement0": {
   "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Axe;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
+  "query": "[[Gives item::Oiled Ancient Focus Core||Oiled Ancient Longbow Stave||Oiled Ancient Scepter Core||Oiled Ancient Short-Bow Stave||Oiled Ancient Staff Head||Oiled Orichalcum Axe Blade]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
  },
- "cg3_track1": {
+ "cg4_achievement1": {
   "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Dagger;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
+  "query": "[[Gives item::Oiled Orichalcum Dagger Blade||Oiled Orichalcum Greatsword Blade||Oiled Orichalcum Hammer Head||Oiled Orichalcum Horn||Oiled Orichalcum Mace Head||Oiled Orichalcum Pistol Barrel]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
  },
- "cg3_track2": {
+ "cg4_achievement2": {
   "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Focus;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
+  "query": "[[Gives item::Oiled Orichalcum Rifle Barrel||Oiled Orichalcum Shield Boss||Oiled Orichalcum Spear Head||Oiled Orichalcum Sword Blade||Oiled Orichalcum Torch Head||Shining Ward Weapon Shard]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
  },
- "cg3_track3": {
+ "cg4_achievement3": {
   "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Greatsword;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
+  "query": "[[Gives item::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
  },
- "cg3_track4": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Hammer;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track5": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Longbow;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track6": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Mace;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track7": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Pistol;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track8": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Rifle;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track9": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Scepter;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track10": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Shield;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track11": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Short Bow;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track12": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Spear;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track13": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Staff;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track14": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Sword;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track15": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Torch;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track16": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Recipe: Shining Ward Warhorn;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track17": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Boots;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track18": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Chestplate;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track19": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Gloves;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track20": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Helmet;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track21": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Leggings;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_track22": {
-  "action": "ask",
-  "query": "[[Contains item in reward track::Tenebral Ward Medium Pauldrons;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
- },
- "cg3_salvage0": {
-  "action": "ask",
-  "query": "[[Salvages into::Recipe: Shining Ward Axe||Recipe: Shining Ward Dagger||Recipe: Shining Ward Focus||Recipe: Shining Ward Greatsword||Recipe: Shining Ward Hammer||Recipe: Shining Ward Longbow]]|?Salvages into|?Has canonical name|limit=500|offset=0"
- },
- "cg3_salvage1": {
-  "action": "ask",
-  "query": "[[Salvages into::Recipe: Shining Ward Mace||Recipe: Shining Ward Pistol||Recipe: Shining Ward Rifle||Recipe: Shining Ward Scepter||Recipe: Shining Ward Shield||Recipe: Shining Ward Short Bow]]|?Salvages into|?Has canonical name|limit=500|offset=0"
- },
- "cg3_salvage2": {
-  "action": "ask",
-  "query": "[[Salvages into::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Tenebral Ward Medium Boots]]|?Salvages into|?Has canonical name|limit=500|offset=0"
- },
- "cg3_salvage3": {
-  "action": "ask",
-  "query": "[[Salvages into::Tenebral Ward Medium Chestplate||Tenebral Ward Medium Gloves||Tenebral Ward Medium Helmet||Tenebral Ward Medium Leggings||Tenebral Ward Medium Pauldrons]]|?Salvages into|?Has canonical name|limit=500|offset=0"
- },
- "cg3_contained0": {
-  "action": "ask",
-  "query": "[[Contains item::Recipe: Shining Ward Axe||Recipe: Shining Ward Dagger||Recipe: Shining Ward Focus||Recipe: Shining Ward Greatsword||Recipe: Shining Ward Hammer||Recipe: Shining Ward Longbow]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
- },
- "cg3_contained1": {
-  "action": "ask",
-  "query": "[[Contains item::Recipe: Shining Ward Mace||Recipe: Shining Ward Pistol||Recipe: Shining Ward Rifle||Recipe: Shining Ward Scepter||Recipe: Shining Ward Shield||Recipe: Shining Ward Short Bow]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
- },
- "cg3_contained2": {
-  "action": "ask",
-  "query": "[[Contains item::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Tenebral Ward Medium Boots]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
- },
- "cg3_contained3": {
-  "action": "ask",
-  "query": "[[Contains item::Tenebral Ward Medium Chestplate||Tenebral Ward Medium Gloves||Tenebral Ward Medium Helmet||Tenebral Ward Medium Leggings||Tenebral Ward Medium Pauldrons]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ "cg4_items0": {
+  "api": "/v2/items?ids=70522,71098,71331,71352,71574,72009,72428,72673,73874,73944,74825,75123,75321,75698,76164,76232,77064,109944,109976,110049,110052,110101,110153,110192"
  }
 }

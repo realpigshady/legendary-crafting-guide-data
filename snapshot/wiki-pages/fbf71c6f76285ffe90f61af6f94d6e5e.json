@@ -1,0 +1,5 @@
+{
+"revid": 2675894,
+"text": "{{Item infobox\n| description = Used to craft [[Torch]]es.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 75321\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 2 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10583\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Fackelkopf]]\n[[es:Cabezal para antorcha de oricalco engrasado]]\n[[fr:Tête de torche en orichalque huilée]]",
+"title": "Oiled Orichalcum Torch Head"
+}

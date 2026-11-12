@@ -1,0 +1,5 @@
+{
+"revid": 2370861,
+"text": "{{Item infobox\n| description = Used to craft [[Hammer]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 76164\n}}\n\n== Acquisition ==\n{{recipe\n| type = Crafting Component\n| source = automatic\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10731\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Used to obtain a [[Charged Hammer Head]], an item used in the [[Machined Hammer (achievement)|Machined Hammer]] [[collection]].\n\n[[de:Geölter Orichalcum-Hammerkopf]]\n[[es:Cabeza para martillo de oricalco engrasada]]\n[[fr:Tête de marteau en orichalque huilé]]",
+"title": "Oiled Orichalcum Hammer Head"
+}

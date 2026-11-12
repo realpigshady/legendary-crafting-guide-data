@@ -1,0 +1,5 @@
+{
+"revid": 2370820,
+"text": "{{Item infobox\n| description = Used in [[Staff]] crafting.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 75698\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 2 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10890\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Used to obtain a [[Charged Staff Head]], an item used in the [[Machined Staff (achievement)|Machined Staff]] [[collection]].\n\n[[de:Geölter antiker Stabkopf]]\n[[es:Cabezal para báculo antiguo engrasado]]\n[[fr:Tête de bâton en bois ancien huilé]]",
+"title": "Oiled Ancient Staff Head"
+}

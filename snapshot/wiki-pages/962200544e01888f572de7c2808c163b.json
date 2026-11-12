@@ -1,0 +1,5 @@
+{
+"revid": 2673454,
+"text": "{{Item infobox\n| description = Used to craft [[Greatsword]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 71352\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10647\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* One of these is required to complete the [[Guide to Greater Understanding]] [[Rare_Collections|rare collection]], producing the greatsword [[Eclipse]]. It doesn't matter whether you buy or craft it yourself.\n* Charging this item at any [[place of power]] in the [[Heart of Maguuma]] will produce a [[Charged Greatsword Blade]].\n\n[[de:Geölte Orichalcum-Großschwertschneide]]\n[[es:Filo para mandoble de oricalco engrasado]]\n[[fr:Lame d'espadon en orichalque huilé]]",
+"title": "Oiled Orichalcum Greatsword Blade"
+}
