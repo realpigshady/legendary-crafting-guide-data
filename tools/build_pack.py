@@ -34,6 +34,7 @@ import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
 import ls3_currencies as ls3  # noqa: E402
 import castora  # noqa: E402
+import collection_gifts as cgift  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
@@ -403,6 +404,15 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                     "weapon_type": item.get("details", {}).get("type"),
                     **(armor_set_fields(title, item) if fam_id == "armor" else {}),
                 })
+
+    # collection-gated gifts (Data 4o (2)(a)): the collection's items, walked, as the gift's inputs
+    cstats, cwarn = cgift.apply(nodes, acts, random_seen, http.get_json, store, smw, currencies,
+                                lambda ids_: untradeable_ids(http, ids_), expand)
+    stats["collection_gifts"] = cstats
+    warnings += cwarn
+    for w_ in cwarn:
+        print(f"  {w_}", file=sys.stderr)
+    print(f"collection gifts: {cstats}")
 
     # random forge recipes: expected output and byproducts from the wiki's drop research
     try:

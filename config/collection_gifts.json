@@ -1,0 +1,42 @@
+{
+ "_comment": "Data 4o (2)(a) (2026-11-12): gifts a collection gates. The vendor that sells Gift of Shining Arms / Gift of Tenebral Armor needs the collection done, and completing the collection gives the first gift, so the pack recorded only the gift's price (25 gold + 300,000 Karma) or a free reward and the planner never costed the collection. tools/collection_gifts.py adds the collection's items as inputs of the gift's reward source (the collection achievement) and of every vendor source that requires the collection, and walks those items like any recipe ingredient (wiki recipe trees, SMW vendors, achievements). The addon's Planner 4o (2)(c) drops the items again for an account whose collection is done (PlanInputs::collections). Items come from /v2/achievements bits (Skin) and /v2/skins names when the API serves the achievement; 'items' is what the API and the wiki said on 2026-11-12 and is used, with a warning, when it doesn't. A collection is applied whole or not at all: if one item has no wiki page or no source, the gift is left as it was and the build warns.",
+ "step_minutes": 1,
+ "_step_minutes": "minutes per collection step on the reward source: the work is in the items' own sources; a step is only the unlock (equip / consume).",
+ "collections": [
+  {
+   "gift": "Gift of Shining Arms",
+   "achievement_id": 9437,
+   "achievement_name": "Shining Ward Weapon Collector",
+   "items_from_api": true,
+   "recipe_sheet": "Recipe: {item}",
+   "_recipe_sheet": "a crafted Shining Ward weapon needs its recipe learned first (wiki: 5 Shadowstone Research Data a recipe); the sheet joins the craft as one input when the wiki has a page for it with a source.",
+   "items": [
+    "Shining Ward Axe", "Shining Ward Dagger", "Shining Ward Focus", "Shining Ward Greatsword", "Shining Ward Hammer",
+    "Shining Ward Longbow", "Shining Ward Mace", "Shining Ward Pistol", "Shining Ward Rifle", "Shining Ward Scepter",
+    "Shining Ward Shield", "Shining Ward Short Bow", "Shining Ward Spear", "Shining Ward Staff", "Shining Ward Sword",
+    "Shining Ward Torch", "Shining Ward Warhorn"
+   ],
+   "_items": "API 2026-11-12 (probe/out/cg_api_achievements.json, cg_api_skins.json): 17 Skin bits, skins 14146 ... 14181, names as listed."
+  },
+  {
+   "gift": "Gift of Tenebral Armor",
+   "achievement_id": 9363,
+   "achievement_name": "Tenebral Ward Armor Collection",
+   "items_from_api": false,
+   "items": [
+    "Tenebral Ward Medium Helmet", "Tenebral Ward Medium Pauldrons", "Tenebral Ward Medium Chestplate",
+    "Tenebral Ward Medium Gloves", "Tenebral Ward Medium Leggings", "Tenebral Ward Medium Boots"
+   ],
+   "_items": "/v2/achievements does not serve 9363 (404 on 2026-11-12, Account; the probe's ids=9437,9363 reply has only 9437), so its bits can't be read here. One bit per slot, and one piece of any weight class unlocks the slot (the wiki, read by Account 2026-11-12): one node per slot, the Medium piece standing for all three weights (same Alliance Field Quartermaster prices per slot in the research note, docs/research/WAGES_OF_STARS_SOURCES.md sections 8-9 in the addon repo). Medium Boots is the one name not read on the wiki yet (Heavy Boots was).",
+   "per_slot_expect": {
+    "_note": "research note sections 8-9, read by hand on the wiki 2026-11-12: vendor price per slot (gold, Shadowstone Research Data, Karma) and the token route's Karma; guaranteed token only for the helmet (story chapter Everything That We Are) and the chest (Leyspring Hollows Mastery tier 4); the other four tokens are chance drops and are not counted. Checked against the walked vendor sources, warning on a difference.",
+    "Tenebral Ward Medium Helmet": {"gold": 100, "research_data": 150, "karma": 70000, "token_karma": 35000},
+    "Tenebral Ward Medium Pauldrons": {"gold": 200, "research_data": 200, "karma": 105000, "token_karma": 52500},
+    "Tenebral Ward Medium Chestplate": {"gold": 250, "research_data": 250, "karma": 175000, "token_karma": 87500},
+    "Tenebral Ward Medium Gloves": {"gold": 150, "research_data": 150, "karma": 70000, "token_karma": 35000},
+    "Tenebral Ward Medium Leggings": {"gold": 200, "research_data": 200, "karma": 105000, "token_karma": 70000},
+    "Tenebral Ward Medium Boots": {"gold": 150, "research_data": 150, "karma": 70000, "token_karma": 35000}
+   }
+  }
+ ]
+}
