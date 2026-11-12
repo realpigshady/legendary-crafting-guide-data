@@ -1,70 +1,38 @@
 {
- "promo_mf": {
+ "voe_metas": {
   "action": "query",
-  "prop": "revisions|templates",
+  "prop": "revisions",
   "rvprop": "content|ids",
   "rvslots": "main",
-  "tllimit": "100",
   "redirects": "1",
-  "titles": "Mystic Forge/Material Promotion|Mystic Forge/Material Promotion/Drop rate|Talk:Mystic Forge/Material Promotion"
+  "titles": "The Basilica Vaults|Defeat the ancient defenses and gather their power for Isgarren|Gather the loose magic for Isgarren|Defeat the champion enchanted weapon|Depths of Cruelty|Hammerhart Rumble!|Secrets of the Weald|Shackles of the Ancients"
  },
- "promo_mf_sub": {
-  "action": "query",
-  "list": "allpages",
-  "apprefix": "Mystic Forge/",
-  "apnamespace": "0",
-  "aplimit": "100"
- },
- "ls3_manfred": {
+ "voe_chests": {
   "action": "query",
   "prop": "revisions",
-  "rvprop": "content",
+  "rvprop": "content|ids",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Manfred Njallson"
+  "titles": "Seer Storage Chest|Seer Artifact Chest|Castora: Hero's Choice Chest|Leyspring Hollows: Hero's Choice Chest|Antiquated Ducat|Aether-Rich Sap"
  },
- "ls3_boxes": {
+ "voe_hearts": {
   "action": "query",
   "prop": "revisions",
-  "rvprop": "content",
+  "rvprop": "content|ids",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Winterberry Strongbox|Orrian Pearl Strongbox|Jade Shard Strongbox|Blood Ruby Strongbox|Fire Orchid Strongbox|Sack of Petrified Wood|Season 4 Material Chest (Raid)"
+  "titles": "Renown Hearts (Visions of Eternity)"
  },
- "ls3_sold_winterberry": {
-  "action": "ask",
-  "query": "[[Sells item::Fresh Winterberry]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ "voe_masteries": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Starlit Weald (achievements)|Shipwreck Strand (achievements)|Leyspring Hollows (achievements)|Eternity's Garden (achievements)"
  },
- "ls3_sold_blossom": {
+ "voe_vendors": {
   "action": "ask",
-  "query": "[[Sells item::Fire Orchid Blossom]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
- },
- "ls3_sold_pearl": {
-  "action": "ask",
-  "query": "[[Sells item::Orrian Pearl]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
- },
- "ls3_sold_ruby": {
-  "action": "ask",
-  "query": "[[Sells item::Blood Ruby]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
- },
- "ls3_sold_wood": {
-  "action": "ask",
-  "query": "[[Sells item::Petrified Wood]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
- },
- "ls3_sold_shard": {
-  "action": "ask",
-  "query": "[[Sells item::Jade Shard]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
- },
- "ls3_sold_insight": {
-  "action": "ask",
-  "query": "[[Sells item::Legendary Insight]]|?Has vendor|?Has item cost|?Located in|limit=20"
- },
- "ls3_contained": {
-  "action": "ask",
-  "query": "[[Contains item::+]][[Contains item::Blood Ruby||Petrified Wood||Fresh Winterberry||Jade Shard||Fire Orchid Blossom||Orrian Pearl]]|?Contains item|?Has contained item quantity|?Has contained item chance|limit=50"
- },
- "ls3_manfred_sells": {
-  "action": "ask",
-  "query": "[[Has vendor::Manfred Njallson]]|?Sells item|?Has item cost|?Has item quantity|?Has weekly purchase cap|?Located in|limit=50"
+  "query": "[[Sells item::Raw Enchanting Stone||Chromatic Sap]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
  }
 }
