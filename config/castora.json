@@ -76,7 +76,8 @@
   {"item": "Chromatic Sap", "input": "Aether-Rich Sap", "count": 5, "page": "Aether-Rich Sap"}
  ],
  "not_counted": [
-  "Seer Storage Chest (Depths of Cruelty): the 7 chests after Depths of Cruelty list no Raw Enchanting Stone on the wiki (gear only; checked 2026-11-12), so they add none here. The owner's handover counts 1 stone each: owner to confirm in game.",
+  "Seer Storage Chest (Depths of Cruelty): 0 Raw Enchanting Stone (owner 2026-11-12, docs/owner/2026-11-12/depths-of-cruelty.yaml in the addon repo, and the wiki: gear only). Never use the Starlit Weald Seer Storage Chest table for them.",
+  "Depths of Cruelty (owner 2026-11-12): the Magnificent Chest and the stage 4 daily bonus chest count once per account per day; the stage 4 repeatable bonus chest (10-15 Shadowstone Research Data) counts on every completion, so a later run of the day gives 7.5 (stages 1-3) + 12.5 = 20, not counted while owner rule F1 holds (one run a day). Replacement drops (Shadowstone Research Data 15 / 13, Tenebral Ward Token: Gloves) never add to the reward they replace; Kuda's Cache is one container a completion with no assumed contents; Mini Subject Gamma (unverified) and the unnamed guaranteed daily item stay unvalued.",
   "Repeat runs of any meta and its repeatable bonus chest beyond the day's first (owner rule F1).",
   "Map event blocks (Aether-Rich Sap / Antiquated Ducat events): no measured rate yet (owner assumption of 4 events an hour)."
  ]

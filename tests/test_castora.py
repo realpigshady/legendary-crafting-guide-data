@@ -63,3 +63,16 @@ def test_armor_set_fields():
     assert bp.armor_set_fields("Triumphant Hero's Breastplate", item)["armor_set"] == "Triumphant Hero's"
     assert bp.armor_set_fields("Selachimorpha", {"type": "Armor", "details": {"type": "HelmAquatic", "weight_class": "Heavy"}}) == {}
     assert bp.armor_set_fields("Eikasia, Mists-Grasper", {"type": "Armor", "details": {"type": "Gloves", "weight_class": "Clothing"}}) == {}
+
+
+def test_depths_of_cruelty_owner_rules():
+    """Owner 2026-11-12 (depths-of-cruelty.yaml): daily vs repeatable, no replacement drops, no stone."""
+    text = page("Depths of Cruelty")
+    every = text[text.index("(every completion)"):]
+    assert castora.guaranteed(every, "Shadowstone Research Data") == 12.5          # repeatable chest, each completion
+    assert castora.guaranteed(text, "Shadowstone Research Data") == 7.5 + 2.5 + 12.5   # stages 1-3 + daily bonus + repeatable
+    assert castora.guaranteed(text, "Raw Enchanting Stone") == 0
+    assert castora.guaranteed(text, "Tenebral Ward Token: Gloves") == 0             # replacement, chance only
+    assert all(f["page"] != "Seer Storage Chest" for f in castora.CONFIG["metas"]["evt:voe-lh:depths_of_cruelty"]["facts"])
+    opts = castora.CONFIG["heros_choice"]["leyspring"]["options"]
+    assert [o["item"] for o in opts] == ["Shadowstone Fragment", "Shadowstone Research Data"]   # one pick a day (variants + cap group)
