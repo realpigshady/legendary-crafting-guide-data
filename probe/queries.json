@@ -1,14 +1,11 @@
 {
- "cg_api_skins": {
-  "api": "/v2/skins?ids=14146,14242,14171,14170,14159,14212,14247,14200,14190,14177,14140,14239,14168,14147,14191,14208,14181"
- },
  "cg_pages_a": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "ids|content",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward weapons|Shining Ward Axe"
+  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward Axe|Recipe: Shining Ward Axe"
  },
  "cg_pages_b": {
   "action": "query",
@@ -16,14 +13,6 @@
   "rvprop": "ids|content",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Recipe: Shining Ward Axe|Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Token: Helmet"
- },
- "cg_pages_c": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "ids|content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Tenebral Ward Token: Chest|Alliance Field Quartermaster|Tenebral Ward armor|Everything That We Are"
+  "titles": "Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Medium Boots|Tenebral Ward Token: Helmet"
  }
 }
