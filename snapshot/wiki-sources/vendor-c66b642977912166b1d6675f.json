@@ -1,0 +1,96 @@
+{
+"fetched": 1794526077.4511807,
+"item": "Shining Ward Mace",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shining Ward Weapon Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "12"
+},
+{
+"Has item currency": "Research Note",
+"Has item value": "300"
+},
+{
+"Has item currency": "Oiled Orichalcum Mace Head",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Shining Ward Mace"
+],
+"_subject": "Acolyte of Balance Dexx#vendor47"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shining Ward Weapon Shard",
+"Has item value": "3"
+},
+{
+"Has item currency": "Glob of Ectoplasm",
+"Has item value": "12"
+},
+{
+"Has item currency": "Research Note",
+"Has item value": "300"
+},
+{
+"Has item currency": "Oiled Orichalcum Mace Head",
+"Has item value": "6"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the [[Assist Astral Ward Agent Snarlcrow and his associates in sabotaging the Inquest base of operations in Leyspring Hollows|renown heart]] to be complete"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Shining Ward Mace"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor47"
+}
+]
+}

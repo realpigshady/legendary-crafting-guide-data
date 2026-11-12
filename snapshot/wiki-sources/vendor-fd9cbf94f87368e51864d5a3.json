@@ -1,0 +1,111 @@
+{
+"fetched": 1794526077.5786188,
+"item": "Tenebral Ward Medium Helmet",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "100"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "70000"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "150"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Leyspring Hollows"
+],
+"Sells item": [
+"Tenebral Ward Medium Helmet"
+],
+"_subject": "Alliance Field Quartermaster#vendor159"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "35000"
+},
+{
+"Has item currency": "Tenebral Ward Token: Helmet",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Leyspring Hollows"
+],
+"Sells item": [
+"Tenebral Ward Medium Helmet"
+],
+"_subject": "Alliance Field Quartermaster#vendor165"
+},
+{
+"Has context": [
+"Item"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Tenebral Ward Armor Chest",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tenebral Ward Armor Chest"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [],
+"Sells item": [
+"Tenebral Ward Medium Helmet"
+],
+"_subject": "Tenebral Ward Armor Chest#vendor16"
+}
+]
+}
