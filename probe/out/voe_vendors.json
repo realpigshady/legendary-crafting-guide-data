@@ -1,0 +1,1311 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Raw Enchanting Stone||Chromatic Sap]]|?Has vendor|?Has item cost|?Has item quantity|?Has daily purchase cap|?Has weekly purchase cap|?Located in|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Acolyte of Balance Dexx#vendor14": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Acolyte of Balance Dexx#vendor15": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Acolyte of Balance Dexx",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Hall of Assemblage",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hall_of_Assemblage",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Acolyte of Balance Dexx#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Acolyte_of_Balance_Dexx#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor1": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Castora",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castora",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Alliance Field Quartermaster#vendor2": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Alliance Field Quartermaster",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Castora",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castora",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Alliance Field Quartermaster#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Alliance_Field_Quartermaster#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor14": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Astral Ward Agent Snarlcrow#vendor15": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Astral Ward Agent Snarlcrow",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Ordnance Depot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ordnance_Depot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Astral Ward Agent Snarlcrow#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Astral_Ward_Agent_Snarlcrow#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canach#vendor18": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Canach",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canach",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Breezy Cay",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Breezy_Cay",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Canach#vendor18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canach#vendor18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canach#vendor19": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Canach",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canach",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Breezy Cay",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Breezy_Cay",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Canach#vendor19",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canach#vendor19",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Captain Emund#vendor21": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Captain Emund",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Captain_Emund",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Shimmering Basin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shimmering_Basin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Captain Emund#vendor21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Captain_Emund#vendor21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Captain Emund#vendor22": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Captain Emund",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Captain_Emund",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Shimmering Basin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shimmering_Basin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Captain Emund#vendor22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Captain_Emund#vendor22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castaway Agnes#vendor18": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Castaway Agnes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castaway_Agnes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Hullgarden",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hullgarden",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Castaway Agnes#vendor18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castaway_Agnes#vendor18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castaway Agnes#vendor19": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Castaway Agnes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castaway_Agnes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Hullgarden",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hullgarden",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Castaway Agnes#vendor19",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castaway_Agnes#vendor19",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castora: Hero's Choice Chest#vendor1": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Castora: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castora:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Castora: Hero's Choice Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       25
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": []
+     },
+     "fulltext": "Castora: Hero's Choice Chest#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castora:_Hero%27s_Choice_Chest#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castora: Hero's Choice Chest#vendor2": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Castora: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castora:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Castora: Hero's Choice Chest"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       25
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": []
+     },
+     "fulltext": "Castora: Hero's Choice Chest#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castora:_Hero%27s_Choice_Chest#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Historian Meliza#vendor15": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Historian Meliza",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Pilgrim's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pilgrim%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Historian Meliza#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Historian Meliza#vendor16": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Historian Meliza",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Pilgrim's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pilgrim%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Historian Meliza#vendor16",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Historian_Meliza#vendor16",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Huntmaster Arnorr#vendor21": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Huntmaster Arnorr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Huntmaster_Arnorr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Untamed Crags",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Untamed_Crags",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Huntmaster Arnorr#vendor21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Huntmaster_Arnorr#vendor21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Huntmaster Arnorr#vendor22": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Huntmaster Arnorr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Huntmaster_Arnorr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Untamed Crags",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Untamed_Crags",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Huntmaster Arnorr#vendor22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Huntmaster_Arnorr#vendor22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Magister Sirkk#vendor21": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Magister Sirkk",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magister_Sirkk",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Crumbling Precipice",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Crumbling_Precipice",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Magister Sirkk#vendor21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Magister_Sirkk#vendor21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Magister Sirkk#vendor22": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Magister Sirkk",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magister_Sirkk",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Crumbling Precipice",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Crumbling_Precipice",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Magister Sirkk#vendor22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Magister_Sirkk#vendor22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Steward Brizio#vendor14": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Steward Brizio",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Artificer's Islet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Artificer%27s_Islet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Steward Brizio#vendor14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio#vendor14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Steward Brizio#vendor15": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Steward Brizio",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Artificer's Islet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Artificer%27s_Islet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Steward Brizio#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Steward_Brizio#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Alliance Representative Sharpwhisker#vendor20": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Tyrian Alliance Representative Sharpwhisker",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Alliance_Representative_Sharpwhisker",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Aether-Rich Sap"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Glimmering Arches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glimmering_Arches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Tyrian Alliance Representative Sharpwhisker#vendor20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Alliance_Representative_Sharpwhisker#vendor20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Alliance Representative Sharpwhisker#vendor21": {
+     "printouts": {
+      "Has vendor": [
+       {
+        "fulltext": "Tyrian Alliance Representative Sharpwhisker",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Alliance_Representative_Sharpwhisker",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Antiquated Ducat"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Glimmering Arches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glimmering_Arches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Tyrian Alliance Representative Sharpwhisker#vendor21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Alliance_Representative_Sharpwhisker#vendor21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "c9a94a9c0e09562dd6c6bfbf69385a16",
+    "count": 24,
+    "offset": 0,
+    "source": "",
+    "time": "0.158566"
+   }
+  }
+ }
+}

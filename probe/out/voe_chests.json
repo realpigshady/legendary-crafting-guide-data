@@ -1,0 +1,125 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Seer Storage Chest|Seer Artifact Chest|Castora: Hero's Choice Chest|Leyspring Hollows: Hero's Choice Chest|Antiquated Ducat|Aether-Rich Sap"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 405283,
+     "ns": 0,
+     "title": "Castora: Hero's Choice Chest",
+     "revisions": [
+      {
+       "revid": 3203318,
+       "parentid": 3137790,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Contains materials from [[Castora]]. Double-click to open.\n| type = Gizmo\n| rarity = Rare\n| bound = account\n| id = 105822\n| requires = voe\n}}\n[[Castora: Hero's Choice Chest]] is a [[container]] awarded once per day per account for completing the [[meta event]]s in [[Shipwreck Strand]], [[Starlit Weald]], and [[Eternity's Garden]].\n\n== Acquisition ==\n=== Rewarded by ===\n{{rewarded by}}\n\n== Contents ==\n{{vendor table header|showFacts=false|showLevel=false|section=Select your Reward}}\n{{vendor table row|quantity=25|item=Chromatic Sap|cost=1 Castora: Hero's Choice Chest}}\n{{vendor table row|quantity=25|item=Raw Enchanting Stone|cost=1 Castora: Hero's Choice Chest}}\n{{vendor table row|item=Chromatic Resin Box|cost=1 Castora: Hero's Choice Chest}}\n\n[[Category:Container gizmos]]\n[[de:Castora: Helden-Auswahltruhe]]\n[[es:Castora: Cofre de elección del héroe]]\n[[fr:Castora : coffre au choix du Héros]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 405966,
+     "ns": 0,
+     "title": "Aether-Rich Sap",
+     "revisions": [
+      {
+       "revid": 3157839,
+       "parentid": 3157836,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Quotation|game|Acquired by assisting in events throughout [[Castora]]. Used at vendors across Castora.}}\n[[Has game icon::File:Aether-Rich Sap.png|24px|Aether-Rich Sap icon]]<!-- currency id 83 -->\n[[Aether-Rich Sap]] is a [[currency]] obtained by completing [[events]] throughout [[Shipwreck Strand]]. They can be spent at various vendors across Castora. {{item icon|Chromatic Sap}} and {{item icon|Aether-Rich Sap}} and can be converted at a 1:5 ratio with no limit:\n* Consuming 1 Chromatic Sap awards 5 Aether-Rich Sap.\n* 5 Aether-Rich Sap can be used to purchase 1 Chromatic Sap at any Castoran renown vendor.\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n* Completing [[event]]s in [[Shipwreck Strand]].\n{{rewarded by}}\n\n== Currency for ==\n{{Vendor query table|currency=Aether-Rich Sap|showLevel=false|outline=Vendor|service=!Renown Heart}}\n\n=== [[File:Renown heart NPC Janthir.png|20px|bottom|link=]] Castora [[Renown Heart]]s ===\n{{Vendor query table|currency=Aether-Rich Sap|showLevel=false|service=Renown Heart}}\n\n{{Currencies nav}}\n{{Visions of Eternity content}}\n[[Category:Currencies]]\n\n[[de:Ätherreicher Pflanzensaft]]\n[[es:Savia rica en éter]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 405968,
+     "ns": 0,
+     "title": "Antiquated Ducat",
+     "revisions": [
+      {
+       "revid": 3157841,
+       "parentid": 3157837,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Quotation|game|Acquired by assisting in events throughout [[Castora]]. Used at vendors across Castora.}}\n[[Has game icon::File:Antiquated Ducat.png|24px|Antiquated Ducat icon]]<!-- currency id 81 -->\n[[Antiquated Ducat]]s are a [[currency]] obtained by completing [[events]] throughout [[Starlit Weald]]. They can be spent at various vendors across Castora. {{item icon|Raw Enchanting Stone}} and {{item icon|Antiquated Ducat}} and can be converted at a 1:5 ratio with no limit:\n* Consuming 1 Raw Enchanting Stone awards 5 Antiquated Ducats.\n* 5 Antiquated Ducats can be used to purchase 1 Raw Enchanting Stone at any Castoran renown vendor.\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n* Completing [[events]] in [[Castora]]\n{{rewarded by}}\n\n== Currency for ==\n{{Vendor query table|currency=Antiquated Ducat|showLevel=false|outline=Vendor|service=!Renown Heart}}\n\n=== [[File:Renown heart NPC Janthir.png|20px|bottom|link=]] Castora [[Renown Heart]]s ===\n{{Vendor query table|currency=Antiquated Ducat|showLevel=false|service=Renown Heart}}\n\n{{Currencies nav}}\n{{Visions of Eternity content}}\n[[Category:Currencies]]\n\n[[es:Ducado anticuado]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 407053,
+     "ns": 0,
+     "title": "Seer Storage Chest",
+     "revisions": [
+      {
+       "revid": 3153339,
+       "parentid": 3153309,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{otheruses|the [[chest]]s|the [[renown heart]] related object|Seer Storage Chest (Pilgrim's Rest)}}\n{{Object infobox\n| icon = Feat chest (map icon).png\n| image = Seer Chest.jpg\n| location = Lost Basilica\n| type = Chest\n| requires = voe\n| coordinates = [7007, 57909], [6977, 57917], [7006, 57944], [7004, 57991], [6977, 58004], [7035, 57905]\n}}\nFour [[Seer Storage Chest]]s can be found in [[The Last Vault]] of the [[Lost Basilica]]. They become accessible after the [[The Basilica Vaults]] [[meta event]]. Each chest can be opened once per day per account.\n\n== Locations ==\n;[[Castora]]\n* [[Starlit Weald]]\n** [[Lost Basilica]]\n\n== Contents ==\n* {{gather|Piece of Common Unidentified Gear|qty=1|chance=guaranteed}} <small>(or better)</small>\n* Chance for an additional {{gather|Piece of Rare Unidentified Gear|chance=chance}}\n* Additionally with {{effect|Obscured Riches}} mastery:\n** {{gather|Raw Enchanting Stone|qty=1|notes=requires [[Obscured Riches]] mastery|chance=guaranteed}}\n** {{gather|Unusual Coin|qty=1-3|notes=requires [[Obscured Riches]] mastery|chance=guaranteed}}\n** Chance for:\n*** {{gather|Piece of Unidentified Gear|qty=1-2|chance=guaranteed}} <small>(or better)</small>\n*** Chance for an additional {{gather|Piece of Rare Unidentified Gear|chance=chance}}\n* Any gear drop may be replaced by a {{gather|Chromatic Resin Box|chance=chance}}\n* Chance for {{gather|Extremis Token: Helmet|chance=chance}}\n\n{{castoran chest nav}}\n\n[[es:Cofre de almacenamiento de vidente]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 408687,
+     "ns": 0,
+     "title": "Seer Artifact Chest",
+     "revisions": [
+      {
+       "revid": 3180296,
+       "parentid": 3153308,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Object infobox\n| icon = Feat chest (map icon).png\n| image = Large Seer Chest.jpg\n| location = Lost Basilica\n| type = Chest\n| requires = voe\n| coordinates = [7007, 57909], [6977, 57917], [7006, 57944], [7004, 57991], [6977, 58004], [7035, 57905] <!-- can likely spawn on any small chest location -->\n}}\nOne [[Seer Artifact Chest]] can be found in [[The Last Vault]] of the [[Lost Basilica]]. It becomes accessible after the [[The Basilica Vaults]] [[meta event]], and can be opened once per day per account.\n\n== Location ==\n;[[Castora]]\n* [[Starlit Weald]]\n** [[Lost Basilica]]\n\n== Contents ==\n* {{gather|Piece of Common Unidentified Gear|qty=3|chance=guaranteed}} <small>(or better)</small> <small>(drops separately)</small>\n* {{gather|Piece of Unidentified Gear|qty=1-2|chance=guaranteed}} <small>(or better)</small> <small>(drops separately)</small>\n** Each drop also has a chance to be upgraded to 2-3.\n* {{gather|Piece of Rare Unidentified Gear|qty=1|chance=guaranteed}} <small>(or better)</small>\n* Additionally with {{effect|Obscured Riches}} mastery:\n** {{gather|Raw Enchanting Stone|qty=3|notes=requires [[Obscured Riches]] mastery|chance=guaranteed}}\n** {{gather|Unusual Coin|qty=7-10|notes=requires [[Obscured Riches]] mastery|chance=guaranteed}}\n** Chance to roll again on the gear drops above, effectively doubling its contents (aside from currencies).\n<!--* Chance at: \n** {{gather|Extremis Token: Helmet|notes=from [[The Basilica Vaults]] meta-event}}{{verify|Observed from small chest, and original note was unsure which it dropped from.}}-->\n\n== Trivia ==\n* Was renamed from \"Large Seer Storage Chest\" at an unknown time.\n\n{{castoran chest nav}}"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 421930,
+     "ns": 0,
+     "title": "Leyspring Hollows: Hero's Choice Chest",
+     "revisions": [
+      {
+       "revid": 3196559,
+       "parentid": 3196415,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Castora- Hero's Choice Chest.png\n| description = Double-click to open.<br>Contains materials from [[Castora]].\n| type = Gizmo\n| rarity = Exotic\n| bound = account\n| id = 110205\n| requires = voe\n}}\n[[Leyspring Hollows: Hero's Choice Chest]] is a [[container]] awarded once per day per account for completing the [[meta event]] in [[Leyspring Hollows]].\n\n== Acquisition ==\n=== Rewarded by ===\n{{rewarded by}}\n\n== Contents ==\n{{vendor table header|showFacts=false|showLevel=false|section=Select your Reward}}\n{{vendor table row|quantity=20|item=Shadowstone Fragment|cost=1 Leyspring Hollows: Hero's Choice Chest}}\n{{vendor table row|quantity=10|item=Shadowstone Research Data|cost=1 Leyspring Hollows: Hero's Choice Chest}}\n{{vendor table row|item=Amalgamated Gemstone|cost=1 Leyspring Hollows: Hero's Choice Chest}}\n{{vendor table row|item=Seer Acting Manual Page|cost=1 Leyspring Hollows: Hero's Choice Chest + 50 Mithril Ingot + 35 Elder Wood Plank + 25 Bolt of Silk}}\n\n[[Category:Container gizmos]]\n\n[[de:Leyquellen-Senke: Helden-Auswahltruhe]]\n[[es:Hondonadas del Manantial de Ley: Cofre de elección del héroe]]\n[[fr:Crevasses aux sources des lignes de force : coffre au choix du Héros]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
