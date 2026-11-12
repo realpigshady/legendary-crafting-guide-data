@@ -1,0 +1,12 @@
+{
+ "params": {
+  "action": "query",
+  "list": "search",
+  "srnamespace": "6",
+  "srlimit": "50",
+  "srsearch": "magic mirror locations"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

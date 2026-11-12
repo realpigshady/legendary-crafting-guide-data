@@ -1,0 +1,14 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions|images",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "imlimit": "500",
+  "redirects": "1",
+  "titles": "Magic Mirror|Obscured Chest|Long-Lost Keepsake Box|Small Obscured Chest|Medium Obscured Chest|Large Obscured Chest"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}

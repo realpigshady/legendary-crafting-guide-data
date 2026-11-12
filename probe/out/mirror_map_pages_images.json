@@ -1,0 +1,12 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "images",
+  "imlimit": "500",
+  "redirects": "1",
+  "titles": "Shipwreck Strand|Starlit Weald|Eternity's Garden|Leyspring Hollows|Ethereal Key Charge|Secrets Unearthed|Wild Castoran Magic|Obscured Riches"
+ },
+ "reply": {
+  "_error": "HTTP Error 403: Forbidden"
+ }
+}
