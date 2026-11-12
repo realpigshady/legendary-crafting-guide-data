@@ -1,14 +1,6 @@
 {
- "voe_rewarded_currency": {
+ "voe_rewarded_exact": {
   "action": "ask",
-  "query": "[[Rewards item::Aether-Rich Sap||Antiquated Ducat]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Rewarded by.Located in|?Has rewarded item chance|?Has rewarded item quantity|limit=200"
- },
- "voe_depths_seer": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content|ids",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Seer Storage Chest (Depths of Cruelty)|Renown heart|Castoran renown vendor"
+  "query": "[[Rewards item::Aether-Rich Sap||Antiquated Ducat]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
  }
 }
