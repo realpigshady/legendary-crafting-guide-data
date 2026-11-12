@@ -1,39 +1,12 @@
 {
- "mirror_pages": {
+ "wp_files": {
   "action": "query",
-  "prop": "revisions|images",
-  "rvprop": "content|ids",
-  "rvslots": "main",
-  "imlimit": "500",
-  "redirects": "1",
-  "titles": "Magic Mirror|Obscured Chest|Long-Lost Keepsake Box|Small Obscured Chest|Medium Obscured Chest|Large Obscured Chest"
+  "list": "allimages",
+  "aiprefix": "Waypoint",
+  "ailimit": "30",
+  "aiprop": "url|size|mime"
  },
- "mirror_map_pages_images": {
-  "action": "query",
-  "prop": "images",
-  "imlimit": "500",
-  "redirects": "1",
-  "titles": "Shipwreck Strand|Starlit Weald|Eternity's Garden|Leyspring Hollows|Ethereal Key Charge|Secrets Unearthed|Wild Castoran Magic|Obscured Riches"
- },
- "mirror_file_search": {
-  "action": "query",
-  "list": "search",
-  "srnamespace": "6",
-  "srlimit": "50",
-  "srsearch": "mirror map"
- },
- "mirror_file_search2": {
-  "action": "query",
-  "list": "search",
-  "srnamespace": "6",
-  "srlimit": "50",
-  "srsearch": "obscured chest"
- },
- "mirror_file_search3": {
-  "action": "query",
-  "list": "search",
-  "srnamespace": "6",
-  "srlimit": "50",
-  "srsearch": "magic mirror locations"
+ "wp_icon": {
+  "download": "File:Waypoint (map icon).png"
  }
 }
