@@ -1,22 +1,10 @@
 {
- "cg_ping": {
-  "action": "query",
-  "meta": "siteinfo"
- },
- "cg_pages_a": {
+ "cg1_p0": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "ids|content",
   "rvslots": "main",
   "redirects": "1",
-  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward Axe|Recipe: Shining Ward Axe"
- },
- "cg_pages_b": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "ids|content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Medium Boots|Tenebral Ward Token: Helmet"
+  "titles": "Recipe: Shining Ward Axe|Recipe: Shining Ward Dagger|Recipe: Shining Ward Focus|Recipe: Shining Ward Greatsword|Recipe: Shining Ward Hammer|Recipe: Shining Ward Longbow|Recipe: Shining Ward Mace|Recipe: Shining Ward Pistol|Recipe: Shining Ward Rifle|Recipe: Shining Ward Scepter|Recipe: Shining Ward Shield|Recipe: Shining Ward Short Bow|Recipe: Shining Ward Spear|Recipe: Shining Ward Staff|Recipe: Shining Ward Sword|Recipe: Shining Ward Torch|Recipe: Shining Ward Warhorn|Shining Ward Axe|Shining Ward Dagger|Shining Ward Focus|Shining Ward Greatsword|Shining Ward Hammer|Shining Ward Longbow|Shining Ward Mace|Shining Ward Pistol|Shining Ward Rifle|Shining Ward Scepter|Shining Ward Shield|Shining Ward Short Bow|Shining Ward Spear|Shining Ward Staff|Shining Ward Sword|Shining Ward Torch|Shining Ward Warhorn|Tenebral Ward Medium Boots|Tenebral Ward Medium Chestplate|Tenebral Ward Medium Gloves|Tenebral Ward Medium Helmet|Tenebral Ward Medium Leggings|Tenebral Ward Medium Pauldrons"
  }
 }
