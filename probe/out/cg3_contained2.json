@@ -1,0 +1,71 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Tenebral Ward Medium Boots]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "779e19e33b297e3019671a3badbf4feb",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.008705"
+   }
+  }
+ }
+}

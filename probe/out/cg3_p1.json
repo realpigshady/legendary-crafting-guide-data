@@ -1,0 +1,233 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Oiled Orichalcum Rifle Barrel|Oiled Orichalcum Shield Boss|Oiled Orichalcum Spear Head|Oiled Orichalcum Sword Blade|Oiled Orichalcum Torch Head|Shining Ward Weapon Shard|Tenebral Ward Token: Boots|Tenebral Ward Token: Chest|Tenebral Ward Token: Gloves|Tenebral Ward Token: Helmet|Tenebral Ward Token: Leggings|Tenebral Ward Token: Shoulders"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 163600,
+     "ns": 0,
+     "title": "Oiled Orichalcum Rifle Barrel",
+     "revisions": [
+      {
+       "revid": 2370871,
+       "parentid": 2298115,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Rifle]]s.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 73874\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10610\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Gewehrlauf]]\n[[es:Cañón para rifle de oricalco engrasado]]\n[[fr:Canon de fusil en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 163601,
+     "ns": 0,
+     "title": "Oiled Orichalcum Torch Head",
+     "revisions": [
+      {
+       "revid": 2675894,
+       "parentid": 2370877,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Torch]]es.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 75321\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 2 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10583\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Fackelkopf]]\n[[es:Cabezal para antorcha de oricalco engrasado]]\n[[fr:Tête de torche en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 165892,
+     "ns": 0,
+     "title": "Oiled Orichalcum Shield Boss",
+     "revisions": [
+      {
+       "revid": 2673458,
+       "parentid": 2370873,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Shield]]s.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 70522\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 2 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 11042\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Schildboss]]\n[[es:Umbo para escudo de oricalco engrasado]]\n[[fr:Ombon en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166132,
+     "ns": 0,
+     "title": "Oiled Orichalcum Spear Head",
+     "revisions": [
+      {
+       "revid": 2370874,
+       "parentid": 2298147,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[Spear]]s.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 71098\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10778\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Speerspitze]]\n[[es:Punta para lanza de oricalco engrasada]]\n[[fr:Tête de lance en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166133,
+     "ns": 0,
+     "title": "Oiled Orichalcum Sword Blade",
+     "revisions": [
+      {
+       "revid": 2673440,
+       "parentid": 2370875,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft Swords.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 71574\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10784\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Schwertschneide]]\n[[es:Filo para espada de oricalco engrasado]]\n[[fr:Lame d'épée en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 421973,
+     "ns": 0,
+     "title": "Shining Ward Weapon Shard",
+     "revisions": [
+      {
+       "revid": 3195910,
+       "parentid": 3195862,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Shining Ward weapons]] or to purchase them from completed [[Renown Heart NPC|renown heart vendors]] in [[Leyspring Hollows]].<br/><br/>Can be crafted via [[huntsman]], [[Artificer|artificing]], and [[weaponsmith]]ing disciplines or purchased from map vendors in [[Leyspring Hollows]].\n| type = Trophy\n| rarity = Exotic\n| value = 10\n| bound = Account\n| id = 110192\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{Recipe\n| source = automatic\n| disciplines = Artificer, Weaponsmith, Huntsman\n| rating = 400\n| type = Component\n| ingredient1 = 20 Chromatic Sap\n| ingredient2 = 40 Raw Enchanting Stone\n| ingredient3 = 5 Shadowstone Fragment\n| ingredient4 = 5 Shadowstone Research Data\n| id = 15768\n}}\n\n== Used in ==\n{{Recipe list by discipline}}\n\n== Currency for ==\n{{vendor query table|currency=Shining Ward Weapon Shard}}\n\n[[de:\"Glänzende Astralwache\"-Waffenscherbe]]\n[[es:Esquirla de arma de resguardo brillante]]\n[[fr:Fragment d'armes de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422391,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Boots",
+     "revisions": [
+      {
+       "revid": 3197053,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Boots.png\n| description = Acquired occasionally from [[jumping puzzle]]s in [[Leyspring Hollows]].<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for a pair of [[Tenebral Ward armor|Tenebral Ward]] boots.\n| type = Trophy\n| rarity = Exotic\n| value = 5000\n| bound = Account\n| id = 110101\n| requires = voe\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Boots}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Stiefel]]\n[[es:Vale de resguardo tenebroso: botas]]\n[[fr:Coupon de la Garde ténébreuse : bottes]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422392,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Leggings",
+     "revisions": [
+      {
+       "revid": 3197054,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Leggings.png\n| description = Acquired occasionally by earning a silver medal or better in [[Leyspring Hollows]] [[adventure]]s.<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for a pair of [[Tenebral Ward armor|Tenebral Ward]] leggings.\n| type = Trophy\n| rarity = Exotic\n| value = 20000\n| bound = Account\n| id = 109944\n| requires = voe\n}}\n\n== Acquisition ==\n{{contained in}}\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Leggings}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Beinkleid]]\n[[es:Vale de resguardo tenebroso: calzas]]\n[[fr:Coupon de la Garde ténébreuse : jambières]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422393,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Gloves",
+     "revisions": [
+      {
+       "revid": 3203921,
+       "parentid": 3203918,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Gloves.png\n| description = Acquired occasionally from [[event]]s in [[Leyspring Hollows]].<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for a pair of [[Tenebral Ward armor|Tenebral Ward]] gloves.\n| type = Trophy\n| rarity = Exotic\n| value = 5000\n| bound = Account\n| id = 110153\n| requires = voe\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Rewarded by ===\n* Possible reward from events and renown hearts{{verify}} in [[Leyspring Hollows]].\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Gloves}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Handschuhe]]\n[[es:Vale de resguardo tenebroso: guantes]]\n[[fr:Coupon de la Garde ténébreuse : gants]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422394,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Chest",
+     "revisions": [
+      {
+       "revid": 3197060,
+       "parentid": 3197058,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Chestplate.png\n| description = Acquired by completing the [[Leyspring Hollows Mastery]] [[achievement]].<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for a [[Tenebral Ward armor|Tenebral Ward]] chestplate.\n| type = Trophy\n| rarity = Exotic\n| bound = Account\n| id = 110049\n| requires = voe\n}}\n\n== Acquisition ==\n{{achievement list|reward=Tenebral Ward Token: Chest}}\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Chest}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Brust]]\n[[es:Vale de resguardo tenebroso: cofre]]\n[[fr:Coupon de la Garde ténébreuse : pansière]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422396,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Shoulders",
+     "revisions": [
+      {
+       "revid": 3205174,
+       "parentid": 3197064,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Pauldrons.png\n| description = Acquired occasionally from [[Magic Mirror|magic mirror]]s in [[Leyspring Hollows]].<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for an [[Tenebral Ward armor|Tenebral Ward]] mantle.\n| type = Trophy\n| rarity = Exotic\n| value = 10000\n| bound = Account\n| id = 109976\n| requires = voe\n}}\n\n== Acquisition ==\n=== Contained in ===\n{{contained in}}\n\n=== Gathered from ===\n{{Gathered from}}\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Shoulders}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Schultern]]\n[[es:Vale de resguardo tenebroso: hombros]]\n[[fr:Coupon de la Garde ténébreuse : épaulières]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422397,
+     "ns": 0,
+     "title": "Tenebral Ward Token: Helmet",
+     "revisions": [
+      {
+       "revid": 3197065,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tenebral Ward Helmet.png\n| description = Acquired by completing the story chapter [[Everything That We Are]].<br/>Trade to [[Alliance Field Quartermaster|alliance field quartermasters]] in [[Castora]] for a [[Tenebral Ward armor|Tenebral Ward]] hood.\n| type = Trophy\n| rarity = Exotic\n| bound = Account\n| id = 110052\n| requires = voe\n}}\n\n== Acquisition ==\n{{achievement list|reward=Tenebral Ward Token: Helmet}}\n\n== Currency for ==\n{{vendor query table|currency=Tenebral Ward Token: Helmet}}\n\n== Related achievements ==\n* {{achievement|Tenebral Ward Armor Collection}}\n\n{{Armor set token nav}}\n\n[[de:Düstere Astralwachen-Marke: Sturmhelm]]\n[[es:Vale de resguardo tenebroso: casco]]\n[[fr:Coupon de la Garde ténébreuse : casque]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

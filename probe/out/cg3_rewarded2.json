@@ -1,0 +1,80 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Rewards item::Recipe: Shining Ward Spear||Recipe: Shining Ward Staff||Recipe: Shining Ward Sword||Recipe: Shining Ward Torch||Recipe: Shining Ward Warhorn||Tenebral Ward Medium Boots]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Rewards item",
+     "key": "Rewards_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Rewarded by",
+     "key": "Rewarded_by",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has context"
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has location type"
+    },
+    {
+     "label": "Has rewarded item chance",
+     "key": "Has_rewarded_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rewarded item quantity",
+     "key": "Has_rewarded_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "eeaa3bfce263466520dd97e7a96e7e5a",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.007506"
+   }
+  }
+ }
+}

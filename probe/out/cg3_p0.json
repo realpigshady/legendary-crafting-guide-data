@@ -1,0 +1,233 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Oiled Ancient Focus Core|Oiled Ancient Longbow Stave|Oiled Ancient Scepter Core|Oiled Ancient Short-Bow Stave|Oiled Ancient Staff Head|Oiled Orichalcum Axe Blade|Oiled Orichalcum Dagger Blade|Oiled Orichalcum Greatsword Blade|Oiled Orichalcum Hammer Head|Oiled Orichalcum Horn|Oiled Orichalcum Mace Head|Oiled Orichalcum Pistol Barrel"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 160860,
+     "ns": 0,
+     "title": "Oiled Ancient Longbow Stave",
+     "revisions": [
+      {
+       "revid": 2370814,
+       "parentid": 2298107,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Longbow]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 72673\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 4 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10587\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Langbogenstab]]\n[[es:Duela para arco largo antiguo engrasada]]\n[[fr:Hampe d'arc long en bois ancien huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 161621,
+     "ns": 0,
+     "title": "Oiled Ancient Focus Core",
+     "revisions": [
+      {
+       "revid": 2370812,
+       "parentid": 2079883,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used in [[Focus]] crafting.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 75123\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 2 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10914\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Fokuskern]]\n[[es:Núcleo para foco antiguo engrasado]]\n[[fr:Noyau de focus en bois ancien huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 163581,
+     "ns": 0,
+     "title": "Oiled Ancient Short-Bow Stave",
+     "revisions": [
+      {
+       "revid": 2370819,
+       "parentid": 2298099,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[short bow]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 76232\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 4 Ancient Wood Plank\n| ingredient3 = 5 Vial of Linseed Oil\n| id = 10811\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Kurzbogenstab]]\n[[es:Duela para arco corto antiguo engrasada]]\n[[fr:Hampe d'arc court en bois ancien huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 163584,
+     "ns": 0,
+     "title": "Oiled Orichalcum Horn",
+     "revisions": [
+      {
+       "revid": 2370864,
+       "parentid": 2217235,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Warhorn|Warhorns]].\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 72009\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 1 Orichalcum Ingot\n| ingredient2 = 2 Ancient Wood Plank\n| ingredient3 = 5 Vial of Linseed Oil\n| id = 10394\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Charging this item at any [[place of power]] in the [[Heart of Maguuma]] will produce [[Charged Warhorn Horn]].\n\n[[de:Geöltes antikes Orichalcum-Horn]]\n[[es:Cuerno de oricalco engrasado]]\n[[fr:Cor en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 163598,
+     "ns": 0,
+     "title": "Oiled Orichalcum Pistol Barrel",
+     "revisions": [
+      {
+       "revid": 2370870,
+       "parentid": 2298091,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Pistol|Pistols]].\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 72428\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = huntsman\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10905\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Pistolenlauf]]\n[[es:Cañón para pistola de oricalco engrasado]]\n[[fr:Canon de pistolet en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 163776,
+     "ns": 0,
+     "title": "Oiled Orichalcum Hammer Head",
+     "revisions": [
+      {
+       "revid": 2370861,
+       "parentid": 2298138,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Hammer]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 76164\n}}\n\n== Acquisition ==\n{{recipe\n| type = Crafting Component\n| source = automatic\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10731\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Used to obtain a [[Charged Hammer Head]], an item used in the [[Machined Hammer (achievement)|Machined Hammer]] [[collection]].\n\n[[de:Geölter Orichalcum-Hammerkopf]]\n[[es:Cabeza para martillo de oricalco engrasada]]\n[[fr:Tête de marteau en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 164218,
+     "ns": 0,
+     "title": "Oiled Orichalcum Greatsword Blade",
+     "revisions": [
+      {
+       "revid": 2673454,
+       "parentid": 2389875,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used to craft [[Greatsword]]s.\n| type = crafting material\n| material type = component\n| rarity = basic\n| value = 8\n| id = 71352\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10647\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* One of these is required to complete the [[Guide to Greater Understanding]] [[Rare_Collections|rare collection]], producing the greatsword [[Eclipse]]. It doesn't matter whether you buy or craft it yourself.\n* Charging this item at any [[place of power]] in the [[Heart of Maguuma]] will produce a [[Charged Greatsword Blade]].\n\n[[de:Geölte Orichalcum-Großschwertschneide]]\n[[es:Filo para mandoble de oricalco engrasado]]\n[[fr:Lame d'espadon en orichalque huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 165908,
+     "ns": 0,
+     "title": "Oiled Ancient Staff Head",
+     "revisions": [
+      {
+       "revid": 2370820,
+       "parentid": 2079793,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Used in [[Staff]] crafting.\n| type = crafting material\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 75698\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 2 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10890\n}}\n\n== Used in ==\n{{recipe list}}\n\n== Notes ==\n* Used to obtain a [[Charged Staff Head]], an item used in the [[Machined Staff (achievement)|Machined Staff]] [[collection]].\n\n[[de:Geölter antiker Stabkopf]]\n[[es:Cabezal para báculo antiguo engrasado]]\n[[fr:Tête de bâton en bois ancien huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166123,
+     "ns": 0,
+     "title": "Oiled Ancient Scepter Core",
+     "revisions": [
+      {
+       "revid": 2370817,
+       "parentid": 2079792,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[Scepter]]s.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 74825\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = artificer\n| rating = 400\n| ingredient1 = 2 Ancient Wood Plank\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 11221\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter antiker Zepterkern]]\n[[es:Núcleo para cetro antiguo engrasado]]\n[[fr:Noyau de sceptre en bois ancien huilé]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166126,
+     "ns": 0,
+     "title": "Oiled Orichalcum Axe Blade",
+     "revisions": [
+      {
+       "revid": 2673451,
+       "parentid": 2370850,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft Axes.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 73944\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 10463\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Axtschneide]]\n[[es:Filo para hacha de oricalco engrasado]]\n[[fr:Lame de hache en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166127,
+     "ns": 0,
+     "title": "Oiled Orichalcum Dagger Blade",
+     "revisions": [
+      {
+       "revid": 2673452,
+       "parentid": 2370855,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[Dagger]]s.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 71331\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 11640\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölte Orichalcum-Dolchschneide]]\n[[es:Filo para daga de oricalco engrasado]]\n[[fr:Lame de dague en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 166130,
+     "ns": 0,
+     "title": "Oiled Orichalcum Mace Head",
+     "revisions": [
+      {
+       "revid": 2370867,
+       "parentid": 2298130,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = crafting material\n| description = Used to craft [[Mace]]s.\n| material type = component\n| tier = 6\n| rarity = basic\n| value = 8\n| id = 77064\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| type = Crafting Component\n| disciplines = weaponsmith\n| rating = 400\n| ingredient1 = 3 Orichalcum Ingot\n| ingredient2 = 5 Vial of Linseed Oil\n| id = 11077\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Geölter Orichalcum-Streitkolbenkopf]]\n[[es:Cabeza para maza de oricalco engrasada]]\n[[fr:Tête de masse en orichalque huilée]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item in reward track::Recipe: Shining Ward Sword;?;?;?]]|?Contains item in reward track|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item in reward track",
+     "key": "Contains_item_in_reward_track",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "d0bf17debbf128fa59134fa87dae83f1",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.000112"
+   }
+  }
+ }
+}
