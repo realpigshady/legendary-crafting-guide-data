@@ -1,12 +1,7 @@
 {
- "wp_files": {
-  "action": "query",
-  "list": "allimages",
-  "aiprefix": "Waypoint",
-  "ailimit": "30",
-  "aiprop": "url|size|mime"
- },
- "wp_icon": {
-  "download": "File:Waypoint (map icon).png"
+ "cg_api_achievements": {"api": "/v2/achievements?ids=9437,9363"},
+ "cg_pages": {
+  "action": "query", "prop": "revisions", "rvprop": "ids|content", "rvslots": "main", "redirects": "1",
+  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward weapons|Shining Ward Axe|Recipe: Shining Ward Axe|Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Token: Helmet|Tenebral Ward Token: Chest|Alliance Field Quartermaster|Tenebral Ward armor|Everything That We Are"
  }
 }

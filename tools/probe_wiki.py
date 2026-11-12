@@ -5,11 +5,13 @@ can be inspected without wiki access. One request per second.
 
 A query {"download": "<File page title>"} instead saves that wiki file (through
 Special:FilePath) to probe/out/files/<name>.<ext>. The wiki answers intermittently, so each
-request is tried up to 4 times, 10 s apart (a 403 / 429 / 5xx burst still ends the attempts)."""
+request is tried up to 4 times, 10 s apart (a 403 / 429 / 5xx burst still ends the attempts).
+A query {"api": "/v2/..."} is one GET to the official GW2 API (no key) instead of the wiki."""
 import json, sys, time, urllib.parse, urllib.request
 from pathlib import Path
 
 API = "https://wiki.guildwars2.com/api.php"
+GW2_API = "https://api.guildwars2.com"
 FILEPATH = "https://wiki.guildwars2.com/wiki/Special:FilePath/"
 UA = "legendary-crafting-guide-data probe (github.com/realpigshady/legendary-crafting-guide-data)"
 root = Path(__file__).resolve().parent.parent / "probe"
@@ -30,7 +32,12 @@ def fetch(url: str) -> bytes:
 
 
 for name, params in json.loads((root / "queries.json").read_text()).items():
-    if "download" in params:
+    if "api" in params:
+        try:
+            data = json.loads(fetch(GW2_API + params["api"]).decode("utf-8", errors="replace"))
+        except Exception as e:  # noqa: BLE001
+            data = {"_error": str(e)}
+    elif "download" in params:
         title = params["download"].removeprefix("File:")
         try:
             body = fetch(FILEPATH + urllib.parse.quote(title.replace(" ", "_")))
