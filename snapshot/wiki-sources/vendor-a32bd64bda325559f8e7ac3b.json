@@ -1,0 +1,481 @@
+{
+"fetched": 1794526363.6061974,
+"item": "Shining Ward Weapon Shard",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Acolyte of Balance Dexx#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Alliance Field Quartermaster#vendor5"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Canach#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Captain Emund#vendor25"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Castaway Agnes#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Historian Meliza#vendor19"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Huntmaster Arnorr#vendor25"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Magister Sirkk#vendor25"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Steward Brizio#vendor18"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Chromatic Sap",
+"Has item value": "20"
+},
+{
+"Has item currency": "Raw Enchanting Stone",
+"Has item value": "40"
+},
+{
+"Has item currency": "Shadowstone Fragment",
+"Has item value": "5"
+},
+{
+"Has item currency": "Shadowstone Research Data",
+"Has item value": "5"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Shining Ward Weapon Shard"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor24"
+}
+]
+}
