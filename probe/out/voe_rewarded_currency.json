@@ -1,0 +1,1658 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Rewards item::Aether-Rich Sap||Antiquated Ducat]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Rewarded by.Located in|?Has rewarded item chance|?Has rewarded item quantity|limit=200"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Rewards item",
+     "key": "Rewards_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Rewarded by",
+     "key": "Rewarded_by",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has context"
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has location type"
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Located in"
+    },
+    {
+     "label": "Has rewarded item chance",
+     "key": "Has_rewarded_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rewarded item quantity",
+     "key": "Has_rewarded_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Assist the Durmand Priory in establishing and protecting their expedition#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Assist the Durmand Priory in establishing and protecting their expedition",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_Durmand_Priory_in_establishing_and_protecting_their_expedition",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Crumbling Precipice",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Crumbling_Precipice",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Assist the Durmand Priory in establishing and protecting their expedition#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_Durmand_Priory_in_establishing_and_protecting_their_expedition#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Assist the castaways around Hullgarden#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Assist the castaways around Hullgarden",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_castaways_around_Hullgarden",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Hullgarden",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hullgarden",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Assist the castaways around Hullgarden#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_castaways_around_Hullgarden#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_hunters_in_maintaining_their_camp_and_protecting_the_wildlife_from_the_Inquest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Untamed Crags",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Untamed_Crags",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Assist the hunters in maintaining their camp and protecting the wildlife from the Inquest#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Assist_the_hunters_in_maintaining_their_camp_and_protecting_the_wildlife_from_the_Inquest#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Assist your allies in establishing camp and getting along#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Assist your allies in establishing camp and getting along",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Assist_your_allies_in_establishing_camp_and_getting_along",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Shimmering Basin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Shimmering_Basin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Assist your allies in establishing camp and getting along#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Assist_your_allies_in_establishing_camp_and_getting_along#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bonus chest/Rewards#reward85": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Bonus chest/Rewards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Bonus chest/Rewards#reward85",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards#reward85",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bonus chest/Rewards#reward86": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Bonus chest/Rewards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Bonus chest/Rewards#reward86",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards#reward86",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bonus chest/Rewards#reward96": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Bonus chest/Rewards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Bonus chest/Rewards#reward96",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards#reward96",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bonus chest/Rewards#reward97": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Bonus chest/Rewards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Bonus chest/Rewards#reward97",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bonus_chest/Rewards#reward97",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dance with the choya#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Dance with the choya",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dance_with_the_choya",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Dance with the choya#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dance_with_the_choya#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat Creation 23#reward3": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat Creation 23",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_Creation_23",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Defeat Creation 23#reward3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_Creation_23#reward3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat Operative Neel#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat Operative Neel",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_Operative_Neel",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Defeat Operative Neel#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_Operative_Neel#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat the Eternal Sentinel#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat the Eternal Sentinel",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_Eternal_Sentinel",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Defeat the Eternal Sentinel#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_Eternal_Sentinel#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat the ancient defenses and gather their power for Isgarren#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat the ancient defenses and gather their power for Isgarren",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_ancient_defenses_and_gather_their_power_for_Isgarren",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Defeat the ancient defenses and gather their power for Isgarren#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_ancient_defenses_and_gather_their_power_for_Isgarren#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat the champion enchanted weapon#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat the champion enchanted weapon",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_champion_enchanted_weapon",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Defeat the champion enchanted weapon#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_champion_enchanted_weapon#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defeat the rat king#reward3": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defeat the rat king",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_rat_king",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "15"
+      ]
+     },
+     "fulltext": "Defeat the rat king#reward3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defeat_the_rat_king#reward3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Defend the priory camp from the Inquest raid#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Defend the priory camp from the Inquest raid",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Defend_the_priory_camp_from_the_Inquest_raid",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "15"
+      ]
+     },
+     "fulltext": "Defend the priory camp from the Inquest raid#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Defend_the_priory_camp_from_the_Inquest_raid#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Disrupt the Illusions#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Disrupt the Illusions",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Disrupt_the_Illusions",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Disrupt the Illusions#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Disrupt_the_Illusions#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Find and Rescue the Missing Skimmers#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Find and Rescue the Missing Skimmers",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Find_and_Rescue_the_Missing_Skimmers",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Find and Rescue the Missing Skimmers#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Find_and_Rescue_the_Missing_Skimmers#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Find and rescue the missing skimmers#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Find and rescue the missing skimmers",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Find_and_rescue_the_missing_skimmers",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Find and rescue the missing skimmers#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Find_and_rescue_the_missing_skimmers#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Gather the loose magic for Isgarren#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Gather the loose magic for Isgarren",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gather_the_loose_magic_for_Isgarren",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Gather the loose magic for Isgarren#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Gather_the_loose_magic_for_Isgarren#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help Acolyte Alex return the beached whale to the shelter of the sea#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help Acolyte Alex return the beached whale to the shelter of the sea",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_Acolyte_Alex_return_the_beached_whale_to_the_shelter_of_the_sea",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "15"
+      ]
+     },
+     "fulltext": "Help Acolyte Alex return the beached whale to the shelter of the sea#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_Acolyte_Alex_return_the_beached_whale_to_the_shelter_of_the_sea#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help Astral Ward Operative Chesh Steelmind hack Inquest datapads and analyze the intel#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help Astral Ward Operative Chesh Steelmind hack Inquest datapads and analyze the intel",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_Astral_Ward_Operative_Chesh_Steelmind_hack_Inquest_datapads_and_analyze_the_intel",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Help Astral Ward Operative Chesh Steelmind hack Inquest datapads and analyze the intel#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_Astral_Ward_Operative_Chesh_Steelmind_hack_Inquest_datapads_and_analyze_the_intel#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help Fisher Sorcha pull the beached whale back into the water#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help Fisher Sorcha pull the beached whale back into the water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_Fisher_Sorcha_pull_the_beached_whale_back_into_the_water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "15"
+      ]
+     },
+     "fulltext": "Help Fisher Sorcha pull the beached whale back into the water#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_Fisher_Sorcha_pull_the_beached_whale_back_into_the_water#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help Klorrk subdue the Inquest-enhanced creatures#reward3": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help Klorrk subdue the Inquest-enhanced creatures",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_Klorrk_subdue_the_Inquest-enhanced_creatures",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Help Klorrk subdue the Inquest-enhanced creatures#reward3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_Klorrk_subdue_the_Inquest-enhanced_creatures#reward3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help Pub Canach grow into a lucrative business#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help Pub Canach grow into a lucrative business",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_Pub_Canach_grow_into_a_lucrative_business",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Breezy Cay",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Breezy_Cay",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Help Pub Canach grow into a lucrative business#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_Pub_Canach_grow_into_a_lucrative_business#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help out with research and expedition tasks around Pilgrim's Rest#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help out with research and expedition tasks around Pilgrim's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_out_with_research_and_expedition_tasks_around_Pilgrim%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Pilgrim's Rest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pilgrim%27s_Rest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Help out with research and expedition tasks around Pilgrim's Rest#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_out_with_research_and_expedition_tasks_around_Pilgrim%27s_Rest#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help repair and defend the bird nest#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help repair and defend the bird nest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_repair_and_defend_the_bird_nest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Help repair and defend the bird nest#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_repair_and_defend_the_bird_nest#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help the Durmand Priory rebuild the camp#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help the Durmand Priory rebuild the camp",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_the_Durmand_Priory_rebuild_the_camp",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "15"
+      ]
+     },
+     "fulltext": "Help the Durmand Priory rebuild the camp#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_the_Durmand_Priory_rebuild_the_camp#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Help_the_Tyrian_Alliance_keep_tabs_on_the_Inquest_and_learn_more_about_Castora%27s_natural_magics",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Renown heart"
+      ],
+      "Has location type": [],
+      "Located in": [
+       {
+        "fulltext": "Glimmering Arches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glimmering_Arches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Help the Tyrian Alliance keep tabs on the Inquest and learn more about Castora's natural magics#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Help_the_Tyrian_Alliance_keep_tabs_on_the_Inquest_and_learn_more_about_Castora%27s_natural_magics#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Investigate the tide pools to help the Hullgardeners find resources#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Investigate the tide pools to help the Hullgardeners find resources",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Investigate_the_tide_pools_to_help_the_Hullgardeners_find_resources",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Investigate the tide pools to help the Hullgardeners find resources#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Investigate_the_tide_pools_to_help_the_Hullgardeners_find_resources#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Keep the Hullgardeners comfortable while they work on their tans#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Keep the Hullgardeners comfortable while they work on their tans",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Keep_the_Hullgardeners_comfortable_while_they_work_on_their_tans",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Keep the Hullgardeners comfortable while they work on their tans#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Keep_the_Hullgardeners_comfortable_while_they_work_on_their_tans#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Kill the large saurian in the forest#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Kill the large saurian in the forest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kill_the_large_saurian_in_the_forest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Kill the large saurian in the forest#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Kill_the_large_saurian_in_the_forest#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Reach the finish line in the Enchanting Grottoes#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Antiquated Ducat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Antiquated_Ducat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Reach the finish line in the Enchanting Grottoes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Reach_the_finish_line_in_the_Enchanting_Grottoes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "10"
+      ]
+     },
+     "fulltext": "Reach the finish line in the Enchanting Grottoes#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Reach_the_finish_line_in_the_Enchanting_Grottoes#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Return the castaways' stolen supplies to Corin#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Return the castaways' stolen supplies to Corin",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Return_the_castaways%27_stolen_supplies_to_Corin",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Return the castaways' stolen supplies to Corin#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Return_the_castaways%27_stolen_supplies_to_Corin#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Stop the creature from summoning and consuming the welcome-party attendees#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Stop the creature from summoning and consuming the welcome-party attendees",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stop_the_creature_from_summoning_and_consuming_the_welcome-party_attendees",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "25"
+      ]
+     },
+     "fulltext": "Stop the creature from summoning and consuming the welcome-party attendees#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Stop_the_creature_from_summoning_and_consuming_the_welcome-party_attendees#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Use turtle bait to help Audine guide the baby turtles to the safety of deep water#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Use turtle bait to help Audine guide the baby turtles to the safety of deep water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Use_turtle_bait_to_help_Audine_guide_the_baby_turtles_to_the_safety_of_deep_water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Use turtle bait to help Audine guide the baby turtles to the safety of deep water#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Use_turtle_bait_to_help_Audine_guide_the_baby_turtles_to_the_safety_of_deep_water#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Use turtle bait to help Nara guide the baby turtles to the safety of deep water#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Use turtle bait to help Nara guide the baby turtles to the safety of deep water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Use_turtle_bait_to_help_Nara_guide_the_baby_turtles_to_the_safety_of_deep_water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Use turtle bait to help Nara guide the baby turtles to the safety of deep water#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Use_turtle_bait_to_help_Nara_guide_the_baby_turtles_to_the_safety_of_deep_water#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Use your skimmer to help gather fresh food for the castaways in Breezy Cay#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Use your skimmer to help gather fresh food for the castaways in Breezy Cay",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Breezy_Cay",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Use your skimmer to help gather fresh food for the castaways in Breezy Cay#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Breezy_Cay#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Use your skimmer to help gather fresh food for the castaways in Glimmering Arches#reward1": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Use your skimmer to help gather fresh food for the castaways in Glimmering Arches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Glimmering_Arches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Use your skimmer to help gather fresh food for the castaways in Glimmering Arches#reward1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Glimmering_Arches#reward1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Use your skimmer to help gather fresh food for the castaways in Jetsam Point#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Aether-Rich Sap",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aether-Rich_Sap",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Use your skimmer to help gather fresh food for the castaways in Jetsam Point",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Jetsam_Point",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Located in": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "5"
+      ]
+     },
+     "fulltext": "Use your skimmer to help gather fresh food for the castaways in Jetsam Point#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Use_your_skimmer_to_help_gather_fresh_food_for_the_castaways_in_Jetsam_Point#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "3dfe3d07c52e4c02e3ee9328ca9d10d3",
+    "count": 40,
+    "offset": 0,
+    "source": "",
+    "time": "0.203109"
+   }
+  }
+ }
+}
