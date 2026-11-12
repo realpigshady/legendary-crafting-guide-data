@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Recipe: Shining Ward Axe|Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Token: Helmet"
+ },
+ "reply": {
+  "_raw": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n    <title>The Guild Wars Wikis are undergoing maintenance.</title>\n\n    <link rel=\"shortcut icon\" href=\"https://static.staticwars.com/favicon/1/favicon.ico\" />\n\n\n    <link rel=\"stylesheet\"\n        href=\"https://static.staticwars.com/combo/_/fonts/cronos/v1/cronos-regular-min.css&/fonts/cronos/v1/cronos-bold-min.css&/fonts/cronos/v1/cronos-italic-min.css&/fonts/cronos/v1/cronos-bolditalic-min.css\">\n    <link rel=\"stylesheet\" href=\"https://static.staticwars.com/bumpers/1/index.css\">\n\n    <script>\n        (function() {\n            var lang = ((navigator.language || navigator.userLanguage || 'en').slice(0, 2)).toLowerCase();\n            var supported = ['en', 'de', 'es', 'fr'];\n            if (supported.indexOf(lang) === -1) lang = 'en';\n            document.addEventListener('DOMContentLoaded', function() {\n                document.querySelectorAll('[data-lang]').forEach(function(el) {\n                    el.style.display = el.getAttribute('data-lang') === lang ? '' : 'none';\n                });\n            });\n        })();\n    </script>\n\n    <style>\n        html {\n            height: 100%;\n            box-sizing: border-box;\n        }\n\n        *,\n        *:before,\n        *:after {\n            box-sizing: inherit;\n        }\n\n        body {\n            margin: 0;\n            height: 100%;\n            font-family: CronosPro;\n            background: #f3f3f3;\n        }\n\n        a {\n            color: gray;\n        }\n\n        .langSet:lang(en) .de,\n        .langSet:lang(en) .es,\n        .langSet:lang(en) .fr,\n\n        .langSet:lang(de) .en,\n        .langSet:lang(de) .es,\n        .langSet:lang(de) .fr,\n\n        .langSet:lang(es) .en,\n        .langSet:lang(es) .de,\n        .langSet:lang(es) .fr,\n\n        .langSet:lang(fr) .en,\n        .langSet:lang(fr) .de,\n        .langSet:l"
+ }
+}

@@ -1,0 +1,262 @@
+{
+ "params": {
+  "api": "/v2/skins?ids=14146,14242,14171,14170,14159,14212,14247,14200,14190,14177,14140,14239,14168,14147,14191,14208,14181"
+ },
+ "reply": [
+  {
+   "name": "Shining Ward Axe",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14146,
+   "icon": "https://render.guildwars2.com/file/90A444D25A72B4D495C609517D62BB0B437C4194/3806380.png",
+   "details": {
+    "type": "Axe",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Dagger",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14242,
+   "icon": "https://render.guildwars2.com/file/68320A0739C3FBFAC2E5A54D790024DDD60F9D7E/3806396.png",
+   "details": {
+    "type": "Dagger",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Focus",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14171,
+   "icon": "https://render.guildwars2.com/file/FAEE6B2EC108EA6F5A4F71C9D6FCA2C9676F5307/3806404.png",
+   "details": {
+    "type": "Focus",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Greatsword",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14170,
+   "icon": "https://render.guildwars2.com/file/6455690F0D27A2C0C13CFDD0B7A7B60E2DC4F490/3806412.png",
+   "details": {
+    "type": "Greatsword",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Hammer",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14159,
+   "icon": "https://render.guildwars2.com/file/CDB96B65E641422C5574459F1CCB9DE1A0377BB4/3806424.png",
+   "details": {
+    "type": "Hammer",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Longbow",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14212,
+   "icon": "https://render.guildwars2.com/file/353FB25E78339AB1AD0A630A924C12B891DE68C7/3806388.png",
+   "details": {
+    "type": "Longbow",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Mace",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14247,
+   "icon": "https://render.guildwars2.com/file/A87A9E801714E1FF0E6D450A70AD692D4137240F/3806432.png",
+   "details": {
+    "type": "Mace",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Pistol",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14200,
+   "icon": "https://render.guildwars2.com/file/7AE261D4F80624E7153D089435EFC2C271A67B69/3806440.png",
+   "details": {
+    "type": "Pistol",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Rifle",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14190,
+   "icon": "https://render.guildwars2.com/file/0F0AF206036C3840397F4F09387C2652E14BE108/3806448.png",
+   "details": {
+    "type": "Rifle",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Scepter",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14177,
+   "icon": "https://render.guildwars2.com/file/FA48EC3C4E3BC60140E1FF0F4EC7AFE54248C8AF/3806456.png",
+   "details": {
+    "type": "Scepter",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Shield",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14140,
+   "icon": "https://render.guildwars2.com/file/05D41D035DECDEBB9E921E2E6C160B149BB29099/3806464.png",
+   "details": {
+    "type": "Shield",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Short Bow",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14239,
+   "icon": "https://render.guildwars2.com/file/D0CB91F5DB80384A4121286AA8EFA85F96CE2072/3806472.png",
+   "details": {
+    "type": "Shortbow",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Spear",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14168,
+   "icon": "https://render.guildwars2.com/file/2B71D17F603093EEF4D42B29B916040942CE1147/3806481.png",
+   "details": {
+    "type": "Spear",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Staff",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14147,
+   "icon": "https://render.guildwars2.com/file/9ECEB91501BBDE013027BD5AB35DC1FF72C4AA5A/3806490.png",
+   "details": {
+    "type": "Staff",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Sword",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14191,
+   "icon": "https://render.guildwars2.com/file/56F3DA0819AA32160D93E1B875654BF652D0F6FD/3806499.png",
+   "details": {
+    "type": "Sword",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Torch",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14208,
+   "icon": "https://render.guildwars2.com/file/B0C2943E0EA3BE4C0A0600F940E7F432A894DB7B/3806507.png",
+   "details": {
+    "type": "Torch",
+    "damage_type": "Physical"
+   }
+  },
+  {
+   "name": "Shining Ward Warhorn",
+   "type": "Weapon",
+   "flags": [
+    "ShowInWardrobe"
+   ],
+   "restrictions": [],
+   "rarity": "Basic",
+   "id": 14181,
+   "icon": "https://render.guildwars2.com/file/99009D0F0D5590FC739DEE7CCE7B5E05086FA4F0/3806517.png",
+   "details": {
+    "type": "Warhorn",
+    "damage_type": "Physical"
+   }
+  }
+ ]
+}
