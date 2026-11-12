@@ -1,0 +1,46 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Salvages into::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]]|?Salvages into|?Has canonical name|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Salvages into",
+     "key": "Salvages_into",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "3db9bf7589a608d23c094b2454635a7b",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.002033"
+   }
+  }
+ }
+}

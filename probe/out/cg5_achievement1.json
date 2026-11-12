@@ -1,0 +1,118 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Gives item::Vial of Linseed Oil]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Gives item",
+     "key": "Gives_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Gives item quantity",
+     "key": "Gives_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement page",
+     "key": "Has_achievement_page",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Heart of Thorns: Act 1#achievement2587": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Vial of Linseed Oil",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vial_of_Linseed_Oil",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [
+       10
+      ],
+      "Has game id": [
+       2587
+      ],
+      "Has canonical name": [
+       "Conservation of Resources"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Torn from the Sky",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Torn_from_the_Sky",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Heart of Thorns: Act 1#achievement2587",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Heart_of_Thorns:_Act_1#achievement2587",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "b83ddf9596cef3e8af12827fd9e91e94",
+    "count": 1,
+    "offset": 0,
+    "source": "",
+    "time": "0.050225"
+   }
+  }
+ }
+}

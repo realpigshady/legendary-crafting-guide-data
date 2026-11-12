@@ -1,0 +1,28 @@
+{
+ "params": {
+  "api": "/v2/items?ids=73034"
+ },
+ "reply": [
+  {
+   "name": "Vial of Linseed Oil",
+   "description": "Ingredient",
+   "type": "CraftingMaterial",
+   "level": 80,
+   "rarity": "Fine",
+   "vendor_value": 17,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage"
+   ],
+   "restrictions": [],
+   "id": 73034,
+   "chat_link": "[&AgFKHQEA]",
+   "icon": "https://render.guildwars2.com/file/B73F53BA2F4BFA1EB8F0FA45F05C9DF542EDE952/65660.png"
+  }
+ ]
+}

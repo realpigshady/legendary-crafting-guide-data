@@ -1,0 +1,432 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Aetherlocation Detective: Gold#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Aetherlocation Detective: Gold",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aetherlocation_Detective:_Gold",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Aetherlocation Detective: Gold#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Aetherlocation_Detective:_Gold#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Aetherlocation Detective: Silver#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Aetherlocation Detective: Silver",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aetherlocation_Detective:_Silver",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Aetherlocation Detective: Silver#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Aetherlocation_Detective:_Silver#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Castoran Gear Box (Nexus of Eternity)#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Castoran Gear Box (Nexus of Eternity)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box_(Nexus_of_Eternity)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Castoran Gear Box (Nexus of Eternity)#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Castoran_Gear_Box_(Nexus_of_Eternity)#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Marvelous Convergence Extraction#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Shoulders",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Shoulders",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Marvelous Convergence Extraction",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Marvelous Convergence Extraction#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Marvelous Convergence Extraction#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Marvelous Convergence Extraction",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Marvelous Convergence Extraction#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Marvelous Convergence Extraction#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Marvelous Convergence Extraction",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Marvelous Convergence Extraction#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Marvelous Convergence Extraction#contains9": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Boots",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Boots",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Marvelous Convergence Extraction",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Marvelous Convergence Extraction#contains9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Marvelous_Convergence_Extraction#contains9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Serpent Simulator: Gold#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Serpent Simulator: Gold",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Serpent_Simulator:_Gold",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Serpent Simulator: Gold#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Serpent_Simulator:_Gold#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Serpent Simulator: Silver#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Serpent Simulator: Silver",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Serpent_Simulator:_Silver",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Serpent Simulator: Silver#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Serpent_Simulator:_Silver#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tropical Depths Gear Bag#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Tenebral Ward Token: Boots",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Boots",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tropical Depths Gear Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tropical_Depths_Gear_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tropical Depths Gear Bag#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tropical_Depths_Gear_Bag#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "c360f04d86b60aa8c6c9b4b0bb5515b8",
+    "count": 10,
+    "offset": 0,
+    "source": "",
+    "time": "0.341357"
+   }
+  }
+ }
+}

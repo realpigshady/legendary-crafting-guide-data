@@ -1,0 +1,155 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Rewards item::Tenebral Ward Token: Boots||Tenebral Ward Token: Chest||Tenebral Ward Token: Gloves||Tenebral Ward Token: Helmet||Tenebral Ward Token: Leggings||Tenebral Ward Token: Shoulders]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Rewards item",
+     "key": "Rewards_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Rewarded by",
+     "key": "Rewarded_by",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has context"
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has location type"
+    },
+    {
+     "label": "Has rewarded item chance",
+     "key": "Has_rewarded_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rewarded item quantity",
+     "key": "Has_rewarded_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Depths of Cruelty#reward12": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Tenebral Ward Token: Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Depths of Cruelty",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Depths_of_Cruelty",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Has rewarded item chance": [
+       "Chance"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "Depths of Cruelty#reward12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Depths_of_Cruelty#reward12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Depths of Cruelty#reward23": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Tenebral Ward Token: Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tenebral_Ward_Token:_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Depths of Cruelty",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Depths_of_Cruelty",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Has rewarded item chance": [
+       "Chance"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "Depths of Cruelty#reward23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Depths_of_Cruelty#reward23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "d3e182e85f5e79c324e09d05d9ff85f3",
+    "count": 2,
+    "offset": 0,
+    "source": "",
+    "time": "0.156499"
+   }
+  }
+ }
+}
