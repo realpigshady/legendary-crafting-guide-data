@@ -1,0 +1,174 @@
+{
+"body": [
+{
+"chat_link": "[&AgF4rQEA]",
+"description": "Acquired occasionally by earning a silver medal or better in Leyspring Hollows adventures.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward leggings.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B21E2EBAB63C6F5A0B3B7A7641E866C8430A2904/3805683.png",
+"id": 109944,
+"level": 0,
+"name": "Tenebral Ward Token: Leggings",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 20000
+},
+{
+"chat_link": "[&AgGYrQEA]",
+"description": "Acquired occasionally from magic mirrors in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for an Tenebral Ward mantle.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CF4B18A5DE98779DBBF6030B7592D0155CC03ED0/3805685.png",
+"id": 109976,
+"level": 0,
+"name": "Tenebral Ward Token: Shoulders",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 10000
+},
+{
+"chat_link": "[&AgHhrQEA]",
+"description": "Acquired by completing the Leyspring Hollows Mastery achievement.\nTrade to alliance field quartermasters in Castora for a Tenebral Ward chestplate.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/50E1B3FF7510CF6D313C1F68CC0CE2C2B93562F7/3805680.png",
+"id": 110049,
+"level": 0,
+"name": "Tenebral Ward Token: Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHkrQEA]",
+"description": "Acquired by completing the story chapter Everything That We Are.\nTrade to alliance field quartermasters in Castora for a Tenebral Ward hood.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/304D74B9AEB96FA50433DD6D2966D6B8E0E4D7D8/3805682.png",
+"id": 110052,
+"level": 0,
+"name": "Tenebral Ward Token: Helmet",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEVrgEA]",
+"description": "Acquired occasionally from jumping puzzles in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward boots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08637C7ABCDEFCEB661EDE322E1F486A94F9CDFA/3805679.png",
+"id": 110101,
+"level": 0,
+"name": "Tenebral Ward Token: Boots",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 5000
+},
+{
+"chat_link": "[&AgFJrgEA]",
+"description": "Acquired occasionally from events in Leyspring Hollows.\nTrade to alliance field quartermasters in Castora for a pair of Tenebral Ward gloves.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/563ACF6C11ECAAE605BAFD48525DBB1ED1182E59/3805681.png",
+"id": 110153,
+"level": 0,
+"name": "Tenebral Ward Token: Gloves",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 5000
+},
+{
+"chat_link": "[&AgFMrgEA]",
+"description": "Can be spent at vendors in Leyspring Hollows.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C11093F5115D60CDF0EDB32057F79665B214D0B/3806638.png",
+"id": 110156,
+"level": 0,
+"name": "Shadowstone Research Data",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=109944,109976,110049,110052,110101,110153,110156"
+}

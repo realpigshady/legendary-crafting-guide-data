@@ -1,0 +1,1722 @@
+{
+"body": [
+{
+"chat_link": "[&AgFkrQEA]",
+"details": {
+"recipe_id": 15746,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1314795BA50A14086164EB3D290502C79D0F4E43/849301.png",
+"id": 109924,
+"level": 0,
+"name": "Recipe: Shining Ward Short Bow",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFtrQEA]",
+"default_skin": 14200,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1029,
+"min_power": 876,
+"secondary_suffix_item_id": "",
+"type": "Pistol"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE261D4F80624E7153D089435EFC2C271A67B69/3806440.png",
+"id": 109933,
+"level": 80,
+"name": "Shining Ward Pistol",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgF3rQEA]",
+"default_skin": 14242,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 981,
+"min_power": 924,
+"secondary_suffix_item_id": "",
+"type": "Dagger"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/68320A0739C3FBFAC2E5A54D790024DDD60F9D7E/3806396.png",
+"id": 109943,
+"level": 80,
+"name": "Shining Ward Dagger",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGHrQEA]",
+"default_skin": 14191,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"type": "Sword"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/56F3DA0819AA32160D93E1B875654BF652D0F6FD/3806499.png",
+"id": 109959,
+"level": 80,
+"name": "Shining Ward Sword",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGIrQEA]",
+"details": {
+"recipe_id": 15744,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0E6ECF2B7D5B300979A70325120A646195C213F0/849290.png",
+"id": 109960,
+"level": 0,
+"name": "Recipe: Shining Ward Hammer",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgGOrQEA]",
+"default_skin": 14190,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1205,
+"min_power": 986,
+"secondary_suffix_item_id": "",
+"type": "Rifle"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F0AF206036C3840397F4F09387C2652E14BE108/3806448.png",
+"id": 109966,
+"level": 80,
+"name": "Shining Ward Rifle",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgGVrQEA]",
+"details": {
+"recipe_id": 15747,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C12706107D16B1A782A19C9E3A052003438B95C/849339.png",
+"id": 109973,
+"level": 0,
+"name": "Recipe: Shining Ward Focus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgGerQEA]",
+"default_skin": 14159,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1111,
+"min_power": 985,
+"secondary_suffix_item_id": "",
+"type": "Hammer"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CDB96B65E641422C5574459F1CCB9DE1A0377BB4/3806424.png",
+"id": 109982,
+"level": 80,
+"name": "Shining Ward Hammer",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgGorQEA]",
+"default_skin": 14239,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"type": "ShortBow"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D0CB91F5DB80384A4121286AA8EFA85F96CE2072/3806472.png",
+"id": 109992,
+"level": 80,
+"name": "Shining Ward Short Bow",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgG0rQEA]",
+"details": {
+"recipe_id": 15763,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3AB66FABE1F5A5FD90E49851D0D9D8DDB591135E/849285.png",
+"id": 110004,
+"level": 0,
+"name": "Recipe: Shining Ward Longbow",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgG6rQEA]",
+"details": {
+"recipe_id": 15725,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D201924467E3C9DF60B5F79631689F90DCE89478/849288.png",
+"id": 110010,
+"level": 0,
+"name": "Recipe: Shining Ward Shield",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgG8rQEA]",
+"details": {
+"recipe_id": 15752,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/043DA2FD01D8DD0B03C369B9B2020CC81138FFCF/849287.png",
+"id": 110012,
+"level": 0,
+"name": "Recipe: Shining Ward Spear",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHKrQEA]",
+"details": {
+"recipe_id": 15741,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B00E062899E80C806A7BB83DDCCDE213E19151B9/849329.png",
+"id": 110026,
+"level": 0,
+"name": "Recipe: Shining Ward Staff",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHYrQEA]",
+"details": {
+"recipe_id": 15739,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D1CC662DD44379089A64450B395C4B54BE2EE756/849298.png",
+"id": 110040,
+"level": 0,
+"name": "Recipe: Shining Ward Axe",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHfrQEA]",
+"default_skin": 14168,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"type": "Harpoon"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2B71D17F603093EEF4D42B29B916040942CE1147/3806481.png",
+"id": 110047,
+"level": 80,
+"name": "Shining Ward Spear",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgHgrQEA]",
+"details": {
+"recipe_id": 15745,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B2185DEB0847396E0902B24A03A8CA36589F46A1/849300.png",
+"id": 110048,
+"level": 0,
+"name": "Recipe: Shining Ward Rifle",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHlrQEA]",
+"details": {
+"recipe_id": 15750,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4B0EB245A6ABB5A52C3A533E2D571920E8D9E509/849325.png",
+"id": 110053,
+"level": 0,
+"name": "Recipe: Shining Ward Scepter",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgHurQEA]",
+"default_skin": 14140,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 61,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 909,
+"min_power": 806,
+"secondary_suffix_item_id": "",
+"type": "Shield"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05D41D035DECDEBB9E921E2E6C160B149BB29099/3806464.png",
+"id": 110062,
+"level": 80,
+"name": "Shining Ward Shield",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHvrQEA]",
+"default_skin": 14177,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1010,
+"min_power": 895,
+"secondary_suffix_item_id": "",
+"type": "Scepter"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FA48EC3C4E3BC60140E1FF0F4EC7AFE54248C8AF/3806456.png",
+"id": 110063,
+"level": 80,
+"name": "Shining Ward Scepter",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgH1rQEA]",
+"default_skin": 14170,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1100,
+"min_power": 995,
+"secondary_suffix_item_id": "",
+"type": "Greatsword"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6455690F0D27A2C0C13CFDD0B7A7B60E2DC4F490/3806412.png",
+"id": 110069,
+"level": 80,
+"name": "Shining Ward Greatsword",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgEJrgEA]",
+"details": {
+"recipe_id": 15761,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2AA251A1001C64AFAEFFBC2443B4D8BFE0373B52/849302.png",
+"id": 110089,
+"level": 0,
+"name": "Recipe: Shining Ward Torch",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgELrgEA]",
+"details": {
+"recipe_id": 15742,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F634A41B46C73C3AD3A70E02697C9370A2F9F34B/849291.png",
+"id": 110091,
+"level": 0,
+"name": "Recipe: Shining Ward Greatsword",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgEgrgEA]",
+"default_skin": 14181,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 900,
+"min_power": 814,
+"secondary_suffix_item_id": "",
+"type": "Warhorn"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99009D0F0D5590FC739DEE7CCE7B5E05086FA4F0/3806517.png",
+"id": 110112,
+"level": 80,
+"name": "Shining Ward Warhorn",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFBrgEA]",
+"details": {
+"recipe_id": 15757,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A4334E5830B017094A03FBF208A79B4BBF392917/849292.png",
+"id": 110145,
+"level": 0,
+"name": "Recipe: Shining Ward Dagger",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFYrgEA]",
+"default_skin": 14247,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1010,
+"min_power": 895,
+"secondary_suffix_item_id": "",
+"type": "Mace"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87A9E801714E1FF0E6D450A70AD692D4137240F/3806432.png",
+"id": 110168,
+"level": 80,
+"name": "Shining Ward Mace",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFbrgEA]",
+"default_skin": 14212,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"type": "LongBow"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/353FB25E78339AB1AD0A630A924C12B891DE68C7/3806388.png",
+"id": 110171,
+"level": 80,
+"name": "Shining Ward Longbow",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgFirgEA]",
+"details": {
+"recipe_id": 15759,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F1AEEAB8041F78F2B90515E55306A5260FA640BC/849286.png",
+"id": 110178,
+"level": 0,
+"name": "Recipe: Shining Ward Sword",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFnrgEA]",
+"default_skin": 14147,
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 113
+},
+{
+"attribute": "Precision",
+"modifier": 113
+},
+{
+"attribute": "Toughness",
+"modifier": 113
+},
+{
+"attribute": "Vitality",
+"modifier": 113
+},
+{
+"attribute": "CritDamage",
+"modifier": 113
+},
+{
+"attribute": "Healing",
+"modifier": 113
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 113
+},
+{
+"attribute": "BoonDuration",
+"modifier": 113
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 113
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1111,
+"min_power": 985,
+"secondary_suffix_item_id": "",
+"type": "Staff"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9ECEB91501BBDE013027BD5AB35DC1FF72C4AA5A/3806490.png",
+"id": 110183,
+"level": 80,
+"name": "Shining Ward Staff",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgFprgEA]",
+"details": {
+"recipe_id": 15731,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/802E0895B53955AC0E23CAB89C01D42C6E3525AF/849289.png",
+"id": 110185,
+"level": 0,
+"name": "Recipe: Shining Ward Mace",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFqrgEA]",
+"details": {
+"recipe_id": 15767,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/93BB38D0F4094B077C740A9531923397BE65405F/849303.png",
+"id": 110186,
+"level": 0,
+"name": "Recipe: Shining Ward Warhorn",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgFzrgEA]",
+"details": {
+"recipe_id": 15756,
+"type": "Unlock",
+"unlock_type": "CraftingRecipe"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0FE244BAD2EF262F95F17948AA23076A2AB407EF/849299.png",
+"id": 110195,
+"level": 0,
+"name": "Recipe: Shining Ward Pistol",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 128
+},
+{
+"chat_link": "[&AgGLrgEA]",
+"default_skin": 14171,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 883,
+"min_power": 832,
+"secondary_suffix_item_id": "",
+"type": "Focus"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FAEE6B2EC108EA6F5A4F71C9D6FCA2C9676F5307/3806404.png",
+"id": 110219,
+"level": 80,
+"name": "Shining Ward Focus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGRrgEA]",
+"default_skin": 14208,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 926,
+"min_power": 789,
+"secondary_suffix_item_id": "",
+"type": "Torch"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B0C2943E0EA3BE4C0A0600F940E7F432A894DB7B/3806507.png",
+"id": 110225,
+"level": 80,
+"name": "Shining Ward Torch",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGZrgEA]",
+"default_skin": 14146,
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 56
+},
+{
+"attribute": "Precision",
+"modifier": 56
+},
+{
+"attribute": "Toughness",
+"modifier": 56
+},
+{
+"attribute": "Vitality",
+"modifier": 56
+},
+{
+"attribute": "CritDamage",
+"modifier": 56
+},
+{
+"attribute": "Healing",
+"modifier": 56
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 56
+},
+{
+"attribute": "BoonDuration",
+"modifier": 56
+},
+{
+"attribute": "ConditionDuration",
+"modifier": 56
+}
+],
+"id": 559
+},
+"infusion_slots": [],
+"max_power": 1048,
+"min_power": 857,
+"secondary_suffix_item_id": "",
+"type": "Axe"
+},
+"flags": [
+"AccountBound",
+"SoulBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/90A444D25A72B4D495C609517D62BB0B437C4194/3806380.png",
+"id": 110233,
+"level": 80,
+"name": "Shining Ward Axe",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=109924,109933,109943,109959,109960,109966,109973,109982,109992,110004,110010,110012,110026,110040,110047,110048,110053,110062,110063,110069,110089,110091,110112,110145,110168,110171,110178,110183,110185,110186,110195,110219,110225,110233"
+}
