@@ -1,0 +1,13 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward weapons|Shining Ward Axe|Recipe: Shining Ward Axe|Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Token: Helmet|Tenebral Ward Token: Chest|Alliance Field Quartermaster|Tenebral Ward armor|Everything That We Are"
+ },
+ "reply": {
+  "_error": "HTTP Error 503: Backend fetch failed"
+ }
+}

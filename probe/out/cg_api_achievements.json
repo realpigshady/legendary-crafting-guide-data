@@ -1,0 +1,111 @@
+{
+ "params": {
+  "api": "/v2/achievements?ids=9437,9363"
+ },
+ "reply": [
+  {
+   "id": 9437,
+   "name": "Shining Ward Weapon Collector",
+   "description": "",
+   "requirement": "Unlock all  Shining Ward weapon skins by crafting them after unlocking their recipe or by purchasing them from completed renown heart vendors in Leyspring Hollows.",
+   "locked_text": "",
+   "type": "ItemSet",
+   "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Skin",
+     "id": 14146
+    },
+    {
+     "type": "Skin",
+     "id": 14242
+    },
+    {
+     "type": "Skin",
+     "id": 14171
+    },
+    {
+     "type": "Skin",
+     "id": 14170
+    },
+    {
+     "type": "Skin",
+     "id": 14159
+    },
+    {
+     "type": "Skin",
+     "id": 14212
+    },
+    {
+     "type": "Skin",
+     "id": 14247
+    },
+    {
+     "type": "Skin",
+     "id": 14200
+    },
+    {
+     "type": "Skin",
+     "id": 14190
+    },
+    {
+     "type": "Skin",
+     "id": 14177
+    },
+    {
+     "type": "Skin",
+     "id": 14140
+    },
+    {
+     "type": "Skin",
+     "id": 14239
+    },
+    {
+     "type": "Skin",
+     "id": 14168
+    },
+    {
+     "type": "Skin",
+     "id": 14147
+    },
+    {
+     "type": "Skin",
+     "id": 14191
+    },
+    {
+     "type": "Skin",
+     "id": 14208
+    },
+    {
+     "type": "Skin",
+     "id": 14181
+    }
+   ],
+   "tiers": [
+    {
+     "count": 1,
+     "points": 1
+    },
+    {
+     "count": 8,
+     "points": 1
+    },
+    {
+     "count": 17,
+     "points": 1
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 110133,
+     "count": 1
+    }
+   ]
+  }
+ ]
+}
