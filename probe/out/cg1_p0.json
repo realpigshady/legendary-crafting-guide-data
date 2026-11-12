@@ -1,0 +1,737 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "ids|content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Recipe: Shining Ward Axe|Recipe: Shining Ward Dagger|Recipe: Shining Ward Focus|Recipe: Shining Ward Greatsword|Recipe: Shining Ward Hammer|Recipe: Shining Ward Longbow|Recipe: Shining Ward Mace|Recipe: Shining Ward Pistol|Recipe: Shining Ward Rifle|Recipe: Shining Ward Scepter|Recipe: Shining Ward Shield|Recipe: Shining Ward Short Bow|Recipe: Shining Ward Spear|Recipe: Shining Ward Staff|Recipe: Shining Ward Sword|Recipe: Shining Ward Torch|Recipe: Shining Ward Warhorn|Shining Ward Axe|Shining Ward Dagger|Shining Ward Focus|Shining Ward Greatsword|Shining Ward Hammer|Shining Ward Longbow|Shining Ward Mace|Shining Ward Pistol|Shining Ward Rifle|Shining Ward Scepter|Shining Ward Shield|Shining Ward Short Bow|Shining Ward Spear|Shining Ward Staff|Shining Ward Sword|Shining Ward Torch|Shining Ward Warhorn|Tenebral Ward Medium Boots|Tenebral Ward Medium Chestplate|Tenebral Ward Medium Gloves|Tenebral Ward Medium Helmet|Tenebral Ward Medium Leggings|Tenebral Ward Medium Pauldrons"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 422365,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Axe",
+     "revisions": [
+      {
+       "revid": 3196989,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic axe.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110040\n| requires = voe\n}}\n[[Recipe: Shining Ward Axe]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Axe]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzende Astralwachen-Axt]]\n[[es:Receta: Hacha de resguardo brillante]]\n[[fr:Recette : hache de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422366,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Dagger",
+     "revisions": [
+      {
+       "revid": 3196990,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic dagger.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110145\n| requires = voe\n}}\n[[Recipe: Shining Ward Dagger]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Dagger]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Dolch]]\n[[es:Receta: Daga de resguardo brillante]]\n[[fr:Recette : dague de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422367,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Focus",
+     "revisions": [
+      {
+       "revid": 3196992,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic focus.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 109973\n| requires = voe\n}}\n[[Recipe: Shining Ward Focus]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Focus]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Fokus]]\n[[es:Receta: Foco de resguardo brillante]]\n[[fr:Recette : focus de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422368,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Greatsword",
+     "revisions": [
+      {
+       "revid": 3196993,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic greatsword.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110091\n| requires = voe\n}}\n[[Recipe: Shining Ward Greatsword]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Greatsword]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzendes Astralwachen-Großschwert]]\n[[es:Receta: Mandoble de resguardo brillante]]\n[[fr:Recette : espadon de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422370,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Hammer",
+     "revisions": [
+      {
+       "revid": 3196995,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic hammer.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 109960\n| requires = voe\n}}\n[[Recipe: Shining Ward Hammer]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Hammer]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Hammer]]\n[[es:Receta: Martillo de resguardo brillante]]\n[[fr:Recette : marteau de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422371,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Longbow",
+     "revisions": [
+      {
+       "revid": 3196997,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic longbow.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110004\n| requires = voe\n}}\n[[Recipe: Shining Ward Longbow]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Longbow]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Langbogen]]\n[[es:Receta: Arco largo de resguardo brillante]]\n[[fr:Recette : arc long de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422372,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Mace",
+     "revisions": [
+      {
+       "revid": 3196998,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic mace.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110185\n| requires = voe\n}}\n[[Recipe: Shining Ward Mace]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Mace]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Streitkolben]]\n[[es:Receta: Maza de resguardo brillante]]\n[[fr:Recette : masse de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422373,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Pistol",
+     "revisions": [
+      {
+       "revid": 3197001,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic pistol.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110195\n| requires = voe\n}}\n[[Recipe: Shining Ward Pistol]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Pistol]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzende Astralwachen-Pistole]]\n[[es:Receta: Pistola de resguardo brillante]]\n[[fr:Recette : pistolet de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422374,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Rifle",
+     "revisions": [
+      {
+       "revid": 3197002,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic rifle.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110048\n| requires = voe\n}}\n[[Recipe: Shining Ward Rifle]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Rifle]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzendes Astralwachen-Gewehr]]\n[[es:Receta: Rifle de resguardo brillante]]\n[[fr:Recette : fusil de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422375,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Scepter",
+     "revisions": [
+      {
+       "revid": 3197004,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic scepter.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110053\n| requires = voe\n}}\n[[Recipe: Shining Ward Scepter]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Scepter]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzendes Astralwachen-Zepter]]\n[[es:Receta: Cetro de resguardo brillante]]\n[[fr:Recette : sceptre de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422376,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Shield",
+     "revisions": [
+      {
+       "revid": 3197005,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic shield.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110010\n| requires = voe\n}}\n[[Recipe: Shining Ward Shield]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Shield]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Schild]]\n[[es:Receta: Escudo de resguardo brillante]]\n[[fr:Recette : bouclier de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422377,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Short Bow",
+     "revisions": [
+      {
+       "revid": 3197008,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic short bow.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 109924\n| requires = voe\n}}\n[[Recipe: Shining Ward Short Bow]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Short Bow]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Kurzbogen]]\n[[es:Receta: Arco corto de resguardo brillante]]\n[[fr:Recette : arc court de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422378,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Spear",
+     "revisions": [
+      {
+       "revid": 3197010,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic spear.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110012\n| requires = voe\n}}\n[[Recipe: Shining Ward Spear]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Spear]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Speer]]\n[[es:Receta: Lanza de resguardo brillante]]\n[[fr:Recette : lance de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422379,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Staff",
+     "revisions": [
+      {
+       "revid": 3197011,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic staff.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110026\n| requires = voe\n}}\n[[Recipe: Shining Ward Staff]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Staff]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzender Astralwachen-Stab]]\n[[es:Receta: Báculo de resguardo brillante]]\n[[fr:Recette : bâton de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422380,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Sword",
+     "revisions": [
+      {
+       "revid": 3197012,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic sword.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110178\n| requires = voe\n}}\n[[Recipe: Shining Ward Sword]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Sword]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzendes Astralwachen-Schwert]]\n[[es:Receta: Espada de resguardo brillante]]\n[[fr:Recette : épée de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422381,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Torch",
+     "revisions": [
+      {
+       "revid": 3197013,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic torch.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110089\n| requires = voe\n}}\n[[Recipe: Shining Ward Torch]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Torch]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzende Astralwachen-Fackel]]\n[[es:Receta: Antorcha de resguardo brillante]]\n[[fr:Recette : torche de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422382,
+     "ns": 0,
+     "title": "Recipe: Shining Ward Warhorn",
+     "revisions": [
+      {
+       "revid": 3197014,
+       "parentid": 0,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Recipe sheet exotic warhorn.png\n| type = recipe sheet\n| rarity = Exotic\n| bound = Account\n| id = 110186\n| requires = voe\n}}\n[[Recipe: Shining Ward Warhorn]] is a [[recipe sheet]] used to learn the recipe to craft [[Shining Ward Warhorn]].\n\n== Acquisition ==\n{{sold by}}\n\n== Teaches recipes ==\n{{Teaches recipe}}\n\n[[de:Rezept: Glänzendes Astralwachen-Kriegshorn]]\n[[es:Receta: Cuerno de guerra de resguardo brillante]]\n[[fr:Recette : cor de guerre de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422415,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Chestplate",
+     "revisions": [
+      {
+       "revid": 3199667,
+       "parentid": 3197255,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Armor infobox\n| icon = Tenebral Ward Chestplate.png\n| type = Chest\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Chestplate (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 110213\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittlerer Düsterer Astralwachen-Brustpanzer]]\n[[es:Loriga media de resguardo tenebroso]]\n[[fr:Pansière intermédiaire de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422418,
+     "ns": 0,
+     "title": "Shining Ward Axe",
+     "revisions": [
+      {
+       "revid": 3199520,
+       "parentid": 3197144,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| prefix = Celestial\n| type = axe\n| skin = Shining Ward Axe (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110233\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Axe\n| disciplines = Weaponsmith\n| rating = 400\n| type = Axe\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Axe Blade\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15739\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzende Astralwachen-Axt]]\n[[es:Hacha de resguardo brillante]]\n[[fr:Hache de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422420,
+     "ns": 0,
+     "title": "Shining Ward Dagger",
+     "revisions": [
+      {
+       "revid": 3210956,
+       "parentid": 3199521,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Dagger.png\n| prefix = Celestial's\n| type = dagger\n| skin = Shining Ward Dagger (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109943\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Dagger\n| disciplines = Weaponsmith\n| rating = 400\n| type = Dagger\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Dagger Blade\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15757\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Dolch]]\n[[es:Daga de resguardo brillante]]\n[[fr:Dague de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422421,
+     "ns": 0,
+     "title": "Shining Ward Greatsword",
+     "revisions": [
+      {
+       "revid": 3210965,
+       "parentid": 3199532,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Greatsword.png\n| prefix = Celestial's\n| type = greatsword\n| skin = Shining Ward Greatsword (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110069\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Greatsword\n| disciplines = Weaponsmith\n| rating = 400\n| type = Greatsword\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Greatsword Blade\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15742\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzendes Astralwachen-Großschwert]]\n[[es:Mandoble de resguardo brillante]]\n[[fr:Espadon de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422422,
+     "ns": 0,
+     "title": "Shining Ward Hammer",
+     "revisions": [
+      {
+       "revid": 3210966,
+       "parentid": 3199533,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Hammer.png\n| prefix = Celestial's\n| type = hammer\n| skin = Shining Ward Hammer (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109982\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Hammer\n| disciplines = Weaponsmith\n| rating = 400\n| type = Hammer\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Hammer Head\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15744\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Hammer]]\n[[es:Martillo de resguardo brillante]]\n[[fr:Marteau de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422423,
+     "ns": 0,
+     "title": "Shining Ward Mace",
+     "revisions": [
+      {
+       "revid": 3210957,
+       "parentid": 3199523,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Mace.png\n| prefix = Celestial's\n| type = mace\n| skin = Shining Ward Mace (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110168\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Mace\n| disciplines = Weaponsmith\n| rating = 400\n| type = Mace\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Mace Head\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15731\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Streitkolben]]\n[[es:Maza de resguardo brillante]]\n[[fr:Masse de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422424,
+     "ns": 0,
+     "title": "Shining Ward Shield",
+     "revisions": [
+      {
+       "revid": 3210962,
+       "parentid": 3199529,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Shield.png\n| prefix = Celestial's\n| type = Shield\n| skin = Shining Ward Shield (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110062\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Shield\n| disciplines = Weaponsmith\n| rating = 400\n| type = Shield\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Shield Boss\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15725\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Schild]]\n[[es:Escudo de resguardo brillante]]\n[[fr:Bouclier de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422425,
+     "ns": 0,
+     "title": "Shining Ward Spear",
+     "revisions": [
+      {
+       "revid": 3210971,
+       "parentid": 3199538,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Spear.png\n| prefix = Celestial's\n| type = Spear\n| skin = Shining Ward Spear (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110047\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Spear\n| disciplines = Weaponsmith\n| rating = 400\n| type = Spear\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Spear Head\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15752\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Speer]]\n[[es:Lanza de resguardo brillante]]\n[[fr:Lance de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422426,
+     "ns": 0,
+     "title": "Shining Ward Sword",
+     "revisions": [
+      {
+       "revid": 3210960,
+       "parentid": 3199527,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Sword.png\n| prefix = Celestial's\n| type = Sword\n| skin = Shining Ward Sword (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109959\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Sword\n| disciplines = Weaponsmith\n| rating = 400\n| type = Sword\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Sword Blade\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15759\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzendes Astralwachen-Schwert]]\n[[es:Espada de resguardo brillante]]\n[[fr:Épée de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422427,
+     "ns": 0,
+     "title": "Shining Ward Longbow",
+     "revisions": [
+      {
+       "revid": 3210967,
+       "parentid": 3199534,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Longbow.png\n| prefix = Celestial's\n| type = Longbow\n| skin = Shining Ward Longbow (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110171\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Longbow\n| disciplines = Huntsman\n| rating = 400\n| type = Longbow\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Ancient Longbow Stave\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15763\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Langbogen]]\n[[es:Arco largo de resguardo brillante]]\n[[fr:Arc long de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422428,
+     "ns": 0,
+     "title": "Shining Ward Pistol",
+     "revisions": [
+      {
+       "revid": 3210958,
+       "parentid": 3199525,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Pistol.png\n| prefix = Celestial's\n| type = Pistol\n| skin = Shining Ward Pistol (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109933\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Pistol\n| disciplines = Huntsman\n| rating = 400\n| type = Pistol\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Pistol Barrel\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15756\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzende Astralwachen-Pistole]]\n[[es:Pistola de resguardo brillante]]\n[[fr:Pistolet de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422429,
+     "ns": 0,
+     "title": "Shining Ward Rifle",
+     "revisions": [
+      {
+       "revid": 3210968,
+       "parentid": 3199535,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Rifle.png\n| prefix = Celestial's\n| type = Rifle\n| skin = Shining Ward Rifle (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109966\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Rifle\n| disciplines = Huntsman\n| rating = 400\n| type = Rifle\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Rifle Barrel\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15745\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzendes Astralwachen-Gewehr]]\n[[es:Rifle de resguardo brillante]]\n[[fr:Fusil de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422431,
+     "ns": 0,
+     "title": "Shining Ward Short Bow",
+     "revisions": [
+      {
+       "revid": 3210969,
+       "parentid": 3199536,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Short Bow.png\n| prefix = Celestial's\n| type = Short Bow\n| skin = Shining Ward Short Bow (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 109992\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Short Bow\n| disciplines = Huntsman\n| rating = 400\n| type = Short Bow\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Ancient Short-Bow Stave\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15746\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Kurzbogen]]\n[[es:Arco corto de resguardo brillante]]\n[[fr:Arc court de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422432,
+     "ns": 0,
+     "title": "Shining Ward Torch",
+     "revisions": [
+      {
+       "revid": 3210963,
+       "parentid": 3199530,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Torch.png\n| prefix = Celestial's\n| type = Torch\n| skin = Shining Ward Torch (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110225\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Torch\n| disciplines = Huntsman\n| rating = 400\n| type = Torch\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Torch Head\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15761\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzende Astralwachen-Fackel]]\n[[es:Antorcha de resguardo brillante]]\n[[fr:Torche de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422433,
+     "ns": 0,
+     "title": "Shining Ward Warhorn",
+     "revisions": [
+      {
+       "revid": 3210964,
+       "parentid": 3199531,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Warhorn.png\n| prefix = Celestial's\n| type = Warhorn\n| skin = Shining Ward Warhorn (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110112\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Warhorn\n| disciplines = Huntsman\n| rating = 400\n| type = Warhorn\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Orichalcum Horn\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15767\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzendes Astralwachen-Kriegshorn]]\n[[es:Cuerno de guerra de resguardo brillante]]\n[[fr:Cor de guerre de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422434,
+     "ns": 0,
+     "title": "Shining Ward Scepter",
+     "revisions": [
+      {
+       "revid": 3210959,
+       "parentid": 3199526,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Scepter.png\n| prefix = Celestial's\n| type = Scepter\n| skin = Shining Ward Scepter (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110063\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Scepter\n| disciplines = Artificer\n| rating = 400\n| type = Scepter\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Ancient Scepter Core\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15750\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzendes Astralwachen-Zepter]]\n[[es:Cetro de resguardo brillante]]\n[[fr:Sceptre de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422435,
+     "ns": 0,
+     "title": "Shining Ward Focus",
+     "revisions": [
+      {
+       "revid": 3210961,
+       "parentid": 3199528,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Focus.png\n| prefix = Celestial's\n| type = Focus\n| skin = Shining Ward Focus (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110219\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Focus\n| disciplines = Artificer\n| rating = 400\n| type = Focus\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Ancient Focus Core\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15747\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Fokus]]\n[[es:Foco de resguardo brillante]]\n[[fr:Focus de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422436,
+     "ns": 0,
+     "title": "Shining Ward Staff",
+     "revisions": [
+      {
+       "revid": 3210970,
+       "parentid": 3199537,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Weapon infobox\n| icon = Shining Ward Staff.png\n| prefix = Celestial's\n| type = Staff\n| skin = Shining Ward Staff (skin)\n| set = Shining Ward weapons\n| collection = Shining Ward Weapon Collector\n| level = 80\n| rarity = Exotic\n| bound = account soul\n| salvage = Standard, Research\n| id = 110183\n| requires = voe\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Recipe ===\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Shining Ward Staff\n| disciplines = Artificer\n| rating = 400\n| type = Staff\n| ingredient1 = 1 Shining Ward Weapon Shard\n| ingredient2 = 5 Oiled Ancient Staff Head\n| ingredient3 = 10 Glob of Ectoplasm\n| ingredient4 = 250 Research Note\n| id = 15741\n}}\n\n{{Shining Ward Weapons nav}}\n\n[[de:Glänzender Astralwachen-Stab]]\n[[es:Báculo de resguardo brillante]]\n[[fr:Bâton de la Garde lumineuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422456,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Pauldrons",
+     "revisions": [
+      {
+       "revid": 3199666,
+       "parentid": 3197253,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{armor infobox\n| icon = Tenebral Ward Pauldrons.png\n| type = Shoulders\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Pauldrons (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 110011\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittlerer Düsterer Astralwachen-Schulterschutz]]\n[[es:Hombreras medias de resguardo tenebroso]]\n[[fr:Espauliers intermédiaires de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422460,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Helmet",
+     "revisions": [
+      {
+       "revid": 3199664,
+       "parentid": 3197251,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{armor infobox\n| icon = Tenebral Ward Helmet.png\n| type = Head\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Helmet (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 109984\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittlerer Düsterer Astralwachen-Sturmhelm]]\n[[es:Casco medio de guardia de resguardo tenebroso]]\n[[fr:Casque intermédiaire de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422464,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Gloves",
+     "revisions": [
+      {
+       "revid": 3199668,
+       "parentid": 3197256,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{armor infobox\n| icon = Tenebral Ward Gloves.png\n| type = Hand\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Gloves (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 110095\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittlere Düstere Astralwachen-Handschuhe]]\n[[es:Guantes medios de resguardo tenebroso]]\n[[fr:Gants intermédiaires de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422467,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Leggings",
+     "revisions": [
+      {
+       "revid": 3201766,
+       "parentid": 3199670,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{armor infobox\n| icon = Tenebral Ward Leggings (medium).png\n| type = Leg\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Leggings (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 109987\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittleres Düsteres Astralwachen-Beinkleid]]\n[[es:Calzas medias de resguardo tenebroso]]\n[[fr:Jambières intermédiaires de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 422470,
+     "ns": 0,
+     "title": "Tenebral Ward Medium Boots",
+     "revisions": [
+      {
+       "revid": 3199671,
+       "parentid": 3197258,
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{armor infobox\n| icon = Tenebral Ward Boots.png\n| type = Foot\n| rarity = Exotic\n| level = 80\n| skin = Tenebral Ward Medium Boots (skin)\n| set = Tenebral Ward armor (medium)\n| collection = Tenebral Ward Armor Collection\n| prefix = selectable\n| class = Medium\n| bound = account soul\n| requires = voe\n| salvage = Standard\n| id = 109955\n}}\n== Acquisition ==\n{{sold by}}\n\n{{Tenebral Ward armor nav}}\n\n[[de:Mittlere Düstere Astralwachen-Stiefel]]\n[[es:Botas medias de resguardo tenebroso]]\n[[fr:Bottes intermédiaires de la Garde ténébreuse]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
