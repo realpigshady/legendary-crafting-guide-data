@@ -49,6 +49,10 @@ USER_AGENT = (
 )
 MIN_INTERVAL_S = 1.0
 ASK_INTERVAL_S = 2.0        # SMW ask queries are heavier: half the pace
+# Owner rule 2026-11-12: the wiki's 403 / 5xx are mostly transient and clear after a few refreshes,
+# so each request is tried up to 10 times within about a minute (6 s apart), not backed off for hours.
+RETRIES = 10
+RETRY_PAUSE_S = 6.0
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "config" / "families.json").read_text(encoding="utf-8"))
@@ -168,12 +172,12 @@ class Http:
 
     def post_live(self, url: str, params: dict):
         """One POST (SMW ask: long queries, kinder to the wiki's cache layer), no snapshot.
-        Slower pace and long backoff on 403/429/503: the wiki rate-limits query bursts."""
+        Slower pace; 403/429/5xx retried up to RETRIES times, RETRY_PAUSE_S apart (owner rule 2026-11-12)."""
         host = urllib.parse.urlparse(url).netloc
         if self.offline or host in self._down_hosts:
             raise SourceDown(f"{host} offline for this run")
         body = urllib.parse.urlencode(params).encode()
-        for attempt in range(6):
+        for attempt in range(RETRIES):
             wait = ASK_INTERVAL_S - (time.monotonic() - self._last)
             if wait > 0:
                 time.sleep(wait)
@@ -185,17 +189,16 @@ class Http:
                 self.fresh[host] = self.fresh.get(host, 0) + 1
                 return data
             except urllib.error.HTTPError as e:
-                if e.code not in (403, 429, 502, 503, 504) or attempt == 5:
+                if e.code not in (403, 429, 502, 503, 504) or attempt == RETRIES - 1:
                     self._down_hosts.add(host)
                     raise
-                pause = min(300, 15 * 2 ** attempt)
-                print(f"  ask {e.code}, waiting {pause}s (try {attempt + 1})", file=sys.stderr)
-                time.sleep(pause)
+                print(f"  ask {e.code}, retry in {RETRY_PAUSE_S:g}s (try {attempt + 1}/{RETRIES})", file=sys.stderr)
+                time.sleep(RETRY_PAUSE_S)
             except Exception:
-                if attempt == 5:
+                if attempt == RETRIES - 1:
                     self._down_hosts.add(host)
                     raise
-                time.sleep(10 * (attempt + 1))
+                time.sleep(RETRY_PAUSE_S)
             finally:
                 self._last = time.monotonic()
 
@@ -205,7 +208,7 @@ class Http:
             time.sleep(wait)
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
         try:
-            for attempt in range(6):
+            for attempt in range(RETRIES):
                 try:
                     if attempt:
                         self._last = time.monotonic()
@@ -218,12 +221,10 @@ class Http:
                             snippet = " ".join(raw[:200].split())
                             raise ValueError(f"HTTP {r.status} {r.headers.get('Content-Type', '?')}, not JSON: {snippet!r}") from None
                 except Exception as e:  # noqa: BLE001 - retry any transport error
-                    if attempt == 5:
+                    if attempt == RETRIES - 1:
                         raise
-                    limited = isinstance(e, urllib.error.HTTPError) and e.code in (403, 429, 502, 503, 504)
-                    pause = min(300, 15 * 2 ** attempt) if limited else 2 ** attempt * 2   # rate limit: long backoff
-                    print(f"  retry {attempt + 1} for {url} in {pause}s: {e}", file=sys.stderr)
-                    time.sleep(pause)
+                    print(f"  retry {attempt + 1}/{RETRIES} for {url[:160]} in {RETRY_PAUSE_S:g}s: {e}", file=sys.stderr)
+                    time.sleep(RETRY_PAUSE_S)   # owner rule: up to 10 tries in about a minute
         finally:
             self._last = time.monotonic()
 

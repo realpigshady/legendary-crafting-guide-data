@@ -5,7 +5,7 @@ can be inspected without wiki access. One request per second.
 
 A query {"download": "<File page title>"} instead saves that wiki file (through
 Special:FilePath) to probe/out/files/<name>.<ext>. The wiki answers intermittently, so each
-request is tried up to 4 times, 10 s apart (a 403 / 429 / 5xx burst still ends the attempts).
+request is tried up to 10 times, 6 s apart (owner rule 2026-11-12: the wiki's errors clear after a few refreshes).
 A query {"api": "/v2/..."} is one GET to the official GW2 API (no key) instead of the wiki."""
 import json, sys, time, urllib.parse, urllib.request
 from pathlib import Path
@@ -21,13 +21,14 @@ out.mkdir(parents=True, exist_ok=True)
 
 def fetch(url: str) -> bytes:
     last = None
-    for attempt in range(4):
+    for attempt in range(10):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=60) as r:
                 return r.read()
         except Exception as e:  # noqa: BLE001
             last = e
-            time.sleep(10)
+            if attempt < 9:
+                time.sleep(6)
     raise last
 
 
