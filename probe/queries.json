@@ -1,6 +1,39 @@
 {
- "voe_rewarded_exact": {
-  "action": "ask",
-  "query": "[[Rewards item::Aether-Rich Sap||Antiquated Ducat]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=500|offset=0"
+ "mirror_pages": {
+  "action": "query",
+  "prop": "revisions|images",
+  "rvprop": "content|ids",
+  "rvslots": "main",
+  "imlimit": "500",
+  "redirects": "1",
+  "titles": "Magic Mirror|Obscured Chest|Long-Lost Keepsake Box|Small Obscured Chest|Medium Obscured Chest|Large Obscured Chest"
+ },
+ "mirror_map_pages_images": {
+  "action": "query",
+  "prop": "images",
+  "imlimit": "500",
+  "redirects": "1",
+  "titles": "Shipwreck Strand|Starlit Weald|Eternity's Garden|Leyspring Hollows|Ethereal Key Charge|Secrets Unearthed|Wild Castoran Magic|Obscured Riches"
+ },
+ "mirror_file_search": {
+  "action": "query",
+  "list": "search",
+  "srnamespace": "6",
+  "srlimit": "50",
+  "srsearch": "mirror map"
+ },
+ "mirror_file_search2": {
+  "action": "query",
+  "list": "search",
+  "srnamespace": "6",
+  "srlimit": "50",
+  "srsearch": "obscured chest"
+ },
+ "mirror_file_search3": {
+  "action": "query",
+  "list": "search",
+  "srnamespace": "6",
+  "srlimit": "50",
+  "srsearch": "magic mirror locations"
  }
 }
