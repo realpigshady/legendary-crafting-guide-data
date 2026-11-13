@@ -1,0 +1,39 @@
+{
+ "_comment": "Data 4o (1b), 2026-11-13: Magic Mirror routes, one per Castora map, owner-measured (owner decision 2026-11-12 ~22:20 UTC: owner measurements live here in config/, like config/ls3_currencies.json). Each map has a full sweep and an efficient variant (medium / large chests only and the mirrors that open them) in one variant group, once a day per account (every chest and keepsake box once a day per account). Totals: full = medium chests x 2 + Long-Lost Keepsake Boxes (one per mirror finished) x 3 (owner 2026-11-12 11:34, research note section 10 in the addon repo); efficient = the estimate in the owner's efficient-routes.json (3 a keepsake box on the route's mirrors + the medium count x 2; large chests pay more, not counted). Minutes: the efficient variant takes the full route's time (owner 2026-11-12). Guaranteed currency only. Positions and images: config/mirror_route_geometry.json and assets/mirror-maps/ (tools/mirror_maps_import.py).",
+ "group_prefix": "voe:mirror:",
+ "wiki_url": "https://wiki.guildwars2.com/wiki/Magic_Mirror",
+ "maps": [
+  {
+   "slug": "shipwreck-strand",
+   "map": "Shipwreck Strand",
+   "currency": "Chromatic Sap",
+   "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Shipwreck_Strand)_map.jpg",
+   "full": {"total": 47, "mirrors": 9, "medium_chests": 10, "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min", "start": "Dark Leviathan Waypoint"},
+   "efficient": {"total": 35, "mirrors": 5, "chest_spots": 14, "minutes": 7, "time_source": "owner 2026-11-12: the full route's time", "start": "Dark Leviathan Waypoint"}
+  },
+  {
+   "slug": "starlit-weald",
+   "map": "Starlit Weald",
+   "currency": "Raw Enchanting Stone",
+   "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Starlit_Weald)_map.jpg",
+   "full": {"total": 66, "mirrors": 14, "medium_chests": 12, "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min", "start": "Foothold Bivouac Waypoint"},
+   "efficient": {"total": 42, "mirrors": 6, "chest_spots": 16, "minutes": 7, "time_source": "owner 2026-11-12: the full route's time", "start": "Hunter's Camp Waypoint"}
+  },
+  {
+   "slug": "eternitys-garden",
+   "map": "Eternity's Garden",
+   "currency": "Shadowstone Fragment",
+   "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Eternity%27s_Garden)_map.jpg",
+   "description": "Map requires you to gain 5 additional keys through events, do this before route start",
+   "full": {"total": 45, "mirrors": 7, "medium_chests": 12, "minutes": 12.5, "time_source": "owner 2026-11-12: 10-15 min", "start": "Deepwood Outpost Waypoint"},
+   "efficient": {"total": 33, "mirrors": 3, "chest_spots": 16, "minutes": 12.5, "time_source": "owner 2026-11-12: the full route's time", "start": "Temple of Abnegation Waypoint"}
+  },
+  {
+   "slug": "leyspring-hollows",
+   "map": "Leyspring Hollows",
+   "currency": "Shadowstone Research Data",
+   "full": {"total": 16, "mirrors": 4, "medium_chests": 2, "minutes": 15, "time_source": "owner 2026-11-12 19:55: 15 min", "start": "Doyen's Adytum Waypoint"},
+   "efficient": {"total": 10, "mirrors": 2, "chest_spots": 6, "minutes": 15, "time_source": "owner 2026-11-12: the full route's time", "start": "Doyen's Adytum Waypoint", "second_start": "Hall of Assemblage Waypoint"}
+  }
+ ]
+}

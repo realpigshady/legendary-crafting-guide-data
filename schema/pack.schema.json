@@ -468,12 +468,24 @@
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["id"],
+              "required": [
+                "id"
+              ],
               "properties": {
-                "id": {"type": "string"},
-                "name": {"type": "string"},
-                "max_runs_per_day": {"type": "integer", "minimum": 1},
-                "max_runs_per_week": {"type": "integer", "minimum": 1}
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "max_runs_per_day": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "max_runs_per_week": {
+                  "type": "integer",
+                  "minimum": 1
+                }
               }
             },
             "description": "rewards shared with other activities: the runs of every activity naming the same id count against one cap (config/shared_caps.json)"
@@ -485,6 +497,207 @@
           "info_url": {
             "type": "string",
             "description": "More info link when it isn't guidance.wiki_url"
+          },
+          "mirror_route": {
+            "type": "object",
+            "description": "Magic Mirror route visual (Data 4o (1b), SPEC §5): the UI's mirror window. Pixel positions on the route image; image and waypoint_icon are release asset names beside pack.json",
+            "required": [
+              "map",
+              "variant",
+              "image",
+              "image_size",
+              "starts"
+            ],
+            "properties": {
+              "map": {
+                "type": "string"
+              },
+              "variant": {
+                "enum": [
+                  "full",
+                  "efficient"
+                ]
+              },
+              "image": {
+                "type": "string"
+              },
+              "image_size": {
+                "type": "array",
+                "items": {
+                  "type": "integer"
+                },
+                "minItems": 2,
+                "maxItems": 2
+              },
+              "waypoint_icon": {
+                "type": "string"
+              },
+              "wiki_map_url": {
+                "type": "string"
+              },
+              "starts": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "name"
+                  ],
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "chat_code": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    },
+                    "x": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "y": {
+                      "type": "integer",
+                      "minimum": 0
+                    }
+                  }
+                }
+              },
+              "mirrors": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "n",
+                    "name",
+                    "x",
+                    "y"
+                  ],
+                  "properties": {
+                    "n": {
+                      "type": "integer"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "x": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "y": {
+                      "type": "integer",
+                      "minimum": 0
+                    }
+                  }
+                }
+              },
+              "chests": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "size",
+                    "x",
+                    "y"
+                  ],
+                  "properties": {
+                    "size": {
+                      "enum": [
+                        "small",
+                        "medium",
+                        "large",
+                        "medium_or_large"
+                      ]
+                    },
+                    "x": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "y": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "mirror": {
+                      "type": [
+                        "integer",
+                        "null"
+                      ]
+                    }
+                  }
+                }
+              },
+              "stops": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "n",
+                    "kind",
+                    "name",
+                    "x",
+                    "y"
+                  ],
+                  "properties": {
+                    "n": {
+                      "type": "integer"
+                    },
+                    "kind": {
+                      "enum": [
+                        "mirror",
+                        "chest"
+                      ]
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "size": {
+                      "enum": [
+                        "small",
+                        "medium",
+                        "large",
+                        "medium_or_large"
+                      ]
+                    },
+                    "x": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "y": {
+                      "type": "integer",
+                      "minimum": 0
+                    }
+                  }
+                }
+              },
+              "path": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "points"
+                  ],
+                  "properties": {
+                    "start": {
+                      "type": "string"
+                    },
+                    "points": {
+                      "type": "array",
+                      "items": {
+                        "type": "array",
+                        "items": {
+                          "type": "integer"
+                        },
+                        "minItems": 2,
+                        "maxItems": 2
+                      }
+                    }
+                  }
+                }
+              },
+              "path_drawn_by_owner": {
+                "type": "boolean"
+              }
+            }
           }
         }
       }

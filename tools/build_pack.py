@@ -35,6 +35,7 @@ import activity_catalog as acat  # noqa: E402
 import ls3_currencies as ls3  # noqa: E402
 import castora  # noqa: E402
 import collection_gifts as cgift  # noqa: E402
+import mirror_routes  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
@@ -479,6 +480,10 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         raise SourceDown(str(e)) from e
     warnings += cwarn
     print(f"castora: {stats['castora']}")
+    # Magic Mirror routes, owner-measured (config/mirror_routes.json; images are release assets, Data 4o (1b))
+    stats["mirror_routes"], mwarn = mirror_routes.apply(final, nodes, maps)
+    warnings += mwarn
+    print(f"mirror routes: {stats['mirror_routes']}")
     def places(names: list[str]) -> dict[str, list[dict]]:
         try:
             return smw.get("place", names)
@@ -548,6 +553,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     body = json.dumps(pack, ensure_ascii=False, separators=(",", ":"))
     (out / "pack.json").write_text(body, encoding="utf-8")
     (out / "pack.json.sha256").write_text(hashlib.sha256(body.encode()).hexdigest() + "  pack.json\n")
+    warnings += mirror_routes.copy_assets(out)   # route images beside pack.json (release assets)
     (out / "warnings.txt").write_text("\n".join(warnings) + "\n", encoding="utf-8")
     (out / "stats.json").write_text(json.dumps(stats, indent=1) + "\n", encoding="utf-8")   # per-family size log
     for fam_id, st in stats.items():
