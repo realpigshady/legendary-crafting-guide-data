@@ -1,0 +1,34 @@
+{
+"body": [
+{
+"chat_link": "[&AgHWnAEA]",
+"description": "Can be spent at vendors in Starlit Weald or consumed to add 5 antiquated ducats to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AA420C667F369E59BC075D6B06117613ED71DC0D/3710076.png",
+"id": 105686,
+"level": 0,
+"name": "Raw Enchanting Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=105686"
+}

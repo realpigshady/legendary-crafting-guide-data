@@ -1,0 +1,26 @@
+{
+"body": [
+{
+"chat_link": "[&AgELTQAA]",
+"description": "Refine into Planks.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DAF50142ADC06FB11FBC02F8FFEF504F4E674047/65942.png",
+"id": 19723,
+"level": 0,
+"name": "Green Wood Log",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19723"
+}
