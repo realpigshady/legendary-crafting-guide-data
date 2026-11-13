@@ -1,39 +1,75 @@
 {
- "_comment": "Data 4o (1b), 2026-11-13: Magic Mirror routes, one per Castora map, owner-measured (owner decision 2026-11-12 ~22:20 UTC: owner measurements live here in config/, like config/ls3_currencies.json). Each map has a full sweep and an efficient variant (medium / large chests only and the mirrors that open them) in one variant group, once a day per account (every chest and keepsake box once a day per account). Totals: full = medium chests x 2 + Long-Lost Keepsake Boxes (one per mirror finished) x 3 (owner 2026-11-12 11:34, research note section 10 in the addon repo); efficient = the estimate in the owner's efficient-routes.json (3 a keepsake box on the route's mirrors + the medium count x 2; large chests pay more, not counted). Minutes: the efficient variant takes the full route's time (owner 2026-11-12). Guaranteed currency only. Positions and images: config/mirror_route_geometry.json and assets/mirror-maps/ (tools/mirror_maps_import.py).",
- "group_prefix": "voe:mirror:",
+ "_comment": "Data 4o (1b): Magic Mirror routes, one per Castora map (owner 2026-11-13). Routes by 12Tables (GW2 forum; the owner has his permission for public use), as shipped in Lady Elyssa's TacO marker pack (Chests > Magic Mirrors > 12Tables Routes, pack 26.6.2); route line, stops and image made by tools/mirror_route_import.py. Chest rules and counts are the owner's (he checked them against the author's video): the pack shows more medium spots than there are chests (shared spawns). Totals = mirrors x 3 (Long-Lost Keepsake Box) + medium chests x 2 + large chests x 3, guaranteed currency only, once a day per account (every chest and box once a day). Key check (Ethereal Key Charge, wiki: 8 on entering the map with Lingering Magic + Obscured Riches, 5 per mirror with Prosperity Unending, medium 4 / large 10 with Efficient Magic, 25 held at most): in >= out on every route, never below 0 in route order. Times: owner 2026-11-12 (7 / 7 / 12.5 / 15 min). map_rect / continent_rect: /v2/maps (2026-11-13), used to place the pack's game coordinates on the images.",
+ "id_prefix": "voe:mirror:",
  "wiki_url": "https://wiki.guildwars2.com/wiki/Magic_Mirror",
+ "credit": "Route by 12Tables (Guild Wars 2 forum), from Lady Elyssa's TacO marker pack",
  "maps": [
   {
    "slug": "shipwreck-strand",
    "map": "Shipwreck Strand",
+   "map_id": 1595,
+   "map_rect": [[-30720, -36864], [30720, 39936]],
+   "continent_rect": [[9530, 57385], [12090, 60585]],
    "currency": "Chromatic Sap",
    "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Shipwreck_Strand)_map.jpg",
-   "full": {"total": 47, "mirrors": 9, "medium_chests": 10, "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min", "start": "Dark Leviathan Waypoint"},
-   "efficient": {"total": 35, "mirrors": 5, "chest_spots": 14, "minutes": 7, "time_source": "owner 2026-11-12: the full route's time", "start": "Dark Leviathan Waypoint"}
+   "route": {
+    "trail_files": ["SS/Fast Medium 1.trl", "SS/Fast Medium 2.trl"],
+    "large": "first",
+    "mirrors": 9, "medium_chests": 10, "large_chests": 1,
+    "total": 50, "keys_in": 53, "keys_out": 50,
+    "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min",
+    "description": "Start at Pub Canach Waypoint (Breezy Cay): the mirror to the north, then the one to the east, then Dark Leviathan Waypoint and the medium-only farm. 9 mirrors, 10 medium chests and 1 large chest (the first you reach)."
+   }
   },
   {
    "slug": "starlit-weald",
    "map": "Starlit Weald",
+   "map_id": 1593,
+   "map_rect": [[-36864, -30720], [39936, 30720]],
+   "continent_rect": [[6330, 57385], [9530, 59945]],
    "currency": "Raw Enchanting Stone",
    "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Starlit_Weald)_map.jpg",
-   "full": {"total": 66, "mirrors": 14, "medium_chests": 12, "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min", "start": "Foothold Bivouac Waypoint"},
-   "efficient": {"total": 42, "mirrors": 6, "chest_spots": 16, "minutes": 7, "time_source": "owner 2026-11-12: the full route's time", "start": "Hunter's Camp Waypoint"}
+   "route": {
+    "trail_files": ["SW/Fast Medium 1.trl", "SW/Fast Medium 2.trl"],
+    "large": "first",
+    "mirrors": 10, "medium_chests": 12, "large_chests": 1,
+    "total": 57, "keys_in": 58, "keys_out": 58,
+    "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min",
+    "description": "Full medium route from Foothold Bivouac Waypoint, no mirror reset: open the first large chest you reach, then medium chests only. 10 mirrors, 12 medium chests, 1 large chest."
+   }
   },
   {
    "slug": "eternitys-garden",
    "map": "Eternity's Garden",
+   "map_id": 1622,
+   "map_rect": [[-30720, -36864], [30720, 39936]],
+   "continent_rect": [[3130, 59945], [5690, 63145]],
    "currency": "Shadowstone Fragment",
    "wiki_map": "https://wiki.guildwars2.com/wiki/File:Magic_Mirror_(Eternity%27s_Garden)_map.jpg",
-   "description": "Map requires you to gain 5 additional keys through events, do this before route start",
-   "full": {"total": 45, "mirrors": 7, "medium_chests": 12, "minutes": 12.5, "time_source": "owner 2026-11-12: 10-15 min", "start": "Deepwood Outpost Waypoint"},
-   "efficient": {"total": 33, "mirrors": 3, "chest_spots": 16, "minutes": 12.5, "time_source": "owner 2026-11-12: the full route's time", "start": "Temple of Abnegation Waypoint"}
+   "route": {
+    "trail_files": ["EG/Fast Medium 1.trl", "EG/Fast Medium 2.trl", "EG/Fast Medium 3.trl", "EG/Fast Medium 4.trl"],
+    "large": "none",
+    "mirrors": 9, "medium_chests": 12, "large_chests": 0,
+    "total": 51, "keys_in": 53, "keys_out": 48,
+    "minutes": 12.5, "time_source": "owner 2026-11-12: 10-15 min",
+    "description": "Full medium route from Pilgrim's Rest Waypoint, no mirror reset, no large chests. 9 mirrors, 12 medium chests."
+   }
   },
   {
    "slug": "leyspring-hollows",
    "map": "Leyspring Hollows",
+   "map_id": 1633,
+   "map_rect": [[-36864, -30720], [39936, 30720]],
+   "continent_rect": [[3130, 57385], [6330, 59945]],
    "currency": "Shadowstone Research Data",
-   "full": {"total": 16, "mirrors": 4, "medium_chests": 2, "minutes": 15, "time_source": "owner 2026-11-12 19:55: 15 min", "start": "Doyen's Adytum Waypoint"},
-   "efficient": {"total": 10, "mirrors": 2, "chest_spots": 6, "minutes": 15, "time_source": "owner 2026-11-12: the full route's time", "start": "Doyen's Adytum Waypoint", "second_start": "Hall of Assemblage Waypoint"}
+   "route": {
+    "trail_files": ["LH/Fast 1.trl", "LH/Fast 2.trl"],
+    "large": "first",
+    "mirrors": 4, "medium_chests": 2, "large_chests": 1,
+    "total": 19, "keys_in": 28, "keys_out": 18,
+    "minutes": 15, "time_source": "owner 2026-11-12 19:55: 15 min",
+    "description": "From Hall of Assemblage Waypoint, then Doyen's Adytum Waypoint: medium chests only, and the first large chest you reach. 4 mirrors, 2 medium chests, 1 large chest."
+   }
   }
  ]
 }

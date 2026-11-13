@@ -500,23 +500,17 @@
           },
           "mirror_route": {
             "type": "object",
-            "description": "Magic Mirror route visual (Data 4o (1b), SPEC §5): the UI's mirror window. Pixel positions on the route image; image and waypoint_icon are release asset names beside pack.json",
+            "description": "Magic Mirror route (Data 4o (1b), SPEC §5): the UI's mirror window. Pixel positions on image (full_image has the same size); image, full_image and waypoint_icon are release asset names beside pack.json",
             "required": [
               "map",
-              "variant",
               "image",
               "image_size",
-              "starts"
+              "starts",
+              "stops"
             ],
             "properties": {
               "map": {
                 "type": "string"
-              },
-              "variant": {
-                "enum": [
-                  "full",
-                  "efficient"
-                ]
               },
               "image": {
                 "type": "string"
@@ -528,6 +522,9 @@
                 },
                 "minItems": 2,
                 "maxItems": 2
+              },
+              "full_image": {
+                "type": "string"
               },
               "waypoint_icon": {
                 "type": "string"
@@ -563,69 +560,6 @@
                   }
                 }
               },
-              "mirrors": {
-                "type": "array",
-                "items": {
-                  "type": "object",
-                  "required": [
-                    "n",
-                    "name",
-                    "x",
-                    "y"
-                  ],
-                  "properties": {
-                    "n": {
-                      "type": "integer"
-                    },
-                    "name": {
-                      "type": "string"
-                    },
-                    "x": {
-                      "type": "integer",
-                      "minimum": 0
-                    },
-                    "y": {
-                      "type": "integer",
-                      "minimum": 0
-                    }
-                  }
-                }
-              },
-              "chests": {
-                "type": "array",
-                "items": {
-                  "type": "object",
-                  "required": [
-                    "size",
-                    "x",
-                    "y"
-                  ],
-                  "properties": {
-                    "size": {
-                      "enum": [
-                        "small",
-                        "medium",
-                        "large",
-                        "medium_or_large"
-                      ]
-                    },
-                    "x": {
-                      "type": "integer",
-                      "minimum": 0
-                    },
-                    "y": {
-                      "type": "integer",
-                      "minimum": 0
-                    },
-                    "mirror": {
-                      "type": [
-                        "integer",
-                        "null"
-                      ]
-                    }
-                  }
-                }
-              },
               "stops": {
                 "type": "array",
                 "items": {
@@ -633,7 +567,6 @@
                   "required": [
                     "n",
                     "kind",
-                    "name",
                     "x",
                     "y"
                   ],
@@ -652,10 +585,8 @@
                     },
                     "size": {
                       "enum": [
-                        "small",
                         "medium",
-                        "large",
-                        "medium_or_large"
+                        "large"
                       ]
                     },
                     "x": {
@@ -694,8 +625,28 @@
                   }
                 }
               },
-              "path_drawn_by_owner": {
-                "type": "boolean"
+              "counts": {
+                "type": "object",
+                "properties": {
+                  "mirrors": {
+                    "type": "integer"
+                  },
+                  "medium_chests": {
+                    "type": "integer"
+                  },
+                  "large_chests": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "large_rule": {
+                "enum": [
+                  "first",
+                  "none"
+                ]
+              },
+              "credit": {
+                "type": "string"
               }
             }
           }
