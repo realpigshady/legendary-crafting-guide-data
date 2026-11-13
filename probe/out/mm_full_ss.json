@@ -3,6 +3,7 @@
   "download": "File:Magic Mirror (Shipwreck Strand) map.jpg"
  },
  "reply": {
-  "_error": "HTTP Error 403: Forbidden"
+  "saved": "files/mm_full_ss.jpg",
+  "bytes": 2531611
  }
 }
