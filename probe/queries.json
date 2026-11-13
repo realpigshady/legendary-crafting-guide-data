@@ -1,18 +1,4 @@
 {
- "cg_pages_a": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "ids|content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Shining Ward Weapon Collector|Tenebral Ward Armor Collection|Shining Ward Axe|Recipe: Shining Ward Axe"
- },
- "cg_pages_b": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "ids|content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Shining Ward Weapon Shard|Tenebral Ward Medium Helmet|Tenebral Ward Medium Boots|Tenebral Ward Token: Helmet|Tenebral Ward Token: Chest"
- }
+ "mm_full_ss": {"download": "File:Magic Mirror (Shipwreck Strand) map.jpg"},
+ "mm_full_sw": {"download": "File:Magic Mirror (Starlit Weald) map.jpg"}
 }
