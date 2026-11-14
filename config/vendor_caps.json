@@ -1,5 +1,5 @@
 {
-  "_note": "Exceptions to the default rule that vendors with identical costs share one weekly limit. own_cap gives a listed vendor its own cap. shared_cap combines offers of one item at a vendor even when the prices differ; the listed Janthir vendors therefore keep independent caps while their regular and discounted prices consume the same cap. Regression coverage is in tests/test_wiki_sources.py.",
+  "_note": "Exceptions to the default rule that vendors with identical costs share one weekly limit. own_cap gives a listed vendor its own cap. shared_cap combines offers of one item at a vendor even when the prices differ; the listed Janthir vendors therefore keep independent caps while their regular and discounted prices consume the same cap. Regression coverage for both shard families is in tests/test_wiki_sources.py.",
   "own_cap": {
     "Mystic Clover": ["Mystic Forge Keeper"],
     "Shard of Janthir Syntri": ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"],
