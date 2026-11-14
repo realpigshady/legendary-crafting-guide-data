@@ -1,9 +1,41 @@
 {
-  "_note": "Exceptions to 'vendors with identical costs share one weekly limit' (wiki Mystic Clover > Sold by; owner 2026-11-06). own_cap: these vendors keep their own limit and become a source of their own. shared_cap: offers of these vendors share one limit even with different prices; each gets cap_group with the same value (the addon does not read cap_group yet).",
+  "_note": "Exceptions to the default rule that vendors with identical costs share one weekly limit. own_cap gives a listed vendor its own cap. shared_cap combines offers of one item at a vendor even when the prices differ. cross_item_cap combines explicitly listed offers of different items at a vendor; it must be used only where the wiki documents a shared limit.",
   "own_cap": {
     "Mystic Clover": ["Mystic Forge Keeper"]
   },
   "shared_cap": {
     "Mystic Clover": [["League Vendor"]]
-  }
+  },
+  "cross_item_cap": [
+    {
+      "group": "shard_of_janthir_syntri:arid_esker",
+      "items": ["Shard of Janthir Syntri", "Discounted Shard of Janthir Syntri"],
+      "vendors": ["Arid Esker"]
+    },
+    {
+      "group": "shard_of_janthir_syntri:vigilant_dawn",
+      "items": ["Shard of Janthir Syntri", "Discounted Shard of Janthir Syntri"],
+      "vendors": ["Vigilant Dawn"]
+    },
+    {
+      "group": "shard_of_janthir_syntri:whispers_of_wind",
+      "items": ["Shard of Janthir Syntri", "Discounted Shard of Janthir Syntri"],
+      "vendors": ["Whispers of Wind"]
+    },
+    {
+      "group": "shard_of_lowland_shore:guiding_breath",
+      "items": ["Shard of Lowland Shore", "Discounted Shard of Lowland Shore"],
+      "vendors": ["Guiding Breath"]
+    },
+    {
+      "group": "shard_of_lowland_shore:shading_willow",
+      "items": ["Shard of Lowland Shore", "Discounted Shard of Lowland Shore"],
+      "vendors": ["Shading Willow"]
+    },
+    {
+      "group": "shard_of_lowland_shore:vast_caldera",
+      "items": ["Shard of Lowland Shore", "Discounted Shard of Lowland Shore"],
+      "vendors": ["Vast Caldera"]
+    }
+  ]
 }
