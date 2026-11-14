@@ -37,6 +37,29 @@ def test_vendor_cost_items_join_the_walk():
     assert set(cost_items) >= {"Obsidian Shard", "Glob of Ectoplasm", "Amalgamated Gemstone"}
 
 
+
+def test_cross_item_vendor_caps_keep_each_janthir_vendor_independent():
+    def shard_row(npc, cost):
+        return {
+            "_subject": npc + "#shard",
+            "Has vendor": [npc],
+            "Has context": ["NPC"],
+            "Has item cost": [{"Has item currency": cost, "Has item value": "1"}],
+            "Has item quantity": ["1"],
+            "Has weekly purchase cap": ["7"],
+        }
+
+    janthir = ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"]
+    regular, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row(npc, "Curious Mursaat Currency") for npc in janthir], CUR)
+    discounted, _ = ws.vendor_sources("Discounted Shard of Janthir Syntri", [shard_row(npc, "Karma") for npc in janthir], CUR)
+
+    # Each NPC can sell seven per week, while its regular and discounted offers consume one cap.
+    assert len(regular) == len(discounted) == 3
+    regular_groups = {s["vendors"][0]["npc"]: s["cap_group"] for s in regular}
+    discounted_groups = {s["vendors"][0]["npc"]: s["cap_group"] for s in discounted}
+    assert regular_groups == discounted_groups
+    assert all(s["weekly_cap"] == 7 and len(s["vendors"]) == 1 for s in regular + discounted)
+
 def test_activity_rows_tracks_and_places():
     tracks = ws.rows(reply("ask_rt_battle"))
     acts = ws.activity_rows("Gift of Battle", [], tracks)
