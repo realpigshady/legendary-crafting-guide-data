@@ -38,7 +38,8 @@ def test_vendor_cost_items_join_the_walk():
 
 
 
-def test_cross_item_vendor_caps_keep_each_janthir_vendor_independent():
+
+def test_janthir_shard_vendor_caps_keep_each_npc_independent():
     def shard_row(npc, cost):
         return {
             "_subject": npc + "#shard",
@@ -50,15 +51,19 @@ def test_cross_item_vendor_caps_keep_each_janthir_vendor_independent():
         }
 
     janthir = ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"]
-    regular, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row(npc, "Curious Mursaat Currency") for npc in janthir], CUR)
-    discounted, _ = ws.vendor_sources("Discounted Shard of Janthir Syntri", [shard_row(npc, "Karma") for npc in janthir], CUR)
+    # Each vendor has regular and discounted prices for the same output.  Their price variants
+    # share the vendor's seven-per-week cap; the three vendors do not share one cap.
+    rows = [shard_row(npc, cost) for npc in janthir for cost in ("Curious Mursaat Currency", "Karma")]
+    srcs, _ = ws.vendor_sources("Shard of Janthir Syntri", rows, CUR)
 
-    # Each NPC can sell seven per week, while its regular and discounted offers consume one cap.
-    assert len(regular) == len(discounted) == 3
-    regular_groups = {s["vendors"][0]["npc"]: s["cap_group"] for s in regular}
-    discounted_groups = {s["vendors"][0]["npc"]: s["cap_group"] for s in discounted}
-    assert regular_groups == discounted_groups
-    assert all(s["weekly_cap"] == 7 and len(s["vendors"]) == 1 for s in regular + discounted)
+    assert len(srcs) == 6
+    by_npc = {}
+    for src in srcs:
+        assert src["weekly_cap"] == 7 and len(src["vendors"]) == 1 and src["cap_group"]
+        by_npc.setdefault(src["vendors"][0]["npc"], set()).add(src["cap_group"])
+    assert set(by_npc) == set(janthir)
+    assert all(len(groups) == 1 for groups in by_npc.values())
+    assert len({next(iter(groups)) for groups in by_npc.values()}) == 3
 
 def test_activity_rows_tracks_and_places():
     tracks = ws.rows(reply("ask_rt_battle"))
