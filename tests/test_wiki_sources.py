@@ -39,31 +39,30 @@ def test_vendor_cost_items_join_the_walk():
 
 
 
+
 def test_janthir_shard_vendor_caps_keep_each_npc_independent():
-    def shard_row(npc, cost):
+    def shard_row(npc, cost="Curious Mursaat Currency"):
         return {
             "_subject": npc + "#shard",
             "Has vendor": [npc],
             "Has context": ["NPC"],
-            "Has item cost": [{"Has item currency": cost, "Has item value": "1"}],
+            "Has item cost": [{"Has item currency": cost, "Has item value": "3"}],
             "Has item quantity": ["1"],
             "Has weekly purchase cap": ["7"],
         }
 
     janthir = ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"]
-    # Each vendor has regular and discounted prices for the same output.  Their price variants
-    # share the vendor's seven-per-week cap; the three vendors do not share one cap.
-    rows = [shard_row(npc, cost) for npc in janthir for cost in ("Curious Mursaat Currency", "Karma")]
-    srcs, _ = ws.vendor_sources("Shard of Janthir Syntri", rows, CUR)
+    # The current wiki rows are one seven-per-week offer at each NPC.
+    srcs, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row(npc) for npc in janthir], CUR)
+    assert len(srcs) == 3
+    assert all(s["weekly_cap"] == 7 and len(s["vendors"]) == 1 and s["cap_group"] for s in srcs)
+    assert {s["vendors"][0]["npc"] for s in srcs} == set(janthir)
+    assert len({s["cap_group"] for s in srcs}) == 3
 
-    assert len(srcs) == 6
-    by_npc = {}
-    for src in srcs:
-        assert src["weekly_cap"] == 7 and len(src["vendors"]) == 1 and src["cap_group"]
-        by_npc.setdefault(src["vendors"][0]["npc"], set()).add(src["cap_group"])
-    assert set(by_npc) == set(janthir)
-    assert all(len(groups) == 1 for groups in by_npc.values())
-    assert len({next(iter(groups)) for groups in by_npc.values()}) == 3
+    # If the wiki exposes a discounted offer at an existing NPC, it must consume that NPC's cap,
+    # not create an additional seven-per-week allowance.
+    with_discount, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row("Arid Esker", "Karma")], CUR)
+    assert with_discount[0]["cap_group"] == next(s["cap_group"] for s in srcs if s["vendors"][0]["npc"] == "Arid Esker")
 
 def test_activity_rows_tracks_and_places():
     tracks = ws.rows(reply("ask_rt_battle"))
