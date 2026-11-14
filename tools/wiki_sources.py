@@ -310,10 +310,9 @@ def _items_of(kind: str, row: dict) -> list[str]:
 
 COIN_PER_GOLD = 10000
 
-# Vendors with identical costs share a weekly limit (the wiki's rule, and our grouping).
-# config/vendor_caps.json lists the exceptions: a vendor with its own limit ("own_cap"), offers
-# of one item that share a limit despite different prices ("shared_cap"), and explicitly documented
-# cross-item limits ("cross_item_cap").
+# Vendors with identical costs share a weekly limit (the wiki's rule, and our grouping);
+# config/vendor_caps.json lists the exceptions: a vendor with its own limit ("own_cap"), and
+# offers of one vendor that share a limit despite different prices ("shared_cap" -> cap_group).
 _CAPS_PATH = Path(__file__).resolve().parent.parent / "config" / "vendor_caps.json"
 VENDOR_CAPS = json.loads(_CAPS_PATH.read_text(encoding="utf-8")) if _CAPS_PATH.exists() else {}
 # config/excluded_trades.json: offers the owner rules out, item -> cost items that exclude the offer.
@@ -321,14 +320,6 @@ _EXCL_PATH = Path(__file__).resolve().parent.parent / "config" / "excluded_trade
 EXCLUDED_TRADES = {k: {x.lower() for x in v} for k, v in
                    (json.loads(_EXCL_PATH.read_text(encoding="utf-8")) if _EXCL_PATH.exists() else {}).items()
                    if not k.startswith("_")}
-
-
-def _cross_item_cap(item: str, npc: str) -> str | None:
-    """Return an explicitly configured weekly cap shared by offers of different items."""
-    for rule in VENDOR_CAPS.get("cross_item_cap", []):
-        if item in rule.get("items", []) and npc in rule.get("vendors", []):
-            return rule["group"]
-    return None
 
 
 def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tuple[list[dict], list[str]]:
@@ -370,15 +361,10 @@ def vendor_sources(item: str, rws: list[dict], currencies: dict[str, int]) -> tu
             if cap:
                 src[key] = cap
         npc = (r.get("Has vendor") or [r["_subject"].split("#")[0]])[0]
-        cross_cap = _cross_item_cap(item, npc)
         k = json.dumps(src, sort_keys=True)
         if npc in VENDOR_CAPS.get("own_cap", {}).get(item, []):
             k += "|own:" + npc   # its own limit: not shared with the vendors that charge the same
-        if cross_cap:
-            k += "|cross:" + cross_cap  # every listed vendor needs its own independently usable cap
         g = groups.setdefault(k, {**src, "vendors": []})
-        if cross_cap and g.get("weekly_cap"):
-            g["cap_group"] = cross_cap
         reqs = [re.sub(r"\[\[(?:[^]|]*\|)?([^]]*)\]\]", r"\1", x) for x in (r.get("Has requirement") or [])]
         g["vendors"].append({"npc": npc, "locations": r.get("Located in") or [], "requires": reqs})
     out = []
