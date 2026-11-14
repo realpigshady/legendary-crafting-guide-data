@@ -40,7 +40,7 @@ def test_vendor_cost_items_join_the_walk():
 
 
 
-def test_janthir_shard_vendor_caps_keep_each_npc_independent():
+def test_shard_vendor_caps_keep_each_npc_independent():
     def shard_row(npc, cost="Curious Mursaat Currency"):
         return {
             "_subject": npc + "#shard",
@@ -51,18 +51,24 @@ def test_janthir_shard_vendor_caps_keep_each_npc_independent():
             "Has weekly purchase cap": ["7"],
         }
 
-    janthir = ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"]
-    # The current wiki rows are one seven-per-week offer at each NPC.
-    srcs, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row(npc) for npc in janthir], CUR)
-    assert len(srcs) == 3
-    assert all(s["weekly_cap"] == 7 and len(s["vendors"]) == 1 and s["cap_group"] for s in srcs)
-    assert {s["vendors"][0]["npc"] for s in srcs} == set(janthir)
-    assert len({s["cap_group"] for s in srcs}) == 3
+    vendor_sets = {
+        "Shard of Janthir Syntri": ["Arid Esker", "Vigilant Dawn", "Whispers of Wind"],
+        "Shard of Lowland Shore": ["Guiding Breath", "Shading Willow", "Vast Caldera"],
+    }
+    for item, npcs in vendor_sets.items():
+        # Each NPC has its own seven-per-week allowance.
+        srcs, _ = ws.vendor_sources(item, [shard_row(npc) for npc in npcs], CUR)
+        assert len(srcs) == 3
+        assert all(s["weekly_cap"] == 7 and len(s["vendors"]) == 1 and s["cap_group"] for s in srcs)
+        assert {s["vendors"][0]["npc"] for s in srcs} == set(npcs)
+        assert len({s["cap_group"] for s in srcs}) == 3
 
-    # If the wiki exposes a discounted offer at an existing NPC, it must consume that NPC's cap,
-    # not create an additional seven-per-week allowance.
-    with_discount, _ = ws.vendor_sources("Shard of Janthir Syntri", [shard_row("Arid Esker", "Karma")], CUR)
-    assert with_discount[0]["cap_group"] == next(s["cap_group"] for s in srcs if s["vendors"][0]["npc"] == "Arid Esker")
+        # A different-price offer at the same NPC must use that NPC's existing cap group.
+        for npc in npcs:
+            with_discount, _ = ws.vendor_sources(item, [shard_row(npc, "Karma")], CUR)
+            assert len(with_discount) == 1
+            expected = next(s["cap_group"] for s in srcs if s["vendors"][0]["npc"] == npc)
+            assert with_discount[0]["cap_group"] == expected
 
 def test_activity_rows_tracks_and_places():
     tracks = ws.rows(reply("ask_rt_battle"))
