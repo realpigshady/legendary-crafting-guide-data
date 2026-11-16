@@ -663,6 +663,29 @@
 "vendor_value": 0
 },
 {
+"chat_link": "[&AgGUkwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.\n\nPurchased from Janthir Syntri Renown Heart vendors, or purchased from the Trading Post.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/59E1E1DC15232E1E7CADED9E68C66B04B5FCA27C/3441850.png",
+"id": 103316,
+"level": 0,
+"name": "Shard of Janthir Syntri",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
 "chat_link": "[&AgG3kwEA]",
 "description": "Used in the crafting of Janthir Wilds legendary items.",
 "flags": [
@@ -1066,5 +1089,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=96083,96151,96347,96471,96722,96993,97102,97232,97790,97829,100930,102205,102306,102467,102494,102569,102814,102929,102958,103038,103049,103103,103236,103351,103587,103766,103793,103833,104888,105686,105848,105933,106275,106370,106385,106467,106627,106672,109459"
+"url": "https://api.guildwars2.com/v2/items?ids=96083,96151,96347,96471,96722,96993,97102,97232,97790,97829,100930,102205,102306,102467,102494,102569,102814,102929,102958,103038,103049,103103,103236,103316,103351,103587,103766,103793,103833,104888,105686,105848,105933,106275,106370,106385,106467,106627,106672,109459"
 }

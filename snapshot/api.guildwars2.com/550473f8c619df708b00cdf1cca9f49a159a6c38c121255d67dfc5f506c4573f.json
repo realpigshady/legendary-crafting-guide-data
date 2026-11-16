@@ -604,6 +604,22 @@
 "type": "CraftingMaterial",
 "upgrades_into": [
 {
+"item_id": 89597,
+"upgrade": "Infusion"
+},
+{
+"item_id": 87884,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104804,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104681,
+"upgrade": "Infusion"
+},
+{
 "item_id": 75943,
 "upgrade": "Infusion"
 },
@@ -820,6 +836,34 @@
 "upgrade": "Infusion"
 },
 {
+"item_id": 97237,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86599,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86419,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86624,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86478,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104797,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104868,
+"upgrade": "Infusion"
+},
+{
 "item_id": 96126,
 "upgrade": "Infusion"
 },
@@ -861,50 +905,6 @@
 },
 {
 "item_id": 104864,
-"upgrade": "Infusion"
-},
-{
-"item_id": 104797,
-"upgrade": "Infusion"
-},
-{
-"item_id": 104868,
-"upgrade": "Infusion"
-},
-{
-"item_id": 89597,
-"upgrade": "Infusion"
-},
-{
-"item_id": 87884,
-"upgrade": "Infusion"
-},
-{
-"item_id": 86599,
-"upgrade": "Infusion"
-},
-{
-"item_id": 86419,
-"upgrade": "Infusion"
-},
-{
-"item_id": 86624,
-"upgrade": "Infusion"
-},
-{
-"item_id": 86478,
-"upgrade": "Infusion"
-},
-{
-"item_id": 104804,
-"upgrade": "Infusion"
-},
-{
-"item_id": 104681,
-"upgrade": "Infusion"
-},
-{
-"item_id": 97237,
 "upgrade": "Infusion"
 }
 ],
@@ -1947,6 +1947,29 @@
 "vendor_value": 0
 },
 {
+"chat_link": "[&AgFalwEA]",
+"description": "Used in the crafting of Janthir Wilds legendary items.\n\nPurchased from the Mistburned Barrens renown heart vendor, or purchased from the Trading Post.",
+"flags": [
+"NoSalvage",
+"NoSell",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF3CD8AD0528426901E9E6547D475E01E841DB95/3592774.png",
+"id": 104282,
+"level": 0,
+"name": "Shard of Mistburned Barrens",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
 "chat_link": "[&AgF5lwEA]",
 "description": "Used in the crafting of Janthir Wilds legendary items.",
 "flags": [
@@ -2122,5 +2145,5 @@
 "vendor_value": 64
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=12467,12468,19664,19675,19676,19685,19721,19737,19925,19976,20796,20799,24277,24283,24286,24287,24288,24289,24294,24295,24300,24310,24341,24350,24351,24357,24358,38024,41563,41567,45177,45178,46681,46730,46731,46732,46733,46734,46735,46736,46738,46739,46741,46747,46752,48805,48806,48807,66529,66539,68063,68352,70642,70867,71826,71994,73137,76530,81320,81326,81469,81522,84550,87076,92687,93012,95942,100930,102929,102958,104229,104313,104331,104829,104844,104855,104896,105004"
+"url": "https://api.guildwars2.com/v2/items?ids=12467,12468,19664,19675,19676,19685,19721,19737,19925,19976,20796,20799,24277,24283,24286,24287,24288,24289,24294,24295,24300,24310,24341,24350,24351,24357,24358,38024,41563,41567,45177,45178,46681,46730,46731,46732,46733,46734,46735,46736,46738,46739,46741,46747,46752,48805,48806,48807,66529,66539,68063,68352,70642,70867,71826,71994,73137,76530,81320,81326,81469,81522,84550,87076,92687,93012,95942,100930,102929,102958,104229,104282,104313,104331,104829,104844,104855,104896,105004"
 }
