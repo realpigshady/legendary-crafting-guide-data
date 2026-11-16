@@ -107,12 +107,15 @@ def clean_name(raw: str) -> str:
     return re.sub(r"^\d+\s*[x×]?\s+(?=[A-Za-z])", "", name)   # "1 Essence of ..." / "5x Mystic Coin": the count is a separate field
 
 
+_COMMENT = re.compile(r"<!--.*?-->", re.DOTALL)
+
+
 def infobox_id(wikitext: str) -> int | None:
     """Game id from the page's first ...infobox template (first of a comma list)."""
     suffix = TEMPLATES["infobox_suffix"]
     for m in re.finditer(r"\{\{\s*([A-Za-z ]*" + re.escape(suffix) + r")\s*\|", wikitext, re.IGNORECASE):
         for params in find_templates(wikitext[m.start():], m.group(1).strip()):
-            raw = params.get(TEMPLATES["id_param"], "")
+            raw = _COMMENT.sub("", params.get(TEMPLATES["id_param"], ""))   # "103316 <!-- 103846 discounted -->"
             first = raw.split(",")[0].strip()
             if first.isdigit():
                 return int(first)
@@ -123,7 +126,7 @@ def infobox_id(wikitext: str) -> int | None:
 def item_type(wikitext: str) -> str:
     """The item infobox's ``type`` (lower case), '' if none."""
     m = re.search(r"\{\{\s*Item infobox(.*?)\n\}\}", wikitext, re.IGNORECASE | re.DOTALL)
-    t = re.search(r"\|\s*type\s*=\s*([^\n|]*)", m.group(1)) if m else None
+    t = re.search(r"\|\s*type\s*=\s*([^\n|]*)", _COMMENT.sub("", m.group(1))) if m else None
     return t.group(1).strip().lower() if t else ""
 
 

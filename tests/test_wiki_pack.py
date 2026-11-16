@@ -66,6 +66,14 @@ def test_wikitext_parsing():
     assert wp.parse_recipe(wp.find_templates(PAGES["Gift of Nevermore"][1], "Recipe")[0])["inputs"][1] == {"name": "Spirit Shard", "count": 1000}
 
 
+def test_infobox_comment_stripped():
+    # Shard of Janthir Syntri: the HTML comment after the id used to make the node id-less
+    text = "{{Item infobox\n| type = trophy <!-- shard -->\n| id = 103316 <!-- 103846 discounted (has own page)-->\n}}"
+    assert wp.infobox_id(text) == 103316
+    assert wp.item_type(text) == "trophy"
+    assert wp.infobox_id("{{Item infobox\n| id = 24468,64677 <!-- 64677 is from Level rewards -->\n}}") == 24468
+
+
 def test_walk_builds_tree(tmp_path):
     fake = FakeWiki()
     store = wp.PageStore(tmp_path, fake)
