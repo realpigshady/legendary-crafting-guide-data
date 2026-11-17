@@ -1,0 +1,349 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has canonical name::~Nevermore*]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Gives item",
+     "key": "Gives_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Gives item quantity",
+     "key": "Gives_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has achievement page",
+     "key": "Has_achievement_page",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Legendary Weapons (achievements)#achievement2288": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Tricks and Tips for Runed Staff Crafting",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tricks_and_Tips_for_Runed_Staff_Crafting",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       2288
+      ],
+      "Has canonical name": [
+       "Nevermore II: Ravenswood Staff"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Nevermore II: Ravenswood Staff",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_II:_Ravenswood_Staff",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Legendary Weapons (achievements)#achievement2288",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legendary_Weapons_(achievements)#achievement2288",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Legendary Weapons (achievements)#achievement2336": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of the Wild Spirit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Wild_Spirit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       2336
+      ],
+      "Has canonical name": [
+       "Nevermore III: The Raven Staff"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Nevermore III: The Raven Staff",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_III:_The_Raven_Staff",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Legendary Weapons (achievements)#achievement2336",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legendary_Weapons_(achievements)#achievement2336",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Legendary Weapons (achievements)#achievement2528": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Chest of Natural Protection",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_Natural_Protection",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       2528
+      ],
+      "Has canonical name": [
+       "Nevermore I: Ravenswood Branch"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Nevermore I: Ravenswood Branch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_I:_Ravenswood_Branch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Legendary Weapons (achievements)#achievement2528",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legendary_Weapons_(achievements)#achievement2528",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Legendary Weapons (achievements)#achievement2550": {
+     "printouts": {
+      "Gives item": [
+       {
+        "fulltext": "Gift of the Raven Spirit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_of_the_Raven_Spirit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Gives item quantity": [],
+      "Has game id": [
+       2550
+      ],
+      "Has canonical name": [
+       "Nevermore IV: The Raven Spirit"
+      ],
+      "Has achievement page": [
+       {
+        "fulltext": "Nevermore IV: The Raven Spirit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_IV:_The_Raven_Spirit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Legendary Weapons (achievements)#achievement2550",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legendary_Weapons_(achievements)#achievement2550",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       71383
+      ],
+      "Has canonical name": [
+       "Nevermore"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore (container)": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       95115
+      ],
+      "Has canonical name": [
+       "Nevermore"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore (container)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_(container)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore (skin)": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       6466
+      ],
+      "Has canonical name": [
+       "Nevermore"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore (skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_(skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore Vol. 1": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       76742
+      ],
+      "Has canonical name": [
+       "Nevermore Vol. 1"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore Vol. 1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_Vol._1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore Vol. 2": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       71108
+      ],
+      "Has canonical name": [
+       "Nevermore Vol. 2"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore Vol. 2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_Vol._2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore Vol. 3": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       74530
+      ],
+      "Has canonical name": [
+       "Nevermore Vol. 3"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore Vol. 3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_Vol._3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore Vol. 4": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [
+       74515
+      ],
+      "Has canonical name": [
+       "Nevermore Vol. 4"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore Vol. 4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore_Vol._4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Nevermore#recipe1": {
+     "printouts": {
+      "Gives item": [],
+      "Gives item quantity": [],
+      "Has game id": [],
+      "Has canonical name": [
+       "Nevermore"
+      ],
+      "Has achievement page": []
+     },
+     "fulltext": "Nevermore#recipe1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Nevermore#recipe1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "d9219537c37de88b0cfca9d8a6b04a3b",
+    "count": 12,
+    "offset": 0,
+    "source": "",
+    "time": "0.499393"
+   }
+  }
+ }
+}
