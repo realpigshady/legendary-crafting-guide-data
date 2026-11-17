@@ -21,7 +21,7 @@ def _nodes():
 def test_owner_numbers_and_key_budget():
     by = {m["map"]: m["route"] for m in mr.CONFIG["maps"]}
     want = {"Shipwreck Strand": (9, 10, 1, 50, 7), "Starlit Weald": (10, 12, 1, 57, 7),
-            "Eternity's Garden": (9, 12, 0, 51, 12.5), "Leyspring Hollows": (4, 2, 1, 19, 15)}
+            "Eternity's Garden": (9, 12, 0, 51, 12.5), "Leyspring Hollows": (4, 2, 1, 19, 5)}
     for name, (mir, med, lg, total, mins) in want.items():
         r = by[name]
         assert (r["mirrors"], r["medium_chests"], r["large_chests"], r["total"], r["minutes"]) == (mir, med, lg, total, mins), name
@@ -60,8 +60,10 @@ def test_apply_makes_one_route_per_map():
         assert a["guidance"]["waypoint_chat_code"] == r["starts"][0]["chat_code"]
         assert "12Tables" in r["credit"]
     ss = final["voe:mirror:shipwreck-strand"]
-    assert ss["yields"] == [{"node_id": "item:106385", "count": 50}] and ss["est_minutes"] == 7
+    assert ss["yields"] == [{"node_id": "item:106385", "count": 115}] and ss["est_minutes"] == 7
     assert [s["name"] for s in ss["mirror_route"]["starts"]] == ["Pub Canach Waypoint", "Dark Leviathan Waypoint"]
+    assert [final[f"voe:mirror:{k}"]["yields"][0]["count"] for k in ("starlit-weald", "eternitys-garden", "leyspring-hollows")] == [159, 122, 64]
+    assert final["voe:mirror:leyspring-hollows"]["est_minutes"] == 5
     assert final["voe:mirror:starlit-weald"]["guidance"]["waypoint_chat_code"] == "[&BMAPAAA=]"   # Foothold Bivouac
     assert final["voe:mirror:eternitys-garden"]["mirror_route"]["large_rule"] == "none"
     for n in nodes.values():

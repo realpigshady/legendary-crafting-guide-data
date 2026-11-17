@@ -1,5 +1,5 @@
 {
- "_comment": "Data 4o (1b): Magic Mirror routes, one per Castora map (owner 2026-11-13). Routes by 12Tables (GW2 forum; the owner has his permission for public use), as shipped in Lady Elyssa's TacO marker pack (Chests > Magic Mirrors > 12Tables Routes, pack 26.6.2); route line, stops and image made by tools/mirror_route_import.py. Chest rules and counts are the owner's (he checked them against the author's video): the pack shows more medium spots than there are chests (shared spawns). Totals = mirrors x 3 (Long-Lost Keepsake Box) + medium chests x 2 + large chests x 3, guaranteed currency only, once a day per account (every chest and box once a day). Key check (Ethereal Key Charge, wiki: 8 on entering the map with Lingering Magic + Obscured Riches, 5 per mirror with Prosperity Unending, medium 4 / large 10 with Efficient Magic, 25 held at most): in >= out on every route, never below 0 in route order. Times: owner 2026-11-12 (7 / 7 / 12.5 / 15 min). map_rect / continent_rect: /v2/maps (2026-11-13), used to place the pack's game coordinates on the images.",
+ "_comment": "Data 4o (1c, 2026-11-17): `yield` = measured per-event mean x `events` from the owner's DRF run (addon repo docs/owner/2026-11-17/mirror-routes-drf.md); `total` stays the guaranteed currency (mirrors x 3 + medium x 2 + large x 3); `extras` = mean Unusual Coin and unidentified gear pieces per event (all three tiers), guidance text only (the pack has no nodes for them yet); Leyspring Hollows is 8 events (4 mirrors + 4 chests, owner), minutes 15 to 5. Data 4o (1b): Magic Mirror routes, one per Castora map (owner 2026-11-13). Routes by 12Tables (GW2 forum; the owner has his permission for public use), as shipped in Lady Elyssa's TacO marker pack (Chests > Magic Mirrors > 12Tables Routes, pack 26.6.2); route line, stops and image made by tools/mirror_route_import.py. Chest rules and counts are the owner's (he checked them against the author's video): the pack shows more medium spots than there are chests (shared spawns). Totals = mirrors x 3 (Long-Lost Keepsake Box) + medium chests x 2 + large chests x 3, guaranteed currency only, once a day per account (every chest and box once a day). Key check (Ethereal Key Charge, wiki: 8 on entering the map with Lingering Magic + Obscured Riches, 5 per mirror with Prosperity Unending, medium 4 / large 10 with Efficient Magic, 25 held at most): in >= out on every route, never below 0 in route order. Times: owner 2026-11-12 (7 / 7 / 12.5 / 15 min). map_rect / continent_rect: /v2/maps (2026-11-13), used to place the pack's game coordinates on the images.",
  "id_prefix": "voe:mirror:",
  "wiki_url": "https://wiki.guildwars2.com/wiki/Magic_Mirror",
  "credit": "Route by 12Tables (Guild Wars 2 forum), from Lady Elyssa's TacO marker pack",
@@ -16,7 +16,8 @@
     "trail_files": ["SS/Fast Medium 1.trl", "SS/Fast Medium 2.trl"],
     "large": "first",
     "mirrors": 9, "medium_chests": 10, "large_chests": 1,
-    "total": 50, "keys_in": 53, "keys_out": 50,
+    "total": 50, "yield": 115, "events": 20, "extras": {"unusual_coin": 6.45, "unidentified_gear": 3.35},
+    "keys_in": 53, "keys_out": 50,
     "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min",
     "description": "Start at Pub Canach Waypoint (Breezy Cay): the mirror to the north, then the one to the east, then Dark Leviathan Waypoint and the medium-only farm. 9 mirrors, 10 medium chests and 1 large chest (the first you reach)."
    }
@@ -33,7 +34,8 @@
     "trail_files": ["SW/Fast Medium 1.trl", "SW/Fast Medium 2.trl"],
     "large": "first",
     "mirrors": 10, "medium_chests": 12, "large_chests": 1,
-    "total": 57, "keys_in": 58, "keys_out": 58,
+    "total": 57, "yield": 159, "events": 23, "extras": {"unusual_coin": 6.73, "unidentified_gear": 3.59},
+    "keys_in": 58, "keys_out": 58,
     "minutes": 7, "time_source": "owner 2026-11-12: measured, 6-7 min",
     "description": "Full medium route from Foothold Bivouac Waypoint, no mirror reset: open the first large chest you reach, then medium chests only. 10 mirrors, 12 medium chests, 1 large chest."
    }
@@ -50,7 +52,8 @@
     "trail_files": ["EG/Fast Medium 1.trl", "EG/Fast Medium 2.trl", "EG/Fast Medium 3.trl", "EG/Fast Medium 4.trl"],
     "large": "none",
     "mirrors": 9, "medium_chests": 12, "large_chests": 0,
-    "total": 51, "keys_in": 53, "keys_out": 48,
+    "total": 51, "yield": 122, "events": 21, "extras": {"unusual_coin": 6.86, "unidentified_gear": 2.95},
+    "keys_in": 53, "keys_out": 48,
     "minutes": 12.5, "time_source": "owner 2026-11-12: 10-15 min",
     "description": "Full medium route from Pilgrim's Rest Waypoint, no mirror reset, no large chests. 9 mirrors, 12 medium chests."
    }
@@ -66,9 +69,10 @@
     "trail_files": ["LH/Fast 1.trl", "LH/Fast 2.trl"],
     "large": "first",
     "mirrors": 4, "medium_chests": 2, "large_chests": 1,
-    "total": 19, "keys_in": 28, "keys_out": 18,
-    "minutes": 15, "time_source": "owner 2026-11-12 19:55: 15 min",
-    "description": "From Hall of Assemblage Waypoint, then Doyen's Adytum Waypoint: medium chests only, and the first large chest you reach. 4 mirrors, 2 medium chests, 1 large chest."
+    "total": 19, "yield": 64, "events": 8, "extras": {"unusual_coin": 7.75, "unidentified_gear": 3.87},
+    "keys_in": 28, "keys_out": 18,
+    "minutes": 5, "time_source": "owner 2026-11-17: DRF run, loot window 4 min (the 15 was a blind estimate)",
+    "description": "From Hall of Assemblage Waypoint, then Doyen's Adytum Waypoint: medium chests only, and the first large chest you reach. 4 mirrors and 4 chests per run (1 large + 3 medium, or 2 large + 2 medium, by spawns): 8 loot events."
    }
   }
  ]

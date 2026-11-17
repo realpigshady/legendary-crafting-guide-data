@@ -83,6 +83,10 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], maps: list[dict]) -> t
         }
         if m.get("wiki_map"):
             route["wiki_map_url"] = m["wiki_map"]
+        got = r.get("yield", r["total"])
+        ex = r.get("extras")
+        extra = (f" Also per loot event on average: {ex['unusual_coin']:g} Unusual Coin and {ex['unidentified_gear']:g} pieces of unidentified gear "
+                 f"(all three tiers), {r['events']} events a run.") if ex else ""
         act = {
             "id": CONFIG["id_prefix"] + m["slug"],
             "name": f"{m['map']}: Magic Mirror route",
@@ -90,7 +94,7 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], maps: list[dict]) -> t
             "expansion": "voe",
             "est_minutes": r["minutes"],
             "max_runs_per_day": 1,
-            "yields": [{"node_id": node["id"], "count": r["total"]}],
+            "yields": [{"node_id": node["id"], "count": r.get("yield", r["total"])}],
             "description": r["description"],
             "guidance": {
                 "text": (f"{r['description']} {r['total']} {m['currency']} once a day per account (every chest and keepsake box once a day; "
