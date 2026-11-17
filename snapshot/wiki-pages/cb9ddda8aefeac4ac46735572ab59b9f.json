@@ -1,0 +1,5 @@
+{
+"revid": 2562674,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Hope]] and recipes for first-tier [[Dawn]].\n| id = 76570\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Hope}}\n\n== Contents ==\n* {{contains|Essence of Hope|chance=guaranteed}}\n* {{contains|Box of Recipes: Dawn (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Hoffnung]]\n[[es:Cofre de esperanza]]\n[[fr:Coffre d'espoir]]",
+"title": "Chest of Hope"
+}

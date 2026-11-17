@@ -1,0 +1,26 @@
+{
+"fetched": 1794920195.6314926,
+"item": "Essence of Hope",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Hope"
+],
+"Contains item": [
+"Essence of Hope"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Hope#contains1"
+}
+]
+}

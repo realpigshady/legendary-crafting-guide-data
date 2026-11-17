@@ -1,0 +1,5 @@
+{
+"revid": 2843553,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Shield\n| skin = The Chosen Experiment (skin)\n| set = Experimental weapons\n| collection = The Flameseeker Prophecies II: The Perfected Shield\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| salvage = Standard\n| id = 74275\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Chosen (First Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Villains\n| ingredient2 = 1 Experimental Shield Boss\n| ingredient3 = 1 Experimental Shield Backing\n| ingredient4 = 1 Legendary Inscription\n| id = 10158\n}}\n\n== Salvage results ==\n* {{salvages into|Spirit of The Chosen Experiment}}\n\n{{Experimental weapons nav|1}}\n{{collection nav}}\n\n[[de:Auserwählten-Experiment]]\n[[es:Experimento \"El Elegido\"]]\n[[fr:Prototype de L'Élu]]",
+"title": "The Chosen Experiment"
+}

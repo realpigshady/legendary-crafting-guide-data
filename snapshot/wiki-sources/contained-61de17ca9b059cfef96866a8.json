@@ -1,0 +1,26 @@
+{
+"fetched": 1794920195.6314926,
+"item": "Essence of Technology",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Technology"
+],
+"Contains item": [
+"Essence of Technology"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Technology#contains1"
+}
+]
+}

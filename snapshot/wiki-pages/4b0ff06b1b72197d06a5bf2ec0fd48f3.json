@@ -1,0 +1,5 @@
+{
+"revid": 2567240,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| value = 264\n| description = Contains the book \"[[Expertise in Longbow Crafting]]\" and recipes for second-tier [[Kudzu]].\n| id = 75584\n| requires = hot\n}}\n\n== Acquisition ==\n{{achievement list|reward=Tricks and Tips for Advanced Longbow Crafting}}\n* The following vendor will only offer this item once the achievement has been completed:\n{{Sold by}}\n\n== Contents ==\n* {{contains|Expertise in Longbow Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Leaf of Kudzu (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Langbögen]]\n[[es:Trucos y consejos para la fabricación avanzada de arcos largos]]\n[[fr:Trucs et astuces pour la fabrication avancée d'arcs longs]]",
+"title": "Tricks and Tips for Advanced Longbow Crafting"
+}

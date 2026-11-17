@@ -1,0 +1,5 @@
+{
+"revid": 2809148,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 74293\n| requires = hot\n}}\n\n[[Experimental Shield Boss]] is a [[Component|crafting component]] used in the making of [[The Chosen Experiment]].\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Chosen (First Tier)\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 450\n| ingredient1 = 2 Deldrimor Steel Ingot\n| ingredient2 = 50 Memory of Battle\n| ingredient3 = 50 Shard of Glory\n| id = 11551\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Schildbuckel]]\n[[es:Umbo para escudo experimental]]\n[[fr:Ombron expérimental]]",
+"title": "Experimental Shield Boss"
+}

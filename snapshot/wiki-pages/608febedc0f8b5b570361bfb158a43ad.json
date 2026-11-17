@@ -1,0 +1,5 @@
+{
+"revid": 2843531,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Scepter\n| skin = Tsunami (skin)\n| icon = Tsunami.png\n| collection = Meteorlogicus III: Storm\n| rarity = exotic\n| set = Perfected weapons\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| salvage = Standard\n| id = 71886\n| requires = hot\n| gallery1 = Tsunami.jpg\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Storm (Second Tier)\n| disciplines = artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Expertise in Scepter Crafting\n| ingredient2 = 1 Spirit of the Storm Experiment\n| ingredient3 = 1 Jar of Luminesce Polish\n| ingredient4 = 1 Prismatic Lodestone\n| id = 10756\n}}\n\n== Salvage results ==\n* {{salvages into|Spirit of the Perfected Scepter}}\n\n{{Perfected weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Perfektioniertes Zepter]]\n[[es:Cetro perfeccionado]]\n[[fr:Sceptre perfectionné]]",
+"title": "Perfected Scepter"
+}

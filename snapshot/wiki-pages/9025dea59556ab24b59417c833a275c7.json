@@ -1,0 +1,5 @@
+{
+"revid": 2562681,
+"text": "__NOTOC__{{Item infobox\n| description = Contains the [[Essence of Chickens and Eggs]] and recipes for first-tier [[The Bard]].\n| type = container\n| rarity = exotic\n| bound = account\n| value = 264\n| id = 73597\n| requires = hot\n}}\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Chickens and Eggs}}\n\n== Contents ==\n* {{contains|Essence of Chickens and Eggs|chance=guaranteed}}\n* {{contains|Box of Recipes: The Bard (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Hühner und Eier]]\n[[es:Cofre de pollos y huevos]]\n[[fr:Coffre du perpétuel recommencement]]",
+"title": "Chest of Chickens and Eggs"
+}

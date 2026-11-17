@@ -1,0 +1,5 @@
+{
+"revid": 2562667,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Concoctions]] and a [[Box of Recipes: Research|Recipe: Research]].\n| id = 70448\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Concoctions}}\n\n== Contents ==\n* {{contains|Essence of Concoctions|chance=guaranteed}}\n* {{contains|Box of Recipes: Research|chance=guaranteed}}\n\n[[de:Truhe der Gebräue]]\n[[es:Cofre de brebajes]]\n[[fr:Coffre de concoctions]]",
+"title": "Chest of Concoctions"
+}

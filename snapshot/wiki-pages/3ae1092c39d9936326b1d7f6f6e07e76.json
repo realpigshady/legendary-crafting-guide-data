@@ -1,0 +1,5 @@
+{
+"revid": 2562672,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Prey]] and recipes for first-tier [[Howl]].\n| id = 71355\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Prey}}\n\n== Contents ==\n* {{contains|Essence of Prey|chance=guaranteed}}\n* {{contains|Box of Recipes: Howl (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Beute]]\n[[es:Cofre de presa]]\n[[fr:Coffre de proie]]",
+"title": "Chest of Prey"
+}

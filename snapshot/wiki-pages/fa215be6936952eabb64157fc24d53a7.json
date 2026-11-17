@@ -1,0 +1,5 @@
+{
+"revid": 2567248,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Staff Crafting]]\" and recipes for second-tier [[The Legend]].\n| id = 74094\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Advanced Staff Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Staff Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Legend (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung Hochentwickelter Stäbe]]\n[[es:Trucos y consejos para la fabricación avanzada de báculos]]\n[[fr:Trucs et astuces pour la fabrication avancée de bâtons]]",
+"title": "Tricks and Tips for Advanced Staff Crafting"
+}

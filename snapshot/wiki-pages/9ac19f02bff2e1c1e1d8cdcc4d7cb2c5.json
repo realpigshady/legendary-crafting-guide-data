@@ -1,0 +1,5 @@
+{
+"revid": 2843549,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Scepter\n| skin = Storm Experiment (skin)\n| set = Experimental weapons\n| collection = Meteorlogicus II: The Perfected Scepter\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| requires = hot\n| salvage = Standard\n| id = 74655\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Storm (First Tier)\n| disciplines = artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Meteorology\n| ingredient2 = 1 Experimental Scepter Core\n| ingredient3 = 1 Experimental Scepter Rod\n| ingredient4 = 1 Legendary Inscription\n| id = 10527\n}}\n\n== Salvage results ==\n* {{salvages into|Spirit of the Storm Experiment}}\n\n{{Experimental weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Sturm-Experiment]]\n[[es:Experimento \"Tormenta\"]]\n[[fr:Prototype de Tempête]]",
+"title": "Storm Experiment"
+}

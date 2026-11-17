@@ -1,0 +1,5 @@
+{
+"revid": 2843523,
+"text": "{{Weapon infobox\n| icon = Song of the Numberless Pack.png\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.\n| type = focus\n| level = 80\n| rarity = exotic\n| prefix = berserker\n| uslot = Superior Sigil of Rage\n| bound = account\n| set = Perfected weapons\n| skin = Song of the Numberless Pack (skin)\n| collection = The Minstrel III: The Bard\n| salvage = Standard\n| id = 70417\n| requires = hot\n| gallery1 = Song of the Numberless Pack.jpg\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Bard (Second Tier)\n| type = Legendary Component\n| disciplines = artificer\n| rating = 450\n| ingredient1 = 1 Expertise in Focus Crafting\n| ingredient2 = 1 Spirit of The Bard Experiment\n| ingredient3 = 1 Jar of Luminesce Polish\n| ingredient4 = 1 Prismatic Lodestone\n| id = 10988\n}}\n\n== Salvages into ==\n* {{Salvages into|Spirit of the Perfected Focus}}\n\n{{perfected weapons nav|1}}\n{{collection nav}}\n\n[[de:Perfektionierter Fokus]]\n[[es:Foco perfeccionado]]\n[[fr:Focus perfectionné]]",
+"title": "Perfected Focus"
+}

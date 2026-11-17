@@ -1,0 +1,5 @@
+{
+"revid": 2673356,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 73140\n| requires = hot\n}}\n\n[[Experimental Longbow Stave]] is a [[Component|crafting component]] used in making the [[Kudzu Experiment]].\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Leaf of Kudzu (First Tier)\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 450\n| ingredient1 = 20 Spiritwood Plank\n| ingredient2 = 100 Memory of Battle\n| ingredient3 = 100 Shard of Glory\n| id = 10050\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Langbogenstab]]\n[[es:Duela para arco largo experimental]]\n[[fr:Hampe d'arc long expérimentale]]",
+"title": "Experimental Longbow Stave"
+}

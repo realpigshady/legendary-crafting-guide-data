@@ -1,0 +1,5 @@
+{
+"revid": 2562661,
+"text": "__NOTOC__{{Item infobox\n| description = Contains the [[Essence of Technology]] and recipes for first-tier [[The Hunter]].\n| type = container\n| rarity = exotic\n| bound = account\n| value = 264\n| id = 73762\n| requires = hot\n}}\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Technology}}\n\n== Contents ==\n* {{contains|Essence of Technology|chance=guaranteed}}\n* {{contains|Box of Recipes: The Hunter (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Technologie]]\n[[es:Cofre de tecnología]]\n[[fr:Coffre de technologie]]",
+"title": "Chest of Technology"
+}

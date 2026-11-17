@@ -1,0 +1,5 @@
+{
+"revid": 2562686,
+"text": "{{Item infobox\n| icon = Chest of Ancient Mysticism.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Natural Protection]] and a [[Box of Recipes: The Ravenswood Branch|Recipe: Ravenswood Branch]].\n| id = 71338\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed.''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Natural Protection}}\n\n== Contents ==\n* {{contains|Essence of Natural Protection|chance=guaranteed}}\n* {{contains|Box of Recipes: The Ravenswood Branch|chance=guaranteed}}\n\n[[de:Truhe des Natürlichen Schutzes]]\n[[es:Cofre de protección natural]]\n[[fr:Coffre de protection naturelle]]",
+"title": "Chest of Natural Protection"
+}

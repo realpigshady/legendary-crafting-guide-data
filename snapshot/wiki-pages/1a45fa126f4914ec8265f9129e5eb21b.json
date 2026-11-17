@@ -1,0 +1,5 @@
+{
+"revid": 2793656,
+"text": "{{Item infobox\n| description = Contains the book \"[[Expertise in Daysword Crafting]]\" and recipes for second-tier [[Dawn]].\n| type = container\n| rarity = exotic\n| bound = account\n| value = 264\n| id = 72111\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Advanced Daysword Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Daysword Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Dawn (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Tagschwertern]]\n[[es:Trucos y consejos para la fabricación avanzada de espadas diurnas]]\n[[fr:Trucs et astuces pour la fabrication avancée d'épées diurnes]]",
+"title": "Tricks and Tips for Advanced Daysword Crafting"
+}

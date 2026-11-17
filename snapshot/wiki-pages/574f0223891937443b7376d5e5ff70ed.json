@@ -1,0 +1,5 @@
+{
+"revid": 2843536,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.\n| icon = Crystalline Blade.png\n| type = Sword\n| level = 80\n| set = Perfected weapons\n| uslot = Superior Sigil of Rage\n| bound = account\n| rarity = exotic\n| collection = Bolt III: Zap\n| prefix = berserker\n| skin = Crystalline Blade (skin)\n| gallery1 = Crystalline Blade.jpg\n| salvage = Standard\n| id = 77118\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Zap (Second Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Expertise in Sword Crafting\n| ingredient2 = 1 Spirit of the Zap Experiment\n| ingredient3 = 1 Jar of Luminesce Polish\n| ingredient4 = 1 Prismatic Lodestone\n| id = 10433\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of the Perfected Sword}}\n\n{{Perfected weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Perfektioniertes Schwert]]\n[[es:Espada perfeccionada]]\n[[fr:Épée perfectionnée]]",
+"title": "Perfected Sword"
+}

@@ -1,0 +1,5 @@
+{
+"revid": 2673358,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 74840\n| requires = hot\n}}\n\n[[Experimental Short Bow Stave]] is a [[Component|crafting component]] used in making [[the Lover Experiment]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Short Bow Stave (Exotic)\n| id = 11122\n| source = recipe sheet\n| sheet = Box of Recipes: The Lover (First Tier)\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 450\n| ingredient1 = 20 Spiritwood Plank\n| ingredient2 = 100 Memory of Battle\n| ingredient3 = 100 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Kurzbogenstab]]\n[[es:Duela para arco corto experimental]]\n[[fr:Hampe d'arc court expérimentale]]",
+"title": "Experimental Short Bow Stave"
+}

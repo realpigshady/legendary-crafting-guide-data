@@ -1,0 +1,5 @@
+{
+"revid": 2567249,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Sword Crafting]]\" and recipes for second-tier [[Zap]].\n| id = 75891\n| requires = hot\n| value = 264\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Advanced Sword Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Sword Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Zap (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Schwertern]]\n[[es:Trucos y consejos para la fabricación avanzada de espadas]]\n[[fr:Trucs et astuces pour la fabrication avancée d'épées]]",
+"title": "Tricks and Tips for Advanced Sword Crafting"
+}

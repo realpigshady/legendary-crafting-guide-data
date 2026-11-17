@@ -1,0 +1,5 @@
+{
+"revid": 2562669,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Villains]] and recipes for first-tier [[The Chosen]].\n| id = 75457\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Villains}}\n\n== Contents ==\n* {{contains|Essence of Villains|chance=guaranteed}}\n* {{contains|Box of Recipes: The Chosen (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Schurken]]\n[[es:Cofre de villanos]]\n[[fr:Coffre de perfidie]]",
+"title": "Chest of Villains"
+}

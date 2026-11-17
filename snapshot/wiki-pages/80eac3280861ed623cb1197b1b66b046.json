@@ -1,0 +1,5 @@
+{
+"revid": 2843554,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Hammer\n| skin = The Colossus Experiment (skin)\n| set = Experimental weapons\n| collection = The Juggernaut II: The Perfected Hammer\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| salvage = Standard\n| id = 74163\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Colossus (First Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of the Colossal\n| ingredient2 = 1 Experimental Hammer Head\n| ingredient3 = 1 Experimental Hammer Haft\n| ingredient4 = 1 Legendary Inscription\n| id = 10220\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of The Colossus Experiment}}\n\n{{Experimental weapons nav|1}}\n{{collection nav}}\n\n[[de:Koloss-Experiment]]\n[[es:Experimento \"El Coloso\"]]\n[[fr:Prototype du Colosse]]",
+"title": "The Colossus Experiment"
+}

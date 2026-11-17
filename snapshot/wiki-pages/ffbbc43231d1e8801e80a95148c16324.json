@@ -1,0 +1,5 @@
+{
+"revid": 2567237,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Focus Crafting]]\" and recipes for second-tier The Bard.\n| id = 74415\n| value = 264\n| requires = hot\n}}\n\n== Contents ==\n* {{contains|Expertise in Focus Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Bard (Second Tier)|chance=Guaranteed}}\n\n== Acquisition ==\n{{achievement list | reward = Tricks and Tips for Advanced Focus Crafting}}\n* Purchasable from after completing the achievement\n{{Sold by}}\n\n[[de:Tipps und Tricks zur Herstellung Hochentwickelter Fokusse]]\n[[es:Trucos y consejos para la fabricación avanzada de focos]]\n[[fr:Trucs et astuces pour la fabrication avancée de focus]]",
+"title": "Tricks and Tips for Advanced Focus Crafting"
+}

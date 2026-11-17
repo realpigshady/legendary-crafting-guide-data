@@ -1,0 +1,5 @@
+{
+"revid": 2673364,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| requires = hot\n| value = 66\n| bound = account\n| id = 74061\n}}\n\n[[Experimental Trident Shaft]] is a [[component|crafting component]] used to craft the [[Venom Experiment]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Trident Shaft (Exotic)\n| id = 10916\n| source = recipe sheet\n| sheet = Box of Recipes: Venom (First Tier)\n| type = Legendary Component\n| disciplines = artificer\n| rating = 450\n| ingredient1 = 1 Spiritwood Plank\n| ingredient2 = 5 Memory of Battle\n| ingredient3 = 5 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Dreizackschaft]]\n[[es:Asta para tridente experimetal]]\n[[fr:Hampe de trident expérimentale]]",
+"title": "Experimental Trident Shaft"
+}

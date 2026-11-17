@@ -1,0 +1,5 @@
+{
+"revid": 2562685,
+"text": "{{Item infobox\n| icon = Chest of Hope.png\n| description = Contains the [[Essence of the End]] and recipes for first-tier [[Dusk]].\n| type = container\n| rarity = exotic\n| bound = account\n| id = 74838\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of the End}}\n\n== Contents ==\n* {{contains|Essence of the End|chance=guaranteed}}\n* {{contains|Box of Recipes: Dusk (First Tier)|chance=guaranteed}}\n\n[[de:Truhe des Endes]]\n[[es:Cofre del fin]]\n[[fr:Coffre de la fin]]",
+"title": "Chest of the End"
+}

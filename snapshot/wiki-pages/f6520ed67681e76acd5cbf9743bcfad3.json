@@ -1,0 +1,5 @@
+{
+"revid": 2562660,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Dragons]] and recipes for first-tier [[Tooth of Frostfang]].\n| id = 73865\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Dragons}}\n\n== Contents ==\n* {{contains|Essence of Dragons|chance=guaranteed}}\n* {{contains|Box of Recipes: Tooth of Frostfang (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Drachen]]\n[[es:Cofre de dragones]]\n[[fr:Coffre des dragons]]",
+"title": "Chest of Dragons"
+}

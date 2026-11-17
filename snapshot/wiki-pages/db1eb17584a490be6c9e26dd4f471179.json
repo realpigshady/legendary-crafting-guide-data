@@ -1,0 +1,5 @@
+{
+"revid": 2562670,
+"text": "{{Item infobox\n| type = container\n| icon = Chest of Dragons.png\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Ancient Knowledge]] and a [[Box of Recipes: The Device|Recipe: The Device]].\n| id = 74236\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Ancient Knowledge}}\n\n== Contents ==\n* {{contains|Essence of Ancient Knowledge|chance=guaranteed}}\n* {{contains|Box of Recipes: The Device|chance=guaranteed}}\n\n[[de:Truhe des Uralten Wissens]]\n[[es:Cofre de sabiduría ancestral]]\n[[fr:Coffre de connaissance ancienne]]",
+"title": "Chest of Ancient Knowledge"
+}

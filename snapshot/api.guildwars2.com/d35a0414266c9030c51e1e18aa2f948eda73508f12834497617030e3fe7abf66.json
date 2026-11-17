@@ -1,0 +1,1596 @@
+{
+"body": [
+{
+"chat_link": "[&AgFXJQEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C1079D03ED5A10B1312C29C5FAE54192C9FF50BB/1204634.png",
+"id": 75095,
+"level": 0,
+"name": "Expertise in Shield Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHlJQEA]",
+"description": "Salvaged from the Rage Experiment. Used to craft the Perfected Harpoon Gun.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CB0A04BDCCEF17BB1345FFFBD4AF523AA55628B6/1205584.png",
+"id": 75237,
+"level": 0,
+"name": "Spirit of the Rage Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHuJQEA]",
+"description": "Salvaged from the Chosen Experiment. Used to craft the Perfected Shield.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4DB6AAFCBB01FF99FE98E06C3DBC5E18593BC668/1205591.png",
+"id": 75246,
+"level": 0,
+"name": "Spirit of The Chosen Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE0JgEA]",
+"description": "<c=@flavor>A powerful, magical polish to make any weapon shine.<c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/16FCE6B85BCCC2B5AC5450AB0E58272AB4A1E954/1205433.png",
+"id": 75316,
+"level": 80,
+"name": "Jar of Luminesce Polish",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEOJwEA]",
+"description": "Salvaged from the Tooth of Frostfang Experiment. Used to craft the Perfected Axe.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF0C9E7DE307C0770DCA649909DA70113DA223C3/1205579.png",
+"id": 75534,
+"level": 0,
+"name": "Spirit of the Tooth of Frostfang Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEPJwEA]",
+"description": "Salvaged from the Legend Experiment. Used to craft the Perfected Staff.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3ED957BEA9479E660AF3A34C7BA12E0E21E9803F/1205594.png",
+"id": 75535,
+"level": 0,
+"name": "Spirit of The Legend Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEWJwEA]",
+"description": "Looted from a fallen tar elemental.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6CCEBF282CF97230CCEB046FEFA94405752711B7/1205575.png",
+"id": 75542,
+"level": 0,
+"name": "Tar Elemental Core",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGuJwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7A7BC319AE979B3F40B3776FC66F91692694446/1200709.png",
+"id": 75694,
+"level": 0,
+"name": "Pouch of Blue Pigment",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHOKAEA]",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EE45BC660396AC039001A6921F3D07DF5FE8E101/1204599.png",
+"id": 75982,
+"level": 0,
+"name": "Expertise in Advanced Pistol Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgETKQEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E893D99702783304CB66D7609A00BD783D7411EC/1204490.png",
+"id": 76051,
+"level": 0,
+"name": "Expertise in Axe Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEsKQEA]",
+"description": "<c=@flavor>Tirzie the Painter's special blend to ensure long-lasting, vibrant color.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/23497939CCC257CC9214F16C6E711EF6F322FFFC/1204475.png",
+"id": 76076,
+"level": 0,
+"name": "Jar of Paint Base",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgE9KQEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/67080941FEA8B4F9EAD308D02697E4C89C5675C9/1204614.png",
+"id": 76093,
+"level": 0,
+"name": "Expertise in Rifle Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFUKQEA]",
+"description": "Salvaged from the Ravenswood Branch.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/03027B0C095A100554D362D90859522E46D42F1B/1302298.png",
+"id": 76116,
+"level": 0,
+"name": "Spirit of the Ravenswood Branch",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHeKQEA]",
+"description": "Created by ore synthesizers in Lost Precipice. Used to craft guild weapons and armor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F3A0EB937F0FFF0A51C9530BF8BB5A03E7D74AB0/1202685.png",
+"id": 76254,
+"level": 0,
+"name": "Shimmering Crystal",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 16
+},
+{
+"chat_link": "[&AgFCKgEA]",
+"description": "Salvaged from the Carcharias Experiment. Used to craft the Perfected Spear.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4004C2C33F1CF7BA050A1C36BD1298C5260A342B/1205593.png",
+"id": 76354,
+"level": 0,
+"name": "Spirit of the Carcharias Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGsKgEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07207DF16F42D92373E4B8E11CFD3CB4F30AD39E/1204503.png",
+"id": 76460,
+"level": 0,
+"name": "Expertise in Dagger Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGKKwEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/614717F904924E09FEBC7B0B581AB5554FF15AA3/1204642.png",
+"id": 76682,
+"level": 0,
+"name": "Expertise in Short Bow Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHaLAEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/290CB70EB0809C2F1548F7C0B54E1DB77BCE430C/1204571.png",
+"id": 77018,
+"level": 80,
+"name": "Expertise in Mace Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHiLAEA]",
+"description": "Salvaged from the Howl Experiment. Used to craft the Perfected Warhorn.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1CC6A4B8F46B097A7965D0BD679752385C9F3C3A/1205598.png",
+"id": 77026,
+"level": 0,
+"name": "Spirit of the Howl Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEhLQEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7E206AF4840420CC86748532256374AC0074BFE/1204589.png",
+"id": 77089,
+"level": 0,
+"name": "Expertise in Nightsword Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFTLQEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/76556B48514BDB0B2B10BEEE71C1615B147FC497/1204657.png",
+"id": 77139,
+"level": 0,
+"name": "Expertise in Staff Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHQMgEA]",
+"description": "Use this expertise to craft a second-tier precursor.\n<c=@flavor>Most informative.<c>",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3A6534AC5AF27B3DA2AF9C1122ED297295C532D6/1424049.png",
+"id": 78544,
+"level": 0,
+"name": "Expertise in Advanced Short Bow Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHUMgEA]",
+"description": "Salvaged from the Hunt.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C339D99CFA120055F07155F70D0558EEF8F302F2/1424031.png",
+"id": 78548,
+"level": 0,
+"name": "Spirit of the Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE/QgEA]",
+"description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"Trinket"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 17
+},
+{
+"attribute": "Precision",
+"modifier": 9
+},
+{
+"attribute": "CritDamage",
+"modifier": 9
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 17
+}
+],
+"buff": {
+"description": "+17 Power\n+17 Condition Damage\n+9 Ferocity\n+9 Precision",
+"skill_id": 46563
+},
+"id": 1373
+},
+"infusion_upgrade_flags": [],
+"suffix": "Mournstone",
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A9240258AD32121963FF71360500B29E0C0E29EE/1203033.png",
+"id": 82495,
+"level": 80,
+"name": "Mournstone",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGyQwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38190310DD4D44BDEC0A0C7EA1CFC71D0C276B5E/1766618.png",
+"id": 82866,
+"level": 0,
+"name": "Handful of Red Lentils",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFlSgEA]",
+"description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"Trinket"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 17
+},
+{
+"attribute": "Precision",
+"modifier": 9
+},
+{
+"attribute": "Healing",
+"modifier": 17
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 9
+}
+],
+"buff": {
+"description": "+17 Power\n+17 Healing Power\n+9 Condition Damage\n+9 Precision",
+"skill_id": 46643
+},
+"id": 1376
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sunset",
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A9240258AD32121963FF71360500B29E0C0E29EE/1203033.png",
+"id": 84581,
+"level": 80,
+"name": "Sunset Jewel",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEdSwEA]",
+"description": "Double-click to apply to an accessory, amulet, or ring with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"Trinket"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 25
+},
+{
+"attribute": "Healing",
+"modifier": 15
+},
+{
+"attribute": "BoonDuration",
+"modifier": 15
+}
+],
+"buff": {
+"description": "+25 Power\n+15 Healing\n+15 Concentration",
+"skill_id": 46619
+},
+"id": 1375
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Brandspark",
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A9240258AD32121963FF71360500B29E0C0E29EE/1203033.png",
+"id": 84765,
+"level": 80,
+"name": "Brandspark Jewel",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFJUgEA]",
+"description": "Used to craft Wintersday items and purchase rewards from Wintersday vendors in Divinity's Reach.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F3023510F5EDEC640CA619BF3A74C3240BCFD129/1914828.png",
+"id": 86601,
+"level": 0,
+"name": "Snowflake",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgEPXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E4B016CDF70960156803FD04C425BF9A4C382D95/2063466.png",
+"id": 89103,
+"level": 0,
+"name": "Charm of Brilliance",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgE0XAEA]",
+"description": "Can be refined into piles of lucent crystals.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BEE21BEFAF42E8DF017C7F41D22F551DC4401EA7/2063470.png",
+"id": 89140,
+"level": 0,
+"name": "Lucent Mote",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGAXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F99BAAD3C841D8AC4E5C621972454E400E3CD85D/2063467.png",
+"id": 89216,
+"level": 0,
+"name": "Charm of Skill",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgGqXAEA]",
+"description": "Used to craft runes.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2949679FC79B6808EB437A0434B59D5642D86BCC/2063465.png",
+"id": 89258,
+"level": 0,
+"name": "Charm of Potence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgG5dQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4D779C211845066A3AEB18EBA64BB231A9F00F03/2594828.png",
+"id": 95673,
+"level": 80,
+"name": "Flawless Fish Fillet",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFvjwEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/504227ABF7272B9DD8ECC4C494FBEBBF4296E368/3375062.png",
+"id": 102255,
+"level": 0,
+"name": "Rotted Titan Amber",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgFnkAEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3FDB469FA0B15612A43B1534EDD8F6747C032EF4/3375064.png",
+"id": 102503,
+"level": 0,
+"name": "Lowland Pine Log",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGekAEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B4E067EC20C4020F707B61B45139B3012EDFB219/3375060.png",
+"id": 102558,
+"level": 0,
+"name": "Honey Flower",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgH/kAEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ADFDE2390DB1BC9109BA51CB5D55339C620357D5/3592778.png",
+"id": 102655,
+"level": 0,
+"name": "Titan Heatstone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGikQEA]",
+"description": "Can be used to purchase local writs of renown at renown heart vendors in Lowland Shore.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6610A1172ED4EFD1DC1DE4A7B7098070F1B209DF/3376075.png",
+"id": 102818,
+"level": 0,
+"name": "Lowland Shore Renown Token",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHhkQEA]",
+"description": "Can be used to purchase local writs of renown at renown heart vendors in Janthir Syntri.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6610A1172ED4EFD1DC1DE4A7B7098070F1B209DF/3376075.png",
+"id": 102881,
+"level": 0,
+"name": "Janthir Syntri Renown Token",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFvkwEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04800AD00DFEB801C3DF77973D49FC1D017C9A04/3375061.png",
+"id": 103279,
+"level": 0,
+"name": "Charged Titan Ore",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgEDlAEA]",
+"description": "Ingredient",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E75844E3E9DA02E2520D03FC55540944F93A05D2/3592776.png",
+"id": 103427,
+"level": 0,
+"name": "Mursaat Obsidian Chunk",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
+"chat_link": "[&AgGLlwEA]",
+"description": "Can be spent at vendors in Mistburned Barrens or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E0F9E2B9CEA649D540160AFB22AB650301B5171/3592777.png",
+"id": 104331,
+"level": 0,
+"name": "Curious Mursaat Ruin Shard",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHlmAEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8246DDA51367909C74D2F68FFE6502B587607C8/1748126.png",
+"id": 104677,
+"level": 0,
+"name": "Crystal Oasis: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEYmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6C0CDA94EC94FA906493E2050DDECDD5965877FD/3199530.png",
+"id": 104728,
+"level": 0,
+"name": "Citadel of Zakiros: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEkmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/80B59B2CCCF7599D11FA0FD2C32B012A5C0410D2/1766459.png",
+"id": 104740,
+"level": 0,
+"name": "The Desolation: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEvmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104751,
+"level": 0,
+"name": "New Kaineng City: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgE0mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/46EC231103323FB5EEBBC1AEF74AE015050F013E/3122156.png",
+"id": 104756,
+"level": 0,
+"name": "Convergence: Outer Nayos: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF9mQEA]",
+"description": "Can be spent at vendors in Bava Nisos or consumed to add 5 ursus obliges to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/96EF0A1708920D059FAFAAF05AFE18FD1CF39504/3630025.png",
+"id": 104829,
+"level": 0,
+"name": "Curious Mursaat Remnants",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF/mQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE1D62A95F57470D61E15D47D20159D8E2BB18FB/3122157.png",
+"id": 104831,
+"level": 0,
+"name": "Skywatch Archipelago: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGGmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08DC26975002D02B68BEF2A46EF2A89E7243FD63/1424065.png",
+"id": 104838,
+"level": 0,
+"name": "Verdant Brink: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGYmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6C0CDA94EC94FA906493E2050DDECDD5965877FD/3199530.png",
+"id": 104856,
+"level": 0,
+"name": "Inner Nayos: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGvmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104879,
+"level": 0,
+"name": "Seitung Province: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGzmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104883,
+"level": 0,
+"name": "Gyala Delve: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHBmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDF5B9F3AE45086BE55CF4CF7C79F313D6A01E61/2594264.png",
+"id": 104897,
+"level": 0,
+"name": "Echovald Wilds: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHKmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E0ED00A7EF9EE56AD09EF2CE00B25CD2D26B024B/1424064.png",
+"id": 104906,
+"level": 0,
+"name": "Dragon's Stand: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHPmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6FD4060277D5E7CF024DF43872B7D1095C10F8D8/1424066.png",
+"id": 104911,
+"level": 0,
+"name": "Auric Basin: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHxmQEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F1100DBF0DF2BE50F609EE0F92E0043BE8C35F9D/3122155.png",
+"id": 104945,
+"level": 0,
+"name": "Amnytas: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEBmgEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7C1475BFB76AAEE22C5FBBF8C4C57EB6CFB10197/1766452.png",
+"id": 104961,
+"level": 0,
+"name": "Domain of Vabbi: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEhmgEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B1BA898B3242C5CA5FA7A6F214521AADE01A125/1766453.png",
+"id": 104993,
+"level": 0,
+"name": "Elon Riverlands: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEpmgEA]",
+"description": "Awards your choice of items. Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2127D47C74BCCC26AA2DB5DFA75DBF7B4D42D43F/1424067.png",
+"id": 105001,
+"level": 0,
+"name": "Tangled Depths: Commander's Choice Chest",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=75095,75237,75246,75316,75534,75535,75542,75694,75982,76051,76076,76093,76116,76254,76354,76460,76682,77018,77026,77089,77139,78544,78548,82495,82866,84581,84765,86601,89103,89140,89216,89258,95673,102255,102503,102558,102655,102818,102881,103279,103427,104331,104677,104728,104740,104751,104756,104829,104831,104838,104856,104879,104883,104897,104906,104911,104945,104961,104993,105001"
+}

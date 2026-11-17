@@ -1,0 +1,5 @@
+{
+"revid": 2567234,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Axe Crafting]]\" and recipes for second-tier [[Tooth of Frostfang]].\n| id = 75415\n| requires = hot\n| value = 264\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Advanced Axe Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Axe Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Tooth of Frostfang (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Äxten]]\n[[es:Trucos y consejos para la fabricación avanzada de hachas]]\n[[fr:Trucs et astuces pour la fabrication avancée de haches]]",
+"title": "Tricks and Tips for Advanced Axe Crafting"
+}

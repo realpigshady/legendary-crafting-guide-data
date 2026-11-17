@@ -1,0 +1,5 @@
+{
+"revid": 2562684,
+"text": "{{Item infobox\n| icon = Chest of the Hunt (short bow).png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Love]] and recipes for first-tier [[The Lover]].\n| id = 71016\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Love}}\n\n== Contents ==\n* {{contains|Essence of Love|chance=guaranteed}}\n* {{contains|Box of Recipes: The Lover (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Liebe]]\n[[es:Cofre de amor]]\n[[fr:Coffre d'amour]]",
+"title": "Chest of Love"
+}

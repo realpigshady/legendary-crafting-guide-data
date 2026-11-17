@@ -1,0 +1,5 @@
+{
+"revid": 2567235,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Dagger Crafting]]\" and recipes for second-tier [[Spark (weapon)|Spark]].\n| id = 71429\n| requires = hot\n| value = 264\n}}\n\n== Acquisition ==\n{{achievement list|reward=Tricks and Tips for Advanced Dagger Crafting}}\n* The following vendor will only offer this item once the achievement has been completed:\n{{Sold by}}\n\n== Contents ==\n* {{contains|Expertise in Dagger Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Spark (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Dolchen]]\n[[es:Trucos y consejos para la fabricación avanzada de dagas]]\n[[fr:Trucs et astuces pour la fabrication avancée de dagues]]",
+"title": "Tricks and Tips for Advanced Dagger Crafting"
+}

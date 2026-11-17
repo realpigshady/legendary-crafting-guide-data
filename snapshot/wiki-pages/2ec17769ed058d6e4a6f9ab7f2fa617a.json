@@ -1,0 +1,5 @@
+{
+"revid": 2843568,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Sword\n| skin = Zap Experiment (skin)\n| collection = Bolt II: The Perfected Sword\n| rarity = exotic\n| level = 80\n| set = Experimental weapons\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| requires = hot\n| salvage = Standard\n| id = 74093\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Zap (First Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Artistry\n| ingredient2 = 1 Experimental Sword Blade\n| ingredient3 = 1 Experimental Sword Hilt\n| ingredient4 = 1 Legendary Inscription\n| id = 11629\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of the Zap Experiment}}\n\n{{Experimental weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Schockangriff-Experiment]]\n[[es:Experimento \"Zas\"]]\n[[fr:Prototype d'Atomisation]]",
+"title": "Zap Experiment"
+}
