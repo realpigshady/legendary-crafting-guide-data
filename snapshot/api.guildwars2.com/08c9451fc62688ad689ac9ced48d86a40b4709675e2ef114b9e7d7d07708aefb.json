@@ -1616,57 +1616,6 @@
 "vendor_value": 80
 },
 {
-"chat_link": "[&AgH7twAA]",
-"default_skin": 4755,
-"description": "",
-"details": {
-"attribute_adjustment": 341.44,
-"damage_type": "Physical",
-"defense": 0,
-"infix_upgrade": {
-"attributes": [
-{
-"attribute": "Power",
-"modifier": 85
-},
-{
-"attribute": "Precision",
-"modifier": 120
-},
-{
-"attribute": "CritDamage",
-"modifier": 85
-}
-],
-"id": 753
-},
-"infusion_slots": [],
-"max_power": 900,
-"min_power": 814,
-"secondary_suffix_item_id": "",
-"suffix_item_id": 24605,
-"type": "Warhorn"
-},
-"flags": [
-"HideSuffix",
-"SoulBindOnUse"
-],
-"game_types": [
-"Activity",
-"Wvw",
-"Dungeon",
-"Pve"
-],
-"icon": "https://render.guildwars2.com/file/C9C5BDF897A767D731A7BA06ED057645EC7CC00F/780573.png",
-"id": 47099,
-"level": 80,
-"name": "The Hunt",
-"rarity": "Exotic",
-"restrictions": [],
-"type": "Weapon",
-"vendor_value": 264
-},
-{
 "chat_link": "[&AgFQDQEA]",
 "flags": [
 "NoSalvage"
@@ -3571,6 +3520,60 @@
 "vendor_value": 396
 },
 {
+"chat_link": "[&AgH6MQEA]",
+"default_skin": 6702,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CAA2FD5EAFCBE0B403938072116B20D5376FCD67/1423766.png",
+"id": 78330,
+"level": 80,
+"name": "The Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
 "chat_link": "[&AgEzMwEA]",
 "description": "Contains the book \"Expertise in Advanced Short Bow Crafting\" and a Recipe: The Ambush.",
 "details": {
@@ -3773,5 +3776,5 @@
 "vendor_value": 104
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19704,19710,19720,19728,19730,19738,19744,19748,23038,23040,23041,23042,23045,24279,24285,24291,24297,24303,24308,24313,24318,24323,24328,24333,24338,24343,24347,24353,24506,24870,24871,24872,24873,24875,36038,38024,38130,38131,38132,38133,45175,45176,46733,46735,47099,68944,70566,70610,70853,70960,70989,71078,71345,71429,71788,72028,72100,72111,72167,72629,72748,72827,72970,73003,73087,73382,73431,73706,74093,74094,74125,74163,74238,74275,74415,74655,74682,74815,75415,75467,75553,75564,75584,75592,75846,75891,76235,76239,76708,76795,76844,76983,77097,78643,82678,83757,95663,95906,102487,104371,104411"
+"url": "https://api.guildwars2.com/v2/items?ids=19704,19710,19720,19728,19730,19738,19744,19748,23038,23040,23041,23042,23045,24279,24285,24291,24297,24303,24308,24313,24318,24323,24328,24333,24338,24343,24347,24353,24506,24870,24871,24872,24873,24875,36038,38024,38130,38131,38132,38133,45175,45176,46733,46735,68944,70566,70610,70853,70960,70989,71078,71345,71429,71788,72028,72100,72111,72167,72629,72748,72827,72970,73003,73087,73382,73431,73706,74093,74094,74125,74163,74238,74275,74415,74655,74682,74815,75415,75467,75553,75564,75584,75592,75846,75891,76235,76239,76708,76795,76844,76983,77097,78330,78643,82678,83757,95663,95906,102487,104371,104411"
 }

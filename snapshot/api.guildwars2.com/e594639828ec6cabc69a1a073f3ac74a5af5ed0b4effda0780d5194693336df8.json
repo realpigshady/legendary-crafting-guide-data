@@ -1299,6 +1299,34 @@
 "vendor_value": 264
 },
 {
+"chat_link": "[&AgEiMwEA]",
+"description": "Contains the Essence of the Hunt and a Recipe: The Great Hunt.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/120255696F4432C653D816AE0C76A99152F1549D/1204770.png",
+"id": 78626,
+"level": 0,
+"name": "Chest of the Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
 "chat_link": "[&AgGafQEA]",
 "flags": [
 "NoSalvage"
@@ -1320,5 +1348,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19740,19741,24301,24306,24311,24316,24321,24326,24331,24336,24467,24468,24469,24470,24471,24501,24534,70448,71016,71338,71355,71499,72067,72201,72776,72988,73467,73535,73597,73762,73865,73912,74236,74591,74731,74838,75457,75599,76570,76613,97690"
+"url": "https://api.guildwars2.com/v2/items?ids=19740,19741,24301,24306,24311,24316,24321,24326,24331,24336,24467,24468,24469,24470,24471,24501,24534,70448,71016,71338,71355,71499,72067,72201,72776,72988,73467,73535,73597,73762,73865,73912,74236,74591,74731,74838,75457,75599,76570,76613,78626,97690"
 }

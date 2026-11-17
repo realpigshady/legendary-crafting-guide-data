@@ -2384,6 +2384,79 @@
 "vendor_value": 66
 },
 {
+"chat_link": "[&AgEiMgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/745843ED0DDB3B743C58E7CB357C9FB8C9D3BCA4/1423948.png",
+"id": 78370,
+"level": 0,
+"name": "Hunter's Short-Bow String",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFdMwEA]",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D4E0B260B9224217F211EB469F5A756D71B0F2B/1205266.png",
+"id": 78685,
+"level": 0,
+"name": "Essence of the Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgF9MwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F4C254E200A02D95BAA4A6800CB98F4AF984E51/1423947.png",
+"id": 78717,
+"level": 0,
+"name": "Hunter's Short-Bow Stave",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
 "chat_link": "[&AgFURQEA]",
 "description": "Used in crafting rare Crystal Desert gear and components.\nAlso sought after by Priory Researcher Elisa.",
 "details": {
@@ -2447,5 +2520,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19718,19719,19742,19743,19983,24278,24284,24290,24296,24302,24307,24312,24317,24322,24327,24332,24337,24342,24346,24352,24472,24503,24504,24507,24527,24535,70290,70466,70493,70545,70658,70730,70868,70874,70952,70977,71036,71110,71437,71852,71873,71932,72017,72268,72337,72403,72498,72589,72627,72679,72743,72766,72846,73013,73111,73140,73332,73397,73440,73671,73748,73753,74031,74061,74161,74162,74218,74293,74544,74643,74717,74798,74840,75043,75228,75289,75296,75330,75524,75769,75801,75939,75952,76017,76117,76221,76402,76806,76994,77056,77190,83284,83757,96943"
+"url": "https://api.guildwars2.com/v2/items?ids=19718,19719,19742,19743,19983,24278,24284,24290,24296,24302,24307,24312,24317,24322,24327,24332,24337,24342,24346,24352,24472,24503,24504,24507,24527,24535,70290,70466,70493,70545,70658,70730,70868,70874,70952,70977,71036,71110,71437,71852,71873,71932,72017,72268,72337,72403,72498,72589,72627,72679,72743,72766,72846,73013,73111,73140,73332,73397,73440,73671,73748,73753,74031,74061,74161,74162,74218,74293,74544,74643,74717,74798,74840,75043,75228,75289,75296,75330,75524,75769,75801,75939,75952,76017,76117,76221,76402,76806,76994,77056,77190,78370,78685,78717,83284,83757,96943"
 }
