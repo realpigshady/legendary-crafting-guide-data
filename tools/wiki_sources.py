@@ -437,7 +437,9 @@ def salvage_sources(item: str, rws: list[dict]) -> tuple[list[dict], list[str]]:
     open_container set (the engine opens it like a box) and salvage set (Crafting can say
     salvage). Count 1 here; the walk reads the parent's page and sets the count, or drops the
     source when the page says it is a chance (wiki_pack.salvage_yield)."""
-    names = list(dict.fromkeys((r.get("Has canonical name") or [r["_subject"].split("#")[0]])[0] for r in rws))
+    # the row's page, not its canonical name: Spirit of the Hunt is salvaged from "The Hunt (short bow)",
+    # canonical name "The Hunt", which is the warhorn's page
+    names = list(dict.fromkeys(r["_subject"].split("#")[0] for r in rws))
     if not names or len(names) > MAX_SALVAGE_PARENTS:
         return [], []
     return [{"kind": "vendor", "inputs": [{"node_id": "@" + n, "count": 1}], "open_container": True,
