@@ -1808,7 +1808,7 @@
 },
 {
 "chat_link": "[&AgFMrgEA]",
-"description": "Can be spent at vendors in Leyspring Hollows",
+"description": "Can be spent at vendors in Leyspring Hollows.",
 "flags": [
 "AccountBound",
 "NoSalvage",
