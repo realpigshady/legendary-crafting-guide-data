@@ -203,3 +203,13 @@ def test_salvage_counts_set_or_drop_the_source():
     wp._salvage_counts(w)
     assert w.nodes["item:73266"]["sources"][0]["output_count"] == 1
     assert w.nodes["item:1"]["sources"] == [{"kind": "other", "inputs": []}] and "no source: Thing" in w.warnings
+
+
+def test_trading_post_only_drops_pvp_rewards():
+    w = wp.Walk()
+    w.nodes = {"item:70820": {"id": "item:70820", "name": "Shard of Glory", "sources": [
+        {"kind": "trading_post", "inputs": []},
+        {"kind": "reward", "inputs": [], "achievement_id": 8671, "output_count": 25}]}}
+    assert "Shard of Glory" in wp.TP_ONLY
+    wp._trading_post_only(w)
+    assert w.nodes["item:70820"]["sources"] == [{"kind": "trading_post", "inputs": []}]

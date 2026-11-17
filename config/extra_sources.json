@@ -19,5 +19,11 @@
   "repeatable_achievements": [
     "^Glory to the ",
     "^Death to the "
-  ]
+  ],
+  "trading_post_only": {
+    "_note": "Items planned as Trading Post buys only (owner 2026-11-17): Shard of Glory is bought or earned in PvP; PvP is not planned yet, so its League Slayer season rewards, PvP Rush and the League Vendor are left out. Drop an item here once its other sources are planned.",
+    "items": [
+      "Shard of Glory"
+    ]
+  }
 }

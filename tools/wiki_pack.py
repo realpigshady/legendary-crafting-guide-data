@@ -35,6 +35,7 @@ _CONFIG = Path(__file__).resolve().parent.parent / "config"
 _EXTRA_CFG = json.loads((_CONFIG / "extra_sources.json").read_text(encoding="utf-8")) if (_CONFIG / "extra_sources.json").exists() else {}
 EXTRA: dict[str, dict] = _EXTRA_CFG.get("items", {})
 REPEATABLE_ACH = [re.compile(x) for x in _EXTRA_CFG.get("repeatable_achievements", [])]
+TP_ONLY = set(_EXTRA_CFG.get("trading_post_only", {}).get("items", []))   # bought only (Shard of Glory: PvP not planned)
 
 _LINK = re.compile(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]")
 _ING = re.compile(r"^\s*(\d[\d,]*)\s+(.+?)\s*$")
@@ -466,6 +467,13 @@ def salvage_yield(text: str, item: str) -> int | None:
     return None
 
 
+def _trading_post_only(w: "Walk") -> None:
+    """Items in extra_sources.json "trading_post_only" keep only their Trading Post source (when they have one)."""
+    for n in w.nodes.values():
+        if n["name"] in TP_ONLY and any(s["kind"] == "trading_post" for s in n["sources"]):
+            n["sources"] = [s for s in n["sources"] if s["kind"] == "trading_post"]
+
+
 def _salvage_counts(w: "Walk") -> None:
     """Salvage sources get their count from the salvaged item's page; a page that doesn't list the
     part as a sure result drops the source (the "salvaged from" guidance text stays)."""
@@ -612,6 +620,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
     if level:
         w.warnings.append(f"stopped at depth {max_depth}: {len(level)} pages not walked")
     _salvage_counts(w)
+    _trading_post_only(w)
     # "@name" placeholders -> node ids
     by_name: dict[str, str] = {}
     for n in w.nodes.values():
