@@ -429,6 +429,13 @@ def _add_sources(w: "Walk", store, level_nodes, currencies: dict[str, int], seen
                     nxt.append(b)
         for r in got["salvage"].get(nm, []):
             notes.append("salvaged from " + (r.get("Has canonical name") or [r["_subject"]])[0])
+        if locked and not crafted and not any(s["kind"] != "other" for s in node["sources"] + new):
+            salv, parents = ws.salvage_sources(nm, got["salvage"].get(nm, []))   # salvage-only part (Data 13)
+            new += salv
+            for p in parents:
+                w.salvage_parents.add(p)
+                if p not in seen:
+                    nxt.append(p)
         if notes:
             node.setdefault("guidance", {})["text"] = "; ".join(dict.fromkeys(notes))[:300]
         if new:
@@ -440,6 +447,47 @@ def _add_sources(w: "Walk", store, level_nodes, currencies: dict[str, int], seen
 WIKI = "https://wiki.guildwars2.com/wiki/"
 
 
+_SALVAGES_INTO = re.compile(r"\{\{\s*salvages into\s*\|\s*(?:(\d+)\s+)?([^}|]+?)\s*\}\}(.*)", re.I)
+
+
+def salvage_yield(text: str, item: str) -> int | None:
+    """How many ``item`` one salvage of the page's item surely gives, from its {{salvages into}}
+    lines: "(9)" after the template, else a leading count, else 1; a range counts its low end.
+    None when the page doesn't list it or calls it a chance (Reclaimed weapons: "rare chance")."""
+    for line in text.splitlines():
+        m = _SALVAGES_INTO.search(line)
+        if not m or m.group(2).strip().lower() != item.lower():
+            continue
+        rest = m.group(3)
+        if re.search(r"chance|rare\b|uncommon|unlikely", rest, re.I):
+            return None
+        n = re.match(r"\s*\((\d+)(?:\s*[-\u2013]\s*\d+)?\)", rest)
+        return int(n.group(1)) if n else int(m.group(1) or 1)
+    return None
+
+
+def _salvage_counts(w: "Walk") -> None:
+    """Salvage sources get their count from the salvaged item's page; a page that doesn't list the
+    part as a sure result drops the source (the "salvaged from" guidance text stays)."""
+    for n in w.nodes.values():
+        keep = []
+        for s in n["sources"]:
+            if not s.get("salvage"):
+                keep.append(s)
+                continue
+            parent = s["inputs"][0]["node_id"][1:]
+            got = salvage_yield(w.salvage_text.get(parent, ""), n["name"])
+            if got is None:
+                w.warnings.append(f"salvage: {parent} has no sure {n['name']} on its page: source dropped")
+                continue
+            s["output_count"] = got
+            keep.append(s)
+        if not keep:
+            keep = [{"kind": "other", "inputs": []}]
+            w.warnings.append(f"no source: {n['name']}")
+        n["sources"] = keep
+
+
 @dataclass
 class Walk:
     nodes: dict[str, dict] = field(default_factory=dict)
@@ -448,6 +496,8 @@ class Walk:
     warnings: list[str] = field(default_factory=list)
     pages_by_depth: dict[int, int] = field(default_factory=dict)
     random_seen: dict[str, list] = field(default_factory=dict)   # random-output forge recipes met on the walk
+    salvage_parents: set = field(default_factory=set)   # items salvaged for a part (wiki_sources.salvage_sources)
+    salvage_text: dict[str, str] = field(default_factory=dict)   # page text by title, for the salvage count
 
 
 def node_id_for(name: str, item_id: int | None) -> str:
@@ -493,6 +543,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
                 continue
             iid = infobox_id(page.text)
             nid = node_id_for(page.title, iid)
+            w.salvage_text[name] = w.salvage_text[page.title] = page.text   # any page can be salvaged for a part
             if nid in w.nodes:
                 continue
             container = item_type(page.text) in ("container", "gizmo") and name not in w.opened and page.title not in w.opened   # chests as prices: stop
@@ -560,6 +611,7 @@ def walk(store: PageStore, roots: list[str], currencies: dict[str, int],
         depth += 1
     if level:
         w.warnings.append(f"stopped at depth {max_depth}: {len(level)} pages not walked")
+    _salvage_counts(w)
     # "@name" placeholders -> node ids
     by_name: dict[str, str] = {}
     for n in w.nodes.values():

@@ -9,7 +9,9 @@ OR'ed with ||) and turns the rows into pack sources:
   achievement  [[Gives item::X]]                   -> kind reward + achievement_id + page
   reward track [[Contains item in reward track::X;?;?;?]] -> activity (wvw / pvp), yields
   rewarded by  [[Rewards item::X]] (zones, events, map completion...) -> activity, yields
-  salvage      [[Salvages into::X]]                -> guidance text only (no pack kind)
+  salvage      [[Salvages into::X]]                -> kind vendor, the salvaged item as its one
+               input, open_container + salvage set (Data 13); more than MAX_SALVAGE_PARENTS
+               parents: guidance text only
 
 Activities made here carry no time estimate (the wiki has none): the planner ignores an
 activity without one until DRF measures it, so no number is invented.
@@ -422,6 +424,24 @@ def activity_rows(item: str, rewarded: list[dict], tracks: list[dict]) -> list[d
                     "count": _int(r.get("Has rewarded item quantity")) or 1, "chance": chance,
                     "note": f"{chance.lower()} from {by}" + (f" ({ctx.lower()})" if ctx else "")})
     return out
+
+
+MAX_SALVAGE_PARENTS = 3   # more salvage parents = gear-wide drops (Ball of Dark Energy: 37 ascended
+                           # pieces; Reclaimed Metal Plate: every reclaimed weapon, sure only from the
+                           # rare variant): guidance only, never 37 walked trees
+
+
+def salvage_sources(item: str, rws: list[dict]) -> tuple[list[dict], list[str]]:
+    """Salvaging an item that gives this one (Gen 2 tier weapons -> their spirit, Upper Bound ->
+    Spirit of the Upper Bound). Source: kind vendor with the salvaged item as its one input,
+    open_container set (the engine opens it like a box) and salvage set (Crafting can say
+    salvage). Count 1 here; the walk reads the parent's page and sets the count, or drops the
+    source when the page says it is a chance (wiki_pack.salvage_yield)."""
+    names = list(dict.fromkeys((r.get("Has canonical name") or [r["_subject"].split("#")[0]])[0] for r in rws))
+    if not names or len(names) > MAX_SALVAGE_PARENTS:
+        return [], []
+    return [{"kind": "vendor", "inputs": [{"node_id": "@" + n, "count": 1}], "open_container": True,
+             "salvage": True, "output_count": 1} for n in names], names
 
 
 def container_sources(item: str, rws: list[dict]) -> tuple[list[dict], list[str]]:
