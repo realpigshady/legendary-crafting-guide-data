@@ -1,0 +1,26 @@
+{
+"fetched": 1794920822.4688993,
+"item": "Solution: Upper Bound",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Proof: Upper Bound"
+],
+"Contains item": [
+"Solution: Upper Bound"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Proof: Upper Bound#contains2"
+}
+]
+}

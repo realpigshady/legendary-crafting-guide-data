@@ -64,6 +64,27 @@
 "vendor_value": 3
 },
 {
+"chat_link": "[&AgEhTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0CB2040408D0789690575FFE3532F3C34B693C6F/340417.png",
+"id": 19745,
+"level": 0,
+"name": "Gossamer Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
+},
+{
 "chat_link": "[&AgHWXgAA]",
 "flags": [
 "NoSalvage"
@@ -314,6 +335,89 @@
 "vendor_value": 2
 },
 {
+"chat_link": "[&AgGYHwEA]",
+"default_skin": 6202,
+"description": "Return to Kelvei in the Fractals of the Mists to find out how to upgrade this item.",
+"details": {
+"attribute_adjustment": 89.628,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+584,
+656,
+658,
+1119,
+657,
+1038,
+1097,
+659,
+690,
+583,
+585,
+1037,
+586,
+1035,
+588,
+1114,
+1128,
+1163,
+1066,
+1064,
+660,
+1430,
+1436,
+591,
+581,
+592,
+1263,
+1271,
+1265,
+1270,
+1262,
+1268,
+1264,
+1267,
+1269,
+1366,
+1367,
+1374,
+1549,
+1566,
+1691,
+1706,
+1827
+]
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"NotUpgradeable",
+"Unique",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF6661AF5FEDDA022D2DBD9F18E41DDDFF1AD202/1202359.png",
+"id": 73624,
+"level": 80,
+"name": "Finite Result",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Back",
+"vendor_value": 330
+},
+{
 "chat_link": "[&AgFvSQEA]",
 "description": "Double-click to activate a Scan special-action skill and a blue map circle to help find Buried Treasure. Consumed upon interacting with Buried Treasure.\n<c=@Flavor>Elonians and Tyrians both seek historic artifacts.</c>",
 "details": {
@@ -481,5 +585,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=12157,19687,19703,24278,24290,24296,24306,24322,24327,24332,24337,24342,24346,24352,43319,84335,86627,92072,92317,93781,93814,94163"
+"url": "https://api.guildwars2.com/v2/items?ids=12157,19687,19703,19745,24278,24290,24296,24306,24322,24327,24332,24337,24342,24346,24352,43319,73624,84335,86627,92072,92317,93781,93814,94163"
 }

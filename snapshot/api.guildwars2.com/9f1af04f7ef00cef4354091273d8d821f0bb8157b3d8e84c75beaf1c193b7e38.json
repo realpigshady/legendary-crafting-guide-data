@@ -1,6 +1,27 @@
 {
 "body": [
 {
+"chat_link": "[&AgG9MgAA]",
+"description": "Used to craft Inscriptions which are used in weapon crafting.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D3EB5FDAACAD7709D9082E281055C4905BF3CAE4/455581.png",
+"id": 12989,
+"level": 0,
+"name": "Mithril Plated Dowel",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 25
+},
+{
 "chat_link": "[&AgH/XgAA]",
 "flags": [
 "NoSalvage"
@@ -177,5 +198,5 @@
 "vendor_value": 25
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=24319,38130,38131,38132,38133,38134,38135"
+"url": "https://api.guildwars2.com/v2/items?ids=12989,24319,38130,38131,38132,38133,38134,38135"
 }

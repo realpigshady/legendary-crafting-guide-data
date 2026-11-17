@@ -1749,6 +1749,28 @@
 "vendor_value": 0
 },
 {
+"chat_link": "[&AgHxHQEA]",
+"description": "Used to craft the backpack Upper Bound. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F2E1C224261C70C4D95E3A4B94B662750CA5D360/65726.png",
+"id": 73201,
+"level": 0,
+"name": "Solution: Upper Bound",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
 "chat_link": "[&AgECIgEA]",
 "description": "Ingredient",
 "flags": [
@@ -1771,6 +1793,54 @@
 "restrictions": [],
 "type": "CraftingMaterial",
 "vendor_value": 17
+},
+{
+"chat_link": "[&AgFHKAEA]",
+"description": "Used in crafting ascended backpacks. Made from ectoplasm, coagulated mists essence, a vision crystal, and Spirit of the Finite Result.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/254BC8EFC296C8BF71C64716A4220CB95102B4A0/223929.png",
+"id": 75847,
+"level": 0,
+"name": "Bound Wings",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgHWKgEA]",
+"description": "Used in crafting ascended backpacks. Made of gossamer, rugged leather, and orichalcum plated dowels.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BEF40DDFC9240727741A0704AD04FA01D2DA4E2A/866730.png",
+"id": 76502,
+"level": 0,
+"name": "Second Order Mist Frame",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 10
 },
 {
 "chat_link": "[&AgH6OwEA]",
@@ -1947,5 +2017,5 @@
 "vendor_value": 8
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=12136,12137,12142,12143,12147,12153,12155,12161,12163,12170,12175,12177,12178,12180,12234,12238,12254,12334,12496,12510,12517,12546,12547,12766,12769,19679,19686,19699,19700,19702,19709,19710,19720,19724,19725,19726,19727,19728,19729,19730,19731,19738,19739,19741,19743,19747,19750,19790,19924,23038,23040,23041,23042,23043,23045,24273,24280,24281,24284,24292,24298,24308,24317,24324,24329,24334,24339,24344,24348,24354,24355,24363,36038,36731,38014,39752,50071,50073,70290,74242,80890,86977,95906,102255,102503,102558,103279"
+"url": "https://api.guildwars2.com/v2/items?ids=12136,12137,12142,12143,12147,12153,12155,12161,12163,12170,12175,12177,12178,12180,12234,12238,12254,12334,12496,12510,12517,12546,12547,12766,12769,19679,19686,19699,19700,19702,19709,19710,19720,19724,19725,19726,19727,19728,19729,19730,19731,19738,19739,19741,19743,19747,19750,19790,19924,23038,23040,23041,23042,23043,23045,24273,24280,24281,24284,24292,24298,24308,24317,24324,24329,24334,24339,24344,24348,24354,24355,24363,36038,36731,38014,39752,50071,50073,70290,73201,74242,75847,76502,80890,86977,95906,102255,102503,102558,103279"
 }

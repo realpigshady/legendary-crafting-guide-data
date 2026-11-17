@@ -1,0 +1,5 @@
+{
+"revid": 1137302,
+"text": "{{Item infobox\n| icon = Finite Wings.png\n| type = crafting material\n| id = 75847\n| description = Used in crafting ascended backpacks. Made from [[Glob of Ectoplasm|ectoplasm]], [[Glob of Coagulated Mists Essence|coagulated mists essence]], a [[Vision Crystal|vision crystal]], and [[Spirit of the Finite Result]].\n| material type = component\n| rarity = ascended\n| bound = account\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Upper Bound\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 10 Glob of Ectoplasm\n| ingredient2 = 5 Glob of Coagulated Mists Essence\n| ingredient3 = 1 Vision Crystal\n| ingredient4 = 1 Spirit of the Finite Result\n| id = 10393\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Begrenzte Schwingen]]\n[[es:Alas vinculadas]]\n[[fr:Ailes liées]]",
+"title": "Bound Wings"
+}

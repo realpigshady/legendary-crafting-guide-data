@@ -230,6 +230,27 @@
 "vendor_value": 5
 },
 {
+"chat_link": "[&AgG8MgAA]",
+"description": "Used to craft Inscriptions which are used in weapon crafting.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4703A1CA2C61B002212E3D5A960C35BE13B5CF3B/455580.png",
+"id": 12988,
+"level": 0,
+"name": "Orichalcum Plated Dowel",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 29
+},
+{
 "chat_link": "[&AgHiTAAA]",
 "description": "Refined from Ore.",
 "flags": [
@@ -396,6 +417,27 @@
 "restrictions": [],
 "type": "CraftingMaterial",
 "vendor_value": 2
+},
+{
+"chat_link": "[&AgEiTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7FBA68B71DB805E416315067DD0DDEEB204CFC65/63577.png",
+"id": 19746,
+"level": 0,
+"name": "Bolt of Gossamer",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 8
 },
 {
 "chat_link": "[&AgEkTQAA]",
@@ -974,6 +1016,30 @@
 "vendor_value": 9
 },
 {
+"chat_link": "[&AgE6JQEA]",
+"description": "Obtained by salvaging the backpack Finite Result.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2DE4FABAAB4B72E23352DE72D653A63357520A20/1203024.png",
+"id": 75066,
+"level": 0,
+"name": "Spirit of the Finite Result",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 320
+},
+{
 "chat_link": "[&AgEnLAEA]",
 "description": "Used to grind flax seeds and cassava roots.",
 "flags": [
@@ -1043,5 +1109,5 @@
 "vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=12176,12244,12245,12246,12248,12258,12328,12331,12787,12801,19682,19697,19698,19704,19718,19719,19722,19723,19748,19983,24272,24279,24291,24297,24307,24316,24323,24328,24333,24338,24343,24347,24353,41824,43320,46506,46507,46508,46509,46510,46511,46644,46645,46646,73113,76839,77256,92272"
+"url": "https://api.guildwars2.com/v2/items?ids=12176,12244,12245,12246,12248,12258,12328,12331,12787,12801,12988,19682,19697,19698,19704,19718,19719,19722,19723,19746,19748,19983,24272,24279,24291,24297,24307,24316,24323,24328,24333,24338,24343,24347,24353,41824,43320,46506,46507,46508,46509,46510,46511,46644,46645,46646,73113,75066,76839,77256,92272"
 }
