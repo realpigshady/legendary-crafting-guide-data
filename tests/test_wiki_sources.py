@@ -131,3 +131,13 @@ def test_excluded_trades_drop_owner_ruled_out_offers():
     assert [s["inputs"][0]["name"] for s in srcs] == ["Continue Coin"]
     srcs, _ = ws.vendor_sources("Mystic Crystal", [row("Bauble Bubble")], CUR)
     assert srcs == []
+
+
+def test_salvage_sources_one_parent_and_gear_wide_drops():
+    rws = [{"_subject": "Ravenswood Staff", "Has canonical name": ["Ravenswood Staff"], "Salvages into": ["Spirit of the Ravenswood Staff"]}]
+    src, parents = ws.salvage_sources("Spirit of the Ravenswood Staff", rws)
+    assert parents == ["Ravenswood Staff"]
+    assert src == [{"kind": "vendor", "inputs": [{"node_id": "@Ravenswood Staff", "count": 1}], "open_container": True,
+                    "salvage": True, "output_count": 1}]
+    many = [{"_subject": f"Gear {i}", "Salvages into": ["Ball of Dark Energy"]} for i in range(ws.MAX_SALVAGE_PARENTS + 1)]
+    assert ws.salvage_sources("Ball of Dark Energy", many) == ([], [])

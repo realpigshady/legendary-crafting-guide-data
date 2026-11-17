@@ -1,0 +1,5 @@
+{
+"revid": 2674041,
+"text": "{{Item infobox\n| icon = Tricks and Tips for Advanced Axe Crafting.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Advanced Axe Crafting]]\" and a [[Box of Recipes: The Apparatus|Recipe: The Apparatus]].\n| id = 73706\n| value = 264\n| requires = hot\n}}\n\n== Contents ==\n* {{contains|Expertise in Advanced Axe Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Apparatus|chance=Guaranteed}}\n\n== Acquisition ==\n{{achievement list\n| reward = Tricks and Tips for Celestial Axe Crafting}}\n* Purchasable from after completing the achievement\n{{Sold by}}\n\n[[de:Tipps und Tricks zur Herstellung von Himmels-Äxten]]\n[[es:Trucos y consejos para la fabricación de hachas celestiales]]\n[[fr:Trucs et astuces pour la fabrication de haches célestes]]",
+"title": "Tricks and Tips for Celestial Axe Crafting"
+}

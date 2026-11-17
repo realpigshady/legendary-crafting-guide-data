@@ -1,0 +1,5 @@
+{
+"revid": 2562680,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Tentacles]] and recipes for first-tier [[Venom (weapon)|Venom]].\n| id = 75599\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Tentacles}}\n\n== Contents ==\n* {{contains|Essence of Tentacles|chance=guaranteed}}\n* {{contains|Box of Recipes: Venom (First Tier)|chance=guaranteed}}\n\n[[de:Truhe der Tentakel]]\n[[es:Cofre de tentáculos]]\n[[fr:Coffre de tentacules]]",
+"title": "Chest of Tentacles"
+}

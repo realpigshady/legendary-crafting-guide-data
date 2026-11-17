@@ -1,0 +1,5 @@
+{
+"revid": 2079820,
+"text": "{{Item infobox\n| icon = Crafter's Backpack Frame.png\n| type = crafting material\n| material type = component\n| description = Used in crafting ascended backpacks. Made of [[Bolt of Silk|silk]], [[Cured Thick Leather Square|thick leather]], and [[Mithril Plated Dowel|mithril plated dowels]].\n| rarity = ascended\n| bound = account\n| id = 74890\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Finite Result\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 50 Bolt of Silk\n| ingredient2 = 100 Cured Thick Leather Square\n| ingredient3 = 75 Mithril Plated Dowel\n| id = 10866\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Nebelrahmen erster Ordnung]]\n[[es:Estructura de niebla de primer orden]]\n[[fr:Structure des Brumes de niveau 1]]",
+"title": "First Order Mist Frame"
+}

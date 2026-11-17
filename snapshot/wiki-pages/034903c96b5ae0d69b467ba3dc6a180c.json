@@ -1,0 +1,5 @@
+{
+"revid": 2567258,
+"text": "{{Item infobox\n| icon = Tricks and Tips for Advanced Short Bow Crafting.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Advanced Short Bow Crafting]]\" and a [[Box of Recipes: The Ambush|Recipe: The Ambush]].\n| id = 78643\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Short Bow Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Advanced Short Bow Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Ambush|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Kurzbögen]]\n[[es:Trucos y consejos para la fabricación de arcos cortos]]\n[[fr:Trucs et astuces pour la fabrication d'arcs courts]]",
+"title": "Tricks and Tips for Short Bow Crafting"
+}

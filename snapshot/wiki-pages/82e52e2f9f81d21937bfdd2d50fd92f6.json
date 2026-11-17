@@ -1,0 +1,5 @@
+{
+"revid": 2567256,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Advanced Pistol Crafting]]\" and a [[Box of Recipes: Development|Recipe: Development]].\n| id = 74682\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Mechanical Pistol Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Advanced Pistol Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Development|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Mechanischen Pistolen]]\n[[es:Trucos y consejos para la fabricación de pistolas mecánicas]]\n[[fr:Trucs et astuces pour la fabrication de pistolets mécaniques]]",
+"title": "Tricks and Tips for Mechanical Pistol Crafting"
+}

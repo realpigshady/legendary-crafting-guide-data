@@ -1,0 +1,26 @@
+{
+"fetched": 1794920195.6314926,
+"item": "Essence of Meteorology",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Chest of Meteorology"
+],
+"Contains item": [
+"Essence of Meteorology"
+],
+"Has contained item chance": [
+"Guaranteed"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Chest of Meteorology#contains1"
+}
+]
+}

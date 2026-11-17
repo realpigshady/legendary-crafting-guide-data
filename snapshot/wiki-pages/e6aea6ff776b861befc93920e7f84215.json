@@ -1,0 +1,5 @@
+{
+"revid": 2843535,
+"text": "{{Weapon infobox\n| type = staff\n| level = 80\n| icon = Imryldyeen.png\n| collection = The Bifrost III: The Legend\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.\n| rarity = Exotic\n| set = Perfected weapons\n| prefix = berserker\n| uslot = Superior Sigil of Rage\n| value = 396\n| skin = Imryldyeen (skin)\n| bound = account\n| salvage = Standard\n| id = 76027\n| requires = hot\n| gallery1 = Imryldyeen.jpg\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Legend (Second Tier)\n| type = Legendary Component\n| disciplines = artificer\n| rating = 450\n| ingredient1 = 1 Expertise in Staff Crafting\n| ingredient2 = 1 Spirit of The Legend Experiment\n| ingredient3 = 1 Jar of Luminesce Polish\n| ingredient4 = 1 Prismatic Lodestone\n| id = 10796\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of the Perfected Staff}}\n\n{{Perfected weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Perfektionierter Stab]]\n[[es:Báculo perfeccionado]]\n[[fr:Bâton perfectionné]]",
+"title": "Perfected Staff"
+}

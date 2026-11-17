@@ -1,0 +1,5 @@
+{
+"revid": 2673435,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 71932\n| requires = hot\n}}\n\n[[Experimental Staff Head]] is a [[Component|crafting component]] used in making [[The Legend Experiment]] and the [[Ravenswood Branch]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Staff Head (Exotic)\n| id = 11357\n| source = recipe sheet\n| sheet = Box of Recipes: The Legend (First Tier); Box of Recipes: The Ravenswood Branch\n| type = Legendary Component\n| disciplines = artificer\n| rating = 450\n| ingredient1 = 10 Spiritwood Plank\n| ingredient2 = 100 Memory of Battle\n| ingredient3 = 100 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Stabkopf]]\n[[es:Cabezal para báculo experimetal]]\n[[fr:Tête de bâton expérimentale]]",
+"title": "Experimental Staff Head"
+}

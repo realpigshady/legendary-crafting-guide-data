@@ -225,6 +225,10 @@
                   "exclusiveMinimum": 0,
                   "description": "random output: average made per attempt of this source (used instead of output_count); 10x recipes carry ten times the 1x average"
                 },
+                "salvage": {
+                  "type": "boolean",
+                  "description": "vendor + open_container: the input is salvaged (not opened) for this item; output_count = sure results per salvage"
+                },
                 "max_units": {
                   "type": [
                     "integer",

@@ -1,0 +1,5 @@
+{
+"revid": 1137300,
+"text": "{{Item infobox\n| icon = Crafter's Backpack Frame.png\n| type = crafting material\n| id = 76502\n| description = Used in crafting ascended backpacks. Made of [[Bolt of Gossamer|gossamer]], [[Cured Rugged Leather Square|rugged leather]], and [[Orichalcum Plated Dowel|orichalcum plated dowels]].\n| material type = component\n| rarity = ascended\n| bound = account\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Recipe: Upper Bound\n| disciplines = weaponsmith, armorsmith, huntsman, artificer, leatherworker, tailor\n| rating = 500\n| type = Legendary Component\n| ingredient1 = 25 Bolt of Gossamer\n| ingredient2 = 75 Cured Rugged Leather Square\n| ingredient3 = 50 Orichalcum Plated Dowel\n| id = 10077\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Nebelrahmen zweiter Ordnung]]\n[[es:Estructura de niebla de segundo orden]]\n[[fr:Structure des Brumes de niveau 2]]",
+"title": "Second Order Mist Frame"
+}

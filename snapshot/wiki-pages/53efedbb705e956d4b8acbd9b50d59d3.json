@@ -1,0 +1,5 @@
+{
+"revid": 2673347,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 73013\n| requires = hot\n}}\n\n[[Experimental Sword Hilt]] is a [[Component|crafting component]] used in making the [[Zap Experiment]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Sword Hilt (Exotic)\n| id = 10506\n| source = recipe sheet\n| sheet = Box of Recipes: Zap (First Tier)\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 450\n| ingredient1 = 15 Deldrimor Steel Ingot\n| ingredient2 = 50 Memory of Battle\n| ingredient3 = 50 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimentelles Schwertheft]]\n[[es:Empuñadura para espada experimetal]]\n[[fr:Garde d'épée expérimentale]]",
+"title": "Experimental Sword Hilt"
+}

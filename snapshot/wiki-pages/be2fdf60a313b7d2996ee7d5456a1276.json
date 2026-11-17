@@ -1,0 +1,5 @@
+{
+"revid": 2843541,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the [[Ravenswood Staff|next tier]] of this legendary [[Precursor weapon|precursor]].\n| type = Staff\n| skin = Ravenswood Branch (skin)\n| collection = Nevermore II: Ravenswood Staff\n| set = experimental weapons\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| salvage = Standard\n| id = 75467\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Ravenswood Branch\n| disciplines = artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Natural Protection\n| ingredient2 = 1 Experimental Staff Head \n| ingredient3 = 1 Experimental Staff Shaft\n| ingredient4 = 1 Legendary Inscription\n| id = 11232\n}}\n\n== Salvage results ==\n* {{salvages into|Spirit of the Ravenswood Branch}}\n\n{{Experimental weapons nav|2}}\n{{collection nav}}\n\n[[de:Rabenholz-Ast]]\n[[es:Rama de Bosque del Cuervo]]\n[[fr:Branche de Bois-corbeau]]",
+"title": "Ravenswood Branch"
+}

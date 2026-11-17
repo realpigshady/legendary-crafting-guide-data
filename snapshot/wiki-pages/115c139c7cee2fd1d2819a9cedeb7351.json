@@ -1,0 +1,5 @@
+{
+"revid": 2843500,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]].\n| type = Greatsword\n| skin = Dawn Experiment (skin)\n| set = Experimental weapons\n| collection = Sunrise II: The Perfected Daysword\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| requires = hot\n| salvage = Standard\n| id = 70853\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Dawn (First Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Hope\n| ingredient2 = 1 Experimental Daysword Blade\n| ingredient3 = 1 Experimental Daysword Hilt\n| ingredient4 = 1 Legendary Inscription\n| id = 11303\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of the Dawn Experiment}}\n\n{{Experimental weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Morgenrot-Experiment]]\n[[es:Experimento \"Alba\"]]\n[[fr:Prototype d'Aube]]",
+"title": "Dawn Experiment"
+}

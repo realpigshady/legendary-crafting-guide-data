@@ -1,0 +1,5 @@
+{
+"revid": 2567257,
+"text": "{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Runed Staff Crafting]]\" and a [[Box of Recipes: The Ravenswood Staff|Recipe: Ravenswood Staff]].\n| icon = Tricks_and_Tips_for_Advanced_Staff_Crafting.png\n| id = 76844\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Runed Staff Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Runed Staff Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Ravenswood Staff|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung Runenverzierter Stäbe]]\n[[es:Trucos y consejos para la fabricación de báculos con runas]]\n[[fr:Trucs et astuces pour la fabrication de bâtons sertis]]",
+"title": "Tricks and Tips for Runed Staff Crafting"
+}

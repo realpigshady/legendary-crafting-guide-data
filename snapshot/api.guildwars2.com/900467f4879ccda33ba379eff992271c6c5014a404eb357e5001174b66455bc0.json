@@ -1,0 +1,2524 @@
+{
+"body": [
+{
+"chat_link": "[&AgEGTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A03B07F2A625FE01B01A59042BDD06C7C5AC30D2/65939.png",
+"id": 19718,
+"level": 0,
+"name": "Jute Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEHTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0CB8030AD26C3C7563B10E5EC397490F991ED795/65940.png",
+"id": 19719,
+"level": 0,
+"name": "Rawhide Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEeTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2EA1366176E09ECFCA1E93441ACAEF10E7C93B7A/63542.png",
+"id": 19742,
+"level": 0,
+"name": "Bolt of Cotton",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEfTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/28536CD63C63047DA7DA9F7923923461DCFC5860/65958.png",
+"id": 19743,
+"level": 0,
+"name": "Linen Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEPTgAA]",
+"description": "Take this stone to the Mystic Forge to have Zommoros forge something special for you.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/033CAC7DB2DE70BF39DA10D061375BA2B9BD6FA9/220548.png",
+"id": 19983,
+"level": 0,
+"name": "Mystic Forge Stone",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHWXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C40532E544D99B9A92B703131409390EF36E513A/66934.png",
+"id": 24278,
+"level": 0,
+"name": "Tiny Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHcXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/129C3E6801966212018033D29B23ABAF5A712615/66940.png",
+"id": 24284,
+"level": 0,
+"name": "Tiny Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHiXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C0FB13FB0EDEA8E56676A05F80E3FDC5E92E98E1/66945.png",
+"id": 24290,
+"level": 0,
+"name": "Vial of Weak Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHoXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7AE87D4DE89F16B7B6E1EF6D133F3B28AA3971C9/66951.png",
+"id": 24296,
+"level": 0,
+"name": "Tiny Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgHuXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3E2CD04924CFA55FEBF9614DA490D7AE660C1D24/66956.png",
+"id": 24302,
+"level": 0,
+"name": "Charged Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgHzXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C9F32DD525689EC3ADABDD7B633F1815A2C93080/66960.png",
+"id": 24307,
+"level": 0,
+"name": "Onyx Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH4XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FB6878B6DC31AFC10F3B7DB8D1F93C0CFB5C08BF/66965.png",
+"id": 24312,
+"level": 0,
+"name": "Molten Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgH9XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6909C7740DF404434BA1D32E4F7042D050FF7FE7/63150.png",
+"id": 24317,
+"level": 0,
+"name": "Glacial Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgECXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EF65D6D16101C608709619BAE2045E00511E7CD5/66973.png",
+"id": 24322,
+"level": 0,
+"name": "Destroyer Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEHXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/43D43127072CF33D58B25E2FCC940435EB3D4548/66978.png",
+"id": 24327,
+"level": 0,
+"name": "Crystal Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEMXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9B0C2B9E7178D4A2010696936066073A0461AF3A/63277.png",
+"id": 24332,
+"level": 0,
+"name": "Pile of Foul Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgERXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A492E71E419ECFD94D8A2B1400A09A0C20373CE/66983.png",
+"id": 24337,
+"level": 0,
+"name": "Corrupted Fragment",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 21
+},
+{
+"chat_link": "[&AgEWXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0A5B3C374C1A7F07BA3D06162857D1599B01F91D/66988.png",
+"id": 24342,
+"level": 0,
+"name": "Bone Chip",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEaXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/386E92E109C9937C4477E5F82A0291AA05D44A92/66992.png",
+"id": 24346,
+"level": 0,
+"name": "Tiny Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgEgXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0394D7C230A11502C4CF07003B66BC64F4F7C7C2/65893.png",
+"id": 24352,
+"level": 0,
+"name": "Tiny Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgGYXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "Precision",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Precision",
+"skill_id": 75
+},
+"id": 359
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Carnelian",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8D502B4E57E116002506A0CE519F4EA52CB79B8/220915.png",
+"id": 24472,
+"level": 35,
+"name": "Carnelian Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG3XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 5
+},
+{
+"attribute": "Precision",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Precision\n+5 Power",
+"skill_id": 173
+},
+"id": 379
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Sunstone",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F9B09A85A77B6C356F4D15FF6F9FB4DF90BACCE/220943.png",
+"id": 24503,
+"level": 35,
+"name": "Sunstone Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG4XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "CritDamage",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Ferocity",
+"skill_id": 169
+},
+"id": 371
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Peridot",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A736B6941805F8412591DFF52F77CD9B767CCDF1/220944.png",
+"id": 24504,
+"level": 35,
+"name": "Peridot Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgG7XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Toughness",
+"modifier": 5
+},
+{
+"attribute": "Vitality",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Vitality\n+5 Toughness",
+"skill_id": 181
+},
+"id": 387
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Lapis",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FF721EAEE6B8F77CE36E1EEB6A94E27395A872AE/220946.png",
+"id": 24507,
+"level": 35,
+"name": "Lapis Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgHPXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 7
+},
+{
+"attribute": "Vitality",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+7 Power\n+5 Vitality",
+"skill_id": 165
+},
+"id": 367
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Amethyst",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/601E907BDC961A36E97258C20DA5BB130690C95C/220959.png",
+"id": 24527,
+"level": 35,
+"name": "Amethyst Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgHXXwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 2
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 5
+}
+],
+"buff": {
+"description": "+5 Condition Damage\n+2 Precision",
+"skill_id": 261
+},
+"id": 461
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Topaz",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/11B59BBE4A46F32A33542333B128E81545D93418/220961.png",
+"id": 24535,
+"level": 20,
+"name": "Topaz Nugget",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 24
+},
+{
+"chat_link": "[&AgGSEgEA]",
+"description": "Can be traded with Mordrem researchers across Tyria for valuable items.\n\nDouble-click to locate a nearby Mordrem researcher.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F011DDB9A359CD2CBA523A00E0F3445A0ECAE83F/1058330.png",
+"id": 70290,
+"level": 0,
+"name": "Mordrem Bloom",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFCEwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F1FAFE1217440948B861C04566232706D5F278E1/1205763.png",
+"id": 70466,
+"level": 0,
+"name": "Experimental Spear Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFdEwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3356AED31CEAED9BDE06225CDAB71A3B6956F813/1205265.png",
+"id": 70493,
+"level": 0,
+"name": "Essence of Prey",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGREwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/180FBA61A305CEC40AC668D39F783168C4A5AD40/1205756.png",
+"id": 70545,
+"level": 0,
+"name": "Experimental Scepter Core",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgECFAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D4E0B260B9224217F211EB469F5A756D71B0F2B/1205266.png",
+"id": 70658,
+"level": 0,
+"name": "Essence of Natural Protection",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFKFAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F4BD34F2AB52D2A90967979944F923F52EF418D4/1205263.png",
+"id": 70730,
+"level": 0,
+"name": "Essence of Ancient Knowledge",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHUFAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F930A14EBD9907625BE875930F60796A9E00B4EE/1205733.png",
+"id": 70868,
+"level": 0,
+"name": "Experimental Axe Blade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHaFAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/086C0E44C13A002137EF4F66A63FB8A354972568/1205752.png",
+"id": 70874,
+"level": 0,
+"name": "Experimental Pistol Barrel",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEoFQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D2EF2A0FF2F04BEB926C14B714046CD14217F6F5/1205734.png",
+"id": 70952,
+"level": 0,
+"name": "Experimental Axe Haft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFBFQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7A146B6805CAAAA46C0ACF00A21B49702F2370B5/1205757.png",
+"id": 70977,
+"level": 0,
+"name": "Experimental Scepter Rod",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgF8FQEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C58D21A282B0D54DA920BF4E69AF1F5D9AFA804/1205271.png",
+"id": 71036,
+"level": 0,
+"name": "Essence of Fish",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHGFQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/58B6E56E2A3B9CE39AA291044ED36D2BEAA90755/1205744.png",
+"id": 71110,
+"level": 0,
+"name": "Experimental Harpoon Gun Stock",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgENFwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D79FC66CF41D7DBFE74D74657343A90FA5A86390/1205261.png",
+"id": 71437,
+"level": 0,
+"name": "Essence of the Bonfire",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGsGAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F4BD34F2AB52D2A90967979944F923F52EF418D4/1205263.png",
+"id": 71852,
+"level": 0,
+"name": "Essence of the End",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHBGAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/75250CC40D0EC3D619480A99192945436A73A9B4/1205264.png",
+"id": 71873,
+"level": 0,
+"name": "Essence of Chickens and Eggs",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH8GAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B12112F7EE23B9CB800CA836E3F3296B6B076E7A/1205764.png",
+"id": 71932,
+"level": 0,
+"name": "Experimental Staff Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFRGQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/783F4B6EBC9A4509017C0E5D9821C63093976A66/1205735.png",
+"id": 72017,
+"level": 0,
+"name": "Experimental Dagger Blade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFMGgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/78650244F9CCEC4BD10B90C32428B5B006029703/1205739.png",
+"id": 72268,
+"level": 0,
+"name": "Experimental Focus Casing",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGRGgEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/990ADB0AF074E3BAE23DB5F57FB12FCED70BB659/1205260.png",
+"id": 72337,
+"level": 0,
+"name": "Essence of Sharks",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHTGgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07C8DC522B4547BA067355FBE1D9E3433DE27D24/1205741.png",
+"id": 72403,
+"level": 0,
+"name": "Experimental Hammer Haft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEyGwEA]",
+"description": "Used to craft Maces.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2B6D60B1592E0ECA1894A162E3C30968B66E20F0/1205749.png",
+"id": 72498,
+"level": 0,
+"name": "Experimental Mace Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 26
+},
+{
+"chat_link": "[&AgGNGwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6BAF1964537A41205E74E2DC7169AF93C12932C6/1205768.png",
+"id": 72589,
+"level": 0,
+"name": "Experimental Torch Handle",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGzGwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04A3406C3FC33502B06860BB4E9C20749E90EA1F/1205761.png",
+"id": 72627,
+"level": 0,
+"name": "Experimental Short Bow String",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHnGwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A662CCA60558EEB25D42B7A45565E003FB245426/1205738.png",
+"id": 72679,
+"level": 0,
+"name": "Experimental Daysword Hilt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEnHAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E41959AFF121730C0C060C3DB448D8DCBCBD682C/1205751.png",
+"id": 72743,
+"level": 0,
+"name": "Experimental Nightsword Hilt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE+HAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5D4222786220082468CB57B72E095DBE29D9975B/1205247.png",
+"id": 72766,
+"level": 0,
+"name": "Essence of Hope",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGOHAEA]",
+"description": "Use this essence to craft a completed precursor.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/242F4CF5A40D253C80B50CF9D97B6AB126E90869/1205276.png",
+"id": 72846,
+"level": 80,
+"name": "Essence of the Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE1HQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E1AC622D722E55F8D6C8032E92A82CB021E598E0/1205767.png",
+"id": 73013,
+"level": 0,
+"name": "Experimental Sword Hilt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGXHQEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/65B05EA1636C6224EF2ACE275E3907C37ECCB94A/1205257.png",
+"id": 73111,
+"level": 0,
+"name": "Essence of Villains",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgG0HQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5ED6084CB3AE0AE3FA79F26FD4423D5869B67CC5/1205746.png",
+"id": 73140,
+"level": 0,
+"name": "Experimental Longbow Stave",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgF0HgEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4BD90D71971299B707079A74510F29E707562856/1205274.png",
+"id": 73332,
+"level": 0,
+"name": "Essence of Audacity",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgG1HgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/520AF5241872FA9B62719CAB98378071ED044D2F/1205758.png",
+"id": 73397,
+"level": 0,
+"name": "Experimental Shield Backing",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHgHgEA]",
+"description": "Used in the crafting of underwater weapons with the potential to become Legend.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/77C8A04BDD91541BDFE85729FA1C0BB0C8BF45C7/1205434.png",
+"id": 73440,
+"level": 10,
+"name": "Legendary Underwater Inscription",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 15
+},
+{
+"chat_link": "[&AgHHHwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94B67479521277784C36AEBBEF7C250D28CBB3A6/1205259.png",
+"id": 73671,
+"level": 0,
+"name": "Essence of Dragons",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEUIAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3D72C4FF56ED2AF9D2576272E927093BBFE201B9/1205765.png",
+"id": 73748,
+"level": 0,
+"name": "Experimental Staff Shaft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEZIAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/51BF01707BE73B100A5B4CF8301EDAB164AFBD53/1205267.png",
+"id": 73753,
+"level": 0,
+"name": "Essence of Blooms",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEvIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1009C6EF3F06CC53664DA3D6B1930D6EA727D0C9/1205736.png",
+"id": 74031,
+"level": 0,
+"name": "Experimental Dagger Hilt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFNIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/015772B32F690107677FD7EAAB090532BE9B26F6/1205771.png",
+"id": 74061,
+"level": 0,
+"name": "Experimental Trident Shaft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGxIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07F75372CA031FB103C4E774F24F08DFD269624D/1205769.png",
+"id": 74161,
+"level": 0,
+"name": "Experimental Torch Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGyIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B4E1F9A4445E36632B7D9DCEF2CCFEDBF8CC0DBD/1205747.png",
+"id": 74162,
+"level": 0,
+"name": "Experimental Longbow String",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHqIQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E32DB1FEDB0F41D9BFEFF8F7D3EBB0BEAACBF0F0/1205754.png",
+"id": 74218,
+"level": 0,
+"name": "Experimental Rifle Barrel",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgE1IgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/78FFA5B922ABE167ECDBE7C9EF0FA73AC1D9F9DA/1205759.png",
+"id": 74293,
+"level": 0,
+"name": "Experimental Shield Boss",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEwIwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/452829900D0BD23F171CCF37EBA21207C1B1A367/1205268.png",
+"id": 74544,
+"level": 0,
+"name": "Essence of Industry",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGTIwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BC54C6B96BE53CFE7A5F072D9AEF4710046A4924/1205248.png",
+"id": 74643,
+"level": 0,
+"name": "Essence of the Colossal",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHdIwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/16F7D9AD28AB3358504BEF0B75F455E4DAB36CFB/1205762.png",
+"id": 74717,
+"level": 0,
+"name": "Experimental Spear Haft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEuJAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C8991AE5DA996CB61A94A649C706E77E58F3C804/1205740.png",
+"id": 74798,
+"level": 0,
+"name": "Experimental Focus Core",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFYJAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A8505B16C060E9AE409F3A33BA959CA4340B200E/1205760.png",
+"id": 74840,
+"level": 0,
+"name": "Experimental Short Bow Stave",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEjJQEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/050FF6F7C05DA0CF5C07E815A84AAB00CBA80D02/1205254.png",
+"id": 75043,
+"level": 0,
+"name": "Essence of Tentacles",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHcJQEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F83F69EF5E5DFDA7F3D56BA10EEFE774ACF9CBF0/1205250.png",
+"id": 75228,
+"level": 0,
+"name": "Essence of Love",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEZJgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E745EEE7AAD9650936F11D0B2F3E7105A7F7FBAA/1205737.png",
+"id": 75289,
+"level": 0,
+"name": "Experimental Daysword Blade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEgJgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DC467BB25C8F71EEFE1DB6872B1A606F2A2CDAA/1205742.png",
+"id": 75296,
+"level": 0,
+"name": "Experimental Hammer Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFCJgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/911A9F56270BE864E4E004562EC4B3433C1904F1/1205753.png",
+"id": 75330,
+"level": 0,
+"name": "Experimental Pistol Frame",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEEJwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2C4C116874492CA64C285ED72C7324B91B19FD01/1205743.png",
+"id": 75524,
+"level": 0,
+"name": "Experimental Harpoon",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgH5JwEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2A69405FC152ECB3B638920FE808F23B232E7052/1205279.png",
+"id": 75769,
+"level": 0,
+"name": "Essence of Artistry",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEZKAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/27150FA5227AF20FC690A6D30E65483D5435419D/1205277.png",
+"id": 75801,
+"level": 0,
+"name": "Essence of Meteorology",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGjKAEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/70040AF708CBE06E03FEF9D5ED219A01A29F0E32/1205253.png",
+"id": 75939,
+"level": 0,
+"name": "Essence of Technology",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGwKAEA]",
+"description": "Used to craft Axes and Maces.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A316A101B264354A04087F902977F35108480FAF/1205748.png",
+"id": 75952,
+"level": 0,
+"name": "Experimental Mace Haft",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 13
+},
+{
+"chat_link": "[&AgHxKAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/10436E7306ED4FF0AF0B2B3597D10E263267F859/1205770.png",
+"id": 76017,
+"level": 0,
+"name": "Experimental Trident Head",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFVKQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/06389E7AB61FB3920AE0C9D373E906AC1D3D0EEC/1205766.png",
+"id": 76117,
+"level": 0,
+"name": "Experimental Sword Blade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgG9KQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C7726EBC15F512CD725F5CC8A82CBB3EA29852D2/1205772.png",
+"id": 76221,
+"level": 0,
+"name": "Experimental Warhorn Mouthpiece",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFyKgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5F2B5C42B2405BE16E283AADD7BED2D8D1593E6A/1205755.png",
+"id": 76402,
+"level": 0,
+"name": "Experimental Rifle Stock",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEGLAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2A69405FC152ECB3B638920FE808F23B232E7052/1205279.png",
+"id": 76806,
+"level": 0,
+"name": "Essence of Concoctions",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgHCLAEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3C1F16E80402A54C77CC6F353106755E75C2C2B9/1205750.png",
+"id": 76994,
+"level": 0,
+"name": "Experimental Nightsword Blade",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEALQEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E07F737626AA389D29B777DF20C77709C77EBB3E/1205745.png",
+"id": 77056,
+"level": 0,
+"name": "Experimental Horn",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgGGLQEA]",
+"description": "Use this essence to craft a first-tier precursor.",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7BAA9FCF39D45BFDFF9A3FD8C20CCCBFBA18C818/1205285.png",
+"id": 77190,
+"level": 0,
+"name": "Essence of Ancient Mysticism",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgEiMgEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/745843ED0DDB3B743C58E7CB357C9FB8C9D3BCA4/1423948.png",
+"id": 78370,
+"level": 0,
+"name": "Hunter's Short-Bow String",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFdMwEA]",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D4E0B260B9224217F211EB469F5A756D71B0F2B/1205266.png",
+"id": 78685,
+"level": 0,
+"name": "Essence of the Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgF9MwEA]",
+"description": "",
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F4C254E200A02D95BAA4A6800CB98F4AF984E51/1423947.png",
+"id": 78717,
+"level": 0,
+"name": "Hunter's Short-Bow Stave",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 66
+},
+{
+"chat_link": "[&AgFURQEA]",
+"description": "Used in crafting rare Crystal Desert gear and components.\nAlso sought after by Priory Researcher Elisa.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DFA737F4360575AFCF7BDD470B9DF3140EF45530/1767170.png",
+"id": 83284,
+"level": 0,
+"name": "Ley-Infused Sand",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEtRwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7EE737D8FFC9B1DB04D4AF2C973150C92897E2A5/1767537.png",
+"id": 83757,
+"level": 0,
+"name": "Congealed Putrescence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGvegEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D4AAF271369F309BDD1363A2C64C79725B0131F5/2594830.png",
+"id": 96943,
+"level": 65,
+"name": "Flavorful Fish Fillet",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19718,19719,19742,19743,19983,24278,24284,24290,24296,24302,24307,24312,24317,24322,24327,24332,24337,24342,24346,24352,24472,24503,24504,24507,24527,24535,70290,70466,70493,70545,70658,70730,70868,70874,70952,70977,71036,71110,71437,71852,71873,71932,72017,72268,72337,72403,72498,72589,72627,72679,72743,72766,72846,73013,73111,73140,73332,73397,73440,73671,73748,73753,74031,74061,74161,74162,74218,74293,74544,74643,74717,74798,74840,75043,75228,75289,75296,75330,75524,75769,75801,75939,75952,76017,76117,76221,76402,76806,76994,77056,77190,78370,78685,78717,83284,83757,96943"
+}

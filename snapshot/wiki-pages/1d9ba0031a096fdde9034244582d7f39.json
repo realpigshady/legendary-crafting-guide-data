@@ -1,0 +1,5 @@
+{
+"revid": 2673337,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 70952\n| requires = hot\n}}\n\n[[Experimental Axe Haft]] is a [[Component|crafting component]] used in making both [[The Device]] and the [[Tooth of Frostfang Experiment]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Axe Haft (Exotic)\n| id = 11627\n| source = recipe sheet\n| sheet = Box of Recipes: The Device; Box of Recipes: Tooth of Frostfang (First Tier)\n| type = Legendary Component\n| disciplines = weaponsmith\n| rating = 450\n| ingredient1 = 10 Spiritwood Plank\n| ingredient2 = 50 Memory of Battle\n| ingredient3 = 50 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimenteller Axtstiel]]\n[[es:Mango para hacha experimetal]]\n[[fr:Manche de hache expérimental]]",
+"title": "Experimental Axe Haft"
+}

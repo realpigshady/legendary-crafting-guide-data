@@ -1,0 +1,5 @@
+{
+"revid": 2843556,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Mace\n| skin = The Energizer Experiment (skin)\n| set = Experimental weapons\n| collection = The Moot II: The Perfected Mace\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| requires = hot\n| salvage = Standard\n| id = 70610\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Energizer (First Tier)\n| disciplines = weaponsmith\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of the Hunt (mace)\n| ingredient2 = 1 Experimental Mace Head\n| ingredient3 = 1 Experimental Mace Haft\n| ingredient4 = 1 Legendary Inscription\n| id = 11160\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of The Energizer Experiment}}\n\n{{Experimental weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Energetisierer-Experiment]]\n[[es:Experimento \"El Energizador\"]]\n[[fr:Prototype de l'Énergiseur]]",
+"title": "The Energizer Experiment"
+}

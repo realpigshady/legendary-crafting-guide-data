@@ -179,3 +179,27 @@ def test_recipe_source_spellings():
     r = wp.parse_recipe({"source": "mystic", "ingredient1": "1 Gift of Energy"})
     assert r["kind"] == "mystic_forge"
     assert wp.parse_recipe({"source": "sheet", "ingredient1": "1 Mithril Ingot"})["kind"] == "craft"
+
+
+def test_salvage_yield_reads_the_parent_page():
+    staff = "== Salvages into ==\n* {{salvages into|Spirit of the Ravenswood Staff}}\n"
+    assert wp.salvage_yield(staff, "Spirit of the Ravenswood Staff") == 1
+    upper = ("* {{salvages into|Ball of Dark Energy}} (9)\n* {{salvages into|Spirit of the Upper Bound}}\n"
+             "* {{salvages into|1 Agony Infusion}} (5-9)\n* {{salvages into|Salvaged Dignity}} (extremely rare chance)\n")
+    assert wp.salvage_yield(upper, "Ball of Dark Energy") == 9
+    assert wp.salvage_yield(upper, "Agony Infusion") == 5            # a range counts its low end
+    assert wp.salvage_yield(upper, "Salvaged Dignity") is None       # a chance is not a source
+    reclaimed = "* {{salvages into|Reclaimed Metal Plate}} <small>(rare chance from fine variants)</small>"
+    assert wp.salvage_yield(reclaimed, "Reclaimed Metal Plate") is None
+    assert wp.salvage_yield(staff, "Spirit of the Ravenswood Branch") is None
+
+
+def test_salvage_counts_set_or_drop_the_source():
+    w = wp.Walk()
+    w.salvage_text = {"Ravenswood Staff": "* {{salvages into|Spirit of the Ravenswood Staff}}", "Odd": "no salvage lines"}
+    sv = lambda p: {"kind": "vendor", "inputs": [{"node_id": "@" + p, "count": 1}], "open_container": True, "salvage": True, "output_count": 1}
+    w.nodes = {"item:73266": {"id": "item:73266", "name": "Spirit of the Ravenswood Staff", "sources": [sv("Ravenswood Staff")]},
+               "item:1": {"id": "item:1", "name": "Thing", "sources": [sv("Odd")]}}
+    wp._salvage_counts(w)
+    assert w.nodes["item:73266"]["sources"][0]["output_count"] == 1
+    assert w.nodes["item:1"]["sources"] == [{"kind": "other", "inputs": []}] and "no source: Thing" in w.warnings

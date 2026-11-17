@@ -1,0 +1,5 @@
+{
+"revid": 2843552,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Focus\n| skin = The Bard Experiment (skin)\n| set = Experimental weapons\n| collection = The Minstrel II: The Perfected Focus\n| rarity = exotic\n| level = 80\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| salvage = Standard\n| id = 72167\n| requires = hot\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Bard (First Tier)\n| disciplines = artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Chickens and Eggs\n| ingredient2 = 1 Experimental Focus Core\n| ingredient3 = 1 Experimental Focus Casing\n| ingredient4 = 1 Legendary Inscription\n| id = 11574\n}}\n\n== Salvage ==\n* {{salvages into|Spirit of The Bard Experiment}}\n\n{{Experimental weapons nav|1}}\n{{collection nav}}\n\n[[de:Barde-Experiment]]\n[[es:Experimento \"El Bardo\"]]\n[[fr:Prototype du Barde]]",
+"title": "The Bard Experiment"
+}

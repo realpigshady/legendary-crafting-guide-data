@@ -1,0 +1,5 @@
+{
+"revid": 2562671,
+"text": "{{Otheruses|the legendary collection container|the daily achievement container|Chest of Fish (daily)}}\n{{Item infobox\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Fish]] and recipes for first-tier [[Rage (weapon)|Rage]].\n| id = 74591\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Fish}}\n\n== Contents ==\n* {{contains|Essence of Fish|chance=guaranteed}}\n* {{contains|Box of Recipes: Rage (First Tier)|chance=guaranteed}}\n\n[[de:Truhe des Fisches]]\n[[es:Cofre de pez]]\n[[fr:Coffre de poisson]]",
+"title": "Chest of Fish"
+}

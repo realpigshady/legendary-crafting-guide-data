@@ -1,0 +1,5 @@
+{
+"revid": 2562666,
+"text": "{{Item infobox\n| icon = Chest of Concoctions.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the [[Essence of Audacity]] and recipes for first-tier [[Chaos Gun]].\n| id = 71499\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Chest of Audacity}}\n\n== Contents ==\n* {{contains|Essence of Audacity|chance=guaranteed}}\n* {{contains|Box of Recipes: Chaos Gun (First Tier)|chance=guaranteed}}\n\n[[de:Truhe des Wagemuts]]\n[[es:Cofre de osadía]]\n[[fr:Coffre d'audace]]",
+"title": "Chest of Audacity"
+}

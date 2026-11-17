@@ -1,0 +1,5 @@
+{
+"revid": 2567242,
+"text": "{{Item infobox\n| icon = Tricks and Tips for Mechanical Pistol Crafting.png\n| type = container\n| rarity = exotic\n| bound = account\n| description = Contains the book \"[[Expertise in Pistol Crafting]]\" and recipes for second-tier [[Chaos Gun]].\n| id = 76235\n| value = 264\n| requires = hot\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Advanced Pistol Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Pistol Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: Chaos Gun (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung von Hochentwickelten Pistolen]]\n[[es:Trucos y consejos para la fabricación avanzada de pistolas]]\n[[fr:Trucs et astuces pour la fabrication avancée de pistolets]]",
+"title": "Tricks and Tips for Advanced Pistol Crafting"
+}

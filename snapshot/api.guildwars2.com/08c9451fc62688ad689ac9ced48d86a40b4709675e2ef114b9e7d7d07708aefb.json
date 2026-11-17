@@ -1,0 +1,3780 @@
+{
+"body": [
+{
+"chat_link": "[&AgH4TAAA]",
+"description": "Used with Copper Ore to refine Bronze Ingots. Can be purchased from Master Craftsmen.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B2705275944046734E4079651E6BB0CC0EEB3943/65932.png",
+"id": 19704,
+"level": 0,
+"name": "Lump of Tin",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgH+TAAA]",
+"description": "Refined from Logs.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0DF93CAB2913940F5FD44FF66EF309632125DB28/65936.png",
+"id": 19710,
+"level": 0,
+"name": "Green Wood Plank",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEITQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/B7BA22DDCF0F4277A692D5D75271F9491AC303AD/63573.png",
+"id": 19720,
+"level": 0,
+"name": "Bolt of Jute",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEQTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ACB203A4381C7B690A7C9BAA2EFEBD01A418E3AD/65945.png",
+"id": 19728,
+"level": 0,
+"name": "Thin Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 3
+},
+{
+"chat_link": "[&AgESTQAA]",
+"description": "Refine into Squares.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BDAA40E3795930BBF3DC5ACE366ABAE2D5BBFB2/65947.png",
+"id": 19730,
+"level": 0,
+"name": "Coarse Leather Section",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEaTQAA]",
+"description": "Refined from Sections.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6E0F2811CBEA77DF5344499E6B4C01673EE6DAC9/65955.png",
+"id": 19738,
+"level": 0,
+"name": "Stretched Rawhide Leather Square",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 2
+},
+{
+"chat_link": "[&AgEgTQAA]",
+"description": "Refined from Scraps.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7CD96276BF2094F5A17EB520DAA5123F04023102/63575.png",
+"id": 19744,
+"level": 0,
+"name": "Bolt of Linen",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEkTQAA]",
+"description": "Refine into Bolts.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/021DA825F2092327B1C6BC09EC77BD5DE5B4770D/65961.png",
+"id": 19748,
+"level": 0,
+"name": "Silk Scrap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 7
+},
+{
+"chat_link": "[&AgH+WQAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. Has a small chance of salvaging upgrades.",
+"details": {
+"charges": 15,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9F09ACD431CE4906631E271E650ABB0454F90705/63123.png",
+"id": 23038,
+"level": 0,
+"name": "Crude Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgEAWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 10% chance of rarer materials. 20% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F0B4025A23D3D1ADE0466FFEAA7023D8EFD8422C/66765.png",
+"id": 23040,
+"level": 0,
+"name": "Basic Salvage Kit",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 11
+},
+{
+"chat_link": "[&AgEBWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 15% chance of rarer materials. 40% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CA01D91B20EB19359FFF313C6DC5C2480A0872B0/66766.png",
+"id": 23041,
+"level": 0,
+"name": "Fine Salvage Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 36
+},
+{
+"chat_link": "[&AgECWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 20% chance of rarer materials. 60% chance of salvaging upgrades.",
+"details": {
+"charges": 25,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7902452AAF4824D66ED0A914CB1C0864D33A116F/66767.png",
+"id": 23042,
+"level": 0,
+"name": "Journeyman's Salvage Kit",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 100
+},
+{
+"chat_link": "[&AgEFWgAA]",
+"description": "Double-click to salvage crafting materials from an item in your inventory. 25% chance of rarer materials. 80% chance of salvaging upgrades.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5FE549CF38CE536D730631CE2EDEC7F95575B3DB/2699840.png",
+"id": 23045,
+"level": 0,
+"name": "Mystic Salvage Kit",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 192
+},
+{
+"chat_link": "[&AgHXXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0C04FDFF465A682BB080F272E9DB3DBC0637113D/66935.png",
+"id": 24279,
+"level": 0,
+"name": "Small Venom Sac",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHdXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EE0C5C5917BE5B0F1569134E40E80399FFC73E17/66941.png",
+"id": 24285,
+"level": 0,
+"name": "Small Scale",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHjXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3008755732C166F3ACF87CC044779C5D95D25896/66946.png",
+"id": 24291,
+"level": 0,
+"name": "Vial of Thin Blood",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHpXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABE928F56C08C9ED47664948EB30A25B08DC5DEF/66952.png",
+"id": 24297,
+"level": 0,
+"name": "Small Totem",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgHvXgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/306AB62DEBCD6D02113CD0730BDC6F95BA9B9AC4/65587.png",
+"id": 24303,
+"level": 0,
+"name": "Charged Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH0XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F0C133B3E8FADB3C070DA35C015551A7E50692F8/66961.png",
+"id": 24308,
+"level": 0,
+"name": "Onyx Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH5XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F7A947B33B0710FF2D34EAD478E7C9C430A4CFE4/66966.png",
+"id": 24313,
+"level": 0,
+"name": "Molten Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgH+XgAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C3FD9D339FFF55543CB33643C91B0E4BA9D2F4A4/65591.png",
+"id": 24318,
+"level": 0,
+"name": "Glacial Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEDXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/51F010BBE69639210416F8E436C00177670C5847/66974.png",
+"id": 24323,
+"level": 0,
+"name": "Destroyer Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEIXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2EDD405D1DF17EB01192982A3F9CF59090D7A617/65590.png",
+"id": 24328,
+"level": 0,
+"name": "Crystal Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgENXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A87CFBBE42926064C2F6399F68BE06B23FA53109/63275.png",
+"id": 24333,
+"level": 0,
+"name": "Pile of Filthy Essence",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgESXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/08AF9D2A7576FA66BEC322A859ADA0DFF7BA4B0E/66984.png",
+"id": 24338,
+"level": 0,
+"name": "Corrupted Shard",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 32
+},
+{
+"chat_link": "[&AgEXXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E2EC91117128DC5BC0B0FA0267EBBC2429B3556F/66989.png",
+"id": 24343,
+"level": 0,
+"name": "Bone Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgEbXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4CFEC931B41FA0092E5C9B6F240FE1F64E2F5247/66993.png",
+"id": 24347,
+"level": 0,
+"name": "Small Claw",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgEhXwAA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/58E20991EB9BA6D4954DAFC6AF4B3CE3C8EB7116/220904.png",
+"id": 24353,
+"level": 0,
+"name": "Small Fang",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 5
+},
+{
+"chat_link": "[&AgG6XwAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Precision",
+"modifier": 5
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 7
+}
+],
+"buff": {
+"description": "+7 Condition Damage\n+5 Precision",
+"skill_id": 76
+},
+"id": 134
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Topaz",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/20F826D4C42F7A9B9FCC122C0C80D8DA0AB9AE45/220945.png",
+"id": 24506,
+"level": 35,
+"name": "Topaz Lump",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 34
+},
+{
+"chat_link": "[&AgEmYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Vitality",
+"modifier": 8
+},
+{
+"attribute": "ConditionDamage",
+"modifier": 11
+}
+],
+"buff": {
+"description": "+11 Condition Damage\n+8 Power\n+8 Vitality",
+"skill_id": 276
+},
+"id": 485
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Chrysocola",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/6B2F59D4A0C2F0C0CB3C66B2FF677D1B19AA996B/221171.png",
+"id": 24870,
+"level": 50,
+"name": "Chrysocola Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEnYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Precision",
+"modifier": 11
+},
+{
+"attribute": "Toughness",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Precision\n+8 Toughness\n+8 Power",
+"skill_id": 294
+},
+"id": 503
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Emerald",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ABC7A420B199269CA97CD45BA595387D46362C5A/221172.png",
+"id": 24871,
+"level": 50,
+"name": "Emerald Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEoYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 11
+},
+{
+"attribute": "Vitality",
+"modifier": 8
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Power\n+8 Ferocity\n+8 Vitality",
+"skill_id": 296
+},
+"id": 505
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Beryl",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AE93DE9F1BDFEF18A63D9163B0EA3E5632BFF939/221173.png",
+"id": 24872,
+"level": 50,
+"name": "Beryl Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgEpYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 11
+},
+{
+"attribute": "Precision",
+"modifier": 8
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Power\n+8 Ferocity\n+8 Precision",
+"skill_id": 288
+},
+"id": 497
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Ruby",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94FF174423B920D7D10BD70F9A08EB34B5FA47DA/221174.png",
+"id": 24873,
+"level": 50,
+"name": "Ruby Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgErYQAA]",
+"description": "Double-click to apply to an item with an unused upgrade slot.",
+"details": {
+"attribute_adjustment": 0,
+"flags": [
+"ShortBow",
+"HeavyArmor",
+"LightArmor",
+"Dagger",
+"MediumArmor",
+"Focus",
+"Greatsword",
+"Hammer",
+"Trinket",
+"Harpoon",
+"Mace",
+"Pistol",
+"Rifle",
+"Scepter",
+"Shield",
+"Speargun",
+"Axe",
+"Staff",
+"Sword",
+"Torch",
+"Trident",
+"Warhorn",
+"LongBow"
+],
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 8
+},
+{
+"attribute": "Precision",
+"modifier": 11
+},
+{
+"attribute": "CritDamage",
+"modifier": 8
+}
+],
+"buff": {
+"description": "+11 Precision\n+8 Ferocity\n+8 Power",
+"skill_id": 286
+},
+"id": 495
+},
+"infusion_upgrade_flags": [],
+"suffix": "of Opal",
+"type": "Gem"
+},
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/EB9C9C6F061D545F2EA4EF07C8436AEF0CDE0E90/221176.png",
+"id": 24875,
+"level": 50,
+"name": "Opal Shard",
+"rarity": "Fine",
+"restrictions": [],
+"type": "UpgradeComponent",
+"vendor_value": 45
+},
+{
+"chat_link": "[&AgHGjAAA]",
+"description": "Double-click to open.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"NoSalvage",
+"BulkConsume"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E6017363449406DEE3DD3B80263AA2A91716F1DE/499375.png",
+"id": 36038,
+"level": 0,
+"name": "Trick-or-Treat Bag",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgGIlAAA]",
+"description": "Earned by playing Fractals of the Mists scales 51–100.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7DB2AB514CB9ACC219457DC1AEAB340BD578644F/512007.png",
+"id": 38024,
+"level": 0,
+"name": "Shard of Crystallized Mists Essence",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"upgrades_into": [
+{
+"item_id": 89597,
+"upgrade": "Infusion"
+},
+{
+"item_id": 87884,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104804,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104681,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75943,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74343,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84095,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75438,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70979,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75277,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70554,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82505,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83675,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75079,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71065,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74744,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76921,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73560,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73813,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76557,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73281,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84778,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75175,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74364,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71726,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75315,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72591,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72932,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74097,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73756,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74029,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75669,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82373,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82585,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76936,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76504,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71346,
+"upgrade": "Infusion"
+},
+{
+"item_id": 73083,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84212,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75355,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72423,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84313,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70595,
+"upgrade": "Infusion"
+},
+{
+"item_id": 82705,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75156,
+"upgrade": "Infusion"
+},
+{
+"item_id": 71795,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72171,
+"upgrade": "Infusion"
+},
+{
+"item_id": 75312,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76024,
+"upgrade": "Infusion"
+},
+{
+"item_id": 84577,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76809,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83321,
+"upgrade": "Infusion"
+},
+{
+"item_id": 70695,
+"upgrade": "Infusion"
+},
+{
+"item_id": 74646,
+"upgrade": "Infusion"
+},
+{
+"item_id": 72016,
+"upgrade": "Infusion"
+},
+{
+"item_id": 83525,
+"upgrade": "Infusion"
+},
+{
+"item_id": 76823,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97237,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86599,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86419,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86624,
+"upgrade": "Infusion"
+},
+{
+"item_id": 86478,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104797,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104868,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96126,
+"upgrade": "Infusion"
+},
+{
+"item_id": 95737,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96725,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97834,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96269,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96120,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97708,
+"upgrade": "Infusion"
+},
+{
+"item_id": 97520,
+"upgrade": "Infusion"
+},
+{
+"item_id": 96368,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104802,
+"upgrade": "Infusion"
+},
+{
+"item_id": 104864,
+"upgrade": "Infusion"
+}
+],
+"vendor_value": 79
+},
+{
+"chat_link": "[&AgHylAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/99E8B669F94A3ED511B84AEDDF970E3A6057EDC2/526240.png",
+"id": 38130,
+"level": 0,
+"name": "Tiny Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 6
+},
+{
+"chat_link": "[&AgHzlAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29FFF132F428A46D0F64DF31720A3E574E5DA177/526241.png",
+"id": 38131,
+"level": 0,
+"name": "Delicate Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 10
+},
+{
+"chat_link": "[&AgH0lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/624467FA340D2461C95F1168D765901BAFFBBEA8/526242.png",
+"id": 38132,
+"level": 0,
+"name": "Glittering Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 14
+},
+{
+"chat_link": "[&AgH1lAAA]",
+"description": "Double-click to convert into Snowflakes.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"NoSalvage",
+"NoSell",
+"BulkConsume"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/74D6ABFA685AB25923B20100FBD6C5FD0CD55915/526243.png",
+"id": 38133,
+"level": 0,
+"name": "Unique Snowflake",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 18
+},
+{
+"chat_link": "[&AgF3sAAA]",
+"description": "Double-click to gain 10 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1BF5D192EE5DAF97A7F4090461C450DA00F8FFAC/631148.png",
+"id": 45175,
+"level": 0,
+"name": "Fine Essence of Luck",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgF4sAAA]",
+"description": "Double-click to gain 50 luck.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07450110280000435FBA2B4BE57DE6DCE86E22AC/631149.png",
+"id": 45176,
+"level": 0,
+"name": "Masterwork Essence of Luck",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGNtgAA]",
+"description": "Refine into dragonite ingots.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D53E69EFB3AFF4C85CC370AA32F1A6A61C03CCE8/631482.png",
+"id": 46733,
+"level": 0,
+"name": "Dragonite Ore",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgGPtgAA]",
+"description": "Refine into empyreal stars.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE4779014F27DE027BDBE761607B220923DB03D5/631484.png",
+"id": 46735,
+"level": 0,
+"name": "Empyreal Fragment",
+"rarity": "Ascended",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 80
+},
+{
+"chat_link": "[&AgFQDQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/38C83A6073EADFF39E0FA0AE59C822A79DBEF6E1/1202990.png",
+"id": 68944,
+"level": 0,
+"name": "Auric Sliver",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGmEwEA]",
+"default_skin": 6432,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 926,
+"min_power": 789,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Torch"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/34050519A3651533DA95EDEB31D1BCE5A84ED44A/1206942.png",
+"id": 70566,
+"level": 80,
+"name": "Rodgort's Flame Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHSEwEA]",
+"default_skin": 6314,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1010,
+"min_power": 895,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Mace"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/9C4157B2D9316F5DA4B203DA129153DD9FFAB45D/1203209.png",
+"id": 70610,
+"level": 80,
+"name": "The Energizer Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHFFAEA]",
+"default_skin": 6311,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1100,
+"min_power": 995,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/74F1FBAE0D0D500B9D4CB8DA08E56E674AD4A0CC/1202501.png",
+"id": 70853,
+"level": 80,
+"name": "Dawn Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgEwFQEA]",
+"default_skin": 6237,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1029,
+"min_power": 876,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F60EA9C434BCF8CC93E121BE6792071962FA474E/1204312.png",
+"id": 70960,
+"level": 80,
+"name": "Research",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFNFQEA]",
+"default_skin": 6184,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1048,
+"min_power": 857,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7D61521845AA52CA519C230BCA0B79614FBFEA23/1200341.png",
+"id": 70989,
+"level": 80,
+"name": "The Device",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGmFQEA]",
+"default_skin": 6494,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1205,
+"min_power": 986,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Rifle"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95DE0DF447F9BB095B190E9D1F0FB4BE42CFC943/1205859.png",
+"id": 71078,
+"level": 80,
+"name": "The Hunter Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgGxFgEA]",
+"default_skin": 6310,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 900,
+"min_power": 814,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Warhorn"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C22C410EB8626576CE903F7B400EC5F715DF0BB6/1207286.png",
+"id": 71345,
+"level": 80,
+"name": "Howl Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEFFwEA]",
+"description": "Contains the book \"Expertise in Dagger Crafting\" and recipes for second-tier Spark.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/07036F044E0E6BB361B5EABBAAF6DFBD75AF0190/1204738.png",
+"id": 71429,
+"level": 0,
+"name": "Tricks and Tips for Advanced Dagger Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFsGAEA]",
+"description": "Contains the book \"Expertise in Trident Crafting\" and recipes for second-tier Venom.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/05A3AB6BC31F91A95CED2D5EA4AF2AC0B7A29B9D/1204786.png",
+"id": 71788,
+"level": 0,
+"name": "Tricks and Tips for Advanced Trident Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFcGQEA]",
+"description": "Contains the book \"Expertise in Mace Crafting\" and recipes for second-tier The Energizer.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FB77E4D90EF9A04543F75CC86D5194802B7E6354/1204756.png",
+"id": 72028,
+"level": 80,
+"name": "Tricks and Tips for Legendary Mace Crafting",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 198
+},
+{
+"chat_link": "[&AgGkGQEA]",
+"description": "Contains the book \"Expertise in Nightsword Crafting\" and recipes for second-tier Dusk.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDFAB1E7C62D02C9682D4308772A08099D48C2A4/1204744.png",
+"id": 72100,
+"level": 0,
+"name": "Tricks and Tips for Advanced Nightsword Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGvGQEA]",
+"description": "Contains the book \"Expertise in Daysword Crafting\" and recipes for second-tier Dawn.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FDFAB1E7C62D02C9682D4308772A08099D48C2A4/1204744.png",
+"id": 72111,
+"level": 0,
+"name": "Tricks and Tips for Advanced Daysword Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHnGQEA]",
+"default_skin": 6245,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 883,
+"min_power": 832,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Focus"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F8E1FBBDEBFE96DDE52ED4D26A2FB9E737971620/1201241.png",
+"id": 72167,
+"level": 80,
+"name": "The Bard Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgG1GwEA]",
+"default_skin": 6327,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Trident"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/5C3216C03C7DDBF925A566B4C5F4CF03093A1E17/1207097.png",
+"id": 72629,
+"level": 80,
+"name": "Venom Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgEsHAEA]",
+"default_skin": 6282,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Harpoon"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7FA02AFB476C24D0A505E5E8D1905C2878B4D443/1204388.png",
+"id": 72748,
+"level": 80,
+"name": "Carcharias Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgF7HAEA]",
+"default_skin": 6182,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 981,
+"min_power": 924,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Dagger"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7DAE7831C15C03EA2CE5D7E149C1AC26AE369609/1202161.png",
+"id": 72827,
+"level": 80,
+"name": "Spark Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEKHQEA]",
+"description": "Contains the book \"Expertise in Spear Crafting\" and recipes for second-tier Carcharias.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/92099603DEA02DD02BD2313A0646460279A1CA0C/1204774.png",
+"id": 72970,
+"level": 0,
+"name": "Tricks and Tips for Advanced Spear Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgErHQEA]",
+"description": "Contains the book \"Expertise in Shield Crafting\" and recipes for the second-tier shield The Chosen.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95224921B31B2CD0D093B4F966F016B39CC92168/1204768.png",
+"id": 73003,
+"level": 0,
+"name": "Tricks and Tips for Advanced Shield Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgF/HQEA]",
+"default_skin": 6480,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Speargun"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D14609D06B0DC4DC72AC7B6367CAD963EE71406B/1206338.png",
+"id": 73087,
+"level": 80,
+"name": "Rage Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgGmHgEA]",
+"default_skin": 6324,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1080,
+"min_power": 920,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "LongBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A832BBDD64567A33AA0DFB6D65430E41E2A014FF/1201002.png",
+"id": 73382,
+"level": 80,
+"name": "Kudzu Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgHXHgEA]",
+"default_skin": 6157,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1111,
+"min_power": 985,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/264302F9A509499ACE66E210DC0F74A2EE12AC43/1206416.png",
+"id": 73431,
+"level": 80,
+"name": "The Legend Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgHqHwEA]",
+"description": "Contains the book \"Expertise in Advanced Axe Crafting\" and a Recipe: The Apparatus.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/964BB980EDA944E3FE103C23AA066A77ACC94270/1204735.png",
+"id": 73706,
+"level": 0,
+"name": "Tricks and Tips for Celestial Axe Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFtIQEA]",
+"default_skin": 6400,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Sword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/54E7B7EB140623986E3EF3117F7C9AE9635D1705/1206673.png",
+"id": 74093,
+"level": 80,
+"name": "Zap Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFuIQEA]",
+"description": "Contains the book \"Expertise in Staff Crafting\" and recipes for second-tier The Legend.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BD9518026DDAF6354CC2E47B60D5A94F39E0BA5/1204777.png",
+"id": 74094,
+"level": 0,
+"name": "Tricks and Tips for Advanced Staff Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGNIQEA]",
+"description": "Contains the book \"Expertise in Scepter Crafting\" and recipes for second-tier Storm.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BC5AADB1F02510C9AC3C2736D13EC4532E994599/1204765.png",
+"id": 74125,
+"level": 0,
+"name": "Tricks and Tips for Advanced Scepter Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGzIQEA]",
+"default_skin": 6483,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1111,
+"min_power": 985,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Hammer"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/751BCEEBC937E2AB214E9863FA2C296FC75B2830/1202815.png",
+"id": 74163,
+"level": 80,
+"name": "The Colossus Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgH+IQEA]",
+"description": "Contains the book \"Expertise in Rifle Crafting\" and recipes for second-tier The Hunter.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/35FD5D176D9EB31DD3470FF69A5A15E269F1327C/1204762.png",
+"id": 74238,
+"level": 0,
+"name": "Tricks and Tips for Advanced Rifle Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEjIgEA]",
+"default_skin": 6223,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 61,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 909,
+"min_power": 806,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Shield"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE7DB254B0E27577A9EEFE7F2372DEA9ADBC1077/1206321.png",
+"id": 74275,
+"level": 80,
+"name": "The Chosen Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGvIgEA]",
+"description": "Contains the book \"Expertise in Focus Crafting\" and recipes for second-tier The Bard.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0B0E5749BDCEF47EA3DF13C2F39ACEDCC6126808/1204741.png",
+"id": 74415,
+"level": 0,
+"name": "Tricks and Tips for Advanced Focus Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGfIwEA]",
+"default_skin": 6278,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1010,
+"min_power": 895,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Scepter"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4F12E098EDD12E91104A58385FD458EFF2136C1D/1206124.png",
+"id": 74655,
+"level": 80,
+"name": "Storm Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgG6IwEA]",
+"description": "Contains the book \"Expertise in Mechanical Pistol Crafting\" and a Recipe: Development.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7FFC561505239DDCA20E5ACE0E39B7210DAEB802/1204759.png",
+"id": 74682,
+"level": 0,
+"name": "Tricks and Tips for Mechanical Pistol Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgE/JAEA]",
+"description": "Contains the book \"Expertise in Harpoon Gun Crafting\" and recipes for second-tier Rage.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/030D04E83A0757FF3A0D9265F112675752D0B45F/1204750.png",
+"id": 74815,
+"level": 0,
+"name": "Tricks and Tips for Advanced Harpoon Gun Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGXJgEA]",
+"description": "Contains the book \"Expertise in Axe Crafting\" and recipes for second-tier Tooth of Frostfang.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/964BB980EDA944E3FE103C23AA066A77ACC94270/1204735.png",
+"id": 75415,
+"level": 0,
+"name": "Tricks and Tips for Advanced Axe Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHLJgEA]",
+"default_skin": 6330,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1111,
+"min_power": 985,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Staff"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0538015EA723A0A8E06311CFA2AC45F4FCD1B8AC/1206520.png",
+"id": 75467,
+"level": 80,
+"name": "Ravenswood Branch",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgEhJwEA]",
+"description": "Contains the book \"Expertise in Short Bow Crafting\" and recipes for second-tier The Lover.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E79250DA2A91D9937FF61795C4EC4A4EE4A4AC43/1204771.png",
+"id": 75553,
+"level": 0,
+"name": "Tricks and Tips for Advanced Short Bow Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEsJwEA]",
+"description": "Contains the book \"Expertise in Warhorn Crafting\" and recipes for second-tier Howl.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/DE0ADA0CB26F97FF714614E9713134B03AFC79DB/1204789.png",
+"id": 75564,
+"level": 0,
+"name": "Tricks and Tips for Advanced Warhorn Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFAJwEA]",
+"description": "Contains the book \"Expertise in Longbow Crafting\" and recipes for second-tier Leaf of Kudzu.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1A2D04140B4CC1D807C552AB045CD07CEB9701F2/1204753.png",
+"id": 75584,
+"level": 0,
+"name": "Tricks and Tips for Advanced Longbow Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFIJwEA]",
+"default_skin": 6473,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1100,
+"min_power": 995,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Greatsword"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/41935AA2B7019645F4CB507EE93500FDEF1F39E7/1202438.png",
+"id": 75592,
+"level": 80,
+"name": "Dusk Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgFGKAEA]",
+"default_skin": 6490,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1029,
+"min_power": 876,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Pistol"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/28D1BD7D94CC736E41017945CD94F12D730EB927/1204321.png",
+"id": 75846,
+"level": 80,
+"name": "Chaos Gun Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgFzKAEA]",
+"description": "Contains the book \"Expertise in Sword Crafting\" and recipes for second-tier Zap.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/493CD60790BCDB9045407FC2F4B8C74DAD4A3F78/1204780.png",
+"id": 75891,
+"level": 0,
+"name": "Tricks and Tips for Advanced Sword Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHLKQEA]",
+"description": "Contains the book \"Expertise in Pistol Crafting\" and recipes for second-tier Chaos Gun.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7FFC561505239DDCA20E5ACE0E39B7210DAEB802/1204759.png",
+"id": 76235,
+"level": 0,
+"name": "Tricks and Tips for Advanced Pistol Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgHPKQEA]",
+"description": "Contains the book \"Expertise in Torch Crafting\" and recipes for second-tier Rodgort's Flame.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F8A54E3C5E09B22B6408CA2F11BADCF4F2CA0F4C/1204783.png",
+"id": 76239,
+"level": 0,
+"name": "Tricks and Tips for Advanced Torch Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgGkKwEA]",
+"description": "Refined from planks.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BDA73F5C71D3FBA4A609E1906554034095693898/1201901.png",
+"id": 76708,
+"level": 0,
+"name": "Green Wood Pulp",
+"rarity": "Fine",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 4
+},
+{
+"chat_link": "[&AgH7KwEA]",
+"default_skin": 6525,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 341.44,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 120
+},
+{
+"attribute": "Precision",
+"modifier": 85
+},
+{
+"attribute": "CritDamage",
+"modifier": 85
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1048,
+"min_power": 857,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "Axe"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F680B9CD990697C7AAD0C4BADA1FF220C07171B/1200392.png",
+"id": 76795,
+"level": 80,
+"name": "Tooth of Frostfang Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEsLAEA]",
+"description": "Contains the book \"Expertise in Runed Staff Crafting\" and a Recipe: Ravenswood Staff.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0BD9518026DDAF6354CC2E47B60D5A94F39E0BA5/1204777.png",
+"id": 76844,
+"level": 0,
+"name": "Tricks and Tips for Runed Staff Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgG3LAEA]",
+"description": "Contains the book \"Expertise in Hammer Crafting\" and recipes for second-tier The Colossus.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/76550EAF429CB233D2796AA2D5E95CE5609B33C3/1204747.png",
+"id": 76983,
+"level": 0,
+"name": "Tricks and Tips for Advanced Hammer Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgEpLQEA]",
+"default_skin": 6238,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/BFBB79F5050BC302EF09955D5E99405BA14A5F79/1200736.png",
+"id": 77097,
+"level": 80,
+"name": "The Lover Experiment",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgH6MQEA]",
+"default_skin": 6702,
+"description": "Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.",
+"details": {
+"attribute_adjustment": 682.88,
+"damage_type": "Physical",
+"defense": 0,
+"infix_upgrade": {
+"attributes": [
+{
+"attribute": "Power",
+"modifier": 239
+},
+{
+"attribute": "Precision",
+"modifier": 171
+},
+{
+"attribute": "CritDamage",
+"modifier": 171
+}
+],
+"id": 161
+},
+"infusion_slots": [],
+"max_power": 1000,
+"min_power": 905,
+"secondary_suffix_item_id": "",
+"suffix_item_id": 24561,
+"type": "ShortBow"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CAA2FD5EAFCBE0B403938072116B20D5376FCD67/1423766.png",
+"id": 78330,
+"level": 80,
+"name": "The Hunt",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Weapon",
+"vendor_value": 396
+},
+{
+"chat_link": "[&AgEzMwEA]",
+"description": "Contains the book \"Expertise in Advanced Short Bow Crafting\" and a Recipe: The Ambush.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/E79250DA2A91D9937FF61795C4EC4A4EE4A4AC43/1204771.png",
+"id": 78643,
+"level": 0,
+"name": "Tricks and Tips for Short Bow Crafting",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 264
+},
+{
+"chat_link": "[&AgH2QgEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0F4EF7DB1576EDEFFF226D9D33E03A566B276662/1767539.png",
+"id": 82678,
+"level": 0,
+"name": "Pulsing Brandspark",
+"rarity": "Rare",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEtRwEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7EE737D8FFC9B1DB04D4AF2C973150C92897E2A5/1767537.png",
+"id": 83757,
+"level": 0,
+"name": "Congealed Putrescence",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGvdQEA]",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/173FA4FBAC687AA5AF4F7E24C5749562B71503C4/2594827.png",
+"id": 95663,
+"level": 80,
+"name": "Fantastic Fish Fillet",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGidgEA]",
+"description": "Double-click to salvage a crafted item for research notes.",
+"details": {
+"charges": 250,
+"type": "Salvage"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/F86C0DBF03CCE774807AD37CFF03A993D519CDF0/2699841.png",
+"id": 95906,
+"level": 0,
+"name": "Research Kit",
+"rarity": "Fine",
+"restrictions": [],
+"type": "Tool",
+"vendor_value": 25
+},
+{
+"chat_link": "[&AgFXkAEA]",
+"description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+"details": {
+"minipet_id": 934
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/94217590333EF92EB7E8A7A8627CA07F16925796/3592779.png",
+"id": 102487,
+"level": 0,
+"name": "Mini Barbed Vale",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgGzlwEA]",
+"description": "Double-click to summon this mini to follow you around. Only one mini may be in use at a time.",
+"details": {
+"minipet_id": 960
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D5F615DF6C92BDFD133BF7B62E5B17E780B5B062/3592782.png",
+"id": 104371,
+"level": 0,
+"name": "Mini Janthir Warg",
+"rarity": "Masterwork",
+"restrictions": [],
+"type": "MiniPet",
+"vendor_value": 50
+},
+{
+"chat_link": "[&AgHblwEA]",
+"description": "Double-click to transform into Yagon.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"NoUnderwater",
+"AccountBindOnUse",
+"Tonic"
+],
+"game_types": [
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/29D9120AF52E9F4890BFC9D149B237653CCA77D0/3592696.png",
+"id": 104411,
+"level": 0,
+"name": "Endless Yagon Tonic",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 104
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=19704,19710,19720,19728,19730,19738,19744,19748,23038,23040,23041,23042,23045,24279,24285,24291,24297,24303,24308,24313,24318,24323,24328,24333,24338,24343,24347,24353,24506,24870,24871,24872,24873,24875,36038,38024,38130,38131,38132,38133,45175,45176,46733,46735,68944,70566,70610,70853,70960,70989,71078,71345,71429,71788,72028,72100,72111,72167,72629,72748,72827,72970,73003,73087,73382,73431,73706,74093,74094,74125,74163,74238,74275,74415,74655,74682,74815,75415,75467,75553,75564,75584,75592,75846,75891,76235,76239,76708,76795,76844,76983,77097,78330,78643,82678,83757,95663,95906,102487,104371,104411"
+}

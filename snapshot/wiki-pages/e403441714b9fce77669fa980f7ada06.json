@@ -1,0 +1,5 @@
+{
+"revid": 2328788,
+"text": "{{Item infobox\n| type = crafting material\n| material type = component\n| rarity = exotic\n| bound = account\n| value = 66\n| id = 75524\n| requires = hot\n}}\n\n[[Experimental Harpoon]] is a [[Component|crafting component]] used in making the [[Rage Experiment]].\n\n== Acquisition ==\n{{recipe\n| name = Experimental Harpoon(Exotic)\n| id = 10319\n| source = recipe sheet\n| sheet = Box of Recipes: Rage (First Tier)\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 450\n| ingredient1 = 1 Spiritwood Plank\n| ingredient2 = 1 Deldrimor Steel Ingot\n| ingredient3 = 5 Memory of Battle\n| ingredient4 = 5 Shard of Glory\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Experimentelle Harpune]]\n[[es:Arpón experimental]]\n[[fr:Harpon expérimental]]",
+"title": "Experimental Harpoon"
+}

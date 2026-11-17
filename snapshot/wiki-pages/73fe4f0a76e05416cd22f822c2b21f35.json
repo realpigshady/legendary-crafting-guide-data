@@ -1,0 +1,5 @@
+{
+"revid": 2567255,
+"text": "{{Item infobox\n| type = container\n| rarity = rare\n| bound = account\n| description = Contains the book \"[[Expertise in Mace Crafting]]\" and recipes for second-tier [[The Energizer]].\n| id = 72028\n| requires = hot\n| value = 264\n}}\n\n== Acquisition ==\n=== Sold by ===\n''The following vendor will only offer this item once the achievement has been completed''\n{{Sold by}}\n\n=== Achievements ===\n{{Achievement list|reward=Tricks and Tips for Legendary Mace Crafting}}\n\n== Contents ==\n* {{contains|Expertise in Mace Crafting|chance=Guaranteed}}\n* {{contains|Box of Recipes: The Energizer (Second Tier)|chance=Guaranteed}}\n\n[[de:Tipps und Tricks zur Herstellung legendärer Streitkolben]]\n[[es:Trucos y consejos para la fabricación de mazas legendarias]]\n[[fr:Conseils et astuces pour fabriquer une masse légendaire]]",
+"title": "Tricks and Tips for Legendary Mace Crafting"
+}

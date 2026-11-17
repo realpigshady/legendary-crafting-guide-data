@@ -1,0 +1,5 @@
+{
+"revid": 2077875,
+"text": "{{Item infobox\n| type = crafting material\n| description = Used to craft Inscriptions which are used in weapon crafting.\n| material type = refinement\n| tier = 5\n| rarity = masterwork\n| id = 12989\n}}\n\n== Acquisition ==\n{{recipe\n| source = automatic\n| id = 38\n| type= Refinement\n| disciplines = artificer, huntsman, weaponsmith\n| rating = 350\n| ingredient1 = 3 Mithril Ingot\n| ingredient2 = 2 Elder Wood Plank\n}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Mithrilgepanzerter Dübel]]\n[[es:Taco blindado de mithril]]\n[[fr:Goujon plaqué de mithril]]",
+"title": "Mithril Plated Dowel"
+}

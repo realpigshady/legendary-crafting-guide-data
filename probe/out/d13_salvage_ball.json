@@ -1,0 +1,1522 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Salvages into::Ball of Dark Energy]]|?Salvages into|?Has canonical name|?Has game id|limit=500"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Salvages into",
+     "key": "Salvages_into",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Asgeir's Amulet": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Stabilizing Matrix",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stabilizing_Matrix",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Excellence",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Excellence",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Asgeir's Amulet"
+      ],
+      "Has game id": [
+       92215
+      ]
+     },
+     "fulltext": "Asgeir's Amulet",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Asgeir%27s_Amulet",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Assaulter's Boots of Dhuum": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Lesser Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Magnetite Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magnetite_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Assaulter's Boots of Dhuum"
+      ],
+      "Has game id": [
+       86147
+      ]
+     },
+     "fulltext": "Assaulter's Boots of Dhuum",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Boots_of_Dhuum",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bleeding Edge Inquest Focus": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Gaeting Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gaeting_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Bleeding Edge Inquest Focus"
+      ],
+      "Has game id": [
+       107118
+      ]
+     },
+     "fulltext": "Bleeding Edge Inquest Focus",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bleeding_Edge_Inquest_Focus",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bleeding Edge Inquest Greatsword": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Gaeting Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gaeting_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Bleeding Edge Inquest Greatsword"
+      ],
+      "Has game id": [
+       107160
+      ]
+     },
+     "fulltext": "Bleeding Edge Inquest Greatsword",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bleeding_Edge_Inquest_Greatsword",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bleeding Edge Inquest Mace": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Gaeting Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gaeting_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Bleeding Edge Inquest Mace"
+      ],
+      "Has game id": [
+       107147
+      ]
+     },
+     "fulltext": "Bleeding Edge Inquest Mace",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bleeding_Edge_Inquest_Mace",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bleeding Edge Inquest Rifle": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Gaeting Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gaeting_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Bleeding Edge Inquest Rifle"
+      ],
+      "Has game id": [
+       107220
+      ]
+     },
+     "fulltext": "Bleeding Edge Inquest Rifle",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bleeding_Edge_Inquest_Rifle",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Blood Ruby Backpack": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Blood Ruby Backpack"
+      ],
+      "Has game id": [
+       79157
+      ]
+     },
+     "fulltext": "Blood Ruby Backpack",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby_Backpack",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Blood Ruby Pendant": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stabilizing Matrix",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stabilizing_Matrix",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Excellence",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Excellence",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Blood Ruby Pendant"
+      ],
+      "Has game id": [
+       79269
+      ]
+     },
+     "fulltext": "Blood Ruby Pendant",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby_Pendant",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Coral Choker": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Stabilizing Matrix",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stabilizing_Matrix",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Excellence",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Excellence",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Coral Choker"
+      ],
+      "Has game id": [
+       81658
+      ]
+     },
+     "fulltext": "Coral Choker",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Coral_Choker",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dynamic Tempered Spinal Blades": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Dynamic Tempered Spinal Blades"
+      ],
+      "Has game id": [
+       50051
+      ]
+     },
+     "fulltext": "Dynamic Tempered Spinal Blades",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dynamic_Tempered_Spinal_Blades",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Envy's Bite": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Magnetite Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magnetite_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Envy's Bite"
+      ],
+      "Has game id": [
+       100413
+      ]
+     },
+     "fulltext": "Envy's Bite",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Envy%27s_Bite",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Finite Result": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Spirit of the Finite Result",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Spirit_of_the_Finite_Result",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Finite Result"
+      ],
+      "Has game id": [
+       73624
+      ]
+     },
+     "fulltext": "Finite Result",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Finite_Result",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractal Capacitor (Infused)": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Fractal Capacitor (Infused)"
+      ],
+      "Has game id": [
+       49391,
+       49383,
+       49389,
+       49387,
+       49390,
+       49382,
+       49388,
+       49386
+      ]
+     },
+     "fulltext": "Fractal Capacitor (Infused)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Capacitor_(Infused)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hardlight Claws": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Gaeting Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gaeting_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Hardlight Claws"
+      ],
+      "Has game id": [
+       106952
+      ]
+     },
+     "fulltext": "Hardlight Claws",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hardlight_Claws",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Icebrood Horn Backpack": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Icebrood Horn Backpack"
+      ],
+      "Has game id": [
+       79830
+      ]
+     },
+     "fulltext": "Icebrood Horn Backpack",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Icebrood_Horn_Backpack",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lava Skull Backpack": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Lava Skull Backpack"
+      ],
+      "Has game id": [
+       79463
+      ]
+     },
+     "fulltext": "Lava Skull Backpack",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lava_Skull_Backpack",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Living-Water Spear": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ossa's Crusader Inscription",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ossa%27s_Crusader_Inscription",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Puissance",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Puissance",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Living-Water Spear"
+      ],
+      "Has game id": [
+       106711
+      ]
+     },
+     "fulltext": "Living-Water Spear",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Living-Water_Spear",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Luminate's Backplate": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Luminate's Backplate"
+      ],
+      "Has game id": [
+       72145
+      ]
+     },
+     "fulltext": "Luminate's Backplate",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Luminate%27s_Backplate",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mark Y Golem": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Volatile Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Mark Y Golem"
+      ],
+      "Has game id": [
+       86979
+      ]
+     },
+     "fulltext": "Mark Y Golem",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mark_Y_Golem",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mawdrey (Infused)": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Mawdrey (Infused)"
+      ],
+      "Has game id": [
+       67002
+      ]
+     },
+     "fulltext": "Mawdrey (Infused)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mawdrey_(Infused)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mistforged Triumphant Hero's Faceguard": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Lesser Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Wupwup Celestial Insignia",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Wupwup_Celestial_Insignia",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Mistforged Triumphant Hero's Faceguard"
+      ],
+      "Has game id": []
+     },
+     "fulltext": "Mistforged Triumphant Hero's Faceguard",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mistforged_Triumphant_Hero%27s_Faceguard",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Regret's Memory": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Magnetite Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magnetite_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Regret's Memory"
+      ],
+      "Has game id": [
+       100589
+      ]
+     },
+     "fulltext": "Regret's Memory",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Regret%27s_Memory",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Abaddon": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Abaddon"
+      ],
+      "Has game id": [
+       81737
+      ]
+     },
+     "fulltext": "Relic of Abaddon",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Abaddon",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Balthazar": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Balthazar"
+      ],
+      "Has game id": [
+       81669
+      ]
+     },
+     "fulltext": "Relic of Balthazar",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Balthazar",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Dwayna (back item)": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Dwayna"
+      ],
+      "Has game id": [
+       81733
+      ]
+     },
+     "fulltext": "Relic of Dwayna (back item)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Dwayna_(back_item)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Grenth": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Grenth"
+      ],
+      "Has game id": [
+       81831
+      ]
+     },
+     "fulltext": "Relic of Grenth",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Grenth",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Lyssa": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Lyssa"
+      ],
+      "Has game id": [
+       82010
+      ]
+     },
+     "fulltext": "Relic of Lyssa",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Lyssa",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Relic of Melandru": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Relic of Melandru"
+      ],
+      "Has game id": [
+       81768
+      ]
+     },
+     "fulltext": "Relic of Melandru",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Relic_of_Melandru",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Rising Banners of the Sunspear": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Rising Banners of the Sunspear"
+      ],
+      "Has game id": [
+       82782
+      ]
+     },
+     "fulltext": "Rising Banners of the Sunspear",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Rising_Banners_of_the_Sunspear",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sea-Glass Wave Spear": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Spiritwood Staff Head",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Spiritwood_Staff_Head",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Magnetite Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magnetite_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Sea-Glass Wave Spear"
+      ],
+      "Has game id": [
+       103818
+      ]
+     },
+     "fulltext": "Sea-Glass Wave Spear",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sea-Glass_Wave_Spear",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Thackeray Family Crest": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Stabilizing Matrix",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Stabilizing_Matrix",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Thackeray Family Crest"
+      ],
+      "Has game id": [
+       39264
+      ]
+     },
+     "fulltext": "Thackeray Family Crest",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Thackeray_Family_Crest",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "The Wayfarer's Henge": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "The Wayfarer's Henge"
+      ],
+      "Has game id": [
+       81097
+      ]
+     },
+     "fulltext": "The Wayfarer's Henge",
+     "fullurl": "https://wiki.guildwars2.com/wiki/The_Wayfarer%27s_Henge",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Upper Bound": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Salvaged Dignity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Dignity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Spirit of the Upper Bound",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Spirit_of_the_Upper_Bound",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Upper Bound"
+      ],
+      "Has game id": [
+       73251
+      ]
+     },
+     "fulltext": "Upper Bound",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Upper_Bound",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Wegloop's Air Helmet": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Lesser Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Wegloop's Air Helmet"
+      ],
+      "Has game id": [
+       79895
+      ]
+     },
+     "fulltext": "Wegloop's Air Helmet",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Wegloop%27s_Air_Helmet",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Wegloop's Air Mask": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Lesser Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Wegloop's Air Mask"
+      ],
+      "Has game id": [
+       79838
+      ]
+     },
+     "fulltext": "Wegloop's Air Mask",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Wegloop%27s_Air_Mask",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Wegloop's Air Veil": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Lesser Vision Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Vision_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Wegloop's Air Veil"
+      ],
+      "Has game id": [
+       79873
+      ]
+     },
+     "fulltext": "Wegloop's Air Veil",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Wegloop%27s_Air_Veil",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "White Mantle Scroll": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "1 Agony Infusion",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1_Agony_Infusion",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       },
+       {
+        "fulltext": "Ball of Dark Energy",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ball_of_Dark_Energy",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "White Mantle Scroll"
+      ],
+      "Has game id": [
+       80369
+      ]
+     },
+     "fulltext": "White Mantle Scroll",
+     "fullurl": "https://wiki.guildwars2.com/wiki/White_Mantle_Scroll",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "33d1d81626de2a3075014097fea48aa4",
+    "count": 37,
+    "offset": 0,
+    "source": "",
+    "time": "0.195370"
+   }
+  }
+ }
+}

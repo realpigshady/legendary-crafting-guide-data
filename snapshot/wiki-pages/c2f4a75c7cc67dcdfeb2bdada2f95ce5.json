@@ -1,0 +1,5 @@
+{
+"revid": 2843530,
+"text": "{{Weapon infobox\n| type = rifle\n| level = 80\n| collection = The Predator III: The Hunter\n| rarity = exotic\n| prefix = berserker\n| set = Perfected weapons\n| uslot = Superior Sigil of Rage\n| bound = account\n| skin = Perfected Rifle (skin)\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary precursor.\n| salvage = Standard\n| id = 73785\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: The Hunter (Second Tier)\n| type = Legendary Component\n| disciplines = huntsman\n| rating = 450\n| ingredient1 = 1 Expertise in Rifle Crafting\n| ingredient2 = 1 Spirit of The Hunter Experiment\n| ingredient3 = 1 Jar of Luminesce Polish\n| ingredient4 = 1 Prismatic Lodestone\n| id = 11181\n}}\n\n== Salvages into ==\n* {{Salvages into|Spirit of the Perfected Rifle}}\n\n{{Perfected weapons nav|1}}\n{{Heart of Thorns content|1}}\n\n{{collection nav}}\n\n[[de:Perfektioniertes Gewehr]]\n[[es:Rifle perfeccionado]]\n[[fr:Fusil perfectionné]]",
+"title": "Perfected Rifle"
+}

@@ -1,0 +1,68 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Salvages into::Spirit of the Ravenswood Branch]]|?Salvages into|?Has canonical name|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Salvages into",
+     "key": "Salvages_into",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has canonical name",
+     "key": "Has_canonical_name",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Ravenswood Branch": {
+     "printouts": {
+      "Salvages into": [
+       {
+        "fulltext": "Spirit of the Ravenswood Branch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Spirit_of_the_Ravenswood_Branch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has canonical name": [
+       "Ravenswood Branch"
+      ]
+     },
+     "fulltext": "Ravenswood Branch",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ravenswood_Branch",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "443df523249000532545150e72f856f4",
+    "count": 1,
+    "offset": 0,
+    "source": "",
+    "time": "0.098725"
+   }
+  }
+ }
+}

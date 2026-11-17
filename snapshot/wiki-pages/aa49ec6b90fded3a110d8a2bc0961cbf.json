@@ -1,0 +1,5 @@
+{
+"revid": 2843565,
+"text": "{{Weapon infobox\n| description = Salvage this weapon to receive its spirit, needed to craft the next tier of this legendary [[Precursor weapon|precursor]]. \n| type = Trident\n| skin = Venom Experiment (skin)\n| collection = Kraitkin II: The Perfected Trident\n| rarity = exotic\n| level = 80\n| set = Experimental weapons\n| bound = account\n| uslot = Superior Sigil of Rage\n| prefix = berserker\n| requires = hot\n| salvage = Standard\n| id = 72629\n}}\n\n== Acquisition ==\n{{recipe\n| source = recipe sheet\n| sheet = Box of Recipes: Venom (First Tier)\n| disciplines = artificer\n| rating = 450\n| type = Legendary Component\n| ingredient1 = 1 Essence of Tentacles\n| ingredient2 = 1 Experimental Trident Head\n| ingredient3 = 1 Experimental Trident Shaft\n| ingredient4 = 1 Legendary Underwater Inscription\n| id = 11724\n}}\n\n== Salvage results ==\n*{{salvages into|Spirit of the Venom Experiment}}\n\n{{Experimental weapons nav|1}}\n\n{{collection nav}}\n\n[[de:Gift-Experiment]]\n[[es:Experimento \"Veneno\"]]\n[[fr:Prototype de Poison]]",
+"title": "Venom Experiment"
+}
