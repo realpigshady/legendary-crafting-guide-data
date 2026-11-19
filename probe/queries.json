@@ -1,18 +1,26 @@
 {
- "ra_gharr": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Gharr Leadclaw/Daily Exchanges|Gharr Leadclaw/Eye of the North Exchanges|Gharr Leadclaw/Arborstone Exchanges|Gharr Leadclaw/Weekly, Map Currency & Essence|Karmic Converter|Portable Wizard's Tower Exchange/Daily Exchanges"
+ "ra_gharr_daily_parse": {
+  "action": "parse",
+  "page": "Gharr Leadclaw/Daily Exchanges",
+  "prop": "text",
+  "formatversion": "2"
  },
- "ra_more": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "redirects": "1",
-  "titles": "Merchant (Lion's Arch Aerodrome)|Tyrian Exchange Voucher|Magic-Warped Bundle|Cowrie League Cloth Crate|Bag of Fractal Relics|Lost Orrian Jewelry Box"
+ "ra_reliquary_parse": {
+  "action": "parse",
+  "page": "Fractal Reliquary",
+  "prop": "text",
+  "formatversion": "2"
+ },
+ "ra_eotn_parse": {
+  "action": "parse",
+  "page": "Gharr Leadclaw/Eye of the North Exchanges",
+  "prop": "text",
+  "formatversion": "2"
+ },
+ "ra_arbor_parse": {
+  "action": "parse",
+  "page": "Gharr Leadclaw/Arborstone Exchanges",
+  "prop": "text",
+  "formatversion": "2"
  }
 }
