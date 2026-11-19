@@ -1,0 +1,49 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Gift of Ascension|BUY-4373",
+  "formatversion": "2"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 69869,
+     "ns": 0,
+     "title": "BUY-4373",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{NPC infobox\n| location = Mistlock Observatory; Mistlock Sanctuary\n| race = Golem\n| level = 80\n| service = Merchant\n}}\n[[BUY-4373]] is a [[merchant]] located in the at the northern end of the [[Mistlock Observatory]].\n\n== Locations ==\n;[[The Mists]]\n* [[Fractals of the Mists]]\n** [[Mistlock Observatory]]\n\n* [[Mistlock Sanctuary]]\n\n== Items offered ==\n=== Merchant ===\n{{vendor table header|showFacts=false|showLevel=false|showCostText=true}}\n{{vendor table row|item=Prototype Fractal Capacitor|cost=1350 Fractal Relic + 2112 coin}}\n{{vendor table row|item=Gift of Ascension|cost=500 Fractal Relic + 2520 coin}}\n{{vendor table row|item=20 Slot Fractal Exotic Equipment Box|cost=250 Fractal Relic + 2016 coin}}\n{{vendor table row|item=20 Slot Fractal Rare Equipment Box|cost=200 Fractal Relic + 1512 coin}}\n{{vendor table row|item=20 Slot Fractal Uncommon Equipment Box|cost=150 Fractal Relic + 1008 coin}}\n{{vendor table row|item=Dessa's Experiment Journal|cost=35 Fractal Relic + 1008 coin}}\n{{vendor table row|item=Obsidian Shard|cost=30 Fractal Relic + 96 coin}}\n{{vendor table row|item=Recipe: Finite Result|cost=50 Fractal Relic + 1000 coin}}\n{{vendor table row|item=Recipe: Upper Bound|cost=100 Fractal Relic + 2000 coin}}\n{{vendor table row|item=Recipe: Unbound|cost=150 Fractal Relic + 3000 coin}}\n{{vendor table row|item=Mystic Clover|cost=150 Fractal Relic + 2 Mystic Coin + 2 Glob of Ectoplasm + 2 Spirit Shard|per week=10}}\n|}\n\n=== Ascended Salvage Tools ===\n{{vendor table header|showFacts=false|showLevel=false|showCostText=true}}\n{{vendor table row|item=Ascended Salvage Tool|cost=2 Fractal Relic + 10000 coin}}\n{{vendor table row|id=79105|cost=10 Fractal Relic + 50000 coin}}\n{{vendor table row|id=79105|cost=5 Ascended Salvage Tool}}\n{{vendor table row|id=73481|cost=40 Fractal Relic + 200000 coin}}\n|}\n\n=== Fractal Encryption Keys ===\n* Only 30 keys can be purchased daily for 20 silver each, and another daily 30 keys for 25 silver and 4 copper each. Past 60 keys, any further keys purchased will cost 30 silver each.\n{{vendor table header|showFacts=false|showLevel=false|showCostText=true}}\n{{vendor table row|id=77654|cost=1 Fractal Relic + 2000 coin|per day = 30}}\n{{vendor table row|id=77660|cost=1 Fractal Relic + 2504 coin|per day = 30}}\n{{vendor table row|id=70438|cost=1 Fractal Relic + 3000 coin}}\n{{vendor table row|id=70438|quantity=1|cost=1 Stabilizing Matrix}}\n{{vendor table row|item=Fractal Encryption Key|quantity=10|cost=1 Integrated Fractal Matrix}}\n|}\n\n=== Legendary Components ===\n{{vendor table header|showFacts=false|showLevel=false|showNotes=true|showCostText=true}}\n{{vendor table row|item=Charr-Nip|cost=100 Fractal Relic + 8000 coin|requirement=Follows Advice|collection=Ad Infinitum I: Finite Result}}\n{{vendor table row|item=Glob of Molten Fire|cost=200 Fractal Relic + 8000 coin|requirement=Agony Channeler|collection=Ad Infinitum II: Upper Bound}}\n{{vendor table row|item=Essence of Subject 2|cost=400 Fractal Relic + 8000 coin|requirement=Agony Channeler|collection=Ad Infinitum III: Unbound}}\n{{vendor table row|item=Aetherblade Airship Steering Wheel|cost=600 Fractal Relic + 8000 coin|collection=Legendary Backpack: Ad Infinitum}}\n|}\n\n=== Aquabreather Recipes ===\n{{vendor table header|showFacts=false|showLevel=false|showCostText=true}}\n{{vendor table row|item=Recipe: Ahamid's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ahamid's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ahamid's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Angchu Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Angchu Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Angchu Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Beigarth's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Beigarth's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Beigarth's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ferratus's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ferratus's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ferratus's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Forgemaster's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Forgemaster's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Forgemaster's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Gobrech's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Gobrech's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Gobrech's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Hronk's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Hronk's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Hronk's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Leftpaw's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Leftpaw's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Leftpaw's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Keeper's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Keeper's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Keeper's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Morbach's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Morbach's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Morbach's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Occam's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Occam's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Occam's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Saphir's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Saphir's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Saphir's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Tateos's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Tateos's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Tateos's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Veldrunner Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Veldrunner Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Veldrunner Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ventari's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ventari's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Ventari's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Verata's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Verata's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Verata's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wei Qi's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wei Qi's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wei Qi's Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wupwup Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wupwup Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Wupwup Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zintl Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zintl Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zintl Metal Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zojja's Cloth Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zojja's Leather Breather|cost=150 Fractal Relic}}\n{{vendor table row|item=Recipe: Zojja's Metal Breather|cost=150 Fractal Relic}}\n|}\n\n== Related [[achievement]]s ==\n{{vendor collectibles}}\n\n[[de:KAUF-4373]]\n[[es:COM-4373]]\n[[fr:ACH-4373]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 69890,
+     "ns": 0,
+     "title": "Gift of Ascension",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| type = trophy\n| material type = mystic\n| description = Used by the [[Mystic Forge]].\n| rarity = ascended\n| bound = account\n| id = 37070\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Achievements ===\n{{achievement list|reward=Gift of Ascension}}\n\n== Used in ==\n{{recipe list}}\n\n[[de:Gabe des Aufstiegs]]\n[[es:Don de la ascensión]]\n[[fr:Don d'ascension]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
