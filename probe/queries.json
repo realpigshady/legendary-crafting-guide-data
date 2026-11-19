@@ -1,11 +1,18 @@
 {
- "d13_pages_raven": {"action": "query", "prop": "revisions", "rvprop": "content", "rvslots": "main", "redirects": "1",
-   "titles": "Ravenswood Staff|Ravenswood Branch|Spirit of the Ravenswood Branch|Nevermore I: Ravenswood Branch|Nevermore II: Ravenswood Staff|Nevermore III: The Raven Staff|Nevermore IV: The Raven Spirit"},
- "d13_pages_other": {"action": "query", "prop": "revisions", "rvprop": "content", "rvslots": "main", "redirects": "1",
-   "titles": "Ball of Dark Energy|Reclaimed Metal Plate|Upper Bound|Unbound|Perfected Sword|Reclaimed Axe|The Apparatus"},
- "d13_gives_nevermore": {"action": "ask", "query": "[[Has canonical name::~Nevermore*]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|limit=50"},
- "d13_salvage_branch": {"action": "ask", "query": "[[Salvages into::Spirit of the Ravenswood Branch]]|?Salvages into|?Has canonical name|limit=20"},
- "d13_salvage_of_staff": {"action": "ask", "query": "[[Ravenswood Staff]]|?Salvages into|?Has game id|limit=5"},
- "d13_salvage_ball": {"action": "ask", "query": "[[Salvages into::Ball of Dark Energy]]|?Salvages into|?Has canonical name|?Has game id|limit=500"},
- "d13_api_raven": {"api": "/v2/items?ids=76582,73266,74068,76624"}
+ "ra_vendors": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Ley-Energy Matter Converter|Fractal Reliquary|Gharr Leadclaw|Tyrn Ironmaw|Tactician Erlandson|Myung-Hee|BUY-2046 PFR|Scholar Glenna"
+ },
+ "ra_bags": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Light Karmic Crafting Bag|Heavy Crafting Bag|Bag of Jewels|Skritt Supply Box|Trophy Shipment|Wizard's Tower Exchange|Portable Wizard's Tower Exchange"
+ }
 }
