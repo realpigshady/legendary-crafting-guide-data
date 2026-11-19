@@ -1,5 +1,5 @@
 {
-"fetched": 1794503333.748405,
+"fetched": 1795094950.197314,
 "item": "Aether-Rich Sap",
 "kind": "rewarded",
 "q": "958df4846024",
@@ -113,6 +113,25 @@
 "Aether-Rich Sap"
 ],
 "_subject": "Defeat the rat king#reward3"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Escort the castaways into freebooter territory to pillage and plunder"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Escort the castaways into freebooter territory to pillage and plunder#reward1"
 },
 {
 "Has context": [
@@ -284,6 +303,25 @@
 "Aether-Rich Sap"
 ],
 "_subject": "Return the castaways' stolen supplies to Corin#reward2"
+},
+{
+"Has context": [
+"Event"
+],
+"Has location type": [],
+"Has rewarded item chance": [
+"Guaranteed"
+],
+"Has rewarded item quantity": [
+"25"
+],
+"Rewarded by": [
+"Root out traps and defeat freebooters to help the Hullgardeners prepare for a siege"
+],
+"Rewards item": [
+"Aether-Rich Sap"
+],
+"_subject": "Root out traps and defeat freebooters to help the Hullgardeners prepare for a siege#reward1"
 },
 {
 "Has context": [
