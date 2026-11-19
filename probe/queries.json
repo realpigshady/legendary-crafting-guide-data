@@ -1,25 +1,19 @@
 {
- "ra_gharr_daily_parse": {
+ "ra_weekly_parse": {
   "action": "parse",
-  "page": "Gharr Leadclaw/Daily Exchanges",
+  "page": "Gharr Leadclaw/Weekly, Map Currency & Essence",
   "prop": "text",
   "formatversion": "2"
  },
- "ra_reliquary_parse": {
+ "ra_lowland_parse": {
   "action": "parse",
-  "page": "Fractal Reliquary",
+  "page": "Gharr Leadclaw/Lowland Shore Exchanges",
   "prop": "text",
   "formatversion": "2"
  },
- "ra_eotn_parse": {
+ "ra_karmic_parse": {
   "action": "parse",
-  "page": "Gharr Leadclaw/Eye of the North Exchanges",
-  "prop": "text",
-  "formatversion": "2"
- },
- "ra_arbor_parse": {
-  "action": "parse",
-  "page": "Gharr Leadclaw/Arborstone Exchanges",
+  "page": "Karmic Converter",
   "prop": "text",
   "formatversion": "2"
  }
