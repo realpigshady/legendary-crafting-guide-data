@@ -1,0 +1,102 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Merchant (Lion's Arch Aerodrome)|Tyrian Exchange Voucher|Magic-Warped Bundle|Cowrie League Cloth Crate|Bag of Fractal Relics|Lost Orrian Jewelry Box"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "ns": 0,
+     "title": "Merchant (Lion's Arch Aerodrome)",
+     "missing": true
+    },
+    {
+     "pageid": 79300,
+     "ns": 0,
+     "title": "Lost Orrian Jewelry Box",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Double-click to open.\n| rarity = exotic\n| type = container\n| bound = acquire\n| id = 39088\n}}\n[[Lost Orrian Jewelry Box]]es are [[container]]s offered for {{karma|4550}} at any karma [[vendor]] in [[Ruins of Orr|Orr]]. They drop [[item]]s including high-end [[crafting material]]s, [[liquid karma]], an exotic [[miniature]], and, most likely, [[junk]].\n\n== Acquisition ==\n{{Sold by}}\n\n== Contents ==\n;Liquid karma\n* {{contains|Drop of Liquid Karma|qty=2, 3}} <small>({{karma|600}})</small>\n* {{contains|Taste of Liquid Karma}} <small>({{karma|2500}})</small>\n* {{contains|Vial of Liquid Karma}} <small>({{karma|3750}})</small>\n* {{contains|Swig of Liquid Karma|qty=1-2, 4}} <small>({{karma|4500}})</small>\n\n;Materials\n* {{contains|Obsidian Shard}}\n* {{contains|Charged Lodestone}}\n* {{contains|Crystal Lodestone}}\n* {{contains|Destroyer Lodestone}}\n* {{contains|Glacial Lodestone}}\n* {{contains|Corrupted Lodestone}}\n* {{contains|Molten Lodestone}}\n* {{contains|Onyx Lodestone}}\n* {{contains|Pile of Putrid Essence}}\n\n;Junk\n* {{contains|Unidentifiable Object|qty=2-3, 5, 10, 20|chance=Guaranteed}}\n\n;Everlasting Potions\n* {{contains|Warm Potion}}\n* {{contains|Hard Potion}}\n* {{contains|Charged Potion}}\n* {{contains|Cold Potion}}\n\n;Miniatures\n* {{contains|Mini Risen Priest of Balthazar}}\n\n== Notes ==\n* One set of karma potions and one set of other items are acquired each time a box is opened.\n* Based on the research listed here, the resultant cost of each box is roughly 2000 karma due to the \"reimbursement\" from liquid karma.\n* Drop research can be found [[/Drop rate|here]].\n\n{{Drop rate lookup table|style=hom|manual totals=yes|minimum amount=0.009}}\n\n== Trivia ==\n* Lost Orrian Jewelry Boxes were introduced with the [[Game updates/2013-01-28|January 28, 2013 game update]].\n\n[[de:Verlorene orrianische Juwelenbox]]\n[[es:Caja de joyas orrianas perdidas]]\n[[fr:Boîte à bijoux orrienne perdue]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 152833,
+     "ns": 0,
+     "title": "Bag of Fractal Relics",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Bag of Alliance Supplies.png\n| type = container\n| rarity = fine\n| description = Contains 15 [[Fractal Relic]]s.\n| bound = account\n| id = 70064, 79598\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Contained in ===\n{{Contained in}}\n\n=== Achievements ===\n{{Achievement list|reward=Bag of Fractal Relics}}\n\n== Contents ==\n* {{contains|Fractal Relic|qty=15|chance=Guaranteed}}\n\n== See also ==\n* {{item icon|Chest of Fractal Relics}}\n* {{item icon|Handful of Fractal Relics}}\n* {{item icon|Pouch of Fractal Relics}}\n\n[[de:Beutel mit Fraktal-Relikten]]\n[[es:Saco de reliquias fractales]]\n[[fr:Sac de reliques fractales]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 186524,
+     "ns": 0,
+     "title": "Magic-Warped Bundle",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Contains rare crafting materials.\n| type = container\n| rarity = rare\n| bound = account\n| id = 79186, 79187\n| requires = lws3\n}}\n== Acquisition ==\n=== Sold by ===\n{{Sold by}}\n\n=== Reward tracks ===\n{{Contained in reward track}}\n\n=== Achievements ===\n{{achievement list|reward=Magic-Warped Bundle}}\n\n== Contents ==\nOne of the following:\n* Common drops:<!-- 66% -->\n** {{Contains|Vial of Powerful Blood|qty=10}}\n** {{Contains|Ancient Bone|qty=10}}\n** {{Contains|Elaborate Totem|qty=10}}\n** {{Contains|Pile of Crystalline Dust|qty=10}}\n** {{Contains|Armored Scale|qty=10}}\n** {{Contains|Powerful Venom Sac|qty=10}}\n** {{Contains|Vicious Fang|qty=10}}\n** {{Contains|Vicious Claw|qty=10}}\n** {{Contains|Karka Shell|qty=10}}\n** {{Contains|Pristine Toxic Spore Sample|qty=10}}\n** {{Contains|Glob of Ectoplasm|qty=5}}\n** {{Contains|Pile of Putrid Essence|qty=2}}\n** {{Contains|Amalgamated Gemstone}}\n** {{Contains|Glacial Lodestone|qty=2}} <ref name=\"Glacial Lodestone\">Unlike other lodestones, the chance of receiving Glacial Lodestones seems to be twice that of the other types.</ref>\n* Uncommon drops:<!-- 20% -->\n** {{Contains|Charged Lodestone|qty=2}}\n** {{Contains|Molten Lodestone|qty=2}}\n** {{Contains|Crystal Lodestone|qty=2}}\n** {{Contains|Destroyer Lodestone|qty=2}}\n** {{Contains|Onyx Lodestone|qty=2}}\n** {{Contains|Evergreen Lodestone|qty=2}}\n** {{Contains|Mordrem Lodestone|qty=2}}\n* Rare drops:<!-- 14% -->\n** {{Contains|Ebony Orb}}\n** {{Contains|Moonstone Orb}}\n** {{Contains|Maguuma Lily}}\n** {{Contains|Maguuma Burl}}\n** {{Contains|Mystic Clover|qty=2}}\n** {{Contains|Freshwater Pearl}}\n** {{Contains|Giant Eye}}\n** {{Contains|Black Diamond}}\n** {{Contains|Flax Blossom}}\n<br><references/>\n\nReward Track variant also contains:\n* {{contains|Obsidian Shard|qty=3|chance=Guaranteed|notes=From Reward Track variant}}\n* {{contains|Unbound Magic|qty=25|chance=Guaranteed|notes=From Reward Track variant}}\n\n== Notes ==\n* {{Drop rate lookup worth|page=Magic-Warped Bundle/research|mode=plain}}\n* Drop rate research can be found [[Magic-Warped Bundle/research|here]], the current results of which are displayed below:\n{{Drop rate lookup table|page=Magic-Warped Bundle/research|height=900}}\n\n== See also ==\n* [[Magic-Warped Packet]]\n\n[[de:Magieverzerrtes Bündel]]\n[[es:Lote retorcido por la magia]]\n[[fr:Lot corrompu par la magie]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 212091,
+     "ns": 0,
+     "title": "Cowrie League Cloth Crate",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{item infobox\n| description = Can contain linen and cotton scraps .<br>Purchase from renown region karma merchants across the Crystal Desert with trade contracts.<br>Find trade contracts in chests and lost supplies.\n| type = container\n| rarity = masterwork\n| bound = account\n| id = 84783\n| requires = pof\n}}\n\n== Acquisition ==\n=== Gathered from ===\n{{gathered from}}\n\n=== Sold by ===\n{{Sold by}}\n\n== Contents ==\n* 2 random drops from the following:\n** {{contains|Cotton Scrap}} (2-6)\n** {{contains|Linen Scrap}} (2-5)\n\n== Notes ==\n* {{Drop rate lookup worth|page=Cowrie League Cloth Crate/Drop rate|mode=plain}}\n{{Drop rate lookup worth table|info=sellst|page=Cowrie League Cloth Crate/Drop rate}}\n\n[[de:Kauri-Liga-Stoffkiste]]\n[[es:Cajón de tela de la Liga Cauri]]\n[[fr:Caisse de tissu de la ligue de Cowrie]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 228171,
+     "ns": 0,
+     "title": "Tyrian Exchange Voucher",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| icon = Tyrian Exchange Voucher.png\n| type = container\n| rarity = rare\n| bound = account\n| description = Use to redeem this voucher for your choice of any map or [[dungeon]] [[currency]].\n| id = 86804\n}}\n\n== Acquisition ==\n=== Sold by ===\n{{Sold by|showCostText=true}}\n\n=== Contained in ===\n{{contained in}}\n\n== Contents ==\n{{see|Tyrian Exchange Voucher/historical|label=Historical content}}\n* Choose one of the following:\n** {{contains|300 Geodes|chance=Choice}}\n** {{contains|300 Bandit Crests|chance=Choice}}\n** {{contains|500 Airship Parts|chance=Choice}}\n** {{contains|500 Lumps of Aurillium|chance=Choice}}\n** {{contains|500 Ley Line Crystals|chance=Choice}}\n** {{contains|1000 Unbound Magic|chance=Choice}}\n** {{contains|250 Trade Contracts|chance=Choice}}\n** {{contains|30 Elegy Mosaics|chance=Choice}}\n** {{contains|1000 Volatile Magic|chance=Choice}}\n** {{contains|100 Fractal Relics|chance=Choice}}\n** {{contains|300 Tales of Dungeon Delving|chance=Choice}}\n\n== Notes ==\n* With the [[Game updates/2022-06-07|June 7th, 2022 game update]], the voucher now offers Tales of Dungeon Delving instead of the old dungeon tokens.\n* The following table shows the [[Trading Post]] values of the currencies which can be exchanged for [[Tyrian Exchange Voucher]]s.\n{| {{STDT|item sortable}}\n! colspan=\"3\" | Cost comparison table\n|-\n! Item !! Buy price !! Sell Price\n|-\n| {{item icon|Candy Corn Cobs}} (10)|| {{Tp total placeholder|10;Candy Corn Cob}}|| {{Tp total placeholder|info = sells|10;Candy Corn Cob}}\n|-\n| {{item icon|Jorbreaker}} (10)|| {{Tp total placeholder|10;Jorbreaker}}|| {{Tp total placeholder|info = sells|10;Jorbreaker}}\n|-\n| {{item icon|Snow Diamond}} (10)|| {{Tp total placeholder|10;Snow Diamond}}|| {{Tp total placeholder|info = sells|10;Snow Diamond}}\n|}\n{{Tp total calculate}}\n\n[[de:Tyrianischer Währungsumtausch-Gutschein]]\n[[es:Vale de intercambio de Tyria]]\n[[fr:Bon d'échange tyrien]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

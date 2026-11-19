@@ -1,0 +1,113 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "redirects": "1",
+  "titles": "Gharr Leadclaw/Daily Exchanges|Gharr Leadclaw/Eye of the North Exchanges|Gharr Leadclaw/Arborstone Exchanges|Gharr Leadclaw/Weekly, Map Currency & Essence|Karmic Converter|Portable Wizard's Tower Exchange/Daily Exchanges"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 130399,
+     "ns": 0,
+     "title": "Karmic Converter",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{Item infobox\n| description = Double-click to trade [[karma]] for something useful.<br>Can only buy one item per day.\n| rarity = rare\n| bound = account\n| collection = Gobblers and Exchanges Collector\n| type = gizmo\n| id = 67270\n}}\nThe [[Karmic Converter]] is an item that allows you to trade [[karma]] for one of three items per day. Upon use, a vendor window opens which allows you to buy an item. After buying one, the list clears until the next day. The available items change every day.\n\n== Acquisition ==\n{{achievement list|reward=Karmic Converter}}\n=== Sold by ===\n{{Sold by}}\n\n== Items offered ==\n{{inventory|Karmic Converter}}\n\n== Trivia ==\n* The item was initially unavailable in the {{item icon|Wizard's Gobbler}} due to technical limitations.<ref>[https://en-forum.guildwars2.com/topic/158751-karmic-converter-not-unlocked-inside-wizard-gobbler/#comment-2291975 Karmic Converter not unlocked inside Wizard Gobbler], en-forum.guildwars2.com</ref> It was later added with the [[Game updates/2026-11-10|November 10, 2026 game update]]. \n** This also changed the mechanics of its offers from being a fixed rotation to likely being fully random. The old rotation can be found [[Karmic_Converter/Table|here]] and [[Karmic_Converter/Drop_rate|its research here]].\n** The ID of the item variants offered were changed to match the containers from similar [[gobbler]]s, allowing them to stack together.\n\n== References ==\n<references />\n\n{{converter nav}}\n\n[[de:Karmischer Konverter]]\n[[es:Conversor kármico]]\n[[fr:Convertisseur de karma]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 378068,
+     "ns": 0,
+     "title": "Gharr Leadclaw/Daily Exchanges",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{#set:Has canonical name=Gharr Leadclaw|Has game icon=File:Merchant.png|Has context=NPC|Has availability=Current|Is historical=false|Located in=Outer Ring}}\n{{notice|Due to the substantial number of offers possibly available from [[Gharr Leadclaw]], his inventory has been split across multiple pages.}}\n{{main|Gharr Leadclaw}}\n{{TOCright}}\n{{inventory|Gharr Leadclaw 1}}\n\n[[Category: Vendor merchandise subpages]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 378069,
+     "ns": 0,
+     "title": "Gharr Leadclaw/Weekly, Map Currency & Essence",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{#set:Has canonical name=Gharr Leadclaw|Has game icon=File:Merchant.png|Has context=NPC|Has availability=Current|Is historical=false|Located in=Outer Ring}}\n{{notice|Due to the substantial number of offers possibly available from [[Gharr Leadclaw]], his inventory has been split across multiple pages.}}\n{{main|Gharr Leadclaw}}\n{{TOCright}}\n{{inventory|Gharr Leadclaw 2}}\n\n[[Category: Vendor merchandise subpages]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 378070,
+     "ns": 0,
+     "title": "Portable Wizard's Tower Exchange/Daily Exchanges",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{#set:Has canonical name=Portable Wizard's Tower Exchange|Has game icon=File:Portable Wizard's Tower Exchange.png|Has context=Item|Has availability=Current|Is historical=false}}\n{{notice|Due to the substantial number of offers possibly available from the [[Portable Wizard's Tower Exchange]], its inventory has been split across multiple pages.}}\n{{TOCright}}\n{{inventory|Gharr Leadclaw 1}}\n\n[[Category: Vendor merchandise subpages]]\n[[es:Intercambio de la torre del brujo portátil/Intercambios diarios]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 386024,
+     "ns": 0,
+     "title": "Gharr Leadclaw/Arborstone Exchanges",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{#set:Has canonical name=Gharr Leadclaw|Has context=NPC|Has game icon=File:Merchant.png|Located in=Arborstone}}\n{{notice|Due to the substantial number of offers possibly available from [[Gharr Leadclaw]], his inventory has been split across multiple pages.}}\n{{main|Gharr Leadclaw}}\n{{TOCright}}\n{{inventory|Gharr Leadclaw 5}}\n\n[[Category: Vendor merchandise subpages]]\n[[es:Gharr Garraplomo/Intercambios de Piedra Arbórea]]"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "pageid": 386025,
+     "ns": 0,
+     "title": "Gharr Leadclaw/Eye of the North Exchanges",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "{{#set:Has canonical name=Gharr Leadclaw|Has context=NPC|Has game icon=File:Merchant.png|Located in=Hall of Monuments}}\n{{notice|Due to the substantial number of offers possibly available from [[Gharr Leadclaw]], his inventory has been split across multiple pages.}}\n{{main|Gharr Leadclaw}}\n{{TOCright}}\n{{inventory|Gharr Leadclaw 4}}\n\n[[Category: Vendor merchandise subpages]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
