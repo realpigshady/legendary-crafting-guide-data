@@ -1,20 +1,21 @@
 {
- "ra_weekly_parse": {
+ "r2_gift_of_ascension": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "titles": "Gift of Ascension|BUY-4373",
+  "formatversion": "2"
+ },
+ "r2_buy4373_parse": {
   "action": "parse",
-  "page": "Gharr Leadclaw/Weekly, Map Currency & Essence",
+  "page": "BUY-4373",
   "prop": "text",
   "formatversion": "2"
  },
- "ra_lowland_parse": {
-  "action": "parse",
-  "page": "Gharr Leadclaw/Lowland Shore Exchanges",
-  "prop": "text",
-  "formatversion": "2"
- },
- "ra_karmic_parse": {
-  "action": "parse",
-  "page": "Karmic Converter",
-  "prop": "text",
-  "formatversion": "2"
+ "r2_tenebral_sold_by": {
+  "action": "ask",
+  "query": "[[Sells item::Tenebral Ward Medium Helmet||Tenebral Ward Medium Pauldrons||Tenebral Ward Medium Chestplate||Tenebral Ward Medium Gloves||Tenebral Ward Medium Leggings||Tenebral Ward Medium Boots]]|?Sells item|?Has vendor|?Has item cost|?Has requirement|limit=100",
+  "format": "json"
  }
 }
