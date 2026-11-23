@@ -1,18 +1,11 @@
 {
- "d6_search": {
-  "action": "query",
-  "list": "search",
-  "srsearch": "promote fine crafting material Mystic Forge average",
-  "srlimit": "20",
-  "format": "json"
- },
- "d6_pages": {
+ "d6_promo_page": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
   "formatversion": "2",
   "redirects": "1",
-  "titles": "Material promotion|Mystic Forge/Material promotion|Fine crafting material|Vial of Powerful Blood|Pile of Crystalline Dust"
+  "titles": "Mystic Forge/Material Promotion"
  }
 }
