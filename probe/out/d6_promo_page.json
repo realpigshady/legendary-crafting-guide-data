@@ -1,0 +1,34 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "revisions",
+  "rvprop": "content",
+  "rvslots": "main",
+  "formatversion": "2",
+  "redirects": "1",
+  "titles": "Mystic Forge/Material Promotion"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 108199,
+     "ns": 0,
+     "title": "Mystic Forge/Material Promotion",
+     "revisions": [
+      {
+       "slots": {
+        "main": {
+         "contentmodel": "wikitext",
+         "contentformat": "text/x-wiki",
+         "content": "Listed here are [[crafting material]] promotion recipes for the [[Mystic Forge]].\n\n== Common crafting materials ==\n*Promotion of tiers 1-4 yield an average return of 86.34 items. \n*Promotion of tier 5 yields an average return of 18.92 items.\n\n=== Cloth Scraps ===\n{{crafting tier recipe table|*Scrap}}\n\n=== Leather Sections ===\n{{crafting tier recipe table|*Leather Section}}\n\n=== Metal Ore ===\n{{crafting tier recipe table|*Ore}}\n\n=== Wood Logs ===\n{{crafting tier recipe table|*Wood Log}}\n\n== Refined common crafting materials ==\n*Promotion of tiers 1-4 yield an average return of 86.34 items.\n*Promotion of tier 5 yields an average return of 18.92 items.\n\n=== Bolts of Cloth ===\n{{crafting tier recipe table|Bolt of*}}\n\n=== Leather Squares ===\n{{crafting tier recipe table|Cured*Leather Square}}\n\n=== Metal Ingots ===\n{{crafting tier recipe table|*Ingot}}\n\n=== Wood Planks ===\n{{crafting tier recipe table|*Wood Plank}}\n\n== Fine crafting materials ==\n*Promotion of tiers 1-4 yield an average return of 18.51 items.\n*Promotion of tier 5 yields an average return of 6.91 items.\n\n=== Bones ===\n{{crafting tier recipe table|*Bone*}}\n\n=== Claws ===\n{{crafting tier recipe table|*Claw}}\n\n=== Piles of Dust ===\n{{crafting tier recipe table|Pile of*Dust}}\n\n=== Fangs ===\n{{crafting tier recipe table|*Fang}}\n\n=== Scales ===\n{{crafting tier recipe table|*Scale}}\n\n=== Totems ===\n{{crafting tier recipe table|*Totem}}\n\n=== Venom Sacs ===\n{{crafting tier recipe table|*Venom Sac}}\n\n=== Vials of Blood ===\n{{crafting tier recipe table|Vial of*Blood}}\n\n== Rare crafting materials ==\n=== Charged ===\n{{crafting tier recipe table|Charged*}}\n\n=== Corrupted ===\n{{crafting tier recipe table|Corrupted*}}\n\n=== Crystal ===\n{{crafting tier recipe table|Crystal*}}\n\n=== Destroyer ===\n{{crafting tier recipe table|Destroyer*}}\n\n=== Essence ===\n{{crafting tier recipe table|Pile of*Essence}}\n\n=== Glacial ===\n{{crafting tier recipe table|Glacial*}}\n\n=== Molten ===\n{{crafting tier recipe table|Molten*}}\n\n=== Onyx ===\n{{crafting tier recipe table|Onyx*}}\n\n==Ascended crafting materials==\nUnlike other crafting materials, {{rarity|ascended}} materials can be both promoted and demoted.\n\n===Promotion===\n{{crafting tier recipe table|*Mists Essence}}\n\n===Demotion===\n{{crafting tier recipe table|*Mists Essence|Demotion}}\n\n== Notes ==\n* 141-150 range empty, please refer to [http://wiki.guildwars2.com/wiki/Talk:Mystic_Forge/Material_Promotion Discussion]\n== External links ==\n* [https://docs.google.com/spreadsheets/d/1wLhXy3u0rWMasneeBsU3gvLmEGJS31hrFfcvIadRtDY/edit?pli=1#gid=1966765562 Common data reference] 600+ data points at time of writing.\n* [https://docs.google.com/spreadsheets/d/1wLhXy3u0rWMasneeBsU3gvLmEGJS31hrFfcvIadRtDY/edit?pli=1#gid=845558990 Fine data reference] 190+ data points at time of writing.\n* [https://docs.google.com/spreadsheet/ccc?key=0As-wCpIszrT9dFB3YjVUVFhfenlDUUpXTVBIdm5qWmc&usp=sharing#gid=8 Spreadsheet of output quantities and other useful data.] Use the tabs at the bottom of the document to navigate.\n* [https://fast.farming-community.eu/conversions/spirit-shard Spirit Shard conversion calculations], fast.farming-community.eu\n\n[[Category:Mystic Forge recipes|*]]\n\n[[es:Forja Mística/Material de promoción]]"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
