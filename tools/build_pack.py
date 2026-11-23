@@ -41,6 +41,7 @@ import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
 import forge_outcomes as fo  # noqa: E402
 import activity_links as alinks  # noqa: E402
+import activity_matches as amatch  # noqa: E402
 
 FORMAT_VERSION = 1
 GW2_API = "https://api.guildwars2.com"
@@ -534,6 +535,10 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     warnings += cwarn
     stats["activity_links"] = {"cap_group_members": ncap, "descriptions": alinks.describe(final)}
     print(f"activity links: {ncap} cap-group members, {stats['activity_links']['descriptions']} descriptions")
+    # wiki records that are the same activity as a [fast] overlay record: one group, so one a play day (Data 3b)
+    stats["activity_matches"], mwarn = amatch.apply(final)
+    warnings += mwarn
+    print(f"activity matches: {stats['activity_matches']}")
     nwin = {w["name"]: len(w["windows"]) for w in festivals}
     for f, v in stats["festivals"]["by_festival"].items():
         print(f"festival {f}: {v['activities']} activities, {v['vendor_sources']} vendor sources, {nwin.get(f, 0)} windows")

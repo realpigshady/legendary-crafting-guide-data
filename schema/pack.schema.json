@@ -476,6 +476,10 @@
             "type": "string",
             "description": "variants of one activity: the planner plans at most one activity of a group per play day (missing = its own group)"
           },
+          "same_as": {
+            "type": "string",
+            "description": "id of the addon's [fast] overlay record that is the same activity (config/activity_matches.json); its group is that record's group"
+          },
           "cap_groups": {
             "type": "array",
             "items": {

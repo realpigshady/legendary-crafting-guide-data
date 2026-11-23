@@ -1,0 +1,362 @@
+{
+ "_comment": "Data 3b step 2 (owner 2026-11-23, review of addon docs/research/DUPLICATE_ACTIVITIES.md): wiki activities that are the same activity as a record of the addon's [fast] overlay. Ids only, no [fast] data (as config/castora.json does). tools/activity_matches.py writes `same_as` = the [fast] id and `group` = the [fast] record's group (its id when it has none) on each wiki record, so the planner runs at most one of them a play day and a daily reward is never counted twice; `weekly_cap` also puts the wiki record into the [fast] raid's weekly-chest cap group, so the weekly chest counts once a week. With the overlay off the group has one member and changes nothing. Built from docs/research/dup_activities.py (verdict 'copy', keeper from [fast]); re-run it after an overlay or pack change and add new copies here.",
+ "matches": [
+  {
+   "wiki": "evt:core-hwb:karka_queen",
+   "fast": "fast:open-world.meta:southsun-cove-karka-queen"
+  },
+  {
+   "wiki": "evt:core-hwb:tequatl_the_sunless",
+   "fast": "fast:open-world.meta:sparkfly-fen-tequatl-the-sunless"
+  },
+  {
+   "wiki": "evt:core-hwb:triple_trouble",
+   "fast": "fast:open-world.meta:bloodtide-coast-triple-trouble"
+  },
+  {
+   "wiki": "evt:core-la:gendarran_fields",
+   "fast": "fast:open-world.meta:gendarran-fields-ley-line-anomaly"
+  },
+  {
+   "wiki": "evt:core-la:iron_marches",
+   "fast": "fast:open-world.meta:iron-marches-ley-line-anomaly"
+  },
+  {
+   "wiki": "evt:core-la:timberline_falls",
+   "fast": "fast:open-world.meta:timberline-falls-ley-line-anomaly"
+  },
+  {
+   "wiki": "evt:core-wb:admiral_taidha_covington",
+   "fast": "fast:open-world.meta:bloodtide-coast-taidha-covington"
+  },
+  {
+   "wiki": "evt:core-wb:claw_of_jormag",
+   "fast": "fast:open-world.meta:frostgorge-sound-claw-of-jormag"
+  },
+  {
+   "wiki": "evt:core-wb:fire_elemental",
+   "fast": "fast:open-world.meta:metrica-province-fire-elemental"
+  },
+  {
+   "wiki": "evt:core-wb:golem_mark_ii",
+   "fast": "fast:open-world.meta:mount-maelstrom-golem-mk-ii"
+  },
+  {
+   "wiki": "evt:core-wb:great_jungle_wurm",
+   "fast": "fast:open-world.meta:caledon-forest-great-jungle-wurm"
+  },
+  {
+   "wiki": "evt:core-wb:megadestroyer",
+   "fast": "fast:open-world.meta:mount-maelstrom-megadestroyer"
+  },
+  {
+   "wiki": "evt:core-wb:modniir_ulgoth",
+   "fast": "fast:open-world.meta:harathi-hinterlands-modniir-ulgoth"
+  },
+  {
+   "wiki": "evt:core-wb:shadow_behemoth",
+   "fast": "fast:open-world.meta:queensdale-shadow-behemoth"
+  },
+  {
+   "wiki": "evt:core-wb:svanir_shaman_chief",
+   "fast": "fast:open-world.meta:wayfarer-foothills-svanir-shaman"
+  },
+  {
+   "wiki": "evt:core-wb:the_shatterer",
+   "fast": "fast:open-world.meta:blazeridge-steppes-the-shatterer"
+  },
+  {
+   "wiki": "evt:eod-de:the_battle_for_the_jade_sea",
+   "fast": "fast:open-world.meta:dragons-end-the-battle-for-the-jade-sea"
+  },
+  {
+   "wiki": "evt:eod-ew:aspenwood",
+   "fast": "fast:open-world.meta:echovald-wilds-aspenwood"
+  },
+  {
+   "wiki": "evt:eod-ew:gang_war",
+   "fast": "fast:open-world.meta:echovald-wilds-gang-war"
+  },
+  {
+   "wiki": "evt:eod-nkc:kaineng_blackout",
+   "fast": "fast:open-world.meta:new-kaineng-city-kaineng-blackout-meta"
+  },
+  {
+   "wiki": "evt:eod-sp:aetherblade_assault",
+   "fast": "fast:open-world.meta:seitung-province-aetherblade-assault"
+  },
+  {
+   "wiki": "evt:hot-ab:battle_in_tarir_octovine",
+   "fast": "fast:open-world.meta:auric-basin-octovine"
+  },
+  {
+   "wiki": "evt:hot-ab:challenges",
+   "fast": "fast:open-world.meta:auric-basin-octovine"
+  },
+  {
+   "wiki": "evt:hot-ab:defending_tarir_pylons",
+   "fast": "fast:open-world.meta:auric-basin-octovine"
+  },
+  {
+   "wiki": "evt:hot-ds:start_advancing_on_the_blighting_towers",
+   "fast": "fast:open-world.meta:dragons-stand-meta"
+  },
+  {
+   "wiki": "evt:hot-td:advancing_across_tangled_roots_outposts",
+   "fast": "fast:open-world.meta:tangled-depths-chak-gerent"
+  },
+  {
+   "wiki": "evt:hot-td:king_of_the_jungle_chak_gerent",
+   "fast": "fast:open-world.meta:tangled-depths-chak-gerent"
+  },
+  {
+   "wiki": "evt:hot-vb:day_securing_verdant_brink",
+   "fast": "fast:open-world.meta:verdant-brink-wyvern-matriarch"
+  },
+  {
+   "wiki": "evt:hot-vb:night_bosses",
+   "fast": "fast:open-world.meta:verdant-brink-wyvern-matriarch"
+  },
+  {
+   "wiki": "evt:hot-vb:night_night_and_the_enemy",
+   "fast": "fast:open-world.meta:verdant-brink-wyvern-matriarch"
+  },
+  {
+   "wiki": "evt:jw-bn:a_titanic_voyage",
+   "fast": "fast:open-world.meta:bava-nisos-a-titanic-voyage"
+  },
+  {
+   "wiki": "evt:jw-js:of_mists_and_monsters",
+   "fast": "fast:open-world.meta:janthir-syntri-of-mists-and-monsters"
+  },
+  {
+   "wiki": "evt:lws4-di:palawadan",
+   "fast": "fast:open-world.meta:domain-of-istan-sunspear-uprising-palawadan"
+  },
+  {
+   "wiki": "evt:lws4-jb:death_branded_shatterer",
+   "fast": "fast:open-world.meta:jahai-bluffs-death-branded-shatterer"
+  },
+  {
+   "wiki": "evt:lws4-tp:the_oil_floes",
+   "fast": "fast:open-world.meta:thunderhead-peaks-the-oil-floes"
+  },
+  {
+   "wiki": "evt:lws4-tp:thunderhead_keep",
+   "fast": "fast:open-world.meta:thunderhead-peaks-thunderhead-keep"
+  },
+  {
+   "wiki": "evt:lws5-bm:defend_jora_s_keep",
+   "fast": "fast:open-world.meta:bjora-marches-storms-of-winter"
+  },
+  {
+   "wiki": "evt:lws5-bm:drakkar_and_spirits_of_the_wild",
+   "fast": "fast:open-world.meta:bjora-marches-drakkar"
+  },
+  {
+   "wiki": "evt:lws5-gv:doomlore_shrine",
+   "fast": "fast:open-world.meta:grothmar-valley-doomlore-shrine"
+  },
+  {
+   "wiki": "evt:lws5-gv:effigy",
+   "fast": "fast:open-world.meta:grothmar-valley-burning-effigy"
+  },
+  {
+   "wiki": "evt:lws5-gv:metal_concert",
+   "fast": "fast:open-world.meta:grothmar-valley-metal-concert"
+  },
+  {
+   "wiki": "evt:lws5-gv:ooze_pits",
+   "fast": "fast:open-world.meta:grothmar-valley-ooze-pits"
+  },
+  {
+   "wiki": "evt:pof-co:pinata_reset",
+   "fast": "fast:open-world.meta:crystal-oasis-casino-blitz-pinata"
+  },
+  {
+   "wiki": "evt:pof-co:rounds_1_to_3",
+   "fast": "fast:open-world.meta:crystal-oasis-casino-blitz-pinata"
+  },
+  {
+   "wiki": "evt:pof-dh:buried_treasure",
+   "fast": "fast:open-world.solo-farming:desert-highlands-the-search-for-buried-treasure"
+  },
+  {
+   "wiki": "evt:pof-dv:forged_with_fire",
+   "fast": "fast:open-world.meta:domain-of-vabbi-forged-with-fire"
+  },
+  {
+   "wiki": "evt:pof-er:doppelganger",
+   "fast": "fast:open-world.meta:elon-riverlands-doppelganger"
+  },
+  {
+   "wiki": "evt:pof-er:the_path_to_ascension_augury_rock",
+   "fast": "fast:open-world.meta:elon-riverlands-the-path-to-ascension"
+  },
+  {
+   "wiki": "evt:pof-td:junundu_rising",
+   "fast": "fast:open-world.meta:the-desolation-junundu-rising"
+  },
+  {
+   "wiki": "evt:pof-td:maws_of_torment",
+   "fast": "fast:open-world.meta:the-desolation-maws-of-torment"
+  },
+  {
+   "wiki": "evt:public-con:mount_balrior",
+   "fast": "fast:open-world.meta:convergence-mount-balrior"
+  },
+  {
+   "wiki": "evt:public-con:outer_nayos",
+   "fast": "fast:open-world.meta:convergence-outer-nayos"
+  },
+  {
+   "wiki": "evt:public-eotn:battle_for_lion_s_arch",
+   "fast": "fast:open-world.meta:battle-for-lions-arch"
+  },
+  {
+   "wiki": "evt:public-eotn:dragonstorm",
+   "fast": "fast:open-world.meta:dragonstorm"
+  },
+  {
+   "wiki": "evt:public-eotn:tower_of_nightmares",
+   "fast": "fast:open-world.meta:the-tower-of-nightmares"
+  },
+  {
+   "wiki": "evt:public-eotn:twisted_marionette",
+   "fast": "fast:open-world.meta:twisted-marionette"
+  },
+  {
+   "wiki": "evt:soto-am:defense_of_amnytas",
+   "fast": "fast:open-world.meta:amnytas-the-defense-of-amnytas"
+  },
+  {
+   "wiki": "evt:soto-sa:unlocking_the_wizard_s_tower",
+   "fast": "fast:open-world.meta:skywatch-archipelago-unlocking-the-wizards-tower"
+  },
+  {
+   "wiki": "evt:soto-wt:fly_by_night",
+   "fast": "fast:open-world.meta:skywatch-archipelago-unlocking-the-wizards-tower"
+  },
+  {
+   "wiki": "evt:soto-wt:target_practice",
+   "fast": "fast:open-world.meta:skywatch-archipelago-unlocking-the-wizards-tower"
+  },
+  {
+   "wiki": "evt:soto-wt:target_practice_fly_by_night",
+   "fast": "fast:open-world.meta:skywatch-archipelago-unlocking-the-wizards-tower"
+  },
+  {
+   "wiki": "evt:voe-ss:hammerhart_rumble",
+   "fast": "fast:open-world.meta:shipwreck-strand-hammerhart-rumble"
+  },
+  {
+   "wiki": "evt:voe-sw:secrets_of_the_weald",
+   "fast": "fast:open-world.meta:starlit-weald-secrets-of-the-weald"
+  },
+  {
+   "wiki": "li:daily_raid_bounties",
+   "fast": "owner:daily-raid-bounties"
+  },
+  {
+   "wiki": "loc:aetherblade_hideout",
+   "fast": "fast:instances.raids:aetherblade-hideout-weekly",
+   "group": "fast:instances.raids:aetherblade-hideout",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-aetherblade-hideout"
+  },
+  {
+   "wiki": "loc:ascent_to_madness",
+   "fast": "fast:festivals.halloween:ascent-to-madness"
+  },
+  {
+   "wiki": "loc:bell_choir_ensemble",
+   "fast": "fast:festivals.wintersday:bell-choir-ensemble"
+  },
+  {
+   "wiki": "loc:boneskinner",
+   "fast": "fast:instances.raids:boneskinner"
+  },
+  {
+   "wiki": "loc:cold_war",
+   "fast": "fast:instances.raids:cold-war"
+  },
+  {
+   "wiki": "loc:cosmic_observatory",
+   "fast": "fast:instances.raids:cosmic-observatory-weekly",
+   "group": "fast:instances.raids:cosmic-observatory",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-cosmic-observatory"
+  },
+  {
+   "wiki": "loc:forging_steel",
+   "fast": "fast:instances.raids:forging-steel"
+  },
+  {
+   "wiki": "loc:fraenir_of_jormag",
+   "fast": "fast:instances.raids:fraenir-of-jormag"
+  },
+  {
+   "wiki": "loc:harvest_temple",
+   "fast": "fast:instances.raids:harvest-temple-weekly",
+   "group": "fast:instances.raids:harvest-temple",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-harvest-temple"
+  },
+  {
+   "wiki": "loc:kaineng_overlook",
+   "fast": "fast:instances.raids:kaineng-overlook-weekly",
+   "group": "fast:instances.raids:kaineng-overlook",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-kaineng-overlook"
+  },
+  {
+   "wiki": "loc:mad_king_s_clock_tower",
+   "fast": "fast:festivals.halloween:mad-kings-clock-tower"
+  },
+  {
+   "wiki": "loc:old_lion_s_court",
+   "fast": "fast:instances.raids:old-lions-court-weekly",
+   "group": "fast:instances.raids:old-lions-court",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-old-lions-court"
+  },
+  {
+   "wiki": "loc:secret_lair_of_the_snowmen",
+   "fast": "fast:festivals.wintersday:secret-lair-of-the-snowmen-raid:daily",
+   "group": "fast:festivals.wintersday:secret-lair-of-the-snowmen-raid"
+  },
+  {
+   "wiki": "loc:shiverpeaks_pass",
+   "fast": "fast:instances.raids:shiverpeaks-pass"
+  },
+  {
+   "wiki": "loc:stopped_clock_tower",
+   "fast": "fast:festivals.halloween:stopped-clocktower"
+  },
+  {
+   "wiki": "loc:temple_of_febe",
+   "fast": "fast:instances.raids:temple-of-febe-weekly",
+   "group": "fast:instances.raids:temple-of-febe",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-temple-of-febe"
+  },
+  {
+   "wiki": "loc:toypocalypse",
+   "fast": "fast:festivals.wintersday:toypocalypse"
+  },
+  {
+   "wiki": "loc:whisper_of_jormag",
+   "fast": "fast:instances.raids:whisper-of-jormag"
+  },
+  {
+   "wiki": "loc:xunlai_jade_junkyard",
+   "fast": "fast:instances.raids:xunlai-jade-junkyard-weekly",
+   "group": "fast:instances.raids:xunlai-jade-junkyard",
+   "weekly_cap": "weekly-chest:bouncy-chest-event-xunlai-jade-junkyard"
+  },
+  {
+   "wiki": "ls3:gather:bitterfrost_frontier",
+   "fast": "fast:open-world.solo-farming:bitterfrost-frontier-winterberry-farm",
+   "group": "ls3:gather:bitterfrost_frontier"
+  },
+  {
+   "wiki": "ls3:gather:lake_doric",
+   "fast": "fast:open-world.solo-farming:lake-doric-jade-crystal-node-farm",
+   "group": "ls3:gather:lake_doric"
+  }
+ ]
+}
