@@ -1,0 +1,23 @@
+{
+ "_comment": "Data R1 section 9 step 5 (2026-11-23): wiki facts the general walk misses, read from the wiki like every other source (snapshot-kept). tools/unlock_sources.py applies them after the collection gifts.",
+ "reward_containers": {
+  "_note": "An item that is only had by opening a box an achievement gives (Ad Infinitum's Solutions: the collection gives Proof: <x>, which surely contains Solution: <x>). The walk records the box with no source, so the item had none (Data 13b). Per item: 'container' = the box (its 'Contains item' row must say Guaranteed), 'unlock_item' = the item that starts the achievement (its page's Acquisition: 'Talking to [[NPC]]', optionally 'after completing [[achievement]]'). The item gets a reward source for the achievement that gives the box (SMW 'Gives item'), with via_container and unlock; its other sources are kept.",
+  "items": {
+   "Solution: Finite Result": {"container": "Proof: Finite Result", "unlock_item": "Theory of the Finite Result"},
+   "Solution: Upper Bound": {"container": "Proof: Upper Bound", "unlock_item": "Theory of the Upper Bound"},
+   "Solution: Unbound": {"container": "Proof: Unbound", "unlock_item": "Theory of the Unbound"}
+  }
+ },
+ "vendor_unlocks": {
+  "_note": "A vendor that sells only after an achievement and a weekly hand-in (Myung-Hee: The Jade Vault, then all four Jade statuettes every week; wiki Myung-Hee and The Jade Vault, probe 2026-11-23 probe/out/wf_pages.json). The items are read from the vendor's own SMW requirement text ('...: A, B, C, D'), checked against the achievement's Item bits in the official API, and walked like recipe ingredients (Trading Post, the meta events that reward them). Every vendor source of that NPC gets 'unlock' {achievement_id, achievement_name, wiki_page, items, items_per}. The items are not inputs of the price: the hand-in opens the vendor for the week, however many are bought (Planner reads 'unlock').",
+  "vendors": [
+   {"npc": "Myung-Hee", "achievement_id": 6436, "achievement_name": "The Jade Vault", "items_per": "week"}
+  ]
+ },
+ "instance_entrances": {
+  "_note": "Vendors in an instance whose only API waypoint is inside it (Mistlock Observatory: the map index has Thaumanova Reactor only): the wiki location is resolved as its entrance instead. Mistlock Observatory: 'Passing through the central portal at the Mist Portals in Fort Marriner, Lion's Arch' (wiki Mistlock Observatory, probe 2026-11-23). Mistlock Sanctuary is not mapped: it needs a passkey, so it has no public entrance.",
+  "locations": {
+   "Mistlock Observatory": "Fort Marriner (Lion's Arch)"
+  }
+ }
+}

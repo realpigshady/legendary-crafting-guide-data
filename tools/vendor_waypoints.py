@@ -23,6 +23,11 @@ from pathlib import Path
 from typing import Callable
 
 MAX_AGE_S = 6 * 24 * 3600
+# An instance whose only API waypoint is inside it is resolved as its entrance (config/unlock_sources.json
+# "instance_entrances", wiki text): Mistlock Observatory -> the Fractals portal at Fort Marriner, Lion's Arch.
+_CFG = Path(__file__).resolve().parent.parent / "config" / "unlock_sources.json"
+ENTRANCES: dict[str, str] = (json.loads(_CFG.read_text(encoding="utf-8")).get("instance_entrances", {}).get("locations", {})
+                             if _CFG.exists() else {})
 API = "https://api.guildwars2.com"
 INDEX = "map-index.json"
 
@@ -161,7 +166,9 @@ def resolve_all(locations: list[str], f: Finder, places: Callable[[list[str]], d
     out: dict[str, dict | None] = {}
     info: dict[str, tuple[list[str], set[int]]] = {}
     for loc in locations:
-        out[loc] = f.find(loc)
+        out[loc] = f.find(ENTRANCES[loc]) if loc in ENTRANCES else None
+        if out[loc] is None:
+            out[loc] = f.find(loc)
     level = [l for l in locations if out[l] is None]
     chains = {l: [l] for l in level}            # loc -> names asked so far, nearest first
     for _ in range(DEPTH):
@@ -200,15 +207,17 @@ def resolve_all(locations: list[str], f: Finder, places: Callable[[list[str]], d
 
 def annotate(nodes: list[dict], maps: list[dict], places: Callable[[list[str]], dict[str, list[dict]]] | None = None) -> dict:
     """Adds map_id, map, waypoint_name, waypoint_chat_code to each vendor (first location
-    that resolves). Returns coverage counts for stats.json."""
+    that resolves), and to a source's ``unlock`` NPC (unlock_sources.py: Kelvei). Returns coverage
+    counts for stats.json."""
     f = Finder(maps)
-    locs = sorted({l for n in nodes for s in n.get("sources", []) for v in s.get("vendors") or [] for l in v.get("locations") or []})
+    people = lambda s: (s.get("vendors") or []) + ([s["unlock"]] if isinstance(s.get("unlock"), dict) and s["unlock"].get("npc") else [])
+    locs = sorted({l for n in nodes for s in n.get("sources", []) for v in people(s) for l in v.get("locations") or []})
     cache = resolve_all(locs, f, places) if maps else {l: None for l in locs}
     seen, hit = set(), set()
     unresolved: dict[str, int] = {}
     for n in nodes:
         for s in n.get("sources", []):
-            for v in s.get("vendors") or []:
+            for v in people(s):
                 for k in ("map_id", "map", "waypoint_name", "waypoint_chat_code"):
                     v.pop(k, None)
                 key = v["npc"] + "|" + "|".join(v.get("locations") or [])

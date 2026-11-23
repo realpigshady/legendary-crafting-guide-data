@@ -35,6 +35,7 @@ import activity_catalog as acat  # noqa: E402
 import ls3_currencies as ls3  # noqa: E402
 import castora  # noqa: E402
 import collection_gifts as cgift  # noqa: E402
+import unlock_sources as unl  # noqa: E402
 import mirror_routes  # noqa: E402
 import vendor_waypoints as vwp  # noqa: E402
 import festivals as fest  # noqa: E402
@@ -415,6 +416,20 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
     for w_ in cwarn:
         print(f"  {w_}", file=sys.stderr)
     print(f"collection gifts: {cstats}")
+
+    # unlock facts the walk misses (Data R1 section 9 step 5): Ad Infinitum's Solutions as the reward of the
+    # collection that gives their Proof; Myung-Hee's vendor opened by The Jade Vault and the weekly statuettes
+    try:
+        rstats, rwarn, fixed = unl.apply_reward_containers(nodes, store, smw)
+        vstats, vwarn = unl.apply_vendor_unlocks(nodes, acts, random_seen, http.get_json, store, smw, currencies,
+                                                 lambda ids_: untradeable_ids(http, ids_), expand)
+    except (wp.WikiDown, wsrc.WikiSourcesDown) as e:
+        raise SourceDown(str(e)) from e
+    stats["unlock_sources"] = {"reward_containers": rstats, "vendor_unlocks": vstats}
+    warnings = [w_ for w_ in warnings if not any(w_.endswith(f"no source: {nm}") for nm in fixed)] + rwarn + vwarn
+    for w_ in rwarn + vwarn:
+        print(f"  {w_}", file=sys.stderr)
+    print(f"unlock sources: {stats['unlock_sources']}")
 
     # random forge recipes: expected output and byproducts from the wiki's drop research
     try:

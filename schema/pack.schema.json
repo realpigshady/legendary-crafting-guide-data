@@ -220,6 +220,14 @@
                   "minimum": 0,
                   "description": "reward: minutes per step (0/absent = default estimate)"
                 },
+                "via_container": {
+                  "type": "string",
+                  "description": "reward: the achievement gives this box, which surely contains the item (Proof: Finite Result for Solution: Finite Result); opening it is part of the reward"
+                },
+                "unlock": {
+                  "type": "object",
+                  "description": "reward: the item that starts the achievement and the NPC that gives it ({item, item_id, npc, locations, after_achievement?, map_id, map, waypoint_name, waypoint_chat_code}: Theory of the Finite Result from Kelvei). vendor: the seller opens only after an achievement and a hand-in ({achievement_id, achievement_name, wiki_page, items: [{node_id, count}], items_per: week|once}: Myung-Hee after The Jade Vault, the four Jade statuettes each week); the items are not inputs of the price"
+                },
                 "expected_output": {
                   "type": "number",
                   "exclusiveMinimum": 0,
