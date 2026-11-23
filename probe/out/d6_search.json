@@ -1,0 +1,46 @@
+{
+ "params": {
+  "action": "query",
+  "list": "search",
+  "srsearch": "promote fine crafting material Mystic Forge average",
+  "srlimit": "20",
+  "format": "json"
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "searchinfo": {
+    "totalhits": 3
+   },
+   "search": [
+    {
+     "ns": 0,
+     "title": "Mystic Forge",
+     "pageid": 35591,
+     "size": 23952,
+     "wordcount": 2889,
+     "snippet": "upon using them in the <span class=\"searchmatch\">Mystic</span> <span class=\"searchmatch\">Forge</span>. Primary article: /<span class=\"searchmatch\">Material</span> Promotion The <span class=\"searchmatch\">mystic</span> <span class=\"searchmatch\">forge</span> can be used to <span class=\"searchmatch\">promote</span> <span class=\"searchmatch\">crafting</span> <span class=\"searchmatch\">materials</span> to a higher tier using",
+     "timestamp": "2026-07-03T21:22:53Z"
+    },
+    {
+     "ns": 0,
+     "title": "Mystic Forge/Material Promotion",
+     "pageid": 108199,
+     "size": 3229,
+     "wordcount": 153,
+     "snippet": "Listed here are <span class=\"searchmatch\">crafting</span> <span class=\"searchmatch\">material</span> promotion recipes for the <span class=\"searchmatch\">Mystic</span> <span class=\"searchmatch\">Forge</span>. Promotion of tiers 1-4 yield an <span class=\"searchmatch\">average</span> return of 86.34 items. Promotion of tier",
+     "timestamp": "2026-09-27T01:51:03Z"
+    },
+    {
+     "ns": 0,
+     "title": "List of bugs",
+     "pageid": 250110,
+     "size": 13797,
+     "wordcount": 174,
+     "snippet": "and reopen the <span class=\"searchmatch\">mystic</span> <span class=\"searchmatch\">forge</span>. Reloading the map Loading a different character Using a different <span class=\"searchmatch\">mystic</span> <span class=\"searchmatch\">forge</span> source/station. The <span class=\"searchmatch\">Mystic</span> <span class=\"searchmatch\">Forge</span> accepts the following",
+     "timestamp": "2026-03-15T19:45:52Z"
+    }
+   ]
+  }
+ }
+}
