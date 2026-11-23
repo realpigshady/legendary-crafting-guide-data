@@ -373,6 +373,17 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         for w in miss:
             print(f"  {fam_id}: {w}", file=sys.stderr)
         members = sorted(matched)
+        # Data 5: a page shared by several API items of one name with no id of its own is a hub over
+        # armor weights (Eikasia, Mists-Grasper; Selachimorpha): the recipe / vendor / container facts
+        # are on "<title> (light|medium|heavy)", so those subpages are walked too (each has the item id)
+        walk_roots = list(members)
+        if fam.get("from") == "armory":
+            for title in members:
+                same = [i for i in items if i.get("name") == matched[title]]
+                weights = sorted({(i.get("details") or {}).get("weight_class", "") for i in same} - {""})
+                text = pages[matched[title]].text if matched[title] in pages else ""
+                if len(same) > 1 and weights and not re.search(r"\|\s*id\s*=\s*\d", text or ""):
+                    walk_roots += [f"{title} ({w.lower()})" for w in weights]
         if not members:
             raise SystemExit(f"{fam_id}: 0 legendaries matched — check config/families.json")
         if limit:
@@ -381,7 +392,7 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
         before = (store.requests, store.bytes, store.fresh)
         try:
             ids = [i["id"] for i in items if i.get("name") in set(matched.values())]
-            tree = wp.walk(store, members, currencies, lambda ids_: untradeable_ids(http, ids_), expand, sources=smw, root_ids=ids)
+            tree = wp.walk(store, walk_roots, currencies, lambda ids_: untradeable_ids(http, ids_), expand, sources=smw, root_ids=ids)
         except (wp.WikiDown, wsrc.WikiSourcesDown) as e:
             raise SourceDown(str(e)) from e
         for n in tree.nodes.values():
