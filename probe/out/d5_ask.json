@@ -1,0 +1,365 @@
+{
+ "params": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Has canonical name::Eikasia, Mists-Grasper||Selachimorpha||Strife Unending||Legendary Equipment Unlocked!]]|?Has game id|?Has item type|?Has rarity|?Is account bound|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item type",
+     "key": "Has_item_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rarity",
+     "key": "Has_rarity",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is account bound",
+     "key": "Is_account_bound",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Eikasia, Mists-Grasper": {
+     "printouts": {
+      "Has game id": [],
+      "Has item type": [
+       "Gloves"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (heavy skin)": {
+     "printouts": {
+      "Has game id": [
+       13230
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (heavy skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(heavy_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (heavy)": {
+     "printouts": {
+      "Has game id": [
+       105171
+      ],
+      "Has item type": [
+       "Gloves"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (heavy)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(heavy)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (light skin)": {
+     "printouts": {
+      "Has game id": [
+       13224
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (light skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(light_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (light)": {
+     "printouts": {
+      "Has game id": [
+       105317
+      ],
+      "Has item type": [
+       "Gloves"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (light)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(light)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (medium skin)": {
+     "printouts": {
+      "Has game id": [
+       13222
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (medium skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(medium_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Eikasia, Mists-Grasper (medium)": {
+     "printouts": {
+      "Has game id": [
+       105293
+      ],
+      "Has item type": [
+       "Gloves"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Eikasia, Mists-Grasper (medium)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Eikasia,_Mists-Grasper_(medium)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Legendary Equipment Unlocked!": {
+     "printouts": {
+      "Has game id": [
+       95093
+      ],
+      "Has item type": [
+       "Accessory"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Legendary Equipment Unlocked!",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Legendary_Equipment_Unlocked!",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha": {
+     "printouts": {
+      "Has game id": [],
+      "Has item type": [
+       "Aquatic Headgear"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (heavy skin land)": {
+     "printouts": {
+      "Has game id": [
+       13617
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (heavy skin land)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(heavy_skin_land)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (heavy skin)": {
+     "printouts": {
+      "Has game id": [
+       13636
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (heavy skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(heavy_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (heavy)": {
+     "printouts": {
+      "Has game id": [
+       106178
+      ],
+      "Has item type": [
+       "Aquatic Headgear"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (heavy)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(heavy)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (light skin land)": {
+     "printouts": {
+      "Has game id": [
+       13349
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (light skin land)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(light_skin_land)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (light skin)": {
+     "printouts": {
+      "Has game id": [
+       13275
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (light skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(light_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (light)": {
+     "printouts": {
+      "Has game id": [
+       105921
+      ],
+      "Has item type": [
+       "Aquatic Headgear"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (light)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(light)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (medium skin land)": {
+     "printouts": {
+      "Has game id": [
+       13335
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (medium skin land)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(medium_skin_land)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (medium skin)": {
+     "printouts": {
+      "Has game id": [
+       13432
+      ],
+      "Has item type": [],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (medium skin)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(medium_skin)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Selachimorpha (medium)": {
+     "printouts": {
+      "Has game id": [
+       106658
+      ],
+      "Has item type": [
+       "Aquatic Headgear"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Selachimorpha (medium)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Selachimorpha_(medium)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Strife Unending": {
+     "printouts": {
+      "Has game id": [
+       109012
+      ],
+      "Has item type": [
+       "Accessory"
+      ],
+      "Has rarity": [],
+      "Is account bound": []
+     },
+     "fulltext": "Strife Unending",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Strife_Unending",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "5372a6ec5d7b542799c0f6818a183bf7",
+    "count": 19,
+    "offset": 0,
+    "source": "",
+    "time": "0.033387"
+   }
+  }
+ }
+}
