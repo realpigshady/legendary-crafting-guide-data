@@ -28,6 +28,9 @@ MAX_AGE_S = 6 * 24 * 3600
 _CFG = Path(__file__).resolve().parent.parent / "config" / "unlock_sources.json"
 ENTRANCES: dict[str, str] = (json.loads(_CFG.read_text(encoding="utf-8")).get("instance_entrances", {}).get("locations", {})
                              if _CFG.exists() else {})
+# Maps whose API waypoints are all inside the instance (Fractals of the Mists): never a vendor's waypoint (Data 9b)
+INSTANCE_ONLY: set[int] = (set(json.loads(_CFG.read_text(encoding="utf-8")).get("instance_entrances", {}).get("instance_only_maps", []))
+                           if _CFG.exists() else set())
 API = "https://api.guildwars2.com"
 INDEX = "map-index.json"
 
@@ -202,6 +205,9 @@ def resolve_all(locations: list[str], f: Finder, places: Callable[[list[str]], d
                         break
                 if out[l]:
                     break
+    for l in locations:                         # an instance-only map's waypoint can't be travelled to from outside
+        if out[l] and out[l].get("map_id") in INSTANCE_ONLY and l not in ENTRANCES:
+            out[l] = None
     return out
 
 

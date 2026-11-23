@@ -18,6 +18,8 @@
   "_note": "Vendors in an instance whose only API waypoint is inside it (Mistlock Observatory: the map index has Thaumanova Reactor only): the wiki location is resolved as its entrance instead. Mistlock Observatory: 'Passing through the central portal at the Mist Portals in Fort Marriner, Lion's Arch' (wiki Mistlock Observatory, probe 2026-11-23). Mistlock Sanctuary is not mapped: it needs a passkey, so it has no public entrance.",
   "locations": {
    "Mistlock Observatory": "Fort Marriner (Lion's Arch)"
-  }
+  },
+  "_instance_only_note": "Data 9b (2026-11-23): maps whose API waypoints are all inside the instance. A vendor location that resolves to one of them (Mistlock Sanctuary vendors and the Aetherblade Quartermaster in the Captain Mai Trin Boss Fractal climbed the wiki's Located in chain to Fractals of the Mists and got the Thaumanova Reactor waypoint) gets no waypoint unless it has an entrance above; the addon then opens the vendor's wiki page.",
+  "instance_only_maps": [957]
  }
 }

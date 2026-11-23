@@ -139,3 +139,13 @@ def test_old_extract_version_is_refetched(tmp_path):
         return MAPS_ALL if "/v2/maps" in url else FLOORS[tuple(int(x) for x in url.split("/continents/")[1].split("/floors/"))]
     maps_, fresh = vw.load(tmp_path, live, offline=False)
     assert fresh and calls and json.loads((tmp_path / vw.INDEX).read_text())["v"] == vw.VERSION
+
+
+def test_instance_only_map_gives_no_waypoint(monkeypatch):
+    """Data 9b: a location that resolves to a map whose waypoints are all inside the instance gets
+    no waypoint (Mistlock Sanctuary vendors used to get Thaumanova Reactor)."""
+    monkeypatch.setattr(vw, "INSTANCE_ONLY", {51})
+    assert vw.resolve_all(["Jora's Keep"], vw.Finder(maps()), None) == {"Jora's Keep": None}
+    monkeypatch.setattr(vw, "INSTANCE_ONLY", set())
+    assert vw.resolve_all(["Jora's Keep"], vw.Finder(maps()), None)["Jora's Keep"]["waypoint_chat_code"] == "[&WP20]"
+    assert 957 in vw.json.loads(vw._CFG.read_text(encoding="utf-8"))["instance_entrances"]["instance_only_maps"]
