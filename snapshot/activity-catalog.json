@@ -1173,10 +1173,10 @@
 ]
 },
 {
-"est_minutes": 1680,
+"est_minutes": 120,
 "expansion": "hot",
 "guidance": {
-"text": "Heart of Thorns: 1 a day (UTC 01:30; wiki event timer)",
+"text": "Heart of Thorns: every 120 min (UTC 01:30, 03:30, 05:30, 07:30...; wiki event timer)",
 "waypoint_chat_code": "[&BBAIAAA=]",
 "wiki_url": "https://wiki.guildwars2.com/wiki/Advancing_on_the_Blighting_Towers"
 },
@@ -1185,7 +1185,18 @@
 "mode": "pve",
 "name": "Dragon's Stand: Start advancing on the Blighting Towers",
 "starts_utc": [
-90
+90,
+210,
+330,
+450,
+570,
+690,
+810,
+930,
+1050,
+1170,
+1290,
+1410
 ],
 "yields": []
 },

@@ -57,11 +57,15 @@ def timed(events: dict) -> list[dict]:
         partial, pattern = m["sequences"].get("partial", []), m["sequences"].get("pattern", [])
         cyc = sum(x["d"] for x in pattern)
         line = partial + (pattern * (1440 // cyc + 2) if cyc else [])
+        # a pattern of one phase only (Dragon's Stand: "Start advancing..." 120 min) is a new run each
+        # cycle; otherwise a phase that ends the cycle and starts the next is one run
+        one_phase = len({seg[str(x["r"])].get("name") for x in pattern}) == 1
         blocks: dict[str, list[tuple[int, int]]] = {}
         t, prev = 0, None
-        for x in line:
+        for i, x in enumerate(line):
             sname = seg[str(x["r"])].get("name") or ""
-            if sname and sname == prev:
+            cycle_start = one_phase and i >= len(partial) and (i - len(partial)) % len(pattern) == 0
+            if sname and sname == prev and not cycle_start:
                 s0, d0 = blocks[sname][-1]
                 blocks[sname][-1] = (s0, d0 + x["d"])
             elif sname and t < 1440:
