@@ -1,0 +1,508 @@
+{
+ "params": {
+  "api": "/v2/achievements?ids=2351,2557,2368,2295,6436,6575"
+ },
+ "reply": [
+  {
+   "id": 6575,
+   "name": "Weekly Jade Vault",
+   "description": "",
+   "requirement": "Find 4 jade statuettes for Myung-Hee, Keeper of the Jade Vault, and return them to her.",
+   "locked_text": "",
+   "type": "ItemSet",
+   "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 95883,
+     "text": "Finish the Kaineng Blackout event or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 96495,
+     "text": "Finish the Gang War of Echovald event or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 96770,
+     "text": "Finish the Aetherblade Assault event in Seitung Province or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 95592,
+     "text": "Defeat the final opponent in the Battle for the Jade Sea or purchase from trading post."
+    }
+   ],
+   "tiers": [
+    {
+     "count": 4,
+     "points": 0
+    }
+   ],
+   "prerequisites": [
+    6436
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 97233,
+     "count": 25
+    }
+   ]
+  },
+  {
+   "id": 6436,
+   "name": "The Jade Vault",
+   "description": "",
+   "requirement": "Find 4 jade statuettes for Myung-Hee, Keeper of the Jade Vault, and return them to her.",
+   "locked_text": "",
+   "type": "ItemSet",
+   "flags": [
+    "Pvp",
+    "RepairOnLogin",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 97384,
+     "text": "Finish the Kaineng Blackout event or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 97185,
+     "text": "Finish the Gang War of Echovald event or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 95872,
+     "text": "Finish the Aetherblade Assault event in Seitung Province or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 97724,
+     "text": "Defeat the final opponent in the Battle for the Jade Sea or purchase from trading post."
+    },
+    {
+     "type": "Item",
+     "id": 95883,
+     "text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea."
+    },
+    {
+     "type": "Item",
+     "id": 96495,
+     "text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea."
+    },
+    {
+     "type": "Item",
+     "id": 96770,
+     "text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea."
+    },
+    {
+     "type": "Item",
+     "id": 95592,
+     "text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea."
+    }
+   ],
+   "tiers": [
+    {
+     "count": 8,
+     "points": 10
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 97233,
+     "count": 50
+    }
+   ]
+  },
+  {
+   "id": 2368,
+   "name": "Ad Infinitum III: Unbound",
+   "description": "Unlock all 11 fractal tier 3 components to work towards building the legendary fractal backpack.",
+   "requirement": "Collect all  fractal tier 3 components.",
+   "locked_text": "Complete Ad Infinitum II, then talk to Kelvei in the Fractals of the Mists.",
+   "type": "ItemSet",
+   "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 74878,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 70980,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 74889,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71427,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 72120,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 73929,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 72521,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 74474,
+     "text": ""
+    },
+    {
+     "type": "Skin",
+     "id": 2379,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 77266,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75018,
+     "text": ""
+    }
+   ],
+   "tiers": [
+    {
+     "count": 1,
+     "points": 1
+    },
+    {
+     "count": 5,
+     "points": 2
+    },
+    {
+     "count": 11,
+     "points": 3
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 72116,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 2557,
+   "name": "Ad Infinitum II: Upper Bound",
+   "description": "Unlock all 11 fractal tier 2 components to work towards building the legendary fractal backpack.",
+   "requirement": "Collect all  fractal tier 2 components.",
+   "locked_text": "Complete Ad Infinitum I, then talk to Kelvei in the Fractals of the Mists.",
+   "type": "ItemSet",
+   "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 75816,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76417,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 72905,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75477,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 77109,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76623,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76964,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75164,
+     "text": ""
+    },
+    {
+     "type": "Skin",
+     "id": 2378,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 73755,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75887,
+     "text": ""
+    }
+   ],
+   "tiers": [
+    {
+     "count": 1,
+     "points": 1
+    },
+    {
+     "count": 5,
+     "points": 2
+    },
+    {
+     "count": 11,
+     "points": 3
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 73527,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 2351,
+   "name": "Ad Infinitum I: Finite Result",
+   "description": "Unlock all 11 fractal components to work towards building the legendary fractal backpack.",
+   "requirement": "Collect all  fractal components.",
+   "locked_text": "Talk to Kelvei in the Fractals of the Mists.",
+   "type": "ItemSet",
+   "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 70580,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76329,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75039,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76918,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 70523,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75871,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71165,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71158,
+     "text": ""
+    },
+    {
+     "type": "Skin",
+     "id": 2377,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76172,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71281,
+     "text": ""
+    }
+   ],
+   "tiers": [
+    {
+     "count": 1,
+     "points": 1
+    },
+    {
+     "count": 5,
+     "points": 2
+    },
+    {
+     "count": 11,
+     "points": 3
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 76466,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 2295,
+   "name": "Legendary Backpack: Ad Infinitum",
+   "description": "Unlock all 13 fractal tier 4 components to work towards building the legendary fractal backpack.",
+   "requirement": "Collect all  fractal tier 4 components.",
+   "locked_text": "Complete Ad Infinitum III, then talk to Kelvei in the Fractals of the Mists.",
+   "type": "ItemSet",
+   "flags": [
+    "IgnoreNearlyComplete",
+    "Pvp",
+    "RepairOnLogin",
+    "RequiresUnlock",
+    "Permanent"
+   ],
+   "bits": [
+    {
+     "type": "Item",
+     "id": 73681,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 72794,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71082,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75268,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 70910,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71444,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 74065,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71533,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 76030,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 77141,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 72757,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 71597,
+     "text": ""
+    },
+    {
+     "type": "Item",
+     "id": 75962,
+     "text": ""
+    }
+   ],
+   "tiers": [
+    {
+     "count": 1,
+     "points": 1
+    },
+    {
+     "count": 5,
+     "points": 2
+    },
+    {
+     "count": 13,
+     "points": 3
+    }
+   ],
+   "rewards": [
+    {
+     "type": "Item",
+     "id": 74377,
+     "count": 1
+    }
+   ]
+  }
+ ]
+}

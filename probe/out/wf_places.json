@@ -1,0 +1,216 @@
+{
+ "params": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Has canonical name::Mistlock Observatory||Mistlock Sanctuary||Fractals of the Mists]]|?Located in|?Has map id|?Has location type|limit=20"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has map id",
+     "key": "Has_map_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Fractals of the Mists": {
+     "printouts": {
+      "Located in": [
+       {
+        "fulltext": "Fractals of the Mists (region)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(region)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has map id": [],
+      "Has location type": [
+       "Dungeon"
+      ]
+     },
+     "fulltext": "Fractals of the Mists",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractals of the Mists (achievements)": {
+     "printouts": {
+      "Located in": [],
+      "Has map id": [],
+      "Has location type": []
+     },
+     "fulltext": "Fractals of the Mists (achievements)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(achievements)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractals of the Mists (historical achievements)": {
+     "printouts": {
+      "Located in": [],
+      "Has map id": [],
+      "Has location type": []
+     },
+     "fulltext": "Fractals of the Mists (historical achievements)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(historical_achievements)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractals of the Mists (region)": {
+     "printouts": {
+      "Located in": [
+       {
+        "fulltext": "The Mists",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Mists",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has map id": [],
+      "Has location type": [
+       "Region"
+      ]
+     },
+     "fulltext": "Fractals of the Mists (region)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(region)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractals of the Mists (service)": {
+     "printouts": {
+      "Located in": [],
+      "Has map id": [],
+      "Has location type": []
+     },
+     "fulltext": "Fractals of the Mists (service)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(service)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractals of the Mists (story)": {
+     "printouts": {
+      "Located in": [
+       {
+        "fulltext": "Lion's Arch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lion%27s_Arch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has map id": [],
+      "Has location type": []
+     },
+     "fulltext": "Fractals of the Mists (story)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(story)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mistlock Observatory": {
+     "printouts": {
+      "Located in": [
+       {
+        "fulltext": "Fractals of the Mists",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has map id": [
+       872
+      ],
+      "Has location type": [
+       "Fractal"
+      ]
+     },
+     "fulltext": "Mistlock Observatory",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Observatory",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mistlock Sanctuary": {
+     "printouts": {
+      "Located in": [
+       {
+        "fulltext": "Fractals of the Mists (region)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractals_of_the_Mists_(region)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has map id": [
+       1206
+      ],
+      "Has location type": [
+       "City"
+      ]
+     },
+     "fulltext": "Mistlock Sanctuary",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mistlock Sanctuary (service)": {
+     "printouts": {
+      "Located in": [],
+      "Has map id": [],
+      "Has location type": []
+     },
+     "fulltext": "Mistlock Sanctuary (service)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mistlock_Sanctuary_(service)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "96a481faddd0aad8cdefb65eae5ef99f",
+    "count": 9,
+    "offset": 0,
+    "source": "",
+    "time": "0.030671"
+   }
+  }
+ }
+}

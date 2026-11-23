@@ -1,0 +1,156 @@
+{
+ "params": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Rewards item::Jade Gate Statuette||Jade Cathedral Statuette||Jade Empress Statuette||Jade Dragon Statuette]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=100"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Rewards item",
+     "key": "Rewards_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Rewarded by",
+     "key": "Rewarded_by",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has context"
+    },
+    {
+     "label": "Has location type",
+     "key": "Has_location_type",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Rewarded by.Has location type"
+    },
+    {
+     "label": "Has rewarded item chance",
+     "key": "Has_rewarded_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has rewarded item quantity",
+     "key": "Has_rewarded_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Kaineng Blackout#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Jade Gate Statuette",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Gate_Statuette",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "Kaineng Blackout",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kaineng_Blackout",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "Kaineng Blackout#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Kaineng_Blackout#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "The Gang War of Echovald#reward2": {
+     "printouts": {
+      "Rewards item": [
+       {
+        "fulltext": "Jade Cathedral Statuette",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Cathedral_Statuette",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Rewarded by": [
+       {
+        "fulltext": "The Gang War of Echovald",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Gang_War_of_Echovald",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "Event"
+      ],
+      "Has location type": [],
+      "Has rewarded item chance": [
+       "Guaranteed"
+      ],
+      "Has rewarded item quantity": [
+       "1"
+      ]
+     },
+     "fulltext": "The Gang War of Echovald#reward2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/The_Gang_War_of_Echovald#reward2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "db626b817a4febd341060386f7cad9f2",
+    "count": 2,
+    "offset": 0,
+    "source": "",
+    "time": "0.057437"
+   }
+  }
+ }
+}

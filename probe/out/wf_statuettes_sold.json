@@ -1,0 +1,63 @@
+{
+ "params": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Sells item::Jade Gate Statuette||Jade Cathedral Statuette||Jade Empress Statuette||Jade Dragon Statuette]]|?Sells item|?Has vendor|?Has item cost|?Has requirement|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": [],
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "2b65b0a9d797cf4c79673e1f13d36d85",
+    "count": 0,
+    "offset": 0,
+    "source": "",
+    "time": "0.005054"
+   }
+  }
+ }
+}

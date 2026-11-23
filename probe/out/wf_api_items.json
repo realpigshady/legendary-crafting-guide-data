@@ -1,0 +1,365 @@
+{
+ "params": {
+  "api": "/v2/items?ids=76466,73527,72116,71610,70665,73377,70435,73201,75469,97384,97185,95872,97724,97233,97829"
+ },
+ "reply": [
+  {
+   "name": "Proof: Finite Result",
+   "description": "Contains recipes and components for crafting the backpack Finite Result.",
+   "type": "Container",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 76466,
+   "chat_link": "[&AgGyKgEA]",
+   "icon": "https://render.guildwars2.com/file/01E7C8B0EB04F6E0CB25AA0403C96E0355B63A39/924581.png",
+   "details": {
+    "type": "Default"
+   }
+  },
+  {
+   "name": "Proof: Upper Bound",
+   "description": "Contains recipes and components for crafting the backpack Upper Bound.",
+   "type": "Container",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 73527,
+   "chat_link": "[&AgE3HwEA]",
+   "icon": "https://render.guildwars2.com/file/01E7C8B0EB04F6E0CB25AA0403C96E0355B63A39/924581.png",
+   "details": {
+    "type": "Default"
+   }
+  },
+  {
+   "name": "Proof: Unbound",
+   "description": "Contains recipes and components for crafting the backpack Unbound.",
+   "type": "Container",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 72116,
+   "chat_link": "[&AgG0GQEA]",
+   "icon": "https://render.guildwars2.com/file/01E7C8B0EB04F6E0CB25AA0403C96E0355B63A39/924581.png",
+   "details": {
+    "type": "Default"
+   }
+  },
+  {
+   "name": "Theory of the Finite Result",
+   "description": "Unlocks the collection Ad Infinitum I: Finite Result.",
+   "type": "Consumable",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 99,
+   "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 71610,
+   "chat_link": "[&AgG6FwEA]",
+   "icon": "https://render.guildwars2.com/file/3F6CB379076A94CCB0709E77EE9ACE4674EFB671/223713.png",
+   "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+   }
+  },
+  {
+   "name": "Theory of the Upper Bound",
+   "description": "Unlocks the collection Ad Infinitum II: Upper Bound.",
+   "type": "Consumable",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 99,
+   "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 70665,
+   "chat_link": "[&AgEJFAEA]",
+   "icon": "https://render.guildwars2.com/file/DBF694D7189D1005B29106DD453326DB69222A18/65636.png",
+   "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+   }
+  },
+  {
+   "name": "Theory of the Unbound",
+   "description": "Unlocks the collection Ad Infinitum III: Unbound.",
+   "type": "Consumable",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 99,
+   "game_types": [
+    "PvpLobby",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoMysticForge",
+    "NoSalvage",
+    "NoSell",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 73377,
+   "chat_link": "[&AgGhHgEA]",
+   "icon": "https://render.guildwars2.com/file/5DDF09ED3C0A7CD4026DA5293F07A41C9178EC0C/66878.png",
+   "details": {
+    "type": "Unlock",
+    "unlock_type": "Content"
+   }
+  },
+  {
+   "name": "Solution: Finite Result",
+   "description": "Used to craft the backpack Finite Result. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 70435,
+   "chat_link": "[&AgEjEwEA]",
+   "icon": "https://render.guildwars2.com/file/DCA678B606AD70016D511892565421EC0EDB3C9C/223857.png"
+  },
+  {
+   "name": "Solution: Upper Bound",
+   "description": "Used to craft the backpack Upper Bound. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 73201,
+   "chat_link": "[&AgHxHQEA]",
+   "icon": "https://render.guildwars2.com/file/F2E1C224261C70C4D95E3A4B94B662750CA5D360/65726.png"
+  },
+  {
+   "name": "Solution: Unbound",
+   "description": "Used to craft Unbound, the precursor to the legendary backpack Ad Infinitum. Extras can be purchased from the Aetherblade Quartermaster in the Captain Mai Trin Boss fractal for Balls of Dark Energy.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 75469,
+   "chat_link": "[&AgHNJgEA]",
+   "icon": "https://render.guildwars2.com/file/B6745C0DA4CB49665746CA04022E244606115B9F/65628.png"
+  },
+  {
+   "name": "Jade Gate Statuette",
+   "description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 0,
+   "game_types": [
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage",
+    "NoSell"
+   ],
+   "restrictions": [],
+   "id": 97384,
+   "chat_link": "[&AgFofAEA]",
+   "icon": "https://render.guildwars2.com/file/2EAC946E0AB2B03BD837B2D9B4F1700108DA9A64/2594208.png"
+  },
+  {
+   "name": "Jade Cathedral Statuette",
+   "description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 0,
+   "game_types": [
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage",
+    "NoSell"
+   ],
+   "restrictions": [],
+   "id": 97185,
+   "chat_link": "[&AgGhewEA]",
+   "icon": "https://render.guildwars2.com/file/135BFC12AF994CBB1A623C5B5479075A1AC5F94E/2594203.png"
+  },
+  {
+   "name": "Jade Empress Statuette",
+   "description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 0,
+   "game_types": [
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage",
+    "NoSell"
+   ],
+   "restrictions": [],
+   "id": 95872,
+   "chat_link": "[&AgGAdgEA]",
+   "icon": "https://render.guildwars2.com/file/4D7C220AB06F45DF2F982473E5BC95151DEE3CC0/2594206.png"
+  },
+  {
+   "name": "Jade Dragon Statuette",
+   "description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Rare",
+   "vendor_value": 0,
+   "game_types": [
+    "Pve"
+   ],
+   "flags": [
+    "NoSalvage",
+    "NoSell"
+   ],
+   "restrictions": [],
+   "id": 97724,
+   "chat_link": "[&AgG8fQEA]",
+   "icon": "https://render.guildwars2.com/file/63392371B67F3DCBA9013F9D063EBBFD7CF5B390/2594204.png"
+  },
+  {
+   "name": "Imperial Favor",
+   "description": "Adds Imperial Favor to your wallet.",
+   "type": "Consumable",
+   "level": 0,
+   "rarity": "Basic",
+   "vendor_value": 0,
+   "game_types": [
+    "Pvp",
+    "PvpLobby",
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "BulkConsume",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 97233,
+   "chat_link": "[&AgHRewEA]",
+   "icon": "https://render.guildwars2.com/file/55EFF5EC19A8E63F391D955DBD68E72B09B75E39/2594266.png",
+   "details": {
+    "type": "Immediate"
+   }
+  },
+  {
+   "name": "Blessing of the Jade Empress",
+   "description": "Purchased from Keepers of the Jade Vault.",
+   "type": "Trophy",
+   "level": 0,
+   "rarity": "Legendary",
+   "vendor_value": 640,
+   "game_types": [
+    "Activity",
+    "Wvw",
+    "Dungeon",
+    "Pve"
+   ],
+   "flags": [
+    "AccountBound",
+    "NoSalvage",
+    "NoSell",
+    "DeleteWarning",
+    "AccountBindOnUse"
+   ],
+   "restrictions": [],
+   "id": 97829,
+   "chat_link": "[&AgElfgEA]",
+   "icon": "https://render.guildwars2.com/file/B618074108F64D06A6541E4F25DF07A9ED7CCD61/2594278.png"
+  }
+ ]
+}

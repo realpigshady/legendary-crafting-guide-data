@@ -1,0 +1,1900 @@
+{
+ "params": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Has vendor::Myung-Hee]]|?Sells item|?Has item cost|?Has item quantity|?Has requirement|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|?Is historical|limit=100"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Myung-Hee#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bounty of New Kaineng City",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bounty_of_New_Kaineng_City",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [
+       5
+      ],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor10": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Depleted Jade Siege Shell",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Depleted_Jade_Siege_Shell",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor11": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Shoes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Shoes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor12": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor13": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Shoulderpads",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Shoulderpads",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor14": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Helm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Helm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "75"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor15": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "125"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor16": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Heavy Antique Coat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Heavy_Antique_Coat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor16",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor16",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor17": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Shoes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Shoes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor17",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor17",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor18": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor19": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Shoulderpads",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Shoulderpads",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor19",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor19",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bounty of Echovald Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bounty_of_Echovald_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [
+       5
+      ],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor20": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Helm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Helm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "75"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor21": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "125"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor22": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Medium Antique Coat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Medium_Antique_Coat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor23": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Shoes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Shoes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor24": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Gloves",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Gloves",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor24",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor24",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor25": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Shoulderpads",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Shoulderpads",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "100"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor25",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor25",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor26": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Hat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Hat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "75"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor26",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor26",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor27": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Leggings",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Leggings",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "125"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "250"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor27",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor27",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor28": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Berserker's Light Antique Coat",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Berserker%27s_Light_Antique_Coat",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "150"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "300"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor28",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor28",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor3": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bounty of Seitung Province",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bounty_of_Seitung_Province",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [
+       5
+      ],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bounty of Dragon's End",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bounty_of_Dragon%27s_End",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "200"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [
+       5
+      ],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "The Jade Throne",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Jade_Throne",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "20000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor6": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Blessing of the Jade Empress",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blessing_of_the_Jade_Empress",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Miniaturized Skiff Engine",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Miniaturized_Skiff_Engine",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor8": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "High-Energy Capacitor",
+        "fullurl": "https://wiki.guildwars2.com/wiki/High-Energy_Capacitor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Myung-Hee#vendor9": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Manufactured Lodestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Manufactured_Lodestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Imperial Favor"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Research Note"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has requirement": [
+       "bringing her all four statuettes for the week: [[Jade Empress Statuette]], [[Jade Gate Statuette]], [[Jade Cathedral Statuette]], [[Jade Dragon Statuette]]"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": [],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Myung-Hee#vendor9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Myung-Hee#vendor9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "6d2b1ec46658390cd805de299108a2e5",
+    "count": 28,
+    "offset": 0,
+    "source": "",
+    "time": "0.207110"
+   }
+  }
+ }
+}
