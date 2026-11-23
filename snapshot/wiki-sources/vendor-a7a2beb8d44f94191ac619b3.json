@@ -1,5 +1,5 @@
 {
-"fetched": 1794851165.2307508,
+"fetched": 1795428418.0155573,
 "item": "Arrow Cart Blueprint (blue)",
 "kind": "vendor",
 "q": "d02facdde0bc",
@@ -261,47 +261,6 @@
 "Arrow Cart Blueprint (blue)"
 ],
 "_subject": "Laurel Merchant#vendor266"
-},
-{
-"Has context": [
-"NPC"
-],
-"Has daily purchase cap": [],
-"Has item cost": [
-{
-"Has item currency": "Laurel",
-"Has item value": "2"
-}
-],
-"Has item quantity": [
-4
-],
-"Has requirement": [],
-"Has total purchase cap": [],
-"Has vendor": [
-"Laurel Merchant"
-],
-"Has weekly purchase cap": [],
-"Is historical": [
-"t"
-],
-"Located in": [
-"The Great Lodge",
-"The Upper City",
-"Hall of Memories",
-"Fort Marriner",
-"Memorial Quadrant",
-"Creator's Commons",
-"Garden of Dusk",
-"Havoc's Heir",
-"Mistlock Observatory",
-"Commodore's Quarter",
-"Fort Marriner (Memory of Old Lion's Arch)"
-],
-"Sells item": [
-"Arrow Cart Blueprint (blue)"
-],
-"_subject": "Laurel Merchant#vendor273"
 },
 {
 "Has context": [

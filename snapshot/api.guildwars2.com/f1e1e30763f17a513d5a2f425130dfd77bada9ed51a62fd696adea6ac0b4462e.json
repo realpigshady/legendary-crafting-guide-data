@@ -1,0 +1,73 @@
+{
+"body": [
+{
+"bits": [
+{
+"id": 97384,
+"text": "Finish the Kaineng Blackout event or purchase from trading post.",
+"type": "Item"
+},
+{
+"id": 97185,
+"text": "Finish the Gang War of Echovald event or purchase from trading post.",
+"type": "Item"
+},
+{
+"id": 95872,
+"text": "Finish the Aetherblade Assault event in Seitung Province or purchase from trading post.",
+"type": "Item"
+},
+{
+"id": 97724,
+"text": "Defeat the final opponent in the Battle for the Jade Sea or purchase from trading post.",
+"type": "Item"
+},
+{
+"id": 95883,
+"text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea.",
+"type": "Item"
+},
+{
+"id": 96495,
+"text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea.",
+"type": "Item"
+},
+{
+"id": 96770,
+"text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea.",
+"type": "Item"
+},
+{
+"id": 95592,
+"text": "Bring the statuette to Myung-Hee, Keeper of the Jade Vault, in the Royal Court of Shing Jea.",
+"type": "Item"
+}
+],
+"description": "",
+"flags": [
+"Pvp",
+"RepairOnLogin",
+"Permanent"
+],
+"id": 6436,
+"locked_text": "",
+"name": "The Jade Vault",
+"requirement": "Find 4 jade statuettes for Myung-Hee, Keeper of the Jade Vault, and return them to her.",
+"rewards": [
+{
+"count": 50,
+"id": 97233,
+"type": "Item"
+}
+],
+"tiers": [
+{
+"count": 8,
+"points": 10
+}
+],
+"type": "ItemSet"
+}
+],
+"url": "https://api.guildwars2.com/v2/achievements?ids=6436"
+}

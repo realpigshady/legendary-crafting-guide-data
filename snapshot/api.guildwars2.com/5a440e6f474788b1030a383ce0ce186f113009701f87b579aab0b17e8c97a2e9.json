@@ -1,0 +1,81 @@
+{
+"body": [
+{
+"chat_link": "[&AgGAdgEA]",
+"description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/4D7C220AB06F45DF2F982473E5BC95151DEE3CC0/2594206.png",
+"id": 95872,
+"level": 0,
+"name": "Jade Empress Statuette",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGhewEA]",
+"description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/135BFC12AF994CBB1A623C5B5479075A1AC5F94E/2594203.png",
+"id": 97185,
+"level": 0,
+"name": "Jade Cathedral Statuette",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgFofAEA]",
+"description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2EAC946E0AB2B03BD837B2D9B4F1700108DA9A64/2594208.png",
+"id": 97384,
+"level": 0,
+"name": "Jade Gate Statuette",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG8fQEA]",
+"description": "This statuette is exquisitely carved from pure jade, as if part of an imperial art collection.",
+"flags": [
+"NoSalvage",
+"NoSell"
+],
+"game_types": [
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/63392371B67F3DCBA9013F9D063EBBFD7CF5B390/2594204.png",
+"id": 97724,
+"level": 0,
+"name": "Jade Dragon Statuette",
+"rarity": "Rare",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=95872,97185,97384,97724"
+}
