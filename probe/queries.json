@@ -1,25 +1,18 @@
 {
- "d5_pages": {
+ "d6_search": {
+  "action": "query",
+  "list": "search",
+  "srsearch": "promote fine crafting material Mystic Forge average",
+  "srlimit": "20",
+  "format": "json"
+ },
+ "d6_pages": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
   "formatversion": "2",
   "redirects": "1",
-  "titles": "Eikasia, Mists-Grasper|Selachimorpha|Strife Unending|Legendary Equipment Unlocked!"
- },
- "d5_ask": {
-  "action": "ask",
-  "format": "json",
-  "query": "[[Has canonical name::Eikasia, Mists-Grasper||Selachimorpha||Strife Unending||Legendary Equipment Unlocked!]]|?Has game id|?Has item type|?Has rarity|?Is account bound|limit=50"
- },
- "d4_lobby_pages": {
-  "action": "query",
-  "prop": "revisions",
-  "rvprop": "content",
-  "rvslots": "main",
-  "formatversion": "2",
-  "redirects": "1",
-  "titles": "Lion's Arch Aerodrome|Strike Mission|Dragon Response Mission|Boss Blitz|Dragon Bash Arena|Celestial Challenge|Rift hunting"
+  "titles": "Material promotion|Mystic Forge/Material promotion|Fine crafting material|Vial of Powerful Blood|Pile of Crystalline Dust"
  }
 }
