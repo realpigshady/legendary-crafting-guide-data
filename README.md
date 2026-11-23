@@ -36,6 +36,11 @@ tools/build_pack.py    generator (API side, output)
 tools/wiki_pack.py     wiki side: revision-aware page store (50 titles/request, only changed
                        pages downloaded, stored under snapshot/wiki-pages/), recipe-tree walk;
                        wiki template names live in its TEMPLATES table
+tools/unlock_sources.py + config/unlock_sources.json
+                       unlock facts the walk misses: an item had by opening a box an
+                       achievement gives (Ad Infinitum's Solutions), a vendor opened by an
+                       achievement and a weekly hand-in (Myung-Hee, The Jade Vault), an
+                       instance resolved as its entrance for waypoints (Mistlock Observatory)
 tests/                 parser tests (offline)
 ```
 
