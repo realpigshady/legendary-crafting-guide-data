@@ -19,6 +19,9 @@ Rules (owner): guaranteed currency only (chance drops never counted), once a day
                  group (its id), so the planner runs one of them a day (meta dedupe).
   activities     The Basilica Vaults (three ducat events + the Seer chests), owner's time.
   hearts         the seven renown hearts that pay 10 Aether-Rich Sap / Antiquated Ducats, owner's time.
+  map_events     Shipwreck Strand (sap) and Starlit Weald (ducats) events as one 60 min block each: the
+                 owner's 4 events an hour x the average guaranteed reward of the map's events
+                 (rewarded-by rows less hearts, meta bonus chests and the Basilica's events), repeatable.
   masteries      reward sources of the Castora mastery achievements get their tier amount as
                  output_count (the pack counted 1).
   exchanges      checked only: 5 ducats -> 1 stone and 5 sap -> 1 Chromatic Sap are already vendor
@@ -271,7 +274,7 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], store, smw, maps: list
     # renown hearts: the rewarded-by rows of the two map currencies
     hearts = CONFIG["hearts"]
     try:
-        rows = smw.get("rewarded", sorted({h["item"] for h in hearts["list"]}))
+        rows = smw.get("rewarded", sorted({h["item"] for h in hearts["list"]} | {e["item"] for e in CONFIG["map_events"]["list"]}))
     except Exception as e:  # noqa: BLE001 - wiki down and never stored: config amounts
         warn.append(f"castora: rewarded-by rows unavailable ({e}): heart amounts from config")
         rows = {}
@@ -301,6 +304,39 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], store, smw, maps: list
         final[act["id"]] = act
         link(act)
         stats["hearts"] += 1
+
+    # map events: one timed block per map (owner's events an hour x the average guaranteed event reward)
+    ev = CONFIG["map_events"]
+    taken = {_norm(h["event"]) for h in hearts["list"]} | {_norm(x) for x in ev["skip_rewarded_by"]}
+    taken |= {_norm(f["page"]) for a in CONFIG["activities"] for f in a["facts"]}
+    for e in ev["list"]:
+        amounts = {}
+        for r in rows.get(e["item"], []):
+            by = (r.get("Rewarded by") or [r.get("_subject", "").split("#")[0]])[0]
+            chance = str((r.get("Has rewarded item chance") or [""])[0]).lower()
+            if chance == "guaranteed" and _norm(by) not in taken:
+                amounts[by] = _qty(str((r.get("Has rewarded item quantity") or ["1"])[0]))
+        if not amounts:
+            warn.append(f"castora: no event rows for {e['item']}: {e['id']} left out")
+            continue
+        per = sum(amounts.values()) / len(amounts)
+        got = per * ev["events_per_hour"] * ev["est_minutes"] / 60
+        map_id, wp_code, wp_name = _area_waypoint(maps, e["map"], None)
+        sc = ", ".join(f"{n} an hour {per * n * ev['est_minutes'] / 60:.0f}" for n in ev["scenarios"])
+        act = {"id": e["id"], "name": f"{e['map']}: map events ({ev['est_minutes']} min)", "mode": "pve", "expansion": "voe",
+               "est_minutes": ev["est_minutes"], "yields": yields([(e["item"], got)]),
+               "_cats": [],   # no festival: keeps its name out of the festival page-category query (offline parity)
+               "guidance": {"text": f"{e['map']}: do the map's events for {ev['est_minutes']} min, {ev['events_per_hour']} an hour "
+                                    f"({ev['time_source']}); {len(amounts)} events give {per:.1f} {e['item']} on average "
+                                    f"(wiki, guaranteed; hearts, meta chests and The Basilica Vaults not counted), "
+                                    f"so about {got:.0f} a block ({sc})", "wiki_url": _url(e["item"])}}
+        if map_id:
+            act["map_ids"] = [map_id]
+        if wp_code:
+            act["guidance"]["waypoint_chat_code"], act["guidance"]["waypoint_name"] = wp_code, wp_name
+        final[act["id"]] = act
+        link(act)
+        stats["map_events"] = stats.get("map_events", 0) + 1
 
     # mastery amounts on the reward sources (the pack counted 1)
     amounts: dict[tuple[int, str], int] = {}

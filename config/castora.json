@@ -70,6 +70,18 @@
    {"event": "Assist your allies in establishing camp and getting along", "area": "Foothold Bivouac", "map": "Starlit Weald", "item": "Antiquated Ducat", "expect": 10}
   ]
  },
+ "map_events": {
+  "_note": "Data 4o (1) (owner 2026-11-12): the map's own events as one timed block, 4 eligible events an hour (3 / 5 as scenarios, in the guidance text), until DRF measures them. Amount per event = the average guaranteed currency of the map's events from the wiki's rewarded-by rows of that currency, leaving out the renown hearts (hearts above), the meta bonus chests ('Bonus chest/Rewards') and the events another activity already counts (The Basilica Vaults' three Isgarren events). Repeatable: no daily limit.",
+  "est_minutes": 60,
+  "events_per_hour": 4,
+  "scenarios": [3, 5],
+  "time_source": "owner 2026-11-12: 4 eligible events an hour (3 / 5 as scenarios), not measured",
+  "skip_rewarded_by": ["Bonus chest/Rewards"],
+  "list": [
+   {"id": "voe:events:shipwreck_strand", "map": "Shipwreck Strand", "item": "Aether-Rich Sap"},
+   {"id": "voe:events:starlit_weald", "map": "Starlit Weald", "item": "Antiquated Ducat"}
+  ]
+ },
  "mastery_pages": ["Starlit Weald (achievements)", "Shipwreck Strand (achievements)", "Leyspring Hollows (achievements)", "Eternity's Garden (achievements)", "Renown Hearts (Visions of Eternity)"],
  "exchanges": [
   {"item": "Raw Enchanting Stone", "input": "Antiquated Ducat", "count": 5, "page": "Antiquated Ducat"},

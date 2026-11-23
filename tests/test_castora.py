@@ -76,3 +76,27 @@ def test_depths_of_cruelty_owner_rules():
     assert all(f["page"] != "Seer Storage Chest" for f in castora.CONFIG["metas"]["evt:voe-lh:depths_of_cruelty"]["facts"])
     opts = castora.CONFIG["heros_choice"]["leyspring"]["options"]
     assert [o["item"] for o in opts] == ["Shadowstone Fragment", "Shadowstone Research Data"]   # one pick a day (variants + cap group)
+
+
+def test_map_events_block_from_rewarded_rows():
+    """Data 4o (1): 4 events an hour x the average guaranteed event reward; hearts, meta bonus
+    chests and The Basilica Vaults' events are not counted again."""
+    final, nodes = {}, {"currency:83": {"id": "currency:83", "name": "Aether-Rich Sap", "sources": []},
+                        "currency:81": {"id": "currency:81", "name": "Antiquated Ducat", "sources": []}}
+
+    def row(by, q):
+        return {"Rewarded by": [by], "Has rewarded item quantity": [str(q)], "Has rewarded item chance": ["Guaranteed"]}
+
+    class Smw:
+        def get(self, kind, items):
+            return {"Aether-Rich Sap": [row("Defeat the rat king", 15), row("Defeat Operative Neel", 5),
+                                        row("Bonus chest/Rewards", 25), row("Assist the castaways around Hullgarden", 10)],
+                    "Antiquated Ducat": [row("Disrupt the Illusions", 25), row("Gather the loose magic for Isgarren", 25)]}
+
+    store = wp.PageStore(SNAP, lambda url: (_ for _ in ()).throw(RuntimeError("offline")))
+    store.down = True
+    castora.apply(final, nodes, store, Smw(), [])
+    ss, sw = final["voe:events:shipwreck_strand"], final["voe:events:starlit_weald"]
+    assert ss["est_minutes"] == 60 and ss["yields"] == [{"node_id": "currency:83", "count": 40}]   # (15 + 5) / 2 x 4
+    assert sw["yields"] == [{"node_id": "currency:81", "count": 100}]   # the Isgarren event is the Basilica's
+    assert "max_runs_per_day" not in ss
