@@ -1,21 +1,47 @@
 {
- "r2_gift_of_ascension": {
+ "wf_pages": {
   "action": "query",
   "prop": "revisions",
   "rvprop": "content",
   "rvslots": "main",
-  "titles": "Gift of Ascension|BUY-4373",
-  "formatversion": "2"
+  "formatversion": "2",
+  "redirects": "1",
+  "titles": "Proof: Finite Result|Proof: Upper Bound|Proof: Unbound|Theory of the Finite Result|Theory of the Upper Bound|Theory of the Unbound|Kelvei|The Jade Vault|Myung-Hee|Mistlock Observatory|Mistlock Sanctuary"
  },
- "r2_buy4373_parse": {
-  "action": "parse",
-  "page": "BUY-4373",
-  "prop": "text",
-  "formatversion": "2"
- },
- "r2_tenebral_sold_by": {
+ "wf_gives_proof": {
   "action": "ask",
-  "query": "[[Sells item::Tenebral Ward Medium Helmet||Tenebral Ward Medium Pauldrons||Tenebral Ward Medium Chestplate||Tenebral Ward Medium Gloves||Tenebral Ward Medium Leggings||Tenebral Ward Medium Boots]]|?Sells item|?Has vendor|?Has item cost|?Has requirement|limit=100",
-  "format": "json"
+  "format": "json",
+  "query": "[[Gives item::Proof: Finite Result||Proof: Upper Bound||Proof: Unbound]]|?Gives item|?Gives item quantity|?Has game id|?Has canonical name|?Has achievement page|?Is historical|limit=50"
+ },
+ "wf_theory_sold": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Sells item::Theory of the Finite Result||Theory of the Upper Bound||Theory of the Unbound]]|?Sells item|?Has vendor|?Has item cost|?Has item quantity|?Located in|?Has requirement|limit=50"
+ },
+ "wf_myung_sells": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Has vendor::Myung-Hee]]|?Sells item|?Has item cost|?Has item quantity|?Has requirement|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|?Is historical|limit=100"
+ },
+ "wf_statuettes_rewarded": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Rewards item::Jade Gate Statuette||Jade Cathedral Statuette||Jade Empress Statuette||Jade Dragon Statuette]]|?Rewards item|?Rewarded by|?Rewarded by.Has context|?Rewarded by.Has location type|?Has rewarded item chance|?Has rewarded item quantity|limit=100"
+ },
+ "wf_statuettes_sold": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Sells item::Jade Gate Statuette||Jade Cathedral Statuette||Jade Empress Statuette||Jade Dragon Statuette]]|?Sells item|?Has vendor|?Has item cost|?Has requirement|limit=50"
+ },
+ "wf_places": {
+  "action": "ask",
+  "format": "json",
+  "query": "[[Has canonical name::Mistlock Observatory||Mistlock Sanctuary||Fractals of the Mists]]|?Located in|?Has map id|?Has location type|limit=20"
+ },
+ "wf_api_ach": {
+  "api": "/v2/achievements?ids=2351,2557,2368,2295,6436,6575"
+ },
+ "wf_api_items": {
+  "api": "/v2/items?ids=76466,73527,72116,71610,70665,73377,70435,73201,75469,97384,97185,95872,97724,97233,97829"
  }
 }
