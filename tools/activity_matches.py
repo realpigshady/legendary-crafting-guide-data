@@ -14,6 +14,11 @@ on each listed wiki record:
   cap_groups   with `weekly_cap`: the [fast] raid's weekly-chest cap group, one run a week, so
                the weekly chest counts once a week whichever record the plan picks
 
+With the overlay on, the addon merges each listed wiki record into its [fast] record and drops it
+(Data 3, MergeOverlay in src/plan/FastOverlay.cpp): start times, waypoint, map ids, wiki link, festival
+and the yields the [fast] loot lacks move over; `group` / `cap_groups` then matter only when that
+[fast] record is not added. With the overlay off the wiki record stays as written here.
+
 Nothing here reads the wiki.
 """
 from __future__ import annotations
