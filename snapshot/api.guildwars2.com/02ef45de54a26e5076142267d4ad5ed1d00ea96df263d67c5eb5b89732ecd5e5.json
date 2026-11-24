@@ -1,6 +1,30 @@
 {
 "body": [
 {
+"chat_link": "[&AgHcTAAA]",
+"description": "Used to create legendary weapon and trinket gift items.\n\nPurchased from Rojan the Penitent in Frostgorge Sound after successfully defeating the Claw of Jormag.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/1AB22A149E9B807AA726CC6B1D7D0435A840A300/455856.png",
+"id": 19676,
+"level": 0,
+"name": "Icy Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 1250
+},
+{
 "chat_link": "[&AgEJTQAA]",
 "description": "Salvage Item",
 "flags": [],
@@ -1928,7 +1952,62 @@
 "restrictions": [],
 "type": "Trophy",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgHsmgEA]",
+"description": "Take this to the Mist Stranger after completing the Incursive Investigation: Working Together achievement to craft variants of the legendary gloves.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/580D0A52D93096E05DCD57937AD402B24430E35B/3690940.png",
+"id": 105196,
+"level": 0,
+"name": "Fractalline Spark",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEPnQEA]",
+"description": "Double-click to acquire the account-bound legendary aquabreather Selachimorpha in all weights.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoMysticForge",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/340AA29452C4AF96F8434AF323E3747AAE020B34/3710799.png",
+"id": 105743,
+"level": 0,
+"name": "Selachimorpha Container",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19721,78866,78936,78989,80120,80127,80177,80236,80264,80275,80366,80387,80427,80441,80460,80583,80607,80634,80648,80658,80673,80675,82350,82746,83259,84168,84174,84203,100050,100198,100288,100509,100512,100524,100706,100852,100933,100946"
+"url": "https://api.guildwars2.com/v2/items?ids=19676,19721,78866,78936,78989,80120,80127,80177,80236,80264,80275,80366,80387,80427,80441,80460,80583,80607,80634,80648,80658,80673,80675,82350,82746,83259,84168,84174,84203,100050,100198,100288,100509,100512,100524,100706,100852,100933,100946,105196,105743"
 }

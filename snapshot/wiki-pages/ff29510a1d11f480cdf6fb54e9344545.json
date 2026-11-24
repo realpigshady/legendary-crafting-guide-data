@@ -1,0 +1,5 @@
+{
+"revid": 3063558,
+"text": "{{Item infobox\n| icon = Agaleus.png\n| description = Contains a choice of all three weights of the legendary precursor [[Agaleus]]. Selecting one unlocks all skins for the precursor.\n| type = Container\n| rarity = Exotic\n| bound = Account\n| salvage = None\n| id = 106676\n| requires = voe\n}}\n\n== Acquisition ==\n=== Achievements ===\n{{Achievement list|reward=Agaleus Container}}\n\n=== Sold by ===\n{{Sold by}}\n\n== Contents ==\n* Choose one of the following:\n** {{contains|Agaleus (heavy)|chance=Choice}} <small>(heavy)</small>\n** {{contains|Agaleus (medium)|chance=Choice}} <small>(medium)</small>\n** {{contains|Agaleus (light)|chance=Choice}} <small>(light)</small>\n\n== Notes ==\n* Picking any weight class will unlock all six of the skins. Three aquatic headgear and three normal headgear as well.\n\n[[de:Agaleus-Behälter]]\n[[es:Contenedor de Agaleus]]\n[[fr:Conteneur d'Agaleus]]",
+"title": "Agaleus Container"
+}

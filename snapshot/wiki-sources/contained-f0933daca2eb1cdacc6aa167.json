@@ -1,0 +1,26 @@
+{
+"fetched": 1795478829.424589,
+"item": "Agaleus (medium)",
+"kind": "contained",
+"q": "0924cea1efd6",
+"rows": [
+{
+"Contained in": [
+"Agaleus Container"
+],
+"Contains item": [
+"Agaleus (medium)"
+],
+"Has contained item chance": [
+"Choice"
+],
+"Has contained item quantity": [
+"1"
+],
+"Is historical": [
+"f"
+],
+"_subject": "Agaleus Container#contains2"
+}
+]
+}

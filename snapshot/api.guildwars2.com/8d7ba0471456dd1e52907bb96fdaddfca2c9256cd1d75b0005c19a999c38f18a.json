@@ -1391,6 +1391,27 @@
 "vendor_value": 25
 },
 {
+"chat_link": "[&AgGXdwEA]",
+"description": "Used for crafting and purchasing items. Earn daily from each story journal chapter.",
+"flags": [
+"NoSalvage"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/FD2BA936FF93F56C342EE5C517C0006EB27D0302/2594540.png",
+"id": 96151,
+"level": 0,
+"name": "Tale of Adventure",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 256
+},
+{
 "chat_link": "[&AgHKmQEA]",
 "description": "Awards your choice of items. Double-click to open.",
 "details": {
@@ -1447,7 +1468,89 @@
 "restrictions": [],
 "type": "Gizmo",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgHWnAEA]",
+"description": "Can be spent at vendors in Starlit Weald or consumed to add 5 antiquated ducats to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/AA420C667F369E59BC075D6B06117613ED71DC0D/3710076.png",
+"id": 105686,
+"level": 0,
+"name": "Raw Enchanting Stone",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEjnwEA]",
+"description": "Used to create a Gift of the Elders and a Gift of the Seas.\n\nAcquired by completing the Visions of Eternity launch story the first time. Purchased from Visions of Eternity map vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0704B171045A94683C662B0EB92731C1CB8080A4/3708964.png",
+"id": 106275,
+"level": 0,
+"name": "Gift of the Tides",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGRnwEA]",
+"description": "Can be spent at vendors in Shipwreck Strand or consumed to add 5 aether-rich sap to your wallet.",
+"details": {
+"type": "Generic"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"BulkConsume",
+"AccountBindOnUse"
+],
+"game_types": [
+"Pvp",
+"PvpLobby",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/2714DAB2CB9C40510190E7C4E30F1BFAED732B99/3710068.png",
+"id": 106385,
+"level": 0,
+"name": "Chromatic Sap",
+"rarity": "Basic",
+"restrictions": [],
+"type": "Consumable",
+"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19663,19681,19683,19688,19733,19734,19736,19740,19742,19744,23038,23040,23041,23042,23043,23045,24274,24275,24276,24280,24281,24282,24283,24286,24287,24288,24289,24292,24293,24294,24295,24298,24299,24300,24334,24341,24344,24345,24348,24349,24350,24351,24354,24355,24356,24357,24358,24363,36038,39125,39752,45177,46731,46733,46735,46740,46742,46745,50071,50073,80890,95906,104906,104911"
+"url": "https://api.guildwars2.com/v2/items?ids=19663,19681,19683,19688,19733,19734,19736,19740,19742,19744,23038,23040,23041,23042,23043,23045,24274,24275,24276,24280,24281,24282,24283,24286,24287,24288,24289,24292,24293,24294,24295,24298,24299,24300,24334,24341,24344,24345,24348,24349,24350,24351,24354,24355,24356,24357,24358,24363,36038,39125,39752,45177,46731,46733,46735,46740,46742,46745,50071,50073,80890,95906,96151,104906,104911,105686,106275,106385"
 }

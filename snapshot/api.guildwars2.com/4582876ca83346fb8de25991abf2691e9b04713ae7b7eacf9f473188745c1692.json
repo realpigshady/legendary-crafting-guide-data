@@ -2951,7 +2951,496 @@
 "restrictions": [],
 "type": "Armor",
 "vendor_value": 240
+},
+{
+"chat_link": "[&AgHTmgEA]",
+"default_skin": 13230,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 191,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=80111,80131,80145,80161,80190,80205,80248,80252,80254,80277,80281,80296,80356,80384,80399,80435,80557,80578,101460,101462,101499,101501,101516,101521,101535,101536,101544,101551,101556,101568,101570,101579,101602,101609,101614,101645"
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105171,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+},
+{
+"chat_link": "[&AgFNmwEA]",
+"default_skin": 13222,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 165,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105293,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+},
+{
+"chat_link": "[&AgFlmwEA]",
+"default_skin": 13224,
+"description": "<c=@flavor>Cleave your foes with the remnants of worlds that could not become real.</c>",
+"details": {
+"attribute_adjustment": 134.442,
+"defense": 140,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "Gloves",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/809ECF06F7FEE271DF0E064FB46070293236F508/3691044.png",
+"id": 105317,
+"level": 80,
+"name": "Eikasia, Mists-Grasper",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 594
+},
+{
+"chat_link": "[&AgHBnQEA]",
+"default_skin": 13275,
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 77,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Light"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/340AA29452C4AF96F8434AF323E3747AAE020B34/3710799.png",
+"id": 105921,
+"level": 80,
+"name": "Selachimorpha",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgHCngEA]",
+"default_skin": 13636,
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 127,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Heavy"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/340AA29452C4AF96F8434AF323E3747AAE020B34/3710799.png",
+"id": 106178,
+"level": 80,
+"name": "Selachimorpha",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+},
+{
+"chat_link": "[&AgGioAEA]",
+"default_skin": 13432,
+"details": {
+"attribute_adjustment": 179.256,
+"defense": 102,
+"infusion_slots": [
+{
+"flags": [
+"Infusion"
+]
+}
+],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1111,
+1109,
+1123,
+1140,
+1085,
+1153,
+1118,
+1131,
+1222,
+1344,
+1363,
+1364,
+1559,
+1556,
+1681,
+1686,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Medium"
+},
+"flags": [
+"HideSuffix",
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/340AA29452C4AF96F8434AF323E3747AAE020B34/3710799.png",
+"id": 106658,
+"level": 80,
+"name": "Selachimorpha",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 240
+}
+],
+"url": "https://api.guildwars2.com/v2/items?ids=80111,80131,80145,80161,80190,80205,80248,80252,80254,80277,80281,80296,80356,80384,80399,80435,80557,80578,101460,101462,101499,101501,101516,101521,101535,101536,101544,101551,101556,101568,101570,101579,101602,101609,101614,101645,105171,105293,105317,105921,106178,106658"
 }

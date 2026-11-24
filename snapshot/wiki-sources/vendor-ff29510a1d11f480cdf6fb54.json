@@ -1,0 +1,415 @@
+{
+"fetched": 1795478838.163646,
+"item": "Agaleus Container",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Acolyte of Balance Dexx#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Alliance Field Quartermaster#vendor25"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Canach#vendor42"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Captain Emund#vendor45"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Castaway Agnes#vendor42"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Historian Meliza#vendor39"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Huntmaster Arnorr#vendor45"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Magister Sirkk#vendor45"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Steward Brizio#vendor38"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gold",
+"Has item value": "25"
+},
+{
+"Has item currency": "Karma",
+"Has item value": "49000"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"the achievement [[Acquiring Agaleus]] and not owned the [[Selachimorpha]]"
+],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Agaleus Container"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor44"
+}
+]
+}

@@ -1,0 +1,55 @@
+{
+"fetched": 1795478767.7543197,
+"item": "Eikasia, Mists-Grasper (light)",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of Magical Prosperity",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Mighty Prosperity",
+"Has item value": "1"
+},
+{
+"Has item currency": "Icy Runestone",
+"Has item value": "200"
+},
+{
+"Has item currency": "Fractalline Spark",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Incursive Investigation"
+],
+"Has total purchase cap": [
+1
+],
+"Has vendor": [
+"Mist Stranger"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fractal Incursion Conference"
+],
+"Sells item": [
+"Eikasia, Mists-Grasper (light)"
+],
+"_subject": "Mist Stranger#vendor1"
+}
+]
+}

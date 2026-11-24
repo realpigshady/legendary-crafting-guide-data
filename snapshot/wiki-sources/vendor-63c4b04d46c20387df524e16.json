@@ -1,0 +1,43 @@
+{
+"fetched": 1795478795.960543,
+"item": "Fractalline Spark",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Wizard's Infinite Mist Omnipotion",
+"Has item value": "1"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [
+"Incursive Investigation"
+],
+"Has total purchase cap": [
+1
+],
+"Has vendor": [
+"Mist Stranger"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Fractal Incursion Conference"
+],
+"Sells item": [
+"Fractalline Spark"
+],
+"_subject": "Mist Stranger#vendor23"
+}
+]
+}

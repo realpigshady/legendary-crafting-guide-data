@@ -1,0 +1,481 @@
+{
+"fetched": 1795478838.163646,
+"item": "Gift of Adventure",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Acolyte of Balance Dexx#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Alliance Field Quartermaster#vendor9"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Canach#vendor26"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Captain Emund#vendor29"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Castaway Agnes#vendor26"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Historian Meliza#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Huntmaster Arnorr#vendor29"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Magister Sirkk#vendor29"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Steward Brizio#vendor22"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Vision Crystal",
+"Has item value": "2"
+},
+{
+"Has item currency": "Mystic Clover",
+"Has item value": "55"
+},
+{
+"Has item currency": "Tale of Adventure",
+"Has item value": "100"
+},
+{
+"Has item currency": "Unusual Coin",
+"Has item value": "500"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Gift of Adventure"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor28"
+}
+]
+}

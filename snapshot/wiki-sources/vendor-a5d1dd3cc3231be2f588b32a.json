@@ -1,0 +1,481 @@
+{
+"fetched": 1795478838.163646,
+"item": "Gift of the Seas",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Acolyte of Balance Dexx"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hall of Assemblage"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Acolyte of Balance Dexx#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Alliance Field Quartermaster"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Castora"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Alliance Field Quartermaster#vendor10"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Astral Ward Agent Snarlcrow"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Ordnance Depot"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Astral Ward Agent Snarlcrow#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Canach"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Breezy Cay"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Canach#vendor27"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Captain Emund"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Shimmering Basin"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Captain Emund#vendor30"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Castaway Agnes"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Hullgarden"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Castaway Agnes#vendor27"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Historian Meliza"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Pilgrim's Rest"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Historian Meliza#vendor24"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Huntmaster Arnorr"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Untamed Crags"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Huntmaster Arnorr#vendor30"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Magister Sirkk"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Crumbling Precipice"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Magister Sirkk#vendor30"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Steward Brizio"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Artificer's Islet"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Steward Brizio#vendor23"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Gift of the Tides",
+"Has item value": "1"
+},
+{
+"Has item currency": "Gift of Research",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Might",
+"Has item value": "2"
+},
+{
+"Has item currency": "Gift of Condensed Magic",
+"Has item value": "2"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Tyrian Alliance Representative Sharpwhisker"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Glimmering Arches"
+],
+"Sells item": [
+"Gift of the Seas"
+],
+"_subject": "Tyrian Alliance Representative Sharpwhisker#vendor29"
+}
+]
+}

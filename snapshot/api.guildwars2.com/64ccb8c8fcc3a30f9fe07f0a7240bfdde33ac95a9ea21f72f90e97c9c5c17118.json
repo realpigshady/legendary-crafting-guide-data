@@ -86,6 +86,31 @@
 "vendor_value": 6
 },
 {
+"chat_link": "[&AgE9UQAA]",
+"description": "A shard of pure power used to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/D9F626FA79AA0C49436337B1C767023CCF14EFF9/434426.png",
+"id": 20797,
+"level": 0,
+"name": "Bloodstone Shard",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 640
+},
+{
 "chat_link": "[&AgE/UQAA]",
 "description": "Sold by Miyani in Lion's Arch.\n<c=@flavor>Zommoros loves crystals.</c>",
 "flags": [
@@ -1133,7 +1158,230 @@
 "restrictions": [],
 "type": "Gizmo",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgF4nQEA]",
+"description": "Used to create a Gift of the Survivors.\n\nPurchased from Tyrian Alliance Representative Sharpwhisker in Glimmering Arches in Shipwreck Strand after completing the Shipwreck Strand Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/62B6A3561704ED626FE46046F041A3B1DA7ADB51/3710069.png",
+"id": 105848,
+"level": 0,
+"name": "Concentrated Chromatic Sap",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHNnQEA]",
+"description": "Used to create a Gift of the People.\n\nPurchased from Huntmaster Arnorr in Untamed Crags in Starlit Weald after completing the Starlit Weald Mastery achievement.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04BBDBF2746479F9F4DA2EE0ED5AE35CA602DEA8/3710055.png",
+"id": 105933,
+"level": 0,
+"name": "Patron of the Magical Arts Plaque",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgH7nQEA]",
+"description": "Combine a Gift of Adventure, a Gift of the Seas, a Bloodstone Shard, and 250 Obsidian Shards in the Mystic Forge to create a Gift of Castoran Mastery.\n\nPurchased from Visions of Eternity map vendors in exchange for:\n• 2 Vision Crystals\n• 55 Mystic Clovers\n• 100 Tales of Adventure\n• 500 Unusual Coins",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/A8F9EE089C04529FE505F5A7B006D1F571789D53/3708959.png",
+"id": 105979,
+"level": 0,
+"name": "Gift of Adventure",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGCnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by completing the Shipwreck Strand Mastery achievement.\nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/3DF23197BD570150B071C7949BE9F5BBFE50D434/3710062.png",
+"id": 106370,
+"level": 0,
+"name": "Survivor's Enchanted Compass",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgHjnwEA]",
+"description": "Used to create a Gift of the Survivors.\n\nEarned by fully exploring Shipwreck Strand. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/69490A215111E1BA0A7C307AC590316E560D2DB4/3708957.png",
+"id": 106467,
+"level": 0,
+"name": "Gift of Shipwreck Strand Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGDoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by completing the Starlit Weald Mastery achievement. \nAdditional copies can be purchased from Visions of Eternity vendors afterward.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/0D36C238C4EB0337FA32D6D507D8F3C925BE10F6/3710056.png",
+"id": 106627,
+"level": 0,
+"name": "Seer Wreath of Service",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGwoAEA]",
+"description": "Used to create a Gift of the People.\n\nEarned by fully exploring Starlit Weald. Additional copies can be purchased from Visions of Eternity map vendors.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/7236FF7200ADFA3F973E51B40A582FF00316F2AD/3708958.png",
+"id": 106672,
+"level": 0,
+"name": "Gift of Starlit Weald Exploration",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgG0oAEA]",
+"description": "Contains a choice of all three weights of the legendary precursor Agaleus. Selecting one unlocks all skins for the precursor.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ECDAFD71183317EEC79C535C96DD579ED7F50998/3710800.png",
+"id": 106676,
+"level": 0,
+"name": "Agaleus Container",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Container",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgH7oAEA]",
+"description": "Combine a Gift of the Seas, a Gift of Adventure, a Bloodstone Shard, and 250 Obsidian Shards in the Mystic Forge to create a Gift of Castoran Mastery.\n\nPurchased from Visions of Eternity map vendors in exchange for:\n• 1 Gift of the Tides\n• 2 Gifts of Research\n• 2 Gifts of Condensed Might\n• 2 Gifts of Condensed Magic",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/453BD7B902B5B10015D34DBD49015BFA01020941/3708960.png",
+"id": 106747,
+"level": 0,
+"name": "Gift of the Seas",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68352,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001"
+"url": "https://api.guildwars2.com/v2/items?ids=19721,19790,19976,20796,20797,20799,24277,24335,36059,36060,36061,39090,41886,45178,46730,46732,46734,46738,46739,46741,46747,46752,50030,68352,68944,69432,70801,70820,71123,71655,71787,71994,73196,73236,73248,75299,75744,93012,95813,99962,100544,100798,101595,104728,104831,104838,104856,104945,105001,105848,105933,105979,106370,106467,106627,106672,106676,106747"
 }

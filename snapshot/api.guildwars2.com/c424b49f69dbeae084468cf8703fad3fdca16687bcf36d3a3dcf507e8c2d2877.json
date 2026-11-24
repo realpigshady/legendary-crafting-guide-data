@@ -1231,6 +1231,29 @@
 "vendor_value": 640
 },
 {
+"chat_link": "[&AgE6NgEA]",
+"description": "Used in the Mystic Forge to create legendary weapons.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/04296A0273A1DB6866E5180B73F5A3E59E2A0C95/1493223.png",
+"id": 79418,
+"level": 0,
+"name": "Mystic Runestone",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "Trophy",
+"vendor_value": 660
+},
+{
 "chat_link": "[&AgGEOgEA]",
 "description": "Used in the crafting of Envoy armor pieces.",
 "flags": [
@@ -1598,7 +1621,331 @@
 "restrictions": [],
 "type": "Trophy",
 "vendor_value": 0
+},
+{
+"chat_link": "[&AgEomwEA]",
+"description": "Grants the combined full effects of the Mist Offensive Potion, Mist Defensive Potion, and Mist Mobility Potion.",
+"details": {
+"type": "Default"
+},
+"flags": [
+"AccountBound",
+"NoSalvage",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/95C16C472B440EAEB46FA6CFBE1073527EB27909/1601441.png",
+"id": 105256,
+"level": 80,
+"name": "Wizard's Infinite Mist Omnipotion",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Gizmo",
+"vendor_value": 1
+},
+{
+"chat_link": "[&AgHemwEA]",
+"default_skin": 13351,
+"description": "Place in the Mystic Forge with a Gift of Castoran Mastery, a Gift of the Survivors, and a Gift of the People to create the legendary aquabreather Selachimorpha.",
+"details": {
+"attribute_adjustment": 170.72,
+"defense": 73,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1687,
+1717,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Light"
+},
+"flags": [
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ECDAFD71183317EEC79C535C96DD579ED7F50998/3710800.png",
+"id": 105438,
+"level": 80,
+"name": "Agaleus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgGxnAEA]",
+"description": "Combine a Gift of the Survivors, a Gift of the People, a Gift of Castoran Mastery, and the precursor Agaleus in the Mystic Forge to create the legendary aquabreather Selachimorpha.\n\nCreated by combining the following in the Mystic Forge:\n• A Gift of Adventure\n• A Gift of the Seas\n• A Bloodstone Shard\n• 250 Obsidian Shards",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/C6C65B4E53FFADB18080A65A41EE67DB49AFDA58/3708955.png",
+"id": 105649,
+"level": 0,
+"name": "Gift of Castoran Mastery",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgEKnQEA]",
+"default_skin": 13503,
+"description": "Place in the Mystic Forge with a Gift of Castoran Mastery, a Gift of the Survivors, and a Gift of the People to create the legendary aquabreather Selachimorpha.",
+"details": {
+"attribute_adjustment": 170.72,
+"defense": 121,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1717,
+1687,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Heavy"
+},
+"flags": [
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ECDAFD71183317EEC79C535C96DD579ED7F50998/3710800.png",
+"id": 105738,
+"level": 80,
+"name": "Agaleus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgFMnQEA]",
+"description": "In the Mystic Forge, combine a Gift of the Survivors and a Gift of the People with two other legendary gifts to create a legendary item:\n\n• Aetheric Anchor—Gift of Insight and Gift of the Elders\n• Selachimorpha—Gift of Castoran Mastery and the Precursor Agaleus\n• Endless Summer—Gift of the Hylek and Gift of Rays\n\nPurchased from Canach at Pub Canach in Shipwreck Strand.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/45B44097576D0F0A7D0C5E06985E18AB77D8F8F5/3708961.png",
+"id": 105804,
+"level": 0,
+"name": "Gift of the People",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
+},
+{
+"chat_link": "[&AgGgnwEA]",
+"default_skin": 13371,
+"description": "Place in the Mystic Forge with a Gift of Castoran Mastery, a Gift of the Survivors, and a Gift of the People to create the legendary aquabreather Selachimorpha.",
+"details": {
+"attribute_adjustment": 170.72,
+"defense": 97,
+"infusion_slots": [],
+"secondary_suffix_item_id": "",
+"stat_choices": [
+161,
+155,
+159,
+157,
+158,
+160,
+153,
+605,
+700,
+616,
+154,
+156,
+162,
+686,
+559,
+754,
+753,
+799,
+1026,
+1067,
+628,
+1032,
+1231,
+1232,
+1226,
+1225,
+1229,
+1224,
+1228,
+1227,
+1230,
+1379,
+1377,
+1378,
+1484,
+1539,
+1687,
+1717,
+1826
+],
+"type": "HelmAquatic",
+"weight_class": "Medium"
+},
+"flags": [
+"AccountBound",
+"NoSell",
+"DeleteWarning",
+"AccountBindOnUse"
+],
+"game_types": [
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/ECDAFD71183317EEC79C535C96DD579ED7F50998/3710800.png",
+"id": 106400,
+"level": 80,
+"name": "Agaleus",
+"rarity": "Exotic",
+"restrictions": [],
+"type": "Armor",
+"vendor_value": 330
+},
+{
+"chat_link": "[&AgHYoAEA]",
+"description": "In the Mystic Forge, combine a Gift of the Survivors and a Gift of the People with two other legendary gifts to create a legendary item:\n\n• Aetheric Anchor—Gift of Insight and Gift of the Elders\n• Selachimorpha—Gift of Castoran Mastery and the Precursor Agaleus\n• Endless Summer—Gift of the Hylek and Gift of Rays\n\nPurchased from the Castaway Agnes in Hullgarden in Shipwreck Strand.",
+"flags": [
+"AccountBound",
+"NoSalvage",
+"AccountBindOnUse",
+"DeleteWarning"
+],
+"game_types": [
+"PvpLobby",
+"Activity",
+"Wvw",
+"Dungeon",
+"Pve"
+],
+"icon": "https://render.guildwars2.com/file/CAE0204429420B293DBD30C864E82C1A17EF7E1D/3708963.png",
+"id": 106712,
+"level": 0,
+"name": "Gift of the Survivors",
+"rarity": "Legendary",
+"restrictions": [],
+"type": "CraftingMaterial",
+"vendor_value": 0
 }
 ],
-"url": "https://api.guildwars2.com/v2/items?ids=19675,19678,19925,20852,45859,45860,45861,45862,45863,45864,45865,45866,45867,45868,45869,45870,45871,45872,45873,45874,45875,45876,45877,45878,45879,45880,45881,45882,45891,45892,45893,45894,45895,45896,45897,45898,45899,45900,45901,45902,46746,48805,48806,48807,49523,70867,71581,72205,73137,73537,74356,76530,77302,77451,77531,78793,80516,82471,82700,82926,83082,83584,83620,83872,84099,97655,99964,100098,100267,100466,100930"
+"url": "https://api.guildwars2.com/v2/items?ids=19675,19678,19925,20852,45859,45860,45861,45862,45863,45864,45865,45866,45867,45868,45869,45870,45871,45872,45873,45874,45875,45876,45877,45878,45879,45880,45881,45882,45891,45892,45893,45894,45895,45896,45897,45898,45899,45900,45901,45902,46746,48805,48806,48807,49523,70867,71581,72205,73137,73537,74356,76530,77302,77451,77531,78793,79418,80516,82471,82700,82926,83082,83584,83620,83872,84099,97655,99964,100098,100267,100466,100930,105256,105438,105649,105738,105804,106400,106712"
 }
