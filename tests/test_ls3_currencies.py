@@ -70,7 +70,8 @@ def test_heart_vendor_bundles_from_wiki():
     assert {(s["output_count"], json.dumps(s["offer"], sort_keys=True)) for s in berry} == {
         (5, json.dumps({"name": "Bundle of Winterberries", "count": 1, "contains": 5}, sort_keys=True))}
     assert {s["output_count"] for s in jade} == {3} and {s["offer"]["name"] for s in jade} == {"Bundle of Jade Shards"}
-    assert sorted(s["output_count"] for s in wood) == [1, 1, 1, 3, 3]   # two vendors sell 3 bundles of 1
+    assert [s["output_count"] for s in wood] == [3] * 5   # owner, in game: one bundle of 3 at every vendor
+    assert all(s["offer"] == {"name": "Bundle of Petrified Wood", "count": 1, "contains": 3} for s in wood)
     assert all("Bitterfrost Frontier" in s["vendors"][0]["locations"] for s in berry)
     assert ls3.heart_vendor_sources(nodes, _smw(), CUR) == 0
 

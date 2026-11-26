@@ -15,7 +15,8 @@ Bundle of Jade Shards 3 Jade Shards (tester feedback round 1, 2026-11-26). Vendo
 and locations come from the wiki's vendor rows for the box, contents from its 'Contains item'
 rows; config/ls3_currencies.json only names the boxes. The Season 4 chest is pick-one, so its six
 offers share one weekly limit through ``cap_group``. Heart vendors get one source per vendor so
-each keeps its own daily limit (1 when the wiki row has none; owner: once a day, one character);
+each keeps its own daily limit (owner, in game: every bundle once a day per character; one character);
+Petrified Wood bundle counts are the owner's (config ``owner_counts``), the wiki rows disagree;
 they are not activities: a vendor purchase has no run time. ``config/legendary_insights.json`` adds Legendary Insight (currency 70)
 as a weekly yield on the raid wings and unified strikes the catalog already has, plus two weekly
 extras (matchmaking milestones, daily raid bounties).
@@ -142,9 +143,14 @@ def heart_vendor_sources(nodes: dict[str, dict], smw, currencies: dict[str, int]
         node = by_name.get(item)
         if not node:
             continue
+        fix = h.get("owner_counts", {}).get(offer)
         for src in _offer_sources(smw, offer, item, currencies, warn):
-            if not (src.get("daily_cap") or src.get("weekly_cap") or src.get("max_units")):
-                src["daily_cap"] = h["daily_cap_default"]   # the wiki row leaves the limit off (owner: once a day)
+            src["daily_cap"] = h["daily_cap"]   # every bundle is once a day per character (owner, in game)
+            src.pop("weekly_cap", None)
+            src.pop("max_units", None)
+            if fix:   # owner's in-game count beats wiki rows that disagree
+                src["offer"] = {"name": offer, "count": fix["count"], "contains": fix["contains"]}
+                src["output_count"] = fix["count"] * fix["contains"]
             for v in src["vendors"]:
                 if zone.get(item) and zone[item] not in v["locations"]:
                     v["locations"] = v["locations"] + [zone[item]]   # the map, so a waypoint resolves

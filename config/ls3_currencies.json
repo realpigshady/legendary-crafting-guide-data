@@ -91,14 +91,21 @@
     ]
   },
   "heart_vendors": {
-    "_note": "Heart vendor material bundles (owner's sheet 2026-11-10 named the maps and the once-a-day limit). Item -> the bundle the heart vendors sell for it. Vendors, Karma cost, locations and bundles per purchase come from the wiki's vendor rows for the bundle; items per bundle from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the old sheet said 5 per pack for every map, the wiki says Jade Shards, Fire Orchid Blossoms and Orrian Pearls bundles hold 3, Petrified Wood 1, and four maps had other vendor names). The wiki leaves the daily limit off some rows: those get daily_cap_default (owner: 1 per character per day). One source per vendor, so each keeps its own daily limit. Counted for ONE character only.",
-    "daily_cap_default": 1,
+    "_note": "Heart vendor material bundles (owner's sheet 2026-11-10 named the maps and the once-a-day limit). Item -> the bundle the heart vendors sell for it. Vendors, Karma cost, locations and bundles per purchase come from the wiki's vendor rows for the bundle; items per bundle from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the old sheet said 5 per pack for every map, the wiki says Jade Shards, Fire Orchid Blossoms and Orrian Pearls bundles hold 3, Petrified Wood 1, and four maps had other vendor names). Every heart vendor bundle is once a day per character (owner, in game 2026-11-26): daily_cap applies to all of them, whatever the wiki row says. One source per vendor, so each keeps its own daily limit. Counted for ONE character only.",
     "offers": {
       "Fresh Winterberry": "Bundle of Winterberries",
       "Jade Shard": "Bundle of Jade Shards",
       "Fire Orchid Blossom": "Bundle of Fire Orchid Blossoms",
       "Orrian Pearl": "Bundle of Orrian Pearls",
       "Petrified Wood": "Bundle of Petrified Wood"
+    },
+    "daily_cap": 1,
+    "owner_counts": {
+      "_note": "Owner's in-game check 2026-11-26 beats the wiki where its rows disagree: every Ember Bay heart vendor sells one Bundle of Petrified Wood holding 3 Petrified Wood for 2,688 Karma (the wiki said 1 per bundle, and 3 bundles per purchase at two vendors).",
+      "Bundle of Petrified Wood": {
+        "count": 1,
+        "contains": 3
+      }
     }
   }
 }
