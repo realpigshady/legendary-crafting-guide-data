@@ -1,0 +1,493 @@
+{
+ "params": {
+  "action": "query",
+  "prop": "categories",
+  "cllimit": "max",
+  "redirects": "1",
+  "titles": "Baron Jon Xander|Caliph's Steps|Dwayna's Reliquary|Elder Vern|Escaped Prisoner Arissea|Exemplar Ylan|Explorer Rakk|King Zoran|Lava Flats|Lieutenant Bran|Lyssa's Reliquary|Mark I Golemite (Renown Heart NPC)|Queen Bahar|Research Assistant Ulaa|Savage Rise|Tactician Tunelle|Vice Chief Hernandez|Z.O.X."
+ },
+ "reply": {
+  "batchcomplete": true,
+  "query": {
+   "pages": [
+    {
+     "pageid": 189803,
+     "ns": 0,
+     "title": "Vice Chief Hernandez",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Ivy's Circus Spectacular"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 189847,
+     "ns": 0,
+     "title": "Caliph's Steps",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Ember Bay"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      }
+     ]
+    },
+    {
+     "pageid": 189863,
+     "ns": 0,
+     "title": "Lava Flats",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Ember Bay"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      }
+     ]
+    },
+    {
+     "pageid": 189906,
+     "ns": 0,
+     "title": "Research Assistant Ulaa",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Asura"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 190017,
+     "ns": 0,
+     "title": "Explorer Rakk",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Asura"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 199251,
+     "ns": 0,
+     "title": "Elder Vern",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 199262,
+     "ns": 0,
+     "title": "Lieutenant Bran",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Seraph"
+      }
+     ]
+    },
+    {
+     "pageid": 199279,
+     "ns": 0,
+     "title": "Baron Jon Xander",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 199286,
+     "ns": 0,
+     "title": "Exemplar Ylan",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Shining Blade"
+      }
+     ]
+    },
+    {
+     "pageid": 203408,
+     "ns": 0,
+     "title": "Escaped Prisoner Arissea",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 203434,
+     "ns": 0,
+     "title": "Z.O.X.",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Golems"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 203463,
+     "ns": 0,
+     "title": "Tactician Tunelle",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Humans"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pact"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Vigil"
+      }
+     ]
+    },
+    {
+     "pageid": 203481,
+     "ns": 0,
+     "title": "Savage Rise",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Draconis Mons"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with empty semantic mediawiki query results"
+      }
+     ]
+    },
+    {
+     "pageid": 205234,
+     "ns": 0,
+     "title": "Mark I Golemite (Renown Heart NPC)",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Golems"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Order of Whispers"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pact"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 207451,
+     "ns": 0,
+     "title": "King Zoran",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Ghosts"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Historical figures"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Orrian royalty"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    },
+    {
+     "pageid": 207661,
+     "ns": 0,
+     "title": "Dwayna's Reliquary",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Siren's Landing"
+      }
+     ]
+    },
+    {
+     "pageid": 207665,
+     "ns": 0,
+     "title": "Lyssa's Reliquary",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Areas"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Living World Season 3 content"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Siren's Landing"
+      }
+     ]
+    },
+    {
+     "pageid": 235149,
+     "ns": 0,
+     "title": "Queen Bahar",
+     "categories": [
+      {
+       "ns": 14,
+       "title": "Category:Ghosts"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Normal NPCs"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Orrian royalty"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Pages with broken file links"
+      },
+      {
+       "ns": 14,
+       "title": "Category:Renown Heart NPCs"
+      }
+     ]
+    }
+   ]
+  },
+  "limits": {
+   "categories": 500
+  }
+ }
+}
