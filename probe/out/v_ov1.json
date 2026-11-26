@@ -1,0 +1,438 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Sells item::Kralkatite Ore]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has vendor",
+     "key": "Has_vendor",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has context",
+     "key": "Has_context",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 4,
+     "format": "",
+     "chain": "Has vendor.Has context"
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has requirement",
+     "key": "Has_requirement",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has weekly purchase cap",
+     "key": "Has_weekly_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has total purchase cap",
+     "key": "Has_total_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Anette Eymundrdottir#vendor45": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Kralkatite Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Anette Eymundrdottir",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Anette_Eymundrdottir",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "75"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Eternal Ice Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       25
+      ],
+      "Located in": [
+       {
+        "fulltext": "Jora's Keep",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jora%27s_Keep",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Anette Eymundrdottir#vendor45",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Anette_Eymundrdottir#vendor45",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragon Bash Merchant (Weekly)#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Kralkatite Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Dragon Bash Merchant (Weekly)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Merchant_(Weekly)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Jorbreaker"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       50
+      ],
+      "Located in": [
+       {
+        "fulltext": "Might and Main",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Might_and_Main",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [
+       "the festival [[Dragon Bash]]"
+      ],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [
+       1
+      ],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Dragon Bash Merchant (Weekly)#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragon_Bash_Merchant_(Weekly)#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Humble Stone#vendor34": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Kralkatite Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Humble Stone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Humble_Stone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "75"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Eternal Ice Shard"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       25
+      ],
+      "Located in": [
+       {
+        "fulltext": "Spirits' Refuge",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Spirits%27_Refuge",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Humble Stone#vendor34",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Humble_Stone#vendor34",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Traveling Elonian Trader#vendor20": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Kralkatite Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has vendor": [
+       {
+        "fulltext": "Traveling Elonian Trader",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Traveling_Elonian_Trader",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has context": [
+       "NPC"
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "4"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Volatile Magic"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Pact Command",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pact_Command",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has requirement": [],
+      "Is historical": [
+       "f"
+      ],
+      "Has daily purchase cap": [
+       5
+      ],
+      "Has weekly purchase cap": [],
+      "Has total purchase cap": []
+     },
+     "fulltext": "Traveling Elonian Trader#vendor20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Traveling_Elonian_Trader#vendor20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "263d3788303a3923a5745b34dd1826e2",
+    "count": 4,
+    "offset": 0,
+    "source": "",
+    "time": "0.120713"
+   }
+  }
+ }
+}

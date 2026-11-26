@@ -1,0 +1,2080 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Rotted Titan Amber||Snowflake||Spool of Gossamer Thread||Thermocatalytic Reagent||Titan Heatstone||Watchwork Sprocket]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Aetherblade Cache (item)#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Aetherblade Cache (item)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aetherblade_Cache_(item)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-8"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Aetherblade Cache (item)#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Aetherblade_Cache_(item)#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Alliance Supplies#contains33": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Alliance Supplies",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Alliance_Supplies",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Alliance Supplies#contains33",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Alliance_Supplies#contains33",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Personalized Wintersday Gifts#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Personalized Wintersday Gifts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Personalized_Wintersday_Gifts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Personalized Wintersday Gifts#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Personalized_Wintersday_Gifts#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Janthir Wilds)#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Janthir Wilds)#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Janthir Wilds)#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Titan Heatstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Titan_Heatstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Janthir Wilds)#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Janthir Wilds#contains27": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Janthir Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Janthir Wilds#contains27",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds#contains27",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Doggy Bag (second)#contains12": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Doggy Bag (second)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Doggy_Bag_(second)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5-10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Doggy Bag (second)#contains12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Doggy_Bag_(second)#contains12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Elaborate Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Elaborate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Elaborate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Elaborate Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Elaborate_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Elaborate Watchwork Box#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Elaborate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Elaborate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Elaborate Watchwork Box#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Elaborate_Watchwork_Box#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Elegant Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Elegant Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Elegant_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Elegant Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Elegant_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Elegant Watchwork Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Elegant Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Elegant_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2-4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Elegant Watchwork Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Elegant_Watchwork_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fluctuating Mass#contains164": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fluctuating Mass",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fluctuating_Mass",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fluctuating Mass#contains164",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fluctuating_Mass#contains164",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Generosity's Reward#contains184": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Generosity's Reward",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Generosity%27s_Reward",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Generosity's Reward#contains184",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Generosity%27s_Reward#contains184",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Gift from Mawdrey II#contains98": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Gift from Mawdrey II",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_from_Mawdrey_II",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Gift from Mawdrey II#contains98",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Gift_from_Mawdrey_II#contains98",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hermit Titancrab#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hermit Titancrab",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hermit_Titancrab",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hermit Titancrab#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hermit_Titancrab#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden I#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden I",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_I",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hoard of the Marionette Warden I#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_I#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden II#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden II",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_II",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hoard of the Marionette Warden II#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_II#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden II/historical#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden II/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_II/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Hoard of the Marionette Warden II/historical#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_II/historical#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden III#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden III",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_III",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hoard of the Marionette Warden III#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_III#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden III/historical#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden III/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_III/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Hoard of the Marionette Warden III/historical#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_III/historical#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden IV#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden IV",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_IV",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hoard of the Marionette Warden IV#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_IV#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden IV/historical#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden IV/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_IV/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Hoard of the Marionette Warden IV/historical#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_IV/historical#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden V#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden V",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_V",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "25"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hoard of the Marionette Warden V#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_V#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hoard of the Marionette Warden V/historical#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hoard of the Marionette Warden V/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_V/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Hoard of the Marionette Warden V/historical#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hoard_of_the_Marionette_Warden_V/historical#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Intricate Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Intricate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Intricate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Intricate Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Intricate_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Intricate Watchwork Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Intricate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Intricate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Intricate Watchwork Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Intricate_Watchwork_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Syntri: Hero's Choice Chest#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Syntri: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Syntri: Hero's Choice Chest#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Wilds Greer Loot Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Wilds Greer Loot Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Greer_Loot_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Wilds Greer Loot Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Greer_Loot_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jolly Wintersday Gift#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jolly Wintersday Gift",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jolly_Wintersday_Gift",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "25-30"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jolly Wintersday Gift#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jolly_Wintersday_Gift#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lesser Kodan Cache#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lesser Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lesser Kodan Cache#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lesser Kodan Cache#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Titan Heatstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Titan_Heatstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lesser Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lesser Kodan Cache#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Memories of Scarlet Box#contains23": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Memories of Scarlet Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Memories_of_Scarlet_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Memories of Scarlet Box#contains23",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Memories_of_Scarlet_Box#contains23",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minor Kodan Cache#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minor Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Minor Kodan Cache#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minor Kodan Cache#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Titan Heatstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Titan_Heatstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minor Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Minor Kodan Cache#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mythical Kodan Cache#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Rotted Titan Amber",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Rotted_Titan_Amber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mythical Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mythical Kodan Cache#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mythical Kodan Cache#contains15": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Titan Heatstone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Titan_Heatstone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mythical Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mythical Kodan Cache#contains15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache#contains15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ornate Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ornate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ornate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ornate Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ornate_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ornate Watchwork Box#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ornate Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ornate_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ornate Watchwork Box#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ornate_Watchwork_Box#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Personalized Wintersday Gift#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Personalized Wintersday Gift",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Personalized_Wintersday_Gift",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Personalized Wintersday Gift#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Personalized_Wintersday_Gift#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Resplendent Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Resplendent Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Resplendent_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Resplendent Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Resplendent_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Resplendent Watchwork Box#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Resplendent Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Resplendent_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3-8"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Resplendent Watchwork Box#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Resplendent_Watchwork_Box#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Scarlet's Secret Stash#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Scarlet's Secret Stash",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Scarlet%27s_Secret_Stash",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1-6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Scarlet's Secret Stash#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Scarlet%27s_Secret_Stash#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Scarlet's Secret Stash#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Scarlet's Secret Stash",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Scarlet%27s_Secret_Stash",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4-8"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Scarlet's Secret Stash#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Scarlet%27s_Secret_Stash#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Season 1 Memory Box—Scarlet vs. Lion's Arch#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Season 1 Memory Box—Scarlet vs. Lion's Arch",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Season_1_Memory_Box%E2%80%94Scarlet_vs._Lion%27s_Arch",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Season 1 Memory Box—Scarlet vs. Lion's Arch#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Season_1_Memory_Box%E2%80%94Scarlet_vs._Lion%27s_Arch#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Small Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Small Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Small_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Small Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Small_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Small Watchwork Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Small Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Small_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Small Watchwork Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Small_Watchwork_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Snowflake Gobbler Pack#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Snowflake Gobbler Pack",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake_Gobbler_Pack",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "25"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Snowflake Gobbler Pack#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake_Gobbler_Pack#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Standard Citizen's Rescue Bag#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Standard Citizen's Rescue Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Standard_Citizen%27s_Rescue_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4-6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Standard Citizen's Rescue Bag#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Standard_Citizen%27s_Rescue_Bag#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "The Evon Gnashblade Wintersday Gift#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "The Evon Gnashblade Wintersday Gift",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Wintersday_Gift",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "The Evon Gnashblade Wintersday Gift#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Wintersday_Gift#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tiny Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tiny Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tiny_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tiny Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tiny_Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tiny Watchwork Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Tiny Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tiny_Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Tiny Watchwork Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tiny_Watchwork_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ultimate Citizen's Rescue Bag#contains17": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ultimate Citizen's Rescue Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ultimate_Citizen%27s_Rescue_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4-9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ultimate Citizen's Rescue Bag#contains17",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ultimate_Citizen%27s_Rescue_Bag#contains17",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Volatile Mass#contains130": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Volatile Mass",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Mass",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Volatile Mass#contains130",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Mass#contains130",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Watchwork Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Watchwork Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Watchwork Box#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Watchwork Sprocket",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Sprocket",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Watchwork Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Watchwork Box#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Watchwork_Box#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Wintersday Gift#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Snowflake",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Snowflake",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Wintersday Gift",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Wintersday_Gift",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Wintersday Gift#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Wintersday_Gift#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "cdab32f6b361a04ddd09411457a55ef0",
+    "count": 56,
+    "offset": 0,
+    "source": "",
+    "time": "0.277940"
+   }
+  }
+ }
+}

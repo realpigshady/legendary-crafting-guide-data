@@ -1,0 +1,2196 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Glob of Ectoplasm||Honey Flower||Jar of Vegetable Oil||Jar of Vinegar||Jug of Water||Lowland Pine Log]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Bag of Goods#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jug of Water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jug_of_Water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Goods#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Janthir Wilds)#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Janthir Wilds)#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Janthir Wilds)#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Janthir Wilds)#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains12": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Bjora Marches#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Bjora Marches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Bjora_Marches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Bjora Marches#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Bjora_Marches#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Dragonfall#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Dragonfall",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Dragonfall",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Dragonfall#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Dragonfall#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: End of Dragons#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: End of Dragons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_End_of_Dragons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: End of Dragons#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_End_of_Dragons#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Icebrood Saga#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Icebrood Saga",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Icebrood_Saga",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Icebrood Saga#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Icebrood_Saga#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Istan#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Istan",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Istan",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Istan#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Istan#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Janthir Wilds#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Janthir Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Janthir Wilds#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Janthir Wilds#contains29": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Janthir Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Janthir Wilds#contains29",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds#contains29",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Janthir Wilds#contains30": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Janthir Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Janthir Wilds#contains30",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds#contains30",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Secrets of the Obscure#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Secrets of the Obscure",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Secrets_of_the_Obscure",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Secrets of the Obscure#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Secrets_of_the_Obscure#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Thunderhead#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Thunderhead",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Thunderhead",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Thunderhead#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Thunderhead#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Visions of Eternity#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Visions of Eternity",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Visions_of_Eternity",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Visions of Eternity#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Visions_of_Eternity#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chef Starter Kit#contains10": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jar of Vegetable Oil",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jar_of_Vegetable_Oil",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chef Starter Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chef Starter Kit#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chef Starter Kit#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jug of Water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jug_of_Water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chef Starter Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chef Starter Kit#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chef Starter Kit#contains9": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jar of Vinegar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jar_of_Vinegar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chef Starter Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chef Starter Kit#contains9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit#contains9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Crafter#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Crafter",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Crafter",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Chest of the Crafter#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Crafter#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Clump of Destabilized Ectoplasm#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Clump of Destabilized Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Clump_of_Destabilized_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10, 60, 80, 90"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Clump of Destabilized Ectoplasm#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Clump_of_Destabilized_Ectoplasm#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dab of Destabilized Ectoplasm#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dab of Destabilized Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dab_of_Destabilized_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1, 6, 8, 9, 10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dab of Destabilized Ectoplasm#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dab_of_Destabilized_Ectoplasm#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fluctuating Mass#contains113": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fluctuating Mass",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fluctuating_Mass",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fluctuating Mass#contains113",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fluctuating_Mass#contains113",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractal Adept's Chest#contains10": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fractal Adept's Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Adept%27s_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fractal Adept's Chest#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Adept%27s_Chest#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractal Expert's Chest#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fractal Expert's Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Expert%27s_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fractal Expert's Chest#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Expert%27s_Chest#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fractal Master's Chest#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fractal Master's Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Master%27s_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fractal Master's Chest#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Master%27s_Chest#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ghostly Bag of Loot#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ghostly Bag of Loot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ghostly_Bag_of_Loot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Ghostly Bag of Loot#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ghostly_Bag_of_Loot#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Gift from Mawdrey II#contains29": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Gift from Mawdrey II",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gift_from_Mawdrey_II",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Gift from Mawdrey II#contains29",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Gift_from_Mawdrey_II#contains29",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Glob of Destabilized Ectoplasm#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Glob of Destabilized Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Destabilized_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Glob of Destabilized Ectoplasm#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Destabilized_Ectoplasm#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Gunk-Covered Pellet#contains141": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Gunk-Covered Pellet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Gunk-Covered_Pellet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Gunk-Covered Pellet#contains141",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Gunk-Covered_Pellet#contains141",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Hylek Maintenance Kit#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jug of Water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jug_of_Water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Hylek Maintenance Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Hylek_Maintenance_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Hylek Maintenance Kit#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Hylek_Maintenance_Kit#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Syntri: Hero's Choice Chest#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Syntri: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Syntri: Hero's Choice Chest#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Syntri: Hero's Choice Chest#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Syntri: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Syntri: Hero's Choice Chest#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lesser Kodan Cache#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lesser Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lesser Kodan Cache#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lesser Kodan Cache#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lesser Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lesser Kodan Cache#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Magic-Warped Bundle#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Magic-Warped Bundle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Magic-Warped_Bundle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Magic-Warped Bundle#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Magic-Warped_Bundle#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Massive Glob of Ectoplasm (ascended)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Massive Glob of Ectoplasm (ascended)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Massive_Glob_of_Ectoplasm_(ascended)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "500"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Massive Glob of Ectoplasm (ascended)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Massive_Glob_of_Ectoplasm_(ascended)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Massive Glob of Ectoplasm (exotic)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Massive Glob of Ectoplasm (exotic)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Massive_Glob_of_Ectoplasm_(exotic)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Massive Glob of Ectoplasm (exotic)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Massive_Glob_of_Ectoplasm_(exotic)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minor Kodan Cache#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minor Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Minor Kodan Cache#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minor Kodan Cache#contains9": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minor Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Minor Kodan Cache#contains9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache#contains9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mist-Warped Bundle#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mist-Warped Bundle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mist-Warped_Bundle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mist-Warped Bundle#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mist-Warped_Bundle#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystery Cooking Ingredient Box#contains77": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jar of Vinegar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jar_of_Vinegar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mystery Cooking Ingredient Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mystery Cooking Ingredient Box#contains77",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box#contains77",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystery Cooking Ingredient Box#contains78": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jar of Vegetable Oil",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jar_of_Vegetable_Oil",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mystery Cooking Ingredient Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mystery Cooking Ingredient Box#contains78",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box#contains78",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mythical Kodan Cache#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mythical Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mythical Kodan Cache#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mythical Kodan Cache#contains12": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mythical Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mythical Kodan Cache#contains12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache#contains12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Precious Lowland Shore Gear Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Precious Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Precious Lowland Shore Gear Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Precious Lowland Shore Gear Box#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Precious Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Precious Lowland Shore Gear Box#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Precious Lowland Shore Gear Box#contains21": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Precious Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Precious Lowland Shore Gear Box#contains21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box#contains21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Precious Lowland Shore Gear Box#contains22": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Precious Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Precious Lowland Shore Gear Box#contains22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Precious_Lowland_Shore_Gear_Box#contains22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Salvaged Debris#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Salvaged Debris",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Debris",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Salvaged Debris#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Debris#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sandstorm Flush Hand#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Sandstorm Flush Hand",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Flush_Hand",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Sandstorm Flush Hand#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Flush_Hand#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sandstorm Meld Hand#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Sandstorm Meld Hand",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Meld_Hand",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "10, 60, 80, 90"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Sandstorm Meld Hand#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Meld_Hand#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sandstorm Trump Hand#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Sandstorm Trump Hand",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Trump_Hand",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1, 6, 8, 9, 10, 50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Sandstorm Trump Hand#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sandstorm_Trump_Hand#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Small Bag of Goods#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jug of Water",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jug_of_Water",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Small Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Small Bag of Goods#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Swampworn Lowland Shore Gear Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Swampworn Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Swampworn Lowland Shore Gear Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Swampworn Lowland Shore Gear Box#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Swampworn Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Swampworn Lowland Shore Gear Box#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Swampworn Lowland Shore Gear Box#contains21": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Lowland Pine Log",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lowland_Pine_Log",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Swampworn Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Swampworn Lowland Shore Gear Box#contains21",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box#contains21",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Swampworn Lowland Shore Gear Box#contains22": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Honey Flower",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Honey_Flower",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Swampworn Lowland Shore Gear Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Swampworn Lowland Shore Gear Box#contains22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Swampworn_Lowland_Shore_Gear_Box#contains22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Volatile Mass#contains87": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Glob of Ectoplasm",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Glob_of_Ectoplasm",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Volatile Mass",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Mass",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Volatile Mass#contains87",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Mass#contains87",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "f23bbee90067f246634d5e5519901627",
+    "count": 59,
+    "offset": 0,
+    "source": "",
+    "time": "0.235716"
+   }
+  }
+ }
+}

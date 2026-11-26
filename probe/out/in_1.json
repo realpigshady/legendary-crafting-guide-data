@@ -1,0 +1,525 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contained in::Extra-Large Pinch of Stardust||Extra-Large Calcified Gasp||Tyrian Exchange Voucher||Tyrian Defense Seal||Kralkatite Ore||Geode]]|?Contained in|?Contains item|?Has contained item quantity|?Has contained item chance|limit=200"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Extra-Large Calcified Gasp#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Extra-Large Calcified Gasp",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Calcified_Gasp",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Calcified Gasp",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Calcified_Gasp",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Extra-Large Calcified Gasp#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Calcified_Gasp#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Extra-Large Pinch of Stardust#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Extra-Large Pinch of Stardust",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Pinch_of_Stardust",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Pinch of Stardust",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pinch_of_Stardust",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Extra-Large Pinch of Stardust#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Pinch_of_Stardust#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Kralkatite Ore#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Kralkatite Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Volatile Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Volatile_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "3-5"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Kralkatite Ore#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Kralkatite_Ore#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "300 Geodes",
+        "fullurl": "https://wiki.guildwars2.com/wiki/300_Geodes",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains10": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "100 Fractal Relics",
+        "fullurl": "https://wiki.guildwars2.com/wiki/100_Fractal_Relics",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains11": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "300 Tales of Dungeon Delving",
+        "fullurl": "https://wiki.guildwars2.com/wiki/300_Tales_of_Dungeon_Delving",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains2": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "300 Bandit Crests",
+        "fullurl": "https://wiki.guildwars2.com/wiki/300_Bandit_Crests",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains3": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "500 Airship Parts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/500_Airship_Parts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains4": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "500 Lumps of Aurillium",
+        "fullurl": "https://wiki.guildwars2.com/wiki/500_Lumps_of_Aurillium",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains5": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "500 Ley Line Crystals",
+        "fullurl": "https://wiki.guildwars2.com/wiki/500_Ley_Line_Crystals",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains6": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "1000 Unbound Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1000_Unbound_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains7": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "250 Trade Contracts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/250_Trade_Contracts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains8": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "30 Elegy Mosaics",
+        "fullurl": "https://wiki.guildwars2.com/wiki/30_Elegy_Mosaics",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Tyrian Exchange Voucher#contains9": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Tyrian Exchange Voucher",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "1000 Volatile Magic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/1000_Volatile_Magic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ]
+     },
+     "fulltext": "Tyrian Exchange Voucher#contains9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Tyrian_Exchange_Voucher#contains9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "939ca361056cd45954226db658eba4d2",
+    "count": 14,
+    "offset": 0,
+    "source": "",
+    "time": "0.033583"
+   }
+  }
+ }
+}

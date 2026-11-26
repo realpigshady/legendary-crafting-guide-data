@@ -1,0 +1,2692 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Bag of Flour||Bag of Sugar||Bottle of Soy Sauce||Charged Titan Ore||Eitrite Ingot||Exotic Essence of Luck]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500|offset=0"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Aetherblade Cache (item)#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Aetherblade Cache (item)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Aetherblade_Cache_(item)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Aetherblade Cache (item)#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Aetherblade_Cache_(item)#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Ankka's Coffer/historical#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Ankka's Coffer/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ankka%27s_Coffer/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Ankka's Coffer/historical#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Ankka%27s_Coffer/historical#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Goods#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Flour",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Flour",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Goods#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Goods#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Sugar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Sugar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Goods#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Goods#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Loot (Janthir Wilds)#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Loot (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Loot_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Loot (Janthir Wilds)#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Loot_(Janthir_Wilds)#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Loot (Visions of Eternity)#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Loot (Visions of Eternity)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Loot_(Visions_of_Eternity)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Loot (Visions of Eternity)#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Loot_(Visions_of_Eternity)#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Luck (exotic)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Luck (exotic)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(exotic)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Luck (exotic)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(exotic)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Luck (fine)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Luck (fine)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(fine)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Luck (fine)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(fine)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Luck (masterwork)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Luck (masterwork)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(masterwork)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Luck (masterwork)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(masterwork)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Luck (rare)#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Luck (rare)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(rare)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Luck (rare)#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Luck_(rare)#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Trick-or-Treat Bags#contains22": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Trick-or-Treat Bags",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Trick-or-Treat_Bags",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Trick-or-Treat Bags#contains22",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Trick-or-Treat_Bags#contains22",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Trick-or-Treat Bags#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bag of Trick-or-Treat Bags",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Trick-or-Treat_Bags",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bag of Trick-or-Treat Bags#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Trick-or-Treat_Bags#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Janthir Wilds)#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Janthir Wilds)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Janthir Wilds)#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Janthir_Wilds)#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Bjora Marches#contains28": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Bjora Marches",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Bjora_Marches",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Bjora Marches#contains28",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Bjora_Marches#contains28",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Janthir Wilds#contains28": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Janthir Wilds",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Janthir Wilds#contains28",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Janthir_Wilds#contains28",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canthan Backpack#contains54": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Canthan Backpack",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Backpack",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Canthan Backpack#contains54",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Backpack#contains54",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Canthan Ritualist Satchel#contains59": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Canthan Ritualist Satchel",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Ritualist_Satchel",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Canthan Ritualist Satchel#contains59",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Canthan_Ritualist_Satchel#contains59",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chef Starter Kit#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Flour",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Flour",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chef Starter Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chef Starter Kit#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chef Starter Kit#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Sugar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Sugar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chef Starter Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chef Starter Kit#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chef_Starter_Kit#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chewed Canthan Backpack#contains39": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chewed Canthan Backpack",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chewed_Canthan_Backpack",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chewed Canthan Backpack#contains39",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chewed_Canthan_Backpack#contains39",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Deluxe Gear Box (End of Dragons)#contains18": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Deluxe Gear Box (End of Dragons)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Deluxe_Gear_Box_(End_of_Dragons)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Deluxe Gear Box (End of Dragons)#contains18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Deluxe_Gear_Box_(End_of_Dragons)#contains18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Divine Lucky Envelope#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Divine Lucky Envelope",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Divine_Lucky_Envelope",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Divine Lucky Envelope#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Divine_Lucky_Envelope#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragon Ball Champion's Divine Lucky Envelope#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dragon Ball Champion's Divine Lucky Envelope",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon_Ball_Champion%27s_Divine_Lucky_Envelope",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dragon Ball Champion's Divine Lucky Envelope#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragon_Ball_Champion%27s_Divine_Lucky_Envelope#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Dragonvoid Cache#contains20": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Dragonvoid Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragonvoid_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Dragonvoid Cache#contains20",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Dragonvoid_Cache#contains20",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Echo of Raven Sanctum#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Echo of Raven Sanctum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Echo_of_Raven_Sanctum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Echo of Raven Sanctum#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Echo_of_Raven_Sanctum#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Echovald Wilds Strongbox#contains10": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Echovald Wilds Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Echovald_Wilds_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Echovald Wilds Strongbox#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Echovald_Wilds_Strongbox#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Faint Echo of Raven Sanctum#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Faint Echo of Raven Sanctum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Faint_Echo_of_Raven_Sanctum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Faint Echo of Raven Sanctum#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Faint_Echo_of_Raven_Sanctum#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Grawl Supply Sack#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Grawl Supply Sack",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grawl_Supply_Sack",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Grawl Supply Sack#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Grawl_Supply_Sack#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jade Brotherhood Cache#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jade Brotherhood Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Brotherhood_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jade Brotherhood Cache#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Brotherhood_Cache#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jade Tech Lockbox#contains57": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jade Tech Lockbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Tech_Lockbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jade Tech Lockbox#contains57",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Tech_Lockbox#contains57",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Syntri: Hero's Choice Chest#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Syntri: Hero's Choice Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Choice"
+      ],
+      "Has contained item quantity": [
+       "20"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Syntri: Hero's Choice Chest#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Syntri:_Hero%27s_Choice_Chest#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Janthir Wilds Decima Loot Box#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Janthir Wilds Decima Loot Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Decima_Loot_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Janthir Wilds Decima Loot Box#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Janthir_Wilds_Decima_Loot_Box#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jora's Weapons Cache#contains7": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jora's Weapons Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jora%27s_Weapons_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jora's Weapons Cache#contains7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jora%27s_Weapons_Cache#contains7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Lesser Kodan Cache#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Lesser Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Lesser Kodan Cache#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Lesser_Kodan_Cache#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Liberator of Lion's Arch Chest#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Liberator of Lion's Arch Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Liberator_of_Lion%27s_Arch_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Liberator of Lion's Arch Chest#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Liberator_of_Lion%27s_Arch_Chest#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Little Lucky Envelope#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Little Lucky Envelope",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Little_Lucky_Envelope",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Little Lucky Envelope#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Little_Lucky_Envelope#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Luxon Cache#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Luxon Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Luxon_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Luxon Cache#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Luxon_Cache#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mai Trin's Coffer/historical#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mai Trin's Coffer/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mai_Trin%27s_Coffer/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Mai Trin's Coffer/historical#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mai_Trin%27s_Coffer/historical#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Memories of Scarlet Box#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Memories of Scarlet Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Memories_of_Scarlet_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Memories of Scarlet Box#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Memories_of_Scarlet_Box#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minister Li's Coffer/historical#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minister Li's Coffer/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minister_Li%27s_Coffer/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Minister Li's Coffer/historical#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minister_Li%27s_Coffer/historical#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Minor Kodan Cache#contains10": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Minor Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Minor Kodan Cache#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Minor_Kodan_Cache#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mistburned Barrens Adventure: Bronze#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mistburned Barrens Adventure: Bronze",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mistburned_Barrens_Adventure:_Bronze",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mistburned Barrens Adventure: Bronze#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mistburned_Barrens_Adventure:_Bronze#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystery Cooking Ingredient Box#contains79": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Sugar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Sugar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mystery Cooking Ingredient Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mystery Cooking Ingredient Box#contains79",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box#contains79",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystery Cooking Ingredient Box#contains81": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bottle of Soy Sauce",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bottle_of_Soy_Sauce",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mystery Cooking Ingredient Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mystery Cooking Ingredient Box#contains81",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box#contains81",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mystery Cooking Ingredient Box#contains83": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Flour",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Flour",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mystery Cooking Ingredient Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mystery Cooking Ingredient Box#contains83",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mystery_Cooking_Ingredient_Box#contains83",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Mythical Kodan Cache#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Charged Titan Ore",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Charged_Titan_Ore",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Mythical Kodan Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Mythical Kodan Cache#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Mythical_Kodan_Cache#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Naga Cache#contains15": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Naga Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Naga_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Naga Cache#contains15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Naga_Cache#contains15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "New Kaineng Strongbox#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "New Kaineng Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/New_Kaineng_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "New Kaineng Strongbox#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/New_Kaineng_Strongbox#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Partially Chewed Box#contains46": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Partially Chewed Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Partially_Chewed_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Partially Chewed Box#contains46",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Partially_Chewed_Box#contains46",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Personalized Trick-or-Treat Bag#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Personalized Trick-or-Treat Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Personalized_Trick-or-Treat_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Personalized Trick-or-Treat Bag#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Personalized_Trick-or-Treat_Bag#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Purist Cache#contains8": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Purist Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Purist_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Purist Cache#contains8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Purist_Cache#contains8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Large Chest of Resilience#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Large Chest of Resilience",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Resilience",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Large Chest of Resilience#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Resilience#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Large Chest of Valor#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Large Chest of Valor",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Valor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Large Chest of Valor#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Valor#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Large Chest of Vigilance#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Large Chest of Vigilance",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Vigilance",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Large Chest of Vigilance#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Large_Chest_of_Vigilance#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Medium Chest of Resilience#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Medium Chest of Resilience",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Resilience",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "6"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Medium Chest of Resilience#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Resilience#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Medium Chest of Valor#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Medium Chest of Valor",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Valor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Medium Chest of Valor#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Valor#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Medium Chest of Vigilance#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Medium Chest of Vigilance",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Vigilance",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Medium Chest of Vigilance#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Medium_Chest_of_Vigilance#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Small Chest of Resilience#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Small Chest of Resilience",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Resilience",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Small Chest of Resilience#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Resilience#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Small Chest of Valor#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Small Chest of Valor",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Valor",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Small Chest of Valor#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Valor#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Raid Encounter: Lost Small Chest of Vigilance#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Raid Encounter: Lost Small Chest of Vigilance",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Vigilance",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Raid Encounter: Lost Small Chest of Vigilance#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Raid_Encounter:_Lost_Small_Chest_of_Vigilance#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Seitung Province Keepsake Box#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Seitung Province Keepsake Box",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Seitung_Province_Keepsake_Box",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Seitung Province Keepsake Box#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Seitung_Province_Keepsake_Box#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Skyscale Target Practice: Bronze#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Skyscale Target Practice: Bronze",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Skyscale_Target_Practice:_Bronze",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Skyscale Target Practice: Bronze#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Skyscale_Target_Practice:_Bronze#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Small Bag of Goods#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Flour",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Flour",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Small Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Small Bag of Goods#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Small Bag of Goods#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Bag of Sugar",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Sugar",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Small Bag of Goods",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Small Bag of Goods#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Small_Bag_of_Goods#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Speakers Cache#contains12": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Speakers Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Speakers_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Speakers Cache#contains12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Speakers_Cache#contains12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Strong Echo of Raven Sanctum#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Strong Echo of Raven Sanctum",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Strong_Echo_of_Raven_Sanctum",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Strong Echo of Raven Sanctum#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Strong_Echo_of_Raven_Sanctum#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Strong Echo of Whispers#contains48": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Strong Echo of Whispers",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Strong_Echo_of_Whispers",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Strong Echo of Whispers#contains48",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Strong_Echo_of_Whispers#contains48",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "The Evon Gnashblade Lucky Envelope#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "The Evon Gnashblade Lucky Envelope",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Lucky_Envelope",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "The Evon Gnashblade Lucky Envelope#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Lucky_Envelope#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "The Evon Gnashblade Trick-or-Treat Bag#contains56": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "The Evon Gnashblade Trick-or-Treat Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Trick-or-Treat_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "The Evon Gnashblade Trick-or-Treat Bag#contains56",
+     "fullurl": "https://wiki.guildwars2.com/wiki/The_Evon_Gnashblade_Trick-or-Treat_Bag#contains56",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Trick-or-Treat Bag#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Trick-or-Treat Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trick-or-Treat_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Trick-or-Treat Bag#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Trick-or-Treat_Bag#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Void's Coffer/historical#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Void's Coffer/historical",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Void%27s_Coffer/historical",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": []
+     },
+     "fulltext": "Void's Coffer/historical#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Void%27s_Coffer/historical#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Watertight Bag#contains35": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Exotic Essence of Luck",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Exotic_Essence_of_Luck",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Watertight Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Watertight_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Watertight Bag#contains35",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Watertight_Bag#contains35",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Weekly Quickplay Raid Cache#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Eitrite Ingot",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Eitrite_Ingot",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Weekly Quickplay Raid Cache",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Weekly_Quickplay_Raid_Cache",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Weekly Quickplay Raid Cache#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Weekly_Quickplay_Raid_Cache#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "a4b481eeb11874c1f788410970150827",
+    "count": 73,
+    "offset": 0,
+    "source": "",
+    "time": "0.220658"
+   }
+  }
+ }
+}

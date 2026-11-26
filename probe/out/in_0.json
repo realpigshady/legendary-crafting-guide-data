@@ -1,0 +1,294 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contained in::Pile of Elonian Trade Contracts||Large Bag of Airship Parts||Bag of Ley-Line Crystals||Bag of Aurillium||Bag of Fractal Relics||Extra-Large Static Charge]]|?Contained in|?Contains item|?Has contained item quantity|?Has contained item chance|limit=200"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Bag of Aurillium#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Bag of Aurillium",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Aurillium",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Lump of Aurillium",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Lump_of_Aurillium",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Bag of Aurillium#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Aurillium#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Fractal Relics#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Bag of Fractal Relics",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Fractal_Relics",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Fractal Relic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fractal_Relic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "15"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Bag of Fractal Relics#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Fractal_Relics#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bag of Ley-Line Crystals#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Bag of Ley-Line Crystals",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Ley-Line_Crystals",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Ley Line Crystal",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Ley_Line_Crystal",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Bag of Ley-Line Crystals#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bag_of_Ley-Line_Crystals#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Extra-Large Static Charge#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Extra-Large Static Charge",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Static_Charge",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Static Charge",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Static_Charge",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Extra-Large Static Charge#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Extra-Large_Static_Charge#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Large Bag of Airship Parts#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Large Bag of Airship Parts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Large_Bag_of_Airship_Parts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Airship Part",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Airship_Part",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Large Bag of Airship Parts#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Large_Bag_of_Airship_Parts#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Large Bag of Airship Parts#contains2": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Large Bag of Airship Parts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Large_Bag_of_Airship_Parts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Airship Part",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Airship_Part",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "25"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Large Bag of Airship Parts#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Large_Bag_of_Airship_Parts#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Pile of Elonian Trade Contracts#contains1": {
+     "printouts": {
+      "Contained in": [
+       {
+        "fulltext": "Pile of Elonian Trade Contracts",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Pile_of_Elonian_Trade_Contracts",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contains item": [
+       {
+        "fulltext": "Trade Contract",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Trade_Contract",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ]
+     },
+     "fulltext": "Pile of Elonian Trade Contracts#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Pile_of_Elonian_Trade_Contracts#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "c23f60f60bfa12f3f0b98175f09aae4f",
+    "count": 7,
+    "offset": 0,
+    "source": "",
+    "time": "0.046590"
+   }
+  }
+ }
+}
