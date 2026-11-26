@@ -1,0 +1,548 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has vendor::Noran||Baroness Nicole||Captain Jack||Supply Master Forgehart||Scout Ebba||Researcher Jebb]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Noran#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bundle of Jade Shards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Jade_Shards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mini Fire Tornado",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Fire_Tornado",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "25"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Jade Shard"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor3": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Key to Noran's Secret Chest",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Key_to_Noran%27s_Secret_Chest",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "0"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Crude Salvage Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Crude_Salvage_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "28"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Basic Salvage Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Basic_Salvage_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "77"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor6": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Fine Salvage Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fine_Salvage_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "252"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Journeyman's Salvage Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Journeyman%27s_Salvage_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2800"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor8": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Master's Salvage Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Master%27s_Salvage_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "5600"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Noran#vendor9": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Friend of Noran",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Friend_of_Noran",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "7000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Harvest Cascades",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Harvest_Cascades",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Noran#vendor9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Noran#vendor9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "96770f10f859ba848205290fa74eba1a",
+    "count": 9,
+    "offset": 0,
+    "source": "",
+    "time": "0.149633"
+   }
+  }
+ }
+}

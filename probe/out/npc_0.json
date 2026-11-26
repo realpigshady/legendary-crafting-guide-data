@@ -1,0 +1,1631 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Has vendor::Farmer Simooba||Sun Warming||Svanir Seer||Woomulla||Scientist Arca||Castaway Sennen]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Sells item",
+     "key": "Sells_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item cost",
+     "key": "Has_item_cost",
+     "redi": "",
+     "typeid": "_rec",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has item quantity",
+     "key": "Has_item_quantity",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has daily purchase cap",
+     "key": "Has_daily_purchase_cap",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Located in",
+     "key": "Located_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Farmer Simooba#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bundle of Winterberries",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor10": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Steak with Winterberry Sauce",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Steak_with_Winterberry_Sauce",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor11": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bowl of Winterberry Seaweed Salad",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bowl_of_Winterberry_Seaweed_Salad",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor12": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Winterberry Sorbet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Winterberry_Sorbet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor13": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Friend of Quaggans",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Friend_of_Quaggans",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "7000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mini Arctic Quaggan",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Arctic_Quaggan",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor3": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Coral Loop#item1",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Coral_Loop#item1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "21000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Coral Loop#item2",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Coral_Loop#item2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "42000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Winterberry Pie",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Winterberry_Pie",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "17500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor6": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Steak with Winterberry Sauce",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Steak_with_Winterberry_Sauce",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "17500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Winterberry Seaweed Salad",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Winterberry_Seaweed_Salad",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "17500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor8": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Recipe: Winterberry Sorbet",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Recipe:_Winterberry_Sorbet",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "17500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Farmer Simooba#vendor9": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Winterberry Pie",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Winterberry_Pie",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "10"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "3500"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Dragon's Teeth Hot Springs",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Dragon%27s_Teeth_Hot_Springs",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Farmer Simooba#vendor9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Farmer_Simooba#vendor9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bundle of Winterberries",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Grawl Firestone",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Grawl_Firestone",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "1050"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor3": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mini Chicken",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Chicken",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "String of Grawl Prayer Beads#item1",
+        "fullurl": "https://wiki.guildwars2.com/wiki/String_of_Grawl_Prayer_Beads#item1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "21000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "String of Grawl Prayer Beads#item2",
+        "fullurl": "https://wiki.guildwars2.com/wiki/String_of_Grawl_Prayer_Beads#item2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "42000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor6": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Unbound Mining Pick",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Mining_Pick",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "4900"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor7": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Unbound Logging Axe",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Logging_Axe",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "4900"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor7",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor7",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor8": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Unbound Harvesting Sickle",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Unbound_Harvesting_Sickle",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "4900"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor8",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor8",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sun Warming#vendor9": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Friend of the Grawl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Friend_of_the_Grawl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "7000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Brakbrak Ice Snarl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Brakbrak_Ice_Snarl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Sun Warming#vendor9",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sun_Warming#vendor9",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor1": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Bundle of Winterberries",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "2688"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [
+       1
+      ],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor2": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Mini Owl Griffon Hatchling",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Mini_Owl_Griffon_Hatchling",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "105000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       },
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "50"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Fresh Winterberry"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor3": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Griffon Feather (rare)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Feather_(rare)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "21000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor4": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Griffon Feather (exotic)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Feather_(exotic)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "42000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor5": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Endless Kodan Tonic",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Endless_Kodan_Tonic",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "175000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Woomulla#vendor6": {
+     "printouts": {
+      "Sells item": [
+       {
+        "fulltext": "Protector of Griffons",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Protector_of_Griffons",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has item cost": [
+       {
+        "Has item value": {
+         "label": "Has item value",
+         "key": "Has_item_value",
+         "typeid": "_txt",
+         "item": [
+          "7000"
+         ]
+        },
+        "Has item currency": {
+         "label": "Has item currency",
+         "key": "Has_item_currency",
+         "typeid": "_txt",
+         "item": [
+          "Karma"
+         ]
+        }
+       }
+      ],
+      "Has item quantity": [
+       1
+      ],
+      "Has daily purchase cap": [],
+      "Located in": [
+       {
+        "fulltext": "Griffon Old Growth",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Griffon_Old_Growth",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ]
+     },
+     "fulltext": "Woomulla#vendor6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Woomulla#vendor6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "16fdad79cdffcdbf64c7d2713b7cc409",
+    "count": 28,
+    "offset": 0,
+    "source": "",
+    "time": "0.292504"
+   }
+  }
+ }
+}

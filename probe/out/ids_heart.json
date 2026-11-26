@@ -1,0 +1,118 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Bundle of Winterberries||Bundle of Jade Shards||Bundle of Fire Orchid Blossoms||Bundle of Orrian Pearls||Bundle of Petrified Wood||Petrified Log]]|?Has game id|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Bundle of Fire Orchid Blossoms": {
+     "printouts": {
+      "Has game id": [
+       81003,
+       81192,
+       81028,
+       81139
+      ]
+     },
+     "fulltext": "Bundle of Fire Orchid Blossoms",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Fire_Orchid_Blossoms",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Jade Shards": {
+     "printouts": {
+      "Has game id": [
+       80394,
+       80679,
+       80646,
+       80513,
+       80388,
+       80136
+      ]
+     },
+     "fulltext": "Bundle of Jade Shards",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Jade_Shards",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Orrian Pearls": {
+     "printouts": {
+      "Has game id": [
+       81879,
+       81960,
+       81968,
+       81985,
+       82015
+      ]
+     },
+     "fulltext": "Bundle of Orrian Pearls",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Orrian_Pearls",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Petrified Wood": {
+     "printouts": {
+      "Has game id": [
+       79462,
+       79505,
+       79534,
+       79596,
+       79597
+      ]
+     },
+     "fulltext": "Bundle of Petrified Wood",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Petrified_Wood",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Winterberries": {
+     "printouts": {
+      "Has game id": [
+       79750,
+       79713,
+       79913,
+       79762
+      ]
+     },
+     "fulltext": "Bundle of Winterberries",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "b803027cf9fd2e70b6bd37cf6e380e72",
+    "count": 5,
+    "offset": 0,
+    "source": "",
+    "time": "0.006981"
+   }
+  }
+ }
+}

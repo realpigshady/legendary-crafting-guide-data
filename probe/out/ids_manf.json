@@ -1,0 +1,111 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Winterberry Strongbox||Orrian Pearl Strongbox||Jade Shard Strongbox||Blood Ruby Strongbox||Fire Orchid Strongbox||Sack of Petrified Wood]]|?Has game id|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Blood Ruby Strongbox": {
+     "printouts": {
+      "Has game id": [
+       79161
+      ]
+     },
+     "fulltext": "Blood Ruby Strongbox",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby_Strongbox",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fire Orchid Strongbox": {
+     "printouts": {
+      "Has game id": [
+       81036
+      ]
+     },
+     "fulltext": "Fire Orchid Strongbox",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Strongbox",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jade Shard Strongbox": {
+     "printouts": {
+      "Has game id": [
+       80498
+      ]
+     },
+     "fulltext": "Jade Shard Strongbox",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard_Strongbox",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Orrian Pearl Strongbox": {
+     "printouts": {
+      "Has game id": [
+       82022
+      ]
+     },
+     "fulltext": "Orrian Pearl Strongbox",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl_Strongbox",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sack of Petrified Wood": {
+     "printouts": {
+      "Has game id": [
+       79479
+      ]
+     },
+     "fulltext": "Sack of Petrified Wood",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sack_of_Petrified_Wood",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Winterberry Strongbox": {
+     "printouts": {
+      "Has game id": [
+       79857
+      ]
+     },
+     "fulltext": "Winterberry Strongbox",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Winterberry_Strongbox",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "974a79cc2439a0886974c1a9776f7168",
+    "count": 6,
+    "offset": 0,
+    "source": "",
+    "time": "0.006518"
+   }
+  }
+ }
+}

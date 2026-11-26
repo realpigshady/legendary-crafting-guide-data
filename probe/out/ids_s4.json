@@ -1,0 +1,51 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Season 4 Material Chest (Raid)]]|?Has game id|limit=50"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Has game id",
+     "key": "Has_game_id",
+     "redi": "",
+     "typeid": "_num",
+     "mode": 1,
+     "format": ""
+    }
+   ],
+   "results": {
+    "Season 4 Material Chest (Raid)": {
+     "printouts": {
+      "Has game id": [
+       107106
+      ]
+     },
+     "fulltext": "Season 4 Material Chest (Raid)",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Season_4_Material_Chest_(Raid)",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "ce97d5899b3d4934565672ba77170722",
+    "count": 1,
+    "offset": 0,
+    "source": "",
+    "time": "0.005061"
+   }
+  }
+ }
+}
