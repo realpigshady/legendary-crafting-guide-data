@@ -1,0 +1,20 @@
+{
+  "_note": "Map completion gifts (owner decision 11, 2026-11-26). The wiki's Map completion page: each map below gives its gift on map completion, once per character (map completion is per character), so a player can repeat it on another character. The wiki's 'Rewarded by: Map completion' rows (one generic page for every map) are dropped: they made one activity that gave all nineteen gifts at once. Gift of Inner Nayos is not a completion reward (achievements). The Path of Fire gifts (Oasis, Highlands, Riverlands, Desolation) are not a completion reward: map completion only lets the character buy them (their vendor sources stay). minutes: owner's estimate for one map completion on one character (2026-11-26: 60 min per map); DRF refines it. map_id: official API map id (Verdant Brink has two map ids; 1052 is the open world one).",
+  "minutes": 60,
+  "maps": {
+    "Verdant Brink": {"map_id": 1052, "expansion": "hot", "gift": "Gift of the Fleet"},
+    "Auric Basin": {"map_id": 1043, "expansion": "hot", "gift": "Gift of Tarir"},
+    "Tangled Depths": {"map_id": 1045, "expansion": "hot", "gift": "Gift of the Chak"},
+    "Dragon's Stand": {"map_id": 1041, "expansion": "hot", "gift": "Gift of the Jungle"},
+    "Seitung Province": {"map_id": 1442, "expansion": "eod", "gift": "Gift of Seitung Province"},
+    "New Kaineng City": {"map_id": 1438, "expansion": "eod", "gift": "Gift of New Kaineng City"},
+    "The Echovald Wilds": {"map_id": 1452, "expansion": "eod", "gift": "Gift of the Echovald Forest"},
+    "Dragon's End": {"map_id": 1422, "expansion": "eod", "gift": "Gift of Dragon's End"},
+    "Skywatch Archipelago": {"map_id": 1510, "expansion": "soto", "gift": "Gift of Skywatch Archipelago"},
+    "Amnytas": {"map_id": 1517, "expansion": "soto", "gift": "Gift of Amnytas"},
+    "Lowland Shore": {"map_id": 1550, "expansion": "jw", "gift": "Gift of Lowland Shore"},
+    "Janthir Syntri": {"map_id": 1554, "expansion": "jw", "gift": "Gift of Janthir Syntri"},
+    "Mistburned Barrens": {"map_id": 1575, "expansion": "jw", "gift": "Gift of Mistburned Barrens"},
+    "Bava Nisos": {"map_id": 1574, "expansion": "jw", "gift": "Gift of Bava Nisos"}
+  }
+}

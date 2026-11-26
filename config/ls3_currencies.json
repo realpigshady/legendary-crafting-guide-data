@@ -91,13 +91,14 @@
     ]
   },
   "heart_vendors": {
-    "_note": "Heart vendor material bundles (owner's sheet 2026-11-10 named the maps and the once-a-day limit). Item -> the bundle the heart vendors sell for it. Vendors, Karma cost, locations and bundles per purchase come from the wiki's vendor rows for the bundle; items per bundle from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the old sheet said 5 per pack for every map, the wiki says Jade Shards, Fire Orchid Blossoms and Orrian Pearls bundles hold 3, Petrified Wood 1, and four maps had other vendor names). Every heart vendor bundle is once a day per character (owner, in game 2026-11-26): daily_cap applies to all of them, whatever the wiki row says. One source per vendor, so each keeps its own daily limit. Counted for ONE character only.",
+    "_note": "Heart vendor material bundles (owner's sheet 2026-11-10 named the maps and the once-a-day limit). Item -> the bundle the heart vendors sell for it. Vendors, Karma cost, locations and bundles per purchase come from the wiki's vendor rows for the bundle; items per bundle from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the old sheet said 5 per pack for every map, the wiki says Jade Shards, Fire Orchid Blossoms and Orrian Pearls bundles hold 3, Petrified Wood 1, and four maps had other vendor names). Every heart vendor bundle is once a day per character (owner, in game 2026-11-26): daily_cap applies to all of them, whatever the wiki row says. One source per vendor, so each keeps its own daily limit. Counted for ONE character only. Bundle of Kralkatite (25 Kralkatite Ore for 2,688 Karma; Archivist Salwa, Priest Sazeer, Shipmate Hadhi) added 2026-11-26: the wiki has no limit, owner: once a day like the others.",
     "offers": {
       "Fresh Winterberry": "Bundle of Winterberries",
       "Jade Shard": "Bundle of Jade Shards",
       "Fire Orchid Blossom": "Bundle of Fire Orchid Blossoms",
       "Orrian Pearl": "Bundle of Orrian Pearls",
-      "Petrified Wood": "Bundle of Petrified Wood"
+      "Petrified Wood": "Bundle of Petrified Wood",
+      "Kralkatite Ore": "Bundle of Kralkatite"
     },
     "daily_cap": 1,
     "owner_counts": {

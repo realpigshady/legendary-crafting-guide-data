@@ -438,6 +438,10 @@
             "minimum": 1,
             "description": "runs that count per play day (daily fractals, hero's choice chests)"
           },
+          "per_character": {
+            "type": "boolean",
+            "description": "once per character (map completion): each character that has not done it can do it once, so the account can repeat it on its other characters"
+          },
           "max_runs_per_week": {
             "type": "integer",
             "minimum": 1,

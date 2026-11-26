@@ -33,6 +33,7 @@ import wiki_sources as wsrc  # noqa: E402
 import event_timers as etm  # noqa: E402
 import activity_catalog as acat  # noqa: E402
 import ls3_currencies as ls3  # noqa: E402
+import map_completion  # noqa: E402
 import castora  # noqa: E402
 import collection_gifts as cgift  # noqa: E402
 import unlock_sources as unl  # noqa: E402
@@ -505,6 +506,8 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                                   "insight_activities": ls3.insight_sources(final, nodes)}
     except wsrc.WikiSourcesDown as e:
         raise SourceDown(str(e)) from e
+    stats["map_completion"], mcwarn = map_completion.apply(final, nodes, maps)   # per-character map gifts (config/map_completion.json)
+    warnings += mcwarn
     # Visions of Eternity daily currency sources, read from the wiki pages config/castora.json names (Data 4o)
     try:
         stats["castora"], cwarn = castora.apply(final, nodes, store, smw, maps)

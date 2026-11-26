@@ -76,6 +76,15 @@ def test_heart_vendor_bundles_from_wiki():
     assert ls3.heart_vendor_sources(nodes, _smw(), CUR) == 0
 
 
+def test_kralkatite_bundle_once_a_day():
+    nodes = {"item:1": {"id": "item:1", "name": "Kralkatite Ore", "sources": []}}
+    warn = []
+    assert ls3.heart_vendor_sources(nodes, _smw(), CUR, warn) == 3 and warn == []
+    srcs = nodes["item:1"]["sources"]
+    assert all(s["output_count"] == 25 and s["daily_cap"] == 1 for s in srcs)
+    assert all(s["offer"] == {"name": "Bundle of Kralkatite", "count": 1, "contains": 25} for s in srcs)
+
+
 def test_insights_on_existing_places():
     final = {"loc:spirit_vale": {"id": "loc:spirit_vale", "yields": [{"node_id": "currency:28", "count": 1}]},
              "loc:boneskinner": {"id": "loc:boneskinner", "yields": []}}

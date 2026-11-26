@@ -1,0 +1,101 @@
+{
+"fetched": 1795720766.7265527,
+"item": "Bundle of Kralkatite",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Archivist Salwa"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Astralarium"
+],
+"Sells item": [
+"Bundle of Kralkatite"
+],
+"_subject": "Archivist Salwa#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Priest Sazeer"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Champion's Dawn"
+],
+"Sells item": [
+"Bundle of Kralkatite"
+],
+"_subject": "Priest Sazeer#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Shipmate Hadhi"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Corsair Flotilla"
+],
+"Sells item": [
+"Bundle of Kralkatite"
+],
+"_subject": "Shipmate Hadhi#vendor1"
+}
+]
+}
