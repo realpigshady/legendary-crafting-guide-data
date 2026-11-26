@@ -8,21 +8,27 @@ yield). Each becomes an activity ``ls3:gather:<map>`` with the map id, the neare
 map centre (official API map index) and a wiki link; its yield is attached only when the
 item is a node of this pack's trees, like every catalog activity.
 
-Manfred Njallson's weekly strongboxes (50 Magnetite Shard + 4 Legendary Insight, 6 a week) are
-vendor sources written straight onto the content item (``manfred_sources``); the Season 4 chest
-is pick-one, so its six offers share one weekly limit through ``cap_group``.
-
-Heart vendors (5 packs of 5 for 2,688 Karma, once a day each; owner's sheet, one character) are
-vendor sources, one per vendor so each keeps its own daily limit of 1, not activities: a vendor
-purchase has no run time. ``config/legendary_insights.json`` adds Legendary Insight (currency 70)
+Manfred Njallson's weekly strongboxes and the heart vendors' material bundles are vendor sources
+written straight onto the content item, each with an ``offer`` naming what is bought (the box or
+bundle, boxes per purchase, items per box): Bundle of Winterberries holds 5 Fresh Winterberries,
+Bundle of Jade Shards 3 Jade Shards (tester feedback round 1, 2026-11-26). Vendors, costs, limits
+and locations come from the wiki's vendor rows for the box, contents from its 'Contains item'
+rows; config/ls3_currencies.json only names the boxes. The Season 4 chest is pick-one, so its six
+offers share one weekly limit through ``cap_group``. Heart vendors get one source per vendor so
+each keeps its own daily limit (1 when the wiki row has none; owner: once a day, one character);
+they are not activities: a vendor purchase has no run time. ``config/legendary_insights.json`` adds Legendary Insight (currency 70)
 as a weekly yield on the raid wings and unified strikes the catalog already has, plus two weekly
 extras (matchmaking milestones, daily raid bounties).
 """
 from __future__ import annotations
 
 import json
+import sys
 import urllib.parse
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki_sources as ws  # noqa: E402
 
 CONFIG = json.loads((Path(__file__).resolve().parent.parent / "config" / "ls3_currencies.json").read_text(encoding="utf-8"))
 WIKI = "https://wiki.guildwars2.com/wiki/"
@@ -67,9 +73,45 @@ def apply(final: dict[str, dict], nodes: dict[str, dict], maps: list[dict]) -> i
     return len(added)
 
 
-def manfred_sources(nodes: dict[str, dict]) -> int:
-    """Vendor sources for Manfred's boxes on the item nodes this pack has; returns how many were added."""
+def _contents(smw, offer: str, item: str) -> int | None:
+    """Items per box/bundle: the wiki's 'Contains item' row of ``item`` in ``offer`` (sure or picked)."""
+    for r in smw.get("contained", [item]).get(item, []):
+        box = (r.get("Contained in") or [""])[0]
+        chance = str((r.get("Has contained item chance") or [""])[0]).lower()
+        if box == offer and chance in ("guaranteed", "choice") and not ws._true(r.get("Is historical")):
+            return ws._int(r.get("Has contained item quantity"))
+    return None
+
+
+def _offer_sources(smw, offer: str, item: str, currencies: dict[str, int], warn: list[str]) -> list[dict]:
+    """One vendor source per wiki vendor row that sells ``offer`` (a box or bundle holding ``item``).
+    output_count = boxes per purchase x items per box; ``offer`` says what is bought:
+    {name, count (boxes per purchase), contains (items per box)}."""
+    per_box = _contents(smw, offer, item)
+    if not per_box:
+        warn.append(f"ls3: no sure contents of {item} in {offer} on the wiki; offer left out")
+        return []
+    out = []
+    for r in smw.get("vendor", [offer]).get(offer, []):
+        srcs, cost_items = ws.vendor_sources(offer, [r], currencies)
+        if cost_items:
+            warn.append(f"ls3: {offer} costs items ({', '.join(cost_items)}); offer left out")
+            continue
+        for s in srcs:
+            boxes = s["output_count"]
+            s["output_count"] = boxes * per_box
+            s["offer"] = {"name": offer, "count": boxes, "contains": per_box}
+            out.append(s)
+    if not out:
+        warn.append(f"ls3: no wiki vendor sells {offer}; offer left out")
+    return out
+
+
+def manfred_sources(nodes: dict[str, dict], smw, currencies: dict[str, int], warn: list[str] | None = None) -> int:
+    """Vendor sources for Manfred's boxes on the item nodes this pack has (cost, limit and contents
+    from the wiki); returns how many were added."""
     m = CONFIG["manfred"]
+    warn = [] if warn is None else warn
     by_name = {n["name"]: n for n in nodes.values() if n["id"].startswith("item:")}
     added = 0
     for o in m["offers"]:
@@ -77,32 +119,46 @@ def manfred_sources(nodes: dict[str, dict]) -> int:
             node = by_name.get(name)
             if not node:
                 continue
-            src = {"kind": "vendor", "inputs": sorted(m["cost"], key=lambda i: i["node_id"]),
-                   "output_count": o["count"], "weekly_cap": m["weekly_cap"]}
-            if o.get("pick_one"):
-                src["cap_group"] = f"{m['npc']}: {o['box']}"   # one box, one pick: the six offers share the limit
-            src["vendors"] = [{"npc": m["npc"], "locations": m["locations"], "requires": []}]
-            if src not in node["sources"]:
-                node["sources"].append(src)
-                added += 1
+            for src in _offer_sources(smw, o["box"], name, currencies, warn):
+                if [v["npc"] for v in src["vendors"]] != [m["npc"]]:
+                    continue   # another vendor sells the same box: not this config's offer
+                if o.get("pick_one"):
+                    src["cap_group"] = f"{m['npc']}: {o['box']}"   # one box, one pick: the six offers share the limit
+                    src["offer"]["choice"] = True                  # the player picks this item when opening it
+                if src not in node["sources"]:
+                    node["sources"].append(src)
+                    added += 1
     return added
 
 
-def heart_vendor_sources(nodes: dict[str, dict]) -> int:
-    """One vendor source per heart vendor (owner's sheet); returns how many were added."""
+def heart_vendor_sources(nodes: dict[str, dict], smw, currencies: dict[str, int], warn: list[str] | None = None) -> int:
+    """One vendor source per heart vendor that sells the item's bundle (wiki rows); returns how many were added."""
     h = CONFIG["heart_vendors"]
+    warn = [] if warn is None else warn
+    zone = {c["item_name"]: c["place"] for c in CONFIG["maps"].values()}
     by_name = {n["name"]: n for n in nodes.values() if n["id"].startswith("item:")}
     added = 0
-    for v in h["vendors"]:
-        node = by_name.get(v["item"])
+    for item, offer in h["offers"].items():
+        node = by_name.get(item)
         if not node:
             continue
-        src = {"kind": "vendor", "inputs": list(h["cost"]), "output_count": h["output_count"],
-               "daily_cap": h["daily_cap"],
-               "vendors": [{"npc": v["npc"], "locations": [v["location"], v["zone"]], "requires": []}]}
-        if src not in node["sources"]:
-            node["sources"].append(src)
-            added += 1
+        for src in _offer_sources(smw, offer, item, currencies, warn):
+            if not (src.get("daily_cap") or src.get("weekly_cap") or src.get("max_units")):
+                src["daily_cap"] = h["daily_cap_default"]   # the wiki row leaves the limit off (owner: once a day)
+            for v in src["vendors"]:
+                if zone.get(item) and zone[item] not in v["locations"]:
+                    v["locations"] = v["locations"] + [zone[item]]   # the map, so a waypoint resolves
+            if len(src["vendors"]) > 1:   # same price, caps and quantity: still one daily limit per vendor
+                for v in src["vendors"]:
+                    one = {**src, "vendors": [v]}
+                    one.pop("cap_group", None)
+                    if one not in node["sources"]:
+                        node["sources"].append(one)
+                        added += 1
+                continue
+            if src not in node["sources"]:
+                node["sources"].append(src)
+                added += 1
     return added
 
 

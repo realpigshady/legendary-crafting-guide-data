@@ -498,8 +498,13 @@ def _build(http: Http, out: Path, limit: int | None) -> dict:
                 srcs[:] = [x for x in srcs if x["kind"] != "other"] + [{"kind": "activity", "inputs": [], "activity_id": a["id"]}]
     # nearest waypoint per vendor (Crafting > Vendor button): wiki area -> API sector -> waypoint
     maps, _ = vwp.load(http.dir, http._fetch, http.offline)   # paced, retried; a failure here doesn't mark the API down
-    stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps), "manfred_sources": ls3.manfred_sources(nodes),
-                              "heart_vendor_sources": ls3.heart_vendor_sources(nodes), "insight_activities": ls3.insight_sources(final, nodes)}   # owner's per-map LS3 runs (config/ls3_currencies.json)
+    try:   # owner's per-map LS3 runs (config/ls3_currencies.json); Manfred's boxes and heart vendor bundles from the wiki
+        stats["ls3_currencies"] = {"gathering_activities": ls3.apply(final, nodes, maps),
+                                  "manfred_sources": ls3.manfred_sources(nodes, smw, currencies, warnings),
+                                  "heart_vendor_sources": ls3.heart_vendor_sources(nodes, smw, currencies, warnings),
+                                  "insight_activities": ls3.insight_sources(final, nodes)}
+    except wsrc.WikiSourcesDown as e:
+        raise SourceDown(str(e)) from e
     # Visions of Eternity daily currency sources, read from the wiki pages config/castora.json names (Data 4o)
     try:
         stats["castora"], cwarn = castora.apply(final, nodes, store, smw, maps)

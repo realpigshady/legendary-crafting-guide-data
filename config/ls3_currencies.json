@@ -49,57 +49,36 @@
     }
   },
   "manfred": {
-    "_note": "Manfred Njallson (Lion's Arch Aerodrome), weekly Materials section; owner 2026-11-09. Every box: 50 Magnetite Shard (currency 28) + 4 Legendary Insight (currency 70), 6 a week. Contents are the owner's counts; the Season 4 chest is pick-one, so its six offers share one weekly limit (cap_group). Modelled as the vendor selling the content directly, like the container exchange rows.",
+    "_note": "Manfred Njallson (Lion's Arch Aerodrome), weekly Materials section (owner 2026-11-09). Cost, weekly limit and location come from the wiki's vendor rows for each box ('Sells item' = the box), the box's contents from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the planner must know the box bought and what it gives). Each source is written onto the content item with an 'offer' (the box: name, boxes per purchase, items per box). The Season 4 chest is pick-one, so its six offers share one weekly limit (cap_group).",
     "npc": "Manfred Njallson",
-    "locations": [
-      "Lion's Arch Aerodrome"
-    ],
-    "cost": [
-      {
-        "node_id": "currency:28",
-        "count": 50
-      },
-      {
-        "node_id": "currency:70",
-        "count": 4
-      }
-    ],
-    "weekly_cap": 6,
     "offers": [
       {
         "box": "Winterberry Strongbox",
-        "item": "Fresh Winterberry",
-        "count": 100
+        "item": "Fresh Winterberry"
       },
       {
         "box": "Orrian Pearl Strongbox",
-        "item": "Orrian Pearl",
-        "count": 50
+        "item": "Orrian Pearl"
       },
       {
         "box": "Jade Shard Strongbox",
-        "item": "Jade Shard",
-        "count": 100
+        "item": "Jade Shard"
       },
       {
         "box": "Blood Ruby Strongbox",
-        "item": "Blood Ruby",
-        "count": 50
+        "item": "Blood Ruby"
       },
       {
         "box": "Fire Orchid Strongbox",
-        "item": "Fire Orchid Blossom",
-        "count": 50
+        "item": "Fire Orchid Blossom"
       },
       {
         "box": "Sack of Petrified Wood",
-        "item": "Petrified Wood",
-        "count": 50
+        "item": "Petrified Wood"
       },
       {
         "box": "Season 4 Material Chest (Raid)",
         "pick_one": true,
-        "count": 50,
         "items": [
           "Kralkatite Ore",
           "Difluorite Crystal",
@@ -112,184 +91,14 @@
     ]
   },
   "heart_vendors": {
-    "_note": "Owner's sheet (gw2_granular_materials_and_insights.xlsx, 2026-11-10). Each vendor sells one pack of 5 for 2,688 Karma, limit 1 per character per day. Counted for ONE character only (owner: no guarantee a player has or wants to use more). One source per vendor, so each carries its own daily cap of 1.",
-    "cost": [
-      {
-        "node_id": "currency:2",
-        "count": 2688
-      }
-    ],
-    "output_count": 5,
-    "daily_cap": 1,
-    "vendors": [
-      {
-        "zone": "Bitterfrost Frontier",
-        "item": "Fresh Winterberry",
-        "npc": "Farmer Simooba",
-        "location": "Dragon's Teeth Hot Springs",
-        "offer": "Bundle of Winterberries (Contains 5)"
-      },
-      {
-        "zone": "Bitterfrost Frontier",
-        "item": "Fresh Winterberry",
-        "npc": "Sun Warming",
-        "location": "Brakbrak Ice Snarl",
-        "offer": "Bundle of Winterberries (Contains 5)"
-      },
-      {
-        "zone": "Bitterfrost Frontier",
-        "item": "Fresh Winterberry",
-        "npc": "Svanir Seer",
-        "location": "The Svanir Hive",
-        "offer": "Bundle of Winterberries (Contains 5)"
-      },
-      {
-        "zone": "Bitterfrost Frontier",
-        "item": "Fresh Winterberry",
-        "npc": "Woomulla",
-        "location": "Griffon Old Growth",
-        "offer": "Bundle of Winterberries (Contains 5)"
-      },
-      {
-        "zone": "Ember Bay",
-        "item": "Petrified Wood",
-        "npc": "Scientist Arca",
-        "location": "Asura Camp",
-        "offer": "Petrified Log (Contains 5)"
-      },
-      {
-        "zone": "Ember Bay",
-        "item": "Petrified Wood",
-        "npc": "Castaway Sennen",
-        "location": "Shipwreck Beach",
-        "offer": "Petrified Log (Contains 5)"
-      },
-      {
-        "zone": "Ember Bay",
-        "item": "Petrified Wood",
-        "npc": "Melandru's Watcher",
-        "location": "Melandru's Dome",
-        "offer": "Petrified Log (Contains 5)"
-      },
-      {
-        "zone": "Ember Bay",
-        "item": "Petrified Wood",
-        "npc": "Skritt Sentry",
-        "location": "Caldera",
-        "offer": "Petrified Log (Contains 5)"
-      },
-      {
-        "zone": "Ember Bay",
-        "item": "Petrified Wood",
-        "npc": "Circus Master Panderet",
-        "location": "Promontory Waypoint",
-        "offer": "Petrified Log (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Imani",
-        "location": "Redleaf Refuge",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Commander Samuel",
-        "location": "Fort Evennia",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Minister Alphonse",
-        "location": "Lakeside Bazaar",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Noran",
-        "location": "Harvest Homestead",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Baroness Nicole",
-        "location": "New Loamhurst",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Lake Doric",
-        "item": "Jade Shard",
-        "npc": "Captain Jack",
-        "location": "Saidra's Haven",
-        "offer": "Packet of Jade Shards (Contains 5)"
-      },
-      {
-        "zone": "Draconis Mons",
-        "item": "Fire Orchid Blossom",
-        "npc": "Supply Master Forgehart",
-        "location": "Heathen's Hold",
-        "offer": "Bundle of Fire Orchids (Contains 5)"
-      },
-      {
-        "zone": "Draconis Mons",
-        "item": "Fire Orchid Blossom",
-        "npc": "Scout Ebba",
-        "location": "Ancient Hollow",
-        "offer": "Bundle of Fire Orchids (Contains 5)"
-      },
-      {
-        "zone": "Draconis Mons",
-        "item": "Fire Orchid Blossom",
-        "npc": "Researcher Jebb",
-        "location": "Rata Arcanum",
-        "offer": "Bundle of Fire Orchids (Contains 5)"
-      },
-      {
-        "zone": "Draconis Mons",
-        "item": "Fire Orchid Blossom",
-        "npc": "Ancient Hollow Spirit",
-        "location": "Savage Ledge",
-        "offer": "Bundle of Fire Orchids (Contains 5)"
-      },
-      {
-        "zone": "Siren's Landing",
-        "item": "Orrian Pearl",
-        "npc": "Shrine Keeper (Balthazar)",
-        "location": "Shrine of Balthazar",
-        "offer": "Package of Orrian Pearls (Contains 5)"
-      },
-      {
-        "zone": "Siren's Landing",
-        "item": "Orrian Pearl",
-        "npc": "Shrine Keeper (Dwayna)",
-        "location": "Shrine of Dwayna",
-        "offer": "Package of Orrian Pearls (Contains 5)"
-      },
-      {
-        "zone": "Siren's Landing",
-        "item": "Orrian Pearl",
-        "npc": "Shrine Keeper (Grenth)",
-        "location": "Shrine of Grenth",
-        "offer": "Package of Orrian Pearls (Contains 5)"
-      },
-      {
-        "zone": "Siren's Landing",
-        "item": "Orrian Pearl",
-        "npc": "Shrine Keeper (Lyssa)",
-        "location": "Shrine of Lyssa",
-        "offer": "Package of Orrian Pearls (Contains 5)"
-      },
-      {
-        "zone": "Siren's Landing",
-        "item": "Orrian Pearl",
-        "npc": "Shrine Keeper (Melandru)",
-        "location": "Shrine of Melandru",
-        "offer": "Package of Orrian Pearls (Contains 5)"
-      }
-    ]
+    "_note": "Heart vendor material bundles (owner's sheet 2026-11-10 named the maps and the once-a-day limit). Item -> the bundle the heart vendors sell for it. Vendors, Karma cost, locations and bundles per purchase come from the wiki's vendor rows for the bundle; items per bundle from the wiki's 'Contains item' rows (tester feedback round 1, 2026-11-26: the old sheet said 5 per pack for every map, the wiki says Jade Shards, Fire Orchid Blossoms and Orrian Pearls bundles hold 3, Petrified Wood 1, and four maps had other vendor names). The wiki leaves the daily limit off some rows: those get daily_cap_default (owner: 1 per character per day). One source per vendor, so each keeps its own daily limit. Counted for ONE character only.",
+    "daily_cap_default": 1,
+    "offers": {
+      "Fresh Winterberry": "Bundle of Winterberries",
+      "Jade Shard": "Bundle of Jade Shards",
+      "Fire Orchid Blossom": "Bundle of Fire Orchid Blossoms",
+      "Orrian Pearl": "Bundle of Orrian Pearls",
+      "Petrified Wood": "Bundle of Petrified Wood"
+    }
   }
 }

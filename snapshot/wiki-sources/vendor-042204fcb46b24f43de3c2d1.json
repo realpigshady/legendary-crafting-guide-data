@@ -1,0 +1,45 @@
+{
+"fetched": 1795713341.8621924,
+"item": "Winterberry Strongbox",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [],
+"Has item cost": [
+{
+"Has item currency": "Magnetite Shard",
+"Has item value": "50"
+},
+{
+"Has item currency": "Legendary Insight",
+"Has item value": "4"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Manfred Njallson"
+],
+"Has weekly purchase cap": [
+6
+],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Lion's Arch Aerodrome"
+],
+"Sells item": [
+"Winterberry Strongbox"
+],
+"_subject": "Manfred Njallson#vendor21"
+}
+]
+}

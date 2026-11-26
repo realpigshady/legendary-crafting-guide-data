@@ -237,6 +237,17 @@
                   "type": "boolean",
                   "description": "vendor + open_container: the input is salvaged (not opened) for this item; output_count = sure results per salvage"
                 },
+                "offer": {
+                  "type": "object",
+                  "description": "vendor: what is bought when it is not the item itself (a box or bundle that holds it). output_count = count x contains. Bundle of Winterberries: {name: Bundle of Winterberries, count: 1, contains: 5}; the row reads Buy 1x Bundle of Winterberries (5 Fresh Winterberry). Absent: the vendor sells the item itself, output_count per purchase",
+                  "required": ["name", "count", "contains"],
+                  "properties": {
+                    "name": {"type": "string", "description": "the item bought (wiki page name)"},
+                    "count": {"type": "integer", "minimum": 1, "description": "boxes per purchase"},
+                    "contains": {"type": "integer", "minimum": 1, "description": "items of this node per box"},
+                    "choice": {"type": "boolean", "description": "the box is pick-one: the player chooses this item when opening it"}
+                  }
+                },
                 "max_units": {
                   "type": [
                     "integer",

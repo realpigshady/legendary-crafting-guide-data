@@ -1,0 +1,140 @@
+{
+"fetched": 1795713341.7959766,
+"item": "Bundle of Winterberries",
+"kind": "vendor",
+"q": "d02facdde0bc",
+"rows": [
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Farmer Simooba"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Dragon's Teeth Hot Springs"
+],
+"Sells item": [
+"Bundle of Winterberries"
+],
+"_subject": "Farmer Simooba#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Sun Warming"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Brakbrak Ice Snarl"
+],
+"Sells item": [
+"Bundle of Winterberries"
+],
+"_subject": "Sun Warming#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Svanir Seer (Renown Heart NPC)"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"The Svanir Hive"
+],
+"Sells item": [
+"Bundle of Winterberries"
+],
+"_subject": "Svanir Seer (Renown Heart NPC)#vendor1"
+},
+{
+"Has context": [
+"NPC"
+],
+"Has daily purchase cap": [
+1
+],
+"Has item cost": [
+{
+"Has item currency": "Karma",
+"Has item value": "2688"
+}
+],
+"Has item quantity": [
+1
+],
+"Has requirement": [],
+"Has total purchase cap": [],
+"Has vendor": [
+"Woomulla"
+],
+"Has weekly purchase cap": [],
+"Is historical": [
+"f"
+],
+"Located in": [
+"Griffon Old Growth"
+],
+"Sells item": [
+"Bundle of Winterberries"
+],
+"_subject": "Woomulla#vendor1"
+}
+]
+}
