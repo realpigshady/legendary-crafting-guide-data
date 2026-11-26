@@ -1,18 +1,42 @@
 {
- "ls3_offer_vendors": {
+ "v_heart": {
   "action": "ask",
-  "query": "[[Sells item::Bundle of Winterberries||Bundle of Jade Shards||Bundle of Fire Orchid Blossoms||Bundle of Orrian Pearls||Bundle of Petrified Wood||Petrified Log||Packet of Jade Shards||Package of Orrian Pearls||Bundle of Fire Orchids||Bundle of Blood Rubies||Winterberry Strongbox||Jade Shard Strongbox||Orrian Pearl Strongbox||Blood Ruby Strongbox||Fire Orchid Strongbox||Sack of Petrified Wood||Season 4 Material Chest (Raid)]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500"
+  "query": "[[Sells item::Bundle of Winterberries||Bundle of Jade Shards||Bundle of Fire Orchid Blossoms||Bundle of Orrian Pearls||Bundle of Petrified Wood||Petrified Log]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "ls3_heart_npc_rows": {
+ "v_manf": {
   "action": "ask",
-  "query": "[[Has vendor::Farmer Simooba||Sun Warming||Svanir Seer||Woomulla||Scientist Arca||Castaway Sennen||Melandru's Watcher||Skritt Sentry||Circus Master Panderet||Imani||Commander Samuel||Minister Alphonse||Noran||Baroness Nicole||Captain Jack||Supply Master Forgehart||Scout Ebba||Researcher Jebb||Ancient Hollow Spirit||Shrine Keeper (Balthazar)||Shrine Keeper (Dwayna)||Shrine Keeper (Grenth)||Shrine Keeper (Lyssa)||Shrine Keeper (Melandru)]][[Has item cost.Has item currency::Karma]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500"
+  "query": "[[Sells item::Winterberry Strongbox||Orrian Pearl Strongbox||Jade Shard Strongbox||Blood Ruby Strongbox||Fire Orchid Strongbox||Sack of Petrified Wood]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "ls3_offer_ids": {
+ "v_s4": {
   "action": "ask",
-  "query": "[[Bundle of Winterberries||Bundle of Jade Shards||Bundle of Fire Orchid Blossoms||Bundle of Orrian Pearls||Bundle of Petrified Wood||Petrified Log||Packet of Jade Shards||Package of Orrian Pearls||Bundle of Fire Orchids||Bundle of Blood Rubies||Winterberry Strongbox||Jade Shard Strongbox||Orrian Pearl Strongbox||Blood Ruby Strongbox||Fire Orchid Strongbox||Sack of Petrified Wood||Season 4 Material Chest (Raid)]]|?Has game id|?Contains item|limit=100"
+  "query": "[[Sells item::Season 4 Material Chest (Raid)]][[Has vendor.Is historical::N]]|?Sells item|?Has vendor|?Has vendor.Has context|?Has item cost|?Has item quantity|?Located in|?Has requirement|?Is historical|?Has daily purchase cap|?Has weekly purchase cap|?Has total purchase cap|limit=500|offset=0"
  },
- "ls3_contains": {
+ "npc_0": {
   "action": "ask",
-  "query": "[[Contains item::Petrified Wood||Blood Ruby||Jade Shard||Fresh Winterberry||Fire Orchid Blossom||Orrian Pearl]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500"
+  "query": "[[Has vendor::Farmer Simooba||Sun Warming||Svanir Seer||Woomulla||Scientist Arca||Castaway Sennen]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "npc_1": {
+  "action": "ask",
+  "query": "[[Has vendor::Melandru's Watcher||Skritt Sentry||Circus Master Panderet||Imani||Commander Samuel||Minister Alphonse]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "npc_2": {
+  "action": "ask",
+  "query": "[[Has vendor::Noran||Baroness Nicole||Captain Jack||Supply Master Forgehart||Scout Ebba||Researcher Jebb]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "npc_3": {
+  "action": "ask",
+  "query": "[[Has vendor::Ancient Hollow Spirit||Shrine Keeper (Balthazar)||Shrine Keeper (Dwayna)||Shrine Keeper (Grenth)||Shrine Keeper (Lyssa)||Shrine Keeper (Melandru)]]|?Sells item|?Has item cost|?Has item quantity|?Has daily purchase cap|?Located in|limit=500"
+ },
+ "ids_heart": {
+  "action": "ask",
+  "query": "[[Bundle of Winterberries||Bundle of Jade Shards||Bundle of Fire Orchid Blossoms||Bundle of Orrian Pearls||Bundle of Petrified Wood||Petrified Log]]|?Has game id|limit=50"
+ },
+ "ids_manf": {
+  "action": "ask",
+  "query": "[[Winterberry Strongbox||Orrian Pearl Strongbox||Jade Shard Strongbox||Blood Ruby Strongbox||Fire Orchid Strongbox||Sack of Petrified Wood]]|?Has game id|limit=50"
+ },
+ "ids_s4": {
+  "action": "ask",
+  "query": "[[Season 4 Material Chest (Raid)]]|?Has game id|limit=50"
  }
 }
