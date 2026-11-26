@@ -1,0 +1,1692 @@
+{
+ "params": {
+  "action": "ask",
+  "query": "[[Contains item::Petrified Wood||Blood Ruby||Jade Shard||Fresh Winterberry||Fire Orchid Blossom||Orrian Pearl]]|?Contains item|?Contained in|?Has contained item chance|?Has contained item quantity|?Contained in.Is historical|limit=500"
+ },
+ "reply": {
+  "query": {
+   "printrequests": [
+    {
+     "label": "",
+     "key": "",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 2,
+     "format": false
+    },
+    {
+     "label": "Contains item",
+     "key": "Contains_item",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Contained in",
+     "key": "Contained_in",
+     "redi": "",
+     "typeid": "_wpg",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item chance",
+     "key": "Has_contained_item_chance",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Has contained item quantity",
+     "key": "Has_contained_item_quantity",
+     "redi": "",
+     "typeid": "_txt",
+     "mode": 1,
+     "format": ""
+    },
+    {
+     "label": "Is historical",
+     "key": "Is_historical",
+     "redi": "",
+     "typeid": "_boo",
+     "mode": 4,
+     "format": "",
+     "chain": "Contained in.Is historical"
+    }
+   ],
+   "results": {
+    "Black Lion Delivery Box (Season 3)#contains18": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains18",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains18",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Season 3)#contains26": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains26",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains26",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Season 3)#contains33": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains33",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains33",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Season 3)#contains42": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains42",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains42",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Season 3)#contains49": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains49",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains49",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Delivery Box (Season 3)#contains57": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Delivery Box (Season 3)",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2-5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Delivery Box (Season 3)#contains57",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Delivery_Box_(Season_3)#contains57",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains10": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 7"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains10",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains10",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains11": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains11",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains11",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains12": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains12",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains12",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains13": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains13",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains13",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains14": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains14",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains14",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Living World Supply Bag#contains15": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Living World Supply Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "3, 5, 9"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Living World Supply Bag#contains15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Living_World_Supply_Bag#contains15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains3": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains3",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains3",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains4": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains4",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains4",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains5": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains5",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains5",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "6-9"
+      ],
+      "Is historical": [
+       "t"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains27": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains27",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains27",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains28": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains28",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains28",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains29": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains29",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains29",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains30": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains30",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains30",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains31": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains31",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains31",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Black Lion Material Bag: Orr#contains32": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Black Lion Material Bag: Orr",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "4"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Black Lion Material Bag: Orr#contains32",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Black_Lion_Material_Bag:_Orr#contains32",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Blood Ruby Strongbox#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Blood Ruby Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Blood Ruby Strongbox#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby_Strongbox#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Fire Orchid Blossoms#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bundle of Fire Orchid Blossoms",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Fire_Orchid_Blossoms",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bundle of Fire Orchid Blossoms#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Fire_Orchid_Blossoms#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Jade Shards#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bundle of Jade Shards",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Jade_Shards",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bundle of Jade Shards#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Jade_Shards#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Orrian Pearls#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bundle of Orrian Pearls",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Orrian_Pearls",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bundle of Orrian Pearls#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Orrian_Pearls#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Petrified Wood#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bundle of Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bundle of Petrified Wood#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Petrified_Wood#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Bundle of Winterberries#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Bundle of Winterberries",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "5"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Bundle of Winterberries#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Bundle_of_Winterberries#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Bitterfrost Frontier Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Bitterfrost Frontier Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Bitterfrost_Frontier_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "2"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Bitterfrost Frontier Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Bitterfrost_Frontier_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Bloodstone Fen Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Blood Ruby",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Blood_Ruby",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Bloodstone Fen Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Bloodstone_Fen_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Bloodstone Fen Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Bloodstone_Fen_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Draconis Mons Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Draconis Mons Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Draconis_Mons_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Draconis Mons Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Draconis_Mons_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Ember Bay Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Ember Bay Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Ember_Bay_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Ember Bay Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Ember_Bay_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Lake Doric Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Lake Doric Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Lake_Doric_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Lake Doric Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Lake_Doric_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Chest of the Siren's Landing Hero#contains2": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Chest of the Siren's Landing Hero",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Siren%27s_Landing_Hero",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Chest of the Siren's Landing Hero#contains2",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Chest_of_the_Siren%27s_Landing_Hero#contains2",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Fire Orchid Strongbox#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Fire Orchid Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Fire Orchid Strongbox#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Strongbox#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Jade Shard Strongbox#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Jade Shard",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Jade Shard Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "100"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Jade Shard Strongbox#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Jade_Shard_Strongbox#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Orrian Coffer#contains24": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Orrian Coffer",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Coffer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "10"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Orrian Coffer#contains24",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Coffer#contains24",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Orrian Coffer#contains6": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Orrian Coffer",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Coffer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Orrian Coffer#contains6",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Coffer#contains6",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Orrian Pearl Strongbox#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Orrian Pearl",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Orrian Pearl Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Orrian Pearl Strongbox#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Orrian_Pearl_Strongbox#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Sack of Petrified Wood#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Sack of Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Sack_of_Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "50"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Sack of Petrified Wood#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Sack_of_Petrified_Wood#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Salvaged Debris#contains15": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Petrified Wood",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Petrified_Wood",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Salvaged Debris",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Debris",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Chance"
+      ],
+      "Has contained item quantity": [
+       "1-3"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Salvaged Debris#contains15",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Salvaged_Debris#contains15",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Winterberry Strongbox#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fresh Winterberry",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fresh_Winterberry",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Winterberry Strongbox",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Winterberry_Strongbox",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "100"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Winterberry Strongbox#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Winterberry_Strongbox#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    },
+    "Zaishen War Paint Kit#contains1": {
+     "printouts": {
+      "Contains item": [
+       {
+        "fulltext": "Fire Orchid Blossom",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Fire_Orchid_Blossom",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Contained in": [
+       {
+        "fulltext": "Zaishen War Paint Kit",
+        "fullurl": "https://wiki.guildwars2.com/wiki/Zaishen_War_Paint_Kit",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+       }
+      ],
+      "Has contained item chance": [
+       "Guaranteed"
+      ],
+      "Has contained item quantity": [
+       "1"
+      ],
+      "Is historical": [
+       "f"
+      ]
+     },
+     "fulltext": "Zaishen War Paint Kit#contains1",
+     "fullurl": "https://wiki.guildwars2.com/wiki/Zaishen_War_Paint_Kit#contains1",
+     "namespace": 0,
+     "exists": "1",
+     "displaytitle": ""
+    }
+   },
+   "serializer": "SMW\\Serializers\\QueryResultSerializer",
+   "version": 2,
+   "meta": {
+    "hash": "1d7095403f59dfb8be429dcee6275083",
+    "count": 45,
+    "offset": 0,
+    "source": "",
+    "time": "0.233991"
+   }
+  }
+ }
+}
