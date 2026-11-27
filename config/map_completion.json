@@ -16,5 +16,12 @@
     "Janthir Syntri": {"map_id": 1554, "expansion": "jw", "gift": "Gift of Janthir Syntri"},
     "Mistburned Barrens": {"map_id": 1575, "expansion": "jw", "gift": "Gift of Mistburned Barrens"},
     "Bava Nisos": {"map_id": 1574, "expansion": "jw", "gift": "Gift of Bava Nisos"}
+  },
+  "_lanterns_note": "Illuminating <map> lantern achievements (owner 2026-11-27, SPEC §6.7 'Map completion, then the repeatable'): repeatable achievements; each completion gives a Chest of the Obscure, which holds that map's gift (wiki 'Contained in': guaranteed, quantity 1). lantern_minutes: owner's estimate for one run (25 min); DRF refines it. after: the map whose completion activity opens the repeatable (the plan completes that map once, first, then repeats the lanterns; pack after_activity). Inner Nayos has none: the Gift of Inner Nayos is not a map completion reward (its other sources are the one-off Inner Nayos Mastery II and Secrets of the Obscure: The Realm of Dreams Mastery achievements and Gharr Leadclaw's vendor, which itself requires Illuminating Inner Nayos), so its lanterns are open from the start. Inner Nayos lanterns are in Heitor's Territory and Nyedra Surrounds, both on map 1526.",
+  "lantern_minutes": 25,
+  "lanterns": {
+    "Illuminating Skywatch Archipelago": {"lanterns": 57, "map_id": 1510, "expansion": "soto", "gift": "Gift of Skywatch Archipelago", "after": "Skywatch Archipelago"},
+    "Illuminating Amnytas": {"lanterns": 55, "map_id": 1517, "expansion": "soto", "gift": "Gift of Amnytas", "after": "Amnytas"},
+    "Illuminating Inner Nayos": {"lanterns": 43, "map_id": 1526, "expansion": "soto", "gift": "Gift of Inner Nayos", "after": null, "areas": "Heitor's Territory and Nyedra Surrounds"}
   }
 }

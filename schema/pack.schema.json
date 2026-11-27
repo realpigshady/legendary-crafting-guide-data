@@ -442,6 +442,10 @@
             "type": "boolean",
             "description": "once per character (map completion): each character that has not done it can do it once, so the account can repeat it on its other characters"
           },
+          "after_activity": {
+            "type": "string",
+            "description": "id of the activity that opens this one (Illuminating <map> lanterns after that map's completion, SPEC §6.7): the planner runs the opener once, first, unless a gift it gives is in stock, and takes every repeat from this one"
+          },
           "max_runs_per_week": {
             "type": "integer",
             "minimum": 1,
@@ -481,7 +485,7 @@
           },
           "repeatable": {
             "type": "boolean",
-            "description": "reward track: can be repeated (false = once per account)"
+            "description": "reward track: can be repeated (false = once per account); also true on the repeatable Illuminating <map> lantern achievements"
           },
           "retiring": {
             "type": "boolean",
